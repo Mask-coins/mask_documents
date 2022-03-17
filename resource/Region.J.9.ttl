@@ -1,0 +1,65 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+mr:南西諸島
+    a mo:GeoEntity ;
+    rdfs:label "南西諸島"@ja ;
+    mo:Category mc:Region.J.9;
+    mo:SubRegion mr:大隅諸島 ;
+    mo:SubRegion mr:奄美群島 ;
+    mo:SubRegion mr:沖縄諸島 ;
+    mo:SubRegion mr:先島諸島 ;
+    mo:SubRegion mr:大東諸島 ;
+    rdfs:comment ""@ja .
+
+mr:奄美群島
+    a mo:GeoEntity ;
+    rdfs:label "奄美群島"@ja ;
+    mo:Category mc:Region.J.9;
+    rdfs:comment ""@ja .
+
+mr:沖縄諸島
+    a mo:GeoEntity ;
+    rdfs:label "沖縄諸島"@ja ;
+    mo:Category mc:Region.J.9;
+    rdfs:comment ""@ja .
+
+mr:先島諸島
+    a mo:GeoEntity ;
+    rdfs:label "先島諸島"@ja ;
+    rdfs:label "先島群島"@ja ;
+    mo:Category mc:Region.J.9;
+    mo:SubRegion mr:宮古列島 ;
+    mo:SubRegion mr:八重山列島 ;
+    mo:SubRegion mr:尖閣諸島 ;
+    rdfs:comment ""@ja .
+
+mr:宮古列島
+    a mo:GeoEntity ;
+    rdfs:label "宮古列島"@ja ;
+    mo:Category mc:Region.J.9;
+    rdfs:comment ""@ja .
+
+mr:八重山列島
+    a mo:GeoEntity ;
+    rdfs:label "八重山列島"@ja ;
+    mo:Category mc:Region.J.9;
+    rdfs:comment ""@ja .
+
+mr:尖閣諸島
+    a mo:GeoEntity ;
+    rdfs:label "尖閣諸島"@ja ;
+    mo:Category mc:Region.J.9;
+    rdfs:comment ""@ja .
+
+mr:大東諸島
+    a mo:GeoEntity ;
+    rdfs:label "大東諸島"@ja ;
+    mo:Category mc:Region.J.9;
+    rdfs:comment ""@ja .
+

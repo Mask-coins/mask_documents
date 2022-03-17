@@ -68,15 +68,6 @@ mr:九州地方
 
 
 # ==============================
-# ■琉球地方
-
-mr:沖縄諸島
-    a mo:GeoEntity ;
-    rdfs:label "沖縄諸島"@ja ;
-    mo:Category mc:Region.J.9;
-    rdfs:comment ""@ja .
-
-# ==============================
 # ■オセアニア
 
 mr:Oceania
