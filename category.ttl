@@ -1,0 +1,33 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+
+mc:Region
+    rdfs:label "地域情報カテゴリ"@ja ;
+    mo:SubCategory mc:Region.Oc ;
+    mo:SubCategory mc:Region.J ;
+    mo:SubCategory mc:Region.As ;
+    mo:SubCategory mc:Region.Af ;
+    mo:SubCategory mc:Region.Eu ;
+    mo:SubCategory mc:Region.Am ;
+    mo:SubCategory mc:Region.Antarctica ;
+    mo:SubCategory mc:Region.Others ;
+    a mo:Category .
+
+mc:Region.J
+    rdfs:label "地域情報：日本"@ja ;
+    mo:SubCategory mc:Region.J.1 ;
+    mo:SubCategory mc:Region.J.2 ;
+    mo:SubCategory mc:Region.J.3 ;
+    mo:SubCategory mc:Region.J.4 ;
+    mo:SubCategory mc:Region.J.5 ;
+    mo:SubCategory mc:Region.J.6 ;
+    mo:SubCategory mc:Region.J.7 ;
+    mo:SubCategory mc:Region.J.8 ;
+    mo:SubCategory mc:Region.J.9 ;
+    a mo:Category .
+
+

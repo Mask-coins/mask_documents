@@ -1,0 +1,77 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+
+mr:福井県嶺南地方
+    rdfs:label "嶺南"@ja ;
+    rdfs:label "嶺南地方"@ja ;
+    rdfs:label "福井県嶺南"@ja ;
+    rdfs:label "福井県嶺南地方"@ja ;
+    mo:Category mc:Region.J.5.N.嶺南;
+    mo:SubRegion mr:JP福井県敦賀市 ;
+    mo:SubRegion mr:JP福井県三方郡美浜町 ;
+    mo:SubRegion mr:JP福井県三方上中郡若狭町 ;
+    mo:SubRegion mr:JP福井県小浜市 ;
+    mo:SubRegion mr:JP福井県大飯郡おおい町 ;
+    mo:SubRegion mr:JP福井県大飯郡高浜町 ;
+    a mo:GeoEntity .
+
+mr:山陰地方
+    rdfs:label "山陰"@ja ;
+    rdfs:label "山陰地方"@ja ;
+    mo:Category mc:Region.J.6.N;
+    mo:SubRegion mr:JP鳥取県 ;
+    mo:SubRegion mr:JP島根県 ;
+    a mo:GeoEntity .
+
+mr:隠岐地方
+    rdfs:label "隠岐"@ja ;
+    rdfs:label "隠岐島"@ja ;
+    rdfs:label "隠岐諸島"@ja ;
+    rdfs:label "隠岐群島"@ja ;
+    mo:Category mc:Region.J.6.N.隠岐;
+    mo:SubRegion mr:隠岐島前 ;
+    mo:SubRegion mr:隠岐島後 ;
+    a mo:GeoEntity .
+
+mr:隠岐島前
+    rdfs:label "島前"@ja ;
+    rdfs:label "島前諸島"@ja ;
+    mo:SubRegion mr:隠岐中ノ島 ;
+    mo:SubRegion mr:隠岐西ノ島 ;
+    mo:SubRegion mr:隠岐知夫里島 ;
+    a mo:GeoEntity .
+
+mr:隠岐知夫里島
+    rdfs:label "知夫里島"@ja ;
+    mo:SameRegion mr:JP隠岐郡知夫村 ;
+    a mo:GeoEntity .
+
+mr:隠岐西ノ島
+    rdfs:label "西ノ島"@ja ;
+    mo:SameRegion mr:JP隠岐郡西ノ島町 ;
+    a mo:GeoEntity .
+
+mr:隠岐中ノ島
+    rdfs:label "中ノ島"@ja ;
+    mo:SameRegion mr:JP隠岐郡海士町 ;
+    a mo:GeoEntity .
+
+mr:隠岐島後
+    rdfs:label "島後"@ja ;
+    rdfs:label "島後島"@ja ;
+    mo:SameRegion mr:JP隠岐郡隠岐の島町 ;
+    a mo:GeoEntity .
+
+mr:阿波上郡地方
+    rdfs:label "上郡"@ja ;
+    mo:SubRegion mr:JP徳島県美馬市 ;
+    mo:SubRegion mr:JP徳島県美馬郡つるぎ町 ;
+    mo:SubRegion mr:JP徳島県三好郡東みよし町 ;
+    mo:SubRegion mr:JP徳島県三好市 ;
+    a mo:GeoEntity .
+
+

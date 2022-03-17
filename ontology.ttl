@@ -1,0 +1,45 @@
+@base <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+
+mo:date
+    rdfs:label "date"@en;
+    rdfs:label "日付"@ja;
+    a rdf:Property.
+
+mo:dateTime
+    rdfs:label "date time"@en;
+    rdfs:label "日時"@ja;
+    a rdf:Property.
+
+mo:dateTime
+    rdfs:label "date time"@en;
+    rdfs:label "日時"@ja;
+    a rdfs:Class.
+
+mo:Event
+    a rdfs:Class.
+
+mo:GeoEntity
+    rdfs:label "地理エンティティ"@ja;
+    a rdfs:Class.
+
+mo:GeoEntityDefenition
+    rdfs:label "曖昧な地理エンティティの定義の一つ"@ja;
+    a rdfs:Class.
+
+mo:SubRegion
+    a rdf:Property.
+
+mo:SameRegion
+    a rdf:Property.
+
+mo:Category
+    a rdfs:Class.
+
+mo:SubCategory
+    a rdf:Property.
+
+
