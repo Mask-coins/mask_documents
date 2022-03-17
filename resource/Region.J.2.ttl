@@ -58,12 +58,45 @@ mr:下北地方
     mo:SubRegion mr:JP_青森県下北郡東通村 ;
     rdfs:comment "青森県の北東部、下北半島の地域。"@ja .
 
-<http://nanyanen.jp/geo-hist/konanbu.html>
-    rdfs:label "「小南部領の青森県への編入」に関する事実関係"@ja ;
-    mo:HomeURL <http://nanyanen.jp/> ;
-    mo:date "2020-10-28"^^xs:date ;
-    mo:date "2020-10-29"^^xs:date ;
-    a mo:WebSite.
+mr:JP_岩手県
+    a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "岩手県"@ja ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/岩手県> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/岩手県>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?岩手県>;
+    rdfs:comment ""@ja .
+
+mr:JP_秋田県
+    a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "秋田県"@ja ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/秋田県> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/秋田県>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?秋田県>;
+    rdfs:comment ""@ja .
+
+mr:JP_宮城県
+    a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "宮城県"@ja ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/宮城県> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/宮城県>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?宮城県>;
+    rdfs:comment ""@ja .
+
+mr:JP_山形県
+    a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "山形県"@ja ;
+    mo:SubRegion mr:庄内地方 ;
+    mo:SubRegion mr:最上地方 ;
+    mo:SubRegion mr:村山地方 ;
+    mo:SubRegion mr:置賜地方 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/山形県> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/山形県>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?山形県>;
+    rdfs:comment ""@ja .
 
 mr:JP_福島県
     a mo:GeoEntity ;

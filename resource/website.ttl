@@ -8,3 +8,11 @@
     rdfs:label "戸田孝の雑学資料室"@ja ;
     a mo:WebSite.
 
+<http://nanyanen.jp/geo-hist/konanbu.html>
+    rdfs:label "「小南部領の青森県への編入」に関する事実関係"@ja ;
+    mo:HomeURL <http://nanyanen.jp/> ;
+    mo:date "2020-10-28"^^xs:date ;
+    mo:date "2020-10-29"^^xs:date ;
+    mo:Category mc:Region.J.2;
+    a mo:WebSite.
+
