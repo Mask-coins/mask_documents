@@ -6,6 +6,7 @@
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 
 mc:Region
+    a mo:Category ;
     rdfs:label "地域情報カテゴリ"@ja ;
     mo:SubCategory mc:Region.Oc ;
     mo:SubCategory mc:Region.J ;
@@ -15,9 +16,10 @@ mc:Region
     mo:SubCategory mc:Region.Am ;
     mo:SubCategory mc:Region.Antarctica ;
     mo:SubCategory mc:Region.Others ;
-    a mo:Category .
+    rdfs:comment "地域に関するカテゴリ"@ja .
 
 mc:Region.J
+    a mo:Category ;
     rdfs:label "地域情報：日本"@ja ;
     mo:SubCategory mc:Region.J.1 ;
     mo:SubCategory mc:Region.J.2 ;
@@ -28,6 +30,6 @@ mc:Region.J
     mo:SubCategory mc:Region.J.7 ;
     mo:SubCategory mc:Region.J.8 ;
     mo:SubCategory mc:Region.J.9 ;
-    a mo:Category .
+    rdfs:comment "日本の地域についてのカテゴリ"@ja .
 
 
