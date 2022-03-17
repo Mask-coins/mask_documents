@@ -25,6 +25,8 @@ mr:東北地方
 
 mr:JP_青森県
     a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "青森県"@ja ;
     mo:SubRegion mr:津軽地方 ;
     mo:SubRegion mr:青森県南部地方 ;
     schema:sameAs <https://ja.wikipedia.org/wiki/青森県> ;
@@ -34,14 +36,27 @@ mr:JP_青森県
 
 mr:津軽地方
     a mo:GeoEntity ;
+    rdfs:label "津軽地方"@ja ;
     mo:Category mc:Region.J.2;
     rdfs:comment "青森県の西部"@ja .
 
 mr:青森県南部地方
     a mo:GeoEntity ;
+    rdfs:label "南部地方"@ja ;
     mo:Category mc:Region.J.2;
     mo:Reference <http://nanyanen.jp/geo-hist/konanbu.html> ;
     rdfs:comment "青森県の東部"@ja .
+
+mr:下北地方
+    a mo:GeoEntity ;
+    rdfs:label "下北地方"@ja ;
+    mo:Category mc:Region.J.2;
+    mo:SubRegion mr:JP_青森県むつ市 ;
+    mo:SubRegion mr:JP_青森県下北郡佐井村 ;
+    mo:SubRegion mr:JP_青森県下北郡大間町 ;
+    mo:SubRegion mr:JP_青森県下北郡風間浦村 ;
+    mo:SubRegion mr:JP_青森県下北郡東通村 ;
+    rdfs:comment "青森県の北東部、下北半島の地域。"@ja .
 
 <http://nanyanen.jp/geo-hist/konanbu.html>
     rdfs:label "「小南部領の青森県への編入」に関する事実関係"@ja ;

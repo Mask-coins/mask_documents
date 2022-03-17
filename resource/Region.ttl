@@ -46,7 +46,7 @@ mr:中四国地方
 # ==============================
 # ■四国地方
 
-mr:中国地方
+mr:四国地方
     a mo:GeoEntity ;
     rdfs:label "四国"@ja ;
     rdfs:label "四国地方"@ja ;
@@ -76,9 +76,9 @@ mr:九州地方
 # ==============================
 # ■琉球地方
 
-mr:琉球地方
+mr:沖縄諸島
     a mo:GeoEntity ;
-    rdfs:label "琉球地方"@ja ;
+    rdfs:label "沖縄諸島"@ja ;
     mo:Category mc:Region.J.9;
     rdfs:comment ""@ja .
 
