@@ -7,12 +7,6 @@
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 
 # ==============================
-# ■関東地方
-
-
-
-
-# ==============================
 # ■関西地方
 
 mr:福井県嶺南地方

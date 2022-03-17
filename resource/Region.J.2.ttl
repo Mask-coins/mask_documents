@@ -65,4 +65,16 @@ mr:下北地方
     mo:date "2020-10-29"^^xs:date ;
     a mo:WebSite.
 
+mr:JP_福島県
+    a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "福島県"@ja ;
+    mo:SubRegion mr:浜通り地方 ;
+    mo:SubRegion mr:中通り地方 ;
+    mo:SubRegion mr:会津地方 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/福島県> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/福島県>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?福島県>;
+    rdfs:comment ""@ja .
+
 

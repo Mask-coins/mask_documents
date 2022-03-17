@@ -1,0 +1,61 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+mr:関東地方
+    a mo:GeoEntity ;
+    rdfs:label "関東"@ja ;
+    rdfs:label "関東地方"@ja ;
+    mo:Category mc:Region.J.3;
+    mo:SubRegion mr:JP_茨城県 ;
+    mo:SubRegion mr:JP_栃木県 ;
+    mo:SubRegion mr:JP_群馬県 ;
+    mo:SubRegion mr:JP_千葉県 ;
+    mo:SubRegion mr:JP_埼玉県 ;
+    mo:SubRegion mr:JP_東京都 ;
+    mo:SubRegion mr:JP_神奈川県 ;
+    rdfs:comment ""@ja .
+
+mr:JP_茨城県つくば市
+    a mo:GeoEntity ;
+    a mo:施行時特例市 ;
+    rdfs:label "つくば市"@ja ;
+    mo:Category mc:Region.J.3;
+    mo:SubRegion mr:つくば市筑波地区 ;
+    mo:SubRegion mr:つくば市大穂地区 ;
+    mo:SubRegion mr:つくば市豊里地区 ;
+    mo:SubRegion mr:つくば市桜地区 ;
+    mo:SubRegion mr:つくば市谷田部地区 ;
+    mo:SubRegion mr:つくば市茎崎地区 ;
+    mo:SubRegion mr:つくば市中央地区 ;
+    mo:SubRegion mr:つくば市TX沿線開発地区 ;
+    rdfs:comment ""@ja .
+
+mr:つくば市中心地区
+    a mo:GeoEntity ;
+    rdfs:label "中央地区"@ja ;
+    rdfs:label "研究学園地区"@ja ;
+    mo:SubRegion mr:つくば市中根・金田台地区 ;
+    mo:SubRegion mr:つくば市葛城地区 ;
+    mo:SubRegion mr:つくば市上河原崎・中西地区 ;
+    mo:SubRegion mr:つくば市島名・福田坪地区 ;
+    mo:SubRegion mr:つくば市萱丸地区 ;
+    rdfs:comment ""@ja .
+
+mr:つくば市TX沿線開発地区
+    a mo:GeoEntity ;
+    rdfs:label "TX沿線開発地区"@ja ;
+    mo:SubRegion mr:つくば市中根・金田台地区 ;
+    mo:SubRegion mr:つくば市葛城地区 ;
+    mo:SubRegion mr:つくば市上河原崎・中西地区 ;
+    mo:SubRegion mr:つくば市島名・福田坪地区 ;
+    mo:SubRegion mr:つくば市萱丸地区 ;
+    rdfs:comment ""@ja .
+
+
+
+
