@@ -1,0 +1,53 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+mr:東北地方
+    a mo:GeoEntity ;
+    rdfs:label "東北"@ja ;
+    rdfs:label "東北地方"@ja ;
+    rdfs:label "奥羽"@ja ;
+    mo:Category mc:Region.J.2;
+    mo:SubRegion mr:JP_青森県 ;
+    mo:SubRegion mr:JP_岩手県 ;
+    mo:SubRegion mr:JP_秋田県 ;
+    mo:SubRegion mr:JP_宮城県 ;
+    mo:SubRegion mr:JP_山形県 ;
+    mo:SubRegion mr:JP_福島県 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/東北地方> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/東北地方>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?東北地方>;
+    rdfs:comment ""@ja .
+
+mr:JP_青森県
+    a mo:GeoEntity ;
+    mo:SubRegion mr:津軽地方 ;
+    mo:SubRegion mr:青森県南部地方 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/青森県> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/青森県>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?青森県>;
+    rdfs:comment ""@ja .
+
+mr:津軽地方
+    a mo:GeoEntity ;
+    mo:Category mc:Region.J.2;
+    rdfs:comment "青森県の西部"@ja .
+
+mr:青森県南部地方
+    a mo:GeoEntity ;
+    mo:Category mc:Region.J.2;
+    mo:Reference <http://nanyanen.jp/geo-hist/konanbu.html> ;
+    rdfs:comment "青森県の東部"@ja .
+
+<http://nanyanen.jp/geo-hist/konanbu.html>
+    rdfs:label "「小南部領の青森県への編入」に関する事実関係"@ja ;
+    mo:HomeURL <http://nanyanen.jp/> ;
+    mo:date "2020-10-28"^^xs:date ;
+    mo:date "2020-10-29"^^xs:date ;
+    a mo:WebSite.
+
+

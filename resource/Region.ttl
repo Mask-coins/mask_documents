@@ -1,0 +1,112 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+# ==============================
+# ■関東地方
+
+
+
+
+# ==============================
+# ■関西地方
+
+mr:福井県嶺南地方
+    a mo:GeoEntity ;
+    rdfs:label "嶺南"@ja ;
+    rdfs:label "嶺南地方"@ja ;
+    rdfs:label "福井県嶺南"@ja ;
+    rdfs:label "福井県嶺南地方"@ja ;
+    mo:Category mc:Region.J.5.N.嶺南;
+    mo:SubRegion mr:JP_福井県敦賀市 ;
+    mo:SubRegion mr:JP_福井県三方郡美浜町 ;
+    mo:SubRegion mr:JP_福井県三方上中郡若狭町 ;
+    mo:SubRegion mr:JP_福井県小浜市 ;
+    mo:SubRegion mr:JP_福井県大飯郡おおい町 ;
+    mo:SubRegion mr:JP_福井県大飯郡高浜町 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/嶺南> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/嶺南>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?福井県嶺南>;
+    rdfs:comment ""@ja .
+
+# ==============================
+# ■中国地方
+
+mr:中四国地方
+    a mo:GeoEntity ;
+    rdfs:label "中四国地方"@ja ;
+    mo:Category mc:Region.J.6;
+    mo:Category mc:Region.J.7;
+    rdfs:comment ""@ja .
+
+# ==============================
+# ■四国地方
+
+mr:中国地方
+    a mo:GeoEntity ;
+    rdfs:label "四国"@ja ;
+    rdfs:label "四国地方"@ja ;
+    mo:Category mc:Region.J.7;
+    rdfs:comment ""@ja .
+
+mr:阿波上郡地方
+    a mo:GeoEntity ;
+    rdfs:label "上郡"@ja ;
+    mo:Category mc:Region.J.7;
+    mo:SubRegion mr:JP_徳島県美馬市 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町 ;
+    mo:SubRegion mr:JP_徳島県三好市 ;
+    rdfs:comment ""@ja .
+
+# ==============================
+# ■九州地方
+
+mr:九州地方
+    a mo:GeoEntity ;
+    rdfs:label "九州地方"@ja ;
+    mo:Category mc:Region.J.8;
+    rdfs:comment ""@ja .
+
+
+# ==============================
+# ■琉球地方
+
+mr:琉球地方
+    a mo:GeoEntity ;
+    rdfs:label "琉球地方"@ja ;
+    mo:Category mc:Region.J.9;
+    rdfs:comment ""@ja .
+
+# ==============================
+# ■オセアニア
+
+mr:Oceania
+    a mo:GeoEntity ;
+    rdfs:label "Oceania"@en ;
+    rdfs:label "オセアニア"@ja ;
+    mo:Category mc:Region.Os;
+    rdfs:comment ""@ja .
+
+
+# ==============================
+# ■アジア
+
+mr:Asia
+    a mo:GeoEntity ;
+    rdfs:label "Asia"@en ;
+    rdfs:label "アジア"@ja ;
+    mo:Category mc:Region.As;
+    rdfs:comment ""@ja .
+
+
+
+
+
+
+
+
