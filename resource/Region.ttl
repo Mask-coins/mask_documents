@@ -103,6 +103,39 @@ mr:Asia
     mo:Category mc:Region.As;
     rdfs:comment ""@ja .
 
+# ==============================
+# ■アフリカ
+
+mr:Africa
+    a mo:GeoEntity ;
+    rdfs:label "Africa"@en ;
+    rdfs:label "アフリカ"@ja ;
+    mo:Category mc:Region.Af;
+    rdfs:comment ""@ja .
+
+# ==============================
+# ■ヨーロッパ
+
+mr:Europe
+    a mo:GeoEntity ;
+    rdfs:label "Europe"@en ;
+    rdfs:label "ヨーロッパ"@ja ;
+    rdfs:label "欧州"@ja ;
+    mo:Category mc:Region.Eu;
+    rdfs:comment ""@ja .
+
+# ==============================
+# ■アメリカ
+
+mr:America
+    a mo:GeoEntity ;
+    rdfs:label "America"@en ;
+    rdfs:label "アメリカ大陸"@ja ;
+    rdfs:label "米州大陸"@ja ;
+    mo:Category mc:Region.Am;
+    rdfs:comment ""@ja .
+
+
 
 
 
