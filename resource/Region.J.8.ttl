@@ -6,8 +6,14 @@
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 
-mc:Region.J.8
-    a mo:Category ;
-    rdfs:label "地域情報：九州地方"@ja ;
-    rdfs:comment "九州地方についてのカテゴリ"@ja .
+mr:薩南諸島
+    a mo:GeoEntity ;
+    rdfs:label "薩南諸島"@ja ;
+    mo:Category mc:Region.J.9;
+    mo:SubRegion mr:大隅諸島 ;
+    mo:SubRegion mr:トカラ列島 ;
+    mo:SubRegion mr:奄美群島 ;
+    rdfs:comment ""@ja .
+
+
 

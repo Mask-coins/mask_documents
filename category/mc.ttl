@@ -72,14 +72,44 @@ mc:Region.J.1
     rdfs:label "地域情報：北海道"@ja ;
     rdfs:comment "北海道についてのカテゴリ"@ja .
 
+mc:Region.J.2
+    a mo:Category ;
+    rdfs:label "地域情報：東北地方"@ja ;
+    rdfs:comment "東北地方についてのカテゴリ"@ja .
+
+mc:Region.J.3
+    a mo:Category ;
+    rdfs:label "地域情報：関東地方"@ja ;
+    rdfs:comment "関東地方についてのカテゴリ"@ja .
+
+mc:Region.J.4
+    a mo:Category ;
+    rdfs:label "地域情報：中部地方"@ja ;
+    rdfs:comment "関東地方についてのカテゴリ"@ja .
+
 mc:Region.J.5
     a mo:Category ;
     rdfs:label "地域情報：関西地方"@ja ;
     rdfs:comment "関西地方についてのカテゴリ"@ja .
 
+mc:Region.J.6
+    a mo:Category ;
+    rdfs:label "地域情報：中国地方"@ja ;
+    rdfs:comment "中国地方についてのカテゴリ"@ja .
+
 mc:Region.J.7
     a mo:Category ;
     rdfs:label "地域情報：四国地方"@ja ;
     rdfs:comment "四国地方についてのカテゴリ"@ja .
+
+mc:Region.J.8
+    a mo:Category ;
+    rdfs:label "地域情報：九州地方"@ja ;
+    rdfs:comment "九州地方についてのカテゴリ"@ja .
+
+mc:Region.J.9
+    a mo:Category ;
+    rdfs:label "地域情報：奄美・沖縄県地方"@ja ;
+    rdfs:comment "奄美・沖縄県地方についてのカテゴリ"@ja .
 
 

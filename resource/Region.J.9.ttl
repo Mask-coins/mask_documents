@@ -6,11 +6,6 @@
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 
-mc:Region.J.9
-    a mo:Category ;
-    rdfs:label "地域情報：奄美・沖縄県地方"@ja ;
-    rdfs:comment "奄美・沖縄県地方についてのカテゴリ"@ja .
-
 mr:南西諸島
     a mo:GeoEntity ;
     rdfs:label "南西諸島"@ja ;

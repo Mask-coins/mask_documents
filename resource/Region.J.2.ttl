@@ -6,11 +6,6 @@
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 
-mc:Region.J.2
-    a mo:Category ;
-    rdfs:label "地域情報：東北地方"@ja ;
-    rdfs:comment "東北地方についてのカテゴリ"@ja .
-
 mr:東北地方
     a mo:GeoEntity ;
     rdfs:label "東北"@ja ;
