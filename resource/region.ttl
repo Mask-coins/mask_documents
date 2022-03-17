@@ -1,6 +1,7 @@
 @prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
 @prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
@@ -18,6 +19,8 @@ mr:福井県嶺南地方
     mo:SubRegion mr:JP福井県小浜市 ;
     mo:SubRegion mr:JP福井県大飯郡おおい町 ;
     mo:SubRegion mr:JP福井県大飯郡高浜町 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/嶺南> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/嶺南>;
     rdfs:comment ""@ja .
 
 mr:山陰地方
