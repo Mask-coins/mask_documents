@@ -8,8 +8,8 @@
 mc:Region
     a mo:Category ;
     rdfs:label "地域情報カテゴリ"@ja ;
-    mo:SubCategory mc:Region.Oc ;
     mo:SubCategory mc:Region.J ;
+    mo:SubCategory mc:Region.Oc ;
     mo:SubCategory mc:Region.As ;
     mo:SubCategory mc:Region.Af ;
     mo:SubCategory mc:Region.Eu ;

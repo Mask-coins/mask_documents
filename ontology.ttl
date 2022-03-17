@@ -28,7 +28,7 @@ mo:GeoEntity
 
 mo:GeoEntityDefenition
     rdfs:label "曖昧な地理エンティティの定義の一つ"@ja;
-    a rdfs:Class.
+    a rdfs:Property.
 
 mo:SubRegion
     a rdf:Property.
@@ -41,5 +41,17 @@ mo:Category
 
 mo:SubCategory
     a rdf:Property.
+
+mo:Reference
+    rdfs:label "参考文献"@ja;
+    a rdf:Property.
+
+mo:HomeURL
+    rdfs:label "親ページのタイトル"@ja;
+    a rdf:Property.
+
+mo:WebSite
+    rdfs:label "親ページのタイトル"@ja;
+    a rdf:Class.
 
 
