@@ -14,6 +14,7 @@ mr:東北地方
     rdfs:label "東北"@ja ;
     rdfs:label "東北地方"@ja ;
     rdfs:label "奥羽"@ja ;
+    mo:Category mc:Region.J.2;
     mo:SubRegion mr:JP_青森県 ;
     mo:SubRegion mr:JP_岩手県 ;
     mo:SubRegion mr:JP_秋田県 ;
@@ -57,6 +58,7 @@ mr:中部地方
     a mo:GeoEntity ;
     rdfs:label "中部"@ja ;
     rdfs:label "中部地方"@ja ;
+    mo:Category mc:Region.J.4;
     mo:SubRegion mr:JP_新潟県 ;
     mo:SubRegion mr:JP_長野県 ;
     mo:SubRegion mr:JP_山梨県 ;
@@ -70,6 +72,7 @@ mr:北陸地方
     a mo:GeoEntity ;
     rdfs:label "北陸"@ja ;
     rdfs:label "北陸地方"@ja ;
+    mo:Category mc:Region.J.4.N;
     mo:SubRegion mr:JP_富山県 ;
     mo:SubRegion mr:JP_石川県 ;
     mo:SubRegion mr:福井県嶺北地方 ;
@@ -213,5 +216,22 @@ mr:阿波上郡地方
 
 # ==============================
 # ■九州地方
+
+mr:九州地方
+    a mo:GeoEntity ;
+    rdfs:label "九州地方"@ja ;
+    mo:Category mc:Region.J.8;
+    rdfs:comment ""@ja .
+
+
+# ==============================
+# ■琉球地方
+
+mr:琉球地方
+    a mo:GeoEntity ;
+    rdfs:label "琉球地方"@ja ;
+    mo:Category mc:Region.J.9;
+    rdfs:comment ""@ja .
+
 
 
