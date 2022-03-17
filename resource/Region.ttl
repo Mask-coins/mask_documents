@@ -74,7 +74,7 @@ mr:Oceania
     a mo:GeoEntity ;
     rdfs:label "Oceania"@en ;
     rdfs:label "オセアニア"@ja ;
-    mo:Category mc:Region.Os;
+    mo:Category mc:Region.Oc;
     rdfs:comment ""@ja .
 
 

@@ -28,6 +28,31 @@ mc:Region.As
     rdfs:label "地域情報：アジア"@ja ;
     rdfs:comment "アジアについてのカテゴリ"@ja .
 
+mc:Region.Af
+    a mo:Category ;
+    rdfs:label "地域情報：アフリカ"@ja ;
+    rdfs:comment "アフリカについてのカテゴリ"@ja .
+
+mc:Region.Eu
+    a mo:Category ;
+    rdfs:label "地域情報：ヨーロッパ"@ja ;
+    rdfs:comment "ヨーロッパについてのカテゴリ"@ja .
+
+mc:Region.Am
+    a mo:Category ;
+    rdfs:label "地域情報：アメリカ大陸"@ja ;
+    rdfs:comment "アメリカ大陸についてのカテゴリ"@ja .
+
+mc:Region.Antarctica
+    a mo:Category ;
+    rdfs:label "地域情報：南極大陸"@ja ;
+    rdfs:comment "南極大陸についてのカテゴリ"@ja .
+
+mc:Region.Others
+    a mo:Category ;
+    rdfs:label "地域情報：その他"@ja ;
+    rdfs:comment "その他の地域情報についてのカテゴリ"@ja .
+
 mc:Region.J
     a mo:Category ;
     rdfs:label "地域情報：日本"@ja ;
