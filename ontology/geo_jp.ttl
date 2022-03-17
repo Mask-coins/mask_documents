@@ -1,0 +1,109 @@
+@base <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+
+mo:地方公共団体
+    rdfs:label "地方公共団体"@ja;
+    a rdfs:Class .
+
+mo:普通地方公共団体
+    a rdfs:Class ;
+    rdfs:label "普通地方公共団体"@ja;
+    rdfs:subClassOf mo:地方公共団体;
+    rdfs:comment "地方自治法 1-3-1"@ja .
+
+mo:特別地方公共団体
+    a rdfs:Class ;
+    rdfs:label "特別地方公共団体"@ja;
+    rdfs:subClassOf mo:地方公共団体;
+    rdfs:comment "地方自治法 1-3-1"@ja.
+
+mo:都道府県
+    a rdfs:Class ;
+    rdfs:label "都道府県"@ja;
+    rdfs:subClassOf mo:普通地方公共団体;
+    rdfs:comment "地方自治法 1-3-2"@ja .
+
+mo:市町村
+    a rdfs:Class ;
+    rdfs:label "市町村"@ja;
+    rdfs:subClassOf mo:普通地方公共団体;
+    rdfs:subClassOf mo:基礎自治体;
+    rdfs:comment "地方自治法 1-3-2"@ja.
+
+mo:市_地方自治法体
+    a rdfs:Class ;
+    rdfs:label "市"@ja;
+    rdfs:subClassOf mo:市町村;
+    rdfs:comment ""@ja.
+
+mo:政令指定都市
+    a rdfs:Class ;
+    rdfs:label "政令指定都市"@ja;
+    rdfs:subClassOf mo:市_地方自治法体;
+    rdfs:comment ""@ja.
+
+mo:中核市
+    a rdfs:Class ;
+    rdfs:label "中核市"@ja;
+    rdfs:subClassOf mo:市_地方自治法体;
+    rdfs:comment ""@ja.
+
+mo:施行時特例市
+    a rdfs:Class ;
+    rdfs:label "施行時特例市"@ja;
+    rdfs:subClassOf mo:市_地方自治法体;
+    rdfs:comment ""@ja.
+
+mo:町_地方自治法体
+    a rdfs:Class ;
+    rdfs:label "町"@ja;
+    rdfs:subClassOf mo:市町村;
+    rdfs:comment ""@ja.
+
+mo:村_地方自治法体
+    a rdfs:Class ;
+    rdfs:label "村"@ja;
+    rdfs:subClassOf mo:市町村;
+    rdfs:comment ""@ja.
+
+mo:特別区
+    a rdfs:Class ;
+    rdfs:label "特別区"@ja;
+    rdfs:subClassOf mo:特別地方公共団体;
+    rdfs:subClassOf mo:基礎自治体;
+    rdfs:comment "地方自治法 1-3-3"@ja.
+
+mo:地方公共団体の組合
+    a rdfs:Class ;
+    rdfs:label "地方公共団体の組合"@ja;
+    rdfs:subClassOf mo:特別地方公共団体;
+    rdfs:comment "地方自治法 1-3-3"@ja.
+
+mo:財産区
+    a rdfs:Class ;
+    rdfs:label "財産区"@ja;
+    rdfs:subClassOf mo:特別地方公共団体;
+    rdfs:comment "地方自治法 1-3-3"@ja.
+
+mo:地方開発事業団
+    a rdfs:Class ;
+    rdfs:label "地方開発事業団"@ja;
+    rdfs:subClassOf mo:特別地方公共団体;
+    rdfs:comment "地方自治法 1-3-3"@ja.
+
+mo:行政区_政令指定都市
+    a rdfs:Class ;
+    rdfs:label "行政区_政令指定都市"@ja;
+    rdfs:comment ""@ja.
+
+mo:地域自治区
+    a rdfs:Class ;
+    rdfs:label "地域自治区"@ja;
+    rdfs:comment ""@ja.
+
+
+
+

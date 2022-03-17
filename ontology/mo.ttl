@@ -7,7 +7,7 @@
 mo:date
     rdfs:label "date"@en;
     rdfs:label "日付"@ja;
-    a rdf:Property.
+    a rdf:Property .
 
 mo:dateTime
     rdfs:label "date time"@en;
