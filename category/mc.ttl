@@ -97,6 +97,11 @@ mc:Region.J.4
     rdfs:label "地域情報：中部地方"@ja ;
     rdfs:comment "関東地方についてのカテゴリ"@ja .
 
+mc:Region.J.4.N
+    a mo:Category ;
+    rdfs:label "地域情報：北陸地方"@ja ;
+    rdfs:comment "狭義の北陸地方についてのカテゴリ：富山県・石川県・福井県嶺北"@ja .
+
 mc:Region.J.5
     a mo:Category ;
     rdfs:label "地域情報：関西地方"@ja ;
@@ -116,40 +121,5 @@ mc:Region.J.8
     a mo:Category ;
     rdfs:label "地域情報：九州地方"@ja ;
     rdfs:comment "九州地方についてのカテゴリ"@ja .
-
-mc:Region.J.9
-    a mo:Category ;
-    rdfs:label "地域情報：奄美・沖縄県地方"@ja ;
-    rdfs:comment "奄美・沖縄県地方についてのカテゴリ"@ja .
-
-mc:Region.J.9.奄美
-    a mo:Category ;
-    rdfs:label "地域情報：奄美地方"@ja ;
-    rdfs:comment "奄美地方についてのカテゴリ"@ja .
-
-mc:Region.J.9.沖縄
-    a mo:Category ;
-    rdfs:label "地域情報：沖縄諸島"@ja ;
-    rdfs:comment "沖縄諸島についてのカテゴリ"@ja .
-
-mc:Region.J.9.宮古
-    a mo:Category ;
-    rdfs:label "地域情報：宮古列島"@ja ;
-    rdfs:comment "宮古列島についてのカテゴリ"@ja .
-
-mc:Region.J.9.八重山
-    a mo:Category ;
-    rdfs:label "地域情報：八重山列島"@ja ;
-    rdfs:comment "八重山列島についてのカテゴリ"@ja .
-
-mc:Region.J.9.尖閣
-    a mo:Category ;
-    rdfs:label "地域情報：尖閣諸島"@ja ;
-    rdfs:comment "尖閣諸島についてのカテゴリ"@ja .
-
-mc:Region.J.9.大東
-    a mo:Category ;
-    rdfs:label "地域情報：大東諸島"@ja ;
-    rdfs:comment "大東諸島についてのカテゴリ"@ja .
 
 
