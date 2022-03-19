@@ -109,6 +109,16 @@ mo:町域
     rdfs:label "町域"@ja;
     rdfs:comment "大字・小字・町丁などの区域を示す包括的な述語。"@ja.
 
+mo:JP_旧郵便番号
+    a rdfs:Class ;
+    rdfs:label "旧郵便番号"@ja;
+    rdfs:comment "1998年ごろまで使用されていた日本の郵便番号"@ja.
+
+mo:JP_郵便番号
+    a rdfs:Class ;
+    rdfs:label "郵便番号"@ja;
+    rdfs:comment "1998年ごろから使用されている郵便番号"@ja.
+
 
 
 
