@@ -1,0 +1,9206 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_栃木県
+    a mo:都道府県 ;
+    rdfs:label "栃木県"@ja ;
+    mo:AreaCode "09" ;
+    mo:SubRegion mr:JP_栃木県宇都宮市 ;
+    mo:SubRegion mr:JP_栃木県足利市 ;
+    mo:SubRegion mr:JP_栃木県栃木市 ;
+    mo:SubRegion mr:JP_栃木県佐野市 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市 ;
+    mo:SubRegion mr:JP_栃木県日光市 ;
+    mo:SubRegion mr:JP_栃木県小山市 ;
+    mo:SubRegion mr:JP_栃木県真岡市 ;
+    mo:SubRegion mr:JP_栃木県大田原市 ;
+    mo:SubRegion mr:JP_栃木県矢板市 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市 ;
+    mo:SubRegion mr:JP_栃木県さくら市 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市 ;
+    mo:SubRegion mr:JP_栃木県下野市 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町 ;
+    a mo:GeoEntity .
+
+mr:JP_栃木県宇都宮市
+    rdfs:label "宇都宮市"@ja ;
+    mo:AreaCode "09201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市相野沢町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市明保野町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市旭 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市芦沼町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市飯田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市飯山町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市池上町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市石井町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市石那田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市泉が丘 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市泉町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市板戸町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市一条 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市一の沢 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市一ノ沢町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市一番町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市今泉 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市今泉新町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市今泉町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市今里町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市今宮 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市岩曽町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市岩原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市岩本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市インターパーク ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上野町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市駅前通り ;
+    mo:SubRegion mr:JP_栃木県宇都宮市江曽島 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市江曽島本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市江曽島町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市江野町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市大網町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市大曽 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市大塚町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市大通り ;
+    mo:SubRegion mr:JP_栃木県宇都宮市大谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市御蔵町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市小幡 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市海道町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市春日町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市金田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市叶谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上大曽町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上大塚町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上欠町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上金井町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上桑島町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上小池町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上小倉町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上籠谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上田原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上戸祭 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上戸祭町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上御田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上横倉町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市上横田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市刈沼町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市川田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市川俣町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市川向町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市河原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市瓦谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市関白町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市菊水町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市北一の沢町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市北若松原 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市京町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市清住 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市清原工業団地 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市清原台 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市桑島町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市越戸 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市越戸町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市古賀志町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市五代 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市鐺山町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市駒生 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市駒生町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市材木町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市幸町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市栄町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市逆面町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市鷺の谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市桜 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下ケ橋町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市さつき ;
+    mo:SubRegion mr:JP_栃木県宇都宮市さるやま町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市三番町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市篠井町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下荒針町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下岡本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下欠町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下金井町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下川俣町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下河原 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下河原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下桑島町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下栗 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下栗町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下小池町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下小倉町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下反町町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下田原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下砥上町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下戸祭 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下平出町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下横倉町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市下横田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宿郷 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市城東 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市城南 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市松風台 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市昭和 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市白沢町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市新富町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市新町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市末広 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市雀の宮 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市雀宮町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市砂田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市住吉町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市関堀町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市千波町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市大寛 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市台新田 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市台新田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市高砂町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市高松町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宝井町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宝木町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宝木本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市滝の原 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市滝谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市竹下町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市竹林町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市田下町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市田野町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中央 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中央本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市鶴田 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市鶴田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市天神 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市伝馬町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市道場宿町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市砥上町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市徳次郎町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市戸祭 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市戸祭台 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市戸祭町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市戸祭元町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市豊郷台 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市問屋町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中一の沢町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中今泉 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市長岡町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中岡本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中河原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中久保 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中里町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中島町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中戸祭 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市中戸祭町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市仲町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市長峰町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西一の沢町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西刑部町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西川田 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西川田東町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西川田本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西川田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西川田南 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市錦 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西大寛 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西の宮 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西原 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市西原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市新里町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市二番町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市野高谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市野沢町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市羽牛田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市八幡台 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市花園町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市花房 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市花房本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市塙田 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市馬場通り ;
+    mo:SubRegion mr:JP_栃木県宇都宮市針ケ谷 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市針ケ谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東今泉 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東浦町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東岡本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東刑部町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東木代町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東宿郷 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東宝木町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東戸祭 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東塙田 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東峰町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東簗瀬 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市東横田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市日の出 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市氷室町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市兵庫塚 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市兵庫塚町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市平出工業団地 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市平出町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市平塚町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市平松町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市平松本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市福岡町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市富士見が丘 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市富士見町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市二荒町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市双葉 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市不動前 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市冬室町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市古田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市星が丘 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市細谷 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市細谷町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市本丸町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市幕田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市曲師町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市松が峰 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市松田新田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市松原 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市満美穴町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市操町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市瑞穂 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市御田長島町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市緑 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市みどり野町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市南一の沢町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市南大通り ;
+    mo:SubRegion mr:JP_栃木県宇都宮市南高砂町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市南町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市峰 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市峰町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宮園町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宮の内 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宮原 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宮町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宮みらい ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宮本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市宮山田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市御幸ケ原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市御幸町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市御幸本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市睦町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市免ノ内町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市元今泉 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市茂原 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市茂原町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市屋板町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市八千代 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市柳田町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市簗瀬 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市簗瀬町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市大和 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市山本 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市山本町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市弥生 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市ゆいの杜 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市陽西町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市陽東 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市陽南 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市横田新町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市横山 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市横山町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市吉野 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市立伏町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市六道町 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市若草 ;
+    mo:SubRegion mr:JP_栃木県宇都宮市若松原 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県宇都宮市相野沢町
+    rdfs:label "相野沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市明保野町
+    rdfs:label "明保野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市旭
+    rdfs:label "旭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市芦沼町
+    rdfs:label "芦沼町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市飯田町
+    rdfs:label "飯田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市飯山町
+    rdfs:label "飯山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市池上町
+    rdfs:label "池上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市石井町
+    rdfs:label "石井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市石那田町
+    rdfs:label "石那田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市泉が丘
+    rdfs:label "泉が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市板戸町
+    rdfs:label "板戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市一条
+    rdfs:label "一条"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市一の沢
+    rdfs:label "一の沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市一ノ沢町
+    rdfs:label "一ノ沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市一番町
+    rdfs:label "一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市今泉
+    rdfs:label "今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市今泉新町
+    rdfs:label "今泉新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市今泉町
+    rdfs:label "今泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市今里町
+    rdfs:label "今里町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市今宮
+    rdfs:label "今宮"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市岩曽町
+    rdfs:label "岩曽町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市岩原町
+    rdfs:label "岩原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市岩本町
+    rdfs:label "岩本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市インターパーク
+    rdfs:label "インターパーク"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上野町
+    rdfs:label "上野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上田町
+    rdfs:label "上田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市駅前通り
+    rdfs:label "駅前通り"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市江曽島
+    rdfs:label "江曽島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市江曽島本町
+    rdfs:label "江曽島本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市江曽島町
+    rdfs:label "江曽島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市江野町
+    rdfs:label "江野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市大網町
+    rdfs:label "大網町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市大曽
+    rdfs:label "大曽"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市大塚町
+    rdfs:label "大塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市大通り
+    rdfs:label "大通り"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市大谷町
+    rdfs:label "大谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市御蔵町
+    rdfs:label "御蔵町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市小幡
+    rdfs:label "小幡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市海道町
+    rdfs:label "海道町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市金田町
+    rdfs:label "金田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市叶谷町
+    rdfs:label "叶谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上大曽町
+    rdfs:label "上大曽町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上大塚町
+    rdfs:label "上大塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上欠町
+    rdfs:label "上欠町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上金井町
+    rdfs:label "上金井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上桑島町
+    rdfs:label "上桑島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上小池町
+    rdfs:label "上小池町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上小倉町
+    rdfs:label "上小倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上籠谷町
+    rdfs:label "上籠谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上田原町
+    rdfs:label "上田原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上戸祭
+    rdfs:label "上戸祭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上戸祭町
+    rdfs:label "上戸祭町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上御田町
+    rdfs:label "上御田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上横倉町
+    rdfs:label "上横倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市上横田町
+    rdfs:label "上横田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市刈沼町
+    rdfs:label "刈沼町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市川田町
+    rdfs:label "川田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市川俣町
+    rdfs:label "川俣町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市川向町
+    rdfs:label "川向町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市河原町
+    rdfs:label "河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市瓦谷町
+    rdfs:label "瓦谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市関白町
+    rdfs:label "関白町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市菊水町
+    rdfs:label "菊水町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市北一の沢町
+    rdfs:label "北一の沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市北若松原
+    rdfs:label "北若松原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市清住
+    rdfs:label "清住"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市清原工業団地
+    rdfs:label "清原工業団地"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市清原台
+    rdfs:label "清原台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市桑島町
+    rdfs:label "桑島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市越戸
+    rdfs:label "越戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市越戸町
+    rdfs:label "越戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市古賀志町
+    rdfs:label "古賀志町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市五代
+    rdfs:label "五代"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市鐺山町
+    rdfs:label "鐺山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市駒生
+    rdfs:label "駒生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市駒生町
+    rdfs:label "駒生町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市材木町
+    rdfs:label "材木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市逆面町
+    rdfs:label "逆面町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市鷺の谷町
+    rdfs:label "鷺の谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市桜
+    rdfs:label "桜"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下ケ橋町
+    rdfs:label "下ケ橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市さつき
+    rdfs:label "さつき"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市さるやま町
+    rdfs:label "さるやま町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市三番町
+    rdfs:label "三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市篠井町
+    rdfs:label "篠井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下荒針町
+    rdfs:label "下荒針町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下岡本町
+    rdfs:label "下岡本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下欠町
+    rdfs:label "下欠町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下金井町
+    rdfs:label "下金井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下川俣町
+    rdfs:label "下川俣町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下河原
+    rdfs:label "下河原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下河原町
+    rdfs:label "下河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下桑島町
+    rdfs:label "下桑島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下栗
+    rdfs:label "下栗"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下栗町
+    rdfs:label "下栗町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下小池町
+    rdfs:label "下小池町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下小倉町
+    rdfs:label "下小倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下反町町
+    rdfs:label "下反町町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下田原町
+    rdfs:label "下田原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下砥上町
+    rdfs:label "下砥上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下戸祭
+    rdfs:label "下戸祭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下平出町
+    rdfs:label "下平出町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下横倉町
+    rdfs:label "下横倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市下横田町
+    rdfs:label "下横田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宿郷
+    rdfs:label "宿郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市城東
+    rdfs:label "城東"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市城南
+    rdfs:label "城南"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市松風台
+    rdfs:label "松風台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市昭和
+    rdfs:label "昭和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市白沢町
+    rdfs:label "白沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市新富町
+    rdfs:label "新富町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市末広
+    rdfs:label "末広"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市雀の宮
+    rdfs:label "雀の宮"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市雀宮町
+    rdfs:label "雀宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市砂田町
+    rdfs:label "砂田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市関堀町
+    rdfs:label "関堀町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市千波町
+    rdfs:label "千波町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市大寛
+    rdfs:label "大寛"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市台新田
+    rdfs:label "台新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市台新田町
+    rdfs:label "台新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市高砂町
+    rdfs:label "高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市高松町
+    rdfs:label "高松町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宝井町
+    rdfs:label "宝井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宝木町
+    rdfs:label "宝木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宝木本町
+    rdfs:label "宝木本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市滝の原
+    rdfs:label "滝の原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市滝谷町
+    rdfs:label "滝谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市竹下町
+    rdfs:label "竹下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市竹林町
+    rdfs:label "竹林町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市田下町
+    rdfs:label "田下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市田野町
+    rdfs:label "田野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中央本町
+    rdfs:label "中央本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市鶴田
+    rdfs:label "鶴田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市鶴田町
+    rdfs:label "鶴田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市伝馬町
+    rdfs:label "伝馬町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市道場宿町
+    rdfs:label "道場宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東谷町
+    rdfs:label "東谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市砥上町
+    rdfs:label "砥上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市徳次郎町
+    rdfs:label "徳次郎町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市戸祭
+    rdfs:label "戸祭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市戸祭台
+    rdfs:label "戸祭台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市戸祭町
+    rdfs:label "戸祭町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市戸祭元町
+    rdfs:label "戸祭元町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市豊郷台
+    rdfs:label "豊郷台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市問屋町
+    rdfs:label "問屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中一の沢町
+    rdfs:label "中一の沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中今泉
+    rdfs:label "中今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市長岡町
+    rdfs:label "長岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中岡本町
+    rdfs:label "中岡本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中河原町
+    rdfs:label "中河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中久保
+    rdfs:label "中久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中里町
+    rdfs:label "中里町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中島町
+    rdfs:label "中島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中戸祭
+    rdfs:label "中戸祭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市中戸祭町
+    rdfs:label "中戸祭町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市仲町
+    rdfs:label "仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市長峰町
+    rdfs:label "長峰町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西一の沢町
+    rdfs:label "西一の沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西刑部町
+    rdfs:label "西刑部町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西川田
+    rdfs:label "西川田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西川田東町
+    rdfs:label "西川田東町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西川田本町
+    rdfs:label "西川田本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西川田町
+    rdfs:label "西川田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西川田南
+    rdfs:label "西川田南"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市錦
+    rdfs:label "錦"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西大寛
+    rdfs:label "西大寛"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西の宮
+    rdfs:label "西の宮"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市西原町
+    rdfs:label "西原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市新里町
+    rdfs:label "新里町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市二番町
+    rdfs:label "二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市野高谷町
+    rdfs:label "野高谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市野沢町
+    rdfs:label "野沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市羽牛田町
+    rdfs:label "羽牛田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市八幡台
+    rdfs:label "八幡台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市花房
+    rdfs:label "花房"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市花房本町
+    rdfs:label "花房本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市塙田
+    rdfs:label "塙田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市馬場通り
+    rdfs:label "馬場通り"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市針ケ谷
+    rdfs:label "針ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市針ケ谷町
+    rdfs:label "針ケ谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東今泉
+    rdfs:label "東今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東浦町
+    rdfs:label "東浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東岡本町
+    rdfs:label "東岡本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東刑部町
+    rdfs:label "東刑部町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東木代町
+    rdfs:label "東木代町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東宿郷
+    rdfs:label "東宿郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東宝木町
+    rdfs:label "東宝木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東戸祭
+    rdfs:label "東戸祭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東塙田
+    rdfs:label "東塙田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東原町
+    rdfs:label "東原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東峰町
+    rdfs:label "東峰町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東簗瀬
+    rdfs:label "東簗瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市東横田町
+    rdfs:label "東横田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市日の出
+    rdfs:label "日の出"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市氷室町
+    rdfs:label "氷室町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市兵庫塚
+    rdfs:label "兵庫塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市兵庫塚町
+    rdfs:label "兵庫塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市平出工業団地
+    rdfs:label "平出工業団地"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市平出町
+    rdfs:label "平出町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市平塚町
+    rdfs:label "平塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市平松町
+    rdfs:label "平松町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市平松本町
+    rdfs:label "平松本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市福岡町
+    rdfs:label "福岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市富士見が丘
+    rdfs:label "富士見が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市二荒町
+    rdfs:label "二荒町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市双葉
+    rdfs:label "双葉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市不動前
+    rdfs:label "不動前"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市冬室町
+    rdfs:label "冬室町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市古田町
+    rdfs:label "古田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市星が丘
+    rdfs:label "星が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市細谷
+    rdfs:label "細谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市細谷町
+    rdfs:label "細谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市本丸町
+    rdfs:label "本丸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市幕田町
+    rdfs:label "幕田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市曲師町
+    rdfs:label "曲師町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市松が峰
+    rdfs:label "松が峰"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市松田新田町
+    rdfs:label "松田新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市満美穴町
+    rdfs:label "満美穴町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市操町
+    rdfs:label "操町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市瑞穂
+    rdfs:label "瑞穂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市御田長島町
+    rdfs:label "御田長島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市緑
+    rdfs:label "緑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市みどり野町
+    rdfs:label "みどり野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市南一の沢町
+    rdfs:label "南一の沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市南大通り
+    rdfs:label "南大通り"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市南高砂町
+    rdfs:label "南高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市峰
+    rdfs:label "峰"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市峰町
+    rdfs:label "峰町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宮園町
+    rdfs:label "宮園町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宮の内
+    rdfs:label "宮の内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宮原
+    rdfs:label "宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宮町
+    rdfs:label "宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宮みらい
+    rdfs:label "宮みらい"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宮本町
+    rdfs:label "宮本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市宮山田町
+    rdfs:label "宮山田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市御幸ケ原町
+    rdfs:label "御幸ケ原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市御幸町
+    rdfs:label "御幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市御幸本町
+    rdfs:label "御幸本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市睦町
+    rdfs:label "睦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市免ノ内町
+    rdfs:label "免ノ内町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市元今泉
+    rdfs:label "元今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市茂原
+    rdfs:label "茂原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市茂原町
+    rdfs:label "茂原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市屋板町
+    rdfs:label "屋板町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市八千代
+    rdfs:label "八千代"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市柳田町
+    rdfs:label "柳田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市簗瀬
+    rdfs:label "簗瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市簗瀬町
+    rdfs:label "簗瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市大和
+    rdfs:label "大和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市山本
+    rdfs:label "山本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市山本町
+    rdfs:label "山本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市弥生
+    rdfs:label "弥生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市ゆいの杜
+    rdfs:label "ゆいの杜"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市陽西町
+    rdfs:label "陽西町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市陽東
+    rdfs:label "陽東"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市陽南
+    rdfs:label "陽南"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市横田新町
+    rdfs:label "横田新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市横山
+    rdfs:label "横山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市横山町
+    rdfs:label "横山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市吉野
+    rdfs:label "吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市立伏町
+    rdfs:label "立伏町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市六道町
+    rdfs:label "六道町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市若草
+    rdfs:label "若草"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県宇都宮市若松原
+    rdfs:label "若松原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市
+    rdfs:label "足利市"@ja ;
+    mo:AreaCode "09202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県足利市相生町 ;
+    mo:SubRegion mr:JP_栃木県足利市赤松台 ;
+    mo:SubRegion mr:JP_栃木県足利市県町 ;
+    mo:SubRegion mr:JP_栃木県足利市朝倉町 ;
+    mo:SubRegion mr:JP_栃木県足利市旭町 ;
+    mo:SubRegion mr:JP_栃木県足利市荒金町 ;
+    mo:SubRegion mr:JP_栃木県足利市新宿町 ;
+    mo:SubRegion mr:JP_栃木県足利市粟谷町 ;
+    mo:SubRegion mr:JP_栃木県足利市家富町 ;
+    mo:SubRegion mr:JP_栃木県足利市鵤木町 ;
+    mo:SubRegion mr:JP_栃木県足利市井草町 ;
+    mo:SubRegion mr:JP_栃木県足利市伊勢町 ;
+    mo:SubRegion mr:JP_栃木県足利市伊勢南町 ;
+    mo:SubRegion mr:JP_栃木県足利市板倉町 ;
+    mo:SubRegion mr:JP_栃木県足利市稲岡町 ;
+    mo:SubRegion mr:JP_栃木県足利市今福町 ;
+    mo:SubRegion mr:JP_栃木県足利市岩井町 ;
+    mo:SubRegion mr:JP_栃木県足利市永楽町 ;
+    mo:SubRegion mr:JP_栃木県足利市江川町 ;
+    mo:SubRegion mr:JP_栃木県足利市大岩町 ;
+    mo:SubRegion mr:JP_栃木県足利市大久保町 ;
+    mo:SubRegion mr:JP_栃木県足利市大月町 ;
+    mo:SubRegion mr:JP_栃木県足利市大沼田町 ;
+    mo:SubRegion mr:JP_栃木県足利市大橋町 ;
+    mo:SubRegion mr:JP_栃木県足利市大前町 ;
+    mo:SubRegion mr:JP_栃木県足利市奥戸町 ;
+    mo:SubRegion mr:JP_栃木県足利市小曽根町 ;
+    mo:SubRegion mr:JP_栃木県足利市小俣町 ;
+    mo:SubRegion mr:JP_栃木県足利市小俣南町 ;
+    mo:SubRegion mr:JP_栃木県足利市利保町 ;
+    mo:SubRegion mr:JP_栃木県足利市鹿島町 ;
+    mo:SubRegion mr:JP_栃木県足利市樺崎町 ;
+    mo:SubRegion mr:JP_栃木県足利市上渋垂町 ;
+    mo:SubRegion mr:JP_栃木県足利市借宿町 ;
+    mo:SubRegion mr:JP_栃木県足利市川崎町 ;
+    mo:SubRegion mr:JP_栃木県足利市久保田町 ;
+    mo:SubRegion mr:JP_栃木県足利市毛野新町 ;
+    mo:SubRegion mr:JP_栃木県足利市寿町 ;
+    mo:SubRegion mr:JP_栃木県足利市駒場町 ;
+    mo:SubRegion mr:JP_栃木県足利市栄町 ;
+    mo:SubRegion mr:JP_栃木県足利市里矢場町 ;
+    mo:SubRegion mr:JP_栃木県足利市猿田町 ;
+    mo:SubRegion mr:JP_栃木県足利市島田町 ;
+    mo:SubRegion mr:JP_栃木県足利市下渋垂町 ;
+    mo:SubRegion mr:JP_栃木県足利市昌平町 ;
+    mo:SubRegion mr:JP_栃木県足利市新山町 ;
+    mo:SubRegion mr:JP_栃木県足利市末広町 ;
+    mo:SubRegion mr:JP_栃木県足利市助戸 ;
+    mo:SubRegion mr:JP_栃木県足利市助戸大橋町 ;
+    mo:SubRegion mr:JP_栃木県足利市助戸新山町 ;
+    mo:SubRegion mr:JP_栃木県足利市助戸仲町 ;
+    mo:SubRegion mr:JP_栃木県足利市助戸東山町 ;
+    mo:SubRegion mr:JP_栃木県足利市菅田町 ;
+    mo:SubRegion mr:JP_栃木県足利市大正町 ;
+    mo:SubRegion mr:JP_栃木県足利市大町 ;
+    mo:SubRegion mr:JP_栃木県足利市大門通 ;
+    mo:SubRegion mr:JP_栃木県足利市高松町 ;
+    mo:SubRegion mr:JP_栃木県足利市田島町 ;
+    mo:SubRegion mr:JP_栃木県足利市多田木町 ;
+    mo:SubRegion mr:JP_栃木県足利市田所町 ;
+    mo:SubRegion mr:JP_栃木県足利市田中町 ;
+    mo:SubRegion mr:JP_栃木県足利市千歳町 ;
+    mo:SubRegion mr:JP_栃木県足利市月谷町 ;
+    mo:SubRegion mr:JP_栃木県足利市常見町 ;
+    mo:SubRegion mr:JP_栃木県足利市寺岡町 ;
+    mo:SubRegion mr:JP_栃木県足利市通 ;
+    mo:SubRegion mr:JP_栃木県足利市常盤町 ;
+    mo:SubRegion mr:JP_栃木県足利市巴町 ;
+    mo:SubRegion mr:JP_栃木県足利市問屋町 ;
+    mo:SubRegion mr:JP_栃木県足利市中川町 ;
+    mo:SubRegion mr:JP_栃木県足利市名草上町 ;
+    mo:SubRegion mr:JP_栃木県足利市名草中町 ;
+    mo:SubRegion mr:JP_栃木県足利市名草下町 ;
+    mo:SubRegion mr:JP_栃木県足利市西新井町 ;
+    mo:SubRegion mr:JP_栃木県足利市錦町 ;
+    mo:SubRegion mr:JP_栃木県足利市西砂原後町 ;
+    mo:SubRegion mr:JP_栃木県足利市西宮町 ;
+    mo:SubRegion mr:JP_栃木県足利市西場町 ;
+    mo:SubRegion mr:JP_栃木県足利市野田町 ;
+    mo:SubRegion mr:JP_栃木県足利市羽刈町 ;
+    mo:SubRegion mr:JP_栃木県足利市迫間町 ;
+    mo:SubRegion mr:JP_栃木県足利市葉鹿町 ;
+    mo:SubRegion mr:JP_栃木県足利市葉鹿南町 ;
+    mo:SubRegion mr:JP_栃木県足利市花園町 ;
+    mo:SubRegion mr:JP_栃木県足利市東砂原後町 ;
+    mo:SubRegion mr:JP_栃木県足利市久松町 ;
+    mo:SubRegion mr:JP_栃木県足利市福居町 ;
+    mo:SubRegion mr:JP_栃木県足利市福富新町 ;
+    mo:SubRegion mr:JP_栃木県足利市福富町 ;
+    mo:SubRegion mr:JP_栃木県足利市富士見町 ;
+    mo:SubRegion mr:JP_栃木県足利市藤本町 ;
+    mo:SubRegion mr:JP_栃木県足利市堀込町 ;
+    mo:SubRegion mr:JP_栃木県足利市本城 ;
+    mo:SubRegion mr:JP_栃木県足利市真砂町 ;
+    mo:SubRegion mr:JP_栃木県足利市松田町 ;
+    mo:SubRegion mr:JP_栃木県足利市丸山町 ;
+    mo:SubRegion mr:JP_栃木県足利市瑞穂野町 ;
+    mo:SubRegion mr:JP_栃木県足利市緑町 ;
+    mo:SubRegion mr:JP_栃木県足利市南大町 ;
+    mo:SubRegion mr:JP_栃木県足利市南町 ;
+    mo:SubRegion mr:JP_栃木県足利市宮北町 ;
+    mo:SubRegion mr:JP_栃木県足利市元学町 ;
+    mo:SubRegion mr:JP_栃木県足利市百頭町 ;
+    mo:SubRegion mr:JP_栃木県足利市八椚町 ;
+    mo:SubRegion mr:JP_栃木県足利市柳原町 ;
+    mo:SubRegion mr:JP_栃木県足利市梁田町 ;
+    mo:SubRegion mr:JP_栃木県足利市山川町 ;
+    mo:SubRegion mr:JP_栃木県足利市山下町 ;
+    mo:SubRegion mr:JP_栃木県足利市弥生町 ;
+    mo:SubRegion mr:JP_栃木県足利市八幡町 ;
+    mo:SubRegion mr:JP_栃木県足利市有楽町 ;
+    mo:SubRegion mr:JP_栃木県足利市雪輪町 ;
+    mo:SubRegion mr:JP_栃木県足利市芳町 ;
+    mo:SubRegion mr:JP_栃木県足利市五十部町 ;
+    mo:SubRegion mr:JP_栃木県足利市若草町 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県足利市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市赤松台
+    rdfs:label "赤松台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市県町
+    rdfs:label "県町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市朝倉町
+    rdfs:label "朝倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市荒金町
+    rdfs:label "荒金町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市新宿町
+    rdfs:label "新宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市粟谷町
+    rdfs:label "粟谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市家富町
+    rdfs:label "家富町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市鵤木町
+    rdfs:label "鵤木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市井草町
+    rdfs:label "井草町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市伊勢町
+    rdfs:label "伊勢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市伊勢南町
+    rdfs:label "伊勢南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市板倉町
+    rdfs:label "板倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市稲岡町
+    rdfs:label "稲岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市今福町
+    rdfs:label "今福町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市岩井町
+    rdfs:label "岩井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市永楽町
+    rdfs:label "永楽町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市江川町
+    rdfs:label "江川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大岩町
+    rdfs:label "大岩町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大久保町
+    rdfs:label "大久保町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大月町
+    rdfs:label "大月町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大沼田町
+    rdfs:label "大沼田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大橋町
+    rdfs:label "大橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大前町
+    rdfs:label "大前町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市奥戸町
+    rdfs:label "奥戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市小曽根町
+    rdfs:label "小曽根町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市小俣町
+    rdfs:label "小俣町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市小俣南町
+    rdfs:label "小俣南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市利保町
+    rdfs:label "利保町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市鹿島町
+    rdfs:label "鹿島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市樺崎町
+    rdfs:label "樺崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市上渋垂町
+    rdfs:label "上渋垂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市借宿町
+    rdfs:label "借宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市川崎町
+    rdfs:label "川崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市久保田町
+    rdfs:label "久保田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市毛野新町
+    rdfs:label "毛野新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市駒場町
+    rdfs:label "駒場町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市里矢場町
+    rdfs:label "里矢場町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市猿田町
+    rdfs:label "猿田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市島田町
+    rdfs:label "島田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市下渋垂町
+    rdfs:label "下渋垂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市昌平町
+    rdfs:label "昌平町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市新山町
+    rdfs:label "新山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市助戸
+    rdfs:label "助戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市助戸大橋町
+    rdfs:label "助戸大橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市助戸新山町
+    rdfs:label "助戸新山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市助戸仲町
+    rdfs:label "助戸仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市助戸東山町
+    rdfs:label "助戸東山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市菅田町
+    rdfs:label "菅田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大正町
+    rdfs:label "大正町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大町
+    rdfs:label "大町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市大門通
+    rdfs:label "大門通"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市高松町
+    rdfs:label "高松町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市田島町
+    rdfs:label "田島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市多田木町
+    rdfs:label "多田木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市田所町
+    rdfs:label "田所町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市田中町
+    rdfs:label "田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市千歳町
+    rdfs:label "千歳町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市月谷町
+    rdfs:label "月谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市常見町
+    rdfs:label "常見町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市寺岡町
+    rdfs:label "寺岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市通
+    rdfs:label "通"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市常盤町
+    rdfs:label "常盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市巴町
+    rdfs:label "巴町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市問屋町
+    rdfs:label "問屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市中川町
+    rdfs:label "中川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市名草上町
+    rdfs:label "名草上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市名草中町
+    rdfs:label "名草中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市名草下町
+    rdfs:label "名草下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市西新井町
+    rdfs:label "西新井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市西砂原後町
+    rdfs:label "西砂原後町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市西宮町
+    rdfs:label "西宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市西場町
+    rdfs:label "西場町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市野田町
+    rdfs:label "野田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市羽刈町
+    rdfs:label "羽刈町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市迫間町
+    rdfs:label "迫間町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市葉鹿町
+    rdfs:label "葉鹿町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市葉鹿南町
+    rdfs:label "葉鹿南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市東砂原後町
+    rdfs:label "東砂原後町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市久松町
+    rdfs:label "久松町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市福居町
+    rdfs:label "福居町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市福富新町
+    rdfs:label "福富新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市福富町
+    rdfs:label "福富町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市藤本町
+    rdfs:label "藤本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市堀込町
+    rdfs:label "堀込町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市本城
+    rdfs:label "本城"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市真砂町
+    rdfs:label "真砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市松田町
+    rdfs:label "松田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市瑞穂野町
+    rdfs:label "瑞穂野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市南大町
+    rdfs:label "南大町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市宮北町
+    rdfs:label "宮北町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市元学町
+    rdfs:label "元学町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市百頭町
+    rdfs:label "百頭町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市八椚町
+    rdfs:label "八椚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市柳原町
+    rdfs:label "柳原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市梁田町
+    rdfs:label "梁田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市山川町
+    rdfs:label "山川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市山下町
+    rdfs:label "山下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市有楽町
+    rdfs:label "有楽町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市雪輪町
+    rdfs:label "雪輪町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市芳町
+    rdfs:label "芳町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市五十部町
+    rdfs:label "五十部町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県足利市若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市
+    rdfs:label "栃木市"@ja ;
+    mo:AreaCode "09203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県栃木市旭町 ;
+    mo:SubRegion mr:JP_栃木県栃木市梓町 ;
+    mo:SubRegion mr:JP_栃木県栃木市新井町 ;
+    mo:SubRegion mr:JP_栃木県栃木市泉川町 ;
+    mo:SubRegion mr:JP_栃木県栃木市泉町 ;
+    mo:SubRegion mr:JP_栃木県栃木市出流町 ;
+    mo:SubRegion mr:JP_栃木県栃木市今泉町 ;
+    mo:SubRegion mr:JP_栃木県栃木市入舟町 ;
+    mo:SubRegion mr:JP_栃木県栃木市祝町 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩出町 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町五十畑 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町和泉 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町小野寺 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町上岡 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町静 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町静戸 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町静和 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町下岡 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町下津原 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町畳岡 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町新里 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町古江 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町曲ケ島 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町三谷 ;
+    mo:SubRegion mr:JP_栃木県栃木市岩舟町鷲巣 ;
+    mo:SubRegion mr:JP_栃木県栃木市梅沢町 ;
+    mo:SubRegion mr:JP_栃木県栃木市大久保町 ;
+    mo:SubRegion mr:JP_栃木県栃木市大塚町 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町新 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町牛久 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町榎本 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町上高島 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町川連 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町北武井 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町蔵井 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町下高島 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町下皆川 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町富田 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町土与 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町西野田 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町西水代 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町西山田 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町伯仲 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町真弓 ;
+    mo:SubRegion mr:JP_栃木県栃木市大平町横堀 ;
+    mo:SubRegion mr:JP_栃木県栃木市大皆川町 ;
+    mo:SubRegion mr:JP_栃木県栃木市大宮町 ;
+    mo:SubRegion mr:JP_栃木県栃木市大森町 ;
+    mo:SubRegion mr:JP_栃木県栃木市小野口町 ;
+    mo:SubRegion mr:JP_栃木県栃木市嘉右衛門町 ;
+    mo:SubRegion mr:JP_栃木県栃木市柏倉町 ;
+    mo:SubRegion mr:JP_栃木県栃木市片柳町 ;
+    mo:SubRegion mr:JP_栃木県栃木市河合町 ;
+    mo:SubRegion mr:JP_栃木県栃木市川原田町 ;
+    mo:SubRegion mr:JP_栃木県栃木市神田町 ;
+    mo:SubRegion mr:JP_栃木県栃木市木野地町 ;
+    mo:SubRegion mr:JP_栃木県栃木市久保田町 ;
+    mo:SubRegion mr:JP_栃木県栃木市国府町 ;
+    mo:SubRegion mr:JP_栃木県栃木市高谷町 ;
+    mo:SubRegion mr:JP_栃木県栃木市小平町 ;
+    mo:SubRegion mr:JP_栃木県栃木市境町 ;
+    mo:SubRegion mr:JP_栃木県栃木市志鳥町 ;
+    mo:SubRegion mr:JP_栃木県栃木市城内町 ;
+    mo:SubRegion mr:JP_栃木県栃木市昭和町 ;
+    mo:SubRegion mr:JP_栃木県栃木市尻内町 ;
+    mo:SubRegion mr:JP_栃木県栃木市惣社町 ;
+    mo:SubRegion mr:JP_栃木県栃木市薗部町 ;
+    mo:SubRegion mr:JP_栃木県栃木市大光寺町 ;
+    mo:SubRegion mr:JP_栃木県栃木市大町 ;
+    mo:SubRegion mr:JP_栃木県栃木市田村町 ;
+    mo:SubRegion mr:JP_栃木県栃木市千塚町 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町家中 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町臼久保 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町大柿 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町大橋 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町合戦場 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町木 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町富張 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町原宿 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町平川 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町深沢 ;
+    mo:SubRegion mr:JP_栃木県栃木市都賀町升塚 ;
+    mo:SubRegion mr:JP_栃木県栃木市仲方町 ;
+    mo:SubRegion mr:JP_栃木県栃木市仲仕上町 ;
+    mo:SubRegion mr:JP_栃木県栃木市鍋山町 ;
+    mo:SubRegion mr:JP_栃木県栃木市西方町金井 ;
+    mo:SubRegion mr:JP_栃木県栃木市西方町金崎 ;
+    mo:SubRegion mr:JP_栃木県栃木市西方町本郷 ;
+    mo:SubRegion mr:JP_栃木県栃木市西方町本城 ;
+    mo:SubRegion mr:JP_栃木県栃木市西方町真名子 ;
+    mo:SubRegion mr:JP_栃木県栃木市西方町元 ;
+    mo:SubRegion mr:JP_栃木県栃木市錦町 ;
+    mo:SubRegion mr:JP_栃木県栃木市沼和田町 ;
+    mo:SubRegion mr:JP_栃木県栃木市野中町 ;
+    mo:SubRegion mr:JP_栃木県栃木市箱森町 ;
+    mo:SubRegion mr:JP_栃木県栃木市樋ノ口町 ;
+    mo:SubRegion mr:JP_栃木県栃木市日ノ出町 ;
+    mo:SubRegion mr:JP_栃木県栃木市平井町 ;
+    mo:SubRegion mr:JP_栃木県栃木市平柳町 ;
+    mo:SubRegion mr:JP_栃木県栃木市吹上町 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町赤麻 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町石川 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町内野 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町太田 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町大田和 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町大前 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町甲 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町下宮 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町帯刀 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町都賀 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町富吉 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町中根 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町西前原 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町新波 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町蛭沼 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町藤岡 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町部屋 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤岡町緑川 ;
+    mo:SubRegion mr:JP_栃木県栃木市藤田町 ;
+    mo:SubRegion mr:JP_栃木県栃木市富士見町 ;
+    mo:SubRegion mr:JP_栃木県栃木市星野町 ;
+    mo:SubRegion mr:JP_栃木県栃木市細堀町 ;
+    mo:SubRegion mr:JP_栃木県栃木市本町 ;
+    mo:SubRegion mr:JP_栃木県栃木市皆川城内町 ;
+    mo:SubRegion mr:JP_栃木県栃木市湊町 ;
+    mo:SubRegion mr:JP_栃木県栃木市宮田町 ;
+    mo:SubRegion mr:JP_栃木県栃木市宮町 ;
+    mo:SubRegion mr:JP_栃木県栃木市室町 ;
+    mo:SubRegion mr:JP_栃木県栃木市柳橋町 ;
+    mo:SubRegion mr:JP_栃木県栃木市柳原町 ;
+    mo:SubRegion mr:JP_栃木県栃木市倭町 ;
+    mo:SubRegion mr:JP_栃木県栃木市寄居町 ;
+    mo:SubRegion mr:JP_栃木県栃木市万町 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県栃木市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市梓町
+    rdfs:label "梓町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市新井町
+    rdfs:label "新井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市泉川町
+    rdfs:label "泉川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市出流町
+    rdfs:label "出流町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市今泉町
+    rdfs:label "今泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市入舟町
+    rdfs:label "入舟町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市祝町
+    rdfs:label "祝町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩出町
+    rdfs:label "岩出町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町五十畑
+    rdfs:label "岩舟町五十畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町和泉
+    rdfs:label "岩舟町和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町小野寺
+    rdfs:label "岩舟町小野寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町上岡
+    rdfs:label "岩舟町上岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町静
+    rdfs:label "岩舟町静"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町静戸
+    rdfs:label "岩舟町静戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町静和
+    rdfs:label "岩舟町静和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町下岡
+    rdfs:label "岩舟町下岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町下津原
+    rdfs:label "岩舟町下津原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町畳岡
+    rdfs:label "岩舟町畳岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町新里
+    rdfs:label "岩舟町新里"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町古江
+    rdfs:label "岩舟町古江"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町曲ケ島
+    rdfs:label "岩舟町曲ケ島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町三谷
+    rdfs:label "岩舟町三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市岩舟町鷲巣
+    rdfs:label "岩舟町鷲巣"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市梅沢町
+    rdfs:label "梅沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大久保町
+    rdfs:label "大久保町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大塚町
+    rdfs:label "大塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町新
+    rdfs:label "大平町新"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町牛久
+    rdfs:label "大平町牛久"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町榎本
+    rdfs:label "大平町榎本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町上高島
+    rdfs:label "大平町上高島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町川連
+    rdfs:label "大平町川連"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町北武井
+    rdfs:label "大平町北武井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町蔵井
+    rdfs:label "大平町蔵井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町下高島
+    rdfs:label "大平町下高島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町下皆川
+    rdfs:label "大平町下皆川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町富田
+    rdfs:label "大平町富田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町土与
+    rdfs:label "大平町土与"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町西野田
+    rdfs:label "大平町西野田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町西水代
+    rdfs:label "大平町西水代"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町西山田
+    rdfs:label "大平町西山田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町伯仲
+    rdfs:label "大平町伯仲"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町真弓
+    rdfs:label "大平町真弓"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大平町横堀
+    rdfs:label "大平町横堀"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大皆川町
+    rdfs:label "大皆川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大宮町
+    rdfs:label "大宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大森町
+    rdfs:label "大森町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市小野口町
+    rdfs:label "小野口町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市嘉右衛門町
+    rdfs:label "嘉右衛門町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市柏倉町
+    rdfs:label "柏倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市片柳町
+    rdfs:label "片柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市河合町
+    rdfs:label "河合町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市川原田町
+    rdfs:label "川原田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市神田町
+    rdfs:label "神田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市木野地町
+    rdfs:label "木野地町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市久保田町
+    rdfs:label "久保田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市国府町
+    rdfs:label "国府町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市高谷町
+    rdfs:label "高谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市小平町
+    rdfs:label "小平町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市境町
+    rdfs:label "境町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市志鳥町
+    rdfs:label "志鳥町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市城内町
+    rdfs:label "城内町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市尻内町
+    rdfs:label "尻内町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市惣社町
+    rdfs:label "惣社町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市薗部町
+    rdfs:label "薗部町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大光寺町
+    rdfs:label "大光寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市大町
+    rdfs:label "大町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市田村町
+    rdfs:label "田村町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市千塚町
+    rdfs:label "千塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町家中
+    rdfs:label "都賀町家中"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町臼久保
+    rdfs:label "都賀町臼久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町大柿
+    rdfs:label "都賀町大柿"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町大橋
+    rdfs:label "都賀町大橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町合戦場
+    rdfs:label "都賀町合戦場"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町木
+    rdfs:label "都賀町木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町富張
+    rdfs:label "都賀町富張"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町原宿
+    rdfs:label "都賀町原宿"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町平川
+    rdfs:label "都賀町平川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町深沢
+    rdfs:label "都賀町深沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市都賀町升塚
+    rdfs:label "都賀町升塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市仲方町
+    rdfs:label "仲方町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市仲仕上町
+    rdfs:label "仲仕上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市鍋山町
+    rdfs:label "鍋山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市西方町金井
+    rdfs:label "西方町金井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市西方町金崎
+    rdfs:label "西方町金崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市西方町本郷
+    rdfs:label "西方町本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市西方町本城
+    rdfs:label "西方町本城"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市西方町真名子
+    rdfs:label "西方町真名子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市西方町元
+    rdfs:label "西方町元"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市沼和田町
+    rdfs:label "沼和田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市野中町
+    rdfs:label "野中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市箱森町
+    rdfs:label "箱森町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市樋ノ口町
+    rdfs:label "樋ノ口町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市日ノ出町
+    rdfs:label "日ノ出町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市平井町
+    rdfs:label "平井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市平柳町
+    rdfs:label "平柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市吹上町
+    rdfs:label "吹上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町赤麻
+    rdfs:label "藤岡町赤麻"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町石川
+    rdfs:label "藤岡町石川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町内野
+    rdfs:label "藤岡町内野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町太田
+    rdfs:label "藤岡町太田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町大田和
+    rdfs:label "藤岡町大田和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町大前
+    rdfs:label "藤岡町大前"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町甲
+    rdfs:label "藤岡町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町下宮
+    rdfs:label "藤岡町下宮"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町帯刀
+    rdfs:label "藤岡町帯刀"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町都賀
+    rdfs:label "藤岡町都賀"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町富吉
+    rdfs:label "藤岡町富吉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町中根
+    rdfs:label "藤岡町中根"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町西前原
+    rdfs:label "藤岡町西前原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町新波
+    rdfs:label "藤岡町新波"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町蛭沼
+    rdfs:label "藤岡町蛭沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町藤岡
+    rdfs:label "藤岡町藤岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町部屋
+    rdfs:label "藤岡町部屋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤岡町緑川
+    rdfs:label "藤岡町緑川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市藤田町
+    rdfs:label "藤田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市星野町
+    rdfs:label "星野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市細堀町
+    rdfs:label "細堀町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市皆川城内町
+    rdfs:label "皆川城内町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市湊町
+    rdfs:label "湊町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市宮田町
+    rdfs:label "宮田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市宮町
+    rdfs:label "宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市室町
+    rdfs:label "室町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市柳橋町
+    rdfs:label "柳橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市柳原町
+    rdfs:label "柳原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市倭町
+    rdfs:label "倭町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市寄居町
+    rdfs:label "寄居町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県栃木市万町
+    rdfs:label "万町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市
+    rdfs:label "佐野市"@ja ;
+    mo:AreaCode "09204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県佐野市相生町 ;
+    mo:SubRegion mr:JP_栃木県佐野市会沢町 ;
+    mo:SubRegion mr:JP_栃木県佐野市赤坂町 ;
+    mo:SubRegion mr:JP_栃木県佐野市赤見町 ;
+    mo:SubRegion mr:JP_栃木県佐野市秋山町 ;
+    mo:SubRegion mr:JP_栃木県佐野市あくと町 ;
+    mo:SubRegion mr:JP_栃木県佐野市浅沼町 ;
+    mo:SubRegion mr:JP_栃木県佐野市朝日町 ;
+    mo:SubRegion mr:JP_栃木県佐野市鐙塚町 ;
+    mo:SubRegion mr:JP_栃木県佐野市飯田町 ;
+    mo:SubRegion mr:JP_栃木県佐野市伊賀町 ;
+    mo:SubRegion mr:JP_栃木県佐野市石塚町 ;
+    mo:SubRegion mr:JP_栃木県佐野市出流原町 ;
+    mo:SubRegion mr:JP_栃木県佐野市伊勢山町 ;
+    mo:SubRegion mr:JP_栃木県佐野市犬伏上町 ;
+    mo:SubRegion mr:JP_栃木県佐野市犬伏中町 ;
+    mo:SubRegion mr:JP_栃木県佐野市犬伏下町 ;
+    mo:SubRegion mr:JP_栃木県佐野市犬伏新町 ;
+    mo:SubRegion mr:JP_栃木県佐野市伊保内町 ;
+    mo:SubRegion mr:JP_栃木県佐野市岩崎町 ;
+    mo:SubRegion mr:JP_栃木県佐野市植上町 ;
+    mo:SubRegion mr:JP_栃木県佐野市植下町 ;
+    mo:SubRegion mr:JP_栃木県佐野市植野町 ;
+    mo:SubRegion mr:JP_栃木県佐野市梅園町 ;
+    mo:SubRegion mr:JP_栃木県佐野市大蔵町 ;
+    mo:SubRegion mr:JP_栃木県佐野市大栗町 ;
+    mo:SubRegion mr:JP_栃木県佐野市大古屋町 ;
+    mo:SubRegion mr:JP_栃木県佐野市大橋町 ;
+    mo:SubRegion mr:JP_栃木県佐野市小見町 ;
+    mo:SubRegion mr:JP_栃木県佐野市柿平町 ;
+    mo:SubRegion mr:JP_栃木県佐野市嘉多山町 ;
+    mo:SubRegion mr:JP_栃木県佐野市金井上町 ;
+    mo:SubRegion mr:JP_栃木県佐野市金吹町 ;
+    mo:SubRegion mr:JP_栃木県佐野市金屋下町 ;
+    mo:SubRegion mr:JP_栃木県佐野市金屋仲町 ;
+    mo:SubRegion mr:JP_栃木県佐野市庚申塚町 ;
+    mo:SubRegion mr:JP_栃木県佐野市上台町 ;
+    mo:SubRegion mr:JP_栃木県佐野市上羽田町 ;
+    mo:SubRegion mr:JP_栃木県佐野市亀井町 ;
+    mo:SubRegion mr:JP_栃木県佐野市閑馬町 ;
+    mo:SubRegion mr:JP_栃木県佐野市北茂呂町 ;
+    mo:SubRegion mr:JP_栃木県佐野市君田町 ;
+    mo:SubRegion mr:JP_栃木県佐野市葛生西 ;
+    mo:SubRegion mr:JP_栃木県佐野市葛生東 ;
+    mo:SubRegion mr:JP_栃木県佐野市久保町 ;
+    mo:SubRegion mr:JP_栃木県佐野市黒袴町 ;
+    mo:SubRegion mr:JP_栃木県佐野市越名町 ;
+    mo:SubRegion mr:JP_栃木県佐野市小中町 ;
+    mo:SubRegion mr:JP_栃木県佐野市栄町 ;
+    mo:SubRegion mr:JP_栃木県佐野市作原町 ;
+    mo:SubRegion mr:JP_栃木県佐野市七軒町 ;
+    mo:SubRegion mr:JP_栃木県佐野市寺中町 ;
+    mo:SubRegion mr:JP_栃木県佐野市下羽田町 ;
+    mo:SubRegion mr:JP_栃木県佐野市下彦間町 ;
+    mo:SubRegion mr:JP_栃木県佐野市白岩町 ;
+    mo:SubRegion mr:JP_栃木県佐野市新吉水町 ;
+    mo:SubRegion mr:JP_栃木県佐野市関川町 ;
+    mo:SubRegion mr:JP_栃木県佐野市仙波町 ;
+    mo:SubRegion mr:JP_栃木県佐野市大祝町 ;
+    mo:SubRegion mr:JP_栃木県佐野市大町 ;
+    mo:SubRegion mr:JP_栃木県佐野市高砂町 ;
+    mo:SubRegion mr:JP_栃木県佐野市高萩町 ;
+    mo:SubRegion mr:JP_栃木県佐野市高橋町 ;
+    mo:SubRegion mr:JP_栃木県佐野市高山町 ;
+    mo:SubRegion mr:JP_栃木県佐野市田島町 ;
+    mo:SubRegion mr:JP_栃木県佐野市多田町 ;
+    mo:SubRegion mr:JP_栃木県佐野市田沼町 ;
+    mo:SubRegion mr:JP_栃木県佐野市田之入町 ;
+    mo:SubRegion mr:JP_栃木県佐野市築地町 ;
+    mo:SubRegion mr:JP_栃木県佐野市寺久保町 ;
+    mo:SubRegion mr:JP_栃木県佐野市天神町 ;
+    mo:SubRegion mr:JP_栃木県佐野市天明町 ;
+    mo:SubRegion mr:JP_栃木県佐野市栃本町 ;
+    mo:SubRegion mr:JP_栃木県佐野市戸奈良町 ;
+    mo:SubRegion mr:JP_栃木県佐野市富岡町 ;
+    mo:SubRegion mr:JP_栃木県佐野市戸室町 ;
+    mo:SubRegion mr:JP_栃木県佐野市豊代町 ;
+    mo:SubRegion mr:JP_栃木県佐野市長坂町 ;
+    mo:SubRegion mr:JP_栃木県佐野市中町 ;
+    mo:SubRegion mr:JP_栃木県佐野市並木町 ;
+    mo:SubRegion mr:JP_栃木県佐野市奈良渕町 ;
+    mo:SubRegion mr:JP_栃木県佐野市西浦町 ;
+    mo:SubRegion mr:JP_栃木県佐野市韮川町 ;
+    mo:SubRegion mr:JP_栃木県佐野市長谷場町 ;
+    mo:SubRegion mr:JP_栃木県佐野市鉢木町 ;
+    mo:SubRegion mr:JP_栃木県佐野市飛駒町 ;
+    mo:SubRegion mr:JP_栃木県佐野市富士町 ;
+    mo:SubRegion mr:JP_栃木県佐野市富士見町 ;
+    mo:SubRegion mr:JP_栃木県佐野市船越町 ;
+    mo:SubRegion mr:JP_栃木県佐野市船津川町 ;
+    mo:SubRegion mr:JP_栃木県佐野市堀米町 ;
+    mo:SubRegion mr:JP_栃木県佐野市本町 ;
+    mo:SubRegion mr:JP_栃木県佐野市馬門町 ;
+    mo:SubRegion mr:JP_栃木県佐野市牧町 ;
+    mo:SubRegion mr:JP_栃木県佐野市町谷町 ;
+    mo:SubRegion mr:JP_栃木県佐野市御神楽町 ;
+    mo:SubRegion mr:JP_栃木県佐野市水木町 ;
+    mo:SubRegion mr:JP_栃木県佐野市宮下町 ;
+    mo:SubRegion mr:JP_栃木県佐野市村上町 ;
+    mo:SubRegion mr:JP_栃木県佐野市免鳥町 ;
+    mo:SubRegion mr:JP_栃木県佐野市茂呂山町 ;
+    mo:SubRegion mr:JP_栃木県佐野市山形町 ;
+    mo:SubRegion mr:JP_栃木県佐野市山越町 ;
+    mo:SubRegion mr:JP_栃木県佐野市山菅町 ;
+    mo:SubRegion mr:JP_栃木県佐野市大和町 ;
+    mo:SubRegion mr:JP_栃木県佐野市吉水駅前 ;
+    mo:SubRegion mr:JP_栃木県佐野市吉水町 ;
+    mo:SubRegion mr:JP_栃木県佐野市米山南町 ;
+    mo:SubRegion mr:JP_栃木県佐野市万町 ;
+    mo:SubRegion mr:JP_栃木県佐野市若松町 ;
+    mo:SubRegion mr:JP_栃木県佐野市若宮上町 ;
+    mo:SubRegion mr:JP_栃木県佐野市若宮下町 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県佐野市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市会沢町
+    rdfs:label "会沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市赤坂町
+    rdfs:label "赤坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市赤見町
+    rdfs:label "赤見町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市秋山町
+    rdfs:label "秋山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市あくと町
+    rdfs:label "あくと町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市浅沼町
+    rdfs:label "浅沼町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市鐙塚町
+    rdfs:label "鐙塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市飯田町
+    rdfs:label "飯田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市伊賀町
+    rdfs:label "伊賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市石塚町
+    rdfs:label "石塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市出流原町
+    rdfs:label "出流原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市伊勢山町
+    rdfs:label "伊勢山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市犬伏上町
+    rdfs:label "犬伏上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市犬伏中町
+    rdfs:label "犬伏中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市犬伏下町
+    rdfs:label "犬伏下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市犬伏新町
+    rdfs:label "犬伏新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市伊保内町
+    rdfs:label "伊保内町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市岩崎町
+    rdfs:label "岩崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市植上町
+    rdfs:label "植上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市植下町
+    rdfs:label "植下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市植野町
+    rdfs:label "植野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市梅園町
+    rdfs:label "梅園町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市大蔵町
+    rdfs:label "大蔵町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市大栗町
+    rdfs:label "大栗町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市大古屋町
+    rdfs:label "大古屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市大橋町
+    rdfs:label "大橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市小見町
+    rdfs:label "小見町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市柿平町
+    rdfs:label "柿平町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市嘉多山町
+    rdfs:label "嘉多山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市金井上町
+    rdfs:label "金井上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市金吹町
+    rdfs:label "金吹町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市金屋下町
+    rdfs:label "金屋下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市金屋仲町
+    rdfs:label "金屋仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市庚申塚町
+    rdfs:label "庚申塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市上台町
+    rdfs:label "上台町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市上羽田町
+    rdfs:label "上羽田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市亀井町
+    rdfs:label "亀井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市閑馬町
+    rdfs:label "閑馬町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市北茂呂町
+    rdfs:label "北茂呂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市君田町
+    rdfs:label "君田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市葛生西
+    rdfs:label "葛生西"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市葛生東
+    rdfs:label "葛生東"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市久保町
+    rdfs:label "久保町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市黒袴町
+    rdfs:label "黒袴町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市越名町
+    rdfs:label "越名町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市小中町
+    rdfs:label "小中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市作原町
+    rdfs:label "作原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市七軒町
+    rdfs:label "七軒町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市寺中町
+    rdfs:label "寺中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市下羽田町
+    rdfs:label "下羽田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市下彦間町
+    rdfs:label "下彦間町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市白岩町
+    rdfs:label "白岩町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市新吉水町
+    rdfs:label "新吉水町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市関川町
+    rdfs:label "関川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市仙波町
+    rdfs:label "仙波町"@ja ;
+    mo:SubRegion mr:JP_栃木県佐野市仙波町坂東 ;
+    mo:SubRegion mr:JP_栃木県佐野市仙波町松ケ坂 ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市仙波町坂東
+    rdfs:label "坂東"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市仙波町松ケ坂
+    rdfs:label "松ケ坂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市大祝町
+    rdfs:label "大祝町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市大町
+    rdfs:label "大町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市高砂町
+    rdfs:label "高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市高萩町
+    rdfs:label "高萩町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市高橋町
+    rdfs:label "高橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市高山町
+    rdfs:label "高山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市田島町
+    rdfs:label "田島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市多田町
+    rdfs:label "多田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市田沼町
+    rdfs:label "田沼町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市田之入町
+    rdfs:label "田之入町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市築地町
+    rdfs:label "築地町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市寺久保町
+    rdfs:label "寺久保町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市天明町
+    rdfs:label "天明町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市栃本町
+    rdfs:label "栃本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市戸奈良町
+    rdfs:label "戸奈良町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市富岡町
+    rdfs:label "富岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市戸室町
+    rdfs:label "戸室町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市豊代町
+    rdfs:label "豊代町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市長坂町
+    rdfs:label "長坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市並木町
+    rdfs:label "並木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市奈良渕町
+    rdfs:label "奈良渕町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市西浦町
+    rdfs:label "西浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市韮川町
+    rdfs:label "韮川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市長谷場町
+    rdfs:label "長谷場町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市鉢木町
+    rdfs:label "鉢木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市飛駒町
+    rdfs:label "飛駒町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市富士町
+    rdfs:label "富士町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市船越町
+    rdfs:label "船越町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市船津川町
+    rdfs:label "船津川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市堀米町
+    rdfs:label "堀米町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市馬門町
+    rdfs:label "馬門町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市牧町
+    rdfs:label "牧町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市町谷町
+    rdfs:label "町谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市御神楽町
+    rdfs:label "御神楽町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市水木町
+    rdfs:label "水木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市宮下町
+    rdfs:label "宮下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市村上町
+    rdfs:label "村上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市免鳥町
+    rdfs:label "免鳥町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市茂呂山町
+    rdfs:label "茂呂山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市山形町
+    rdfs:label "山形町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市山越町
+    rdfs:label "山越町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市山菅町
+    rdfs:label "山菅町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市大和町
+    rdfs:label "大和町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市吉水駅前
+    rdfs:label "吉水駅前"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市吉水町
+    rdfs:label "吉水町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市米山南町
+    rdfs:label "米山南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市万町
+    rdfs:label "万町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市若松町
+    rdfs:label "若松町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市若宮上町
+    rdfs:label "若宮上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県佐野市若宮下町
+    rdfs:label "若宮下町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市
+    rdfs:label "鹿沼市"@ja ;
+    mo:AreaCode "09205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市麻苧町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市旭が丘 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市朝日町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市東町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市油田町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市池ノ森 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市石橋町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市泉町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市磯町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市板荷 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市今宮町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市入粟野 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上野町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市大和田町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市御成橋町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市貝島町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市柏木 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市加園 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上石川 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上大久保 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上粕尾 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上久我 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上材木町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上田町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上殿町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上永野 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上奈良部町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上南摩町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市上日向 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市亀和田町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市北赤塚町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市北半田 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市銀座 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市草久 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市口粟野 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市久野 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市久保町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市晃望台 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市高谷 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市古賀志町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市幸町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市栄町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市坂田山 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市酒野谷 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市笹原田 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市さつき町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市佐目町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市三幸町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市塩山町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下石川 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下大久保 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下粕尾 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下久我 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下材木町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下沢 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下武子町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下田町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下遠部 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下永野 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下奈良部町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下南摩町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下日向 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市下横町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市白桑田 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市末広町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市千手町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市千渡 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市武子 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市玉田町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市寺町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市天神町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市栃窪 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市戸張町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市富岡 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市鳥居跡町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市中粟野 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市中粕尾 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市中田町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市仲町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市奈佐原町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市仁神堂町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市西鹿沼町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市西沢町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市西茂呂 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市日光奈良部町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市楡木町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市野沢町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市野尻 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市花岡町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市東末広町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市引田 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市日吉町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市深岩 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市深津 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市深程 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市藤江町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市府中町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市府所町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市府所本町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市文化橋町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市蓬莱町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市松原 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市緑町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市南上野町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市みなみ町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市見野 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市睦町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市村井町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市樅山町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市茂呂 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市万町 ;
+    mo:SubRegion mr:JP_栃木県鹿沼市流通センター ;
+a mo:GeoEntity .
+
+mr:JP_栃木県鹿沼市麻苧町
+    rdfs:label "麻苧町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市旭が丘
+    rdfs:label "旭が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市油田町
+    rdfs:label "油田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市池ノ森
+    rdfs:label "池ノ森"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市石橋町
+    rdfs:label "石橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市磯町
+    rdfs:label "磯町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市板荷
+    rdfs:label "板荷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市今宮町
+    rdfs:label "今宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市入粟野
+    rdfs:label "入粟野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上野町
+    rdfs:label "上野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市大和田町
+    rdfs:label "大和田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市御成橋町
+    rdfs:label "御成橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市貝島町
+    rdfs:label "貝島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市柏木
+    rdfs:label "柏木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市加園
+    rdfs:label "加園"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上石川
+    rdfs:label "上石川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上大久保
+    rdfs:label "上大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上粕尾
+    rdfs:label "上粕尾"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上久我
+    rdfs:label "上久我"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上材木町
+    rdfs:label "上材木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上田町
+    rdfs:label "上田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上殿町
+    rdfs:label "上殿町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上永野
+    rdfs:label "上永野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上奈良部町
+    rdfs:label "上奈良部町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上南摩町
+    rdfs:label "上南摩町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市上日向
+    rdfs:label "上日向"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市亀和田町
+    rdfs:label "亀和田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市北赤塚町
+    rdfs:label "北赤塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市北半田
+    rdfs:label "北半田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市銀座
+    rdfs:label "銀座"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市草久
+    rdfs:label "草久"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市口粟野
+    rdfs:label "口粟野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市久野
+    rdfs:label "久野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市久保町
+    rdfs:label "久保町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市晃望台
+    rdfs:label "晃望台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市高谷
+    rdfs:label "高谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市古賀志町
+    rdfs:label "古賀志町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市坂田山
+    rdfs:label "坂田山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市酒野谷
+    rdfs:label "酒野谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市笹原田
+    rdfs:label "笹原田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市さつき町
+    rdfs:label "さつき町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市佐目町
+    rdfs:label "佐目町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市三幸町
+    rdfs:label "三幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市塩山町
+    rdfs:label "塩山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下石川
+    rdfs:label "下石川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下大久保
+    rdfs:label "下大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下粕尾
+    rdfs:label "下粕尾"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下久我
+    rdfs:label "下久我"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下材木町
+    rdfs:label "下材木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下沢
+    rdfs:label "下沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下武子町
+    rdfs:label "下武子町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下田町
+    rdfs:label "下田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下遠部
+    rdfs:label "下遠部"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下永野
+    rdfs:label "下永野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下奈良部町
+    rdfs:label "下奈良部町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下南摩町
+    rdfs:label "下南摩町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下日向
+    rdfs:label "下日向"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市下横町
+    rdfs:label "下横町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市白桑田
+    rdfs:label "白桑田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市千手町
+    rdfs:label "千手町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市千渡
+    rdfs:label "千渡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市武子
+    rdfs:label "武子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市玉田町
+    rdfs:label "玉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市寺町
+    rdfs:label "寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市栃窪
+    rdfs:label "栃窪"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市戸張町
+    rdfs:label "戸張町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市鳥居跡町
+    rdfs:label "鳥居跡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市中粟野
+    rdfs:label "中粟野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市中粕尾
+    rdfs:label "中粕尾"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市中田町
+    rdfs:label "中田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市仲町
+    rdfs:label "仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市奈佐原町
+    rdfs:label "奈佐原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市仁神堂町
+    rdfs:label "仁神堂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市西鹿沼町
+    rdfs:label "西鹿沼町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市西沢町
+    rdfs:label "西沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市西茂呂
+    rdfs:label "西茂呂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市日光奈良部町
+    rdfs:label "日光奈良部町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市楡木町
+    rdfs:label "楡木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市野沢町
+    rdfs:label "野沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市野尻
+    rdfs:label "野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市花岡町
+    rdfs:label "花岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市東末広町
+    rdfs:label "東末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市引田
+    rdfs:label "引田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市日吉町
+    rdfs:label "日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市深岩
+    rdfs:label "深岩"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市深津
+    rdfs:label "深津"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市深程
+    rdfs:label "深程"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市藤江町
+    rdfs:label "藤江町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市府中町
+    rdfs:label "府中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市府所町
+    rdfs:label "府所町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市府所本町
+    rdfs:label "府所本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市文化橋町
+    rdfs:label "文化橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市蓬莱町
+    rdfs:label "蓬莱町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市南上野町
+    rdfs:label "南上野町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市みなみ町
+    rdfs:label "みなみ町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市見野
+    rdfs:label "見野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市睦町
+    rdfs:label "睦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市村井町
+    rdfs:label "村井町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市樅山町
+    rdfs:label "樅山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市茂呂
+    rdfs:label "茂呂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市万町
+    rdfs:label "万町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県鹿沼市流通センター
+    rdfs:label "流通センター"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市
+    rdfs:label "日光市"@ja ;
+    mo:AreaCode "09206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県日光市相生町 ;
+    mo:SubRegion mr:JP_栃木県日光市赤下 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町赤倉 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町赤沢 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町愛宕下 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町上の平 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町掛水 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町上間藤 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町下間藤 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町砂畑 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町通洞 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町遠下 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町中才 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町南橋 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町深沢 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町本山 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町松原 ;
+    mo:SubRegion mr:JP_栃木県日光市足尾町向原 ;
+    mo:SubRegion mr:JP_栃木県日光市五十里 ;
+    mo:SubRegion mr:JP_栃木県日光市石屋町 ;
+    mo:SubRegion mr:JP_栃木県日光市和泉 ;
+    mo:SubRegion mr:JP_栃木県日光市板橋 ;
+    mo:SubRegion mr:JP_栃木県日光市稲荷町 ;
+    mo:SubRegion mr:JP_栃木県日光市猪倉 ;
+    mo:SubRegion mr:JP_栃木県日光市今市 ;
+    mo:SubRegion mr:JP_栃木県日光市今市本町 ;
+    mo:SubRegion mr:JP_栃木県日光市岩崎 ;
+    mo:SubRegion mr:JP_栃木県日光市薄井沢 ;
+    mo:SubRegion mr:JP_栃木県日光市大桑町 ;
+    mo:SubRegion mr:JP_栃木県日光市大沢町 ;
+    mo:SubRegion mr:JP_栃木県日光市大室 ;
+    mo:SubRegion mr:JP_栃木県日光市大渡 ;
+    mo:SubRegion mr:JP_栃木県日光市荊沢 ;
+    mo:SubRegion mr:JP_栃木県日光市嘉多蔵 ;
+    mo:SubRegion mr:JP_栃木県日光市上栗山 ;
+    mo:SubRegion mr:JP_栃木県日光市上鉢石町 ;
+    mo:SubRegion mr:JP_栃木県日光市上三依 ;
+    mo:SubRegion mr:JP_栃木県日光市柄倉 ;
+    mo:SubRegion mr:JP_栃木県日光市川治温泉川治 ;
+    mo:SubRegion mr:JP_栃木県日光市川治温泉高原 ;
+    mo:SubRegion mr:JP_栃木県日光市川治温泉滝 ;
+    mo:SubRegion mr:JP_栃木県日光市川俣 ;
+    mo:SubRegion mr:JP_栃木県日光市川室 ;
+    mo:SubRegion mr:JP_栃木県日光市吉沢 ;
+    mo:SubRegion mr:JP_栃木県日光市鬼怒川温泉大原 ;
+    mo:SubRegion mr:JP_栃木県日光市鬼怒川温泉滝 ;
+    mo:SubRegion mr:JP_栃木県日光市清滝 ;
+    mo:SubRegion mr:JP_栃木県日光市清滝安良沢町 ;
+    mo:SubRegion mr:JP_栃木県日光市清滝桜ケ丘町 ;
+    mo:SubRegion mr:JP_栃木県日光市清滝新細尾町 ;
+    mo:SubRegion mr:JP_栃木県日光市清滝丹勢町 ;
+    mo:SubRegion mr:JP_栃木県日光市清滝中安戸町 ;
+    mo:SubRegion mr:JP_栃木県日光市清滝和の代町 ;
+    mo:SubRegion mr:JP_栃木県日光市木和田島 ;
+    mo:SubRegion mr:JP_栃木県日光市久次良町 ;
+    mo:SubRegion mr:JP_栃木県日光市沓掛 ;
+    mo:SubRegion mr:JP_栃木県日光市倉ケ崎 ;
+    mo:SubRegion mr:JP_栃木県日光市倉ケ崎新田 ;
+    mo:SubRegion mr:JP_栃木県日光市栗原 ;
+    mo:SubRegion mr:JP_栃木県日光市黒部 ;
+    mo:SubRegion mr:JP_栃木県日光市小倉 ;
+    mo:SubRegion mr:JP_栃木県日光市御幸町 ;
+    mo:SubRegion mr:JP_栃木県日光市小佐越 ;
+    mo:SubRegion mr:JP_栃木県日光市小代 ;
+    mo:SubRegion mr:JP_栃木県日光市小林 ;
+    mo:SubRegion mr:JP_栃木県日光市小百 ;
+    mo:SubRegion mr:JP_栃木県日光市佐下部 ;
+    mo:SubRegion mr:JP_栃木県日光市沢又 ;
+    mo:SubRegion mr:JP_栃木県日光市山内 ;
+    mo:SubRegion mr:JP_栃木県日光市塩野室町 ;
+    mo:SubRegion mr:JP_栃木県日光市七里 ;
+    mo:SubRegion mr:JP_栃木県日光市下の内 ;
+    mo:SubRegion mr:JP_栃木県日光市下鉢石町 ;
+    mo:SubRegion mr:JP_栃木県日光市瀬川 ;
+    mo:SubRegion mr:JP_栃木県日光市瀬尾 ;
+    mo:SubRegion mr:JP_栃木県日光市芹沢 ;
+    mo:SubRegion mr:JP_栃木県日光市芹沼 ;
+    mo:SubRegion mr:JP_栃木県日光市千本木 ;
+    mo:SubRegion mr:JP_栃木県日光市高柴 ;
+    mo:SubRegion mr:JP_栃木県日光市高徳 ;
+    mo:SubRegion mr:JP_栃木県日光市高原 ;
+    mo:SubRegion mr:JP_栃木県日光市滝ケ原 ;
+    mo:SubRegion mr:JP_栃木県日光市匠町 ;
+    mo:SubRegion mr:JP_栃木県日光市丹勢 ;
+    mo:SubRegion mr:JP_栃木県日光市中央町 ;
+    mo:SubRegion mr:JP_栃木県日光市中宮祠 ;
+    mo:SubRegion mr:JP_栃木県日光市手岡 ;
+    mo:SubRegion mr:JP_栃木県日光市東和町 ;
+    mo:SubRegion mr:JP_栃木県日光市所野 ;
+    mo:SubRegion mr:JP_栃木県日光市土沢 ;
+    mo:SubRegion mr:JP_栃木県日光市独鈷沢 ;
+    mo:SubRegion mr:JP_栃木県日光市轟 ;
+    mo:SubRegion mr:JP_栃木県日光市豊田 ;
+    mo:SubRegion mr:JP_栃木県日光市土呂部 ;
+    mo:SubRegion mr:JP_栃木県日光市中小来川 ;
+    mo:SubRegion mr:JP_栃木県日光市長畑 ;
+    mo:SubRegion mr:JP_栃木県日光市中鉢石町 ;
+    mo:SubRegion mr:JP_栃木県日光市中三依 ;
+    mo:SubRegion mr:JP_栃木県日光市並木町 ;
+    mo:SubRegion mr:JP_栃木県日光市西小来川 ;
+    mo:SubRegion mr:JP_栃木県日光市西川 ;
+    mo:SubRegion mr:JP_栃木県日光市日光 ;
+    mo:SubRegion mr:JP_栃木県日光市根室 ;
+    mo:SubRegion mr:JP_栃木県日光市野門 ;
+    mo:SubRegion mr:JP_栃木県日光市野口 ;
+    mo:SubRegion mr:JP_栃木県日光市花石町 ;
+    mo:SubRegion mr:JP_栃木県日光市原宿 ;
+    mo:SubRegion mr:JP_栃木県日光市針貝 ;
+    mo:SubRegion mr:JP_栃木県日光市萩垣面 ;
+    mo:SubRegion mr:JP_栃木県日光市日蔭 ;
+    mo:SubRegion mr:JP_栃木県日光市東小来川 ;
+    mo:SubRegion mr:JP_栃木県日光市一ツ石 ;
+    mo:SubRegion mr:JP_栃木県日光市日向 ;
+    mo:SubRegion mr:JP_栃木県日光市平ケ崎 ;
+    mo:SubRegion mr:JP_栃木県日光市藤原 ;
+    mo:SubRegion mr:JP_栃木県日光市文挾町 ;
+    mo:SubRegion mr:JP_栃木県日光市宝殿 ;
+    mo:SubRegion mr:JP_栃木県日光市細尾町 ;
+    mo:SubRegion mr:JP_栃木県日光市本町 ;
+    mo:SubRegion mr:JP_栃木県日光市町谷 ;
+    mo:SubRegion mr:JP_栃木県日光市松原町 ;
+    mo:SubRegion mr:JP_栃木県日光市水無 ;
+    mo:SubRegion mr:JP_栃木県日光市南小来川 ;
+    mo:SubRegion mr:JP_栃木県日光市宮小来川 ;
+    mo:SubRegion mr:JP_栃木県日光市明神 ;
+    mo:SubRegion mr:JP_栃木県日光市室瀬 ;
+    mo:SubRegion mr:JP_栃木県日光市森友 ;
+    mo:SubRegion mr:JP_栃木県日光市安川町 ;
+    mo:SubRegion mr:JP_栃木県日光市矢野口 ;
+    mo:SubRegion mr:JP_栃木県日光市山口 ;
+    mo:SubRegion mr:JP_栃木県日光市山久保 ;
+    mo:SubRegion mr:JP_栃木県日光市湯西川 ;
+    mo:SubRegion mr:JP_栃木県日光市湯元 ;
+    mo:SubRegion mr:JP_栃木県日光市横川 ;
+    mo:SubRegion mr:JP_栃木県日光市若杉町 ;
+    mo:SubRegion mr:JP_栃木県日光市若間 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県日光市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市赤下
+    rdfs:label "赤下"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町
+    rdfs:label "足尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町赤倉
+    rdfs:label "足尾町赤倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町赤沢
+    rdfs:label "足尾町赤沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町愛宕下
+    rdfs:label "足尾町愛宕下"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町上の平
+    rdfs:label "足尾町上の平"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町掛水
+    rdfs:label "足尾町掛水"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町上間藤
+    rdfs:label "足尾町上間藤"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町下間藤
+    rdfs:label "足尾町下間藤"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町砂畑
+    rdfs:label "足尾町砂畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町通洞
+    rdfs:label "足尾町通洞"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町遠下
+    rdfs:label "足尾町遠下"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町中才
+    rdfs:label "足尾町中才"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町南橋
+    rdfs:label "足尾町南橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町深沢
+    rdfs:label "足尾町深沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町本山
+    rdfs:label "足尾町本山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町松原
+    rdfs:label "足尾町松原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市足尾町向原
+    rdfs:label "足尾町向原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市五十里
+    rdfs:label "五十里"@ja ;
+    mo:SubRegion mr:JP_栃木県日光市五十里東山 ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市五十里東山
+    rdfs:label "東山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市石屋町
+    rdfs:label "石屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市和泉
+    rdfs:label "和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市板橋
+    rdfs:label "板橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市稲荷町
+    rdfs:label "稲荷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市猪倉
+    rdfs:label "猪倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市今市
+    rdfs:label "今市"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市今市本町
+    rdfs:label "今市本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市岩崎
+    rdfs:label "岩崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市薄井沢
+    rdfs:label "薄井沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市大桑町
+    rdfs:label "大桑町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市大沢町
+    rdfs:label "大沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市大室
+    rdfs:label "大室"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市大渡
+    rdfs:label "大渡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市荊沢
+    rdfs:label "荊沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市嘉多蔵
+    rdfs:label "嘉多蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市上栗山
+    rdfs:label "上栗山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市上鉢石町
+    rdfs:label "上鉢石町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市上三依
+    rdfs:label "上三依"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市柄倉
+    rdfs:label "柄倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市川治温泉川治
+    rdfs:label "川治温泉川治"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市川治温泉高原
+    rdfs:label "川治温泉高原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市川治温泉滝
+    rdfs:label "川治温泉滝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市川俣
+    rdfs:label "川俣"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市川室
+    rdfs:label "川室"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市吉沢
+    rdfs:label "吉沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市鬼怒川温泉大原
+    rdfs:label "鬼怒川温泉大原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市鬼怒川温泉滝
+    rdfs:label "鬼怒川温泉滝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市清滝
+    rdfs:label "清滝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市清滝安良沢町
+    rdfs:label "清滝安良沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市清滝桜ケ丘町
+    rdfs:label "清滝桜ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市清滝新細尾町
+    rdfs:label "清滝新細尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市清滝丹勢町
+    rdfs:label "清滝丹勢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市清滝中安戸町
+    rdfs:label "清滝中安戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市清滝和の代町
+    rdfs:label "清滝和の代町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市木和田島
+    rdfs:label "木和田島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市久次良町
+    rdfs:label "久次良町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市沓掛
+    rdfs:label "沓掛"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市倉ケ崎
+    rdfs:label "倉ケ崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市倉ケ崎新田
+    rdfs:label "倉ケ崎新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市栗原
+    rdfs:label "栗原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市黒部
+    rdfs:label "黒部"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市小倉
+    rdfs:label "小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市御幸町
+    rdfs:label "御幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市小佐越
+    rdfs:label "小佐越"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市小代
+    rdfs:label "小代"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市小林
+    rdfs:label "小林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市小百
+    rdfs:label "小百"@ja ;
+    mo:SubRegion mr:JP_栃木県日光市小百筒置 ;
+    mo:SubRegion mr:JP_栃木県日光市小百鳥屋下 ;
+    mo:SubRegion mr:JP_栃木県日光市小百楢原 ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市小百筒置
+    rdfs:label "筒置"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市小百鳥屋下
+    rdfs:label "鳥屋下"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市小百楢原
+    rdfs:label "楢原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市佐下部
+    rdfs:label "佐下部"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市沢又
+    rdfs:label "沢又"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市山内
+    rdfs:label "山内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市塩野室町
+    rdfs:label "塩野室町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市七里
+    rdfs:label "七里"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市下の内
+    rdfs:label "下の内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市下鉢石町
+    rdfs:label "下鉢石町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市瀬川
+    rdfs:label "瀬川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市瀬尾
+    rdfs:label "瀬尾"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市芹沢
+    rdfs:label "芹沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市芹沼
+    rdfs:label "芹沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市千本木
+    rdfs:label "千本木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市高柴
+    rdfs:label "高柴"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市高徳
+    rdfs:label "高徳"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市高原
+    rdfs:label "高原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市滝ケ原
+    rdfs:label "滝ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市匠町
+    rdfs:label "匠町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市丹勢
+    rdfs:label "丹勢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市中宮祠
+    rdfs:label "中宮祠"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市手岡
+    rdfs:label "手岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市東和町
+    rdfs:label "東和町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市所野
+    rdfs:label "所野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市土沢
+    rdfs:label "土沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市独鈷沢
+    rdfs:label "独鈷沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市轟
+    rdfs:label "轟"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市豊田
+    rdfs:label "豊田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市土呂部
+    rdfs:label "土呂部"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市中小来川
+    rdfs:label "中小来川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市長畑
+    rdfs:label "長畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市中鉢石町
+    rdfs:label "中鉢石町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市中三依
+    rdfs:label "中三依"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市並木町
+    rdfs:label "並木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市西小来川
+    rdfs:label "西小来川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市西川
+    rdfs:label "西川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市日光
+    rdfs:label "日光"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市根室
+    rdfs:label "根室"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市野門
+    rdfs:label "野門"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市野口
+    rdfs:label "野口"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市花石町
+    rdfs:label "花石町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市原宿
+    rdfs:label "原宿"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市針貝
+    rdfs:label "針貝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市萩垣面
+    rdfs:label "萩垣面"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市日蔭
+    rdfs:label "日蔭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市東小来川
+    rdfs:label "東小来川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市一ツ石
+    rdfs:label "一ツ石"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市日向
+    rdfs:label "日向"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市平ケ崎
+    rdfs:label "平ケ崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市藤原
+    rdfs:label "藤原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市文挾町
+    rdfs:label "文挾町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市宝殿
+    rdfs:label "宝殿"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市細尾町
+    rdfs:label "細尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市町谷
+    rdfs:label "町谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市水無
+    rdfs:label "水無"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市南小来川
+    rdfs:label "南小来川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市宮小来川
+    rdfs:label "宮小来川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市明神
+    rdfs:label "明神"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市室瀬
+    rdfs:label "室瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市森友
+    rdfs:label "森友"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市安川町
+    rdfs:label "安川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市矢野口
+    rdfs:label "矢野口"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市山口
+    rdfs:label "山口"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市山久保
+    rdfs:label "山久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市湯西川
+    rdfs:label "湯西川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市湯元
+    rdfs:label "湯元"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市横川
+    rdfs:label "横川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市若杉町
+    rdfs:label "若杉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県日光市若間
+    rdfs:label "若間"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市
+    rdfs:label "小山市"@ja ;
+    mo:AreaCode "09208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県小山市暁 ;
+    mo:SubRegion mr:JP_栃木県小山市網戸 ;
+    mo:SubRegion mr:JP_栃木県小山市雨ケ谷 ;
+    mo:SubRegion mr:JP_栃木県小山市雨ケ谷新田 ;
+    mo:SubRegion mr:JP_栃木県小山市雨ケ谷町 ;
+    mo:SubRegion mr:JP_栃木県小山市荒井 ;
+    mo:SubRegion mr:JP_栃木県小山市荒川 ;
+    mo:SubRegion mr:JP_栃木県小山市粟宮 ;
+    mo:SubRegion mr:JP_栃木県小山市飯塚 ;
+    mo:SubRegion mr:JP_栃木県小山市井岡 ;
+    mo:SubRegion mr:JP_栃木県小山市生駒 ;
+    mo:SubRegion mr:JP_栃木県小山市石ノ上 ;
+    mo:SubRegion mr:JP_栃木県小山市出井 ;
+    mo:SubRegion mr:JP_栃木県小山市稲葉郷 ;
+    mo:SubRegion mr:JP_栃木県小山市犬塚 ;
+    mo:SubRegion mr:JP_栃木県小山市今里 ;
+    mo:SubRegion mr:JP_栃木県小山市美しが丘 ;
+    mo:SubRegion mr:JP_栃木県小山市駅東通り ;
+    mo:SubRegion mr:JP_栃木県小山市駅南町 ;
+    mo:SubRegion mr:JP_栃木県小山市大川島 ;
+    mo:SubRegion mr:JP_栃木県小山市大本 ;
+    mo:SubRegion mr:JP_栃木県小山市押切 ;
+    mo:SubRegion mr:JP_栃木県小山市乙女 ;
+    mo:SubRegion mr:JP_栃木県小山市小宅 ;
+    mo:SubRegion mr:JP_栃木県小山市小山 ;
+    mo:SubRegion mr:JP_栃木県小山市鏡 ;
+    mo:SubRegion mr:JP_栃木県小山市上石塚 ;
+    mo:SubRegion mr:JP_栃木県小山市上泉 ;
+    mo:SubRegion mr:JP_栃木県小山市上国府塚 ;
+    mo:SubRegion mr:JP_栃木県小山市上生井 ;
+    mo:SubRegion mr:JP_栃木県小山市上初田 ;
+    mo:SubRegion mr:JP_栃木県小山市神山 ;
+    mo:SubRegion mr:JP_栃木県小山市萱橋 ;
+    mo:SubRegion mr:JP_栃木県小山市喜沢 ;
+    mo:SubRegion mr:JP_栃木県小山市北飯田 ;
+    mo:SubRegion mr:JP_栃木県小山市生良 ;
+    mo:SubRegion mr:JP_栃木県小山市黒本 ;
+    mo:SubRegion mr:JP_栃木県小山市小薬 ;
+    mo:SubRegion mr:JP_栃木県小山市小袋 ;
+    mo:SubRegion mr:JP_栃木県小山市寒川 ;
+    mo:SubRegion mr:JP_栃木県小山市三拝川岸 ;
+    mo:SubRegion mr:JP_栃木県小山市塩沢 ;
+    mo:SubRegion mr:JP_栃木県小山市渋井 ;
+    mo:SubRegion mr:JP_栃木県小山市島田 ;
+    mo:SubRegion mr:JP_栃木県小山市下石塚 ;
+    mo:SubRegion mr:JP_栃木県小山市下泉 ;
+    mo:SubRegion mr:JP_栃木県小山市下河原田 ;
+    mo:SubRegion mr:JP_栃木県小山市下国府塚 ;
+    mo:SubRegion mr:JP_栃木県小山市下生井 ;
+    mo:SubRegion mr:JP_栃木県小山市下初田 ;
+    mo:SubRegion mr:JP_栃木県小山市城東 ;
+    mo:SubRegion mr:JP_栃木県小山市城北 ;
+    mo:SubRegion mr:JP_栃木県小山市白鳥 ;
+    mo:SubRegion mr:JP_栃木県小山市城山町 ;
+    mo:SubRegion mr:JP_栃木県小山市神明町 ;
+    mo:SubRegion mr:JP_栃木県小山市千駄塚 ;
+    mo:SubRegion mr:JP_栃木県小山市卒島 ;
+    mo:SubRegion mr:JP_栃木県小山市大行寺 ;
+    mo:SubRegion mr:JP_栃木県小山市高椅 ;
+    mo:SubRegion mr:JP_栃木県小山市田川 ;
+    mo:SubRegion mr:JP_栃木県小山市武井 ;
+    mo:SubRegion mr:JP_栃木県小山市立木 ;
+    mo:SubRegion mr:JP_栃木県小山市田間 ;
+    mo:SubRegion mr:JP_栃木県小山市中央町 ;
+    mo:SubRegion mr:JP_栃木県小山市塚崎 ;
+    mo:SubRegion mr:JP_栃木県小山市天神町 ;
+    mo:SubRegion mr:JP_栃木県小山市外城 ;
+    mo:SubRegion mr:JP_栃木県小山市土塔 ;
+    mo:SubRegion mr:JP_栃木県小山市中河原 ;
+    mo:SubRegion mr:JP_栃木県小山市中久喜 ;
+    mo:SubRegion mr:JP_栃木県小山市中里 ;
+    mo:SubRegion mr:JP_栃木県小山市中島 ;
+    mo:SubRegion mr:JP_栃木県小山市楢木 ;
+    mo:SubRegion mr:JP_栃木県小山市西黒田 ;
+    mo:SubRegion mr:JP_栃木県小山市西城南 ;
+    mo:SubRegion mr:JP_栃木県小山市延島 ;
+    mo:SubRegion mr:JP_栃木県小山市延島新田 ;
+    mo:SubRegion mr:JP_栃木県小山市萩島 ;
+    mo:SubRegion mr:JP_栃木県小山市迫間田 ;
+    mo:SubRegion mr:JP_栃木県小山市鉢形 ;
+    mo:SubRegion mr:JP_栃木県小山市花垣町 ;
+    mo:SubRegion mr:JP_栃木県小山市羽川 ;
+    mo:SubRegion mr:JP_栃木県小山市東黒田 ;
+    mo:SubRegion mr:JP_栃木県小山市東島田 ;
+    mo:SubRegion mr:JP_栃木県小山市東城南 ;
+    mo:SubRegion mr:JP_栃木県小山市東野田 ;
+    mo:SubRegion mr:JP_栃木県小山市東間々田 ;
+    mo:SubRegion mr:JP_栃木県小山市東山田 ;
+    mo:SubRegion mr:JP_栃木県小山市神鳥谷 ;
+    mo:SubRegion mr:JP_栃木県小山市平和 ;
+    mo:SubRegion mr:JP_栃木県小山市福良 ;
+    mo:SubRegion mr:JP_栃木県小山市扶桑 ;
+    mo:SubRegion mr:JP_栃木県小山市本郷町 ;
+    mo:SubRegion mr:JP_栃木県小山市松沼 ;
+    mo:SubRegion mr:JP_栃木県小山市間中 ;
+    mo:SubRegion mr:JP_栃木県小山市間々田 ;
+    mo:SubRegion mr:JP_栃木県小山市三峯 ;
+    mo:SubRegion mr:JP_栃木県小山市南飯田 ;
+    mo:SubRegion mr:JP_栃木県小山市南和泉 ;
+    mo:SubRegion mr:JP_栃木県小山市南乙女 ;
+    mo:SubRegion mr:JP_栃木県小山市南小林 ;
+    mo:SubRegion mr:JP_栃木県小山市南半田 ;
+    mo:SubRegion mr:JP_栃木県小山市宮本町 ;
+    mo:SubRegion mr:JP_栃木県小山市向野 ;
+    mo:SubRegion mr:JP_栃木県小山市向原新田 ;
+    mo:SubRegion mr:JP_栃木県小山市梁 ;
+    mo:SubRegion mr:JP_栃木県小山市八幡町 ;
+    mo:SubRegion mr:JP_栃木県小山市横倉 ;
+    mo:SubRegion mr:JP_栃木県小山市横倉新田 ;
+    mo:SubRegion mr:JP_栃木県小山市若木町 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県小山市暁
+    rdfs:label "暁"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市網戸
+    rdfs:label "網戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市雨ケ谷
+    rdfs:label "雨ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市雨ケ谷新田
+    rdfs:label "雨ケ谷新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市雨ケ谷町
+    rdfs:label "雨ケ谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市荒井
+    rdfs:label "荒井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市荒川
+    rdfs:label "荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市粟宮
+    rdfs:label "粟宮"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市飯塚
+    rdfs:label "飯塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市井岡
+    rdfs:label "井岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市生駒
+    rdfs:label "生駒"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市石ノ上
+    rdfs:label "石ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市出井
+    rdfs:label "出井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市稲葉郷
+    rdfs:label "稲葉郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市犬塚
+    rdfs:label "犬塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市今里
+    rdfs:label "今里"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市美しが丘
+    rdfs:label "美しが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市駅東通り
+    rdfs:label "駅東通り"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市駅南町
+    rdfs:label "駅南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市大川島
+    rdfs:label "大川島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市大本
+    rdfs:label "大本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市押切
+    rdfs:label "押切"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市乙女
+    rdfs:label "乙女"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市小宅
+    rdfs:label "小宅"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市小山
+    rdfs:label "小山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市鏡
+    rdfs:label "鏡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市上石塚
+    rdfs:label "上石塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市上泉
+    rdfs:label "上泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市上国府塚
+    rdfs:label "上国府塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市上生井
+    rdfs:label "上生井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市上初田
+    rdfs:label "上初田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市神山
+    rdfs:label "神山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市萱橋
+    rdfs:label "萱橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市喜沢
+    rdfs:label "喜沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市北飯田
+    rdfs:label "北飯田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市生良
+    rdfs:label "生良"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市黒本
+    rdfs:label "黒本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市小薬
+    rdfs:label "小薬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市小袋
+    rdfs:label "小袋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市寒川
+    rdfs:label "寒川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市三拝川岸
+    rdfs:label "三拝川岸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市塩沢
+    rdfs:label "塩沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市渋井
+    rdfs:label "渋井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市島田
+    rdfs:label "島田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市下石塚
+    rdfs:label "下石塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市下泉
+    rdfs:label "下泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市下河原田
+    rdfs:label "下河原田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市下国府塚
+    rdfs:label "下国府塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市下生井
+    rdfs:label "下生井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市下初田
+    rdfs:label "下初田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市城東
+    rdfs:label "城東"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市城北
+    rdfs:label "城北"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市白鳥
+    rdfs:label "白鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市城山町
+    rdfs:label "城山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市神明町
+    rdfs:label "神明町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市千駄塚
+    rdfs:label "千駄塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市卒島
+    rdfs:label "卒島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市大行寺
+    rdfs:label "大行寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市高椅
+    rdfs:label "高椅"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市田川
+    rdfs:label "田川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市武井
+    rdfs:label "武井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市立木
+    rdfs:label "立木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市田間
+    rdfs:label "田間"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市塚崎
+    rdfs:label "塚崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市外城
+    rdfs:label "外城"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市土塔
+    rdfs:label "土塔"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市中河原
+    rdfs:label "中河原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市中久喜
+    rdfs:label "中久喜"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市中里
+    rdfs:label "中里"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市中島
+    rdfs:label "中島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市楢木
+    rdfs:label "楢木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市西黒田
+    rdfs:label "西黒田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市西城南
+    rdfs:label "西城南"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市延島
+    rdfs:label "延島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市延島新田
+    rdfs:label "延島新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市萩島
+    rdfs:label "萩島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市迫間田
+    rdfs:label "迫間田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市鉢形
+    rdfs:label "鉢形"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市花垣町
+    rdfs:label "花垣町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市羽川
+    rdfs:label "羽川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市東黒田
+    rdfs:label "東黒田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市東島田
+    rdfs:label "東島田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市東城南
+    rdfs:label "東城南"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市東野田
+    rdfs:label "東野田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市東間々田
+    rdfs:label "東間々田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市東山田
+    rdfs:label "東山田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市神鳥谷
+    rdfs:label "神鳥谷"@ja ;
+    mo:SubRegion mr:JP_栃木県小山市神鳥谷丁目 ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市神鳥谷丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市平和
+    rdfs:label "平和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市福良
+    rdfs:label "福良"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市扶桑
+    rdfs:label "扶桑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市本郷町
+    rdfs:label "本郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市松沼
+    rdfs:label "松沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市間中
+    rdfs:label "間中"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市間々田
+    rdfs:label "間々田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市三峯
+    rdfs:label "三峯"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市南飯田
+    rdfs:label "南飯田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市南和泉
+    rdfs:label "南和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市南乙女
+    rdfs:label "南乙女"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市南小林
+    rdfs:label "南小林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市南半田
+    rdfs:label "南半田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市宮本町
+    rdfs:label "宮本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市向野
+    rdfs:label "向野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市向原新田
+    rdfs:label "向原新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市梁
+    rdfs:label "梁"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市横倉
+    rdfs:label "横倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市横倉新田
+    rdfs:label "横倉新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県小山市若木町
+    rdfs:label "若木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市
+    rdfs:label "真岡市"@ja ;
+    mo:AreaCode "09209" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県真岡市青田 ;
+    mo:SubRegion mr:JP_栃木県真岡市青谷 ;
+    mo:SubRegion mr:JP_栃木県真岡市赤羽 ;
+    mo:SubRegion mr:JP_栃木県真岡市阿部岡 ;
+    mo:SubRegion mr:JP_栃木県真岡市阿部品 ;
+    mo:SubRegion mr:JP_栃木県真岡市荒町 ;
+    mo:SubRegion mr:JP_栃木県真岡市飯貝 ;
+    mo:SubRegion mr:JP_栃木県真岡市砂ケ原 ;
+    mo:SubRegion mr:JP_栃木県真岡市石島 ;
+    mo:SubRegion mr:JP_栃木県真岡市伊勢崎 ;
+    mo:SubRegion mr:JP_栃木県真岡市大沼 ;
+    mo:SubRegion mr:JP_栃木県真岡市大根田 ;
+    mo:SubRegion mr:JP_栃木県真岡市大谷新町 ;
+    mo:SubRegion mr:JP_栃木県真岡市大谷台町 ;
+    mo:SubRegion mr:JP_栃木県真岡市大谷本町 ;
+    mo:SubRegion mr:JP_栃木県真岡市大和田 ;
+    mo:SubRegion mr:JP_栃木県真岡市沖 ;
+    mo:SubRegion mr:JP_栃木県真岡市加倉 ;
+    mo:SubRegion mr:JP_栃木県真岡市粕田 ;
+    mo:SubRegion mr:JP_栃木県真岡市勝瓜 ;
+    mo:SubRegion mr:JP_栃木県真岡市上江連 ;
+    mo:SubRegion mr:JP_栃木県真岡市上大曽 ;
+    mo:SubRegion mr:JP_栃木県真岡市上大田和 ;
+    mo:SubRegion mr:JP_栃木県真岡市上大沼 ;
+    mo:SubRegion mr:JP_栃木県真岡市上高間木 ;
+    mo:SubRegion mr:JP_栃木県真岡市上鷺谷 ;
+    mo:SubRegion mr:JP_栃木県真岡市上谷貝 ;
+    mo:SubRegion mr:JP_栃木県真岡市亀山 ;
+    mo:SubRegion mr:JP_栃木県真岡市茅堤 ;
+    mo:SubRegion mr:JP_栃木県真岡市鬼怒ケ丘 ;
+    mo:SubRegion mr:JP_栃木県真岡市君島 ;
+    mo:SubRegion mr:JP_栃木県真岡市京泉 ;
+    mo:SubRegion mr:JP_栃木県真岡市久下田 ;
+    mo:SubRegion mr:JP_栃木県真岡市久下田西 ;
+    mo:SubRegion mr:JP_栃木県真岡市熊倉 ;
+    mo:SubRegion mr:JP_栃木県真岡市熊倉町 ;
+    mo:SubRegion mr:JP_栃木県真岡市桑ノ川 ;
+    mo:SubRegion mr:JP_栃木県真岡市小橋 ;
+    mo:SubRegion mr:JP_栃木県真岡市小林 ;
+    mo:SubRegion mr:JP_栃木県真岡市古山 ;
+    mo:SubRegion mr:JP_栃木県真岡市境 ;
+    mo:SubRegion mr:JP_栃木県真岡市さくら ;
+    mo:SubRegion mr:JP_栃木県真岡市道祖土 ;
+    mo:SubRegion mr:JP_栃木県真岡市鹿 ;
+    mo:SubRegion mr:JP_栃木県真岡市島 ;
+    mo:SubRegion mr:JP_栃木県真岡市清水 ;
+    mo:SubRegion mr:JP_栃木県真岡市下大曽 ;
+    mo:SubRegion mr:JP_栃木県真岡市下大田和 ;
+    mo:SubRegion mr:JP_栃木県真岡市下大沼 ;
+    mo:SubRegion mr:JP_栃木県真岡市下高間木 ;
+    mo:SubRegion mr:JP_栃木県真岡市下籠谷 ;
+    mo:SubRegion mr:JP_栃木県真岡市下鷺谷 ;
+    mo:SubRegion mr:JP_栃木県真岡市須釜 ;
+    mo:SubRegion mr:JP_栃木県真岡市反町 ;
+    mo:SubRegion mr:JP_栃木県真岡市大道泉 ;
+    mo:SubRegion mr:JP_栃木県真岡市台町 ;
+    mo:SubRegion mr:JP_栃木県真岡市高勢町 ;
+    mo:SubRegion mr:JP_栃木県真岡市高田 ;
+    mo:SubRegion mr:JP_栃木県真岡市田島 ;
+    mo:SubRegion mr:JP_栃木県真岡市田町 ;
+    mo:SubRegion mr:JP_栃木県真岡市鶴田 ;
+    mo:SubRegion mr:JP_栃木県真岡市寺内 ;
+    mo:SubRegion mr:JP_栃木県真岡市寺久保 ;
+    mo:SubRegion mr:JP_栃木県真岡市寺分 ;
+    mo:SubRegion mr:JP_栃木県真岡市東光寺 ;
+    mo:SubRegion mr:JP_栃木県真岡市中 ;
+    mo:SubRegion mr:JP_栃木県真岡市中郷 ;
+    mo:SubRegion mr:JP_栃木県真岡市長島 ;
+    mo:SubRegion mr:JP_栃木県真岡市長田 ;
+    mo:SubRegion mr:JP_栃木県真岡市長沼 ;
+    mo:SubRegion mr:JP_栃木県真岡市並木町 ;
+    mo:SubRegion mr:JP_栃木県真岡市西大島 ;
+    mo:SubRegion mr:JP_栃木県真岡市西高間木 ;
+    mo:SubRegion mr:JP_栃木県真岡市西郷 ;
+    mo:SubRegion mr:JP_栃木県真岡市西田井 ;
+    mo:SubRegion mr:JP_栃木県真岡市西沼 ;
+    mo:SubRegion mr:JP_栃木県真岡市根小屋 ;
+    mo:SubRegion mr:JP_栃木県真岡市根本 ;
+    mo:SubRegion mr:JP_栃木県真岡市白布ケ丘 ;
+    mo:SubRegion mr:JP_栃木県真岡市八條 ;
+    mo:SubRegion mr:JP_栃木県真岡市原町 ;
+    mo:SubRegion mr:JP_栃木県真岡市東大島 ;
+    mo:SubRegion mr:JP_栃木県真岡市東郷 ;
+    mo:SubRegion mr:JP_栃木県真岡市東沼 ;
+    mo:SubRegion mr:JP_栃木県真岡市程島 ;
+    mo:SubRegion mr:JP_栃木県真岡市堀内 ;
+    mo:SubRegion mr:JP_栃木県真岡市堀込 ;
+    mo:SubRegion mr:JP_栃木県真岡市松山町 ;
+    mo:SubRegion mr:JP_栃木県真岡市水戸部 ;
+    mo:SubRegion mr:JP_栃木県真岡市南高岡 ;
+    mo:SubRegion mr:JP_栃木県真岡市三谷 ;
+    mo:SubRegion mr:JP_栃木県真岡市物井 ;
+    mo:SubRegion mr:JP_栃木県真岡市谷貝新田 ;
+    mo:SubRegion mr:JP_栃木県真岡市八木岡 ;
+    mo:SubRegion mr:JP_栃木県真岡市柳林 ;
+    mo:SubRegion mr:JP_栃木県真岡市横田 ;
+    mo:SubRegion mr:JP_栃木県真岡市若旅 ;
+    mo:SubRegion mr:JP_栃木県真岡市鷲巣 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県真岡市青田
+    rdfs:label "青田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市青谷
+    rdfs:label "青谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市赤羽
+    rdfs:label "赤羽"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市阿部岡
+    rdfs:label "阿部岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市阿部品
+    rdfs:label "阿部品"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市荒町
+    rdfs:label "荒町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市飯貝
+    rdfs:label "飯貝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市砂ケ原
+    rdfs:label "砂ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市石島
+    rdfs:label "石島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市伊勢崎
+    rdfs:label "伊勢崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市大沼
+    rdfs:label "大沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市大根田
+    rdfs:label "大根田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市大谷新町
+    rdfs:label "大谷新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市大谷台町
+    rdfs:label "大谷台町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市大谷本町
+    rdfs:label "大谷本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市大和田
+    rdfs:label "大和田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市沖
+    rdfs:label "沖"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市加倉
+    rdfs:label "加倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市粕田
+    rdfs:label "粕田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市勝瓜
+    rdfs:label "勝瓜"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市上江連
+    rdfs:label "上江連"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市上大曽
+    rdfs:label "上大曽"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市上大田和
+    rdfs:label "上大田和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市上大沼
+    rdfs:label "上大沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市上高間木
+    rdfs:label "上高間木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市上鷺谷
+    rdfs:label "上鷺谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市上谷貝
+    rdfs:label "上谷貝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市亀山
+    rdfs:label "亀山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市茅堤
+    rdfs:label "茅堤"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市鬼怒ケ丘
+    rdfs:label "鬼怒ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市君島
+    rdfs:label "君島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市京泉
+    rdfs:label "京泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市久下田
+    rdfs:label "久下田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市久下田西
+    rdfs:label "久下田西"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市熊倉
+    rdfs:label "熊倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市熊倉町
+    rdfs:label "熊倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市桑ノ川
+    rdfs:label "桑ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市小橋
+    rdfs:label "小橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市小林
+    rdfs:label "小林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市古山
+    rdfs:label "古山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市境
+    rdfs:label "境"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市さくら
+    rdfs:label "さくら"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市道祖土
+    rdfs:label "道祖土"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市鹿
+    rdfs:label "鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市島
+    rdfs:label "島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市下大曽
+    rdfs:label "下大曽"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市下大田和
+    rdfs:label "下大田和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市下大沼
+    rdfs:label "下大沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市下高間木
+    rdfs:label "下高間木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市下籠谷
+    rdfs:label "下籠谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市下鷺谷
+    rdfs:label "下鷺谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市須釜
+    rdfs:label "須釜"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市反町
+    rdfs:label "反町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市大道泉
+    rdfs:label "大道泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市台町
+    rdfs:label "台町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市高勢町
+    rdfs:label "高勢町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市高田
+    rdfs:label "高田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市田島
+    rdfs:label "田島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市田町
+    rdfs:label "田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市鶴田
+    rdfs:label "鶴田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市寺内
+    rdfs:label "寺内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市寺久保
+    rdfs:label "寺久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市寺分
+    rdfs:label "寺分"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市東光寺
+    rdfs:label "東光寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市中郷
+    rdfs:label "中郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市長島
+    rdfs:label "長島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市長田
+    rdfs:label "長田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市長沼
+    rdfs:label "長沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市並木町
+    rdfs:label "並木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市西大島
+    rdfs:label "西大島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市西高間木
+    rdfs:label "西高間木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市西郷
+    rdfs:label "西郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市西田井
+    rdfs:label "西田井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市西沼
+    rdfs:label "西沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市根小屋
+    rdfs:label "根小屋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市根本
+    rdfs:label "根本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市白布ケ丘
+    rdfs:label "白布ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市八條
+    rdfs:label "八條"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市東大島
+    rdfs:label "東大島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市東郷
+    rdfs:label "東郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市東沼
+    rdfs:label "東沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市程島
+    rdfs:label "程島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市堀内
+    rdfs:label "堀内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市堀込
+    rdfs:label "堀込"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市松山町
+    rdfs:label "松山町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市水戸部
+    rdfs:label "水戸部"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市南高岡
+    rdfs:label "南高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市三谷
+    rdfs:label "三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市物井
+    rdfs:label "物井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市谷貝新田
+    rdfs:label "谷貝新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市八木岡
+    rdfs:label "八木岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市柳林
+    rdfs:label "柳林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市若旅
+    rdfs:label "若旅"@ja ;
+    mo:SubRegion mr:JP_栃木県真岡市若旅五丁歩 ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市若旅五丁歩
+    rdfs:label "五丁歩"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県真岡市鷲巣
+    rdfs:label "鷲巣"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市
+    rdfs:label "大田原市"@ja ;
+    mo:AreaCode "09210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県大田原市赤瀬 ;
+    mo:SubRegion mr:JP_栃木県大田原市浅香 ;
+    mo:SubRegion mr:JP_栃木県大田原市荒井 ;
+    mo:SubRegion mr:JP_栃木県大田原市新宿 ;
+    mo:SubRegion mr:JP_栃木県大田原市市野沢 ;
+    mo:SubRegion mr:JP_栃木県大田原市今泉 ;
+    mo:SubRegion mr:JP_栃木県大田原市薄葉 ;
+    mo:SubRegion mr:JP_栃木県大田原市宇田川 ;
+    mo:SubRegion mr:JP_栃木県大田原市雲岩寺 ;
+    mo:SubRegion mr:JP_栃木県大田原市大神 ;
+    mo:SubRegion mr:JP_栃木県大田原市大久保 ;
+    mo:SubRegion mr:JP_栃木県大田原市大豆田 ;
+    mo:SubRegion mr:JP_栃木県大田原市大輪 ;
+    mo:SubRegion mr:JP_栃木県大田原市岡 ;
+    mo:SubRegion mr:JP_栃木県大田原市荻野目 ;
+    mo:SubRegion mr:JP_栃木県大田原市奥沢 ;
+    mo:SubRegion mr:JP_栃木県大田原市乙連沢 ;
+    mo:SubRegion mr:JP_栃木県大田原市加治屋 ;
+    mo:SubRegion mr:JP_栃木県大田原市片田 ;
+    mo:SubRegion mr:JP_栃木県大田原市片府田 ;
+    mo:SubRegion mr:JP_栃木県大田原市鹿畑 ;
+    mo:SubRegion mr:JP_栃木県大田原市上石上 ;
+    mo:SubRegion mr:JP_栃木県大田原市上奥沢 ;
+    mo:SubRegion mr:JP_栃木県大田原市亀久 ;
+    mo:SubRegion mr:JP_栃木県大田原市川上 ;
+    mo:SubRegion mr:JP_栃木県大田原市川田 ;
+    mo:SubRegion mr:JP_栃木県大田原市河原 ;
+    mo:SubRegion mr:JP_栃木県大田原市木佐美 ;
+    mo:SubRegion mr:JP_栃木県大田原市北大和久 ;
+    mo:SubRegion mr:JP_栃木県大田原市北金丸 ;
+    mo:SubRegion mr:JP_栃木県大田原市北滝 ;
+    mo:SubRegion mr:JP_栃木県大田原市北野上 ;
+    mo:SubRegion mr:JP_栃木県大田原市久野又 ;
+    mo:SubRegion mr:JP_栃木県大田原市倉骨 ;
+    mo:SubRegion mr:JP_栃木県大田原市黒羽田町 ;
+    mo:SubRegion mr:JP_栃木県大田原市黒羽向町 ;
+    mo:SubRegion mr:JP_栃木県大田原市小滝 ;
+    mo:SubRegion mr:JP_栃木県大田原市小船渡 ;
+    mo:SubRegion mr:JP_栃木県大田原市佐久山 ;
+    mo:SubRegion mr:JP_栃木県大田原市寒井 ;
+    mo:SubRegion mr:JP_栃木県大田原市佐良土 ;
+    mo:SubRegion mr:JP_栃木県大田原市品川 ;
+    mo:SubRegion mr:JP_栃木県大田原市下石上 ;
+    mo:SubRegion mr:JP_栃木県大田原市城山 ;
+    mo:SubRegion mr:JP_栃木県大田原市新富町 ;
+    mo:SubRegion mr:JP_栃木県大田原市末広 ;
+    mo:SubRegion mr:JP_栃木県大田原市須賀川 ;
+    mo:SubRegion mr:JP_栃木県大田原市須佐木 ;
+    mo:SubRegion mr:JP_栃木県大田原市住吉町 ;
+    mo:SubRegion mr:JP_栃木県大田原市狭原 ;
+    mo:SubRegion mr:JP_栃木県大田原市滝岡 ;
+    mo:SubRegion mr:JP_栃木県大田原市滝沢 ;
+    mo:SubRegion mr:JP_栃木県大田原市親園 ;
+    mo:SubRegion mr:JP_栃木県大田原市中央 ;
+    mo:SubRegion mr:JP_栃木県大田原市寺宿 ;
+    mo:SubRegion mr:JP_栃木県大田原市戸野内 ;
+    mo:SubRegion mr:JP_栃木県大田原市富池 ;
+    mo:SubRegion mr:JP_栃木県大田原市中田原 ;
+    mo:SubRegion mr:JP_栃木県大田原市中野内 ;
+    mo:SubRegion mr:JP_栃木県大田原市中の原 ;
+    mo:SubRegion mr:JP_栃木県大田原市南方 ;
+    mo:SubRegion mr:JP_栃木県大田原市練貫 ;
+    mo:SubRegion mr:JP_栃木県大田原市野崎 ;
+    mo:SubRegion mr:JP_栃木県大田原市蜂巣 ;
+    mo:SubRegion mr:JP_栃木県大田原市花園 ;
+    mo:SubRegion mr:JP_栃木県大田原市羽田 ;
+    mo:SubRegion mr:JP_栃木県大田原市桧木沢 ;
+    mo:SubRegion mr:JP_栃木県大田原市平沢 ;
+    mo:SubRegion mr:JP_栃木県大田原市蛭田 ;
+    mo:SubRegion mr:JP_栃木県大田原市蛭畑 ;
+    mo:SubRegion mr:JP_栃木県大田原市福原 ;
+    mo:SubRegion mr:JP_栃木県大田原市藤沢 ;
+    mo:SubRegion mr:JP_栃木県大田原市富士見 ;
+    mo:SubRegion mr:JP_栃木県大田原市堀之内 ;
+    mo:SubRegion mr:JP_栃木県大田原市本町 ;
+    mo:SubRegion mr:JP_栃木県大田原市前田 ;
+    mo:SubRegion mr:JP_栃木県大田原市町島 ;
+    mo:SubRegion mr:JP_栃木県大田原市実取 ;
+    mo:SubRegion mr:JP_栃木県大田原市南金丸 ;
+    mo:SubRegion mr:JP_栃木県大田原市美原 ;
+    mo:SubRegion mr:JP_栃木県大田原市紫塚 ;
+    mo:SubRegion mr:JP_栃木県大田原市元町 ;
+    mo:SubRegion mr:JP_栃木県大田原市矢倉 ;
+    mo:SubRegion mr:JP_栃木県大田原市八塩 ;
+    mo:SubRegion mr:JP_栃木県大田原市山の手 ;
+    mo:SubRegion mr:JP_栃木県大田原市湯津上 ;
+    mo:SubRegion mr:JP_栃木県大田原市余瀬 ;
+    mo:SubRegion mr:JP_栃木県大田原市両郷 ;
+    mo:SubRegion mr:JP_栃木県大田原市若草 ;
+    mo:SubRegion mr:JP_栃木県大田原市若松町 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県大田原市赤瀬
+    rdfs:label "赤瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市浅香
+    rdfs:label "浅香"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市荒井
+    rdfs:label "荒井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市新宿
+    rdfs:label "新宿"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市市野沢
+    rdfs:label "市野沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市今泉
+    rdfs:label "今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市薄葉
+    rdfs:label "薄葉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市宇田川
+    rdfs:label "宇田川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市雲岩寺
+    rdfs:label "雲岩寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市大神
+    rdfs:label "大神"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市大豆田
+    rdfs:label "大豆田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市大輪
+    rdfs:label "大輪"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市岡
+    rdfs:label "岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市荻野目
+    rdfs:label "荻野目"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市奥沢
+    rdfs:label "奥沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市乙連沢
+    rdfs:label "乙連沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市加治屋
+    rdfs:label "加治屋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市片田
+    rdfs:label "片田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市片府田
+    rdfs:label "片府田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市鹿畑
+    rdfs:label "鹿畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市上石上
+    rdfs:label "上石上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市上奥沢
+    rdfs:label "上奥沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市亀久
+    rdfs:label "亀久"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市川田
+    rdfs:label "川田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市河原
+    rdfs:label "河原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市木佐美
+    rdfs:label "木佐美"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市北大和久
+    rdfs:label "北大和久"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市北金丸
+    rdfs:label "北金丸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市北滝
+    rdfs:label "北滝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市北野上
+    rdfs:label "北野上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市久野又
+    rdfs:label "久野又"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市倉骨
+    rdfs:label "倉骨"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市黒羽田町
+    rdfs:label "黒羽田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市黒羽向町
+    rdfs:label "黒羽向町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市小滝
+    rdfs:label "小滝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市小船渡
+    rdfs:label "小船渡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市佐久山
+    rdfs:label "佐久山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市寒井
+    rdfs:label "寒井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市佐良土
+    rdfs:label "佐良土"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市品川
+    rdfs:label "品川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市下石上
+    rdfs:label "下石上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市城山
+    rdfs:label "城山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市新富町
+    rdfs:label "新富町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市末広
+    rdfs:label "末広"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市須賀川
+    rdfs:label "須賀川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市須佐木
+    rdfs:label "須佐木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市狭原
+    rdfs:label "狭原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市滝岡
+    rdfs:label "滝岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市滝沢
+    rdfs:label "滝沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市親園
+    rdfs:label "親園"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市寺宿
+    rdfs:label "寺宿"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市戸野内
+    rdfs:label "戸野内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市富池
+    rdfs:label "富池"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市中田原
+    rdfs:label "中田原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市中野内
+    rdfs:label "中野内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市中の原
+    rdfs:label "中の原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市南方
+    rdfs:label "南方"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市練貫
+    rdfs:label "練貫"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市野崎
+    rdfs:label "野崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市蜂巣
+    rdfs:label "蜂巣"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市花園
+    rdfs:label "花園"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市羽田
+    rdfs:label "羽田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市桧木沢
+    rdfs:label "桧木沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市平沢
+    rdfs:label "平沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市蛭田
+    rdfs:label "蛭田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市蛭畑
+    rdfs:label "蛭畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市福原
+    rdfs:label "福原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市藤沢
+    rdfs:label "藤沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市富士見
+    rdfs:label "富士見"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市堀之内
+    rdfs:label "堀之内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市前田
+    rdfs:label "前田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市町島
+    rdfs:label "町島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市実取
+    rdfs:label "実取"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市南金丸
+    rdfs:label "南金丸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市美原
+    rdfs:label "美原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市紫塚
+    rdfs:label "紫塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市矢倉
+    rdfs:label "矢倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市八塩
+    rdfs:label "八塩"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市山の手
+    rdfs:label "山の手"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市湯津上
+    rdfs:label "湯津上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市余瀬
+    rdfs:label "余瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市両郷
+    rdfs:label "両郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市若草
+    rdfs:label "若草"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県大田原市若松町
+    rdfs:label "若松町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市
+    rdfs:label "矢板市"@ja ;
+    mo:AreaCode "09211" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県矢板市東町 ;
+    mo:SubRegion mr:JP_栃木県矢板市荒井 ;
+    mo:SubRegion mr:JP_栃木県矢板市安沢 ;
+    mo:SubRegion mr:JP_栃木県矢板市石関 ;
+    mo:SubRegion mr:JP_栃木県矢板市泉 ;
+    mo:SubRegion mr:JP_栃木県矢板市扇町 ;
+    mo:SubRegion mr:JP_栃木県矢板市大槻 ;
+    mo:SubRegion mr:JP_栃木県矢板市乙畑 ;
+    mo:SubRegion mr:JP_栃木県矢板市鹿島町 ;
+    mo:SubRegion mr:JP_栃木県矢板市片岡 ;
+    mo:SubRegion mr:JP_栃木県矢板市片俣 ;
+    mo:SubRegion mr:JP_栃木県矢板市上伊佐野 ;
+    mo:SubRegion mr:JP_栃木県矢板市上太田 ;
+    mo:SubRegion mr:JP_栃木県矢板市上町 ;
+    mo:SubRegion mr:JP_栃木県矢板市川崎反町 ;
+    mo:SubRegion mr:JP_栃木県矢板市木幡 ;
+    mo:SubRegion mr:JP_栃木県矢板市倉掛 ;
+    mo:SubRegion mr:JP_栃木県矢板市幸岡 ;
+    mo:SubRegion mr:JP_栃木県矢板市越畑 ;
+    mo:SubRegion mr:JP_栃木県矢板市こぶし台 ;
+    mo:SubRegion mr:JP_栃木県矢板市境林 ;
+    mo:SubRegion mr:JP_栃木県矢板市沢 ;
+    mo:SubRegion mr:JP_栃木県矢板市塩田 ;
+    mo:SubRegion mr:JP_栃木県矢板市下伊佐野 ;
+    mo:SubRegion mr:JP_栃木県矢板市下太田 ;
+    mo:SubRegion mr:JP_栃木県矢板市末広町 ;
+    mo:SubRegion mr:JP_栃木県矢板市高塩 ;
+    mo:SubRegion mr:JP_栃木県矢板市立足 ;
+    mo:SubRegion mr:JP_栃木県矢板市館ノ川 ;
+    mo:SubRegion mr:JP_栃木県矢板市田野原 ;
+    mo:SubRegion mr:JP_栃木県矢板市玉田 ;
+    mo:SubRegion mr:JP_栃木県矢板市土屋 ;
+    mo:SubRegion mr:JP_栃木県矢板市富田 ;
+    mo:SubRegion mr:JP_栃木県矢板市豊田 ;
+    mo:SubRegion mr:JP_栃木県矢板市中 ;
+    mo:SubRegion mr:JP_栃木県矢板市長井 ;
+    mo:SubRegion mr:JP_栃木県矢板市成田 ;
+    mo:SubRegion mr:JP_栃木県矢板市早川町 ;
+    mo:SubRegion mr:JP_栃木県矢板市針生 ;
+    mo:SubRegion mr:JP_栃木県矢板市東泉 ;
+    mo:SubRegion mr:JP_栃木県矢板市平野 ;
+    mo:SubRegion mr:JP_栃木県矢板市本町 ;
+    mo:SubRegion mr:JP_栃木県矢板市矢板 ;
+    mo:SubRegion mr:JP_栃木県矢板市山田 ;
+    mo:SubRegion mr:JP_栃木県矢板市山苗代 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県矢板市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市荒井
+    rdfs:label "荒井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市安沢
+    rdfs:label "安沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市石関
+    rdfs:label "石関"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市泉
+    rdfs:label "泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市扇町
+    rdfs:label "扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市大槻
+    rdfs:label "大槻"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市乙畑
+    rdfs:label "乙畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市鹿島町
+    rdfs:label "鹿島町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市片岡
+    rdfs:label "片岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市片俣
+    rdfs:label "片俣"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市上伊佐野
+    rdfs:label "上伊佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市上太田
+    rdfs:label "上太田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市上町
+    rdfs:label "上町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市川崎反町
+    rdfs:label "川崎反町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市木幡
+    rdfs:label "木幡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市倉掛
+    rdfs:label "倉掛"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市幸岡
+    rdfs:label "幸岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市越畑
+    rdfs:label "越畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市こぶし台
+    rdfs:label "こぶし台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市境林
+    rdfs:label "境林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市沢
+    rdfs:label "沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市塩田
+    rdfs:label "塩田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市下伊佐野
+    rdfs:label "下伊佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市下太田
+    rdfs:label "下太田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市高塩
+    rdfs:label "高塩"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市立足
+    rdfs:label "立足"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市館ノ川
+    rdfs:label "館ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市田野原
+    rdfs:label "田野原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市玉田
+    rdfs:label "玉田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市土屋
+    rdfs:label "土屋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市富田
+    rdfs:label "富田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市豊田
+    rdfs:label "豊田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市長井
+    rdfs:label "長井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市成田
+    rdfs:label "成田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市早川町
+    rdfs:label "早川町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市針生
+    rdfs:label "針生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市東泉
+    rdfs:label "東泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市矢板
+    rdfs:label "矢板"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県矢板市山苗代
+    rdfs:label "山苗代"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市
+    rdfs:label "那須塩原市"@ja ;
+    mo:AreaCode "09213" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市青木 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市あたご町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市阿波町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市安藤町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市井口 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市石林 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市板室 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市一区町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市宇都野 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市扇町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市大原間 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市大原間西 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市遅野沢 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市折戸 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市春日町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市金沢 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市鹿野崎 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市鹿野崎新田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市上赤田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市上厚崎 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市上大塚新田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市上大貫 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市上郷屋 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市上塩原 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市上中野 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市上横林 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市亀山 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市唐杉 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市木曾畑中 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市北赤田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市北栄町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市北二つ室 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市北弥六 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市北和田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市共墾社 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市清住町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市木綿畑 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市沓掛 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市黒磯 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市黒磯幸町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市越堀 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市五軒町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市小結 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市材木町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市埼玉 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市桜町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市笹沼 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市佐野 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市三区町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市三本木 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市塩野崎 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市塩野崎新田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市塩原 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市鴫内 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市島方 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市下厚崎 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市下大貫 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市下田野 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市下永田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市下中野 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市新朝日 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市新南 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市新町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市新緑町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市末広町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市住吉町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市関根 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市関谷 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市千本松 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市大黒町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市高阿津 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市高砂町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市高林 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市高柳 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市太夫塚 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市中央町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市槻沢 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市寺子 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東栄 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市洞島 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市戸田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市豊浦 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市豊浦北町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市豊浦町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市豊浦中町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市豊浦南町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市豊住町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市鳥野目 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市中内 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市中塩原 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市永田町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市鍋掛 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市並木町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市二区町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西赤田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西朝日町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西岩崎 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西遅沢 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市錦町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西幸町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西栄町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西新町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西富山 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西原町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西三島 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市西大和 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市接骨木 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市沼野田和 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市野間 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市橋本町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市波立 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市原町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東赤田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東遅沢 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東小屋 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東関根 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東豊浦 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東原 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東三島 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市東大和町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市蟇沼 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市二つ室 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市方京 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市細竹 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市本郷町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市本町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市前弥六 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市前弥六南町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市松浦町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市三島 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市緑 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市南赤田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市南郷屋 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市南町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市箕輪 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市美原町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市宮町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市無栗屋 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市睦 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市百村 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市箭坪 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市山中新田 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市弥生町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市油井 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市湯宮 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市豊町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市湯本塩原 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市横林 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市四区町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市若草町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市若葉町 ;
+    mo:SubRegion mr:JP_栃木県那須塩原市渡辺 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県那須塩原市青木
+    rdfs:label "青木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市あたご町
+    rdfs:label "あたご町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市阿波町
+    rdfs:label "阿波町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市安藤町
+    rdfs:label "安藤町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市井口
+    rdfs:label "井口"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市石林
+    rdfs:label "石林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市板室
+    rdfs:label "板室"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市一区町
+    rdfs:label "一区町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市宇都野
+    rdfs:label "宇都野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市扇町
+    rdfs:label "扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市大原間
+    rdfs:label "大原間"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市大原間西
+    rdfs:label "大原間西"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市遅野沢
+    rdfs:label "遅野沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市折戸
+    rdfs:label "折戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市金沢
+    rdfs:label "金沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市鹿野崎
+    rdfs:label "鹿野崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市鹿野崎新田
+    rdfs:label "鹿野崎新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市上赤田
+    rdfs:label "上赤田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市上厚崎
+    rdfs:label "上厚崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市上大塚新田
+    rdfs:label "上大塚新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市上大貫
+    rdfs:label "上大貫"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市上郷屋
+    rdfs:label "上郷屋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市上塩原
+    rdfs:label "上塩原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市上中野
+    rdfs:label "上中野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市上横林
+    rdfs:label "上横林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市亀山
+    rdfs:label "亀山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市唐杉
+    rdfs:label "唐杉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市木曾畑中
+    rdfs:label "木曾畑中"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市北赤田
+    rdfs:label "北赤田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市北栄町
+    rdfs:label "北栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市北二つ室
+    rdfs:label "北二つ室"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市北弥六
+    rdfs:label "北弥六"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市北和田
+    rdfs:label "北和田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市共墾社
+    rdfs:label "共墾社"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市清住町
+    rdfs:label "清住町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市木綿畑
+    rdfs:label "木綿畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市沓掛
+    rdfs:label "沓掛"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市黒磯
+    rdfs:label "黒磯"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市黒磯幸町
+    rdfs:label "黒磯幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市越堀
+    rdfs:label "越堀"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市五軒町
+    rdfs:label "五軒町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市小結
+    rdfs:label "小結"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市材木町
+    rdfs:label "材木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市埼玉
+    rdfs:label "埼玉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市笹沼
+    rdfs:label "笹沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市佐野
+    rdfs:label "佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市三区町
+    rdfs:label "三区町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市三本木
+    rdfs:label "三本木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市塩野崎
+    rdfs:label "塩野崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市塩野崎新田
+    rdfs:label "塩野崎新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市塩原
+    rdfs:label "塩原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市鴫内
+    rdfs:label "鴫内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市島方
+    rdfs:label "島方"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市下厚崎
+    rdfs:label "下厚崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市下大貫
+    rdfs:label "下大貫"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市下田野
+    rdfs:label "下田野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市下永田
+    rdfs:label "下永田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市下中野
+    rdfs:label "下中野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市新朝日
+    rdfs:label "新朝日"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市新南
+    rdfs:label "新南"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市新緑町
+    rdfs:label "新緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市関根
+    rdfs:label "関根"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市関谷
+    rdfs:label "関谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市千本松
+    rdfs:label "千本松"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市大黒町
+    rdfs:label "大黒町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市高阿津
+    rdfs:label "高阿津"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市高砂町
+    rdfs:label "高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市高林
+    rdfs:label "高林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市高柳
+    rdfs:label "高柳"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市太夫塚
+    rdfs:label "太夫塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市槻沢
+    rdfs:label "槻沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市寺子
+    rdfs:label "寺子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東栄
+    rdfs:label "東栄"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市洞島
+    rdfs:label "洞島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市戸田
+    rdfs:label "戸田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市豊浦
+    rdfs:label "豊浦"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市豊浦北町
+    rdfs:label "豊浦北町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市豊浦町
+    rdfs:label "豊浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市豊浦中町
+    rdfs:label "豊浦中町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市豊浦南町
+    rdfs:label "豊浦南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市豊住町
+    rdfs:label "豊住町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市鳥野目
+    rdfs:label "鳥野目"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市中内
+    rdfs:label "中内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市中塩原
+    rdfs:label "中塩原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市永田町
+    rdfs:label "永田町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市鍋掛
+    rdfs:label "鍋掛"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市並木町
+    rdfs:label "並木町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市二区町
+    rdfs:label "二区町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西赤田
+    rdfs:label "西赤田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西朝日町
+    rdfs:label "西朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西岩崎
+    rdfs:label "西岩崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西遅沢
+    rdfs:label "西遅沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西幸町
+    rdfs:label "西幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西栄町
+    rdfs:label "西栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西新町
+    rdfs:label "西新町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西富山
+    rdfs:label "西富山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西原町
+    rdfs:label "西原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西三島
+    rdfs:label "西三島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市西大和
+    rdfs:label "西大和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市接骨木
+    rdfs:label "接骨木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市沼野田和
+    rdfs:label "沼野田和"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市野間
+    rdfs:label "野間"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市橋本町
+    rdfs:label "橋本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市波立
+    rdfs:label "波立"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東赤田
+    rdfs:label "東赤田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東遅沢
+    rdfs:label "東遅沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東小屋
+    rdfs:label "東小屋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東関根
+    rdfs:label "東関根"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東豊浦
+    rdfs:label "東豊浦"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東原
+    rdfs:label "東原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東三島
+    rdfs:label "東三島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市東大和町
+    rdfs:label "東大和町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市蟇沼
+    rdfs:label "蟇沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市二つ室
+    rdfs:label "二つ室"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市方京
+    rdfs:label "方京"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市細竹
+    rdfs:label "細竹"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市本郷町
+    rdfs:label "本郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市前弥六
+    rdfs:label "前弥六"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市前弥六南町
+    rdfs:label "前弥六南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市松浦町
+    rdfs:label "松浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市三島
+    rdfs:label "三島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市緑
+    rdfs:label "緑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市南赤田
+    rdfs:label "南赤田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市南郷屋
+    rdfs:label "南郷屋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市箕輪
+    rdfs:label "箕輪"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市美原町
+    rdfs:label "美原町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市宮町
+    rdfs:label "宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市無栗屋
+    rdfs:label "無栗屋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市睦
+    rdfs:label "睦"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市百村
+    rdfs:label "百村"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市箭坪
+    rdfs:label "箭坪"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市山中新田
+    rdfs:label "山中新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市油井
+    rdfs:label "油井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市湯宮
+    rdfs:label "湯宮"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市豊町
+    rdfs:label "豊町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市湯本塩原
+    rdfs:label "湯本塩原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市横林
+    rdfs:label "横林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市四区町
+    rdfs:label "四区町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市若葉町
+    rdfs:label "若葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須塩原市渡辺
+    rdfs:label "渡辺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市
+    rdfs:label "さくら市"@ja ;
+    mo:AreaCode "09214" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県さくら市氏家 ;
+    mo:SubRegion mr:JP_栃木県さくら市氏家新田 ;
+    mo:SubRegion mr:JP_栃木県さくら市卯の里 ;
+    mo:SubRegion mr:JP_栃木県さくら市上野 ;
+    mo:SubRegion mr:JP_栃木県さくら市小入 ;
+    mo:SubRegion mr:JP_栃木県さくら市大中 ;
+    mo:SubRegion mr:JP_栃木県さくら市押上 ;
+    mo:SubRegion mr:JP_栃木県さくら市柿木沢 ;
+    mo:SubRegion mr:JP_栃木県さくら市柿木沢新田 ;
+    mo:SubRegion mr:JP_栃木県さくら市鍛冶ケ沢 ;
+    mo:SubRegion mr:JP_栃木県さくら市葛城 ;
+    mo:SubRegion mr:JP_栃木県さくら市金枝 ;
+    mo:SubRegion mr:JP_栃木県さくら市鹿子畑 ;
+    mo:SubRegion mr:JP_栃木県さくら市蒲須坂 ;
+    mo:SubRegion mr:JP_栃木県さくら市上阿久津 ;
+    mo:SubRegion mr:JP_栃木県さくら市上河戸 ;
+    mo:SubRegion mr:JP_栃木県さくら市北草川 ;
+    mo:SubRegion mr:JP_栃木県さくら市喜連川 ;
+    mo:SubRegion mr:JP_栃木県さくら市草川 ;
+    mo:SubRegion mr:JP_栃木県さくら市桜ケ丘 ;
+    mo:SubRegion mr:JP_栃木県さくら市櫻野 ;
+    mo:SubRegion mr:JP_栃木県さくら市下河戸 ;
+    mo:SubRegion mr:JP_栃木県さくら市早乙女 ;
+    mo:SubRegion mr:JP_栃木県さくら市富野岡 ;
+    mo:SubRegion mr:JP_栃木県さくら市長久保 ;
+    mo:SubRegion mr:JP_栃木県さくら市箱森新田 ;
+    mo:SubRegion mr:JP_栃木県さくら市狹間田 ;
+    mo:SubRegion mr:JP_栃木県さくら市馬場 ;
+    mo:SubRegion mr:JP_栃木県さくら市フィオーレ喜連川 ;
+    mo:SubRegion mr:JP_栃木県さくら市穂積 ;
+    mo:SubRegion mr:JP_栃木県さくら市松島 ;
+    mo:SubRegion mr:JP_栃木県さくら市松山 ;
+    mo:SubRegion mr:JP_栃木県さくら市松山新田 ;
+    mo:SubRegion mr:JP_栃木県さくら市南和田 ;
+    mo:SubRegion mr:JP_栃木県さくら市向河原 ;
+    mo:SubRegion mr:JP_栃木県さくら市鷲宿 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県さくら市氏家
+    rdfs:label "氏家"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市氏家新田
+    rdfs:label "氏家新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市卯の里
+    rdfs:label "卯の里"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市小入
+    rdfs:label "小入"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市大中
+    rdfs:label "大中"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市押上
+    rdfs:label "押上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市柿木沢
+    rdfs:label "柿木沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市柿木沢新田
+    rdfs:label "柿木沢新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市鍛冶ケ沢
+    rdfs:label "鍛冶ケ沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市葛城
+    rdfs:label "葛城"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市金枝
+    rdfs:label "金枝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市鹿子畑
+    rdfs:label "鹿子畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市蒲須坂
+    rdfs:label "蒲須坂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市上阿久津
+    rdfs:label "上阿久津"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市上河戸
+    rdfs:label "上河戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市北草川
+    rdfs:label "北草川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市喜連川
+    rdfs:label "喜連川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市草川
+    rdfs:label "草川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市桜ケ丘
+    rdfs:label "桜ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市櫻野
+    rdfs:label "櫻野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市下河戸
+    rdfs:label "下河戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市早乙女
+    rdfs:label "早乙女"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市富野岡
+    rdfs:label "富野岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市長久保
+    rdfs:label "長久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市箱森新田
+    rdfs:label "箱森新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市狹間田
+    rdfs:label "狹間田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市馬場
+    rdfs:label "馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市フィオーレ喜連川
+    rdfs:label "フィオーレ喜連川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市穂積
+    rdfs:label "穂積"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市松島
+    rdfs:label "松島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市松山
+    rdfs:label "松山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市松山新田
+    rdfs:label "松山新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市南和田
+    rdfs:label "南和田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市向河原
+    rdfs:label "向河原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県さくら市鷲宿
+    rdfs:label "鷲宿"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市
+    rdfs:label "那須烏山市"@ja ;
+    mo:AreaCode "09215" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市旭 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市愛宕台 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市岩子 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市宇井 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市大金 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市大木須 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市大桶 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市大里 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市大沢 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市小倉 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市落合 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市表 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市金井 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市神長 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市上川井 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市上境 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市興野 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市熊田 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市鴻野山 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市小河原 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市小木須 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市小白井 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市小塙 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市小原沢 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市三箇 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市志鳥 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市下川井 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市下境 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市城東 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市白久 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市城山 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市曲畑 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市高瀬 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市滝 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市滝田 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市田野倉 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市中央 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市月次 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市東原 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市中山 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市野上 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市初音 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市福岡 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市藤田 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市曲田 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市南 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市南大和久 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市宮原 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市向田 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市森田 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市谷浅見 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市八ケ代 ;
+    mo:SubRegion mr:JP_栃木県那須烏山市横枕 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県那須烏山市旭
+    rdfs:label "旭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市愛宕台
+    rdfs:label "愛宕台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市岩子
+    rdfs:label "岩子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市宇井
+    rdfs:label "宇井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市大金
+    rdfs:label "大金"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市大木須
+    rdfs:label "大木須"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市大桶
+    rdfs:label "大桶"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市大里
+    rdfs:label "大里"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市大沢
+    rdfs:label "大沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市小倉
+    rdfs:label "小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市落合
+    rdfs:label "落合"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市表
+    rdfs:label "表"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市金井
+    rdfs:label "金井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市神長
+    rdfs:label "神長"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市上川井
+    rdfs:label "上川井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市上境
+    rdfs:label "上境"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市興野
+    rdfs:label "興野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市熊田
+    rdfs:label "熊田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市鴻野山
+    rdfs:label "鴻野山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市小河原
+    rdfs:label "小河原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市小木須
+    rdfs:label "小木須"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市小白井
+    rdfs:label "小白井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市小塙
+    rdfs:label "小塙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市小原沢
+    rdfs:label "小原沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市三箇
+    rdfs:label "三箇"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市志鳥
+    rdfs:label "志鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市下川井
+    rdfs:label "下川井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市下境
+    rdfs:label "下境"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市城東
+    rdfs:label "城東"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市白久
+    rdfs:label "白久"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市城山
+    rdfs:label "城山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市曲畑
+    rdfs:label "曲畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市高瀬
+    rdfs:label "高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市滝
+    rdfs:label "滝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市滝田
+    rdfs:label "滝田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市田野倉
+    rdfs:label "田野倉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市月次
+    rdfs:label "月次"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市東原
+    rdfs:label "東原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市野上
+    rdfs:label "野上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市初音
+    rdfs:label "初音"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市福岡
+    rdfs:label "福岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市藤田
+    rdfs:label "藤田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市曲田
+    rdfs:label "曲田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市南
+    rdfs:label "南"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市南大和久
+    rdfs:label "南大和久"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市宮原
+    rdfs:label "宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市向田
+    rdfs:label "向田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市森田
+    rdfs:label "森田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市谷浅見
+    rdfs:label "谷浅見"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市八ケ代
+    rdfs:label "八ケ代"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須烏山市横枕
+    rdfs:label "横枕"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市
+    rdfs:label "下野市"@ja ;
+    mo:AreaCode "09216" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県下野市石橋 ;
+    mo:SubRegion mr:JP_栃木県下野市磯部 ;
+    mo:SubRegion mr:JP_栃木県下野市医大前 ;
+    mo:SubRegion mr:JP_栃木県下野市駅東 ;
+    mo:SubRegion mr:JP_栃木県下野市大松山 ;
+    mo:SubRegion mr:JP_栃木県下野市上川島 ;
+    mo:SubRegion mr:JP_栃木県下野市上古山 ;
+    mo:SubRegion mr:JP_栃木県下野市上台 ;
+    mo:SubRegion mr:JP_栃木県下野市上大領 ;
+    mo:SubRegion mr:JP_栃木県下野市上坪山 ;
+    mo:SubRegion mr:JP_栃木県下野市上吉田 ;
+    mo:SubRegion mr:JP_栃木県下野市烏ケ森 ;
+    mo:SubRegion mr:JP_栃木県下野市川中子 ;
+    mo:SubRegion mr:JP_栃木県下野市祇園 ;
+    mo:SubRegion mr:JP_栃木県下野市絹板 ;
+    mo:SubRegion mr:JP_栃木県下野市小金井 ;
+    mo:SubRegion mr:JP_栃木県下野市国分寺 ;
+    mo:SubRegion mr:JP_栃木県下野市笹原 ;
+    mo:SubRegion mr:JP_栃木県下野市三王山 ;
+    mo:SubRegion mr:JP_栃木県下野市柴 ;
+    mo:SubRegion mr:JP_栃木県下野市下石橋 ;
+    mo:SubRegion mr:JP_栃木県下野市下古山 ;
+    mo:SubRegion mr:JP_栃木県下野市下大領 ;
+    mo:SubRegion mr:JP_栃木県下野市下坪山 ;
+    mo:SubRegion mr:JP_栃木県下野市下長田 ;
+    mo:SubRegion mr:JP_栃木県下野市下文狹 ;
+    mo:SubRegion mr:JP_栃木県下野市下吉田 ;
+    mo:SubRegion mr:JP_栃木県下野市大光寺 ;
+    mo:SubRegion mr:JP_栃木県下野市田中 ;
+    mo:SubRegion mr:JP_栃木県下野市中川島 ;
+    mo:SubRegion mr:JP_栃木県下野市中大領 ;
+    mo:SubRegion mr:JP_栃木県下野市成田 ;
+    mo:SubRegion mr:JP_栃木県下野市仁良川 ;
+    mo:SubRegion mr:JP_栃木県下野市橋本 ;
+    mo:SubRegion mr:JP_栃木県下野市花田 ;
+    mo:SubRegion mr:JP_栃木県下野市花の木 ;
+    mo:SubRegion mr:JP_栃木県下野市東根 ;
+    mo:SubRegion mr:JP_栃木県下野市東前原 ;
+    mo:SubRegion mr:JP_栃木県下野市文教 ;
+    mo:SubRegion mr:JP_栃木県下野市別当河原 ;
+    mo:SubRegion mr:JP_栃木県下野市細谷 ;
+    mo:SubRegion mr:JP_栃木県下野市町田 ;
+    mo:SubRegion mr:JP_栃木県下野市緑 ;
+    mo:SubRegion mr:JP_栃木県下野市箕輪 ;
+    mo:SubRegion mr:JP_栃木県下野市紫 ;
+    mo:SubRegion mr:JP_栃木県下野市本吉田 ;
+    mo:SubRegion mr:JP_栃木県下野市薬師寺 ;
+    mo:SubRegion mr:JP_栃木県下野市谷地賀 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県下野市石橋
+    rdfs:label "石橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市磯部
+    rdfs:label "磯部"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市医大前
+    rdfs:label "医大前"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市駅東
+    rdfs:label "駅東"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市大松山
+    rdfs:label "大松山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市上川島
+    rdfs:label "上川島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市上古山
+    rdfs:label "上古山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市上台
+    rdfs:label "上台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市上大領
+    rdfs:label "上大領"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市上坪山
+    rdfs:label "上坪山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市上吉田
+    rdfs:label "上吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市烏ケ森
+    rdfs:label "烏ケ森"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市川中子
+    rdfs:label "川中子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市祇園
+    rdfs:label "祇園"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市絹板
+    rdfs:label "絹板"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市小金井
+    rdfs:label "小金井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市国分寺
+    rdfs:label "国分寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市笹原
+    rdfs:label "笹原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市三王山
+    rdfs:label "三王山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市柴
+    rdfs:label "柴"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市下石橋
+    rdfs:label "下石橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市下古山
+    rdfs:label "下古山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市下大領
+    rdfs:label "下大領"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市下坪山
+    rdfs:label "下坪山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市下長田
+    rdfs:label "下長田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市下文狹
+    rdfs:label "下文狹"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市下吉田
+    rdfs:label "下吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市大光寺
+    rdfs:label "大光寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市田中
+    rdfs:label "田中"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市中川島
+    rdfs:label "中川島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市中大領
+    rdfs:label "中大領"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市成田
+    rdfs:label "成田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市仁良川
+    rdfs:label "仁良川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市橋本
+    rdfs:label "橋本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市花田
+    rdfs:label "花田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市花の木
+    rdfs:label "花の木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市東根
+    rdfs:label "東根"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市東前原
+    rdfs:label "東前原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市文教
+    rdfs:label "文教"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市別当河原
+    rdfs:label "別当河原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市細谷
+    rdfs:label "細谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市町田
+    rdfs:label "町田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市緑
+    rdfs:label "緑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市箕輪
+    rdfs:label "箕輪"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市紫
+    rdfs:label "紫"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市本吉田
+    rdfs:label "本吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市薬師寺
+    rdfs:label "薬師寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下野市谷地賀
+    rdfs:label "谷地賀"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町
+    rdfs:label "河内郡上三川町"@ja ;
+    mo:AreaCode "09301" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町石田 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町磯岡 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町大山 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町上蒲生 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町上神主 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町上郷 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町上三川 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町上文挾 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町川中子 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町五分一 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町坂上 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町鞘堂 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町三本木 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町下蒲生 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町下神主 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町しらさぎ ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町多功 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町天神町 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町西木代 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町西蓼沼 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町西汗 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町東蓼沼 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町東汗 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町三村 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町梁 ;
+    mo:SubRegion mr:JP_栃木県河内郡上三川町ゆうきが丘 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県河内郡上三川町石田
+    rdfs:label "石田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町磯岡
+    rdfs:label "磯岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町大山
+    rdfs:label "大山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町上蒲生
+    rdfs:label "上蒲生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町上神主
+    rdfs:label "上神主"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町上郷
+    rdfs:label "上郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町上三川
+    rdfs:label "上三川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町上文挾
+    rdfs:label "上文挾"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町川中子
+    rdfs:label "川中子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町五分一
+    rdfs:label "五分一"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町坂上
+    rdfs:label "坂上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町鞘堂
+    rdfs:label "鞘堂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町三本木
+    rdfs:label "三本木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町下蒲生
+    rdfs:label "下蒲生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町下神主
+    rdfs:label "下神主"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町しらさぎ
+    rdfs:label "しらさぎ"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町多功
+    rdfs:label "多功"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町西木代
+    rdfs:label "西木代"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町西蓼沼
+    rdfs:label "西蓼沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町西汗
+    rdfs:label "西汗"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町東蓼沼
+    rdfs:label "東蓼沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町東汗
+    rdfs:label "東汗"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町三村
+    rdfs:label "三村"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町梁
+    rdfs:label "梁"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県河内郡上三川町ゆうきが丘
+    rdfs:label "ゆうきが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町
+    rdfs:label "芳賀郡益子町"@ja ;
+    mo:AreaCode "09342" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町芦沼 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町梅ケ内 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町大郷戸 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町大沢 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町大平 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町小宅 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町上大羽 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町上山 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町北中 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町小泉 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町下大羽 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町城内坂 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町長堤 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町七井 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町七井中央 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町生田目 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町塙 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町東田井 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町前沢 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町益子 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町本沼 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡益子町山本 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県芳賀郡益子町芦沼
+    rdfs:label "芦沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町梅ケ内
+    rdfs:label "梅ケ内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町大郷戸
+    rdfs:label "大郷戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町大沢
+    rdfs:label "大沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町小宅
+    rdfs:label "小宅"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町上大羽
+    rdfs:label "上大羽"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町上山
+    rdfs:label "上山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町北中
+    rdfs:label "北中"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町小泉
+    rdfs:label "小泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町下大羽
+    rdfs:label "下大羽"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町城内坂
+    rdfs:label "城内坂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町長堤
+    rdfs:label "長堤"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町七井
+    rdfs:label "七井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町七井中央
+    rdfs:label "七井中央"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町生田目
+    rdfs:label "生田目"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町塙
+    rdfs:label "塙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町東田井
+    rdfs:label "東田井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町前沢
+    rdfs:label "前沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町益子
+    rdfs:label "益子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町本沼
+    rdfs:label "本沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡益子町山本
+    rdfs:label "山本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町
+    rdfs:label "芳賀郡茂木町"@ja ;
+    mo:AreaCode "09343" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町鮎田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町天子 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町飯 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町飯野 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町入郷 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町烏生田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町後郷 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町青梅 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町大瀬 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町大畑 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町小貫 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町小深 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町小山 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町神井 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町上後郷 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町上菅又 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町河井 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町河又 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町北高岡 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町木幡 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町黒田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町小井戸 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町坂井 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町九石 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町塩田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町下菅又 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町千本 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町竹原 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町所草 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町生井 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町林 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町桧山 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町深沢 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町福手 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町馬門 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町牧野 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町増井 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町町田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町三坂 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町茂木 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町山内 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県芳賀郡茂木町鮎田
+    rdfs:label "鮎田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町天子
+    rdfs:label "天子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町飯
+    rdfs:label "飯"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町飯野
+    rdfs:label "飯野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町入郷
+    rdfs:label "入郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町烏生田
+    rdfs:label "烏生田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町後郷
+    rdfs:label "後郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町青梅
+    rdfs:label "青梅"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町大瀬
+    rdfs:label "大瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町大畑
+    rdfs:label "大畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町小貫
+    rdfs:label "小貫"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町小深
+    rdfs:label "小深"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町小山
+    rdfs:label "小山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町神井
+    rdfs:label "神井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町上後郷
+    rdfs:label "上後郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町上菅又
+    rdfs:label "上菅又"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町河井
+    rdfs:label "河井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町河又
+    rdfs:label "河又"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町北高岡
+    rdfs:label "北高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町木幡
+    rdfs:label "木幡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町黒田
+    rdfs:label "黒田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町小井戸
+    rdfs:label "小井戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町坂井
+    rdfs:label "坂井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町九石
+    rdfs:label "九石"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町塩田
+    rdfs:label "塩田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町下菅又
+    rdfs:label "下菅又"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町千本
+    rdfs:label "千本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町竹原
+    rdfs:label "竹原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町所草
+    rdfs:label "所草"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町生井
+    rdfs:label "生井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町林
+    rdfs:label "林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町桧山
+    rdfs:label "桧山"@ja ;
+    mo:SubRegion mr:JP_栃木県芳賀郡茂木町桧山道木橋 ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町桧山道木橋
+    rdfs:label "道木橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町深沢
+    rdfs:label "深沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町福手
+    rdfs:label "福手"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町馬門
+    rdfs:label "馬門"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町牧野
+    rdfs:label "牧野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町増井
+    rdfs:label "増井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町町田
+    rdfs:label "町田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町三坂
+    rdfs:label "三坂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町茂木
+    rdfs:label "茂木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡茂木町山内
+    rdfs:label "山内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町
+    rdfs:label "芳賀郡市貝町"@ja ;
+    mo:AreaCode "09344" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町赤羽 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町石下 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町市塙 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町大谷津 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町上根 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町刈生田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町笹原田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町塩田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町椎谷 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町杉山 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町竹内 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町多田羅 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町田野辺 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町続谷 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町羽仏 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町文谷 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡市貝町見上 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県芳賀郡市貝町赤羽
+    rdfs:label "赤羽"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町石下
+    rdfs:label "石下"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町市塙
+    rdfs:label "市塙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町大谷津
+    rdfs:label "大谷津"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町上根
+    rdfs:label "上根"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町刈生田
+    rdfs:label "刈生田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町笹原田
+    rdfs:label "笹原田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町塩田
+    rdfs:label "塩田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町椎谷
+    rdfs:label "椎谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町杉山
+    rdfs:label "杉山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町竹内
+    rdfs:label "竹内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町多田羅
+    rdfs:label "多田羅"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町田野辺
+    rdfs:label "田野辺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町続谷
+    rdfs:label "続谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町羽仏
+    rdfs:label "羽仏"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町文谷
+    rdfs:label "文谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡市貝町見上
+    rdfs:label "見上"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町
+    rdfs:label "芳賀郡芳賀町"@ja ;
+    mo:AreaCode "09345" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町稲毛田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町打越新田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町祖母井 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町祖母井南 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町上稲毛田 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町上延生 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町北長島 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町給部 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町下高根沢 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町下延生 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町西高橋 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町西水沼 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町芳賀台 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町東高橋 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町東水沼 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町芳志戸 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町八ツ木 ;
+    mo:SubRegion mr:JP_栃木県芳賀郡芳賀町与能 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県芳賀郡芳賀町稲毛田
+    rdfs:label "稲毛田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町打越新田
+    rdfs:label "打越新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町祖母井
+    rdfs:label "祖母井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町祖母井南
+    rdfs:label "祖母井南"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町上稲毛田
+    rdfs:label "上稲毛田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町上延生
+    rdfs:label "上延生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町北長島
+    rdfs:label "北長島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町給部
+    rdfs:label "給部"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町下高根沢
+    rdfs:label "下高根沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町下延生
+    rdfs:label "下延生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町西高橋
+    rdfs:label "西高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町西水沼
+    rdfs:label "西水沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町芳賀台
+    rdfs:label "芳賀台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町東高橋
+    rdfs:label "東高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町東水沼
+    rdfs:label "東水沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町芳志戸
+    rdfs:label "芳志戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町八ツ木
+    rdfs:label "八ツ木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県芳賀郡芳賀町与能
+    rdfs:label "与能"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町
+    rdfs:label "下都賀郡壬生町"@ja ;
+    mo:AreaCode "09361" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町あけぼの町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町いずみ町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町駅東町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町落合 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町おもちゃのまち ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町表町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町上稲葉 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町上田 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町北小林 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町国谷 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町寿町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町幸町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町至宝 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町下稲葉 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町助谷 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町大師町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町中央町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町通町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町中泉 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町七ツ石 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町羽生田 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町福和田 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町藤井 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町本丸 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町緑町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町壬生甲 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町壬生乙 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町壬生丁 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町みぶ羽生田産業団地 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町元町 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町安塚 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡壬生町若草町 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県下都賀郡壬生町あけぼの町
+    rdfs:label "あけぼの町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町いずみ町
+    rdfs:label "いずみ町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町駅東町
+    rdfs:label "駅東町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町落合
+    rdfs:label "落合"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町おもちゃのまち
+    rdfs:label "おもちゃのまち"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町表町
+    rdfs:label "表町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町上稲葉
+    rdfs:label "上稲葉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町上田
+    rdfs:label "上田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町北小林
+    rdfs:label "北小林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町国谷
+    rdfs:label "国谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町至宝
+    rdfs:label "至宝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町下稲葉
+    rdfs:label "下稲葉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町助谷
+    rdfs:label "助谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町大師町
+    rdfs:label "大師町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町通町
+    rdfs:label "通町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町中泉
+    rdfs:label "中泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町七ツ石
+    rdfs:label "七ツ石"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町羽生田
+    rdfs:label "羽生田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町福和田
+    rdfs:label "福和田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町藤井
+    rdfs:label "藤井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町本丸
+    rdfs:label "本丸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町壬生甲
+    rdfs:label "壬生甲"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町壬生乙
+    rdfs:label "壬生乙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町壬生丁
+    rdfs:label "壬生丁"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町みぶ羽生田産業団地
+    rdfs:label "みぶ羽生田産業団地"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町安塚
+    rdfs:label "安塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡壬生町若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町
+    rdfs:label "下都賀郡野木町"@ja ;
+    mo:AreaCode "09364" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町潤島 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町川田 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町佐川野 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町友沼 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町中谷 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町野木 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町野渡 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町丸林 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町南赤塚 ;
+    mo:SubRegion mr:JP_栃木県下都賀郡野木町若林 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県下都賀郡野木町潤島
+    rdfs:label "潤島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町川田
+    rdfs:label "川田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町佐川野
+    rdfs:label "佐川野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町友沼
+    rdfs:label "友沼"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町中谷
+    rdfs:label "中谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町野木
+    rdfs:label "野木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町野渡
+    rdfs:label "野渡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町丸林
+    rdfs:label "丸林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町南赤塚
+    rdfs:label "南赤塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県下都賀郡野木町若林
+    rdfs:label "若林"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町
+    rdfs:label "塩谷郡塩谷町"@ja ;
+    mo:AreaCode "09384" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町飯岡 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町泉 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町上沢 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町上平 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町大久保 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町大宮 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町風見 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町風見山田 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町金枝 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町上寺島 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町喜佐見 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町熊ノ木 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町佐貫 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町下寺島 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町田所 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町玉生 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町道下 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町鳥羽新田 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町原荻野目 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町東房 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町肘内 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町船生 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡塩谷町芦場新田 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県塩谷郡塩谷町飯岡
+    rdfs:label "飯岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町泉
+    rdfs:label "泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町上沢
+    rdfs:label "上沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町上平
+    rdfs:label "上平"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町大宮
+    rdfs:label "大宮"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町風見
+    rdfs:label "風見"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町風見山田
+    rdfs:label "風見山田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町金枝
+    rdfs:label "金枝"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町上寺島
+    rdfs:label "上寺島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町喜佐見
+    rdfs:label "喜佐見"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町熊ノ木
+    rdfs:label "熊ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町佐貫
+    rdfs:label "佐貫"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町下寺島
+    rdfs:label "下寺島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町田所
+    rdfs:label "田所"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町玉生
+    rdfs:label "玉生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町道下
+    rdfs:label "道下"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町鳥羽新田
+    rdfs:label "鳥羽新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町原荻野目
+    rdfs:label "原荻野目"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町東房
+    rdfs:label "東房"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町肘内
+    rdfs:label "肘内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町船生
+    rdfs:label "船生"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡塩谷町芦場新田
+    rdfs:label "芦場新田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町
+    rdfs:label "塩谷郡高根沢町"@ja ;
+    mo:AreaCode "09386" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町飯室 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町石末 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町太田 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町大谷 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町柿木沢 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町上阿久津 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町上柏崎 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町上高根沢 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町亀梨 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町給部 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町栗ケ島 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町桑窪 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町光陽台 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町下柏崎 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町寺渡戸 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町中阿久津 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町中柏崎 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町西高谷 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町狭間田 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町花岡 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町平田 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町伏久 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町文挾 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町宝積寺 ;
+    mo:SubRegion mr:JP_栃木県塩谷郡高根沢町宝石台 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県塩谷郡高根沢町飯室
+    rdfs:label "飯室"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町石末
+    rdfs:label "石末"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町太田
+    rdfs:label "太田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町柿木沢
+    rdfs:label "柿木沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町上阿久津
+    rdfs:label "上阿久津"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町上柏崎
+    rdfs:label "上柏崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町上高根沢
+    rdfs:label "上高根沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町亀梨
+    rdfs:label "亀梨"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町給部
+    rdfs:label "給部"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町栗ケ島
+    rdfs:label "栗ケ島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町桑窪
+    rdfs:label "桑窪"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町光陽台
+    rdfs:label "光陽台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町下柏崎
+    rdfs:label "下柏崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町寺渡戸
+    rdfs:label "寺渡戸"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町中阿久津
+    rdfs:label "中阿久津"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町中柏崎
+    rdfs:label "中柏崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町西高谷
+    rdfs:label "西高谷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町狭間田
+    rdfs:label "狭間田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町花岡
+    rdfs:label "花岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町平田
+    rdfs:label "平田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町伏久
+    rdfs:label "伏久"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町文挾
+    rdfs:label "文挾"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町宝積寺
+    rdfs:label "宝積寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県塩谷郡高根沢町宝石台
+    rdfs:label "宝石台"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町
+    rdfs:label "那須郡那須町"@ja ;
+    mo:AreaCode "09407" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町芦野 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町梓 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町伊王野 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町稲沢 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町漆塚 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町大島 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町大畑 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町大和須 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町高久甲 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町高久乙 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町高久丙 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町寺子 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町寺子乙 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町寺子丙 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町富岡 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町豊原 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町豊原甲 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町豊原乙 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町豊原丙 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町沼野井 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町東岩崎 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町蓑沢 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町睦家 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町梁瀬 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町湯本 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町横岡 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町寄居 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県那須郡那須町芦野
+    rdfs:label "芦野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町梓
+    rdfs:label "梓"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町伊王野
+    rdfs:label "伊王野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町稲沢
+    rdfs:label "稲沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町漆塚
+    rdfs:label "漆塚"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町大畑
+    rdfs:label "大畑"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町大和須
+    rdfs:label "大和須"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町高久甲
+    rdfs:label "高久甲"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町高久乙
+    rdfs:label "高久乙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町高久丙
+    rdfs:label "高久丙"@ja ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町高久丙穂積 ;
+    mo:SubRegion mr:JP_栃木県那須郡那須町高久丙山梨子 ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町高久丙穂積
+    rdfs:label "穂積"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町高久丙山梨子
+    rdfs:label "山梨子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町寺子
+    rdfs:label "寺子"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町寺子乙
+    rdfs:label "寺子乙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町寺子丙
+    rdfs:label "寺子丙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町豊原
+    rdfs:label "豊原"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町豊原甲
+    rdfs:label "豊原甲"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町豊原乙
+    rdfs:label "豊原乙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町豊原丙
+    rdfs:label "豊原丙"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町沼野井
+    rdfs:label "沼野井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町東岩崎
+    rdfs:label "東岩崎"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町蓑沢
+    rdfs:label "蓑沢"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町睦家
+    rdfs:label "睦家"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町梁瀬
+    rdfs:label "梁瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町湯本
+    rdfs:label "湯本"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町横岡
+    rdfs:label "横岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那須町寄居
+    rdfs:label "寄居"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町
+    rdfs:label "那須郡那珂川町"@ja ;
+    mo:AreaCode "09411" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町大内 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町大那地 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町大山田上郷 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町大山田下郷 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町小川 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町恩田 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町片平 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町北向田 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町薬利 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町久那瀬 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町小砂 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町小口 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町浄法寺 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町白久 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町高岡 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町健武 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町富山 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町馬頭 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町東戸田 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町松野 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町三輪 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町盛泉 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町谷川 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町谷田 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町矢又 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町芳井 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町吉田 ;
+    mo:SubRegion mr:JP_栃木県那須郡那珂川町和見 ;
+a mo:GeoEntity .
+
+mr:JP_栃木県那須郡那珂川町大内
+    rdfs:label "大内"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町大那地
+    rdfs:label "大那地"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町大山田上郷
+    rdfs:label "大山田上郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町大山田下郷
+    rdfs:label "大山田下郷"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町恩田
+    rdfs:label "恩田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町片平
+    rdfs:label "片平"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町北向田
+    rdfs:label "北向田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町薬利
+    rdfs:label "薬利"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町久那瀬
+    rdfs:label "久那瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町小砂
+    rdfs:label "小砂"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町小口
+    rdfs:label "小口"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町浄法寺
+    rdfs:label "浄法寺"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町白久
+    rdfs:label "白久"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町高岡
+    rdfs:label "高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町健武
+    rdfs:label "健武"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町富山
+    rdfs:label "富山"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町馬頭
+    rdfs:label "馬頭"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町東戸田
+    rdfs:label "東戸田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町松野
+    rdfs:label "松野"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町三輪
+    rdfs:label "三輪"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町盛泉
+    rdfs:label "盛泉"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町谷川
+    rdfs:label "谷川"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町谷田
+    rdfs:label "谷田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町矢又
+    rdfs:label "矢又"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町芳井
+    rdfs:label "芳井"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_栃木県那須郡那珂川町和見
+    rdfs:label "和見"@ja ;
+    a mo:町域 .
+
