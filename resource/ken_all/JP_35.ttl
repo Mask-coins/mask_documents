@@ -1,0 +1,9279 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_山口県
+    a mo:都道府県 ;
+    rdfs:label "山口県"@ja ;
+    mo:AreaCode "35" ;
+    mo:SubRegion mr:JP_山口県下関市 ;
+    mo:SubRegion mr:JP_山口県宇部市 ;
+    mo:SubRegion mr:JP_山口県山口市 ;
+    mo:SubRegion mr:JP_山口県萩市 ;
+    mo:SubRegion mr:JP_山口県防府市 ;
+    mo:SubRegion mr:JP_山口県下松市 ;
+    mo:SubRegion mr:JP_山口県岩国市 ;
+    mo:SubRegion mr:JP_山口県光市 ;
+    mo:SubRegion mr:JP_山口県長門市 ;
+    mo:SubRegion mr:JP_山口県柳井市 ;
+    mo:SubRegion mr:JP_山口県美祢市 ;
+    mo:SubRegion mr:JP_山口県周南市 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町 ;
+    mo:SubRegion mr:JP_山口県玖珂郡和木町 ;
+    mo:SubRegion mr:JP_山口県熊毛郡上関町 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町 ;
+    mo:SubRegion mr:JP_山口県阿武郡阿武町 ;
+    a mo:GeoEntity .
+
+mr:JP_山口県下関市
+    rdfs:label "下関市"@ja ;
+    mo:AreaCode "35201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県下関市赤池町 ;
+    mo:SubRegion mr:JP_山口県下関市垢田 ;
+    mo:SubRegion mr:JP_山口県下関市垢田町 ;
+    mo:SubRegion mr:JP_山口県下関市赤間町 ;
+    mo:SubRegion mr:JP_山口県下関市秋根 ;
+    mo:SubRegion mr:JP_山口県下関市秋根上町 ;
+    mo:SubRegion mr:JP_山口県下関市秋根新町 ;
+    mo:SubRegion mr:JP_山口県下関市秋根東町 ;
+    mo:SubRegion mr:JP_山口県下関市秋根西町 ;
+    mo:SubRegion mr:JP_山口県下関市秋根南町 ;
+    mo:SubRegion mr:JP_山口県下関市秋根北町 ;
+    mo:SubRegion mr:JP_山口県下関市秋根本町 ;
+    mo:SubRegion mr:JP_山口県下関市阿弥陀寺町 ;
+    mo:SubRegion mr:JP_山口県下関市綾羅木 ;
+    mo:SubRegion mr:JP_山口県下関市綾羅木新町 ;
+    mo:SubRegion mr:JP_山口県下関市綾羅木本町 ;
+    mo:SubRegion mr:JP_山口県下関市綾羅木南町 ;
+    mo:SubRegion mr:JP_山口県下関市有冨 ;
+    mo:SubRegion mr:JP_山口県下関市あるかぽーと ;
+    mo:SubRegion mr:JP_山口県下関市生野町 ;
+    mo:SubRegion mr:JP_山口県下関市伊倉 ;
+    mo:SubRegion mr:JP_山口県下関市伊倉新町 ;
+    mo:SubRegion mr:JP_山口県下関市伊倉東町 ;
+    mo:SubRegion mr:JP_山口県下関市伊倉本町 ;
+    mo:SubRegion mr:JP_山口県下関市伊倉町 ;
+    mo:SubRegion mr:JP_山口県下関市伊崎町 ;
+    mo:SubRegion mr:JP_山口県下関市石神町 ;
+    mo:SubRegion mr:JP_山口県下関市石原 ;
+    mo:SubRegion mr:JP_山口県下関市井田 ;
+    mo:SubRegion mr:JP_山口県下関市一の宮卸本町 ;
+    mo:SubRegion mr:JP_山口県下関市一の宮学園町 ;
+    mo:SubRegion mr:JP_山口県下関市一の宮住吉 ;
+    mo:SubRegion mr:JP_山口県下関市一の宮東町 ;
+    mo:SubRegion mr:JP_山口県下関市一の宮本町 ;
+    mo:SubRegion mr:JP_山口県下関市一の宮町 ;
+    mo:SubRegion mr:JP_山口県下関市今浦町 ;
+    mo:SubRegion mr:JP_山口県下関市入江町 ;
+    mo:SubRegion mr:JP_山口県下関市上条町 ;
+    mo:SubRegion mr:JP_山口県下関市植田 ;
+    mo:SubRegion mr:JP_山口県下関市後田町 ;
+    mo:SubRegion mr:JP_山口県下関市内日上 ;
+    mo:SubRegion mr:JP_山口県下関市内日下 ;
+    mo:SubRegion mr:JP_山口県下関市宇津井 ;
+    mo:SubRegion mr:JP_山口県下関市宇部 ;
+    mo:SubRegion mr:JP_山口県下関市王喜宇津井 ;
+    mo:SubRegion mr:JP_山口県下関市王喜本町 ;
+    mo:SubRegion mr:JP_山口県下関市王司上町 ;
+    mo:SubRegion mr:JP_山口県下関市王司川端 ;
+    mo:SubRegion mr:JP_山口県下関市王司神田 ;
+    mo:SubRegion mr:JP_山口県下関市王司本町 ;
+    mo:SubRegion mr:JP_山口県下関市王司南町 ;
+    mo:SubRegion mr:JP_山口県下関市阿内 ;
+    mo:SubRegion mr:JP_山口県下関市大坪本町 ;
+    mo:SubRegion mr:JP_山口県下関市小月市原町 ;
+    mo:SubRegion mr:JP_山口県下関市小月駅前 ;
+    mo:SubRegion mr:JP_山口県下関市小月京泊 ;
+    mo:SubRegion mr:JP_山口県下関市小月公園町 ;
+    mo:SubRegion mr:JP_山口県下関市小月小島 ;
+    mo:SubRegion mr:JP_山口県下関市小月幸町 ;
+    mo:SubRegion mr:JP_山口県下関市小月杉迫 ;
+    mo:SubRegion mr:JP_山口県下関市小月高雄町 ;
+    mo:SubRegion mr:JP_山口県下関市小月茶屋 ;
+    mo:SubRegion mr:JP_山口県下関市小月町 ;
+    mo:SubRegion mr:JP_山口県下関市小月西の台 ;
+    mo:SubRegion mr:JP_山口県下関市小月本町 ;
+    mo:SubRegion mr:JP_山口県下関市小月南町 ;
+    mo:SubRegion mr:JP_山口県下関市小月宮の町 ;
+    mo:SubRegion mr:JP_山口県下関市小野 ;
+    mo:SubRegion mr:JP_山口県下関市卸新町 ;
+    mo:SubRegion mr:JP_山口県下関市梶栗町 ;
+    mo:SubRegion mr:JP_山口県下関市春日町 ;
+    mo:SubRegion mr:JP_山口県下関市員光 ;
+    mo:SubRegion mr:JP_山口県下関市員光町 ;
+    mo:SubRegion mr:JP_山口県下関市形山 ;
+    mo:SubRegion mr:JP_山口県下関市形山町 ;
+    mo:SubRegion mr:JP_山口県下関市形山みどり町 ;
+    mo:SubRegion mr:JP_山口県下関市上新地町 ;
+    mo:SubRegion mr:JP_山口県下関市上田中町 ;
+    mo:SubRegion mr:JP_山口県下関市亀浜町 ;
+    mo:SubRegion mr:JP_山口県下関市蒲生野 ;
+    mo:SubRegion mr:JP_山口県下関市唐戸町 ;
+    mo:SubRegion mr:JP_山口県下関市川中本町 ;
+    mo:SubRegion mr:JP_山口県下関市川中豊町 ;
+    mo:SubRegion mr:JP_山口県下関市関西町 ;
+    mo:SubRegion mr:JP_山口県下関市関西本町 ;
+    mo:SubRegion mr:JP_山口県下関市神田 ;
+    mo:SubRegion mr:JP_山口県下関市神田町 ;
+    mo:SubRegion mr:JP_山口県下関市観音崎町 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町上大野 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町上岡枝 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町上田部 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町上保木 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町貴飯 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町轡井 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町久野 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町下大野 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町下岡枝 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町下保木 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町田部 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町七見 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町楢崎 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町西中山 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町日新 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町東中山 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町道市 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町樅ノ木 ;
+    mo:SubRegion mr:JP_山口県下関市菊川町吉賀 ;
+    mo:SubRegion mr:JP_山口県下関市貴船町 ;
+    mo:SubRegion mr:JP_山口県下関市清末 ;
+    mo:SubRegion mr:JP_山口県下関市清末東町 ;
+    mo:SubRegion mr:JP_山口県下関市清末鞍馬 ;
+    mo:SubRegion mr:JP_山口県下関市清末五毛 ;
+    mo:SubRegion mr:JP_山口県下関市清末陣屋 ;
+    mo:SubRegion mr:JP_山口県下関市清末千房 ;
+    mo:SubRegion mr:JP_山口県下関市清末大門 ;
+    mo:SubRegion mr:JP_山口県下関市清末中町 ;
+    mo:SubRegion mr:JP_山口県下関市清末西町 ;
+    mo:SubRegion mr:JP_山口県下関市清末本町 ;
+    mo:SubRegion mr:JP_山口県下関市楠乃 ;
+    mo:SubRegion mr:JP_山口県下関市熊野町 ;
+    mo:SubRegion mr:JP_山口県下関市熊野西町 ;
+    mo:SubRegion mr:JP_山口県下関市向洋町 ;
+    mo:SubRegion mr:JP_山口県下関市木屋川本町 ;
+    mo:SubRegion mr:JP_山口県下関市木屋川南町 ;
+    mo:SubRegion mr:JP_山口県下関市金比羅町 ;
+    mo:SubRegion mr:JP_山口県下関市才川 ;
+    mo:SubRegion mr:JP_山口県下関市幸町 ;
+    mo:SubRegion mr:JP_山口県下関市栄町 ;
+    mo:SubRegion mr:JP_山口県下関市桜山町 ;
+    mo:SubRegion mr:JP_山口県下関市笹山町 ;
+    mo:SubRegion mr:JP_山口県下関市汐入町 ;
+    mo:SubRegion mr:JP_山口県下関市勝谷 ;
+    mo:SubRegion mr:JP_山口県下関市勝谷新町 ;
+    mo:SubRegion mr:JP_山口県下関市白崎 ;
+    mo:SubRegion mr:JP_山口県下関市新垢田東町 ;
+    mo:SubRegion mr:JP_山口県下関市新垢田西町 ;
+    mo:SubRegion mr:JP_山口県下関市新垢田南町 ;
+    mo:SubRegion mr:JP_山口県下関市新垢田北町 ;
+    mo:SubRegion mr:JP_山口県下関市新地町 ;
+    mo:SubRegion mr:JP_山口県下関市新地西町 ;
+    mo:SubRegion mr:JP_山口県下関市新椋野 ;
+    mo:SubRegion mr:JP_山口県下関市筋川町 ;
+    mo:SubRegion mr:JP_山口県下関市筋ケ浜町 ;
+    mo:SubRegion mr:JP_山口県下関市大平町 ;
+    mo:SubRegion mr:JP_山口県下関市高畑 ;
+    mo:SubRegion mr:JP_山口県下関市宝町 ;
+    mo:SubRegion mr:JP_山口県下関市田倉 ;
+    mo:SubRegion mr:JP_山口県下関市田倉御殿町 ;
+    mo:SubRegion mr:JP_山口県下関市竹崎町 ;
+    mo:SubRegion mr:JP_山口県下関市武久町 ;
+    mo:SubRegion mr:JP_山口県下関市武久西原台 ;
+    mo:SubRegion mr:JP_山口県下関市田中町 ;
+    mo:SubRegion mr:JP_山口県下関市大学町 ;
+    mo:SubRegion mr:JP_山口県下関市壇之浦町 ;
+    mo:SubRegion mr:JP_山口県下関市千鳥ケ丘町 ;
+    mo:SubRegion mr:JP_山口県下関市千鳥浜町 ;
+    mo:SubRegion mr:JP_山口県下関市中央町 ;
+    mo:SubRegion mr:JP_山口県下関市長州出島 ;
+    mo:SubRegion mr:JP_山口県下関市長府安養寺 ;
+    mo:SubRegion mr:JP_山口県下関市長府印内町 ;
+    mo:SubRegion mr:JP_山口県下関市長府江下町 ;
+    mo:SubRegion mr:JP_山口県下関市長府逢坂町 ;
+    mo:SubRegion mr:JP_山口県下関市長府扇町 ;
+    mo:SubRegion mr:JP_山口県下関市長府金屋町 ;
+    mo:SubRegion mr:JP_山口県下関市長府金屋浜町 ;
+    mo:SubRegion mr:JP_山口県下関市長府亀の甲 ;
+    mo:SubRegion mr:JP_山口県下関市長府川端 ;
+    mo:SubRegion mr:JP_山口県下関市長府黒門町 ;
+    mo:SubRegion mr:JP_山口県下関市長府黒門東町 ;
+    mo:SubRegion mr:JP_山口県下関市長府黒門南町 ;
+    mo:SubRegion mr:JP_山口県下関市長府古城町 ;
+    mo:SubRegion mr:JP_山口県下関市長府紺屋町 ;
+    mo:SubRegion mr:JP_山口県下関市長府才川 ;
+    mo:SubRegion mr:JP_山口県下関市長府侍町 ;
+    mo:SubRegion mr:JP_山口県下関市長府四王司町 ;
+    mo:SubRegion mr:JP_山口県下関市長府新四王司町 ;
+    mo:SubRegion mr:JP_山口県下関市長府新松原町 ;
+    mo:SubRegion mr:JP_山口県下関市長府惣社町 ;
+    mo:SubRegion mr:JP_山口県下関市長府外浦町 ;
+    mo:SubRegion mr:JP_山口県下関市長府高場町 ;
+    mo:SubRegion mr:JP_山口県下関市長府珠の浦町 ;
+    mo:SubRegion mr:JP_山口県下関市長府豊浦町 ;
+    mo:SubRegion mr:JP_山口県下関市長府土居の内町 ;
+    mo:SubRegion mr:JP_山口県下関市長府中尾町 ;
+    mo:SubRegion mr:JP_山口県下関市長府中土居北町 ;
+    mo:SubRegion mr:JP_山口県下関市長府中土居本町 ;
+    mo:SubRegion mr:JP_山口県下関市長府中之町 ;
+    mo:SubRegion mr:JP_山口県下関市長府中浜町 ;
+    mo:SubRegion mr:JP_山口県下関市長府中六波町 ;
+    mo:SubRegion mr:JP_山口県下関市長府野久留米町 ;
+    mo:SubRegion mr:JP_山口県下関市長府羽衣町 ;
+    mo:SubRegion mr:JP_山口県下関市長府羽衣南町 ;
+    mo:SubRegion mr:JP_山口県下関市長府浜浦町 ;
+    mo:SubRegion mr:JP_山口県下関市長府浜浦西町 ;
+    mo:SubRegion mr:JP_山口県下関市長府浜浦南町 ;
+    mo:SubRegion mr:JP_山口県下関市長府東侍町 ;
+    mo:SubRegion mr:JP_山口県下関市長府日の出町 ;
+    mo:SubRegion mr:JP_山口県下関市長府古江小路町 ;
+    mo:SubRegion mr:JP_山口県下関市長府豊城町 ;
+    mo:SubRegion mr:JP_山口県下関市長府前八幡町 ;
+    mo:SubRegion mr:JP_山口県下関市長府松小田中町 ;
+    mo:SubRegion mr:JP_山口県下関市長府松小田東町 ;
+    mo:SubRegion mr:JP_山口県下関市長府松小田西町 ;
+    mo:SubRegion mr:JP_山口県下関市長府松小田南町 ;
+    mo:SubRegion mr:JP_山口県下関市長府松小田北町 ;
+    mo:SubRegion mr:JP_山口県下関市長府松小田本町 ;
+    mo:SubRegion mr:JP_山口県下関市長府松原町 ;
+    mo:SubRegion mr:JP_山口県下関市長府満珠新町 ;
+    mo:SubRegion mr:JP_山口県下関市長府満珠町 ;
+    mo:SubRegion mr:JP_山口県下関市長府三島町 ;
+    mo:SubRegion mr:JP_山口県下関市長府港町 ;
+    mo:SubRegion mr:JP_山口県下関市長府南之町 ;
+    mo:SubRegion mr:JP_山口県下関市長府宮崎町 ;
+    mo:SubRegion mr:JP_山口県下関市長府宮の内町 ;
+    mo:SubRegion mr:JP_山口県下関市長府向田町 ;
+    mo:SubRegion mr:JP_山口県下関市長府八幡町 ;
+    mo:SubRegion mr:JP_山口県下関市冨任 ;
+    mo:SubRegion mr:JP_山口県下関市富任町 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町厚母郷 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町宇賀 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町川棚 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町黒井 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町小串 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町豊洋台 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町豊洋台新町 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町室津上 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町室津下 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町吉永 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦町涌田後地 ;
+    mo:SubRegion mr:JP_山口県下関市豊浦村 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町阿座上 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町荒木 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町一ノ俣 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町稲見 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町稲光 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町今出 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町浮石 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町宇内 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町江良 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町大河内 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町城戸 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町金道 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町佐野 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町地吉 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町鷹子 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町高山 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町手洗 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町殿居 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町殿敷 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町中村 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町楢原 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町西市 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町西長野 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町庭田 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町萩原 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町東長野 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町日野 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町杢路子 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町八道 ;
+    mo:SubRegion mr:JP_山口県下関市豊田町矢田 ;
+    mo:SubRegion mr:JP_山口県下関市中之町 ;
+    mo:SubRegion mr:JP_山口県下関市長崎新町 ;
+    mo:SubRegion mr:JP_山口県下関市長崎中央町 ;
+    mo:SubRegion mr:JP_山口県下関市長崎本町 ;
+    mo:SubRegion mr:JP_山口県下関市長崎町 ;
+    mo:SubRegion mr:JP_山口県下関市永田郷 ;
+    mo:SubRegion mr:JP_山口県下関市永田本町 ;
+    mo:SubRegion mr:JP_山口県下関市長門町 ;
+    mo:SubRegion mr:JP_山口県下関市南部町 ;
+    mo:SubRegion mr:JP_山口県下関市西入江町 ;
+    mo:SubRegion mr:JP_山口県下関市西大坪町 ;
+    mo:SubRegion mr:JP_山口県下関市西神田町 ;
+    mo:SubRegion mr:JP_山口県下関市西観音町 ;
+    mo:SubRegion mr:JP_山口県下関市乃木浜 ;
+    mo:SubRegion mr:JP_山口県下関市延行 ;
+    mo:SubRegion mr:JP_山口県下関市幡生新町 ;
+    mo:SubRegion mr:JP_山口県下関市幡生本町 ;
+    mo:SubRegion mr:JP_山口県下関市幡生宮の下町 ;
+    mo:SubRegion mr:JP_山口県下関市幡生町 ;
+    mo:SubRegion mr:JP_山口県下関市岬之町 ;
+    mo:SubRegion mr:JP_山口県下関市羽山町 ;
+    mo:SubRegion mr:JP_山口県下関市稗田中町 ;
+    mo:SubRegion mr:JP_山口県下関市稗田西町 ;
+    mo:SubRegion mr:JP_山口県下関市稗田南町 ;
+    mo:SubRegion mr:JP_山口県下関市稗田北町 ;
+    mo:SubRegion mr:JP_山口県下関市稗田町 ;
+    mo:SubRegion mr:JP_山口県下関市東神田町 ;
+    mo:SubRegion mr:JP_山口県下関市東観音町 ;
+    mo:SubRegion mr:JP_山口県下関市東勝谷 ;
+    mo:SubRegion mr:JP_山口県下関市東向山町 ;
+    mo:SubRegion mr:JP_山口県下関市東大和町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島海士郷町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島江の浦町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島老の山公園 ;
+    mo:SubRegion mr:JP_山口県下関市彦島老町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島桜ケ丘町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島迫町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島塩浜町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島杉田町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島角倉町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島竹ノ子島町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島田の首町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島弟子待町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島弟子待東町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島西山町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島福浦町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島本村町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島緑町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島向井町 ;
+    mo:SubRegion mr:JP_山口県下関市彦島山中町 ;
+    mo:SubRegion mr:JP_山口県下関市福江 ;
+    mo:SubRegion mr:JP_山口県下関市藤ケ谷町 ;
+    mo:SubRegion mr:JP_山口県下関市藤附町 ;
+    mo:SubRegion mr:JP_山口県下関市豊前田町 ;
+    mo:SubRegion mr:JP_山口県下関市蓋井島 ;
+    mo:SubRegion mr:JP_山口県下関市古屋町 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町阿川 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町粟野 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町神田 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町神田上 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町北宇賀 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町滝部 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町田耕 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町角島 ;
+    mo:SubRegion mr:JP_山口県下関市豊北町矢玉 ;
+    mo:SubRegion mr:JP_山口県下関市細江新町 ;
+    mo:SubRegion mr:JP_山口県下関市細江町 ;
+    mo:SubRegion mr:JP_山口県下関市本町 ;
+    mo:SubRegion mr:JP_山口県下関市前勝谷町 ;
+    mo:SubRegion mr:JP_山口県下関市前田 ;
+    mo:SubRegion mr:JP_山口県下関市松小田 ;
+    mo:SubRegion mr:JP_山口県下関市松屋 ;
+    mo:SubRegion mr:JP_山口県下関市松屋上町 ;
+    mo:SubRegion mr:JP_山口県下関市松屋東町 ;
+    mo:SubRegion mr:JP_山口県下関市松屋本町 ;
+    mo:SubRegion mr:JP_山口県下関市丸山町 ;
+    mo:SubRegion mr:JP_山口県下関市三河町 ;
+    mo:SubRegion mr:JP_山口県下関市南大坪町 ;
+    mo:SubRegion mr:JP_山口県下関市みもすそ川町 ;
+    mo:SubRegion mr:JP_山口県下関市宮田町 ;
+    mo:SubRegion mr:JP_山口県下関市向山町 ;
+    mo:SubRegion mr:JP_山口県下関市椋野上町 ;
+    mo:SubRegion mr:JP_山口県下関市椋野町 ;
+    mo:SubRegion mr:JP_山口県下関市六連島 ;
+    mo:SubRegion mr:JP_山口県下関市名池町 ;
+    mo:SubRegion mr:JP_山口県下関市元町 ;
+    mo:SubRegion mr:JP_山口県下関市安岡 ;
+    mo:SubRegion mr:JP_山口県下関市安岡駅前 ;
+    mo:SubRegion mr:JP_山口県下関市安岡町 ;
+    mo:SubRegion mr:JP_山口県下関市安岡本町 ;
+    mo:SubRegion mr:JP_山口県下関市山田 ;
+    mo:SubRegion mr:JP_山口県下関市山手町 ;
+    mo:SubRegion mr:JP_山口県下関市大和町 ;
+    mo:SubRegion mr:JP_山口県下関市山の口町 ;
+    mo:SubRegion mr:JP_山口県下関市山の田中央町 ;
+    mo:SubRegion mr:JP_山口県下関市山の田東町 ;
+    mo:SubRegion mr:JP_山口県下関市山の田西町 ;
+    mo:SubRegion mr:JP_山口県下関市山の田南町 ;
+    mo:SubRegion mr:JP_山口県下関市山の田北町 ;
+    mo:SubRegion mr:JP_山口県下関市山の田本町 ;
+    mo:SubRegion mr:JP_山口県下関市ゆめタウン ;
+    mo:SubRegion mr:JP_山口県下関市横野町 ;
+    mo:SubRegion mr:JP_山口県下関市吉田 ;
+    mo:SubRegion mr:JP_山口県下関市吉田地方 ;
+    mo:SubRegion mr:JP_山口県下関市吉見上 ;
+    mo:SubRegion mr:JP_山口県下関市吉見下 ;
+    mo:SubRegion mr:JP_山口県下関市吉見古宿町 ;
+    mo:SubRegion mr:JP_山口県下関市吉見里町 ;
+    mo:SubRegion mr:JP_山口県下関市吉見新町 ;
+    mo:SubRegion mr:JP_山口県下関市吉見本町 ;
+    mo:SubRegion mr:JP_山口県下関市吉見竜王町 ;
+    mo:SubRegion mr:JP_山口県下関市吉母 ;
+a mo:GeoEntity .
+
+mr:JP_山口県下関市赤池町
+    rdfs:label "赤池町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市垢田
+    rdfs:label "垢田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市垢田町
+    rdfs:label "垢田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市赤間町
+    rdfs:label "赤間町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市秋根
+    rdfs:label "秋根"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市秋根上町
+    rdfs:label "秋根上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市秋根新町
+    rdfs:label "秋根新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市秋根東町
+    rdfs:label "秋根東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市秋根西町
+    rdfs:label "秋根西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市秋根南町
+    rdfs:label "秋根南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市秋根北町
+    rdfs:label "秋根北町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市秋根本町
+    rdfs:label "秋根本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市阿弥陀寺町
+    rdfs:label "阿弥陀寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市綾羅木
+    rdfs:label "綾羅木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市綾羅木新町
+    rdfs:label "綾羅木新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市綾羅木本町
+    rdfs:label "綾羅木本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市綾羅木南町
+    rdfs:label "綾羅木南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市有冨
+    rdfs:label "有冨"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市あるかぽーと
+    rdfs:label "あるかぽーと"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市生野町
+    rdfs:label "生野町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市伊倉
+    rdfs:label "伊倉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市伊倉新町
+    rdfs:label "伊倉新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市伊倉東町
+    rdfs:label "伊倉東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市伊倉本町
+    rdfs:label "伊倉本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市伊倉町
+    rdfs:label "伊倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市伊崎町
+    rdfs:label "伊崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市石神町
+    rdfs:label "石神町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市石原
+    rdfs:label "石原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市井田
+    rdfs:label "井田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市一の宮卸本町
+    rdfs:label "一の宮卸本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市一の宮学園町
+    rdfs:label "一の宮学園町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市一の宮住吉
+    rdfs:label "一の宮住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市一の宮東町
+    rdfs:label "一の宮東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市一の宮本町
+    rdfs:label "一の宮本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市一の宮町
+    rdfs:label "一の宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市今浦町
+    rdfs:label "今浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市入江町
+    rdfs:label "入江町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市上条町
+    rdfs:label "上条町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市植田
+    rdfs:label "植田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市後田町
+    rdfs:label "後田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市内日上
+    rdfs:label "内日上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市内日下
+    rdfs:label "内日下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市宇津井
+    rdfs:label "宇津井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市宇部
+    rdfs:label "宇部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市王喜宇津井
+    rdfs:label "王喜宇津井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市王喜本町
+    rdfs:label "王喜本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市王司上町
+    rdfs:label "王司上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市王司川端
+    rdfs:label "王司川端"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市王司神田
+    rdfs:label "王司神田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市王司本町
+    rdfs:label "王司本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市王司南町
+    rdfs:label "王司南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市阿内
+    rdfs:label "阿内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市大坪本町
+    rdfs:label "大坪本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月市原町
+    rdfs:label "小月市原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月駅前
+    rdfs:label "小月駅前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月京泊
+    rdfs:label "小月京泊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月公園町
+    rdfs:label "小月公園町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月小島
+    rdfs:label "小月小島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月幸町
+    rdfs:label "小月幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月杉迫
+    rdfs:label "小月杉迫"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月高雄町
+    rdfs:label "小月高雄町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月茶屋
+    rdfs:label "小月茶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月町
+    rdfs:label "小月町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月西の台
+    rdfs:label "小月西の台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月本町
+    rdfs:label "小月本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月南町
+    rdfs:label "小月南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小月宮の町
+    rdfs:label "小月宮の町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市卸新町
+    rdfs:label "卸新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市梶栗町
+    rdfs:label "梶栗町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市員光
+    rdfs:label "員光"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市員光町
+    rdfs:label "員光町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市形山
+    rdfs:label "形山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市形山町
+    rdfs:label "形山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市形山みどり町
+    rdfs:label "形山みどり町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市上新地町
+    rdfs:label "上新地町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市上田中町
+    rdfs:label "上田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市亀浜町
+    rdfs:label "亀浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市蒲生野
+    rdfs:label "蒲生野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市唐戸町
+    rdfs:label "唐戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市川中本町
+    rdfs:label "川中本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市川中豊町
+    rdfs:label "川中豊町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市関西町
+    rdfs:label "関西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市関西本町
+    rdfs:label "関西本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市神田
+    rdfs:label "神田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市神田町
+    rdfs:label "神田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市観音崎町
+    rdfs:label "観音崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町上大野
+    rdfs:label "菊川町上大野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町上岡枝
+    rdfs:label "菊川町上岡枝"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町上田部
+    rdfs:label "菊川町上田部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町上保木
+    rdfs:label "菊川町上保木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町貴飯
+    rdfs:label "菊川町貴飯"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町轡井
+    rdfs:label "菊川町轡井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町久野
+    rdfs:label "菊川町久野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町下大野
+    rdfs:label "菊川町下大野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町下岡枝
+    rdfs:label "菊川町下岡枝"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町下保木
+    rdfs:label "菊川町下保木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町田部
+    rdfs:label "菊川町田部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町七見
+    rdfs:label "菊川町七見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町楢崎
+    rdfs:label "菊川町楢崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町西中山
+    rdfs:label "菊川町西中山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町日新
+    rdfs:label "菊川町日新"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町東中山
+    rdfs:label "菊川町東中山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町道市
+    rdfs:label "菊川町道市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町樅ノ木
+    rdfs:label "菊川町樅ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市菊川町吉賀
+    rdfs:label "菊川町吉賀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市貴船町
+    rdfs:label "貴船町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末
+    rdfs:label "清末"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末東町
+    rdfs:label "清末東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末鞍馬
+    rdfs:label "清末鞍馬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末五毛
+    rdfs:label "清末五毛"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末陣屋
+    rdfs:label "清末陣屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末千房
+    rdfs:label "清末千房"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末大門
+    rdfs:label "清末大門"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末中町
+    rdfs:label "清末中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末西町
+    rdfs:label "清末西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市清末本町
+    rdfs:label "清末本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市楠乃
+    rdfs:label "楠乃"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市熊野町
+    rdfs:label "熊野町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市熊野西町
+    rdfs:label "熊野西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市向洋町
+    rdfs:label "向洋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市木屋川本町
+    rdfs:label "木屋川本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市木屋川南町
+    rdfs:label "木屋川南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市金比羅町
+    rdfs:label "金比羅町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市才川
+    rdfs:label "才川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市桜山町
+    rdfs:label "桜山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市笹山町
+    rdfs:label "笹山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市汐入町
+    rdfs:label "汐入町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市勝谷
+    rdfs:label "勝谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市勝谷新町
+    rdfs:label "勝谷新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市白崎
+    rdfs:label "白崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市新垢田東町
+    rdfs:label "新垢田東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市新垢田西町
+    rdfs:label "新垢田西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市新垢田南町
+    rdfs:label "新垢田南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市新垢田北町
+    rdfs:label "新垢田北町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市新地町
+    rdfs:label "新地町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市新地西町
+    rdfs:label "新地西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市新椋野
+    rdfs:label "新椋野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市筋川町
+    rdfs:label "筋川町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市筋ケ浜町
+    rdfs:label "筋ケ浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市大平町
+    rdfs:label "大平町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市高畑
+    rdfs:label "高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市宝町
+    rdfs:label "宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市田倉
+    rdfs:label "田倉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市田倉御殿町
+    rdfs:label "田倉御殿町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市竹崎町
+    rdfs:label "竹崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市武久町
+    rdfs:label "武久町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市武久西原台
+    rdfs:label "武久西原台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市田中町
+    rdfs:label "田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市大学町
+    rdfs:label "大学町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市壇之浦町
+    rdfs:label "壇之浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市千鳥ケ丘町
+    rdfs:label "千鳥ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市千鳥浜町
+    rdfs:label "千鳥浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長州出島
+    rdfs:label "長州出島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府安養寺
+    rdfs:label "長府安養寺"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府印内町
+    rdfs:label "長府印内町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府江下町
+    rdfs:label "長府江下町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府逢坂町
+    rdfs:label "長府逢坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府扇町
+    rdfs:label "長府扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府金屋町
+    rdfs:label "長府金屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府金屋浜町
+    rdfs:label "長府金屋浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府亀の甲
+    rdfs:label "長府亀の甲"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府川端
+    rdfs:label "長府川端"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府黒門町
+    rdfs:label "長府黒門町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府黒門東町
+    rdfs:label "長府黒門東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府黒門南町
+    rdfs:label "長府黒門南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府古城町
+    rdfs:label "長府古城町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府紺屋町
+    rdfs:label "長府紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府才川
+    rdfs:label "長府才川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府侍町
+    rdfs:label "長府侍町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府四王司町
+    rdfs:label "長府四王司町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府新四王司町
+    rdfs:label "長府新四王司町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府新松原町
+    rdfs:label "長府新松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府惣社町
+    rdfs:label "長府惣社町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府外浦町
+    rdfs:label "長府外浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府高場町
+    rdfs:label "長府高場町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府珠の浦町
+    rdfs:label "長府珠の浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府豊浦町
+    rdfs:label "長府豊浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府土居の内町
+    rdfs:label "長府土居の内町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府中尾町
+    rdfs:label "長府中尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府中土居北町
+    rdfs:label "長府中土居北町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府中土居本町
+    rdfs:label "長府中土居本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府中之町
+    rdfs:label "長府中之町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府中浜町
+    rdfs:label "長府中浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府中六波町
+    rdfs:label "長府中六波町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府野久留米町
+    rdfs:label "長府野久留米町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府羽衣町
+    rdfs:label "長府羽衣町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府羽衣南町
+    rdfs:label "長府羽衣南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府浜浦町
+    rdfs:label "長府浜浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府浜浦西町
+    rdfs:label "長府浜浦西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府浜浦南町
+    rdfs:label "長府浜浦南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府東侍町
+    rdfs:label "長府東侍町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府日の出町
+    rdfs:label "長府日の出町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府古江小路町
+    rdfs:label "長府古江小路町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府豊城町
+    rdfs:label "長府豊城町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府前八幡町
+    rdfs:label "長府前八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府松小田中町
+    rdfs:label "長府松小田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府松小田東町
+    rdfs:label "長府松小田東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府松小田西町
+    rdfs:label "長府松小田西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府松小田南町
+    rdfs:label "長府松小田南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府松小田北町
+    rdfs:label "長府松小田北町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府松小田本町
+    rdfs:label "長府松小田本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府松原町
+    rdfs:label "長府松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府満珠新町
+    rdfs:label "長府満珠新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府満珠町
+    rdfs:label "長府満珠町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府三島町
+    rdfs:label "長府三島町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府港町
+    rdfs:label "長府港町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府南之町
+    rdfs:label "長府南之町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府宮崎町
+    rdfs:label "長府宮崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府宮の内町
+    rdfs:label "長府宮の内町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府向田町
+    rdfs:label "長府向田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長府八幡町
+    rdfs:label "長府八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市冨任
+    rdfs:label "冨任"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市富任町
+    rdfs:label "富任町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町厚母郷
+    rdfs:label "豊浦町厚母郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町宇賀
+    rdfs:label "豊浦町宇賀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町川棚
+    rdfs:label "豊浦町川棚"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町黒井
+    rdfs:label "豊浦町黒井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町小串
+    rdfs:label "豊浦町小串"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町豊洋台
+    rdfs:label "豊浦町豊洋台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町豊洋台新町
+    rdfs:label "豊浦町豊洋台新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町室津上
+    rdfs:label "豊浦町室津上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町室津下
+    rdfs:label "豊浦町室津下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町吉永
+    rdfs:label "豊浦町吉永"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦町涌田後地
+    rdfs:label "豊浦町涌田後地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊浦村
+    rdfs:label "豊浦村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町阿座上
+    rdfs:label "豊田町阿座上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町荒木
+    rdfs:label "豊田町荒木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町一ノ俣
+    rdfs:label "豊田町一ノ俣"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町稲見
+    rdfs:label "豊田町稲見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町稲光
+    rdfs:label "豊田町稲光"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町今出
+    rdfs:label "豊田町今出"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町浮石
+    rdfs:label "豊田町浮石"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町宇内
+    rdfs:label "豊田町宇内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町江良
+    rdfs:label "豊田町江良"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町大河内
+    rdfs:label "豊田町大河内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町城戸
+    rdfs:label "豊田町城戸"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町金道
+    rdfs:label "豊田町金道"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町佐野
+    rdfs:label "豊田町佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町地吉
+    rdfs:label "豊田町地吉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町鷹子
+    rdfs:label "豊田町鷹子"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町高山
+    rdfs:label "豊田町高山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町手洗
+    rdfs:label "豊田町手洗"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町殿居
+    rdfs:label "豊田町殿居"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町殿敷
+    rdfs:label "豊田町殿敷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町中村
+    rdfs:label "豊田町中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町楢原
+    rdfs:label "豊田町楢原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町西市
+    rdfs:label "豊田町西市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町西長野
+    rdfs:label "豊田町西長野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町庭田
+    rdfs:label "豊田町庭田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町萩原
+    rdfs:label "豊田町萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町東長野
+    rdfs:label "豊田町東長野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町日野
+    rdfs:label "豊田町日野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町杢路子
+    rdfs:label "豊田町杢路子"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町八道
+    rdfs:label "豊田町八道"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊田町矢田
+    rdfs:label "豊田町矢田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市中之町
+    rdfs:label "中之町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長崎新町
+    rdfs:label "長崎新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長崎中央町
+    rdfs:label "長崎中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長崎本町
+    rdfs:label "長崎本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長崎町
+    rdfs:label "長崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市永田郷
+    rdfs:label "永田郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市永田本町
+    rdfs:label "永田本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市長門町
+    rdfs:label "長門町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市南部町
+    rdfs:label "南部町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市西入江町
+    rdfs:label "西入江町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市西大坪町
+    rdfs:label "西大坪町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市西神田町
+    rdfs:label "西神田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市西観音町
+    rdfs:label "西観音町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市乃木浜
+    rdfs:label "乃木浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市延行
+    rdfs:label "延行"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市幡生新町
+    rdfs:label "幡生新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市幡生本町
+    rdfs:label "幡生本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市幡生宮の下町
+    rdfs:label "幡生宮の下町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市幡生町
+    rdfs:label "幡生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市岬之町
+    rdfs:label "岬之町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市羽山町
+    rdfs:label "羽山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市稗田中町
+    rdfs:label "稗田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市稗田西町
+    rdfs:label "稗田西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市稗田南町
+    rdfs:label "稗田南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市稗田北町
+    rdfs:label "稗田北町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市稗田町
+    rdfs:label "稗田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市東神田町
+    rdfs:label "東神田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市東観音町
+    rdfs:label "東観音町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市東勝谷
+    rdfs:label "東勝谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市東向山町
+    rdfs:label "東向山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市東大和町
+    rdfs:label "東大和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島海士郷町
+    rdfs:label "彦島海士郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島江の浦町
+    rdfs:label "彦島江の浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島老の山公園
+    rdfs:label "彦島老の山公園"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島老町
+    rdfs:label "彦島老町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島桜ケ丘町
+    rdfs:label "彦島桜ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島迫町
+    rdfs:label "彦島迫町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島塩浜町
+    rdfs:label "彦島塩浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島杉田町
+    rdfs:label "彦島杉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島角倉町
+    rdfs:label "彦島角倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島竹ノ子島町
+    rdfs:label "彦島竹ノ子島町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島田の首町
+    rdfs:label "彦島田の首町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島弟子待町
+    rdfs:label "彦島弟子待町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島弟子待東町
+    rdfs:label "彦島弟子待東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島西山町
+    rdfs:label "彦島西山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島福浦町
+    rdfs:label "彦島福浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島本村町
+    rdfs:label "彦島本村町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島緑町
+    rdfs:label "彦島緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島向井町
+    rdfs:label "彦島向井町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市彦島山中町
+    rdfs:label "彦島山中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市福江
+    rdfs:label "福江"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市藤ケ谷町
+    rdfs:label "藤ケ谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市藤附町
+    rdfs:label "藤附町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊前田町
+    rdfs:label "豊前田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市蓋井島
+    rdfs:label "蓋井島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市古屋町
+    rdfs:label "古屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町阿川
+    rdfs:label "豊北町阿川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町粟野
+    rdfs:label "豊北町粟野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町神田
+    rdfs:label "豊北町神田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町神田上
+    rdfs:label "豊北町神田上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町北宇賀
+    rdfs:label "豊北町北宇賀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町滝部
+    rdfs:label "豊北町滝部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町田耕
+    rdfs:label "豊北町田耕"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町角島
+    rdfs:label "豊北町角島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市豊北町矢玉
+    rdfs:label "豊北町矢玉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市細江新町
+    rdfs:label "細江新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市細江町
+    rdfs:label "細江町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市前勝谷町
+    rdfs:label "前勝谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市前田
+    rdfs:label "前田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市松小田
+    rdfs:label "松小田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市松屋
+    rdfs:label "松屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市松屋上町
+    rdfs:label "松屋上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市松屋東町
+    rdfs:label "松屋東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市松屋本町
+    rdfs:label "松屋本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市三河町
+    rdfs:label "三河町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市南大坪町
+    rdfs:label "南大坪町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市みもすそ川町
+    rdfs:label "みもすそ川町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市宮田町
+    rdfs:label "宮田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市向山町
+    rdfs:label "向山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市椋野上町
+    rdfs:label "椋野上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市椋野町
+    rdfs:label "椋野町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市六連島
+    rdfs:label "六連島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市名池町
+    rdfs:label "名池町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市安岡
+    rdfs:label "安岡"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市安岡駅前
+    rdfs:label "安岡駅前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市安岡町
+    rdfs:label "安岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市安岡本町
+    rdfs:label "安岡本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山手町
+    rdfs:label "山手町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市大和町
+    rdfs:label "大和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山の口町
+    rdfs:label "山の口町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山の田中央町
+    rdfs:label "山の田中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山の田東町
+    rdfs:label "山の田東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山の田西町
+    rdfs:label "山の田西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山の田南町
+    rdfs:label "山の田南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山の田北町
+    rdfs:label "山の田北町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市山の田本町
+    rdfs:label "山の田本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市ゆめタウン
+    rdfs:label "ゆめタウン"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市横野町
+    rdfs:label "横野町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉田地方
+    rdfs:label "吉田地方"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉見上
+    rdfs:label "吉見上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉見下
+    rdfs:label "吉見下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉見古宿町
+    rdfs:label "吉見古宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉見里町
+    rdfs:label "吉見里町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉見新町
+    rdfs:label "吉見新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉見本町
+    rdfs:label "吉見本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉見竜王町
+    rdfs:label "吉見竜王町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下関市吉母
+    rdfs:label "吉母"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市
+    rdfs:label "宇部市"@ja ;
+    mo:AreaCode "35202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県宇部市相生町 ;
+    mo:SubRegion mr:JP_山口県宇部市上条 ;
+    mo:SubRegion mr:JP_山口県宇部市朝日町 ;
+    mo:SubRegion mr:JP_山口県宇部市芦河内 ;
+    mo:SubRegion mr:JP_山口県宇部市あすとぴあ ;
+    mo:SubRegion mr:JP_山口県宇部市荒瀬 ;
+    mo:SubRegion mr:JP_山口県宇部市櫟原 ;
+    mo:SubRegion mr:JP_山口県宇部市居能町 ;
+    mo:SubRegion mr:JP_山口県宇部市今富 ;
+    mo:SubRegion mr:JP_山口県宇部市今村北 ;
+    mo:SubRegion mr:JP_山口県宇部市今村南 ;
+    mo:SubRegion mr:JP_山口県宇部市岩鼻町 ;
+    mo:SubRegion mr:JP_山口県宇部市上町 ;
+    mo:SubRegion mr:JP_山口県宇部市棯小野 ;
+    mo:SubRegion mr:JP_山口県宇部市鵜の島町 ;
+    mo:SubRegion mr:JP_山口県宇部市瓜生野 ;
+    mo:SubRegion mr:JP_山口県宇部市大小路 ;
+    mo:SubRegion mr:JP_山口県宇部市沖宇部 ;
+    mo:SubRegion mr:JP_山口県宇部市沖ノ旦 ;
+    mo:SubRegion mr:JP_山口県宇部市奥万倉 ;
+    mo:SubRegion mr:JP_山口県宇部市小野 ;
+    mo:SubRegion mr:JP_山口県宇部市恩田町 ;
+    mo:SubRegion mr:JP_山口県宇部市海南町 ;
+    mo:SubRegion mr:JP_山口県宇部市上宇部 ;
+    mo:SubRegion mr:JP_山口県宇部市上野中町 ;
+    mo:SubRegion mr:JP_山口県宇部市神原町 ;
+    mo:SubRegion mr:JP_山口県宇部市亀浦 ;
+    mo:SubRegion mr:JP_山口県宇部市川上 ;
+    mo:SubRegion mr:JP_山口県宇部市川添 ;
+    mo:SubRegion mr:JP_山口県宇部市北小羽山町 ;
+    mo:SubRegion mr:JP_山口県宇部市北琴芝 ;
+    mo:SubRegion mr:JP_山口県宇部市北迫新町 ;
+    mo:SubRegion mr:JP_山口県宇部市北条 ;
+    mo:SubRegion mr:JP_山口県宇部市木田 ;
+    mo:SubRegion mr:JP_山口県宇部市際波 ;
+    mo:SubRegion mr:JP_山口県宇部市草江 ;
+    mo:SubRegion mr:JP_山口県宇部市車地 ;
+    mo:SubRegion mr:JP_山口県宇部市黒石北 ;
+    mo:SubRegion mr:JP_山口県宇部市厚南北 ;
+    mo:SubRegion mr:JP_山口県宇部市厚南中央 ;
+    mo:SubRegion mr:JP_山口県宇部市小串 ;
+    mo:SubRegion mr:JP_山口県宇部市五十目山町 ;
+    mo:SubRegion mr:JP_山口県宇部市琴崎町 ;
+    mo:SubRegion mr:JP_山口県宇部市琴芝町 ;
+    mo:SubRegion mr:JP_山口県宇部市寿町 ;
+    mo:SubRegion mr:JP_山口県宇部市小松原町 ;
+    mo:SubRegion mr:JP_山口県宇部市幸町 ;
+    mo:SubRegion mr:JP_山口県宇部市笹山町 ;
+    mo:SubRegion mr:JP_山口県宇部市芝中町 ;
+    mo:SubRegion mr:JP_山口県宇部市島 ;
+    mo:SubRegion mr:JP_山口県宇部市下条 ;
+    mo:SubRegion mr:JP_山口県宇部市昭和町 ;
+    mo:SubRegion mr:JP_山口県宇部市新天町 ;
+    mo:SubRegion mr:JP_山口県宇部市新町 ;
+    mo:SubRegion mr:JP_山口県宇部市末信 ;
+    mo:SubRegion mr:JP_山口県宇部市末広町 ;
+    mo:SubRegion mr:JP_山口県宇部市助田町 ;
+    mo:SubRegion mr:JP_山口県宇部市棚井 ;
+    mo:SubRegion mr:JP_山口県宇部市中央町 ;
+    mo:SubRegion mr:JP_山口県宇部市常藤町 ;
+    mo:SubRegion mr:JP_山口県宇部市妻崎開作 ;
+    mo:SubRegion mr:JP_山口県宇部市寺の前町 ;
+    mo:SubRegion mr:JP_山口県宇部市常盤台 ;
+    mo:SubRegion mr:JP_山口県宇部市常盤町 ;
+    mo:SubRegion mr:JP_山口県宇部市床波 ;
+    mo:SubRegion mr:JP_山口県宇部市中宇部 ;
+    mo:SubRegion mr:JP_山口県宇部市中尾 ;
+    mo:SubRegion mr:JP_山口県宇部市中野開作 ;
+    mo:SubRegion mr:JP_山口県宇部市中村 ;
+    mo:SubRegion mr:JP_山口県宇部市中山 ;
+    mo:SubRegion mr:JP_山口県宇部市鍋倉町 ;
+    mo:SubRegion mr:JP_山口県宇部市西宇部北 ;
+    mo:SubRegion mr:JP_山口県宇部市西宇部南 ;
+    mo:SubRegion mr:JP_山口県宇部市西沖の山 ;
+    mo:SubRegion mr:JP_山口県宇部市西梶返 ;
+    mo:SubRegion mr:JP_山口県宇部市錦町 ;
+    mo:SubRegion mr:JP_山口県宇部市西吉部 ;
+    mo:SubRegion mr:JP_山口県宇部市西岐波 ;
+    mo:SubRegion mr:JP_山口県宇部市西小串 ;
+    mo:SubRegion mr:JP_山口県宇部市西琴芝 ;
+    mo:SubRegion mr:JP_山口県宇部市西中町 ;
+    mo:SubRegion mr:JP_山口県宇部市西平原 ;
+    mo:SubRegion mr:JP_山口県宇部市西本町 ;
+    mo:SubRegion mr:JP_山口県宇部市西万倉 ;
+    mo:SubRegion mr:JP_山口県宇部市西桃山 ;
+    mo:SubRegion mr:JP_山口県宇部市如意寺 ;
+    mo:SubRegion mr:JP_山口県宇部市沼 ;
+    mo:SubRegion mr:JP_山口県宇部市野中 ;
+    mo:SubRegion mr:JP_山口県宇部市野原 ;
+    mo:SubRegion mr:JP_山口県宇部市則貞 ;
+    mo:SubRegion mr:JP_山口県宇部市八王子町 ;
+    mo:SubRegion mr:JP_山口県宇部市浜田 ;
+    mo:SubRegion mr:JP_山口県宇部市浜町 ;
+    mo:SubRegion mr:JP_山口県宇部市東小羽山町 ;
+    mo:SubRegion mr:JP_山口県宇部市東梶返 ;
+    mo:SubRegion mr:JP_山口県宇部市東吉部 ;
+    mo:SubRegion mr:JP_山口県宇部市東岐波 ;
+    mo:SubRegion mr:JP_山口県宇部市東小串 ;
+    mo:SubRegion mr:JP_山口県宇部市東琴芝 ;
+    mo:SubRegion mr:JP_山口県宇部市東芝中町 ;
+    mo:SubRegion mr:JP_山口県宇部市東新川町 ;
+    mo:SubRegion mr:JP_山口県宇部市東須恵 ;
+    mo:SubRegion mr:JP_山口県宇部市東平原 ;
+    mo:SubRegion mr:JP_山口県宇部市東藤曲 ;
+    mo:SubRegion mr:JP_山口県宇部市東本町 ;
+    mo:SubRegion mr:JP_山口県宇部市東万倉 ;
+    mo:SubRegion mr:JP_山口県宇部市東見初町 ;
+    mo:SubRegion mr:JP_山口県宇部市開 ;
+    mo:SubRegion mr:JP_山口県宇部市ひらき台 ;
+    mo:SubRegion mr:JP_山口県宇部市広瀬 ;
+    mo:SubRegion mr:JP_山口県宇部市藤河内 ;
+    mo:SubRegion mr:JP_山口県宇部市藤曲 ;
+    mo:SubRegion mr:JP_山口県宇部市船木 ;
+    mo:SubRegion mr:JP_山口県宇部市風呂ケ迫町 ;
+    mo:SubRegion mr:JP_山口県宇部市文京台 ;
+    mo:SubRegion mr:JP_山口県宇部市文京町 ;
+    mo:SubRegion mr:JP_山口県宇部市松崎町 ;
+    mo:SubRegion mr:JP_山口県宇部市松島町 ;
+    mo:SubRegion mr:JP_山口県宇部市松山町 ;
+    mo:SubRegion mr:JP_山口県宇部市岬町 ;
+    mo:SubRegion mr:JP_山口県宇部市港町 ;
+    mo:SubRegion mr:JP_山口県宇部市南小羽山町 ;
+    mo:SubRegion mr:JP_山口県宇部市南小串 ;
+    mo:SubRegion mr:JP_山口県宇部市南中山町 ;
+    mo:SubRegion mr:JP_山口県宇部市南浜町 ;
+    mo:SubRegion mr:JP_山口県宇部市宮地町 ;
+    mo:SubRegion mr:JP_山口県宇部市明神町 ;
+    mo:SubRegion mr:JP_山口県宇部市明治町 ;
+    mo:SubRegion mr:JP_山口県宇部市矢矯 ;
+    mo:SubRegion mr:JP_山口県宇部市山門 ;
+    mo:SubRegion mr:JP_山口県宇部市山中 ;
+    mo:SubRegion mr:JP_山口県宇部市山の手町 ;
+    mo:SubRegion mr:JP_山口県宇部市吉見 ;
+    mo:SubRegion mr:JP_山口県宇部市善和 ;
+    mo:SubRegion mr:JP_山口県宇部市若松町 ;
+a mo:GeoEntity .
+
+mr:JP_山口県宇部市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市上条
+    rdfs:label "上条"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市芦河内
+    rdfs:label "芦河内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市あすとぴあ
+    rdfs:label "あすとぴあ"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市荒瀬
+    rdfs:label "荒瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市櫟原
+    rdfs:label "櫟原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市居能町
+    rdfs:label "居能町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市今富
+    rdfs:label "今富"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市今村北
+    rdfs:label "今村北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市今村南
+    rdfs:label "今村南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市岩鼻町
+    rdfs:label "岩鼻町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市上町
+    rdfs:label "上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市棯小野
+    rdfs:label "棯小野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市鵜の島町
+    rdfs:label "鵜の島町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市瓜生野
+    rdfs:label "瓜生野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市大小路
+    rdfs:label "大小路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市沖宇部
+    rdfs:label "沖宇部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市沖ノ旦
+    rdfs:label "沖ノ旦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市奥万倉
+    rdfs:label "奥万倉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市恩田町
+    rdfs:label "恩田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市海南町
+    rdfs:label "海南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市上宇部
+    rdfs:label "上宇部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市上野中町
+    rdfs:label "上野中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市神原町
+    rdfs:label "神原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市亀浦
+    rdfs:label "亀浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市川添
+    rdfs:label "川添"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市北小羽山町
+    rdfs:label "北小羽山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市北琴芝
+    rdfs:label "北琴芝"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市北迫新町
+    rdfs:label "北迫新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市北条
+    rdfs:label "北条"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市木田
+    rdfs:label "木田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市際波
+    rdfs:label "際波"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市草江
+    rdfs:label "草江"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市車地
+    rdfs:label "車地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市黒石北
+    rdfs:label "黒石北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市厚南北
+    rdfs:label "厚南北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市厚南中央
+    rdfs:label "厚南中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市小串
+    rdfs:label "小串"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市五十目山町
+    rdfs:label "五十目山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市琴崎町
+    rdfs:label "琴崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市琴芝町
+    rdfs:label "琴芝町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市小松原町
+    rdfs:label "小松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市笹山町
+    rdfs:label "笹山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市芝中町
+    rdfs:label "芝中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市島
+    rdfs:label "島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市下条
+    rdfs:label "下条"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市新天町
+    rdfs:label "新天町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市末信
+    rdfs:label "末信"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市助田町
+    rdfs:label "助田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市棚井
+    rdfs:label "棚井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市常藤町
+    rdfs:label "常藤町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市妻崎開作
+    rdfs:label "妻崎開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市寺の前町
+    rdfs:label "寺の前町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市常盤台
+    rdfs:label "常盤台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市常盤町
+    rdfs:label "常盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市床波
+    rdfs:label "床波"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市中宇部
+    rdfs:label "中宇部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市中尾
+    rdfs:label "中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市中野開作
+    rdfs:label "中野開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市鍋倉町
+    rdfs:label "鍋倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西宇部北
+    rdfs:label "西宇部北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西宇部南
+    rdfs:label "西宇部南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西沖の山
+    rdfs:label "西沖の山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西梶返
+    rdfs:label "西梶返"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西吉部
+    rdfs:label "西吉部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西岐波
+    rdfs:label "西岐波"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西小串
+    rdfs:label "西小串"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西琴芝
+    rdfs:label "西琴芝"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西中町
+    rdfs:label "西中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西平原
+    rdfs:label "西平原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西本町
+    rdfs:label "西本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西万倉
+    rdfs:label "西万倉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市西桃山
+    rdfs:label "西桃山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市如意寺
+    rdfs:label "如意寺"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市沼
+    rdfs:label "沼"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市野中
+    rdfs:label "野中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市野原
+    rdfs:label "野原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市則貞
+    rdfs:label "則貞"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市八王子町
+    rdfs:label "八王子町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市浜田
+    rdfs:label "浜田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東小羽山町
+    rdfs:label "東小羽山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東梶返
+    rdfs:label "東梶返"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東吉部
+    rdfs:label "東吉部"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東岐波
+    rdfs:label "東岐波"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東小串
+    rdfs:label "東小串"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東琴芝
+    rdfs:label "東琴芝"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東芝中町
+    rdfs:label "東芝中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東新川町
+    rdfs:label "東新川町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東須恵
+    rdfs:label "東須恵"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東平原
+    rdfs:label "東平原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東藤曲
+    rdfs:label "東藤曲"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東本町
+    rdfs:label "東本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東万倉
+    rdfs:label "東万倉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市東見初町
+    rdfs:label "東見初町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市開
+    rdfs:label "開"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市ひらき台
+    rdfs:label "ひらき台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市藤河内
+    rdfs:label "藤河内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市藤曲
+    rdfs:label "藤曲"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市船木
+    rdfs:label "船木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市風呂ケ迫町
+    rdfs:label "風呂ケ迫町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市文京台
+    rdfs:label "文京台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市文京町
+    rdfs:label "文京町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市松崎町
+    rdfs:label "松崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市松島町
+    rdfs:label "松島町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市松山町
+    rdfs:label "松山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市岬町
+    rdfs:label "岬町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市南小羽山町
+    rdfs:label "南小羽山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市南小串
+    rdfs:label "南小串"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市南中山町
+    rdfs:label "南中山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市南浜町
+    rdfs:label "南浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市宮地町
+    rdfs:label "宮地町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市明神町
+    rdfs:label "明神町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市明治町
+    rdfs:label "明治町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市矢矯
+    rdfs:label "矢矯"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市山門
+    rdfs:label "山門"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市山中
+    rdfs:label "山中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市山の手町
+    rdfs:label "山の手町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市吉見
+    rdfs:label "吉見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市善和
+    rdfs:label "善和"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県宇部市若松町
+    rdfs:label "若松町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市
+    rdfs:label "山口市"@ja ;
+    mo:AreaCode "35203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県山口市秋穂西 ;
+    mo:SubRegion mr:JP_山口県山口市秋穂東 ;
+    mo:SubRegion mr:JP_山口県山口市秋穂二島 ;
+    mo:SubRegion mr:JP_山口県山口市葵 ;
+    mo:SubRegion mr:JP_山口県山口市青葉台 ;
+    mo:SubRegion mr:JP_山口県山口市赤妻町 ;
+    mo:SubRegion mr:JP_山口県山口市朝倉町 ;
+    mo:SubRegion mr:JP_山口県山口市朝田 ;
+    mo:SubRegion mr:JP_山口県山口市朝田流通センター ;
+    mo:SubRegion mr:JP_山口県山口市旭通り ;
+    mo:SubRegion mr:JP_山口県山口市阿知須 ;
+    mo:SubRegion mr:JP_山口県山口市阿東生雲中 ;
+    mo:SubRegion mr:JP_山口県山口市阿東生雲西分 ;
+    mo:SubRegion mr:JP_山口県山口市阿東生雲東分 ;
+    mo:SubRegion mr:JP_山口県山口市阿東嘉年上 ;
+    mo:SubRegion mr:JP_山口県山口市阿東嘉年下 ;
+    mo:SubRegion mr:JP_山口県山口市阿東篠目 ;
+    mo:SubRegion mr:JP_山口県山口市阿東地福上 ;
+    mo:SubRegion mr:JP_山口県山口市阿東地福下 ;
+    mo:SubRegion mr:JP_山口県山口市阿東蔵目喜 ;
+    mo:SubRegion mr:JP_山口県山口市阿東徳佐上 ;
+    mo:SubRegion mr:JP_山口県山口市阿東徳佐下 ;
+    mo:SubRegion mr:JP_山口県山口市阿東徳佐中 ;
+    mo:SubRegion mr:JP_山口県山口市石観音町 ;
+    mo:SubRegion mr:JP_山口県山口市維新公園 ;
+    mo:SubRegion mr:JP_山口県山口市泉町 ;
+    mo:SubRegion mr:JP_山口県山口市糸米 ;
+    mo:SubRegion mr:JP_山口県山口市今井町 ;
+    mo:SubRegion mr:JP_山口県山口市後河原 ;
+    mo:SubRegion mr:JP_山口県山口市駅通り ;
+    mo:SubRegion mr:JP_山口県山口市江崎 ;
+    mo:SubRegion mr:JP_山口県山口市江良 ;
+    mo:SubRegion mr:JP_山口県山口市円政寺 ;
+    mo:SubRegion mr:JP_山口県山口市円政寺町 ;
+    mo:SubRegion mr:JP_山口県山口市大市町 ;
+    mo:SubRegion mr:JP_山口県山口市大内小京都 ;
+    mo:SubRegion mr:JP_山口県山口市大内千坊 ;
+    mo:SubRegion mr:JP_山口県山口市大内中央 ;
+    mo:SubRegion mr:JP_山口県山口市大内問田 ;
+    mo:SubRegion mr:JP_山口県山口市大内長野 ;
+    mo:SubRegion mr:JP_山口県山口市大内氷上 ;
+    mo:SubRegion mr:JP_山口県山口市大内姫山台 ;
+    mo:SubRegion mr:JP_山口県山口市大内御堀 ;
+    mo:SubRegion mr:JP_山口県山口市大内矢田 ;
+    mo:SubRegion mr:JP_山口県山口市大内矢田北 ;
+    mo:SubRegion mr:JP_山口県山口市大内矢田南 ;
+    mo:SubRegion mr:JP_山口県山口市大手町 ;
+    mo:SubRegion mr:JP_山口県山口市大殿大路 ;
+    mo:SubRegion mr:JP_山口県山口市荻町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡維新町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡円座西町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡円座東町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡大江町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡尾崎町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡かぜの丘 ;
+    mo:SubRegion mr:JP_山口県山口市小郡金堀町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡上郷 ;
+    mo:SubRegion mr:JP_山口県山口市小郡上郷流通センター ;
+    mo:SubRegion mr:JP_山口県山口市小郡給領町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡黄金町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡栄町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡三軒屋町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡下郷 ;
+    mo:SubRegion mr:JP_山口県山口市小郡新町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡大正町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡高砂町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡長谷 ;
+    mo:SubRegion mr:JP_山口県山口市小郡花園町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡光が丘 ;
+    mo:SubRegion mr:JP_山口県山口市小郡平砂町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡船倉町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡平成町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡前田町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡真名 ;
+    mo:SubRegion mr:JP_山口県山口市小郡緑町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡御幸町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡みらい町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡明治 ;
+    mo:SubRegion mr:JP_山口県山口市小郡山手上町 ;
+    mo:SubRegion mr:JP_山口県山口市小郡令和 ;
+    mo:SubRegion mr:JP_山口県山口市小郡若草町 ;
+    mo:SubRegion mr:JP_山口県山口市折本 ;
+    mo:SubRegion mr:JP_山口県山口市嘉川 ;
+    mo:SubRegion mr:JP_山口県山口市春日町 ;
+    mo:SubRegion mr:JP_山口県山口市金古曽町 ;
+    mo:SubRegion mr:JP_山口県山口市上宇野令 ;
+    mo:SubRegion mr:JP_山口県山口市上小鯖 ;
+    mo:SubRegion mr:JP_山口県山口市上竪小路 ;
+    mo:SubRegion mr:JP_山口県山口市上天花町 ;
+    mo:SubRegion mr:JP_山口県山口市亀山町 ;
+    mo:SubRegion mr:JP_山口県山口市神田町 ;
+    mo:SubRegion mr:JP_山口県山口市木町 ;
+    mo:SubRegion mr:JP_山口県山口市楠木町 ;
+    mo:SubRegion mr:JP_山口県山口市久保小路 ;
+    mo:SubRegion mr:JP_山口県山口市熊野町 ;
+    mo:SubRegion mr:JP_山口県山口市黒川 ;
+    mo:SubRegion mr:JP_山口県山口市香山町 ;
+    mo:SubRegion mr:JP_山口県山口市黄金町 ;
+    mo:SubRegion mr:JP_山口県山口市米屋町 ;
+    mo:SubRegion mr:JP_山口県山口市幸町 ;
+    mo:SubRegion mr:JP_山口県山口市桜畠 ;
+    mo:SubRegion mr:JP_山口県山口市佐山 ;
+    mo:SubRegion mr:JP_山口県山口市三の宮 ;
+    mo:SubRegion mr:JP_山口県山口市三和町 ;
+    mo:SubRegion mr:JP_山口県山口市芝崎町 ;
+    mo:SubRegion mr:JP_山口県山口市下市町 ;
+    mo:SubRegion mr:JP_山口県山口市下小鯖 ;
+    mo:SubRegion mr:JP_山口県山口市下竪小路 ;
+    mo:SubRegion mr:JP_山口県山口市諸願小路 ;
+    mo:SubRegion mr:JP_山口県山口市白石 ;
+    mo:SubRegion mr:JP_山口県山口市新馬場 ;
+    mo:SubRegion mr:JP_山口県山口市陶 ;
+    mo:SubRegion mr:JP_山口県山口市鋳銭司 ;
+    mo:SubRegion mr:JP_山口県山口市周布町 ;
+    mo:SubRegion mr:JP_山口県山口市銭湯小路 ;
+    mo:SubRegion mr:JP_山口県山口市泉都町 ;
+    mo:SubRegion mr:JP_山口県山口市惣太夫町 ;
+    mo:SubRegion mr:JP_山口県山口市宝町 ;
+    mo:SubRegion mr:JP_山口県山口市滝町 ;
+    mo:SubRegion mr:JP_山口県山口市中央 ;
+    mo:SubRegion mr:JP_山口県山口市天花 ;
+    mo:SubRegion mr:JP_山口県山口市道場門前 ;
+    mo:SubRegion mr:JP_山口県山口市道祖町 ;
+    mo:SubRegion mr:JP_山口県山口市堂の前町 ;
+    mo:SubRegion mr:JP_山口県山口市徳地伊賀地 ;
+    mo:SubRegion mr:JP_山口県山口市徳地小古祖 ;
+    mo:SubRegion mr:JP_山口県山口市徳地上村 ;
+    mo:SubRegion mr:JP_山口県山口市徳地岸見 ;
+    mo:SubRegion mr:JP_山口県山口市徳地串 ;
+    mo:SubRegion mr:JP_山口県山口市徳地鯖河内 ;
+    mo:SubRegion mr:JP_山口県山口市徳地島地 ;
+    mo:SubRegion mr:JP_山口県山口市徳地野谷 ;
+    mo:SubRegion mr:JP_山口県山口市徳地引谷 ;
+    mo:SubRegion mr:JP_山口県山口市徳地深谷 ;
+    mo:SubRegion mr:JP_山口県山口市徳地藤木 ;
+    mo:SubRegion mr:JP_山口県山口市徳地船路 ;
+    mo:SubRegion mr:JP_山口県山口市徳地堀 ;
+    mo:SubRegion mr:JP_山口県山口市徳地三谷 ;
+    mo:SubRegion mr:JP_山口県山口市徳地八坂 ;
+    mo:SubRegion mr:JP_山口県山口市徳地山畑 ;
+    mo:SubRegion mr:JP_山口県山口市徳地柚木 ;
+    mo:SubRegion mr:JP_山口県山口市富田原町 ;
+    mo:SubRegion mr:JP_山口県山口市中市町 ;
+    mo:SubRegion mr:JP_山口県山口市中尾 ;
+    mo:SubRegion mr:JP_山口県山口市中河原 ;
+    mo:SubRegion mr:JP_山口県山口市中河原町 ;
+    mo:SubRegion mr:JP_山口県山口市中園町 ;
+    mo:SubRegion mr:JP_山口県山口市名田島 ;
+    mo:SubRegion mr:JP_山口県山口市七尾台 ;
+    mo:SubRegion mr:JP_山口県山口市錦町 ;
+    mo:SubRegion mr:JP_山口県山口市仁保上郷 ;
+    mo:SubRegion mr:JP_山口県山口市仁保下郷 ;
+    mo:SubRegion mr:JP_山口県山口市仁保中郷 ;
+    mo:SubRegion mr:JP_山口県山口市野田 ;
+    mo:SubRegion mr:JP_山口県山口市東山 ;
+    mo:SubRegion mr:JP_山口県山口市平井 ;
+    mo:SubRegion mr:JP_山口県山口市平野 ;
+    mo:SubRegion mr:JP_山口県山口市深溝 ;
+    mo:SubRegion mr:JP_山口県山口市古熊 ;
+    mo:SubRegion mr:JP_山口県山口市穂積町 ;
+    mo:SubRegion mr:JP_山口県山口市本町 ;
+    mo:SubRegion mr:JP_山口県山口市前町 ;
+    mo:SubRegion mr:JP_山口県山口市松美町 ;
+    mo:SubRegion mr:JP_山口県山口市水の上町 ;
+    mo:SubRegion mr:JP_山口県山口市緑ヶ丘 ;
+    mo:SubRegion mr:JP_山口県山口市緑町 ;
+    mo:SubRegion mr:JP_山口県山口市宮島町 ;
+    mo:SubRegion mr:JP_山口県山口市宮野上 ;
+    mo:SubRegion mr:JP_山口県山口市宮野下 ;
+    mo:SubRegion mr:JP_山口県山口市元町 ;
+    mo:SubRegion mr:JP_山口県山口市矢原 ;
+    mo:SubRegion mr:JP_山口県山口市矢原町 ;
+    mo:SubRegion mr:JP_山口県山口市山口県流通センター ;
+    mo:SubRegion mr:JP_山口県山口市八幡馬場 ;
+    mo:SubRegion mr:JP_山口県山口市湯田温泉 ;
+    mo:SubRegion mr:JP_山口県山口市吉敷 ;
+    mo:SubRegion mr:JP_山口県山口市吉敷赤田 ;
+    mo:SubRegion mr:JP_山口県山口市吉敷上東 ;
+    mo:SubRegion mr:JP_山口県山口市吉敷佐畑 ;
+    mo:SubRegion mr:JP_山口県山口市吉敷下東 ;
+    mo:SubRegion mr:JP_山口県山口市吉敷中東 ;
+    mo:SubRegion mr:JP_山口県山口市吉田 ;
+    mo:SubRegion mr:JP_山口県山口市若宮町 ;
+    mo:SubRegion mr:JP_山口県山口市鰐石町 ;
+a mo:GeoEntity .
+
+mr:JP_山口県山口市秋穂西
+    rdfs:label "秋穂西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市秋穂東
+    rdfs:label "秋穂東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市秋穂二島
+    rdfs:label "秋穂二島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市葵
+    rdfs:label "葵"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市青葉台
+    rdfs:label "青葉台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市赤妻町
+    rdfs:label "赤妻町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市朝倉町
+    rdfs:label "朝倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市朝田
+    rdfs:label "朝田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市朝田流通センター
+    rdfs:label "朝田流通センター"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市旭通り
+    rdfs:label "旭通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿知須
+    rdfs:label "阿知須"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東生雲中
+    rdfs:label "阿東生雲中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東生雲西分
+    rdfs:label "阿東生雲西分"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東生雲東分
+    rdfs:label "阿東生雲東分"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東嘉年上
+    rdfs:label "阿東嘉年上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東嘉年下
+    rdfs:label "阿東嘉年下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東篠目
+    rdfs:label "阿東篠目"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東地福上
+    rdfs:label "阿東地福上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東地福下
+    rdfs:label "阿東地福下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東蔵目喜
+    rdfs:label "阿東蔵目喜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東徳佐上
+    rdfs:label "阿東徳佐上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東徳佐下
+    rdfs:label "阿東徳佐下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市阿東徳佐中
+    rdfs:label "阿東徳佐中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市石観音町
+    rdfs:label "石観音町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市維新公園
+    rdfs:label "維新公園"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市糸米
+    rdfs:label "糸米"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市今井町
+    rdfs:label "今井町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市後河原
+    rdfs:label "後河原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市駅通り
+    rdfs:label "駅通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市江崎
+    rdfs:label "江崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市江良
+    rdfs:label "江良"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市円政寺
+    rdfs:label "円政寺"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市円政寺町
+    rdfs:label "円政寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大市町
+    rdfs:label "大市町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内小京都
+    rdfs:label "大内小京都"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内千坊
+    rdfs:label "大内千坊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内中央
+    rdfs:label "大内中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内問田
+    rdfs:label "大内問田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内長野
+    rdfs:label "大内長野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内氷上
+    rdfs:label "大内氷上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内姫山台
+    rdfs:label "大内姫山台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内御堀
+    rdfs:label "大内御堀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内矢田
+    rdfs:label "大内矢田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内矢田北
+    rdfs:label "大内矢田北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大内矢田南
+    rdfs:label "大内矢田南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大手町
+    rdfs:label "大手町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市大殿大路
+    rdfs:label "大殿大路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市荻町
+    rdfs:label "荻町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡維新町
+    rdfs:label "小郡維新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡円座西町
+    rdfs:label "小郡円座西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡円座東町
+    rdfs:label "小郡円座東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡大江町
+    rdfs:label "小郡大江町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡尾崎町
+    rdfs:label "小郡尾崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡かぜの丘
+    rdfs:label "小郡かぜの丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡金堀町
+    rdfs:label "小郡金堀町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡上郷
+    rdfs:label "小郡上郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡上郷流通センター
+    rdfs:label "小郡上郷流通センター"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡給領町
+    rdfs:label "小郡給領町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡黄金町
+    rdfs:label "小郡黄金町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡栄町
+    rdfs:label "小郡栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡三軒屋町
+    rdfs:label "小郡三軒屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡下郷
+    rdfs:label "小郡下郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡新町
+    rdfs:label "小郡新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡大正町
+    rdfs:label "小郡大正町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡高砂町
+    rdfs:label "小郡高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡長谷
+    rdfs:label "小郡長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡花園町
+    rdfs:label "小郡花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡光が丘
+    rdfs:label "小郡光が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡平砂町
+    rdfs:label "小郡平砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡船倉町
+    rdfs:label "小郡船倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡平成町
+    rdfs:label "小郡平成町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡前田町
+    rdfs:label "小郡前田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡真名
+    rdfs:label "小郡真名"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡緑町
+    rdfs:label "小郡緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡御幸町
+    rdfs:label "小郡御幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡みらい町
+    rdfs:label "小郡みらい町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡明治
+    rdfs:label "小郡明治"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡山手上町
+    rdfs:label "小郡山手上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡令和
+    rdfs:label "小郡令和"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市小郡若草町
+    rdfs:label "小郡若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市折本
+    rdfs:label "折本"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市嘉川
+    rdfs:label "嘉川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市金古曽町
+    rdfs:label "金古曽町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市上宇野令
+    rdfs:label "上宇野令"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市上小鯖
+    rdfs:label "上小鯖"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市上竪小路
+    rdfs:label "上竪小路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市上天花町
+    rdfs:label "上天花町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市亀山町
+    rdfs:label "亀山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市神田町
+    rdfs:label "神田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市木町
+    rdfs:label "木町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市楠木町
+    rdfs:label "楠木町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市久保小路
+    rdfs:label "久保小路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市熊野町
+    rdfs:label "熊野町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市黒川
+    rdfs:label "黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市香山町
+    rdfs:label "香山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市黄金町
+    rdfs:label "黄金町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市米屋町
+    rdfs:label "米屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市桜畠
+    rdfs:label "桜畠"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市佐山
+    rdfs:label "佐山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市三の宮
+    rdfs:label "三の宮"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市三和町
+    rdfs:label "三和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市芝崎町
+    rdfs:label "芝崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市下市町
+    rdfs:label "下市町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市下小鯖
+    rdfs:label "下小鯖"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市下竪小路
+    rdfs:label "下竪小路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市諸願小路
+    rdfs:label "諸願小路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市白石
+    rdfs:label "白石"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市新馬場
+    rdfs:label "新馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市陶
+    rdfs:label "陶"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市鋳銭司
+    rdfs:label "鋳銭司"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市周布町
+    rdfs:label "周布町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市銭湯小路
+    rdfs:label "銭湯小路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市泉都町
+    rdfs:label "泉都町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市惣太夫町
+    rdfs:label "惣太夫町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市宝町
+    rdfs:label "宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市滝町
+    rdfs:label "滝町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市天花
+    rdfs:label "天花"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市道場門前
+    rdfs:label "道場門前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市道祖町
+    rdfs:label "道祖町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市堂の前町
+    rdfs:label "堂の前町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地伊賀地
+    rdfs:label "徳地伊賀地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地小古祖
+    rdfs:label "徳地小古祖"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地上村
+    rdfs:label "徳地上村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地岸見
+    rdfs:label "徳地岸見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地串
+    rdfs:label "徳地串"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地鯖河内
+    rdfs:label "徳地鯖河内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地島地
+    rdfs:label "徳地島地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地野谷
+    rdfs:label "徳地野谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地引谷
+    rdfs:label "徳地引谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地深谷
+    rdfs:label "徳地深谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地藤木
+    rdfs:label "徳地藤木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地船路
+    rdfs:label "徳地船路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地堀
+    rdfs:label "徳地堀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地三谷
+    rdfs:label "徳地三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地八坂
+    rdfs:label "徳地八坂"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地山畑
+    rdfs:label "徳地山畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市徳地柚木
+    rdfs:label "徳地柚木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市富田原町
+    rdfs:label "富田原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市中市町
+    rdfs:label "中市町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市中尾
+    rdfs:label "中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市中河原
+    rdfs:label "中河原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市中河原町
+    rdfs:label "中河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市中園町
+    rdfs:label "中園町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市名田島
+    rdfs:label "名田島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市七尾台
+    rdfs:label "七尾台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市仁保上郷
+    rdfs:label "仁保上郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市仁保下郷
+    rdfs:label "仁保下郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市仁保中郷
+    rdfs:label "仁保中郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市東山
+    rdfs:label "東山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市平井
+    rdfs:label "平井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市深溝
+    rdfs:label "深溝"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市古熊
+    rdfs:label "古熊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市穂積町
+    rdfs:label "穂積町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市前町
+    rdfs:label "前町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市松美町
+    rdfs:label "松美町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市水の上町
+    rdfs:label "水の上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市緑ヶ丘
+    rdfs:label "緑ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市宮島町
+    rdfs:label "宮島町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市宮野上
+    rdfs:label "宮野上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市宮野下
+    rdfs:label "宮野下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市矢原
+    rdfs:label "矢原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市矢原町
+    rdfs:label "矢原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市山口県流通センター
+    rdfs:label "山口県流通センター"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市八幡馬場
+    rdfs:label "八幡馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市湯田温泉
+    rdfs:label "湯田温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市吉敷
+    rdfs:label "吉敷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市吉敷赤田
+    rdfs:label "吉敷赤田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市吉敷上東
+    rdfs:label "吉敷上東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市吉敷佐畑
+    rdfs:label "吉敷佐畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市吉敷下東
+    rdfs:label "吉敷下東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市吉敷中東
+    rdfs:label "吉敷中東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市若宮町
+    rdfs:label "若宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山口市鰐石町
+    rdfs:label "鰐石町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市
+    rdfs:label "萩市"@ja ;
+    mo:AreaCode "35204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県萩市相島 ;
+    mo:SubRegion mr:JP_山口県萩市明木 ;
+    mo:SubRegion mr:JP_山口県萩市油屋町 ;
+    mo:SubRegion mr:JP_山口県萩市今魚店町 ;
+    mo:SubRegion mr:JP_山口県萩市今古萩町 ;
+    mo:SubRegion mr:JP_山口県萩市江崎 ;
+    mo:SubRegion mr:JP_山口県萩市恵美須町 ;
+    mo:SubRegion mr:JP_山口県萩市江向 ;
+    mo:SubRegion mr:JP_山口県萩市大井 ;
+    mo:SubRegion mr:JP_山口県萩市大島 ;
+    mo:SubRegion mr:JP_山口県萩市御許町 ;
+    mo:SubRegion mr:JP_山口県萩市片俣 ;
+    mo:SubRegion mr:JP_山口県萩市上小川西分 ;
+    mo:SubRegion mr:JP_山口県萩市上小川東分 ;
+    mo:SubRegion mr:JP_山口県萩市上五間町 ;
+    mo:SubRegion mr:JP_山口県萩市上田万 ;
+    mo:SubRegion mr:JP_山口県萩市唐樋町 ;
+    mo:SubRegion mr:JP_山口県萩市川上 ;
+    mo:SubRegion mr:JP_山口県萩市川島 ;
+    mo:SubRegion mr:JP_山口県萩市瓦町 ;
+    mo:SubRegion mr:JP_山口県萩市北片河町 ;
+    mo:SubRegion mr:JP_山口県萩市北古萩町 ;
+    mo:SubRegion mr:JP_山口県萩市吉部上 ;
+    mo:SubRegion mr:JP_山口県萩市吉部下 ;
+    mo:SubRegion mr:JP_山口県萩市熊谷町 ;
+    mo:SubRegion mr:JP_山口県萩市黒川 ;
+    mo:SubRegion mr:JP_山口県萩市河添 ;
+    mo:SubRegion mr:JP_山口県萩市呉服町 ;
+    mo:SubRegion mr:JP_山口県萩市米屋町 ;
+    mo:SubRegion mr:JP_山口県萩市細工町 ;
+    mo:SubRegion mr:JP_山口県萩市佐々並 ;
+    mo:SubRegion mr:JP_山口県萩市三見 ;
+    mo:SubRegion mr:JP_山口県萩市塩屋町 ;
+    mo:SubRegion mr:JP_山口県萩市紫福 ;
+    mo:SubRegion mr:JP_山口県萩市下小川 ;
+    mo:SubRegion mr:JP_山口県萩市下五間町 ;
+    mo:SubRegion mr:JP_山口県萩市下田万 ;
+    mo:SubRegion mr:JP_山口県萩市須佐 ;
+    mo:SubRegion mr:JP_山口県萩市鈴野川 ;
+    mo:SubRegion mr:JP_山口県萩市高佐上 ;
+    mo:SubRegion mr:JP_山口県萩市高佐下 ;
+    mo:SubRegion mr:JP_山口県萩市樽屋町 ;
+    mo:SubRegion mr:JP_山口県萩市椿東 ;
+    mo:SubRegion mr:JP_山口県萩市椿 ;
+    mo:SubRegion mr:JP_山口県萩市津守町 ;
+    mo:SubRegion mr:JP_山口県萩市中小川 ;
+    mo:SubRegion mr:JP_山口県萩市西田町 ;
+    mo:SubRegion mr:JP_山口県萩市橋本町 ;
+    mo:SubRegion mr:JP_山口県萩市浜崎新町 ;
+    mo:SubRegion mr:JP_山口県萩市浜崎町 ;
+    mo:SubRegion mr:JP_山口県萩市春若町 ;
+    mo:SubRegion mr:JP_山口県萩市東田町 ;
+    mo:SubRegion mr:JP_山口県萩市東浜崎町 ;
+    mo:SubRegion mr:JP_山口県萩市肥島 ;
+    mo:SubRegion mr:JP_山口県萩市土原 ;
+    mo:SubRegion mr:JP_山口県萩市櫃島 ;
+    mo:SubRegion mr:JP_山口県萩市平安古町 ;
+    mo:SubRegion mr:JP_山口県萩市福井上 ;
+    mo:SubRegion mr:JP_山口県萩市福井下 ;
+    mo:SubRegion mr:JP_山口県萩市古魚店町 ;
+    mo:SubRegion mr:JP_山口県萩市古萩町 ;
+    mo:SubRegion mr:JP_山口県萩市堀内 ;
+    mo:SubRegion mr:JP_山口県萩市見島 ;
+    mo:SubRegion mr:JP_山口県萩市南片河町 ;
+    mo:SubRegion mr:JP_山口県萩市南古萩町 ;
+    mo:SubRegion mr:JP_山口県萩市弥富上 ;
+    mo:SubRegion mr:JP_山口県萩市弥富下 ;
+    mo:SubRegion mr:JP_山口県萩市山田 ;
+    mo:SubRegion mr:JP_山口県萩市吉田町 ;
+a mo:GeoEntity .
+
+mr:JP_山口県萩市相島
+    rdfs:label "相島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市明木
+    rdfs:label "明木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市油屋町
+    rdfs:label "油屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市今魚店町
+    rdfs:label "今魚店町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市今古萩町
+    rdfs:label "今古萩町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市江崎
+    rdfs:label "江崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市恵美須町
+    rdfs:label "恵美須町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市江向
+    rdfs:label "江向"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市大井
+    rdfs:label "大井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市御許町
+    rdfs:label "御許町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市片俣
+    rdfs:label "片俣"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市上小川西分
+    rdfs:label "上小川西分"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市上小川東分
+    rdfs:label "上小川東分"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市上五間町
+    rdfs:label "上五間町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市上田万
+    rdfs:label "上田万"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市唐樋町
+    rdfs:label "唐樋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市川島
+    rdfs:label "川島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市瓦町
+    rdfs:label "瓦町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市北片河町
+    rdfs:label "北片河町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市北古萩町
+    rdfs:label "北古萩町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市吉部上
+    rdfs:label "吉部上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市吉部下
+    rdfs:label "吉部下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市熊谷町
+    rdfs:label "熊谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市黒川
+    rdfs:label "黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市河添
+    rdfs:label "河添"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市呉服町
+    rdfs:label "呉服町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市米屋町
+    rdfs:label "米屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市細工町
+    rdfs:label "細工町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市佐々並
+    rdfs:label "佐々並"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市三見
+    rdfs:label "三見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市塩屋町
+    rdfs:label "塩屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市紫福
+    rdfs:label "紫福"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市下小川
+    rdfs:label "下小川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市下五間町
+    rdfs:label "下五間町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市下田万
+    rdfs:label "下田万"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市須佐
+    rdfs:label "須佐"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市鈴野川
+    rdfs:label "鈴野川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市高佐上
+    rdfs:label "高佐上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市高佐下
+    rdfs:label "高佐下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市樽屋町
+    rdfs:label "樽屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市椿東
+    rdfs:label "椿東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市椿
+    rdfs:label "椿"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市津守町
+    rdfs:label "津守町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市中小川
+    rdfs:label "中小川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市西田町
+    rdfs:label "西田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市橋本町
+    rdfs:label "橋本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市浜崎新町
+    rdfs:label "浜崎新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市浜崎町
+    rdfs:label "浜崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市春若町
+    rdfs:label "春若町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市東田町
+    rdfs:label "東田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市東浜崎町
+    rdfs:label "東浜崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市肥島
+    rdfs:label "肥島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市土原
+    rdfs:label "土原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市櫃島
+    rdfs:label "櫃島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市平安古町
+    rdfs:label "平安古町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市福井上
+    rdfs:label "福井上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市福井下
+    rdfs:label "福井下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市古魚店町
+    rdfs:label "古魚店町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市古萩町
+    rdfs:label "古萩町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市堀内
+    rdfs:label "堀内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市見島
+    rdfs:label "見島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市南片河町
+    rdfs:label "南片河町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市南古萩町
+    rdfs:label "南古萩町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市弥富上
+    rdfs:label "弥富上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市弥富下
+    rdfs:label "弥富下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県萩市吉田町
+    rdfs:label "吉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市
+    rdfs:label "防府市"@ja ;
+    mo:AreaCode "35206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県防府市伊佐江 ;
+    mo:SubRegion mr:JP_山口県防府市伊佐江町 ;
+    mo:SubRegion mr:JP_山口県防府市石が口 ;
+    mo:SubRegion mr:JP_山口県防府市泉町 ;
+    mo:SubRegion mr:JP_山口県防府市今市町 ;
+    mo:SubRegion mr:JP_山口県防府市鋳物師町 ;
+    mo:SubRegion mr:JP_山口県防府市岩畠 ;
+    mo:SubRegion mr:JP_山口県防府市植松 ;
+    mo:SubRegion mr:JP_山口県防府市駅南町 ;
+    mo:SubRegion mr:JP_山口県防府市江泊 ;
+    mo:SubRegion mr:JP_山口県防府市戎町 ;
+    mo:SubRegion mr:JP_山口県防府市大崎 ;
+    mo:SubRegion mr:JP_山口県防府市岡村町 ;
+    mo:SubRegion mr:JP_山口県防府市沖今宿 ;
+    mo:SubRegion mr:JP_山口県防府市奥畑 ;
+    mo:SubRegion mr:JP_山口県防府市お茶屋町 ;
+    mo:SubRegion mr:JP_山口県防府市開出 ;
+    mo:SubRegion mr:JP_山口県防府市開出西町 ;
+    mo:SubRegion mr:JP_山口県防府市開出本町 ;
+    mo:SubRegion mr:JP_山口県防府市勝間 ;
+    mo:SubRegion mr:JP_山口県防府市鐘紡町 ;
+    mo:SubRegion mr:JP_山口県防府市華浦 ;
+    mo:SubRegion mr:JP_山口県防府市上天神町 ;
+    mo:SubRegion mr:JP_山口県防府市上右田 ;
+    mo:SubRegion mr:JP_山口県防府市岸津 ;
+    mo:SubRegion mr:JP_山口県防府市協和町 ;
+    mo:SubRegion mr:JP_山口県防府市切畑 ;
+    mo:SubRegion mr:JP_山口県防府市車塚町 ;
+    mo:SubRegion mr:JP_山口県防府市桑山 ;
+    mo:SubRegion mr:JP_山口県防府市警固町 ;
+    mo:SubRegion mr:JP_山口県防府市国衙 ;
+    mo:SubRegion mr:JP_山口県防府市国分寺町 ;
+    mo:SubRegion mr:JP_山口県防府市古祖原 ;
+    mo:SubRegion mr:JP_山口県防府市寿町 ;
+    mo:SubRegion mr:JP_山口県防府市栄町 ;
+    mo:SubRegion mr:JP_山口県防府市佐野 ;
+    mo:SubRegion mr:JP_山口県防府市佐波 ;
+    mo:SubRegion mr:JP_山口県防府市敷山町 ;
+    mo:SubRegion mr:JP_山口県防府市清水町 ;
+    mo:SubRegion mr:JP_山口県防府市下右田 ;
+    mo:SubRegion mr:JP_山口県防府市新築地町 ;
+    mo:SubRegion mr:JP_山口県防府市新田 ;
+    mo:SubRegion mr:JP_山口県防府市新橋町 ;
+    mo:SubRegion mr:JP_山口県防府市自由ケ丘 ;
+    mo:SubRegion mr:JP_山口県防府市自力町 ;
+    mo:SubRegion mr:JP_山口県防府市酢貝 ;
+    mo:SubRegion mr:JP_山口県防府市鈴屋 ;
+    mo:SubRegion mr:JP_山口県防府市迫戸町 ;
+    mo:SubRegion mr:JP_山口県防府市千日 ;
+    mo:SubRegion mr:JP_山口県防府市惣社町 ;
+    mo:SubRegion mr:JP_山口県防府市桑南 ;
+    mo:SubRegion mr:JP_山口県防府市台道 ;
+    mo:SubRegion mr:JP_山口県防府市高井 ;
+    mo:SubRegion mr:JP_山口県防府市高倉 ;
+    mo:SubRegion mr:JP_山口県防府市田島 ;
+    mo:SubRegion mr:JP_山口県防府市多々良 ;
+    mo:SubRegion mr:JP_山口県防府市中央町 ;
+    mo:SubRegion mr:JP_山口県防府市天神 ;
+    mo:SubRegion mr:JP_山口県防府市富海 ;
+    mo:SubRegion mr:JP_山口県防府市中泉町 ;
+    mo:SubRegion mr:JP_山口県防府市中西 ;
+    mo:SubRegion mr:JP_山口県防府市中山 ;
+    mo:SubRegion mr:JP_山口県防府市奈美 ;
+    mo:SubRegion mr:JP_山口県防府市仁井令 ;
+    mo:SubRegion mr:JP_山口県防府市仁井令町 ;
+    mo:SubRegion mr:JP_山口県防府市西仁井令 ;
+    mo:SubRegion mr:JP_山口県防府市西浦 ;
+    mo:SubRegion mr:JP_山口県防府市野島 ;
+    mo:SubRegion mr:JP_山口県防府市八王子 ;
+    mo:SubRegion mr:JP_山口県防府市華城中央 ;
+    mo:SubRegion mr:JP_山口県防府市華園町 ;
+    mo:SubRegion mr:JP_山口県防府市浜方 ;
+    mo:SubRegion mr:JP_山口県防府市東佐波令 ;
+    mo:SubRegion mr:JP_山口県防府市東仁井令町 ;
+    mo:SubRegion mr:JP_山口県防府市東松崎町 ;
+    mo:SubRegion mr:JP_山口県防府市東三田尻 ;
+    mo:SubRegion mr:JP_山口県防府市久兼 ;
+    mo:SubRegion mr:JP_山口県防府市平和町 ;
+    mo:SubRegion mr:JP_山口県防府市松崎町 ;
+    mo:SubRegion mr:JP_山口県防府市松原町 ;
+    mo:SubRegion mr:JP_山口県防府市真尾 ;
+    mo:SubRegion mr:JP_山口県防府市鞠生町 ;
+    mo:SubRegion mr:JP_山口県防府市三田尻 ;
+    mo:SubRegion mr:JP_山口県防府市三田尻本町 ;
+    mo:SubRegion mr:JP_山口県防府市緑町 ;
+    mo:SubRegion mr:JP_山口県防府市南松崎町 ;
+    mo:SubRegion mr:JP_山口県防府市宮市町 ;
+    mo:SubRegion mr:JP_山口県防府市美和町 ;
+    mo:SubRegion mr:JP_山口県防府市向島 ;
+    mo:SubRegion mr:JP_山口県防府市牟礼 ;
+    mo:SubRegion mr:JP_山口県防府市牟礼今宿 ;
+    mo:SubRegion mr:JP_山口県防府市牟礼柳 ;
+    mo:SubRegion mr:JP_山口県防府市本橋町 ;
+    mo:SubRegion mr:JP_山口県防府市和字 ;
+a mo:GeoEntity .
+
+mr:JP_山口県防府市伊佐江
+    rdfs:label "伊佐江"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市伊佐江町
+    rdfs:label "伊佐江町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市石が口
+    rdfs:label "石が口"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市今市町
+    rdfs:label "今市町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市鋳物師町
+    rdfs:label "鋳物師町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市岩畠
+    rdfs:label "岩畠"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市植松
+    rdfs:label "植松"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市駅南町
+    rdfs:label "駅南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市江泊
+    rdfs:label "江泊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市戎町
+    rdfs:label "戎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市大崎
+    rdfs:label "大崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市岡村町
+    rdfs:label "岡村町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市沖今宿
+    rdfs:label "沖今宿"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市奥畑
+    rdfs:label "奥畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市お茶屋町
+    rdfs:label "お茶屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市開出
+    rdfs:label "開出"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市開出西町
+    rdfs:label "開出西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市開出本町
+    rdfs:label "開出本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市勝間
+    rdfs:label "勝間"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市鐘紡町
+    rdfs:label "鐘紡町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市華浦
+    rdfs:label "華浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市上天神町
+    rdfs:label "上天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市上右田
+    rdfs:label "上右田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市岸津
+    rdfs:label "岸津"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市協和町
+    rdfs:label "協和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市切畑
+    rdfs:label "切畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市車塚町
+    rdfs:label "車塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市桑山
+    rdfs:label "桑山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市警固町
+    rdfs:label "警固町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市国衙
+    rdfs:label "国衙"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市国分寺町
+    rdfs:label "国分寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市古祖原
+    rdfs:label "古祖原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市佐野
+    rdfs:label "佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市佐波
+    rdfs:label "佐波"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市敷山町
+    rdfs:label "敷山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市下右田
+    rdfs:label "下右田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市新築地町
+    rdfs:label "新築地町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市新橋町
+    rdfs:label "新橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市自由ケ丘
+    rdfs:label "自由ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市自力町
+    rdfs:label "自力町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市酢貝
+    rdfs:label "酢貝"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市鈴屋
+    rdfs:label "鈴屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市迫戸町
+    rdfs:label "迫戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市千日
+    rdfs:label "千日"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市惣社町
+    rdfs:label "惣社町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市桑南
+    rdfs:label "桑南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市台道
+    rdfs:label "台道"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市高井
+    rdfs:label "高井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市高倉
+    rdfs:label "高倉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市田島
+    rdfs:label "田島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市多々良
+    rdfs:label "多々良"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市富海
+    rdfs:label "富海"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市中泉町
+    rdfs:label "中泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市中西
+    rdfs:label "中西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市奈美
+    rdfs:label "奈美"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市仁井令
+    rdfs:label "仁井令"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市仁井令町
+    rdfs:label "仁井令町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市西仁井令
+    rdfs:label "西仁井令"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市西浦
+    rdfs:label "西浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市野島
+    rdfs:label "野島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市八王子
+    rdfs:label "八王子"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市華城中央
+    rdfs:label "華城中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市華園町
+    rdfs:label "華園町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市浜方
+    rdfs:label "浜方"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市東佐波令
+    rdfs:label "東佐波令"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市東仁井令町
+    rdfs:label "東仁井令町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市東松崎町
+    rdfs:label "東松崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市東三田尻
+    rdfs:label "東三田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市久兼
+    rdfs:label "久兼"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市平和町
+    rdfs:label "平和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市松崎町
+    rdfs:label "松崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市真尾
+    rdfs:label "真尾"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市鞠生町
+    rdfs:label "鞠生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市三田尻
+    rdfs:label "三田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市三田尻本町
+    rdfs:label "三田尻本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市南松崎町
+    rdfs:label "南松崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市宮市町
+    rdfs:label "宮市町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市美和町
+    rdfs:label "美和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市向島
+    rdfs:label "向島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市牟礼
+    rdfs:label "牟礼"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市牟礼今宿
+    rdfs:label "牟礼今宿"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市牟礼柳
+    rdfs:label "牟礼柳"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市本橋町
+    rdfs:label "本橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県防府市和字
+    rdfs:label "和字"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市
+    rdfs:label "下松市"@ja ;
+    mo:AreaCode "35207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県下松市青柳 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋西 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋南 ;
+    mo:SubRegion mr:JP_山口県下松市駅南 ;
+    mo:SubRegion mr:JP_山口県下松市大手町 ;
+    mo:SubRegion mr:JP_山口県下松市大藤谷 ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島 ;
+    mo:SubRegion mr:JP_山口県下松市清瀬町 ;
+    mo:SubRegion mr:JP_山口県下松市切山 ;
+    mo:SubRegion mr:JP_山口県下松市楠木町 ;
+    mo:SubRegion mr:JP_山口県下松市下谷 ;
+    mo:SubRegion mr:JP_山口県下松市来巻 ;
+    mo:SubRegion mr:JP_山口県下松市河内 ;
+    mo:SubRegion mr:JP_山口県下松市琴平町 ;
+    mo:SubRegion mr:JP_山口県下松市栄町 ;
+    mo:SubRegion mr:JP_山口県下松市桜町 ;
+    mo:SubRegion mr:JP_山口県下松市潮音町 ;
+    mo:SubRegion mr:JP_山口県下松市昭和町 ;
+    mo:SubRegion mr:JP_山口県下松市新川 ;
+    mo:SubRegion mr:JP_山口県下松市末武上 ;
+    mo:SubRegion mr:JP_山口県下松市末武下 ;
+    mo:SubRegion mr:JP_山口県下松市末武中 ;
+    mo:SubRegion mr:JP_山口県下松市せせらぎ町 ;
+    mo:SubRegion mr:JP_山口県下松市瀬戸 ;
+    mo:SubRegion mr:JP_山口県下松市中央町 ;
+    mo:SubRegion mr:JP_山口県下松市藤光町 ;
+    mo:SubRegion mr:JP_山口県下松市東陽 ;
+    mo:SubRegion mr:JP_山口県下松市東和 ;
+    mo:SubRegion mr:JP_山口県下松市中市 ;
+    mo:SubRegion mr:JP_山口県下松市中島町 ;
+    mo:SubRegion mr:JP_山口県下松市中須南 ;
+    mo:SubRegion mr:JP_山口県下松市西市 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井 ;
+    mo:SubRegion mr:JP_山口県下松市西柳 ;
+    mo:SubRegion mr:JP_山口県下松市温見 ;
+    mo:SubRegion mr:JP_山口県下松市望町 ;
+    mo:SubRegion mr:JP_山口県下松市旗岡 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井 ;
+    mo:SubRegion mr:JP_山口県下松市東柳 ;
+    mo:SubRegion mr:JP_山口県下松市平田 ;
+    mo:SubRegion mr:JP_山口県下松市古川町 ;
+    mo:SubRegion mr:JP_山口県下松市北斗町 ;
+    mo:SubRegion mr:JP_山口県下松市星が丘 ;
+    mo:SubRegion mr:JP_山口県下松市美里町 ;
+    mo:SubRegion mr:JP_山口県下松市瑞穂町 ;
+    mo:SubRegion mr:JP_山口県下松市南花岡 ;
+    mo:SubRegion mr:JP_山口県下松市桃山町 ;
+    mo:SubRegion mr:JP_山口県下松市山田 ;
+    mo:SubRegion mr:JP_山口県下松市米川 ;
+    mo:SubRegion mr:JP_山口県下松市若宮町 ;
+a mo:GeoEntity .
+
+mr:JP_山口県下松市青柳
+    rdfs:label "青柳"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋
+    rdfs:label "生野屋"@ja ;
+    mo:SubRegion mr:JP_山口県下松市生野屋猪ノ尻 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋上時宗 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋高垣団地 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋下村 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋為弘 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋大王団地 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋田園調布 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋藤立 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋時政 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋時宗 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋中村 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋西時宗 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋西村 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋西村団地 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋羽根田町 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋東時宗 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋東万ノ木団地 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋万ノ木町 ;
+    mo:SubRegion mr:JP_山口県下松市生野屋宮本 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋猪ノ尻
+    rdfs:label "猪ノ尻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋上時宗
+    rdfs:label "上時宗"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋高垣団地
+    rdfs:label "高垣団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋下村
+    rdfs:label "下村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋為弘
+    rdfs:label "為弘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋大王団地
+    rdfs:label "大王団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋田園調布
+    rdfs:label "田園調布"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋藤立
+    rdfs:label "藤立"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋時政
+    rdfs:label "時政"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋時宗
+    rdfs:label "時宗"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋西時宗
+    rdfs:label "西時宗"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋西村
+    rdfs:label "西村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋西村団地
+    rdfs:label "西村団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋羽根田町
+    rdfs:label "羽根田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋東時宗
+    rdfs:label "東時宗"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋東万ノ木団地
+    rdfs:label "東万ノ木団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋万ノ木町
+    rdfs:label "万ノ木町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋宮本
+    rdfs:label "宮本"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋西
+    rdfs:label "生野屋西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市生野屋南
+    rdfs:label "生野屋南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市駅南
+    rdfs:label "駅南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市大手町
+    rdfs:label "大手町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市大藤谷
+    rdfs:label "大藤谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島
+    rdfs:label "笠戸島"@ja ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島江ノ浦 ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島大松ケ浦 ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島尾郷 ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島尾泊 ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島小深浦 ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島瀬戸 ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島深浦 ;
+    mo:SubRegion mr:JP_山口県下松市笠戸島本浦 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島江ノ浦
+    rdfs:label "江ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島大松ケ浦
+    rdfs:label "大松ケ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島尾郷
+    rdfs:label "尾郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島尾泊
+    rdfs:label "尾泊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島小深浦
+    rdfs:label "小深浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島瀬戸
+    rdfs:label "瀬戸"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島深浦
+    rdfs:label "深浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市笠戸島本浦
+    rdfs:label "本浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市清瀬町
+    rdfs:label "清瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市切山
+    rdfs:label "切山"@ja ;
+    mo:SubRegion mr:JP_山口県下松市切山切山上 ;
+    mo:SubRegion mr:JP_山口県下松市切山切山中 ;
+    mo:SubRegion mr:JP_山口県下松市切山切山下 ;
+    mo:SubRegion mr:JP_山口県下松市切山中 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市切山切山上
+    rdfs:label "切山上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市切山切山中
+    rdfs:label "切山中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市切山切山下
+    rdfs:label "切山下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市切山中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市楠木町
+    rdfs:label "楠木町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷
+    rdfs:label "下谷"@ja ;
+    mo:SubRegion mr:JP_山口県下松市下谷赤谷 ;
+    mo:SubRegion mr:JP_山口県下松市下谷清若 ;
+    mo:SubRegion mr:JP_山口県下松市下谷下谷一区 ;
+    mo:SubRegion mr:JP_山口県下松市下谷下谷二区 ;
+    mo:SubRegion mr:JP_山口県下松市下谷下谷三区 ;
+    mo:SubRegion mr:JP_山口県下松市下谷中瀬 ;
+    mo:SubRegion mr:JP_山口県下松市下谷中原 ;
+    mo:SubRegion mr:JP_山口県下松市下谷西平谷 ;
+    mo:SubRegion mr:JP_山口県下松市下谷山高 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷赤谷
+    rdfs:label "赤谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷清若
+    rdfs:label "清若"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷下谷一区
+    rdfs:label "下谷一区"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷下谷二区
+    rdfs:label "下谷二区"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷下谷三区
+    rdfs:label "下谷三区"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷中瀬
+    rdfs:label "中瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷西平谷
+    rdfs:label "西平谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市下谷山高
+    rdfs:label "山高"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市来巻
+    rdfs:label "来巻"@ja ;
+    mo:SubRegion mr:JP_山口県下松市来巻東 ;
+    mo:SubRegion mr:JP_山口県下松市来巻西 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市来巻東
+    rdfs:label "東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市来巻西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内
+    rdfs:label "河内"@ja ;
+    mo:SubRegion mr:JP_山口県下松市河内青葉台 ;
+    mo:SubRegion mr:JP_山口県下松市河内大河内 ;
+    mo:SubRegion mr:JP_山口県下松市河内岡市 ;
+    mo:SubRegion mr:JP_山口県下松市河内岡ノ原町 ;
+    mo:SubRegion mr:JP_山口県下松市河内川瀬 ;
+    mo:SubRegion mr:JP_山口県下松市河内下松セントシティ ;
+    mo:SubRegion mr:JP_山口県下松市河内久保 ;
+    mo:SubRegion mr:JP_山口県下松市河内久保市 ;
+    mo:SubRegion mr:JP_山口県下松市河内黒杭 ;
+    mo:SubRegion mr:JP_山口県下松市河内小野 ;
+    mo:SubRegion mr:JP_山口県下松市河内幸ケ丘 ;
+    mo:SubRegion mr:JP_山口県下松市河内昭和通り ;
+    mo:SubRegion mr:JP_山口県下松市河内城山台 ;
+    mo:SubRegion mr:JP_山口県下松市河内素通り ;
+    mo:SubRegion mr:JP_山口県下松市河内谷 ;
+    mo:SubRegion mr:JP_山口県下松市河内つつじケ丘 ;
+    mo:SubRegion mr:JP_山口県下松市河内出合 ;
+    mo:SubRegion mr:JP_山口県下松市河内殿ケ浴 ;
+    mo:SubRegion mr:JP_山口県下松市河内中戸原 ;
+    mo:SubRegion mr:JP_山口県下松市河内成川 ;
+    mo:SubRegion mr:JP_山口県下松市河内二ノ瀬 ;
+    mo:SubRegion mr:JP_山口県下松市河内葉山 ;
+    mo:SubRegion mr:JP_山口県下松市河内日ノ出町 ;
+    mo:SubRegion mr:JP_山口県下松市河内吉原 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内青葉台
+    rdfs:label "青葉台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内大河内
+    rdfs:label "大河内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内岡市
+    rdfs:label "岡市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内岡ノ原町
+    rdfs:label "岡ノ原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内川瀬
+    rdfs:label "川瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内下松セントシティ
+    rdfs:label "下松セントシティ"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内久保
+    rdfs:label "久保"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内久保市
+    rdfs:label "久保市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内黒杭
+    rdfs:label "黒杭"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内幸ケ丘
+    rdfs:label "幸ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内昭和通り
+    rdfs:label "昭和通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内城山台
+    rdfs:label "城山台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内素通り
+    rdfs:label "素通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内谷
+    rdfs:label "谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内つつじケ丘
+    rdfs:label "つつじケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内出合
+    rdfs:label "出合"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内殿ケ浴
+    rdfs:label "殿ケ浴"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内中戸原
+    rdfs:label "中戸原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内成川
+    rdfs:label "成川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内二ノ瀬
+    rdfs:label "二ノ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内葉山
+    rdfs:label "葉山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内日ノ出町
+    rdfs:label "日ノ出町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市河内吉原
+    rdfs:label "吉原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市琴平町
+    rdfs:label "琴平町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市潮音町
+    rdfs:label "潮音町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市新川
+    rdfs:label "新川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上
+    rdfs:label "末武上"@ja ;
+    mo:SubRegion mr:JP_山口県下松市末武上上地 ;
+    mo:SubRegion mr:JP_山口県下松市末武上浴 ;
+    mo:SubRegion mr:JP_山口県下松市末武上戎町 ;
+    mo:SubRegion mr:JP_山口県下松市末武上華陵 ;
+    mo:SubRegion mr:JP_山口県下松市末武上下高塚 ;
+    mo:SubRegion mr:JP_山口県下松市末武上昭和 ;
+    mo:SubRegion mr:JP_山口県下松市末武上高橋 ;
+    mo:SubRegion mr:JP_山口県下松市末武上大黒町 ;
+    mo:SubRegion mr:JP_山口県下松市末武上常森 ;
+    mo:SubRegion mr:JP_山口県下松市末武上中市 ;
+    mo:SubRegion mr:JP_山口県下松市末武上西町 ;
+    mo:SubRegion mr:JP_山口県下松市末武上東町 ;
+    mo:SubRegion mr:JP_山口県下松市末武上緑ケ丘 ;
+    mo:SubRegion mr:JP_山口県下松市末武上南花岡 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上上地
+    rdfs:label "上地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上浴
+    rdfs:label "浴"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上戎町
+    rdfs:label "戎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上華陵
+    rdfs:label "華陵"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上下高塚
+    rdfs:label "下高塚"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上昭和
+    rdfs:label "昭和"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上高橋
+    rdfs:label "高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上大黒町
+    rdfs:label "大黒町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上常森
+    rdfs:label "常森"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上中市
+    rdfs:label "中市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武上南花岡
+    rdfs:label "南花岡"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武下
+    rdfs:label "末武下"@ja ;
+    mo:SubRegion mr:JP_山口県下松市末武下あけぼの町 ;
+    mo:SubRegion mr:JP_山口県下松市末武下松中町 ;
+    mo:SubRegion mr:JP_山口県下松市末武下弥生町 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武下あけぼの町
+    rdfs:label "あけぼの町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武下松中町
+    rdfs:label "松中町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武下弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中
+    rdfs:label "末武中"@ja ;
+    mo:SubRegion mr:JP_山口県下松市末武中朝日台 ;
+    mo:SubRegion mr:JP_山口県下松市末武中荒神 ;
+    mo:SubRegion mr:JP_山口県下松市末武中西河原 ;
+    mo:SubRegion mr:JP_山口県下松市末武中東中村 ;
+    mo:SubRegion mr:JP_山口県下松市末武中広石 ;
+    mo:SubRegion mr:JP_山口県下松市末武中向香力 ;
+    mo:SubRegion mr:JP_山口県下松市末武中山根 ;
+    mo:SubRegion mr:JP_山口県下松市末武中和田 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中朝日台
+    rdfs:label "朝日台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中荒神
+    rdfs:label "荒神"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中西河原
+    rdfs:label "西河原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中東中村
+    rdfs:label "東中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中広石
+    rdfs:label "広石"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中向香力
+    rdfs:label "向香力"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中山根
+    rdfs:label "山根"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市末武中和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市せせらぎ町
+    rdfs:label "せせらぎ町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市瀬戸
+    rdfs:label "瀬戸"@ja ;
+    mo:SubRegion mr:JP_山口県下松市瀬戸後山 ;
+    mo:SubRegion mr:JP_山口県下松市瀬戸高橋 ;
+    mo:SubRegion mr:JP_山口県下松市瀬戸中瀬 ;
+    mo:SubRegion mr:JP_山口県下松市瀬戸中原 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市瀬戸後山
+    rdfs:label "後山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市瀬戸高橋
+    rdfs:label "高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市瀬戸中瀬
+    rdfs:label "中瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市瀬戸中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市藤光町
+    rdfs:label "藤光町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東陽
+    rdfs:label "東陽"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東和
+    rdfs:label "東和"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市中市
+    rdfs:label "中市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市中島町
+    rdfs:label "中島町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市中須南
+    rdfs:label "中須南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西市
+    rdfs:label "西市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井
+    rdfs:label "西豊井"@ja ;
+    mo:SubRegion mr:JP_山口県下松市西豊井相生町 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井旭町 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井幸町 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井汐見町 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井高砂町 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井所田 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井本町 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井都町 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井元町東 ;
+    mo:SubRegion mr:JP_山口県下松市西豊井元町西 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井汐見町
+    rdfs:label "汐見町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井高砂町
+    rdfs:label "高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井所田
+    rdfs:label "所田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井都町
+    rdfs:label "都町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井元町東
+    rdfs:label "元町東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西豊井元町西
+    rdfs:label "元町西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市西柳
+    rdfs:label "西柳"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市温見
+    rdfs:label "温見"@ja ;
+    mo:SubRegion mr:JP_山口県下松市温見後山 ;
+    mo:SubRegion mr:JP_山口県下松市温見道谷 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市温見後山
+    rdfs:label "後山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市温見道谷
+    rdfs:label "道谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市望町
+    rdfs:label "望町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市旗岡
+    rdfs:label "旗岡"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井
+    rdfs:label "東豊井"@ja ;
+    mo:SubRegion mr:JP_山口県下松市東豊井江口 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井上豊井 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井下豊井 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井神田町 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井恋ケ浜 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井新町 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井洲鼻 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井住吉町 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井寺迫 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井寺迫半上 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井二宮町 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井花垣 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井東海岸通り ;
+    mo:SubRegion mr:JP_山口県下松市東豊井東豊井開作 ;
+    mo:SubRegion mr:JP_山口県下松市東豊井松神町 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井江口
+    rdfs:label "江口"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井上豊井
+    rdfs:label "上豊井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井下豊井
+    rdfs:label "下豊井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井神田町
+    rdfs:label "神田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井恋ケ浜
+    rdfs:label "恋ケ浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井洲鼻
+    rdfs:label "洲鼻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井寺迫
+    rdfs:label "寺迫"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井寺迫半上
+    rdfs:label "寺迫半上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井二宮町
+    rdfs:label "二宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井花垣
+    rdfs:label "花垣"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井東海岸通り
+    rdfs:label "東海岸通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井東豊井開作
+    rdfs:label "東豊井開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東豊井松神町
+    rdfs:label "松神町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市東柳
+    rdfs:label "東柳"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市平田
+    rdfs:label "平田"@ja ;
+    mo:SubRegion mr:JP_山口県下松市平田東開作 ;
+    mo:SubRegion mr:JP_山口県下松市平田西開作 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市平田東開作
+    rdfs:label "東開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市平田西開作
+    rdfs:label "西開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市古川町
+    rdfs:label "古川町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市北斗町
+    rdfs:label "北斗町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市星が丘
+    rdfs:label "星が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市美里町
+    rdfs:label "美里町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市瑞穂町
+    rdfs:label "瑞穂町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市南花岡
+    rdfs:label "南花岡"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市桃山町
+    rdfs:label "桃山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市山田
+    rdfs:label "山田"@ja ;
+    mo:SubRegion mr:JP_山口県下松市山田梅ノ木原 ;
+    mo:SubRegion mr:JP_山口県下松市山田浴条 ;
+    mo:SubRegion mr:JP_山口県下松市山田山田上 ;
+    mo:SubRegion mr:JP_山口県下松市山田山田下 ;
+    a mo:町域 .
+
+mr:JP_山口県下松市山田梅ノ木原
+    rdfs:label "梅ノ木原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市山田浴条
+    rdfs:label "浴条"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市山田山田上
+    rdfs:label "山田上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市山田山田下
+    rdfs:label "山田下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市米川
+    rdfs:label "米川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県下松市若宮町
+    rdfs:label "若宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市
+    rdfs:label "岩国市"@ja ;
+    mo:AreaCode "35208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県岩国市相ノ谷 ;
+    mo:SubRegion mr:JP_山口県岩国市旭町 ;
+    mo:SubRegion mr:JP_山口県岩国市阿品 ;
+    mo:SubRegion mr:JP_山口県岩国市愛宕町 ;
+    mo:SubRegion mr:JP_山口県岩国市飯田町 ;
+    mo:SubRegion mr:JP_山口県岩国市伊房 ;
+    mo:SubRegion mr:JP_山口県岩国市今津町 ;
+    mo:SubRegion mr:JP_山口県岩国市入野 ;
+    mo:SubRegion mr:JP_山口県岩国市岩国 ;
+    mo:SubRegion mr:JP_山口県岩国市上田 ;
+    mo:SubRegion mr:JP_山口県岩国市牛野谷町 ;
+    mo:SubRegion mr:JP_山口県岩国市青木町 ;
+    mo:SubRegion mr:JP_山口県岩国市大谷 ;
+    mo:SubRegion mr:JP_山口県岩国市大山 ;
+    mo:SubRegion mr:JP_山口県岩国市小瀬 ;
+    mo:SubRegion mr:JP_山口県岩国市尾津町 ;
+    mo:SubRegion mr:JP_山口県岩国市桂町 ;
+    mo:SubRegion mr:JP_山口県岩国市叶木 ;
+    mo:SubRegion mr:JP_山口県岩国市川口町 ;
+    mo:SubRegion mr:JP_山口県岩国市川下町 ;
+    mo:SubRegion mr:JP_山口県岩国市瓦谷 ;
+    mo:SubRegion mr:JP_山口県岩国市川西 ;
+    mo:SubRegion mr:JP_山口県岩国市杭名 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町 ;
+    mo:SubRegion mr:JP_山口県岩国市楠町 ;
+    mo:SubRegion mr:JP_山口県岩国市車町 ;
+    mo:SubRegion mr:JP_山口県岩国市黒磯町 ;
+    mo:SubRegion mr:JP_山口県岩国市下 ;
+    mo:SubRegion mr:JP_山口県岩国市守内 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町明見谷 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町獺越 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町上久原 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町上須通 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町川上 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町差川 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町三瀬川 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町下久原 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町下須通 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町祖生 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町田尻 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町中山 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町西長野 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町樋余地 ;
+    mo:SubRegion mr:JP_山口県岩国市周東町用田 ;
+    mo:SubRegion mr:JP_山口県岩国市装束町 ;
+    mo:SubRegion mr:JP_山口県岩国市昭和町 ;
+    mo:SubRegion mr:JP_山口県岩国市新港町 ;
+    mo:SubRegion mr:JP_山口県岩国市砂山町 ;
+    mo:SubRegion mr:JP_山口県岩国市角 ;
+    mo:SubRegion mr:JP_山口県岩国市関戸 ;
+    mo:SubRegion mr:JP_山口県岩国市竹安 ;
+    mo:SubRegion mr:JP_山口県岩国市多田 ;
+    mo:SubRegion mr:JP_山口県岩国市立石町 ;
+    mo:SubRegion mr:JP_山口県岩国市田原 ;
+    mo:SubRegion mr:JP_山口県岩国市近延 ;
+    mo:SubRegion mr:JP_山口県岩国市通津 ;
+    mo:SubRegion mr:JP_山口県岩国市寺山 ;
+    mo:SubRegion mr:JP_山口県岩国市天尾 ;
+    mo:SubRegion mr:JP_山口県岩国市中津町 ;
+    mo:SubRegion mr:JP_山口県岩国市長野 ;
+    mo:SubRegion mr:JP_山口県岩国市灘町 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町宇佐 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町宇佐郷 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町大野 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町大原 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町須川 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町中ノ瀬 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町野谷 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町広瀬 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町深川 ;
+    mo:SubRegion mr:JP_山口県岩国市錦町府谷 ;
+    mo:SubRegion mr:JP_山口県岩国市錦見 ;
+    mo:SubRegion mr:JP_山口県岩国市柱島 ;
+    mo:SubRegion mr:JP_山口県岩国市柱野 ;
+    mo:SubRegion mr:JP_山口県岩国市廿木 ;
+    mo:SubRegion mr:JP_山口県岩国市土生 ;
+    mo:SubRegion mr:JP_山口県岩国市日の出町 ;
+    mo:SubRegion mr:JP_山口県岩国市平田 ;
+    mo:SubRegion mr:JP_山口県岩国市藤生町 ;
+    mo:SubRegion mr:JP_山口県岩国市二鹿 ;
+    mo:SubRegion mr:JP_山口県岩国市保木 ;
+    mo:SubRegion mr:JP_山口県岩国市保津町 ;
+    mo:SubRegion mr:JP_山口県岩国市本郷町宇塚 ;
+    mo:SubRegion mr:JP_山口県岩国市本郷町西黒沢 ;
+    mo:SubRegion mr:JP_山口県岩国市本郷町波野 ;
+    mo:SubRegion mr:JP_山口県岩国市本郷町本郷 ;
+    mo:SubRegion mr:JP_山口県岩国市本郷町本谷 ;
+    mo:SubRegion mr:JP_山口県岩国市麻里布町 ;
+    mo:SubRegion mr:JP_山口県岩国市三笠町 ;
+    mo:SubRegion mr:JP_山口県岩国市美川町小川 ;
+    mo:SubRegion mr:JP_山口県岩国市美川町四馬神 ;
+    mo:SubRegion mr:JP_山口県岩国市美川町添谷 ;
+    mo:SubRegion mr:JP_山口県岩国市美川町南桑 ;
+    mo:SubRegion mr:JP_山口県岩国市美川町根笠 ;
+    mo:SubRegion mr:JP_山口県岩国市御庄 ;
+    mo:SubRegion mr:JP_山口県岩国市三角町 ;
+    mo:SubRegion mr:JP_山口県岩国市海土路町 ;
+    mo:SubRegion mr:JP_山口県岩国市南岩国町 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町阿賀 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町秋掛 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町生見 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町大根川 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町釜ケ原 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町上駄床 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町岸根 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町北中山 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町黒沢 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町佐坂 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町渋前 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町下畑 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町瀬戸ノ内 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町田ノ口 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町中垣内 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町長谷 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町滑 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町西畑 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町日宛 ;
+    mo:SubRegion mr:JP_山口県岩国市美和町百合谷 ;
+    mo:SubRegion mr:JP_山口県岩国市室の木町 ;
+    mo:SubRegion mr:JP_山口県岩国市持国 ;
+    mo:SubRegion mr:JP_山口県岩国市元町 ;
+    mo:SubRegion mr:JP_山口県岩国市門前町 ;
+    mo:SubRegion mr:JP_山口県岩国市山手町 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町北 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町神東 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町千鳥ケ丘 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町中央 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町西 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町港 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町南 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町南沖 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町由宇崎 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町 ;
+    mo:SubRegion mr:JP_山口県岩国市行波 ;
+    mo:SubRegion mr:JP_山口県岩国市行正 ;
+    mo:SubRegion mr:JP_山口県岩国市横山 ;
+    mo:SubRegion mr:JP_山口県岩国市六呂師 ;
+a mo:GeoEntity .
+
+mr:JP_山口県岩国市相ノ谷
+    rdfs:label "相ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市阿品
+    rdfs:label "阿品"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市愛宕町
+    rdfs:label "愛宕町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市飯田町
+    rdfs:label "飯田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市伊房
+    rdfs:label "伊房"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市今津町
+    rdfs:label "今津町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市入野
+    rdfs:label "入野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市岩国
+    rdfs:label "岩国"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市上田
+    rdfs:label "上田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市牛野谷町
+    rdfs:label "牛野谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市青木町
+    rdfs:label "青木町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市大山
+    rdfs:label "大山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市小瀬
+    rdfs:label "小瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市尾津町
+    rdfs:label "尾津町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市桂町
+    rdfs:label "桂町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市叶木
+    rdfs:label "叶木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市川口町
+    rdfs:label "川口町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市川下町
+    rdfs:label "川下町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市瓦谷
+    rdfs:label "瓦谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市川西
+    rdfs:label "川西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市杭名
+    rdfs:label "杭名"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町
+    rdfs:label "玖珂町"@ja ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町阿山 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町有延 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町市頭 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町臼田 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町上市 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町駅通 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町大田 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町上谷 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町欽明路 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町久門給 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町鞍掛 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町下谷 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町新市 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町新町 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町瀬田 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町千束 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町同道 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町野口 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町野地 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町本町 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町谷津 ;
+    mo:SubRegion mr:JP_山口県岩国市玖珂町柳井田 ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町阿山
+    rdfs:label "阿山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町有延
+    rdfs:label "有延"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町市頭
+    rdfs:label "市頭"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町臼田
+    rdfs:label "臼田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町上市
+    rdfs:label "上市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町駅通
+    rdfs:label "駅通"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町大田
+    rdfs:label "大田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町上谷
+    rdfs:label "上谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町欽明路
+    rdfs:label "欽明路"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町久門給
+    rdfs:label "久門給"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町鞍掛
+    rdfs:label "鞍掛"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町下谷
+    rdfs:label "下谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町新市
+    rdfs:label "新市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町瀬田
+    rdfs:label "瀬田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町千束
+    rdfs:label "千束"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町同道
+    rdfs:label "同道"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町野口
+    rdfs:label "野口"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町野地
+    rdfs:label "野地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町谷津
+    rdfs:label "谷津"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市玖珂町柳井田
+    rdfs:label "柳井田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市楠町
+    rdfs:label "楠町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市車町
+    rdfs:label "車町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市黒磯町
+    rdfs:label "黒磯町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市下
+    rdfs:label "下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市守内
+    rdfs:label "守内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町明見谷
+    rdfs:label "周東町明見谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町獺越
+    rdfs:label "周東町獺越"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町上久原
+    rdfs:label "周東町上久原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町上須通
+    rdfs:label "周東町上須通"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町川上
+    rdfs:label "周東町川上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町差川
+    rdfs:label "周東町差川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町三瀬川
+    rdfs:label "周東町三瀬川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町下久原
+    rdfs:label "周東町下久原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町下須通
+    rdfs:label "周東町下須通"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町祖生
+    rdfs:label "周東町祖生"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町田尻
+    rdfs:label "周東町田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町中山
+    rdfs:label "周東町中山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町西長野
+    rdfs:label "周東町西長野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町樋余地
+    rdfs:label "周東町樋余地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市周東町用田
+    rdfs:label "周東町用田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市装束町
+    rdfs:label "装束町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市新港町
+    rdfs:label "新港町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市砂山町
+    rdfs:label "砂山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市角
+    rdfs:label "角"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市関戸
+    rdfs:label "関戸"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市竹安
+    rdfs:label "竹安"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市多田
+    rdfs:label "多田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市立石町
+    rdfs:label "立石町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市田原
+    rdfs:label "田原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市近延
+    rdfs:label "近延"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市通津
+    rdfs:label "通津"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市寺山
+    rdfs:label "寺山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市天尾
+    rdfs:label "天尾"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市中津町
+    rdfs:label "中津町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市長野
+    rdfs:label "長野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市灘町
+    rdfs:label "灘町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町宇佐
+    rdfs:label "錦町宇佐"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町宇佐郷
+    rdfs:label "錦町宇佐郷"@ja ;
+    mo:SubRegion mr:JP_山口県岩国市錦町宇佐郷向峠 ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町宇佐郷向峠
+    rdfs:label "向峠"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町大野
+    rdfs:label "錦町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町大原
+    rdfs:label "錦町大原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町須川
+    rdfs:label "錦町須川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町中ノ瀬
+    rdfs:label "錦町中ノ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町野谷
+    rdfs:label "錦町野谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町広瀬
+    rdfs:label "錦町広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町深川
+    rdfs:label "錦町深川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦町府谷
+    rdfs:label "錦町府谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市錦見
+    rdfs:label "錦見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市柱島
+    rdfs:label "柱島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市柱野
+    rdfs:label "柱野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市廿木
+    rdfs:label "廿木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市土生
+    rdfs:label "土生"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市日の出町
+    rdfs:label "日の出町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市平田
+    rdfs:label "平田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市藤生町
+    rdfs:label "藤生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市二鹿
+    rdfs:label "二鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市保木
+    rdfs:label "保木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市保津町
+    rdfs:label "保津町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市本郷町宇塚
+    rdfs:label "本郷町宇塚"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市本郷町西黒沢
+    rdfs:label "本郷町西黒沢"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市本郷町波野
+    rdfs:label "本郷町波野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市本郷町本郷
+    rdfs:label "本郷町本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市本郷町本谷
+    rdfs:label "本郷町本谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市麻里布町
+    rdfs:label "麻里布町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市三笠町
+    rdfs:label "三笠町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美川町小川
+    rdfs:label "美川町小川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美川町四馬神
+    rdfs:label "美川町四馬神"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美川町添谷
+    rdfs:label "美川町添谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美川町南桑
+    rdfs:label "美川町南桑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美川町根笠
+    rdfs:label "美川町根笠"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市御庄
+    rdfs:label "御庄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市三角町
+    rdfs:label "三角町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市海土路町
+    rdfs:label "海土路町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市南岩国町
+    rdfs:label "南岩国町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町阿賀
+    rdfs:label "美和町阿賀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町秋掛
+    rdfs:label "美和町秋掛"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町生見
+    rdfs:label "美和町生見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町大根川
+    rdfs:label "美和町大根川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町釜ケ原
+    rdfs:label "美和町釜ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町上駄床
+    rdfs:label "美和町上駄床"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町岸根
+    rdfs:label "美和町岸根"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町北中山
+    rdfs:label "美和町北中山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町黒沢
+    rdfs:label "美和町黒沢"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町佐坂
+    rdfs:label "美和町佐坂"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町渋前
+    rdfs:label "美和町渋前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町下畑
+    rdfs:label "美和町下畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町瀬戸ノ内
+    rdfs:label "美和町瀬戸ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町田ノ口
+    rdfs:label "美和町田ノ口"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町中垣内
+    rdfs:label "美和町中垣内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町長谷
+    rdfs:label "美和町長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町滑
+    rdfs:label "美和町滑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町西畑
+    rdfs:label "美和町西畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町日宛
+    rdfs:label "美和町日宛"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市美和町百合谷
+    rdfs:label "美和町百合谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市室の木町
+    rdfs:label "室の木町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市持国
+    rdfs:label "持国"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市門前町
+    rdfs:label "門前町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市山手町
+    rdfs:label "山手町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町北
+    rdfs:label "由宇町北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町神東
+    rdfs:label "由宇町神東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町千鳥ケ丘
+    rdfs:label "由宇町千鳥ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町中央
+    rdfs:label "由宇町中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町西
+    rdfs:label "由宇町西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町港
+    rdfs:label "由宇町港"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町南
+    rdfs:label "由宇町南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町南沖
+    rdfs:label "由宇町南沖"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町由宇崎
+    rdfs:label "由宇町由宇崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町
+    rdfs:label "由宇町"@ja ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町有家 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町笠塚 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町上北 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町峇清 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町清水 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町小槇 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町正南 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町寺迫 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町中倉 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町中村 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町西区 ;
+    mo:SubRegion mr:JP_山口県岩国市由宇町横道 ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町有家
+    rdfs:label "有家"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町笠塚
+    rdfs:label "笠塚"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町上北
+    rdfs:label "上北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町峇清
+    rdfs:label "峇清"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町小槇
+    rdfs:label "小槇"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町正南
+    rdfs:label "正南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町寺迫
+    rdfs:label "寺迫"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町中倉
+    rdfs:label "中倉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町西区
+    rdfs:label "西区"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市由宇町横道
+    rdfs:label "横道"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市行波
+    rdfs:label "行波"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市行正
+    rdfs:label "行正"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市横山
+    rdfs:label "横山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県岩国市六呂師
+    rdfs:label "六呂師"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市
+    rdfs:label "光市"@ja ;
+    mo:AreaCode "35210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県光市浅江 ;
+    mo:SubRegion mr:JP_山口県光市岩狩 ;
+    mo:SubRegion mr:JP_山口県光市岩田 ;
+    mo:SubRegion mr:JP_山口県光市岩田立野 ;
+    mo:SubRegion mr:JP_山口県光市牛島 ;
+    mo:SubRegion mr:JP_山口県光市上島田 ;
+    mo:SubRegion mr:JP_山口県光市木園 ;
+    mo:SubRegion mr:JP_山口県光市協和町 ;
+    mo:SubRegion mr:JP_山口県光市小周防 ;
+    mo:SubRegion mr:JP_山口県光市塩田 ;
+    mo:SubRegion mr:JP_山口県光市島田 ;
+    mo:SubRegion mr:JP_山口県光市千坊台 ;
+    mo:SubRegion mr:JP_山口県光市宝町 ;
+    mo:SubRegion mr:JP_山口県光市立野 ;
+    mo:SubRegion mr:JP_山口県光市中央 ;
+    mo:SubRegion mr:JP_山口県光市束荷 ;
+    mo:SubRegion mr:JP_山口県光市中島田 ;
+    mo:SubRegion mr:JP_山口県光市中村町 ;
+    mo:SubRegion mr:JP_山口県光市虹ケ丘 ;
+    mo:SubRegion mr:JP_山口県光市虹ケ浜 ;
+    mo:SubRegion mr:JP_山口県光市花園 ;
+    mo:SubRegion mr:JP_山口県光市光ケ丘 ;
+    mo:SubRegion mr:JP_山口県光市丸山町 ;
+    mo:SubRegion mr:JP_山口県光市三井 ;
+    mo:SubRegion mr:JP_山口県光市光井 ;
+    mo:SubRegion mr:JP_山口県光市宮ノ下町 ;
+    mo:SubRegion mr:JP_山口県光市三輪 ;
+    mo:SubRegion mr:JP_山口県光市室積 ;
+    mo:SubRegion mr:JP_山口県光市室積市延 ;
+    mo:SubRegion mr:JP_山口県光市室積浦 ;
+    mo:SubRegion mr:JP_山口県光市室積大町 ;
+    mo:SubRegion mr:JP_山口県光市室積沖田 ;
+    mo:SubRegion mr:JP_山口県光市室積新開 ;
+    mo:SubRegion mr:JP_山口県光市室積神田 ;
+    mo:SubRegion mr:JP_山口県光市室積中央町 ;
+    mo:SubRegion mr:JP_山口県光市室積西ノ庄 ;
+    mo:SubRegion mr:JP_山口県光市室積東ノ庄 ;
+    mo:SubRegion mr:JP_山口県光市室積正木 ;
+    mo:SubRegion mr:JP_山口県光市室積松原 ;
+    mo:SubRegion mr:JP_山口県光市室積村 ;
+    mo:SubRegion mr:JP_山口県光市和田町 ;
+a mo:GeoEntity .
+
+mr:JP_山口県光市浅江
+    rdfs:label "浅江"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市岩狩
+    rdfs:label "岩狩"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市岩田
+    rdfs:label "岩田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市岩田立野
+    rdfs:label "岩田立野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市牛島
+    rdfs:label "牛島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市上島田
+    rdfs:label "上島田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市木園
+    rdfs:label "木園"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市協和町
+    rdfs:label "協和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市小周防
+    rdfs:label "小周防"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市塩田
+    rdfs:label "塩田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市島田
+    rdfs:label "島田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市千坊台
+    rdfs:label "千坊台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市宝町
+    rdfs:label "宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市立野
+    rdfs:label "立野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市束荷
+    rdfs:label "束荷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市中島田
+    rdfs:label "中島田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市中村町
+    rdfs:label "中村町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市虹ケ丘
+    rdfs:label "虹ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市虹ケ浜
+    rdfs:label "虹ケ浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市花園
+    rdfs:label "花園"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市光ケ丘
+    rdfs:label "光ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市三井
+    rdfs:label "三井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市光井
+    rdfs:label "光井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市宮ノ下町
+    rdfs:label "宮ノ下町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市三輪
+    rdfs:label "三輪"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積
+    rdfs:label "室積"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積市延
+    rdfs:label "室積市延"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積浦
+    rdfs:label "室積浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積大町
+    rdfs:label "室積大町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積沖田
+    rdfs:label "室積沖田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積新開
+    rdfs:label "室積新開"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積神田
+    rdfs:label "室積神田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積中央町
+    rdfs:label "室積中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積西ノ庄
+    rdfs:label "室積西ノ庄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積東ノ庄
+    rdfs:label "室積東ノ庄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積正木
+    rdfs:label "室積正木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積松原
+    rdfs:label "室積松原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市室積村
+    rdfs:label "室積村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県光市和田町
+    rdfs:label "和田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市
+    rdfs:label "長門市"@ja ;
+    mo:AreaCode "35211" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県長門市通 ;
+    mo:SubRegion mr:JP_山口県長門市渋木 ;
+    mo:SubRegion mr:JP_山口県長門市仙崎 ;
+    mo:SubRegion mr:JP_山口県長門市俵山 ;
+    mo:SubRegion mr:JP_山口県長門市西深川 ;
+    mo:SubRegion mr:JP_山口県長門市東深川 ;
+    mo:SubRegion mr:JP_山口県長門市深川湯本 ;
+    mo:SubRegion mr:JP_山口県長門市日置上 ;
+    mo:SubRegion mr:JP_山口県長門市日置蔵小田 ;
+    mo:SubRegion mr:JP_山口県長門市日置下 ;
+    mo:SubRegion mr:JP_山口県長門市日置中 ;
+    mo:SubRegion mr:JP_山口県長門市日置野田 ;
+    mo:SubRegion mr:JP_山口県長門市真木 ;
+    mo:SubRegion mr:JP_山口県長門市三隅上 ;
+    mo:SubRegion mr:JP_山口県長門市三隅下 ;
+    mo:SubRegion mr:JP_山口県長門市三隅中 ;
+    mo:SubRegion mr:JP_山口県長門市油谷伊上 ;
+    mo:SubRegion mr:JP_山口県長門市油谷後畑 ;
+    mo:SubRegion mr:JP_山口県長門市油谷角山 ;
+    mo:SubRegion mr:JP_山口県長門市油谷川尻 ;
+    mo:SubRegion mr:JP_山口県長門市油谷河原 ;
+    mo:SubRegion mr:JP_山口県長門市油谷蔵小田 ;
+    mo:SubRegion mr:JP_山口県長門市油谷新別名 ;
+    mo:SubRegion mr:JP_山口県長門市油谷津黄 ;
+    mo:SubRegion mr:JP_山口県長門市油谷久富 ;
+    mo:SubRegion mr:JP_山口県長門市油谷向津具上 ;
+    mo:SubRegion mr:JP_山口県長門市油谷向津具下 ;
+a mo:GeoEntity .
+
+mr:JP_山口県長門市通
+    rdfs:label "通"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市渋木
+    rdfs:label "渋木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市仙崎
+    rdfs:label "仙崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市俵山
+    rdfs:label "俵山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市西深川
+    rdfs:label "西深川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市東深川
+    rdfs:label "東深川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市深川湯本
+    rdfs:label "深川湯本"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市日置上
+    rdfs:label "日置上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市日置蔵小田
+    rdfs:label "日置蔵小田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市日置下
+    rdfs:label "日置下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市日置中
+    rdfs:label "日置中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市日置野田
+    rdfs:label "日置野田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市真木
+    rdfs:label "真木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市三隅上
+    rdfs:label "三隅上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市三隅下
+    rdfs:label "三隅下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市三隅中
+    rdfs:label "三隅中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷伊上
+    rdfs:label "油谷伊上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷後畑
+    rdfs:label "油谷後畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷角山
+    rdfs:label "油谷角山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷川尻
+    rdfs:label "油谷川尻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷河原
+    rdfs:label "油谷河原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷蔵小田
+    rdfs:label "油谷蔵小田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷新別名
+    rdfs:label "油谷新別名"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷津黄
+    rdfs:label "油谷津黄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷久富
+    rdfs:label "油谷久富"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷向津具上
+    rdfs:label "油谷向津具上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷向津具下
+    rdfs:label "油谷向津具下"@ja ;
+    mo:SubRegion mr:JP_山口県長門市油谷向津具下大浦 ;
+    mo:SubRegion mr:JP_山口県長門市油谷向津具下久津 ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷向津具下大浦
+    rdfs:label "大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県長門市油谷向津具下久津
+    rdfs:label "久津"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市
+    rdfs:label "柳井市"@ja ;
+    mo:AreaCode "35212" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県柳井市旭ケ丘 ;
+    mo:SubRegion mr:JP_山口県柳井市阿月 ;
+    mo:SubRegion mr:JP_山口県柳井市伊陸 ;
+    mo:SubRegion mr:JP_山口県柳井市伊保庄 ;
+    mo:SubRegion mr:JP_山口県柳井市駅南 ;
+    mo:SubRegion mr:JP_山口県柳井市大畠 ;
+    mo:SubRegion mr:JP_山口県柳井市片野西 ;
+    mo:SubRegion mr:JP_山口県柳井市北浜 ;
+    mo:SubRegion mr:JP_山口県柳井市神代 ;
+    mo:SubRegion mr:JP_山口県柳井市古開作 ;
+    mo:SubRegion mr:JP_山口県柳井市新市 ;
+    mo:SubRegion mr:JP_山口県柳井市新市沖 ;
+    mo:SubRegion mr:JP_山口県柳井市新市北 ;
+    mo:SubRegion mr:JP_山口県柳井市新市南 ;
+    mo:SubRegion mr:JP_山口県柳井市新庄 ;
+    mo:SubRegion mr:JP_山口県柳井市新天地 ;
+    mo:SubRegion mr:JP_山口県柳井市中央 ;
+    mo:SubRegion mr:JP_山口県柳井市天神 ;
+    mo:SubRegion mr:JP_山口県柳井市遠崎 ;
+    mo:SubRegion mr:JP_山口県柳井市土手町 ;
+    mo:SubRegion mr:JP_山口県柳井市ニュータウン南町 ;
+    mo:SubRegion mr:JP_山口県柳井市東土手 ;
+    mo:SubRegion mr:JP_山口県柳井市日積 ;
+    mo:SubRegion mr:JP_山口県柳井市姫田 ;
+    mo:SubRegion mr:JP_山口県柳井市平郡 ;
+    mo:SubRegion mr:JP_山口県柳井市南浜 ;
+    mo:SubRegion mr:JP_山口県柳井市南町 ;
+    mo:SubRegion mr:JP_山口県柳井市柳井 ;
+    mo:SubRegion mr:JP_山口県柳井市柳井津 ;
+    mo:SubRegion mr:JP_山口県柳井市山根 ;
+    mo:SubRegion mr:JP_山口県柳井市余田 ;
+a mo:GeoEntity .
+
+mr:JP_山口県柳井市旭ケ丘
+    rdfs:label "旭ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市阿月
+    rdfs:label "阿月"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市伊陸
+    rdfs:label "伊陸"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市伊保庄
+    rdfs:label "伊保庄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市駅南
+    rdfs:label "駅南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市大畠
+    rdfs:label "大畠"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市片野西
+    rdfs:label "片野西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市北浜
+    rdfs:label "北浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市神代
+    rdfs:label "神代"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市古開作
+    rdfs:label "古開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市新市
+    rdfs:label "新市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市新市沖
+    rdfs:label "新市沖"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市新市北
+    rdfs:label "新市北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市新市南
+    rdfs:label "新市南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市新庄
+    rdfs:label "新庄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市新天地
+    rdfs:label "新天地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市遠崎
+    rdfs:label "遠崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市土手町
+    rdfs:label "土手町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市ニュータウン南町
+    rdfs:label "ニュータウン南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市東土手
+    rdfs:label "東土手"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市日積
+    rdfs:label "日積"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市姫田
+    rdfs:label "姫田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市平郡
+    rdfs:label "平郡"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市南浜
+    rdfs:label "南浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市柳井
+    rdfs:label "柳井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市柳井津
+    rdfs:label "柳井津"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市山根
+    rdfs:label "山根"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県柳井市余田
+    rdfs:label "余田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市
+    rdfs:label "美祢市"@ja ;
+    mo:AreaCode "35213" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県美祢市伊佐町伊佐 ;
+    mo:SubRegion mr:JP_山口県美祢市伊佐町奥万倉 ;
+    mo:SubRegion mr:JP_山口県美祢市伊佐町河原 ;
+    mo:SubRegion mr:JP_山口県美祢市伊佐町堀越 ;
+    mo:SubRegion mr:JP_山口県美祢市大嶺町奥分 ;
+    mo:SubRegion mr:JP_山口県美祢市大嶺町東分 ;
+    mo:SubRegion mr:JP_山口県美祢市大嶺町西分 ;
+    mo:SubRegion mr:JP_山口県美祢市大嶺町北分 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下 ;
+    mo:SubRegion mr:JP_山口県美祢市秋芳町青景 ;
+    mo:SubRegion mr:JP_山口県美祢市秋芳町秋吉 ;
+    mo:SubRegion mr:JP_山口県美祢市秋芳町岩永下郷 ;
+    mo:SubRegion mr:JP_山口県美祢市秋芳町岩永本郷 ;
+    mo:SubRegion mr:JP_山口県美祢市秋芳町嘉万 ;
+    mo:SubRegion mr:JP_山口県美祢市秋芳町別府 ;
+    mo:SubRegion mr:JP_山口県美祢市秋芳町 ;
+    mo:SubRegion mr:JP_山口県美祢市豊田前町麻生上 ;
+    mo:SubRegion mr:JP_山口県美祢市豊田前町麻生下 ;
+    mo:SubRegion mr:JP_山口県美祢市豊田前町今山 ;
+    mo:SubRegion mr:JP_山口県美祢市豊田前町嶽 ;
+    mo:SubRegion mr:JP_山口県美祢市豊田前町古烏帽子 ;
+    mo:SubRegion mr:JP_山口県美祢市豊田前町保々 ;
+    mo:SubRegion mr:JP_山口県美祢市西厚保町原 ;
+    mo:SubRegion mr:JP_山口県美祢市西厚保町本郷 ;
+    mo:SubRegion mr:JP_山口県美祢市東厚保町川東 ;
+    mo:SubRegion mr:JP_山口県美祢市東厚保町山中 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町赤 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町綾木 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町絵堂 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町大田 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町小野 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町長田 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町長登 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町真名 ;
+    mo:SubRegion mr:JP_山口県美祢市美東町 ;
+a mo:GeoEntity .
+
+mr:JP_山口県美祢市伊佐町伊佐
+    rdfs:label "伊佐町伊佐"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市伊佐町奥万倉
+    rdfs:label "伊佐町奥万倉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市伊佐町河原
+    rdfs:label "伊佐町河原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市伊佐町堀越
+    rdfs:label "伊佐町堀越"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市大嶺町奥分
+    rdfs:label "大嶺町奥分"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市大嶺町東分
+    rdfs:label "大嶺町東分"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市大嶺町西分
+    rdfs:label "大嶺町西分"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市大嶺町北分
+    rdfs:label "大嶺町北分"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上
+    rdfs:label "於福町上"@ja ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上駅前 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上岡田 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上上田代 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上栗ケ原 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上下田代 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上神柳 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上大明 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上立石 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上西寺 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上平野 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上古屋 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上宗済 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上横道 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町上竜現地 ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上駅前
+    rdfs:label "駅前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上岡田
+    rdfs:label "岡田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上上田代
+    rdfs:label "上田代"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上栗ケ原
+    rdfs:label "栗ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上下田代
+    rdfs:label "下田代"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上神柳
+    rdfs:label "神柳"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上大明
+    rdfs:label "大明"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上立石
+    rdfs:label "立石"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上西寺
+    rdfs:label "西寺"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上古屋
+    rdfs:label "古屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上宗済
+    rdfs:label "宗済"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上横道
+    rdfs:label "横道"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町上竜現地
+    rdfs:label "竜現地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下
+    rdfs:label "於福町下"@ja ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下入水 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下榎田 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下金山 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下小杉 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下砂地 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下台 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下西畑 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下萩原 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下東中村 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下平国木 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下緑ケ丘 ;
+    mo:SubRegion mr:JP_山口県美祢市於福町下宮の前 ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下入水
+    rdfs:label "入水"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下榎田
+    rdfs:label "榎田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下金山
+    rdfs:label "金山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下小杉
+    rdfs:label "小杉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下砂地
+    rdfs:label "砂地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下台
+    rdfs:label "台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下西畑
+    rdfs:label "西畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下萩原
+    rdfs:label "萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下東中村
+    rdfs:label "東中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下平国木
+    rdfs:label "平国木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市於福町下宮の前
+    rdfs:label "宮の前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市秋芳町青景
+    rdfs:label "秋芳町青景"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市秋芳町秋吉
+    rdfs:label "秋芳町秋吉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市秋芳町岩永下郷
+    rdfs:label "秋芳町岩永下郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市秋芳町岩永本郷
+    rdfs:label "秋芳町岩永本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市秋芳町嘉万
+    rdfs:label "秋芳町嘉万"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市秋芳町別府
+    rdfs:label "秋芳町別府"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市秋芳町
+    rdfs:label "秋芳町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市豊田前町麻生上
+    rdfs:label "豊田前町麻生上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市豊田前町麻生下
+    rdfs:label "豊田前町麻生下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市豊田前町今山
+    rdfs:label "豊田前町今山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市豊田前町嶽
+    rdfs:label "豊田前町嶽"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市豊田前町古烏帽子
+    rdfs:label "豊田前町古烏帽子"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市豊田前町保々
+    rdfs:label "豊田前町保々"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市西厚保町原
+    rdfs:label "西厚保町原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市西厚保町本郷
+    rdfs:label "西厚保町本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市東厚保町川東
+    rdfs:label "東厚保町川東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市東厚保町山中
+    rdfs:label "東厚保町山中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町赤
+    rdfs:label "美東町赤"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町綾木
+    rdfs:label "美東町綾木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町絵堂
+    rdfs:label "美東町絵堂"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町大田
+    rdfs:label "美東町大田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町小野
+    rdfs:label "美東町小野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町長田
+    rdfs:label "美東町長田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町長登
+    rdfs:label "美東町長登"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町真名
+    rdfs:label "美東町真名"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県美祢市美東町
+    rdfs:label "美東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市
+    rdfs:label "周南市"@ja ;
+    mo:AreaCode "35215" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県周南市相生町 ;
+    mo:SubRegion mr:JP_山口県周南市青山町 ;
+    mo:SubRegion mr:JP_山口県周南市秋月 ;
+    mo:SubRegion mr:JP_山口県周南市曙町 ;
+    mo:SubRegion mr:JP_山口県周南市莇地 ;
+    mo:SubRegion mr:JP_山口県周南市飯島町 ;
+    mo:SubRegion mr:JP_山口県周南市泉原町 ;
+    mo:SubRegion mr:JP_山口県周南市一ノ井手 ;
+    mo:SubRegion mr:JP_山口県周南市一番丁 ;
+    mo:SubRegion mr:JP_山口県周南市今宿町 ;
+    mo:SubRegion mr:JP_山口県周南市今住町 ;
+    mo:SubRegion mr:JP_山口県周南市入船町 ;
+    mo:SubRegion mr:JP_山口県周南市馬神 ;
+    mo:SubRegion mr:JP_山口県周南市馬屋 ;
+    mo:SubRegion mr:JP_山口県周南市梅園町 ;
+    mo:SubRegion mr:JP_山口県周南市浦山 ;
+    mo:SubRegion mr:JP_山口県周南市浦山開作 ;
+    mo:SubRegion mr:JP_山口県周南市江口 ;
+    mo:SubRegion mr:JP_山口県周南市江の宮町 ;
+    mo:SubRegion mr:JP_山口県周南市戎町 ;
+    mo:SubRegion mr:JP_山口県周南市扇町 ;
+    mo:SubRegion mr:JP_山口県周南市大内町 ;
+    mo:SubRegion mr:JP_山口県周南市大河内 ;
+    mo:SubRegion mr:JP_山口県周南市大潮 ;
+    mo:SubRegion mr:JP_山口県周南市大島 ;
+    mo:SubRegion mr:JP_山口県周南市大津島 ;
+    mo:SubRegion mr:JP_山口県周南市大道理 ;
+    mo:SubRegion mr:JP_山口県周南市大向 ;
+    mo:SubRegion mr:JP_山口県周南市岡田町 ;
+    mo:SubRegion mr:JP_山口県周南市小川屋町 ;
+    mo:SubRegion mr:JP_山口県周南市沖見町 ;
+    mo:SubRegion mr:JP_山口県周南市奥関屋 ;
+    mo:SubRegion mr:JP_山口県周南市桶川町 ;
+    mo:SubRegion mr:JP_山口県周南市小畑 ;
+    mo:SubRegion mr:JP_山口県周南市御姫町 ;
+    mo:SubRegion mr:JP_山口県周南市御弓町 ;
+    mo:SubRegion mr:JP_山口県周南市温田 ;
+    mo:SubRegion mr:JP_山口県周南市開成町 ;
+    mo:SubRegion mr:JP_山口県周南市かせ河原町 ;
+    mo:SubRegion mr:JP_山口県周南市勝間ヶ丘 ;
+    mo:SubRegion mr:JP_山口県周南市勝間原 ;
+    mo:SubRegion mr:JP_山口県周南市鹿野上 ;
+    mo:SubRegion mr:JP_山口県周南市鹿野下 ;
+    mo:SubRegion mr:JP_山口県周南市鹿野中 ;
+    mo:SubRegion mr:JP_山口県周南市上迫町 ;
+    mo:SubRegion mr:JP_山口県周南市上遠石町 ;
+    mo:SubRegion mr:JP_山口県周南市花陽 ;
+    mo:SubRegion mr:JP_山口県周南市川上 ;
+    mo:SubRegion mr:JP_山口県周南市川崎 ;
+    mo:SubRegion mr:JP_山口県周南市川手 ;
+    mo:SubRegion mr:JP_山口県周南市川端町 ;
+    mo:SubRegion mr:JP_山口県周南市河東町 ;
+    mo:SubRegion mr:JP_山口県周南市川曲 ;
+    mo:SubRegion mr:JP_山口県周南市岐山通り ;
+    mo:SubRegion mr:JP_山口県周南市北山 ;
+    mo:SubRegion mr:JP_山口県周南市岐南町 ;
+    mo:SubRegion mr:JP_山口県周南市銀座 ;
+    mo:SubRegion mr:JP_山口県周南市銀南街 ;
+    mo:SubRegion mr:JP_山口県周南市櫛ヶ浜 ;
+    mo:SubRegion mr:JP_山口県周南市楠木 ;
+    mo:SubRegion mr:JP_山口県周南市熊毛中央町 ;
+    mo:SubRegion mr:JP_山口県周南市久米 ;
+    mo:SubRegion mr:JP_山口県周南市久米中央 ;
+    mo:SubRegion mr:JP_山口県周南市栗屋 ;
+    mo:SubRegion mr:JP_山口県周南市黒岩町 ;
+    mo:SubRegion mr:JP_山口県周南市慶万町 ;
+    mo:SubRegion mr:JP_山口県周南市古泉 ;
+    mo:SubRegion mr:JP_山口県周南市公園区 ;
+    mo:SubRegion mr:JP_山口県周南市糀町 ;
+    mo:SubRegion mr:JP_山口県周南市孝田町 ;
+    mo:SubRegion mr:JP_山口県周南市河内町 ;
+    mo:SubRegion mr:JP_山口県周南市幸の台 ;
+    mo:SubRegion mr:JP_山口県周南市鼓海 ;
+    mo:SubRegion mr:JP_山口県周南市御所尾原 ;
+    mo:SubRegion mr:JP_山口県周南市児玉町 ;
+    mo:SubRegion mr:JP_山口県周南市小松原 ;
+    mo:SubRegion mr:JP_山口県周南市権現町 ;
+    mo:SubRegion mr:JP_山口県周南市栄谷 ;
+    mo:SubRegion mr:JP_山口県周南市栄町 ;
+    mo:SubRegion mr:JP_山口県周南市坂根町 ;
+    mo:SubRegion mr:JP_山口県周南市桜木 ;
+    mo:SubRegion mr:JP_山口県周南市桜馬場通り ;
+    mo:SubRegion mr:JP_山口県周南市幸ケ丘 ;
+    mo:SubRegion mr:JP_山口県周南市五月町 ;
+    mo:SubRegion mr:JP_山口県周南市皿山町 ;
+    mo:SubRegion mr:JP_山口県周南市三番町 ;
+    mo:SubRegion mr:JP_山口県周南市椎木町 ;
+    mo:SubRegion mr:JP_山口県周南市四熊 ;
+    mo:SubRegion mr:JP_山口県周南市清水 ;
+    mo:SubRegion mr:JP_山口県周南市清水町 ;
+    mo:SubRegion mr:JP_山口県周南市下上 ;
+    mo:SubRegion mr:JP_山口県周南市社地町 ;
+    mo:SubRegion mr:JP_山口県周南市自由ケ丘 ;
+    mo:SubRegion mr:JP_山口県周南市周陽 ;
+    mo:SubRegion mr:JP_山口県周南市城ケ丘 ;
+    mo:SubRegion mr:JP_山口県周南市上村 ;
+    mo:SubRegion mr:JP_山口県周南市鐘楼町 ;
+    mo:SubRegion mr:JP_山口県周南市昭和通り ;
+    mo:SubRegion mr:JP_山口県周南市新宮町 ;
+    mo:SubRegion mr:JP_山口県周南市新宿通 ;
+    mo:SubRegion mr:JP_山口県周南市新清光台 ;
+    mo:SubRegion mr:JP_山口県周南市新地 ;
+    mo:SubRegion mr:JP_山口県周南市新地町 ;
+    mo:SubRegion mr:JP_山口県周南市新堤町 ;
+    mo:SubRegion mr:JP_山口県周南市新田 ;
+    mo:SubRegion mr:JP_山口県周南市新堀 ;
+    mo:SubRegion mr:JP_山口県周南市新町 ;
+    mo:SubRegion mr:JP_山口県周南市粭島 ;
+    mo:SubRegion mr:JP_山口県周南市須々万奥 ;
+    mo:SubRegion mr:JP_山口県周南市須々万本郷 ;
+    mo:SubRegion mr:JP_山口県周南市須万 ;
+    mo:SubRegion mr:JP_山口県周南市住崎町 ;
+    mo:SubRegion mr:JP_山口県周南市住吉町 ;
+    mo:SubRegion mr:JP_山口県周南市巣山 ;
+    mo:SubRegion mr:JP_山口県周南市清光台町 ;
+    mo:SubRegion mr:JP_山口県周南市清尾 ;
+    mo:SubRegion mr:JP_山口県周南市瀬戸見町 ;
+    mo:SubRegion mr:JP_山口県周南市大神 ;
+    mo:SubRegion mr:JP_山口県周南市垰 ;
+    mo:SubRegion mr:JP_山口県周南市高尾団地 ;
+    mo:SubRegion mr:JP_山口県周南市高瀬 ;
+    mo:SubRegion mr:JP_山口県周南市高水原 ;
+    mo:SubRegion mr:JP_山口県周南市竹島町 ;
+    mo:SubRegion mr:JP_山口県周南市築港町 ;
+    mo:SubRegion mr:JP_山口県周南市中央町 ;
+    mo:SubRegion mr:JP_山口県周南市千代田町 ;
+    mo:SubRegion mr:JP_山口県周南市月丘町 ;
+    mo:SubRegion mr:JP_山口県周南市辻町 ;
+    mo:SubRegion mr:JP_山口県周南市鶴見台 ;
+    mo:SubRegion mr:JP_山口県周南市土井 ;
+    mo:SubRegion mr:JP_山口県周南市遠石 ;
+    mo:SubRegion mr:JP_山口県周南市道源町 ;
+    mo:SubRegion mr:JP_山口県周南市徳山 ;
+    mo:SubRegion mr:JP_山口県周南市徳山港町 ;
+    mo:SubRegion mr:JP_山口県周南市富田 ;
+    mo:SubRegion mr:JP_山口県周南市中金剛山 ;
+    mo:SubRegion mr:JP_山口県周南市中須北 ;
+    mo:SubRegion mr:JP_山口県周南市中須南 ;
+    mo:SubRegion mr:JP_山口県周南市長田町 ;
+    mo:SubRegion mr:JP_山口県周南市中畷町 ;
+    mo:SubRegion mr:JP_山口県周南市中野 ;
+    mo:SubRegion mr:JP_山口県周南市長穂 ;
+    mo:SubRegion mr:JP_山口県周南市中村 ;
+    mo:SubRegion mr:JP_山口県周南市渚町 ;
+    mo:SubRegion mr:JP_山口県周南市那智町 ;
+    mo:SubRegion mr:JP_山口県周南市夏切 ;
+    mo:SubRegion mr:JP_山口県周南市西金剛山 ;
+    mo:SubRegion mr:JP_山口県周南市西千代田町 ;
+    mo:SubRegion mr:JP_山口県周南市西桝町 ;
+    mo:SubRegion mr:JP_山口県周南市西松原 ;
+    mo:SubRegion mr:JP_山口県周南市二ノ井手 ;
+    mo:SubRegion mr:JP_山口県周南市二番町 ;
+    mo:SubRegion mr:JP_山口県周南市野上町 ;
+    mo:SubRegion mr:JP_山口県周南市野村 ;
+    mo:SubRegion mr:JP_山口県周南市野村南町 ;
+    mo:SubRegion mr:JP_山口県周南市羽島 ;
+    mo:SubRegion mr:JP_山口県周南市橋本町 ;
+    mo:SubRegion mr:JP_山口県周南市蓮ヶ浴 ;
+    mo:SubRegion mr:JP_山口県周南市初音町 ;
+    mo:SubRegion mr:JP_山口県周南市花園町 ;
+    mo:SubRegion mr:JP_山口県周南市花畠町 ;
+    mo:SubRegion mr:JP_山口県周南市浜田 ;
+    mo:SubRegion mr:JP_山口県周南市速玉町 ;
+    mo:SubRegion mr:JP_山口県周南市原 ;
+    mo:SubRegion mr:JP_山口県周南市原宿町 ;
+    mo:SubRegion mr:JP_山口県周南市晴海町 ;
+    mo:SubRegion mr:JP_山口県周南市東北山 ;
+    mo:SubRegion mr:JP_山口県周南市東金剛山 ;
+    mo:SubRegion mr:JP_山口県周南市東辻 ;
+    mo:SubRegion mr:JP_山口県周南市東山町 ;
+    mo:SubRegion mr:JP_山口県周南市樋口 ;
+    mo:SubRegion mr:JP_山口県周南市土越 ;
+    mo:SubRegion mr:JP_山口県周南市日地町 ;
+    mo:SubRegion mr:JP_山口県周南市平野 ;
+    mo:SubRegion mr:JP_山口県周南市平原町 ;
+    mo:SubRegion mr:JP_山口県周南市福川 ;
+    mo:SubRegion mr:JP_山口県周南市福川中市町 ;
+    mo:SubRegion mr:JP_山口県周南市福川南町 ;
+    mo:SubRegion mr:JP_山口県周南市藤ヶ台 ;
+    mo:SubRegion mr:JP_山口県周南市古市 ;
+    mo:SubRegion mr:JP_山口県周南市古川町 ;
+    mo:SubRegion mr:JP_山口県周南市平和通り ;
+    mo:SubRegion mr:JP_山口県周南市戸田 ;
+    mo:SubRegion mr:JP_山口県周南市本陣町 ;
+    mo:SubRegion mr:JP_山口県周南市本町 ;
+    mo:SubRegion mr:JP_山口県周南市舞車町 ;
+    mo:SubRegion mr:JP_山口県周南市松保町 ;
+    mo:SubRegion mr:JP_山口県周南市政所 ;
+    mo:SubRegion mr:JP_山口県周南市丸山町 ;
+    mo:SubRegion mr:JP_山口県周南市御影町 ;
+    mo:SubRegion mr:JP_山口県周南市三笹町 ;
+    mo:SubRegion mr:JP_山口県周南市三田川 ;
+    mo:SubRegion mr:JP_山口県周南市金峰 ;
+    mo:SubRegion mr:JP_山口県周南市緑ケ丘 ;
+    mo:SubRegion mr:JP_山口県周南市緑町 ;
+    mo:SubRegion mr:JP_山口県周南市港町 ;
+    mo:SubRegion mr:JP_山口県周南市南浦山町 ;
+    mo:SubRegion mr:JP_山口県周南市みなみ銀座 ;
+    mo:SubRegion mr:JP_山口県周南市都町 ;
+    mo:SubRegion mr:JP_山口県周南市宮の前 ;
+    mo:SubRegion mr:JP_山口県周南市宮前町 ;
+    mo:SubRegion mr:JP_山口県周南市御山町 ;
+    mo:SubRegion mr:JP_山口県周南市御幸通り ;
+    mo:SubRegion mr:JP_山口県周南市室尾 ;
+    mo:SubRegion mr:JP_山口県周南市毛利町 ;
+    mo:SubRegion mr:JP_山口県周南市夜市 ;
+    mo:SubRegion mr:JP_山口県周南市八代 ;
+    mo:SubRegion mr:JP_山口県周南市安田 ;
+    mo:SubRegion mr:JP_山口県周南市柳町 ;
+    mo:SubRegion mr:JP_山口県周南市弥生町 ;
+    mo:SubRegion mr:JP_山口県周南市有楽町 ;
+    mo:SubRegion mr:JP_山口県周南市由加町 ;
+    mo:SubRegion mr:JP_山口県周南市譲羽 ;
+    mo:SubRegion mr:JP_山口県周南市湯野 ;
+    mo:SubRegion mr:JP_山口県周南市夢ケ丘 ;
+    mo:SubRegion mr:JP_山口県周南市横浜町 ;
+    mo:SubRegion mr:JP_山口県周南市米光 ;
+    mo:SubRegion mr:JP_山口県周南市呼坂 ;
+    mo:SubRegion mr:JP_山口県周南市呼坂本町 ;
+    mo:SubRegion mr:JP_山口県周南市代々木通り ;
+    mo:SubRegion mr:JP_山口県周南市臨海町 ;
+    mo:SubRegion mr:JP_山口県周南市若草町 ;
+    mo:SubRegion mr:JP_山口県周南市若宮町 ;
+    mo:SubRegion mr:JP_山口県周南市若山 ;
+a mo:GeoEntity .
+
+mr:JP_山口県周南市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市青山町
+    rdfs:label "青山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市秋月
+    rdfs:label "秋月"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市曙町
+    rdfs:label "曙町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市莇地
+    rdfs:label "莇地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市飯島町
+    rdfs:label "飯島町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市泉原町
+    rdfs:label "泉原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市一ノ井手
+    rdfs:label "一ノ井手"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市一番丁
+    rdfs:label "一番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市今宿町
+    rdfs:label "今宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市今住町
+    rdfs:label "今住町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市入船町
+    rdfs:label "入船町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市馬神
+    rdfs:label "馬神"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市馬屋
+    rdfs:label "馬屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市梅園町
+    rdfs:label "梅園町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市浦山
+    rdfs:label "浦山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市浦山開作
+    rdfs:label "浦山開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市江口
+    rdfs:label "江口"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市江の宮町
+    rdfs:label "江の宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市戎町
+    rdfs:label "戎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市扇町
+    rdfs:label "扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市大内町
+    rdfs:label "大内町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市大河内
+    rdfs:label "大河内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市大潮
+    rdfs:label "大潮"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市大津島
+    rdfs:label "大津島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市大道理
+    rdfs:label "大道理"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市大向
+    rdfs:label "大向"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市岡田町
+    rdfs:label "岡田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市小川屋町
+    rdfs:label "小川屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市沖見町
+    rdfs:label "沖見町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市奥関屋
+    rdfs:label "奥関屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市桶川町
+    rdfs:label "桶川町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市小畑
+    rdfs:label "小畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市御姫町
+    rdfs:label "御姫町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市御弓町
+    rdfs:label "御弓町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市温田
+    rdfs:label "温田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市開成町
+    rdfs:label "開成町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市かせ河原町
+    rdfs:label "かせ河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市勝間ヶ丘
+    rdfs:label "勝間ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市勝間原
+    rdfs:label "勝間原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市鹿野上
+    rdfs:label "鹿野上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市鹿野下
+    rdfs:label "鹿野下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市鹿野中
+    rdfs:label "鹿野中"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市上迫町
+    rdfs:label "上迫町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市上遠石町
+    rdfs:label "上遠石町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市花陽
+    rdfs:label "花陽"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市川崎
+    rdfs:label "川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市川手
+    rdfs:label "川手"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市川端町
+    rdfs:label "川端町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市河東町
+    rdfs:label "河東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市川曲
+    rdfs:label "川曲"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市岐山通り
+    rdfs:label "岐山通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市北山
+    rdfs:label "北山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市岐南町
+    rdfs:label "岐南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市銀座
+    rdfs:label "銀座"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市銀南街
+    rdfs:label "銀南街"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市櫛ヶ浜
+    rdfs:label "櫛ヶ浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市楠木
+    rdfs:label "楠木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市熊毛中央町
+    rdfs:label "熊毛中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市久米
+    rdfs:label "久米"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市久米中央
+    rdfs:label "久米中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市栗屋
+    rdfs:label "栗屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市黒岩町
+    rdfs:label "黒岩町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市慶万町
+    rdfs:label "慶万町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市古泉
+    rdfs:label "古泉"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市公園区
+    rdfs:label "公園区"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市糀町
+    rdfs:label "糀町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市孝田町
+    rdfs:label "孝田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市河内町
+    rdfs:label "河内町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市幸の台
+    rdfs:label "幸の台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市鼓海
+    rdfs:label "鼓海"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市御所尾原
+    rdfs:label "御所尾原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市児玉町
+    rdfs:label "児玉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市小松原
+    rdfs:label "小松原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市権現町
+    rdfs:label "権現町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市栄谷
+    rdfs:label "栄谷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市坂根町
+    rdfs:label "坂根町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市桜木
+    rdfs:label "桜木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市桜馬場通り
+    rdfs:label "桜馬場通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市幸ケ丘
+    rdfs:label "幸ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市五月町
+    rdfs:label "五月町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市皿山町
+    rdfs:label "皿山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市三番町
+    rdfs:label "三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市椎木町
+    rdfs:label "椎木町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市四熊
+    rdfs:label "四熊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市下上
+    rdfs:label "下上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市社地町
+    rdfs:label "社地町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市自由ケ丘
+    rdfs:label "自由ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市周陽
+    rdfs:label "周陽"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市城ケ丘
+    rdfs:label "城ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市上村
+    rdfs:label "上村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市鐘楼町
+    rdfs:label "鐘楼町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市昭和通り
+    rdfs:label "昭和通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新宮町
+    rdfs:label "新宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新宿通
+    rdfs:label "新宿通"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新清光台
+    rdfs:label "新清光台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新地
+    rdfs:label "新地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新地町
+    rdfs:label "新地町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新堤町
+    rdfs:label "新堤町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新堀
+    rdfs:label "新堀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市粭島
+    rdfs:label "粭島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市須々万奥
+    rdfs:label "須々万奥"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市須々万本郷
+    rdfs:label "須々万本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市須万
+    rdfs:label "須万"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市住崎町
+    rdfs:label "住崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市巣山
+    rdfs:label "巣山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市清光台町
+    rdfs:label "清光台町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市清尾
+    rdfs:label "清尾"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市瀬戸見町
+    rdfs:label "瀬戸見町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市大神
+    rdfs:label "大神"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市垰
+    rdfs:label "垰"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市高尾団地
+    rdfs:label "高尾団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市高瀬
+    rdfs:label "高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市高水原
+    rdfs:label "高水原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市竹島町
+    rdfs:label "竹島町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市築港町
+    rdfs:label "築港町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市千代田町
+    rdfs:label "千代田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市月丘町
+    rdfs:label "月丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市辻町
+    rdfs:label "辻町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市鶴見台
+    rdfs:label "鶴見台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市土井
+    rdfs:label "土井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市遠石
+    rdfs:label "遠石"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市道源町
+    rdfs:label "道源町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市徳山
+    rdfs:label "徳山"@ja ;
+    mo:SubRegion mr:JP_山口県周南市徳山杉ケ峠 ;
+    a mo:町域 .
+
+mr:JP_山口県周南市徳山杉ケ峠
+    rdfs:label "杉ケ峠"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市徳山港町
+    rdfs:label "徳山港町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市富田
+    rdfs:label "富田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市中金剛山
+    rdfs:label "中金剛山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市中須北
+    rdfs:label "中須北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市中須南
+    rdfs:label "中須南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市長田町
+    rdfs:label "長田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市中畷町
+    rdfs:label "中畷町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市長穂
+    rdfs:label "長穂"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市渚町
+    rdfs:label "渚町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市那智町
+    rdfs:label "那智町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市夏切
+    rdfs:label "夏切"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市西金剛山
+    rdfs:label "西金剛山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市西千代田町
+    rdfs:label "西千代田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市西桝町
+    rdfs:label "西桝町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市西松原
+    rdfs:label "西松原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市二ノ井手
+    rdfs:label "二ノ井手"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市二番町
+    rdfs:label "二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市野上町
+    rdfs:label "野上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市野村
+    rdfs:label "野村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市野村南町
+    rdfs:label "野村南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市羽島
+    rdfs:label "羽島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市橋本町
+    rdfs:label "橋本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市蓮ヶ浴
+    rdfs:label "蓮ヶ浴"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市初音町
+    rdfs:label "初音町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市花畠町
+    rdfs:label "花畠町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市浜田
+    rdfs:label "浜田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市速玉町
+    rdfs:label "速玉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市原宿町
+    rdfs:label "原宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市晴海町
+    rdfs:label "晴海町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市東北山
+    rdfs:label "東北山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市東金剛山
+    rdfs:label "東金剛山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市東辻
+    rdfs:label "東辻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市東山町
+    rdfs:label "東山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市樋口
+    rdfs:label "樋口"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市土越
+    rdfs:label "土越"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市日地町
+    rdfs:label "日地町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市平原町
+    rdfs:label "平原町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市福川
+    rdfs:label "福川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市福川中市町
+    rdfs:label "福川中市町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市福川南町
+    rdfs:label "福川南町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市藤ヶ台
+    rdfs:label "藤ヶ台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市古市
+    rdfs:label "古市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市古川町
+    rdfs:label "古川町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市平和通り
+    rdfs:label "平和通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市戸田
+    rdfs:label "戸田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市本陣町
+    rdfs:label "本陣町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市舞車町
+    rdfs:label "舞車町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市松保町
+    rdfs:label "松保町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市政所
+    rdfs:label "政所"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市御影町
+    rdfs:label "御影町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市三笹町
+    rdfs:label "三笹町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市三田川
+    rdfs:label "三田川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市金峰
+    rdfs:label "金峰"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市南浦山町
+    rdfs:label "南浦山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市みなみ銀座
+    rdfs:label "みなみ銀座"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市都町
+    rdfs:label "都町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市宮の前
+    rdfs:label "宮の前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市宮前町
+    rdfs:label "宮前町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市御山町
+    rdfs:label "御山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市御幸通り
+    rdfs:label "御幸通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市室尾
+    rdfs:label "室尾"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市毛利町
+    rdfs:label "毛利町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市夜市
+    rdfs:label "夜市"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市八代
+    rdfs:label "八代"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市安田
+    rdfs:label "安田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市柳町
+    rdfs:label "柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市有楽町
+    rdfs:label "有楽町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市由加町
+    rdfs:label "由加町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市譲羽
+    rdfs:label "譲羽"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市湯野
+    rdfs:label "湯野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市夢ケ丘
+    rdfs:label "夢ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市横浜町
+    rdfs:label "横浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市米光
+    rdfs:label "米光"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市呼坂
+    rdfs:label "呼坂"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市呼坂本町
+    rdfs:label "呼坂本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市代々木通り
+    rdfs:label "代々木通り"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市臨海町
+    rdfs:label "臨海町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市若宮町
+    rdfs:label "若宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県周南市若山
+    rdfs:label "若山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市
+    rdfs:label "山陽小野田市"@ja ;
+    mo:AreaCode "35216" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市青葉台 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市赤崎 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市厚狭 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市あさひが丘 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市旭町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市有帆 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市有帆上町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市有帆新町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市石井手 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市稲荷町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市上の台 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市後潟上 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市後潟下 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市えびす町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市烏帽子岩 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市烏帽子岩団地 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市烏帽子岩前 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市大須恵 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市大塚 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市大塚団地 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市大浜 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市奥若山 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市小野田 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市小野山 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市柿の木坂 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市片山 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市角石 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市叶松 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市上木屋 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市上の郷 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市神帆町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市亀の甲 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市鴨庄 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市刈屋上条 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市刈屋中村 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市刈屋西条 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市杵築 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市北栄町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市北真土郷 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市北竜王町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市北若山 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市木戸大鼻 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市木戸新町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市木戸中ノ町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市共和台 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市共和町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市くし山 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市郷 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市高栄 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市郡 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市小松尾 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市栄町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市桜 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市桜が丘 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市笹尾西 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市笹尾東 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市下木屋 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市自由ヶ丘 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市市立病院 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市新有帆町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市新沖 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市新生 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市心和園 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市須恵 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市須恵西 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市須恵東 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市須田ノ木 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市住吉本町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市セメント町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市大学通 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市大休 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市大休団地 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市高須 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市高千帆 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市高畑 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市高浜 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市田の尻 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市旦西 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市旦東 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市千崎 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市千崎西 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市千崎東 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市中央 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市長寿園 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市千代町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市津布田 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市中川 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市中里 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市中村 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市夏目 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市南平台 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市西沖 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市西が迫 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市西住吉町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市西高泊 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市西の郷 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市日産 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市仁保の上 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市野来見 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市萩森 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市波瀬 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市埴生 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市浜 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市浜河内 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市浜田町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市東須田の木 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市東住吉町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市東高泊 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市東町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市彼岸田 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市ひがんだ団地 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市日の出 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市平生町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市平原 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市福田 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市船越 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市古開作 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市古開作団地 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市平成町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市平和町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市松角 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市松浜 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市松浜団地 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市丸河内 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市緑が丘 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市港町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市南高泊 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市南中川町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市南真土郷 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市南松浜 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市南竜王町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市南若山 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市目出 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市目出湖畔町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市目出幸町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市目出新町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市目出文化町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市目出緑町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市本山団地 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市本山町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市山川 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市山野井 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市横土手 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市硫酸町 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市労災病院 ;
+    mo:SubRegion mr:JP_山口県山陽小野田市若草町 ;
+a mo:GeoEntity .
+
+mr:JP_山口県山陽小野田市青葉台
+    rdfs:label "青葉台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市赤崎
+    rdfs:label "赤崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市厚狭
+    rdfs:label "厚狭"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市あさひが丘
+    rdfs:label "あさひが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市有帆
+    rdfs:label "有帆"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市有帆上町
+    rdfs:label "有帆上町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市有帆新町
+    rdfs:label "有帆新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市石井手
+    rdfs:label "石井手"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市稲荷町
+    rdfs:label "稲荷町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市上の台
+    rdfs:label "上の台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市後潟上
+    rdfs:label "後潟上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市後潟下
+    rdfs:label "後潟下"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市えびす町
+    rdfs:label "えびす町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市烏帽子岩
+    rdfs:label "烏帽子岩"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市烏帽子岩団地
+    rdfs:label "烏帽子岩団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市烏帽子岩前
+    rdfs:label "烏帽子岩前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市大須恵
+    rdfs:label "大須恵"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市大塚
+    rdfs:label "大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市大塚団地
+    rdfs:label "大塚団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市大浜
+    rdfs:label "大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市奥若山
+    rdfs:label "奥若山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市小野田
+    rdfs:label "小野田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市小野山
+    rdfs:label "小野山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市柿の木坂
+    rdfs:label "柿の木坂"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市片山
+    rdfs:label "片山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市角石
+    rdfs:label "角石"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市叶松
+    rdfs:label "叶松"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市上木屋
+    rdfs:label "上木屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市上の郷
+    rdfs:label "上の郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市神帆町
+    rdfs:label "神帆町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市亀の甲
+    rdfs:label "亀の甲"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市鴨庄
+    rdfs:label "鴨庄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市刈屋上条
+    rdfs:label "刈屋上条"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市刈屋中村
+    rdfs:label "刈屋中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市刈屋西条
+    rdfs:label "刈屋西条"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市杵築
+    rdfs:label "杵築"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市北栄町
+    rdfs:label "北栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市北真土郷
+    rdfs:label "北真土郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市北竜王町
+    rdfs:label "北竜王町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市北若山
+    rdfs:label "北若山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市木戸大鼻
+    rdfs:label "木戸大鼻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市木戸新町
+    rdfs:label "木戸新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市木戸中ノ町
+    rdfs:label "木戸中ノ町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市共和台
+    rdfs:label "共和台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市共和町
+    rdfs:label "共和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市くし山
+    rdfs:label "くし山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市郷
+    rdfs:label "郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市高栄
+    rdfs:label "高栄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市郡
+    rdfs:label "郡"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市小松尾
+    rdfs:label "小松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市桜
+    rdfs:label "桜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市桜が丘
+    rdfs:label "桜が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市笹尾西
+    rdfs:label "笹尾西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市笹尾東
+    rdfs:label "笹尾東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市下木屋
+    rdfs:label "下木屋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市自由ヶ丘
+    rdfs:label "自由ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市市立病院
+    rdfs:label "市立病院"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市新有帆町
+    rdfs:label "新有帆町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市新沖
+    rdfs:label "新沖"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市新生
+    rdfs:label "新生"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市心和園
+    rdfs:label "心和園"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市須恵
+    rdfs:label "須恵"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市須恵西
+    rdfs:label "須恵西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市須恵東
+    rdfs:label "須恵東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市須田ノ木
+    rdfs:label "須田ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市住吉本町
+    rdfs:label "住吉本町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市セメント町
+    rdfs:label "セメント町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市大学通
+    rdfs:label "大学通"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市大休
+    rdfs:label "大休"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市大休団地
+    rdfs:label "大休団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市高須
+    rdfs:label "高須"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市高千帆
+    rdfs:label "高千帆"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市高畑
+    rdfs:label "高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市高浜
+    rdfs:label "高浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市田の尻
+    rdfs:label "田の尻"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市旦西
+    rdfs:label "旦西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市旦東
+    rdfs:label "旦東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市千崎
+    rdfs:label "千崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市千崎西
+    rdfs:label "千崎西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市千崎東
+    rdfs:label "千崎東"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市長寿園
+    rdfs:label "長寿園"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市千代町
+    rdfs:label "千代町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市津布田
+    rdfs:label "津布田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市中川
+    rdfs:label "中川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市中里
+    rdfs:label "中里"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市夏目
+    rdfs:label "夏目"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市南平台
+    rdfs:label "南平台"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市西沖
+    rdfs:label "西沖"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市西が迫
+    rdfs:label "西が迫"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市西住吉町
+    rdfs:label "西住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市西高泊
+    rdfs:label "西高泊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市西の郷
+    rdfs:label "西の郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市日産
+    rdfs:label "日産"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市仁保の上
+    rdfs:label "仁保の上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市野来見
+    rdfs:label "野来見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市萩森
+    rdfs:label "萩森"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市波瀬
+    rdfs:label "波瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市埴生
+    rdfs:label "埴生"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市浜
+    rdfs:label "浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市浜河内
+    rdfs:label "浜河内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市浜田町
+    rdfs:label "浜田町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市東須田の木
+    rdfs:label "東須田の木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市東住吉町
+    rdfs:label "東住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市東高泊
+    rdfs:label "東高泊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市彼岸田
+    rdfs:label "彼岸田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市ひがんだ団地
+    rdfs:label "ひがんだ団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市日の出
+    rdfs:label "日の出"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市平生町
+    rdfs:label "平生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市平原
+    rdfs:label "平原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市福田
+    rdfs:label "福田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市船越
+    rdfs:label "船越"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市古開作
+    rdfs:label "古開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市古開作団地
+    rdfs:label "古開作団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市平成町
+    rdfs:label "平成町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市平和町
+    rdfs:label "平和町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市松角
+    rdfs:label "松角"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市松浜
+    rdfs:label "松浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市松浜団地
+    rdfs:label "松浜団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市丸河内
+    rdfs:label "丸河内"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市緑が丘
+    rdfs:label "緑が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市南高泊
+    rdfs:label "南高泊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市南中川町
+    rdfs:label "南中川町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市南真土郷
+    rdfs:label "南真土郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市南松浜
+    rdfs:label "南松浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市南竜王町
+    rdfs:label "南竜王町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市南若山
+    rdfs:label "南若山"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市目出
+    rdfs:label "目出"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市目出湖畔町
+    rdfs:label "目出湖畔町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市目出幸町
+    rdfs:label "目出幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市目出新町
+    rdfs:label "目出新町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市目出文化町
+    rdfs:label "目出文化町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市目出緑町
+    rdfs:label "目出緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市本山団地
+    rdfs:label "本山団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市本山町
+    rdfs:label "本山町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市山川
+    rdfs:label "山川"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市山野井
+    rdfs:label "山野井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市横土手
+    rdfs:label "横土手"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市硫酸町
+    rdfs:label "硫酸町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市労災病院
+    rdfs:label "労災病院"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県山陽小野田市若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町
+    rdfs:label "大島郡周防大島町"@ja ;
+    mo:AreaCode "35305" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町秋 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町出井 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町伊保田 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町浮島 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町内入 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町沖家室島 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町笠佐島 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町片添 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町家房 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町久賀 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町神浦 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町小泊 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町小松 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町小松開作 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町地家室 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町志佐 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町津海木 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町土居 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町外入 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西安下庄 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西方 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西三蒲 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西屋代 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町東安下庄 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町東三蒲 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町東屋代 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町日前 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町日見 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町平野 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町戸田 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町椋野 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町森 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町油宇 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町油良 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町横見 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町和佐 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町和田 ;
+a mo:GeoEntity .
+
+mr:JP_山口県大島郡周防大島町秋
+    rdfs:label "秋"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町出井
+    rdfs:label "出井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町伊保田
+    rdfs:label "伊保田"@ja ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町伊保田雨振 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町伊保田小伊保田 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町伊保田情島 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町伊保田両源田 ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町伊保田雨振
+    rdfs:label "雨振"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町伊保田小伊保田
+    rdfs:label "小伊保田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町伊保田情島
+    rdfs:label "情島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町伊保田両源田
+    rdfs:label "両源田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町浮島
+    rdfs:label "浮島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町内入
+    rdfs:label "内入"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町沖家室島
+    rdfs:label "沖家室島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町笠佐島
+    rdfs:label "笠佐島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町片添
+    rdfs:label "片添"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町家房
+    rdfs:label "家房"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町久賀
+    rdfs:label "久賀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町神浦
+    rdfs:label "神浦"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町小泊
+    rdfs:label "小泊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町小松
+    rdfs:label "小松"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町小松開作
+    rdfs:label "小松開作"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町地家室
+    rdfs:label "地家室"@ja ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町地家室佐連 ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町地家室佐連
+    rdfs:label "佐連"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町志佐
+    rdfs:label "志佐"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町津海木
+    rdfs:label "津海木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町土居
+    rdfs:label "土居"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町外入
+    rdfs:label "外入"@ja ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町外入伊崎 ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町外入伊崎
+    rdfs:label "伊崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西安下庄
+    rdfs:label "西安下庄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西方
+    rdfs:label "西方"@ja ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西方大積 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西方小積 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西方下田 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西方長崎 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町西方船越 ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西方大積
+    rdfs:label "大積"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西方小積
+    rdfs:label "小積"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西方下田
+    rdfs:label "下田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西方長崎
+    rdfs:label "長崎"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西方船越
+    rdfs:label "船越"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西三蒲
+    rdfs:label "西三蒲"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町西屋代
+    rdfs:label "西屋代"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町東安下庄
+    rdfs:label "東安下庄"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町東三蒲
+    rdfs:label "東三蒲"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町東屋代
+    rdfs:label "東屋代"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町日前
+    rdfs:label "日前"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町日見
+    rdfs:label "日見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町戸田
+    rdfs:label "戸田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町椋野
+    rdfs:label "椋野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町油宇
+    rdfs:label "油宇"@ja ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町油宇馬ケ原 ;
+    mo:SubRegion mr:JP_山口県大島郡周防大島町油宇日向泊 ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町油宇馬ケ原
+    rdfs:label "馬ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町油宇日向泊
+    rdfs:label "日向泊"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町油良
+    rdfs:label "油良"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町横見
+    rdfs:label "横見"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町和佐
+    rdfs:label "和佐"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県大島郡周防大島町和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県玖珂郡和木町
+    rdfs:label "玖珂郡和木町"@ja ;
+    mo:AreaCode "35321" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県玖珂郡和木町関ケ浜 ;
+    mo:SubRegion mr:JP_山口県玖珂郡和木町瀬田 ;
+    mo:SubRegion mr:JP_山口県玖珂郡和木町和木 ;
+a mo:GeoEntity .
+
+mr:JP_山口県玖珂郡和木町関ケ浜
+    rdfs:label "関ケ浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県玖珂郡和木町瀬田
+    rdfs:label "瀬田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県玖珂郡和木町和木
+    rdfs:label "和木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡上関町
+    rdfs:label "熊毛郡上関町"@ja ;
+    mo:AreaCode "35341" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県熊毛郡上関町祝島 ;
+    mo:SubRegion mr:JP_山口県熊毛郡上関町長島 ;
+    mo:SubRegion mr:JP_山口県熊毛郡上関町室津 ;
+    mo:SubRegion mr:JP_山口県熊毛郡上関町八島 ;
+a mo:GeoEntity .
+
+mr:JP_山口県熊毛郡上関町祝島
+    rdfs:label "祝島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡上関町長島
+    rdfs:label "長島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡上関町室津
+    rdfs:label "室津"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡上関町八島
+    rdfs:label "八島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町
+    rdfs:label "熊毛郡田布施町"@ja ;
+    mo:AreaCode "35343" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町馬島 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町大波野 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町麻郷 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町麻郷奥 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町麻郷団地 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町上田布施 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町川西 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町下田布施 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町宿井 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町中央南 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町波野 ;
+    mo:SubRegion mr:JP_山口県熊毛郡田布施町別府 ;
+a mo:GeoEntity .
+
+mr:JP_山口県熊毛郡田布施町馬島
+    rdfs:label "馬島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町大波野
+    rdfs:label "大波野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町麻郷
+    rdfs:label "麻郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町麻郷奥
+    rdfs:label "麻郷奥"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町麻郷団地
+    rdfs:label "麻郷団地"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町上田布施
+    rdfs:label "上田布施"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町川西
+    rdfs:label "川西"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町下田布施
+    rdfs:label "下田布施"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町宿井
+    rdfs:label "宿井"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町中央南
+    rdfs:label "中央南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町波野
+    rdfs:label "波野"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡田布施町別府
+    rdfs:label "別府"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町
+    rdfs:label "熊毛郡平生町"@ja ;
+    mo:AreaCode "35344" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町宇佐木 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町大野南 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町大野北 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町尾国 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町小郡 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町佐賀 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町佐合島 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町曽根 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町竪ケ浜 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町平生町 ;
+    mo:SubRegion mr:JP_山口県熊毛郡平生町平生村 ;
+a mo:GeoEntity .
+
+mr:JP_山口県熊毛郡平生町宇佐木
+    rdfs:label "宇佐木"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町大野南
+    rdfs:label "大野南"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町大野北
+    rdfs:label "大野北"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町尾国
+    rdfs:label "尾国"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町小郡
+    rdfs:label "小郡"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町佐賀
+    rdfs:label "佐賀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町佐合島
+    rdfs:label "佐合島"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町曽根
+    rdfs:label "曽根"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町竪ケ浜
+    rdfs:label "竪ケ浜"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町平生町
+    rdfs:label "平生町"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県熊毛郡平生町平生村
+    rdfs:label "平生村"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県阿武郡阿武町
+    rdfs:label "阿武郡阿武町"@ja ;
+    mo:AreaCode "35502" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_山口県阿武郡阿武町宇田 ;
+    mo:SubRegion mr:JP_山口県阿武郡阿武町宇生賀 ;
+    mo:SubRegion mr:JP_山口県阿武郡阿武町木与 ;
+    mo:SubRegion mr:JP_山口県阿武郡阿武町惣郷 ;
+    mo:SubRegion mr:JP_山口県阿武郡阿武町奈古 ;
+    mo:SubRegion mr:JP_山口県阿武郡阿武町福田上 ;
+    mo:SubRegion mr:JP_山口県阿武郡阿武町福田下 ;
+a mo:GeoEntity .
+
+mr:JP_山口県阿武郡阿武町宇田
+    rdfs:label "宇田"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県阿武郡阿武町宇生賀
+    rdfs:label "宇生賀"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県阿武郡阿武町木与
+    rdfs:label "木与"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県阿武郡阿武町惣郷
+    rdfs:label "惣郷"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県阿武郡阿武町奈古
+    rdfs:label "奈古"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県阿武郡阿武町福田上
+    rdfs:label "福田上"@ja ;
+    a mo:町域 .
+
+mr:JP_山口県阿武郡阿武町福田下
+    rdfs:label "福田下"@ja ;
+    a mo:町域 .
+

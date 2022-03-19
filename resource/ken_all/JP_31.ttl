@@ -1,0 +1,7039 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_鳥取県
+    a mo:都道府県 ;
+    rdfs:label "鳥取県"@ja ;
+    mo:AreaCode "31" ;
+    mo:SubRegion mr:JP_鳥取県鳥取市 ;
+    mo:SubRegion mr:JP_鳥取県米子市 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市 ;
+    mo:SubRegion mr:JP_鳥取県境港市 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡日吉津村 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町 ;
+    a mo:GeoEntity .
+
+mr:JP_鳥取県鳥取市
+    rdfs:label "鳥取市"@ja ;
+    mo:AreaCode "31201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市相生町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青葉町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町青谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町井手 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町大坪 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町奥崎 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町小畑 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町紙屋 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町亀尻 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町河原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町北河原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町絹見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町楠根 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町蔵内 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町桑原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町栄町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町澄水 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町田原谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町露谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町長和瀬 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町鳴滝 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町八葉寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町早牛 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町山田 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町山根 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町養郷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町吉川 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市青谷町善田 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市秋里 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市赤子田 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市朝月 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市有富 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市猪子 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市今町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市岩倉 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市岩坪 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市岩吉 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市上原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市上町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市内海中 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市永楽温泉町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市江崎町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市江津 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市戎町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市円護寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市円通寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市扇町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市大榎町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市大杙 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市大塚 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市大畑 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市晩稲 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市桶屋町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市尾崎 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市面影 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市御弓町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市海蔵寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市覚寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市掛出町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市紙子谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鍛冶町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市片原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市桂木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市桂見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市香取 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市金沢 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市叶 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市上味野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市上魚町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市上砂見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市上段 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市賀露町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市賀露町北 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市賀露町西 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市賀露町南 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市川端 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町鮎ケ丘 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町稲常 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町今在家 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町牛戸 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町小倉 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町小河内 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町小畑 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町片山 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町釜口 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町河原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町神馬 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町北村 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町郷原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町佐貫 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町高福 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町谷一木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町天神原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町徳吉 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町中井 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町長瀬 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町西円通寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町曳田 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町袋河原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町布袋 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町本鹿 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町水根 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町三谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町山上 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町山手 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町湯谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町弓河内 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町八日市 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町渡一木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河原町和奈見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市瓦町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市北園 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市北村 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市行徳 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国安 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市雲山 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市蔵田 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市栗谷町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町飯里 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町会下 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町奥沢見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町下石 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町勝見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町上光 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町上原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町北浜 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町郡家 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町酒津 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町重高 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町下坂本 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町下原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町下光元 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町宿 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町新町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町高江 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町常松 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町土居 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町殿 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町冨吉 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町日光 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町二本木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町浜村 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町宝木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町睦逢 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町八束水 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町山宮 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市気高町八幡 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市玄好町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市源太 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市越路 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市河内 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市興南町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市高路 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町麻生 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町雨滝 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町荒舟 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町糸谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町稲葉丘 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町石井谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町大石 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町岡益 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町奥谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町上荒舟 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町上上地 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町神護 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町木原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町神垣 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町国分寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町三代寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町拾石 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町下木原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町新通り ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町新町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町菅野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町清水 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町高岡 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町玉鉾 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町中郷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町庁 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町栃本 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町殿 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町中河原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町楠城 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町新井 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町広西 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町分上 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町法花寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町町屋 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町松尾 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町美歎 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町宮下 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町山崎 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町山根 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町吉野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市国府町上地 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市古郡家 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市小西谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市小沢見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市五反田町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市寿町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市湖山町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市湖山町東 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市湖山町西 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市湖山町南 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市湖山町北 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市材木町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市幸町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市栄町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市桜谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町大井 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町尾際 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町葛谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町加瀬木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町加茂 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町刈地 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町河本 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町小原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町高山 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町つく谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町津無 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町津野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町栃原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町中 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町畑 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町福園 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町古市 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町森坪 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市佐治町余戸 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市里仁 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町今市 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町岡木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町乙亥正 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町河内 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町小別所 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町鹿野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町鷲峯 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町末用 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町寺内 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町閉野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町中園 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町広木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町水谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市鹿野町宮方 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市倭文 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市篠坂 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市嶋 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市下味野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市下砂見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市下段 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市商栄町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市生山 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市尚徳町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市菖蒲 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市正蓮寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市職人町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市新 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市新品治町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市新町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市末広温泉町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市杉崎 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市数津 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市瀬田蔵 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市双六原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市大桷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市大覚寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市高住 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市大工町頭 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市滝山 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市竹生 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市田島 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市立川町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市玉津 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市足山 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市茶町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市千代水 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市津ノ井 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市寺町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市田園町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市天神町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市徳尾 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市徳吉 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市富安 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市中大路 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市中砂見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市中町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市中村 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市長柄 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市南栄町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市二階町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市西今在家 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市西円通寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市西大路 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市西品治 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市西町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市祢宜谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市野坂 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市野寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市白兎 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市橋本 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市長谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市八坂 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市服部 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市馬場 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市馬場町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市浜坂 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市浜坂東 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市東今在家 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市東大路 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市東品治町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市東町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市久末 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市広岡 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福井 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町海士 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町岩戸 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町久志羅 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町蔵見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町栗谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町左近 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町高江 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町中 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町南田 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町細川 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町八重原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町箭溪 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町湯山 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市伏野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市布勢 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市船木 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市古市 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市古海 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市卯垣 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市庖丁人町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市細見 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市洞谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市本町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市槇原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市松上 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市松並町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市松原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市的場 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市丸山町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市御熊 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市三津 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市緑ケ丘 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市港町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市南隈 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市南町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市南安長 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市南吉方 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市美萩野 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市宮谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市宮長 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市三山口 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市妙徳寺 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市美和 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市向国安 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町赤波 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町旭ケ丘 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町安蔵 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町家奥 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町江波 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町金屋 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町川中 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町樟原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町鷹狩 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町古用瀬 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町別府 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町美成 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町宮原 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町用瀬 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市用瀬町屋住 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市元魚町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市元大工町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市本高 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市元町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市百谷 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市薬師町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市安長 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市矢矯 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市山城町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市弥生町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市湯所町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市横枕 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市吉岡温泉町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市吉方 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市吉方温泉 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市吉方町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市良田 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市吉成 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市吉成南町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市六反田 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市若桜町 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市若葉台南 ;
+    mo:SubRegion mr:JP_鳥取県鳥取市若葉台北 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県鳥取市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青葉町
+    rdfs:label "青葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町青谷
+    rdfs:label "青谷町青谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町井手
+    rdfs:label "青谷町井手"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町大坪
+    rdfs:label "青谷町大坪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町奥崎
+    rdfs:label "青谷町奥崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町小畑
+    rdfs:label "青谷町小畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町紙屋
+    rdfs:label "青谷町紙屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町亀尻
+    rdfs:label "青谷町亀尻"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町河原
+    rdfs:label "青谷町河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町北河原
+    rdfs:label "青谷町北河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町絹見
+    rdfs:label "青谷町絹見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町楠根
+    rdfs:label "青谷町楠根"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町蔵内
+    rdfs:label "青谷町蔵内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町桑原
+    rdfs:label "青谷町桑原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町栄町
+    rdfs:label "青谷町栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町澄水
+    rdfs:label "青谷町澄水"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町田原谷
+    rdfs:label "青谷町田原谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町露谷
+    rdfs:label "青谷町露谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町長和瀬
+    rdfs:label "青谷町長和瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町鳴滝
+    rdfs:label "青谷町鳴滝"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町八葉寺
+    rdfs:label "青谷町八葉寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町早牛
+    rdfs:label "青谷町早牛"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町山田
+    rdfs:label "青谷町山田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町山根
+    rdfs:label "青谷町山根"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町養郷
+    rdfs:label "青谷町養郷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町吉川
+    rdfs:label "青谷町吉川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市青谷町善田
+    rdfs:label "青谷町善田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市秋里
+    rdfs:label "秋里"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市赤子田
+    rdfs:label "赤子田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市朝月
+    rdfs:label "朝月"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市有富
+    rdfs:label "有富"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市猪子
+    rdfs:label "猪子"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市今町
+    rdfs:label "今町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市岩倉
+    rdfs:label "岩倉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市岩坪
+    rdfs:label "岩坪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市岩吉
+    rdfs:label "岩吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市上原
+    rdfs:label "上原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市上町
+    rdfs:label "上町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市内海中
+    rdfs:label "内海中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市永楽温泉町
+    rdfs:label "永楽温泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市江崎町
+    rdfs:label "江崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市江津
+    rdfs:label "江津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市戎町
+    rdfs:label "戎町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市円護寺
+    rdfs:label "円護寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市円通寺
+    rdfs:label "円通寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市扇町
+    rdfs:label "扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市大榎町
+    rdfs:label "大榎町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市大杙
+    rdfs:label "大杙"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市大塚
+    rdfs:label "大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市大畑
+    rdfs:label "大畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市晩稲
+    rdfs:label "晩稲"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市桶屋町
+    rdfs:label "桶屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市尾崎
+    rdfs:label "尾崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市面影
+    rdfs:label "面影"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市御弓町
+    rdfs:label "御弓町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市海蔵寺
+    rdfs:label "海蔵寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市覚寺
+    rdfs:label "覚寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市掛出町
+    rdfs:label "掛出町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市紙子谷
+    rdfs:label "紙子谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鍛冶町
+    rdfs:label "鍛冶町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市片原
+    rdfs:label "片原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市桂木
+    rdfs:label "桂木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市桂見
+    rdfs:label "桂見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市香取
+    rdfs:label "香取"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市金沢
+    rdfs:label "金沢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市叶
+    rdfs:label "叶"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市上味野
+    rdfs:label "上味野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市上魚町
+    rdfs:label "上魚町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市上砂見
+    rdfs:label "上砂見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市上段
+    rdfs:label "上段"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市賀露町
+    rdfs:label "賀露町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市賀露町北
+    rdfs:label "賀露町北"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市賀露町西
+    rdfs:label "賀露町西"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市賀露町南
+    rdfs:label "賀露町南"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市川端
+    rdfs:label "川端"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町鮎ケ丘
+    rdfs:label "河原町鮎ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町稲常
+    rdfs:label "河原町稲常"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町今在家
+    rdfs:label "河原町今在家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町牛戸
+    rdfs:label "河原町牛戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町小倉
+    rdfs:label "河原町小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町小河内
+    rdfs:label "河原町小河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町小畑
+    rdfs:label "河原町小畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町片山
+    rdfs:label "河原町片山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町釜口
+    rdfs:label "河原町釜口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町河原
+    rdfs:label "河原町河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町神馬
+    rdfs:label "河原町神馬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町北村
+    rdfs:label "河原町北村"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町郷原
+    rdfs:label "河原町郷原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町佐貫
+    rdfs:label "河原町佐貫"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町高福
+    rdfs:label "河原町高福"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町谷一木
+    rdfs:label "河原町谷一木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町天神原
+    rdfs:label "河原町天神原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町徳吉
+    rdfs:label "河原町徳吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町中井
+    rdfs:label "河原町中井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町長瀬
+    rdfs:label "河原町長瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町西円通寺
+    rdfs:label "河原町西円通寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町曳田
+    rdfs:label "河原町曳田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町袋河原
+    rdfs:label "河原町袋河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町布袋
+    rdfs:label "河原町布袋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町本鹿
+    rdfs:label "河原町本鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町水根
+    rdfs:label "河原町水根"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町三谷
+    rdfs:label "河原町三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町山上
+    rdfs:label "河原町山上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町山手
+    rdfs:label "河原町山手"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町湯谷
+    rdfs:label "河原町湯谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町弓河内
+    rdfs:label "河原町弓河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町八日市
+    rdfs:label "河原町八日市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町渡一木
+    rdfs:label "河原町渡一木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河原町和奈見
+    rdfs:label "河原町和奈見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市瓦町
+    rdfs:label "瓦町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市北園
+    rdfs:label "北園"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市北村
+    rdfs:label "北村"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市行徳
+    rdfs:label "行徳"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国安
+    rdfs:label "国安"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市雲山
+    rdfs:label "雲山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市蔵田
+    rdfs:label "蔵田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市栗谷町
+    rdfs:label "栗谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町飯里
+    rdfs:label "気高町飯里"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町会下
+    rdfs:label "気高町会下"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町奥沢見
+    rdfs:label "気高町奥沢見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町下石
+    rdfs:label "気高町下石"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町勝見
+    rdfs:label "気高町勝見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町上光
+    rdfs:label "気高町上光"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町上原
+    rdfs:label "気高町上原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町北浜
+    rdfs:label "気高町北浜"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町郡家
+    rdfs:label "気高町郡家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町酒津
+    rdfs:label "気高町酒津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町重高
+    rdfs:label "気高町重高"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町下坂本
+    rdfs:label "気高町下坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町下原
+    rdfs:label "気高町下原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町下光元
+    rdfs:label "気高町下光元"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町宿
+    rdfs:label "気高町宿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町新町
+    rdfs:label "気高町新町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町高江
+    rdfs:label "気高町高江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町常松
+    rdfs:label "気高町常松"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町土居
+    rdfs:label "気高町土居"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町殿
+    rdfs:label "気高町殿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町冨吉
+    rdfs:label "気高町冨吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町日光
+    rdfs:label "気高町日光"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町二本木
+    rdfs:label "気高町二本木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町浜村
+    rdfs:label "気高町浜村"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町宝木
+    rdfs:label "気高町宝木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町睦逢
+    rdfs:label "気高町睦逢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町八束水
+    rdfs:label "気高町八束水"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町山宮
+    rdfs:label "気高町山宮"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市気高町八幡
+    rdfs:label "気高町八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市玄好町
+    rdfs:label "玄好町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市源太
+    rdfs:label "源太"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市越路
+    rdfs:label "越路"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市興南町
+    rdfs:label "興南町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市高路
+    rdfs:label "高路"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町麻生
+    rdfs:label "国府町麻生"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町雨滝
+    rdfs:label "国府町雨滝"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町荒舟
+    rdfs:label "国府町荒舟"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町糸谷
+    rdfs:label "国府町糸谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町稲葉丘
+    rdfs:label "国府町稲葉丘"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町石井谷
+    rdfs:label "国府町石井谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町大石
+    rdfs:label "国府町大石"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町岡益
+    rdfs:label "国府町岡益"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町奥谷
+    rdfs:label "国府町奥谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町上荒舟
+    rdfs:label "国府町上荒舟"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町上上地
+    rdfs:label "国府町上上地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町神護
+    rdfs:label "国府町神護"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町木原
+    rdfs:label "国府町木原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町神垣
+    rdfs:label "国府町神垣"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町国分寺
+    rdfs:label "国府町国分寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町三代寺
+    rdfs:label "国府町三代寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町拾石
+    rdfs:label "国府町拾石"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町下木原
+    rdfs:label "国府町下木原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町新通り
+    rdfs:label "国府町新通り"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町新町
+    rdfs:label "国府町新町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町菅野
+    rdfs:label "国府町菅野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町清水
+    rdfs:label "国府町清水"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町高岡
+    rdfs:label "国府町高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町谷
+    rdfs:label "国府町谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町玉鉾
+    rdfs:label "国府町玉鉾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町中郷
+    rdfs:label "国府町中郷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町庁
+    rdfs:label "国府町庁"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町栃本
+    rdfs:label "国府町栃本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町殿
+    rdfs:label "国府町殿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町中河原
+    rdfs:label "国府町中河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町楠城
+    rdfs:label "国府町楠城"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町新井
+    rdfs:label "国府町新井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町広西
+    rdfs:label "国府町広西"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町分上
+    rdfs:label "国府町分上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町法花寺
+    rdfs:label "国府町法花寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町町屋
+    rdfs:label "国府町町屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町松尾
+    rdfs:label "国府町松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町美歎
+    rdfs:label "国府町美歎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町宮下
+    rdfs:label "国府町宮下"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町山崎
+    rdfs:label "国府町山崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町山根
+    rdfs:label "国府町山根"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町吉野
+    rdfs:label "国府町吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市国府町上地
+    rdfs:label "国府町上地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市古郡家
+    rdfs:label "古郡家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市小西谷
+    rdfs:label "小西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市小沢見
+    rdfs:label "小沢見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市五反田町
+    rdfs:label "五反田町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市湖山町
+    rdfs:label "湖山町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市湖山町東
+    rdfs:label "湖山町東"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市湖山町西
+    rdfs:label "湖山町西"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市湖山町南
+    rdfs:label "湖山町南"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市湖山町北
+    rdfs:label "湖山町北"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市材木町
+    rdfs:label "材木町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市桜谷
+    rdfs:label "桜谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町大井
+    rdfs:label "佐治町大井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町尾際
+    rdfs:label "佐治町尾際"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町葛谷
+    rdfs:label "佐治町葛谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町加瀬木
+    rdfs:label "佐治町加瀬木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町加茂
+    rdfs:label "佐治町加茂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町刈地
+    rdfs:label "佐治町刈地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町河本
+    rdfs:label "佐治町河本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町小原
+    rdfs:label "佐治町小原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町高山
+    rdfs:label "佐治町高山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町つく谷
+    rdfs:label "佐治町つく谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町津無
+    rdfs:label "佐治町津無"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町津野
+    rdfs:label "佐治町津野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町栃原
+    rdfs:label "佐治町栃原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町中
+    rdfs:label "佐治町中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町畑
+    rdfs:label "佐治町畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町福園
+    rdfs:label "佐治町福園"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町古市
+    rdfs:label "佐治町古市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町森坪
+    rdfs:label "佐治町森坪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市佐治町余戸
+    rdfs:label "佐治町余戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市里仁
+    rdfs:label "里仁"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町今市
+    rdfs:label "鹿野町今市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町岡木
+    rdfs:label "鹿野町岡木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町乙亥正
+    rdfs:label "鹿野町乙亥正"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町河内
+    rdfs:label "鹿野町河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町小別所
+    rdfs:label "鹿野町小別所"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町鹿野
+    rdfs:label "鹿野町鹿野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町鷲峯
+    rdfs:label "鹿野町鷲峯"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町末用
+    rdfs:label "鹿野町末用"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町寺内
+    rdfs:label "鹿野町寺内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町閉野
+    rdfs:label "鹿野町閉野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町中園
+    rdfs:label "鹿野町中園"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町広木
+    rdfs:label "鹿野町広木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町水谷
+    rdfs:label "鹿野町水谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市鹿野町宮方
+    rdfs:label "鹿野町宮方"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市倭文
+    rdfs:label "倭文"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市篠坂
+    rdfs:label "篠坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市嶋
+    rdfs:label "嶋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市下味野
+    rdfs:label "下味野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市下砂見
+    rdfs:label "下砂見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市下段
+    rdfs:label "下段"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市商栄町
+    rdfs:label "商栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市生山
+    rdfs:label "生山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市尚徳町
+    rdfs:label "尚徳町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市菖蒲
+    rdfs:label "菖蒲"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市正蓮寺
+    rdfs:label "正蓮寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市職人町
+    rdfs:label "職人町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市新
+    rdfs:label "新"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市新品治町
+    rdfs:label "新品治町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市末広温泉町
+    rdfs:label "末広温泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市杉崎
+    rdfs:label "杉崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市数津
+    rdfs:label "数津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市瀬田蔵
+    rdfs:label "瀬田蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市双六原
+    rdfs:label "双六原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市大桷
+    rdfs:label "大桷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市大覚寺
+    rdfs:label "大覚寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市高住
+    rdfs:label "高住"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市大工町頭
+    rdfs:label "大工町頭"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市滝山
+    rdfs:label "滝山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市竹生
+    rdfs:label "竹生"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市田島
+    rdfs:label "田島"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市立川町
+    rdfs:label "立川町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市玉津
+    rdfs:label "玉津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市足山
+    rdfs:label "足山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市茶町
+    rdfs:label "茶町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市千代水
+    rdfs:label "千代水"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市津ノ井
+    rdfs:label "津ノ井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市寺町
+    rdfs:label "寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市田園町
+    rdfs:label "田園町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市徳尾
+    rdfs:label "徳尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市徳吉
+    rdfs:label "徳吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市富安
+    rdfs:label "富安"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市中大路
+    rdfs:label "中大路"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市中砂見
+    rdfs:label "中砂見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市長柄
+    rdfs:label "長柄"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市南栄町
+    rdfs:label "南栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市二階町
+    rdfs:label "二階町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市西今在家
+    rdfs:label "西今在家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市西円通寺
+    rdfs:label "西円通寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市西大路
+    rdfs:label "西大路"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市西品治
+    rdfs:label "西品治"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市祢宜谷
+    rdfs:label "祢宜谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市野坂
+    rdfs:label "野坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市野寺
+    rdfs:label "野寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市白兎
+    rdfs:label "白兎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市橋本
+    rdfs:label "橋本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市長谷
+    rdfs:label "長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市八坂
+    rdfs:label "八坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市服部
+    rdfs:label "服部"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市馬場
+    rdfs:label "馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市馬場町
+    rdfs:label "馬場町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市浜坂
+    rdfs:label "浜坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市浜坂東
+    rdfs:label "浜坂東"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市東今在家
+    rdfs:label "東今在家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市東大路
+    rdfs:label "東大路"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市東品治町
+    rdfs:label "東品治町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市久末
+    rdfs:label "久末"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市広岡
+    rdfs:label "広岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福井
+    rdfs:label "福井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町海士
+    rdfs:label "福部町海士"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町岩戸
+    rdfs:label "福部町岩戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町久志羅
+    rdfs:label "福部町久志羅"@ja ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町久志羅上野 ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町久志羅上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町蔵見
+    rdfs:label "福部町蔵見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町栗谷
+    rdfs:label "福部町栗谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町左近
+    rdfs:label "福部町左近"@ja ;
+    mo:SubRegion mr:JP_鳥取県鳥取市福部町左近上野 ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町左近上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町高江
+    rdfs:label "福部町高江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町中
+    rdfs:label "福部町中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町南田
+    rdfs:label "福部町南田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町細川
+    rdfs:label "福部町細川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町八重原
+    rdfs:label "福部町八重原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町箭溪
+    rdfs:label "福部町箭溪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市福部町湯山
+    rdfs:label "福部町湯山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市伏野
+    rdfs:label "伏野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市布勢
+    rdfs:label "布勢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市船木
+    rdfs:label "船木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市古市
+    rdfs:label "古市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市古海
+    rdfs:label "古海"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市卯垣
+    rdfs:label "卯垣"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市庖丁人町
+    rdfs:label "庖丁人町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市細見
+    rdfs:label "細見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市洞谷
+    rdfs:label "洞谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市槇原
+    rdfs:label "槇原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市松上
+    rdfs:label "松上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市松並町
+    rdfs:label "松並町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市的場
+    rdfs:label "的場"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市御熊
+    rdfs:label "御熊"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市三津
+    rdfs:label "三津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市南隈
+    rdfs:label "南隈"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市南安長
+    rdfs:label "南安長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市南吉方
+    rdfs:label "南吉方"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市美萩野
+    rdfs:label "美萩野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市宮谷
+    rdfs:label "宮谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市宮長
+    rdfs:label "宮長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市三山口
+    rdfs:label "三山口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市妙徳寺
+    rdfs:label "妙徳寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市美和
+    rdfs:label "美和"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市向国安
+    rdfs:label "向国安"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町赤波
+    rdfs:label "用瀬町赤波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町旭ケ丘
+    rdfs:label "用瀬町旭ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町安蔵
+    rdfs:label "用瀬町安蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町家奥
+    rdfs:label "用瀬町家奥"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町江波
+    rdfs:label "用瀬町江波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町金屋
+    rdfs:label "用瀬町金屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町川中
+    rdfs:label "用瀬町川中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町樟原
+    rdfs:label "用瀬町樟原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町鷹狩
+    rdfs:label "用瀬町鷹狩"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町古用瀬
+    rdfs:label "用瀬町古用瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町別府
+    rdfs:label "用瀬町別府"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町美成
+    rdfs:label "用瀬町美成"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町宮原
+    rdfs:label "用瀬町宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町用瀬
+    rdfs:label "用瀬町用瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市用瀬町屋住
+    rdfs:label "用瀬町屋住"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市元魚町
+    rdfs:label "元魚町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市元大工町
+    rdfs:label "元大工町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市本高
+    rdfs:label "本高"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市百谷
+    rdfs:label "百谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市薬師町
+    rdfs:label "薬師町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市安長
+    rdfs:label "安長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市矢矯
+    rdfs:label "矢矯"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市山城町
+    rdfs:label "山城町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市湯所町
+    rdfs:label "湯所町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市横枕
+    rdfs:label "横枕"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市吉岡温泉町
+    rdfs:label "吉岡温泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市吉方
+    rdfs:label "吉方"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市吉方温泉
+    rdfs:label "吉方温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市吉方町
+    rdfs:label "吉方町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市良田
+    rdfs:label "良田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市吉成
+    rdfs:label "吉成"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市吉成南町
+    rdfs:label "吉成南町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市六反田
+    rdfs:label "六反田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市若桜町
+    rdfs:label "若桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市若葉台南
+    rdfs:label "若葉台南"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県鳥取市若葉台北
+    rdfs:label "若葉台北"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市
+    rdfs:label "米子市"@ja ;
+    mo:AreaCode "31202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県米子市青木 ;
+    mo:SubRegion mr:JP_鳥取県米子市赤井手 ;
+    mo:SubRegion mr:JP_鳥取県米子市朝日町 ;
+    mo:SubRegion mr:JP_鳥取県米子市愛宕町 ;
+    mo:SubRegion mr:JP_鳥取県米子市安倍 ;
+    mo:SubRegion mr:JP_鳥取県米子市石井 ;
+    mo:SubRegion mr:JP_鳥取県米子市泉 ;
+    mo:SubRegion mr:JP_鳥取県米子市一部 ;
+    mo:SubRegion mr:JP_鳥取県米子市今在家 ;
+    mo:SubRegion mr:JP_鳥取県米子市岩倉町 ;
+    mo:SubRegion mr:JP_鳥取県米子市陰田町 ;
+    mo:SubRegion mr:JP_鳥取県米子市内町 ;
+    mo:SubRegion mr:JP_鳥取県米子市浦津 ;
+    mo:SubRegion mr:JP_鳥取県米子市榎原 ;
+    mo:SubRegion mr:JP_鳥取県米子市大崎 ;
+    mo:SubRegion mr:JP_鳥取県米子市大篠津町 ;
+    mo:SubRegion mr:JP_鳥取県米子市大谷町 ;
+    mo:SubRegion mr:JP_鳥取県米子市大袋 ;
+    mo:SubRegion mr:JP_鳥取県米子市岡成 ;
+    mo:SubRegion mr:JP_鳥取県米子市奥谷 ;
+    mo:SubRegion mr:JP_鳥取県米子市尾高 ;
+    mo:SubRegion mr:JP_鳥取県米子市尾高町 ;
+    mo:SubRegion mr:JP_鳥取県米子市皆生 ;
+    mo:SubRegion mr:JP_鳥取県米子市皆生温泉 ;
+    mo:SubRegion mr:JP_鳥取県米子市皆生新田 ;
+    mo:SubRegion mr:JP_鳥取県米子市角盤町 ;
+    mo:SubRegion mr:JP_鳥取県米子市兼久 ;
+    mo:SubRegion mr:JP_鳥取県米子市上安曇 ;
+    mo:SubRegion mr:JP_鳥取県米子市上後藤 ;
+    mo:SubRegion mr:JP_鳥取県米子市上新印 ;
+    mo:SubRegion mr:JP_鳥取県米子市上福原 ;
+    mo:SubRegion mr:JP_鳥取県米子市加茂町 ;
+    mo:SubRegion mr:JP_鳥取県米子市蚊屋 ;
+    mo:SubRegion mr:JP_鳥取県米子市河岡 ;
+    mo:SubRegion mr:JP_鳥取県米子市河崎 ;
+    mo:SubRegion mr:JP_鳥取県米子市勝田町 ;
+    mo:SubRegion mr:JP_鳥取県米子市観音寺 ;
+    mo:SubRegion mr:JP_鳥取県米子市観音寺新町 ;
+    mo:SubRegion mr:JP_鳥取県米子市祇園町 ;
+    mo:SubRegion mr:JP_鳥取県米子市義方町 ;
+    mo:SubRegion mr:JP_鳥取県米子市錦海町 ;
+    mo:SubRegion mr:JP_鳥取県米子市日下 ;
+    mo:SubRegion mr:JP_鳥取県米子市車尾 ;
+    mo:SubRegion mr:JP_鳥取県米子市車尾南 ;
+    mo:SubRegion mr:JP_鳥取県米子市熊党 ;
+    mo:SubRegion mr:JP_鳥取県米子市久米町 ;
+    mo:SubRegion mr:JP_鳥取県米子市糀町 ;
+    mo:SubRegion mr:JP_鳥取県米子市紺屋町 ;
+    mo:SubRegion mr:JP_鳥取県米子市古豊千 ;
+    mo:SubRegion mr:JP_鳥取県米子市三本松 ;
+    mo:SubRegion mr:JP_鳥取県米子市塩町 ;
+    mo:SubRegion mr:JP_鳥取県米子市下安曇 ;
+    mo:SubRegion mr:JP_鳥取県米子市下新印 ;
+    mo:SubRegion mr:JP_鳥取県米子市下郷 ;
+    mo:SubRegion mr:JP_鳥取県米子市昭和町 ;
+    mo:SubRegion mr:JP_鳥取県米子市新開 ;
+    mo:SubRegion mr:JP_鳥取県米子市末広町 ;
+    mo:SubRegion mr:JP_鳥取県米子市諏訪 ;
+    mo:SubRegion mr:JP_鳥取県米子市石州府 ;
+    mo:SubRegion mr:JP_鳥取県米子市大工町 ;
+    mo:SubRegion mr:JP_鳥取県米子市高島 ;
+    mo:SubRegion mr:JP_鳥取県米子市立町 ;
+    mo:SubRegion mr:JP_鳥取県米子市茶町 ;
+    mo:SubRegion mr:JP_鳥取県米子市寺町 ;
+    mo:SubRegion mr:JP_鳥取県米子市天神町 ;
+    mo:SubRegion mr:JP_鳥取県米子市道笑町 ;
+    mo:SubRegion mr:JP_鳥取県米子市富益町 ;
+    mo:SubRegion mr:JP_鳥取県米子市中島 ;
+    mo:SubRegion mr:JP_鳥取県米子市中町 ;
+    mo:SubRegion mr:JP_鳥取県米子市永江 ;
+    mo:SubRegion mr:JP_鳥取県米子市長砂町 ;
+    mo:SubRegion mr:JP_鳥取県米子市奈喜良 ;
+    mo:SubRegion mr:JP_鳥取県米子市灘町 ;
+    mo:SubRegion mr:JP_鳥取県米子市新山 ;
+    mo:SubRegion mr:JP_鳥取県米子市錦町 ;
+    mo:SubRegion mr:JP_鳥取県米子市西倉吉町 ;
+    mo:SubRegion mr:JP_鳥取県米子市西町 ;
+    mo:SubRegion mr:JP_鳥取県米子市西福原 ;
+    mo:SubRegion mr:JP_鳥取県米子市二本木 ;
+    mo:SubRegion mr:JP_鳥取県米子市博労町 ;
+    mo:SubRegion mr:JP_鳥取県米子市橋本 ;
+    mo:SubRegion mr:JP_鳥取県米子市旗ヶ崎 ;
+    mo:SubRegion mr:JP_鳥取県米子市花園町 ;
+    mo:SubRegion mr:JP_鳥取県米子市東倉吉町 ;
+    mo:SubRegion mr:JP_鳥取県米子市東町 ;
+    mo:SubRegion mr:JP_鳥取県米子市東福原 ;
+    mo:SubRegion mr:JP_鳥取県米子市東山町 ;
+    mo:SubRegion mr:JP_鳥取県米子市東八幡 ;
+    mo:SubRegion mr:JP_鳥取県米子市彦名新田 ;
+    mo:SubRegion mr:JP_鳥取県米子市彦名町 ;
+    mo:SubRegion mr:JP_鳥取県米子市日ノ出町 ;
+    mo:SubRegion mr:JP_鳥取県米子市日野町 ;
+    mo:SubRegion mr:JP_鳥取県米子市日原 ;
+    mo:SubRegion mr:JP_鳥取県米子市福市 ;
+    mo:SubRegion mr:JP_鳥取県米子市福万 ;
+    mo:SubRegion mr:JP_鳥取県米子市冨士見町 ;
+    mo:SubRegion mr:JP_鳥取県米子市古市 ;
+    mo:SubRegion mr:JP_鳥取県米子市別所 ;
+    mo:SubRegion mr:JP_鳥取県米子市法勝寺町 ;
+    mo:SubRegion mr:JP_鳥取県米子市万能町 ;
+    mo:SubRegion mr:JP_鳥取県米子市水浜 ;
+    mo:SubRegion mr:JP_鳥取県米子市三旗町 ;
+    mo:SubRegion mr:JP_鳥取県米子市美吉 ;
+    mo:SubRegion mr:JP_鳥取県米子市宗像 ;
+    mo:SubRegion mr:JP_鳥取県米子市明治町 ;
+    mo:SubRegion mr:JP_鳥取県米子市目久美町 ;
+    mo:SubRegion mr:JP_鳥取県米子市弥生町 ;
+    mo:SubRegion mr:JP_鳥取県米子市八幡 ;
+    mo:SubRegion mr:JP_鳥取県米子市陽田町 ;
+    mo:SubRegion mr:JP_鳥取県米子市吉岡 ;
+    mo:SubRegion mr:JP_鳥取県米子市吉谷 ;
+    mo:SubRegion mr:JP_鳥取県米子市葭津 ;
+    mo:SubRegion mr:JP_鳥取県米子市四日市町 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町稲吉 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町今津 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町小波 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町佐陀 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町高井谷 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町富繁 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町中西尾 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町中間 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町西尾原 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町西原 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町平岡 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町福井 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町福岡 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町福頼 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町本宮 ;
+    mo:SubRegion mr:JP_鳥取県米子市淀江町淀江 ;
+    mo:SubRegion mr:JP_鳥取県米子市米原 ;
+    mo:SubRegion mr:JP_鳥取県米子市夜見町 ;
+    mo:SubRegion mr:JP_鳥取県米子市流通町 ;
+    mo:SubRegion mr:JP_鳥取県米子市両三柳 ;
+    mo:SubRegion mr:JP_鳥取県米子市和田町 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県米子市青木
+    rdfs:label "青木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市赤井手
+    rdfs:label "赤井手"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市愛宕町
+    rdfs:label "愛宕町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市安倍
+    rdfs:label "安倍"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市石井
+    rdfs:label "石井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市泉
+    rdfs:label "泉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市一部
+    rdfs:label "一部"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市今在家
+    rdfs:label "今在家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市岩倉町
+    rdfs:label "岩倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市陰田町
+    rdfs:label "陰田町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市内町
+    rdfs:label "内町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市浦津
+    rdfs:label "浦津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市榎原
+    rdfs:label "榎原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市大崎
+    rdfs:label "大崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市大篠津町
+    rdfs:label "大篠津町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市大谷町
+    rdfs:label "大谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市大袋
+    rdfs:label "大袋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市岡成
+    rdfs:label "岡成"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市奥谷
+    rdfs:label "奥谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市尾高
+    rdfs:label "尾高"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市尾高町
+    rdfs:label "尾高町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市皆生
+    rdfs:label "皆生"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市皆生温泉
+    rdfs:label "皆生温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市皆生新田
+    rdfs:label "皆生新田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市角盤町
+    rdfs:label "角盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市兼久
+    rdfs:label "兼久"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市上安曇
+    rdfs:label "上安曇"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市上後藤
+    rdfs:label "上後藤"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市上新印
+    rdfs:label "上新印"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市上福原
+    rdfs:label "上福原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市加茂町
+    rdfs:label "加茂町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市蚊屋
+    rdfs:label "蚊屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市河岡
+    rdfs:label "河岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市河崎
+    rdfs:label "河崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市勝田町
+    rdfs:label "勝田町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市観音寺
+    rdfs:label "観音寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市観音寺新町
+    rdfs:label "観音寺新町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市祇園町
+    rdfs:label "祇園町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市義方町
+    rdfs:label "義方町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市錦海町
+    rdfs:label "錦海町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市日下
+    rdfs:label "日下"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市車尾
+    rdfs:label "車尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市車尾南
+    rdfs:label "車尾南"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市熊党
+    rdfs:label "熊党"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市久米町
+    rdfs:label "久米町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市糀町
+    rdfs:label "糀町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市紺屋町
+    rdfs:label "紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市古豊千
+    rdfs:label "古豊千"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市三本松
+    rdfs:label "三本松"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市塩町
+    rdfs:label "塩町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市下安曇
+    rdfs:label "下安曇"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市下新印
+    rdfs:label "下新印"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市下郷
+    rdfs:label "下郷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市新開
+    rdfs:label "新開"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市諏訪
+    rdfs:label "諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市石州府
+    rdfs:label "石州府"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市大工町
+    rdfs:label "大工町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市高島
+    rdfs:label "高島"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市立町
+    rdfs:label "立町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市茶町
+    rdfs:label "茶町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市寺町
+    rdfs:label "寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市道笑町
+    rdfs:label "道笑町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市富益町
+    rdfs:label "富益町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市中島
+    rdfs:label "中島"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市永江
+    rdfs:label "永江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市長砂町
+    rdfs:label "長砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市奈喜良
+    rdfs:label "奈喜良"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市灘町
+    rdfs:label "灘町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市新山
+    rdfs:label "新山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市西倉吉町
+    rdfs:label "西倉吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市西福原
+    rdfs:label "西福原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市二本木
+    rdfs:label "二本木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市博労町
+    rdfs:label "博労町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市橋本
+    rdfs:label "橋本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市旗ヶ崎
+    rdfs:label "旗ヶ崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市東倉吉町
+    rdfs:label "東倉吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市東福原
+    rdfs:label "東福原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市東山町
+    rdfs:label "東山町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市東八幡
+    rdfs:label "東八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市彦名新田
+    rdfs:label "彦名新田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市彦名町
+    rdfs:label "彦名町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市日ノ出町
+    rdfs:label "日ノ出町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市日野町
+    rdfs:label "日野町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市日原
+    rdfs:label "日原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市福市
+    rdfs:label "福市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市福万
+    rdfs:label "福万"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市冨士見町
+    rdfs:label "冨士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市古市
+    rdfs:label "古市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市別所
+    rdfs:label "別所"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市法勝寺町
+    rdfs:label "法勝寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市万能町
+    rdfs:label "万能町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市水浜
+    rdfs:label "水浜"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市三旗町
+    rdfs:label "三旗町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市美吉
+    rdfs:label "美吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市宗像
+    rdfs:label "宗像"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市明治町
+    rdfs:label "明治町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市目久美町
+    rdfs:label "目久美町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市陽田町
+    rdfs:label "陽田町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市吉岡
+    rdfs:label "吉岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市吉谷
+    rdfs:label "吉谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市葭津
+    rdfs:label "葭津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市四日市町
+    rdfs:label "四日市町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町稲吉
+    rdfs:label "淀江町稲吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町今津
+    rdfs:label "淀江町今津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町小波
+    rdfs:label "淀江町小波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町佐陀
+    rdfs:label "淀江町佐陀"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町高井谷
+    rdfs:label "淀江町高井谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町富繁
+    rdfs:label "淀江町富繁"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町中西尾
+    rdfs:label "淀江町中西尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町中間
+    rdfs:label "淀江町中間"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町西尾原
+    rdfs:label "淀江町西尾原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町西原
+    rdfs:label "淀江町西原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町平岡
+    rdfs:label "淀江町平岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町福井
+    rdfs:label "淀江町福井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町福岡
+    rdfs:label "淀江町福岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町福頼
+    rdfs:label "淀江町福頼"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町本宮
+    rdfs:label "淀江町本宮"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市淀江町淀江
+    rdfs:label "淀江町淀江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市米原
+    rdfs:label "米原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市夜見町
+    rdfs:label "夜見町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市流通町
+    rdfs:label "流通町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市両三柳
+    rdfs:label "両三柳"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県米子市和田町
+    rdfs:label "和田町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市
+    rdfs:label "倉吉市"@ja ;
+    mo:AreaCode "31203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市葵町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上井 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上井町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市旭田町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市穴窪 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市穴沢 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市伊木 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市生田 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市石塚 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市井手畑 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市今在家 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市巌城 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市岩倉 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市魚町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上灘町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市越中町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市円谷町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大河内 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大沢 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大立 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大谷 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大谷茶屋 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大塚 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大平町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大宮 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市岡 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市小鴨 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市尾田 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大原 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市尾原 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市海田東町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市海田西町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市海田南町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市鍛冶町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上神 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市忰谷 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市金森町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市河北町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上大立 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上福田 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上古川 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上余戸 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市上米積 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市鴨川町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市鴨河内 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市河来見 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市河原町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市北野 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市北面 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市蔵内 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市栗尾 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市黒見 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市国府 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市広栄町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市荒神町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市国分寺 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市越殿町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市小田 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市小田東 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市幸町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市堺町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市桜 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市沢谷 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市志津 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市下大江 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市下田中町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市下福田 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市下古川 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市下余戸 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市下米積 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市秋喜 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市秋喜西町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市昭和町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市新田 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市新町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市新陽町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市鋤 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市杉野 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市菅原 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市住吉町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市清谷 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市清谷町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町安歩 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町今西 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町大鳥居 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町小泉 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町郡家 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町関金宿 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町泰久寺 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町野添 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町福原 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町堀 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町松河原 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町明高 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町山口 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市関金町米富 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市瀬崎町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市大正町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市駄経寺町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市立見 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市谷 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市津原 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市寺谷 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市天神町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市研屋町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市富海 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市中江 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市中河原 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市中野 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市仲ノ町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市長坂新町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市長坂町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市長谷 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市西岩倉町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市西倉吉町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市西仲町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市西福守町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市西町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市虹ケ丘町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市八幡町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市服部 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市半坂 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市馬場町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市般若 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市東巌城町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市東岩倉町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市東鴨 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市東鴨新町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市東昭和町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市東仲町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市東町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市広瀬 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市広瀬町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福積 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福富 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福庭 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福庭町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福光 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福本 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福守町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福山 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市福吉町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市不入岡 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市古川沢 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市別所 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市丸山町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市三江 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市みどり町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市湊町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市南昭和町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市耳 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市宮川町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市見日町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市明治町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市椋波 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市森 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市八屋 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市山根 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市横田 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市余戸谷町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市米田町 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市和田 ;
+    mo:SubRegion mr:JP_鳥取県倉吉市和田東町 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県倉吉市葵町
+    rdfs:label "葵町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上井
+    rdfs:label "上井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上井町
+    rdfs:label "上井町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市旭田町
+    rdfs:label "旭田町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市穴窪
+    rdfs:label "穴窪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市穴沢
+    rdfs:label "穴沢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市伊木
+    rdfs:label "伊木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市生田
+    rdfs:label "生田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市石塚
+    rdfs:label "石塚"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市井手畑
+    rdfs:label "井手畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市今在家
+    rdfs:label "今在家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市巌城
+    rdfs:label "巌城"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市岩倉
+    rdfs:label "岩倉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市魚町
+    rdfs:label "魚町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上灘町
+    rdfs:label "上灘町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市越中町
+    rdfs:label "越中町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市円谷町
+    rdfs:label "円谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大河内
+    rdfs:label "大河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大沢
+    rdfs:label "大沢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大立
+    rdfs:label "大立"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大谷茶屋
+    rdfs:label "大谷茶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大塚
+    rdfs:label "大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大平町
+    rdfs:label "大平町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大宮
+    rdfs:label "大宮"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市岡
+    rdfs:label "岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市小鴨
+    rdfs:label "小鴨"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市尾田
+    rdfs:label "尾田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大原
+    rdfs:label "大原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市尾原
+    rdfs:label "尾原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市海田東町
+    rdfs:label "海田東町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市海田西町
+    rdfs:label "海田西町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市海田南町
+    rdfs:label "海田南町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市鍛冶町
+    rdfs:label "鍛冶町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上神
+    rdfs:label "上神"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市忰谷
+    rdfs:label "忰谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市金森町
+    rdfs:label "金森町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市河北町
+    rdfs:label "河北町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上大立
+    rdfs:label "上大立"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上福田
+    rdfs:label "上福田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上古川
+    rdfs:label "上古川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上余戸
+    rdfs:label "上余戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市上米積
+    rdfs:label "上米積"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市鴨川町
+    rdfs:label "鴨川町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市鴨河内
+    rdfs:label "鴨河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市河来見
+    rdfs:label "河来見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市河原町
+    rdfs:label "河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市北野
+    rdfs:label "北野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市北面
+    rdfs:label "北面"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市蔵内
+    rdfs:label "蔵内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市栗尾
+    rdfs:label "栗尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市黒見
+    rdfs:label "黒見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市国府
+    rdfs:label "国府"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市広栄町
+    rdfs:label "広栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市荒神町
+    rdfs:label "荒神町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市国分寺
+    rdfs:label "国分寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市越殿町
+    rdfs:label "越殿町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市小田
+    rdfs:label "小田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市小田東
+    rdfs:label "小田東"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市堺町
+    rdfs:label "堺町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市桜
+    rdfs:label "桜"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市沢谷
+    rdfs:label "沢谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市志津
+    rdfs:label "志津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市下大江
+    rdfs:label "下大江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市下田中町
+    rdfs:label "下田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市下福田
+    rdfs:label "下福田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市下古川
+    rdfs:label "下古川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市下余戸
+    rdfs:label "下余戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市下米積
+    rdfs:label "下米積"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市秋喜
+    rdfs:label "秋喜"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市秋喜西町
+    rdfs:label "秋喜西町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市新陽町
+    rdfs:label "新陽町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市鋤
+    rdfs:label "鋤"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市杉野
+    rdfs:label "杉野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市菅原
+    rdfs:label "菅原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市清谷
+    rdfs:label "清谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市清谷町
+    rdfs:label "清谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町安歩
+    rdfs:label "関金町安歩"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町今西
+    rdfs:label "関金町今西"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町大鳥居
+    rdfs:label "関金町大鳥居"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町小泉
+    rdfs:label "関金町小泉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町郡家
+    rdfs:label "関金町郡家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町関金宿
+    rdfs:label "関金町関金宿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町泰久寺
+    rdfs:label "関金町泰久寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町野添
+    rdfs:label "関金町野添"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町福原
+    rdfs:label "関金町福原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町堀
+    rdfs:label "関金町堀"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町松河原
+    rdfs:label "関金町松河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町明高
+    rdfs:label "関金町明高"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町山口
+    rdfs:label "関金町山口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市関金町米富
+    rdfs:label "関金町米富"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市瀬崎町
+    rdfs:label "瀬崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市大正町
+    rdfs:label "大正町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市駄経寺町
+    rdfs:label "駄経寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市立見
+    rdfs:label "立見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市谷
+    rdfs:label "谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市津原
+    rdfs:label "津原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市寺谷
+    rdfs:label "寺谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市研屋町
+    rdfs:label "研屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市富海
+    rdfs:label "富海"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市中江
+    rdfs:label "中江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市中河原
+    rdfs:label "中河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市仲ノ町
+    rdfs:label "仲ノ町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市長坂新町
+    rdfs:label "長坂新町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市長坂町
+    rdfs:label "長坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市長谷
+    rdfs:label "長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市西岩倉町
+    rdfs:label "西岩倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市西倉吉町
+    rdfs:label "西倉吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市西仲町
+    rdfs:label "西仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市西福守町
+    rdfs:label "西福守町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市虹ケ丘町
+    rdfs:label "虹ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市服部
+    rdfs:label "服部"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市半坂
+    rdfs:label "半坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市馬場町
+    rdfs:label "馬場町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市般若
+    rdfs:label "般若"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市東巌城町
+    rdfs:label "東巌城町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市東岩倉町
+    rdfs:label "東岩倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市東鴨
+    rdfs:label "東鴨"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市東鴨新町
+    rdfs:label "東鴨新町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市東昭和町
+    rdfs:label "東昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市東仲町
+    rdfs:label "東仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市広瀬町
+    rdfs:label "広瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福積
+    rdfs:label "福積"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福富
+    rdfs:label "福富"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福庭
+    rdfs:label "福庭"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福庭町
+    rdfs:label "福庭町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福光
+    rdfs:label "福光"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福本
+    rdfs:label "福本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福守町
+    rdfs:label "福守町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福山
+    rdfs:label "福山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市福吉町
+    rdfs:label "福吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市不入岡
+    rdfs:label "不入岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市古川沢
+    rdfs:label "古川沢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市別所
+    rdfs:label "別所"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市三江
+    rdfs:label "三江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市みどり町
+    rdfs:label "みどり町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市湊町
+    rdfs:label "湊町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市南昭和町
+    rdfs:label "南昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市耳
+    rdfs:label "耳"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市宮川町
+    rdfs:label "宮川町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市見日町
+    rdfs:label "見日町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市明治町
+    rdfs:label "明治町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市椋波
+    rdfs:label "椋波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市八屋
+    rdfs:label "八屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市山根
+    rdfs:label "山根"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市余戸谷町
+    rdfs:label "余戸谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市米田町
+    rdfs:label "米田町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県倉吉市和田東町
+    rdfs:label "和田東町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市
+    rdfs:label "境港市"@ja ;
+    mo:AreaCode "31204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県境港市相生町 ;
+    mo:SubRegion mr:JP_鳥取県境港市上道町 ;
+    mo:SubRegion mr:JP_鳥取県境港市朝日町 ;
+    mo:SubRegion mr:JP_鳥取県境港市栄町 ;
+    mo:SubRegion mr:JP_鳥取県境港市京町 ;
+    mo:SubRegion mr:JP_鳥取県境港市幸神町 ;
+    mo:SubRegion mr:JP_鳥取県境港市小篠津町 ;
+    mo:SubRegion mr:JP_鳥取県境港市佐斐神町 ;
+    mo:SubRegion mr:JP_鳥取県境港市財ノ木町 ;
+    mo:SubRegion mr:JP_鳥取県境港市三軒屋町 ;
+    mo:SubRegion mr:JP_鳥取県境港市潮見町 ;
+    mo:SubRegion mr:JP_鳥取県境港市東雲町 ;
+    mo:SubRegion mr:JP_鳥取県境港市芝町 ;
+    mo:SubRegion mr:JP_鳥取県境港市清水町 ;
+    mo:SubRegion mr:JP_鳥取県境港市昭和町 ;
+    mo:SubRegion mr:JP_鳥取県境港市末広町 ;
+    mo:SubRegion mr:JP_鳥取県境港市誠道町 ;
+    mo:SubRegion mr:JP_鳥取県境港市大正町 ;
+    mo:SubRegion mr:JP_鳥取県境港市高松町 ;
+    mo:SubRegion mr:JP_鳥取県境港市竹内団地 ;
+    mo:SubRegion mr:JP_鳥取県境港市竹内町 ;
+    mo:SubRegion mr:JP_鳥取県境港市外江町 ;
+    mo:SubRegion mr:JP_鳥取県境港市中海干拓地 ;
+    mo:SubRegion mr:JP_鳥取県境港市中野町 ;
+    mo:SubRegion mr:JP_鳥取県境港市中町 ;
+    mo:SubRegion mr:JP_鳥取県境港市新屋町 ;
+    mo:SubRegion mr:JP_鳥取県境港市西工業団地 ;
+    mo:SubRegion mr:JP_鳥取県境港市入船町 ;
+    mo:SubRegion mr:JP_鳥取県境港市蓮池町 ;
+    mo:SubRegion mr:JP_鳥取県境港市花町 ;
+    mo:SubRegion mr:JP_鳥取県境港市馬場崎町 ;
+    mo:SubRegion mr:JP_鳥取県境港市浜ノ町 ;
+    mo:SubRegion mr:JP_鳥取県境港市東本町 ;
+    mo:SubRegion mr:JP_鳥取県境港市日ノ出町 ;
+    mo:SubRegion mr:JP_鳥取県境港市福定町 ;
+    mo:SubRegion mr:JP_鳥取県境港市本町 ;
+    mo:SubRegion mr:JP_鳥取県境港市松ケ枝町 ;
+    mo:SubRegion mr:JP_鳥取県境港市岬町 ;
+    mo:SubRegion mr:JP_鳥取県境港市湊町 ;
+    mo:SubRegion mr:JP_鳥取県境港市美保町 ;
+    mo:SubRegion mr:JP_鳥取県境港市麦垣町 ;
+    mo:SubRegion mr:JP_鳥取県境港市明治町 ;
+    mo:SubRegion mr:JP_鳥取県境港市元町 ;
+    mo:SubRegion mr:JP_鳥取県境港市森岡町 ;
+    mo:SubRegion mr:JP_鳥取県境港市弥生町 ;
+    mo:SubRegion mr:JP_鳥取県境港市夕日ケ丘 ;
+    mo:SubRegion mr:JP_鳥取県境港市米川町 ;
+    mo:SubRegion mr:JP_鳥取県境港市渡町 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県境港市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市上道町
+    rdfs:label "上道町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市幸神町
+    rdfs:label "幸神町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市小篠津町
+    rdfs:label "小篠津町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市佐斐神町
+    rdfs:label "佐斐神町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市財ノ木町
+    rdfs:label "財ノ木町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市三軒屋町
+    rdfs:label "三軒屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市潮見町
+    rdfs:label "潮見町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市東雲町
+    rdfs:label "東雲町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市芝町
+    rdfs:label "芝町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市誠道町
+    rdfs:label "誠道町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市大正町
+    rdfs:label "大正町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市高松町
+    rdfs:label "高松町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市竹内団地
+    rdfs:label "竹内団地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市竹内町
+    rdfs:label "竹内町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市外江町
+    rdfs:label "外江町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市中海干拓地
+    rdfs:label "中海干拓地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市中野町
+    rdfs:label "中野町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市新屋町
+    rdfs:label "新屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市西工業団地
+    rdfs:label "西工業団地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市入船町
+    rdfs:label "入船町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市蓮池町
+    rdfs:label "蓮池町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市花町
+    rdfs:label "花町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市馬場崎町
+    rdfs:label "馬場崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市浜ノ町
+    rdfs:label "浜ノ町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市東本町
+    rdfs:label "東本町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市日ノ出町
+    rdfs:label "日ノ出町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市福定町
+    rdfs:label "福定町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市松ケ枝町
+    rdfs:label "松ケ枝町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市岬町
+    rdfs:label "岬町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市湊町
+    rdfs:label "湊町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市美保町
+    rdfs:label "美保町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市麦垣町
+    rdfs:label "麦垣町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市明治町
+    rdfs:label "明治町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市森岡町
+    rdfs:label "森岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市夕日ケ丘
+    rdfs:label "夕日ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市米川町
+    rdfs:label "米川町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県境港市渡町
+    rdfs:label "渡町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町
+    rdfs:label "岩美郡岩美町"@ja ;
+    mo:AreaCode "31302" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町相谷 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町相山 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町網代 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町洗井 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町荒金 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町池谷 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町岩井 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町岩常 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町岩本 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町院内 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町宇治 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町浦富 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町延興寺 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町大坂 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町太田 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町大谷 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町大羽尾 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町小田 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町恩志 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町蒲生 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町唐川 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町河崎 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町銀山 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町陸上 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町黒谷 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町小羽尾 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町白地 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町高住 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町高山 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町田後 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町田河内 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町長郷 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町外邑 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町鳥越 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町長谷 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町新井 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町馬場 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町本庄 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町牧谷 ;
+    mo:SubRegion mr:JP_鳥取県岩美郡岩美町真名 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県岩美郡岩美町相谷
+    rdfs:label "相谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町相山
+    rdfs:label "相山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町網代
+    rdfs:label "網代"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町洗井
+    rdfs:label "洗井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町荒金
+    rdfs:label "荒金"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町池谷
+    rdfs:label "池谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町岩井
+    rdfs:label "岩井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町岩常
+    rdfs:label "岩常"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町岩本
+    rdfs:label "岩本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町院内
+    rdfs:label "院内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町宇治
+    rdfs:label "宇治"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町浦富
+    rdfs:label "浦富"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町延興寺
+    rdfs:label "延興寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町大坂
+    rdfs:label "大坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町太田
+    rdfs:label "太田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町大羽尾
+    rdfs:label "大羽尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町小田
+    rdfs:label "小田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町恩志
+    rdfs:label "恩志"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町蒲生
+    rdfs:label "蒲生"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町唐川
+    rdfs:label "唐川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町河崎
+    rdfs:label "河崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町銀山
+    rdfs:label "銀山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町陸上
+    rdfs:label "陸上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町黒谷
+    rdfs:label "黒谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町小羽尾
+    rdfs:label "小羽尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町白地
+    rdfs:label "白地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町高住
+    rdfs:label "高住"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町高山
+    rdfs:label "高山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町田後
+    rdfs:label "田後"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町田河内
+    rdfs:label "田河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町長郷
+    rdfs:label "長郷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町外邑
+    rdfs:label "外邑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町鳥越
+    rdfs:label "鳥越"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町長谷
+    rdfs:label "長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町新井
+    rdfs:label "新井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町馬場
+    rdfs:label "馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町本庄
+    rdfs:label "本庄"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町牧谷
+    rdfs:label "牧谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県岩美郡岩美町真名
+    rdfs:label "真名"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町
+    rdfs:label "八頭郡若桜町"@ja ;
+    mo:AreaCode "31325" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町赤松 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町浅井 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町糸白見 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町岩屋堂 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町大炊 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町大野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町落折 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町小船 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町岸野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町来見野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町香田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町須澄 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町高野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町つく米 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町中原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町長砂 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町根安 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町淵見 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町三倉 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町茗荷谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町諸鹿 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町屋堂羅 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町湯原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町吉川 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡若桜町若桜 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県八頭郡若桜町赤松
+    rdfs:label "赤松"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町浅井
+    rdfs:label "浅井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町糸白見
+    rdfs:label "糸白見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町岩屋堂
+    rdfs:label "岩屋堂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町大炊
+    rdfs:label "大炊"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町落折
+    rdfs:label "落折"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町小船
+    rdfs:label "小船"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町岸野
+    rdfs:label "岸野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町来見野
+    rdfs:label "来見野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町香田
+    rdfs:label "香田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町須澄
+    rdfs:label "須澄"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町高野
+    rdfs:label "高野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町つく米
+    rdfs:label "つく米"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町長砂
+    rdfs:label "長砂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町根安
+    rdfs:label "根安"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町淵見
+    rdfs:label "淵見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町三倉
+    rdfs:label "三倉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町茗荷谷
+    rdfs:label "茗荷谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町諸鹿
+    rdfs:label "諸鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町屋堂羅
+    rdfs:label "屋堂羅"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町湯原
+    rdfs:label "湯原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町吉川
+    rdfs:label "吉川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡若桜町若桜
+    rdfs:label "若桜"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町
+    rdfs:label "八頭郡智頭町"@ja ;
+    mo:AreaCode "31328" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町芦津 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町市瀬 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町岩神 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町宇波 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町大背 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町大内 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町大屋 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町大呂 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町奥本 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町尾見 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町木原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町口宇波 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町口波多 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町慶所 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町毛谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町河津原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町郷原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町駒帰 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町坂原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町篠坂 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町惣地 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町智頭 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町中田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町中原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町新見 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町西宇塚 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町西谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町西野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町野原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町波多 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町埴師 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町早瀬 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町東宇塚 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町福原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町穂見 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町真鹿野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町三田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町南方 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町三吉 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町八河谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町山根 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡智頭町横田 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県八頭郡智頭町芦津
+    rdfs:label "芦津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町市瀬
+    rdfs:label "市瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町岩神
+    rdfs:label "岩神"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町宇波
+    rdfs:label "宇波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町大背
+    rdfs:label "大背"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町大内
+    rdfs:label "大内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町大屋
+    rdfs:label "大屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町大呂
+    rdfs:label "大呂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町奥本
+    rdfs:label "奥本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町尾見
+    rdfs:label "尾見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町木原
+    rdfs:label "木原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町口宇波
+    rdfs:label "口宇波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町口波多
+    rdfs:label "口波多"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町慶所
+    rdfs:label "慶所"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町毛谷
+    rdfs:label "毛谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町河津原
+    rdfs:label "河津原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町郷原
+    rdfs:label "郷原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町駒帰
+    rdfs:label "駒帰"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町坂原
+    rdfs:label "坂原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町篠坂
+    rdfs:label "篠坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町惣地
+    rdfs:label "惣地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町智頭
+    rdfs:label "智頭"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町中田
+    rdfs:label "中田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町新見
+    rdfs:label "新見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町西宇塚
+    rdfs:label "西宇塚"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町西谷
+    rdfs:label "西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町西野
+    rdfs:label "西野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町野原
+    rdfs:label "野原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町波多
+    rdfs:label "波多"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町埴師
+    rdfs:label "埴師"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町早瀬
+    rdfs:label "早瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町東宇塚
+    rdfs:label "東宇塚"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町福原
+    rdfs:label "福原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町穂見
+    rdfs:label "穂見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町真鹿野
+    rdfs:label "真鹿野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町三田
+    rdfs:label "三田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町南方
+    rdfs:label "南方"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町三吉
+    rdfs:label "三吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町八河谷
+    rdfs:label "八河谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町山根
+    rdfs:label "山根"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡智頭町横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町
+    rdfs:label "八頭郡八頭町"@ja ;
+    mo:AreaCode "31329" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町明辺 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町麻生 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町池田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町井古 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町石田百井 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町市谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町市場 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町稲荷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町岩淵 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町延命寺 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町大江 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町大坪 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町奥谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町奥野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町落岩 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町下坂 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町皆原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町柿原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町覚王寺 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町鍛冶屋 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町門尾 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町上津黒 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町上野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町上峰寺 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町北山 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町日下部 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町国中 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町久能寺 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町郡家殿 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町郡家 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町小別府 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町才代 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町坂田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町桜ヶ丘 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町佐崎 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町篠波 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町塩上 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町重枝 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町志子部 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町志谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町島 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町下門尾 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町下津黒 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町下野 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町下濃 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町下峰寺 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町新興寺 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町清徳 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町大門 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町徳丸 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町富枝 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町中 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町西谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町西御門 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町野町 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町橋本 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町土師百井 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町花 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町花原 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町隼福 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町隼郡家 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町稗谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町東 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町日田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町姫路 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町福井 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町福地 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町福本 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町船岡 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町船岡殿 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町別府 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町堀越 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町万代寺 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町三浦 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町見槻 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町見槻中 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町水口 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町南 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町宮谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町三山口 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町茂田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町茂谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町安井宿 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町山路 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町山志谷 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町山田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町山上 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町用呂 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町横田 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町米岡 ;
+    mo:SubRegion mr:JP_鳥取県八頭郡八頭町破岩 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県八頭郡八頭町明辺
+    rdfs:label "明辺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町麻生
+    rdfs:label "麻生"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町池田
+    rdfs:label "池田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町井古
+    rdfs:label "井古"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町石田百井
+    rdfs:label "石田百井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町市谷
+    rdfs:label "市谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町市場
+    rdfs:label "市場"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町稲荷
+    rdfs:label "稲荷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町岩淵
+    rdfs:label "岩淵"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町延命寺
+    rdfs:label "延命寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町大江
+    rdfs:label "大江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町大坪
+    rdfs:label "大坪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町奥谷
+    rdfs:label "奥谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町奥野
+    rdfs:label "奥野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町落岩
+    rdfs:label "落岩"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町下坂
+    rdfs:label "下坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町皆原
+    rdfs:label "皆原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町柿原
+    rdfs:label "柿原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町覚王寺
+    rdfs:label "覚王寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町鍛冶屋
+    rdfs:label "鍛冶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町門尾
+    rdfs:label "門尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町上津黒
+    rdfs:label "上津黒"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町上峰寺
+    rdfs:label "上峰寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町北山
+    rdfs:label "北山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町日下部
+    rdfs:label "日下部"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町国中
+    rdfs:label "国中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町久能寺
+    rdfs:label "久能寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町郡家殿
+    rdfs:label "郡家殿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町郡家
+    rdfs:label "郡家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町小別府
+    rdfs:label "小別府"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町才代
+    rdfs:label "才代"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町坂田
+    rdfs:label "坂田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町桜ヶ丘
+    rdfs:label "桜ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町佐崎
+    rdfs:label "佐崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町篠波
+    rdfs:label "篠波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町塩上
+    rdfs:label "塩上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町重枝
+    rdfs:label "重枝"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町志子部
+    rdfs:label "志子部"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町志谷
+    rdfs:label "志谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町島
+    rdfs:label "島"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町下門尾
+    rdfs:label "下門尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町下津黒
+    rdfs:label "下津黒"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町下野
+    rdfs:label "下野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町下濃
+    rdfs:label "下濃"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町下峰寺
+    rdfs:label "下峰寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町新興寺
+    rdfs:label "新興寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町清徳
+    rdfs:label "清徳"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町大門
+    rdfs:label "大門"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町徳丸
+    rdfs:label "徳丸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町富枝
+    rdfs:label "富枝"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町西谷
+    rdfs:label "西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町西御門
+    rdfs:label "西御門"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町野町
+    rdfs:label "野町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町橋本
+    rdfs:label "橋本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町土師百井
+    rdfs:label "土師百井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町花
+    rdfs:label "花"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町花原
+    rdfs:label "花原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町隼福
+    rdfs:label "隼福"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町隼郡家
+    rdfs:label "隼郡家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町稗谷
+    rdfs:label "稗谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町東
+    rdfs:label "東"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町日田
+    rdfs:label "日田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町姫路
+    rdfs:label "姫路"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町福井
+    rdfs:label "福井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町福地
+    rdfs:label "福地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町福本
+    rdfs:label "福本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町船岡
+    rdfs:label "船岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町船岡殿
+    rdfs:label "船岡殿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町別府
+    rdfs:label "別府"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町堀越
+    rdfs:label "堀越"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町万代寺
+    rdfs:label "万代寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町三浦
+    rdfs:label "三浦"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町見槻
+    rdfs:label "見槻"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町見槻中
+    rdfs:label "見槻中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町水口
+    rdfs:label "水口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町南
+    rdfs:label "南"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町宮谷
+    rdfs:label "宮谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町三山口
+    rdfs:label "三山口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町茂田
+    rdfs:label "茂田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町茂谷
+    rdfs:label "茂谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町安井宿
+    rdfs:label "安井宿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町山路
+    rdfs:label "山路"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町山志谷
+    rdfs:label "山志谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町山上
+    rdfs:label "山上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町用呂
+    rdfs:label "用呂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町米岡
+    rdfs:label "米岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県八頭郡八頭町破岩
+    rdfs:label "破岩"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町
+    rdfs:label "東伯郡三朝町"@ja ;
+    mo:AreaCode "31364" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町赤松 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町穴鴨 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町今泉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町大柿 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町大瀬 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町大谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町小河内 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町恩地 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町柿谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町片柴 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町加谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町鎌田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町上西谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町神倉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町木地山 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町久原 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町恋谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町坂本 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町桜ケ丘 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町下谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町下西谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町下畑 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町助谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町砂原 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町曹源寺 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町高橋 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町田代 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町俵原 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町笏賀 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町天神 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町徳本 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町中津 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町鉛山 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町西尾 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町西小鹿 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町東小鹿 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町福田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町福本 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町福山 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町福吉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町牧 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町三朝 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町三徳 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町本泉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町森 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町山田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町湯谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町横手 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町吉尾 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町吉田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町余戸 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡三朝町若宮 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県東伯郡三朝町赤松
+    rdfs:label "赤松"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町穴鴨
+    rdfs:label "穴鴨"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町今泉
+    rdfs:label "今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町大柿
+    rdfs:label "大柿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町大瀬
+    rdfs:label "大瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町小河内
+    rdfs:label "小河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町恩地
+    rdfs:label "恩地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町柿谷
+    rdfs:label "柿谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町片柴
+    rdfs:label "片柴"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町加谷
+    rdfs:label "加谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町鎌田
+    rdfs:label "鎌田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町上西谷
+    rdfs:label "上西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町神倉
+    rdfs:label "神倉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町木地山
+    rdfs:label "木地山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町久原
+    rdfs:label "久原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町恋谷
+    rdfs:label "恋谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町坂本
+    rdfs:label "坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町桜ケ丘
+    rdfs:label "桜ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町下谷
+    rdfs:label "下谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町下西谷
+    rdfs:label "下西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町下畑
+    rdfs:label "下畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町助谷
+    rdfs:label "助谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町砂原
+    rdfs:label "砂原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町曹源寺
+    rdfs:label "曹源寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町高橋
+    rdfs:label "高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町田代
+    rdfs:label "田代"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町俵原
+    rdfs:label "俵原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町笏賀
+    rdfs:label "笏賀"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町徳本
+    rdfs:label "徳本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町中津
+    rdfs:label "中津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町鉛山
+    rdfs:label "鉛山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町西尾
+    rdfs:label "西尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町西小鹿
+    rdfs:label "西小鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町東小鹿
+    rdfs:label "東小鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町福田
+    rdfs:label "福田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町福本
+    rdfs:label "福本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町福山
+    rdfs:label "福山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町福吉
+    rdfs:label "福吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町牧
+    rdfs:label "牧"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町三朝
+    rdfs:label "三朝"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町三徳
+    rdfs:label "三徳"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町本泉
+    rdfs:label "本泉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町湯谷
+    rdfs:label "湯谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町横手
+    rdfs:label "横手"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町吉尾
+    rdfs:label "吉尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町余戸
+    rdfs:label "余戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡三朝町若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町
+    rdfs:label "東伯郡湯梨浜町"@ja ;
+    mo:AreaCode "31370" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町赤池 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町麻畑 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町旭 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町石脇 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町羽衣石 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町宇谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町宇野 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町漆原 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町小鹿谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町方面 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町門田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町上浅津 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町上橋津 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町川上 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町北福 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町国信 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町小浜 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町佐美 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町下浅津 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町白石 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町園 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町高辻 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町田後 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町田畑 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町中興寺 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町筒地 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町泊 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町長江 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町長和田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町野方 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町野花 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町橋津 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町埴見 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町原 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町はわい温泉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町はわい長瀬 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町引地 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町久留 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町久見 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町藤津 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町別所 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町方地 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町松崎 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町水下 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町光吉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町南谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町宮内 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡湯梨浜町龍島 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県東伯郡湯梨浜町赤池
+    rdfs:label "赤池"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町麻畑
+    rdfs:label "麻畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町旭
+    rdfs:label "旭"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町石脇
+    rdfs:label "石脇"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町羽衣石
+    rdfs:label "羽衣石"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町宇谷
+    rdfs:label "宇谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町宇野
+    rdfs:label "宇野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町漆原
+    rdfs:label "漆原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町小鹿谷
+    rdfs:label "小鹿谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町方面
+    rdfs:label "方面"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町門田
+    rdfs:label "門田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町上浅津
+    rdfs:label "上浅津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町上橋津
+    rdfs:label "上橋津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町北福
+    rdfs:label "北福"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町国信
+    rdfs:label "国信"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町小浜
+    rdfs:label "小浜"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町佐美
+    rdfs:label "佐美"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町下浅津
+    rdfs:label "下浅津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町白石
+    rdfs:label "白石"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町園
+    rdfs:label "園"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町高辻
+    rdfs:label "高辻"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町田後
+    rdfs:label "田後"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町田畑
+    rdfs:label "田畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町中興寺
+    rdfs:label "中興寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町筒地
+    rdfs:label "筒地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町泊
+    rdfs:label "泊"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町長江
+    rdfs:label "長江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町長和田
+    rdfs:label "長和田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町野方
+    rdfs:label "野方"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町野花
+    rdfs:label "野花"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町橋津
+    rdfs:label "橋津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町埴見
+    rdfs:label "埴見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町はわい温泉
+    rdfs:label "はわい温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町はわい長瀬
+    rdfs:label "はわい長瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町引地
+    rdfs:label "引地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町久留
+    rdfs:label "久留"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町久見
+    rdfs:label "久見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町藤津
+    rdfs:label "藤津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町別所
+    rdfs:label "別所"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町方地
+    rdfs:label "方地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町松崎
+    rdfs:label "松崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町水下
+    rdfs:label "水下"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町光吉
+    rdfs:label "光吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町南谷
+    rdfs:label "南谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町宮内
+    rdfs:label "宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡湯梨浜町龍島
+    rdfs:label "龍島"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町
+    rdfs:label "東伯郡琴浦町"@ja ;
+    mo:AreaCode "31371" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町赤碕 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町出上 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町梅田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町浦安 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町大杉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町逢束 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町大父 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町尾張 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町笠見 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町勝田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町金屋 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町上伊勢 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町公文 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町倉坂 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町釛 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町佐崎 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町三本杉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町下伊勢 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町下大江 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町杉地 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町杉下 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町太一垣 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町高岡 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町竹内 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町田越 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町槻下 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町徳万 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町中尾 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町中津原 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町中村 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町西宮 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町野井倉 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町野田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町箆津 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町八反田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町福永 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町古長 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町別所 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町別宮 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町保 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町法万 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町松谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町丸尾 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町光 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町光好 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町三保 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町宮木 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町宮場 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町美好 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町森藤 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町矢下 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町八橋 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町山川 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町山田 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町八幡 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡琴浦町湯坂 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県東伯郡琴浦町赤碕
+    rdfs:label "赤碕"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町出上
+    rdfs:label "出上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町梅田
+    rdfs:label "梅田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町浦安
+    rdfs:label "浦安"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町大杉
+    rdfs:label "大杉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町逢束
+    rdfs:label "逢束"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町大父
+    rdfs:label "大父"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町尾張
+    rdfs:label "尾張"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町笠見
+    rdfs:label "笠見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町勝田
+    rdfs:label "勝田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町金屋
+    rdfs:label "金屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町上伊勢
+    rdfs:label "上伊勢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町公文
+    rdfs:label "公文"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町倉坂
+    rdfs:label "倉坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町釛
+    rdfs:label "釛"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町佐崎
+    rdfs:label "佐崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町三本杉
+    rdfs:label "三本杉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町下伊勢
+    rdfs:label "下伊勢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町下大江
+    rdfs:label "下大江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町杉地
+    rdfs:label "杉地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町杉下
+    rdfs:label "杉下"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町太一垣
+    rdfs:label "太一垣"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町高岡
+    rdfs:label "高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町竹内
+    rdfs:label "竹内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町田越
+    rdfs:label "田越"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町槻下
+    rdfs:label "槻下"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町徳万
+    rdfs:label "徳万"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町中尾
+    rdfs:label "中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町中津原
+    rdfs:label "中津原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町西宮
+    rdfs:label "西宮"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町野井倉
+    rdfs:label "野井倉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町箆津
+    rdfs:label "箆津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町八反田
+    rdfs:label "八反田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町福永
+    rdfs:label "福永"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町古長
+    rdfs:label "古長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町別所
+    rdfs:label "別所"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町別宮
+    rdfs:label "別宮"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町保
+    rdfs:label "保"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町法万
+    rdfs:label "法万"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町松谷
+    rdfs:label "松谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町丸尾
+    rdfs:label "丸尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町光
+    rdfs:label "光"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町光好
+    rdfs:label "光好"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町三保
+    rdfs:label "三保"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町宮木
+    rdfs:label "宮木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町宮場
+    rdfs:label "宮場"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町美好
+    rdfs:label "美好"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町森藤
+    rdfs:label "森藤"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町矢下
+    rdfs:label "矢下"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町八橋
+    rdfs:label "八橋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町山川
+    rdfs:label "山川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡琴浦町湯坂
+    rdfs:label "湯坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町
+    rdfs:label "東伯郡北栄町"@ja ;
+    mo:AreaCode "31372" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町岩坪 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町江北 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町大島 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町大谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町上種 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町亀谷 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町北尾 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町国坂 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町下種 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町下神 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町瀬戸 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町田井 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町妻波 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町西園 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町西高尾 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町西穂波 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町土下 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町原 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町東園 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町東高尾 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町北条島 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町穂波 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町曲 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町松神 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町六尾 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町弓原 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町由良宿 ;
+    mo:SubRegion mr:JP_鳥取県東伯郡北栄町米里 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県東伯郡北栄町岩坪
+    rdfs:label "岩坪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町江北
+    rdfs:label "江北"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町上種
+    rdfs:label "上種"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町亀谷
+    rdfs:label "亀谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町北尾
+    rdfs:label "北尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町国坂
+    rdfs:label "国坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町下種
+    rdfs:label "下種"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町下神
+    rdfs:label "下神"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町瀬戸
+    rdfs:label "瀬戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町田井
+    rdfs:label "田井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町妻波
+    rdfs:label "妻波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町西園
+    rdfs:label "西園"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町西高尾
+    rdfs:label "西高尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町西穂波
+    rdfs:label "西穂波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町土下
+    rdfs:label "土下"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町東園
+    rdfs:label "東園"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町東高尾
+    rdfs:label "東高尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町北条島
+    rdfs:label "北条島"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町穂波
+    rdfs:label "穂波"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町曲
+    rdfs:label "曲"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町松神
+    rdfs:label "松神"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町六尾
+    rdfs:label "六尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町弓原
+    rdfs:label "弓原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町由良宿
+    rdfs:label "由良宿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県東伯郡北栄町米里
+    rdfs:label "米里"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡日吉津村
+    rdfs:label "西伯郡日吉津村"@ja ;
+    mo:AreaCode "31384" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡日吉津村今吉 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡日吉津村富吉 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡日吉津村日吉津 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県西伯郡日吉津村今吉
+    rdfs:label "今吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡日吉津村富吉
+    rdfs:label "富吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡日吉津村日吉津
+    rdfs:label "日吉津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町
+    rdfs:label "西伯郡大山町"@ja ;
+    mo:AreaCode "31386" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町赤坂 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町赤松 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町稲光 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町今在家 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町石井垣 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町上野 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町上市 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町大塚 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町岡 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町押平 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町加茂 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町神原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町清原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町国信 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町倉谷 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町小竹 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町古御堂 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町栄田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町佐摩 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町塩津 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町下市 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町下甲 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町荘田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町上万 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町末長 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町末吉 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町住吉 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町退休寺 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町大山 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町高田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町高橋 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町鈑戸 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町田中 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町茶畑 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町潮音寺 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町束積 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町唐王 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町所子 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町殿河内 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町富岡 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町富長 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町豊成 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町豊房 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町長田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町中高 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町長野 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町名和 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町西坪 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町野田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町羽田井 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町東坪 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町樋口 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町平 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町平木 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町平田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町福尾 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町坊領 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町前 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町松河原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町御来屋 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町御崎 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町宮内 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町妻木 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町門前 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町八重 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町保田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡大山町安原 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県西伯郡大山町赤坂
+    rdfs:label "赤坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町赤松
+    rdfs:label "赤松"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町稲光
+    rdfs:label "稲光"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町今在家
+    rdfs:label "今在家"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町石井垣
+    rdfs:label "石井垣"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町上市
+    rdfs:label "上市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町大塚
+    rdfs:label "大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町岡
+    rdfs:label "岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町押平
+    rdfs:label "押平"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町加茂
+    rdfs:label "加茂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町神原
+    rdfs:label "神原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町清原
+    rdfs:label "清原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町国信
+    rdfs:label "国信"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町倉谷
+    rdfs:label "倉谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町小竹
+    rdfs:label "小竹"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町古御堂
+    rdfs:label "古御堂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町栄田
+    rdfs:label "栄田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町佐摩
+    rdfs:label "佐摩"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町塩津
+    rdfs:label "塩津"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町下市
+    rdfs:label "下市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町下甲
+    rdfs:label "下甲"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町荘田
+    rdfs:label "荘田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町上万
+    rdfs:label "上万"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町末長
+    rdfs:label "末長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町末吉
+    rdfs:label "末吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町住吉
+    rdfs:label "住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町退休寺
+    rdfs:label "退休寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町大山
+    rdfs:label "大山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町高田
+    rdfs:label "高田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町高橋
+    rdfs:label "高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町鈑戸
+    rdfs:label "鈑戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町田中
+    rdfs:label "田中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町茶畑
+    rdfs:label "茶畑"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町潮音寺
+    rdfs:label "潮音寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町束積
+    rdfs:label "束積"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町唐王
+    rdfs:label "唐王"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町所子
+    rdfs:label "所子"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町殿河内
+    rdfs:label "殿河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町富長
+    rdfs:label "富長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町豊成
+    rdfs:label "豊成"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町豊房
+    rdfs:label "豊房"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町長田
+    rdfs:label "長田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町中高
+    rdfs:label "中高"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町長野
+    rdfs:label "長野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町名和
+    rdfs:label "名和"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町西坪
+    rdfs:label "西坪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町羽田井
+    rdfs:label "羽田井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町東坪
+    rdfs:label "東坪"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町樋口
+    rdfs:label "樋口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町平
+    rdfs:label "平"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町平木
+    rdfs:label "平木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町平田
+    rdfs:label "平田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町福尾
+    rdfs:label "福尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町坊領
+    rdfs:label "坊領"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町前
+    rdfs:label "前"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町松河原
+    rdfs:label "松河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町御来屋
+    rdfs:label "御来屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町御崎
+    rdfs:label "御崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町宮内
+    rdfs:label "宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町妻木
+    rdfs:label "妻木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町門前
+    rdfs:label "門前"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町八重
+    rdfs:label "八重"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町保田
+    rdfs:label "保田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡大山町安原
+    rdfs:label "安原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町
+    rdfs:label "西伯郡南部町"@ja ;
+    mo:AreaCode "31389" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町阿賀 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町浅井 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町朝金 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町池野 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町市山 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町井上 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町猪小路 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町大木屋 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町荻名 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町落合 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町掛相 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町金田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町上中谷 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町鴨部 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町北方 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町絹屋 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町伐株 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町境 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町清水川 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町下中谷 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町高姫 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町武信 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町田住 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町鶴田 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町寺内 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町天万 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町道河内 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町東上 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町徳長 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町中 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町鍋倉 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町西 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町西原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町西町 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町能竹 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町馬佐良 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町馬場 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町東町 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町福里 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町福成 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町福頼 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町法勝寺 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町円山 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町御内谷 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町三崎 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町宮前 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町諸木 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町八金 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町倭 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡南部町与一谷 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県西伯郡南部町阿賀
+    rdfs:label "阿賀"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町浅井
+    rdfs:label "浅井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町朝金
+    rdfs:label "朝金"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町池野
+    rdfs:label "池野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町市山
+    rdfs:label "市山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町井上
+    rdfs:label "井上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町猪小路
+    rdfs:label "猪小路"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町大木屋
+    rdfs:label "大木屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町荻名
+    rdfs:label "荻名"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町落合
+    rdfs:label "落合"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町掛相
+    rdfs:label "掛相"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町金田
+    rdfs:label "金田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町上中谷
+    rdfs:label "上中谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町鴨部
+    rdfs:label "鴨部"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町北方
+    rdfs:label "北方"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町絹屋
+    rdfs:label "絹屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町伐株
+    rdfs:label "伐株"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町境
+    rdfs:label "境"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町清水川
+    rdfs:label "清水川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町下中谷
+    rdfs:label "下中谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町高姫
+    rdfs:label "高姫"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町武信
+    rdfs:label "武信"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町田住
+    rdfs:label "田住"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町鶴田
+    rdfs:label "鶴田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町寺内
+    rdfs:label "寺内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町天万
+    rdfs:label "天万"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町道河内
+    rdfs:label "道河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町東上
+    rdfs:label "東上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町徳長
+    rdfs:label "徳長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町鍋倉
+    rdfs:label "鍋倉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町能竹
+    rdfs:label "能竹"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町馬佐良
+    rdfs:label "馬佐良"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町馬場
+    rdfs:label "馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町福里
+    rdfs:label "福里"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町福成
+    rdfs:label "福成"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町福頼
+    rdfs:label "福頼"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町法勝寺
+    rdfs:label "法勝寺"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町円山
+    rdfs:label "円山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町御内谷
+    rdfs:label "御内谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町三崎
+    rdfs:label "三崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町宮前
+    rdfs:label "宮前"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町諸木
+    rdfs:label "諸木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町八金
+    rdfs:label "八金"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町倭
+    rdfs:label "倭"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡南部町与一谷
+    rdfs:label "与一谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町
+    rdfs:label "西伯郡伯耆町"@ja ;
+    mo:AreaCode "31390" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町岩立 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町岩屋谷 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町上野 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町宇代 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町遠藤 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町大内 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町大江 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町大倉 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町大坂 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町大滝 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町大殿 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町大原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町押口 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町小野 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町金屋谷 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町上細見 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町岸本 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町貴住 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町清原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町久古 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町口別所 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町小林 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町小町 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町坂長 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町三部 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町荘 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町白水 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町須村 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町添谷 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町立岩 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町谷川 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町父原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町栃原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町富江 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町中祖 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町長山 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町二部 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町根雨原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町畑池 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町番原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町福居 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町福岡 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町福岡原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町福兼 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町福島 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町福吉 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町船越 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町古市 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町真野 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町丸山 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町溝口 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町宮原 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町焼杉 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町吉定 ;
+    mo:SubRegion mr:JP_鳥取県西伯郡伯耆町吉長 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県西伯郡伯耆町岩立
+    rdfs:label "岩立"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町岩屋谷
+    rdfs:label "岩屋谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町宇代
+    rdfs:label "宇代"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町遠藤
+    rdfs:label "遠藤"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町大内
+    rdfs:label "大内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町大江
+    rdfs:label "大江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町大倉
+    rdfs:label "大倉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町大坂
+    rdfs:label "大坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町大滝
+    rdfs:label "大滝"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町大殿
+    rdfs:label "大殿"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町大原
+    rdfs:label "大原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町押口
+    rdfs:label "押口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町金屋谷
+    rdfs:label "金屋谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町上細見
+    rdfs:label "上細見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町岸本
+    rdfs:label "岸本"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町貴住
+    rdfs:label "貴住"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町清原
+    rdfs:label "清原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町久古
+    rdfs:label "久古"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町口別所
+    rdfs:label "口別所"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町小林
+    rdfs:label "小林"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町小町
+    rdfs:label "小町"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町坂長
+    rdfs:label "坂長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町三部
+    rdfs:label "三部"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町荘
+    rdfs:label "荘"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町白水
+    rdfs:label "白水"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町須村
+    rdfs:label "須村"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町添谷
+    rdfs:label "添谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町立岩
+    rdfs:label "立岩"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町谷川
+    rdfs:label "谷川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町父原
+    rdfs:label "父原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町栃原
+    rdfs:label "栃原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町富江
+    rdfs:label "富江"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町中祖
+    rdfs:label "中祖"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町長山
+    rdfs:label "長山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町二部
+    rdfs:label "二部"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町根雨原
+    rdfs:label "根雨原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町畑池
+    rdfs:label "畑池"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町番原
+    rdfs:label "番原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町福居
+    rdfs:label "福居"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町福岡
+    rdfs:label "福岡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町福岡原
+    rdfs:label "福岡原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町福兼
+    rdfs:label "福兼"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町福島
+    rdfs:label "福島"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町福吉
+    rdfs:label "福吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町船越
+    rdfs:label "船越"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町古市
+    rdfs:label "古市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町真野
+    rdfs:label "真野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町丸山
+    rdfs:label "丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町溝口
+    rdfs:label "溝口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町宮原
+    rdfs:label "宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町焼杉
+    rdfs:label "焼杉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町吉定
+    rdfs:label "吉定"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県西伯郡伯耆町吉長
+    rdfs:label "吉長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町
+    rdfs:label "日野郡日南町"@ja ;
+    mo:AreaCode "31401" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町阿毘縁 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町印賀 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町折渡 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町笠木 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町霞 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町神戸上 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町上石見 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町上萩山 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町神福 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町河上 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町佐木谷 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町下阿毘縁 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町下石見 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町生山 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町菅沢 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町宝谷 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町多里 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町茶屋 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町豊栄 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町中石見 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町新屋 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町萩原 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町花口 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町福寿実 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町福塚 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町福万来 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町丸山 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町三栄 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町宮内 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町三吉 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町矢戸 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日南町湯河 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県日野郡日南町阿毘縁
+    rdfs:label "阿毘縁"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町印賀
+    rdfs:label "印賀"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町折渡
+    rdfs:label "折渡"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町笠木
+    rdfs:label "笠木"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町霞
+    rdfs:label "霞"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町神戸上
+    rdfs:label "神戸上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町上石見
+    rdfs:label "上石見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町上萩山
+    rdfs:label "上萩山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町神福
+    rdfs:label "神福"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町河上
+    rdfs:label "河上"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町佐木谷
+    rdfs:label "佐木谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町下阿毘縁
+    rdfs:label "下阿毘縁"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町下石見
+    rdfs:label "下石見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町生山
+    rdfs:label "生山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町菅沢
+    rdfs:label "菅沢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町宝谷
+    rdfs:label "宝谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町多里
+    rdfs:label "多里"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町茶屋
+    rdfs:label "茶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町豊栄
+    rdfs:label "豊栄"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町中石見
+    rdfs:label "中石見"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町新屋
+    rdfs:label "新屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町萩原
+    rdfs:label "萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町花口
+    rdfs:label "花口"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町福寿実
+    rdfs:label "福寿実"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町福塚
+    rdfs:label "福塚"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町福万来
+    rdfs:label "福万来"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町丸山
+    rdfs:label "丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町三栄
+    rdfs:label "三栄"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町宮内
+    rdfs:label "宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町三吉
+    rdfs:label "三吉"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町矢戸
+    rdfs:label "矢戸"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日南町湯河
+    rdfs:label "湯河"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町
+    rdfs:label "日野郡日野町"@ja ;
+    mo:AreaCode "31402" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町秋縄 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町板井原 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町榎市 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町小河内 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町貝原 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町門谷 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町上菅 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町金持 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町久住 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町黒坂 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町高尾 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町小原 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町下榎 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町下黒坂 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町下菅 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町津地 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町中菅 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町濁谷 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町根雨 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町野田 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町福長 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町舟場 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町別所 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町本郷 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町三谷 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町三土 ;
+    mo:SubRegion mr:JP_鳥取県日野郡日野町安原 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県日野郡日野町秋縄
+    rdfs:label "秋縄"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町板井原
+    rdfs:label "板井原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町榎市
+    rdfs:label "榎市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町小河内
+    rdfs:label "小河内"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町貝原
+    rdfs:label "貝原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町門谷
+    rdfs:label "門谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町上菅
+    rdfs:label "上菅"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町金持
+    rdfs:label "金持"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町久住
+    rdfs:label "久住"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町黒坂
+    rdfs:label "黒坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町高尾
+    rdfs:label "高尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町小原
+    rdfs:label "小原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町下榎
+    rdfs:label "下榎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町下黒坂
+    rdfs:label "下黒坂"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町下菅
+    rdfs:label "下菅"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町津地
+    rdfs:label "津地"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町中菅
+    rdfs:label "中菅"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町濁谷
+    rdfs:label "濁谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町根雨
+    rdfs:label "根雨"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町福長
+    rdfs:label "福長"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町舟場
+    rdfs:label "舟場"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町別所
+    rdfs:label "別所"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町本郷
+    rdfs:label "本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町三谷
+    rdfs:label "三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町三土
+    rdfs:label "三土"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡日野町安原
+    rdfs:label "安原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町
+    rdfs:label "日野郡江府町"@ja ;
+    mo:AreaCode "31403" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町江尾 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町大河原 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町貝田 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町柿原 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町久連 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町小江尾 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町下蚊屋 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町佐川 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町下安井 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町洲河崎 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町杉谷 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町助沢 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町俣野 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町御机 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町宮市 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町美用 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町武庫 ;
+    mo:SubRegion mr:JP_鳥取県日野郡江府町吉原 ;
+a mo:GeoEntity .
+
+mr:JP_鳥取県日野郡江府町江尾
+    rdfs:label "江尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町大河原
+    rdfs:label "大河原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町貝田
+    rdfs:label "貝田"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町柿原
+    rdfs:label "柿原"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町久連
+    rdfs:label "久連"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町小江尾
+    rdfs:label "小江尾"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町下蚊屋
+    rdfs:label "下蚊屋"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町佐川
+    rdfs:label "佐川"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町下安井
+    rdfs:label "下安井"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町洲河崎
+    rdfs:label "洲河崎"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町杉谷
+    rdfs:label "杉谷"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町助沢
+    rdfs:label "助沢"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町俣野
+    rdfs:label "俣野"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町御机
+    rdfs:label "御机"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町宮市
+    rdfs:label "宮市"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町美用
+    rdfs:label "美用"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町武庫
+    rdfs:label "武庫"@ja ;
+    a mo:町域 .
+
+mr:JP_鳥取県日野郡江府町吉原
+    rdfs:label "吉原"@ja ;
+    a mo:町域 .
+
