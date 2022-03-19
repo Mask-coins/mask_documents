@@ -56,6 +56,27 @@ mr:つくば市TX沿線開発地区
     mo:SubRegion mr:つくば市萱丸地区 ;
     rdfs:comment ""@ja .
 
+mr:南方諸島
+    a mo:GeoEntity ;
+    rdfs:label "南方諸島"@ja ;
+    mo:SubRegion mr:伊豆諸島 ;
+    mo:SubRegion mr:小笠原諸島 ;
+    rdfs:comment "東京都の島嶼部にあたる"@ja .
+
+mr:伊豆諸島
+    a mo:GeoEntity ;
+    rdfs:label "伊豆諸島"@ja ;
+    rdfs:comment ""@ja .
+
+mr:小笠原諸島
+    a mo:GeoEntity ;
+    rdfs:label "小笠原諸島"@ja ;
+    mo:SameRegion  mr:JP_東京都小笠原村  ;
+    rdfs:comment ""@ja .
+
+
+
+
 
 
 
