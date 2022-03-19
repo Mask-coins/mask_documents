@@ -6,10 +6,28 @@
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 
+
+
+mr:鹿児島市喜入地区
+    a mo:GeoEntity ;
+    rdfs:label "喜入地区"@ja ;
+    mo:Category mc:Region.J.8;
+    mo:SubRegion mr:JP_鹿児島県鹿児島市喜入瀬々串町 ;
+    mo:SubRegion mr:JP_鹿児島県鹿児島市喜入中名町 ;
+    mo:SubRegion mr:JP_鹿児島県鹿児島市喜入町 ;
+    mo:SubRegion mr:JP_鹿児島県鹿児島市喜入一倉町 ;
+    mo:SubRegion mr:JP_鹿児島県鹿児島市喜入前之浜町 ;
+    mo:SubRegion mr:JP_鹿児島県鹿児島市喜入生見町 ;
+    mo:Reference <http://www.city.kagoshima.lg.jp/kikakuzaisei/kikaku/seisaku-s/shise/shokai/shishi/kire.html> ;
+    rdfs:comment "薩摩国給黎郡給黎郷、薩摩国給黎院、薩摩国給黎郡喜入郷、鹿児島県揖宿郡喜入町"@ja .
+mr:JP_鹿児島県鹿児島市 mo:SubRegion mr:鹿児島市喜入地区 .
+
+
 mr:薩南諸島
     a mo:GeoEntity ;
     rdfs:label "薩南諸島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region.J.8;
+    mo:Category mc:Region.J.9.奄美;
     mo:SubRegion mr:大隅諸島 ;
     mo:SubRegion mr:トカラ列島 ;
     mo:SubRegion mr:奄美群島 ;

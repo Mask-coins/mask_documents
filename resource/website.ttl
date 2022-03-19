@@ -16,3 +16,14 @@
     mo:Category mc:Region.J.2;
     a mo:WebSite.
 
+<http://www.city.kagoshima.lg.jp/>
+    rdfs:label "鹿児島市"@ja ;
+    a mo:WebSite.
+
+<http://www.city.kagoshima.lg.jp/kikakuzaisei/kikaku/seisaku-s/shise/shokai/shishi/kire.html>
+    rdfs:label "喜入町郷土誌（平成16年3月発行）"@ja ;
+    mo:HomeURL <http://www.city.kagoshima.lg.jp/> ;
+    mo:date "2020-09-29"^^xs:date ;
+    mo:Category mc:Region.J.8;
+    a mo:WebSite.
+
