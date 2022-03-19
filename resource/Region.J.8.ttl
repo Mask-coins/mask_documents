@@ -33,5 +33,51 @@ mr:薩南諸島
     mo:SubRegion mr:奄美群島 ;
     rdfs:comment ""@ja .
 
+mr:大隅群島
+    a mo:GeoEntity ;
+    rdfs:label "大隅群島"@ja ;
+    rdfs:label "大隅諸島"@ja ;
+    mo:Category mc:Region.J.8;
+    mo:GeoEntityDefenition mr:大隅諸島 ;
+    mo:SubRegion mr:草垣諸島 ;
+    mo:SubRegion mr:大隅熊毛地方 ;
+    mo:SubRegion mr:JP_鹿児島県鹿児島郡三島村 ;
+    rdfs:comment ""@ja .
+
+mr:大隅諸島
+    a mo:GeoEntity ;
+    rdfs:label "大隅群島"@ja ;
+    rdfs:label "大隅諸島"@ja ;
+    mo:Category mc:Region.J.8;
+    mo:GeoEntityDefenition mr:大隅群島 ;
+    mo:SubRegion mr:大隅熊毛地方 ;
+    mo:SubRegion mr:JP_鹿児島県鹿児島郡三島村 ;
+    rdfs:comment ""@ja .
+
+mr:大隅熊毛地方
+    a mo:GeoEntity ;
+    rdfs:label "熊毛地方"@ja ;
+    mo:Category mc:Region.J.8;
+    mo:SubRegion mr:種子島 ;
+    mo:SubRegion mr:馬毛島 ;
+    mo:SubRegion mr:口永良部島 ;
+    mo:SubRegion mr:屋久島 ;
+    mo:SubRegion mr:JP_鹿児島県西之表市 ;
+    mo:SubRegion mr:JP_鹿児島県熊毛郡中種子町 ;
+    mo:SubRegion mr:JP_鹿児島県熊毛郡南種子町  ;
+    mo:SubRegion mr:JP_鹿児島県熊毛郡屋久島町  ;
+    rdfs:comment ""@ja .
+
+mr:トカラ列島
+    a mo:GeoEntity ;
+    rdfs:label "トカラ列島"@ja ;
+    rdfs:label "吐噶喇列島"@ja ;
+    rdfs:label "下七島"@ja ;
+    rdfs:label "川辺郡七島"@ja ;
+    mo:Category mc:Region.J.8;
+    rdfs:comment ""@ja .
+
+
+
 
 
