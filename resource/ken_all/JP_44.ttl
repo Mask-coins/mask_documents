@@ -1,0 +1,9417 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_大分県
+    a mo:都道府県 ;
+    rdfs:label "大分県"@ja ;
+    mo:AreaCode "44" ;
+    mo:SubRegion mr:JP_大分県大分市 ;
+    mo:SubRegion mr:JP_大分県別府市 ;
+    mo:SubRegion mr:JP_大分県中津市 ;
+    mo:SubRegion mr:JP_大分県日田市 ;
+    mo:SubRegion mr:JP_大分県佐伯市 ;
+    mo:SubRegion mr:JP_大分県臼杵市 ;
+    mo:SubRegion mr:JP_大分県津久見市 ;
+    mo:SubRegion mr:JP_大分県竹田市 ;
+    mo:SubRegion mr:JP_大分県豊後高田市 ;
+    mo:SubRegion mr:JP_大分県杵築市 ;
+    mo:SubRegion mr:JP_大分県宇佐市 ;
+    mo:SubRegion mr:JP_大分県豊後大野市 ;
+    mo:SubRegion mr:JP_大分県由布市 ;
+    mo:SubRegion mr:JP_大分県国東市 ;
+    mo:SubRegion mr:JP_大分県東国東郡姫島村 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町 ;
+    a mo:GeoEntity .
+
+mr:JP_大分県大分市
+    rdfs:label "大分市"@ja ;
+    mo:AreaCode "44201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県大分市青崎 ;
+    mo:SubRegion mr:JP_大分県大分市青葉台 ;
+    mo:SubRegion mr:JP_大分県大分市青葉町 ;
+    mo:SubRegion mr:JP_大分県大分市丹川 ;
+    mo:SubRegion mr:JP_大分県大分市明磧 ;
+    mo:SubRegion mr:JP_大分県大分市明磧町 ;
+    mo:SubRegion mr:JP_大分県大分市明野高尾 ;
+    mo:SubRegion mr:JP_大分県大分市明野東 ;
+    mo:SubRegion mr:JP_大分県大分市明野西 ;
+    mo:SubRegion mr:JP_大分県大分市明野南 ;
+    mo:SubRegion mr:JP_大分県大分市明野北 ;
+    mo:SubRegion mr:JP_大分県大分市明野北町 ;
+    mo:SubRegion mr:JP_大分県大分市明野紅陽台 ;
+    mo:SubRegion mr:JP_大分県大分市明野ハイツ ;
+    mo:SubRegion mr:JP_大分県大分市曙台 ;
+    mo:SubRegion mr:JP_大分県大分市旭町 ;
+    mo:SubRegion mr:JP_大分県大分市芦崎 ;
+    mo:SubRegion mr:JP_大分県大分市尼が瀬 ;
+    mo:SubRegion mr:JP_大分県大分市安藤 ;
+    mo:SubRegion mr:JP_大分県大分市家島 ;
+    mo:SubRegion mr:JP_大分県大分市生石 ;
+    mo:SubRegion mr:JP_大分県大分市生石港町 ;
+    mo:SubRegion mr:JP_大分県大分市泉町 ;
+    mo:SubRegion mr:JP_大分県大分市市 ;
+    mo:SubRegion mr:JP_大分県大分市一木 ;
+    mo:SubRegion mr:JP_大分県大分市市尾 ;
+    mo:SubRegion mr:JP_大分県大分市一の洲 ;
+    mo:SubRegion mr:JP_大分県大分市一尺屋 ;
+    mo:SubRegion mr:JP_大分県大分市猪野 ;
+    mo:SubRegion mr:JP_大分県大分市今市 ;
+    mo:SubRegion mr:JP_大分県大分市今津留 ;
+    mo:SubRegion mr:JP_大分県大分市入蔵 ;
+    mo:SubRegion mr:JP_大分県大分市岩田町 ;
+    mo:SubRegion mr:JP_大分県大分市上田町 ;
+    mo:SubRegion mr:JP_大分県大分市上野南 ;
+    mo:SubRegion mr:JP_大分県大分市上野丘 ;
+    mo:SubRegion mr:JP_大分県大分市上野丘東 ;
+    mo:SubRegion mr:JP_大分県大分市上野丘西 ;
+    mo:SubRegion mr:JP_大分県大分市上野町 ;
+    mo:SubRegion mr:JP_大分県大分市梅が丘 ;
+    mo:SubRegion mr:JP_大分県大分市裏川団地 ;
+    mo:SubRegion mr:JP_大分県大分市荏隈 ;
+    mo:SubRegion mr:JP_大分県大分市荏隈町 ;
+    mo:SubRegion mr:JP_大分県大分市恵比寿町 ;
+    mo:SubRegion mr:JP_大分県大分市王子新町 ;
+    mo:SubRegion mr:JP_大分県大分市王子中町 ;
+    mo:SubRegion mr:JP_大分県大分市王子港町 ;
+    mo:SubRegion mr:JP_大分県大分市王子西町 ;
+    mo:SubRegion mr:JP_大分県大分市王子南町 ;
+    mo:SubRegion mr:JP_大分県大分市王子北町 ;
+    mo:SubRegion mr:JP_大分県大分市王子山の手町 ;
+    mo:SubRegion mr:JP_大分県大分市王子町 ;
+    mo:SubRegion mr:JP_大分県大分市王ノ瀬 ;
+    mo:SubRegion mr:JP_大分県大分市大石町 ;
+    mo:SubRegion mr:JP_大分県大分市大分流通業務団地 ;
+    mo:SubRegion mr:JP_大分県大分市大久保 ;
+    mo:SubRegion mr:JP_大分県大分市大在 ;
+    mo:SubRegion mr:JP_大分県大分市大在北 ;
+    mo:SubRegion mr:JP_大分県大分市大在中央 ;
+    mo:SubRegion mr:JP_大分県大分市大在浜 ;
+    mo:SubRegion mr:JP_大分県大分市大州浜 ;
+    mo:SubRegion mr:JP_大分県大分市大園団地 ;
+    mo:SubRegion mr:JP_大分県大分市太田 ;
+    mo:SubRegion mr:JP_大分県大分市大津町 ;
+    mo:SubRegion mr:JP_大分県大分市大津留 ;
+    mo:SubRegion mr:JP_大分県大分市大手町 ;
+    mo:SubRegion mr:JP_大分県大分市大平 ;
+    mo:SubRegion mr:JP_大分県大分市大道町 ;
+    mo:SubRegion mr:JP_大分県大分市岡 ;
+    mo:SubRegion mr:JP_大分県大分市岡川 ;
+    mo:SubRegion mr:JP_大分県大分市岡新町 ;
+    mo:SubRegion mr:JP_大分県大分市雄城台 ;
+    mo:SubRegion mr:JP_大分県大分市雄城台中央 ;
+    mo:SubRegion mr:JP_大分県大分市奥 ;
+    mo:SubRegion mr:JP_大分県大分市鴛野 ;
+    mo:SubRegion mr:JP_大分県大分市乙津 ;
+    mo:SubRegion mr:JP_大分県大分市乙津町 ;
+    mo:SubRegion mr:JP_大分県大分市乙津港町 ;
+    mo:SubRegion mr:JP_大分県大分市小中島 ;
+    mo:SubRegion mr:JP_大分県大分市鬼崎 ;
+    mo:SubRegion mr:JP_大分県大分市小野鶴 ;
+    mo:SubRegion mr:JP_大分県大分市小野鶴新町 ;
+    mo:SubRegion mr:JP_大分県大分市小野鶴南 ;
+    mo:SubRegion mr:JP_大分県大分市海原 ;
+    mo:SubRegion mr:JP_大分県大分市賀来 ;
+    mo:SubRegion mr:JP_大分県大分市賀来北 ;
+    mo:SubRegion mr:JP_大分県大分市賀来新川 ;
+    mo:SubRegion mr:JP_大分県大分市賀来西 ;
+    mo:SubRegion mr:JP_大分県大分市賀来南 ;
+    mo:SubRegion mr:JP_大分県大分市春日浦 ;
+    mo:SubRegion mr:JP_大分県大分市片島 ;
+    mo:SubRegion mr:JP_大分県大分市かたしま台 ;
+    mo:SubRegion mr:JP_大分県大分市葛木 ;
+    mo:SubRegion mr:JP_大分県大分市金池町 ;
+    mo:SubRegion mr:JP_大分県大分市金池南 ;
+    mo:SubRegion mr:JP_大分県大分市要町 ;
+    mo:SubRegion mr:JP_大分県大分市金谷迫 ;
+    mo:SubRegion mr:JP_大分県大分市加納 ;
+    mo:SubRegion mr:JP_大分県大分市上春日町 ;
+    mo:SubRegion mr:JP_大分県大分市上白木 ;
+    mo:SubRegion mr:JP_大分県大分市上詰 ;
+    mo:SubRegion mr:JP_大分県大分市上判田 ;
+    mo:SubRegion mr:JP_大分県大分市上戸次 ;
+    mo:SubRegion mr:JP_大分県大分市上宗方 ;
+    mo:SubRegion mr:JP_大分県大分市上宗方南 ;
+    mo:SubRegion mr:JP_大分県大分市上八幡 ;
+    mo:SubRegion mr:JP_大分県大分市河原内 ;
+    mo:SubRegion mr:JP_大分県大分市木佐上 ;
+    mo:SubRegion mr:JP_大分県大分市北下郡 ;
+    mo:SubRegion mr:JP_大分県大分市北鶴崎 ;
+    mo:SubRegion mr:JP_大分県大分市木田 ;
+    mo:SubRegion mr:JP_大分県大分市机張原 ;
+    mo:SubRegion mr:JP_大分県大分市木上 ;
+    mo:SubRegion mr:JP_大分県大分市木上台 ;
+    mo:SubRegion mr:JP_大分県大分市季の坂 ;
+    mo:SubRegion mr:JP_大分県大分市希望が丘 ;
+    mo:SubRegion mr:JP_大分県大分市京が丘南 ;
+    mo:SubRegion mr:JP_大分県大分市口戸 ;
+    mo:SubRegion mr:JP_大分県大分市久土 ;
+    mo:SubRegion mr:JP_大分県大分市久原 ;
+    mo:SubRegion mr:JP_大分県大分市久原北 ;
+    mo:SubRegion mr:JP_大分県大分市久原中央 ;
+    mo:SubRegion mr:JP_大分県大分市久原南 ;
+    mo:SubRegion mr:JP_大分県大分市毛井 ;
+    mo:SubRegion mr:JP_大分県大分市けやき台 ;
+    mo:SubRegion mr:JP_大分県大分市顕徳町 ;
+    mo:SubRegion mr:JP_大分県大分市小池原 ;
+    mo:SubRegion mr:JP_大分県大分市公園通り ;
+    mo:SubRegion mr:JP_大分県大分市公園通り西 ;
+    mo:SubRegion mr:JP_大分県大分市古ケ鶴 ;
+    mo:SubRegion mr:JP_大分県大分市国分 ;
+    mo:SubRegion mr:JP_大分県大分市国分新町 ;
+    mo:SubRegion mr:JP_大分県大分市国分台 ;
+    mo:SubRegion mr:JP_大分県大分市国分団地 ;
+    mo:SubRegion mr:JP_大分県大分市小佐井 ;
+    mo:SubRegion mr:JP_大分県大分市寿町 ;
+    mo:SubRegion mr:JP_大分県大分市小原団地 ;
+    mo:SubRegion mr:JP_大分県大分市坂ノ市 ;
+    mo:SubRegion mr:JP_大分県大分市坂ノ市中央 ;
+    mo:SubRegion mr:JP_大分県大分市坂ノ市西 ;
+    mo:SubRegion mr:JP_大分県大分市坂ノ市南 ;
+    mo:SubRegion mr:JP_大分県大分市佐賀関 ;
+    mo:SubRegion mr:JP_大分県大分市桜ケ丘 ;
+    mo:SubRegion mr:JP_大分県大分市迫 ;
+    mo:SubRegion mr:JP_大分県大分市里 ;
+    mo:SubRegion mr:JP_大分県大分市佐野 ;
+    mo:SubRegion mr:JP_大分県大分市沢田 ;
+    mo:SubRegion mr:JP_大分県大分市サンシャインしきど ;
+    mo:SubRegion mr:JP_大分県大分市椎迫 ;
+    mo:SubRegion mr:JP_大分県大分市汐見 ;
+    mo:SubRegion mr:JP_大分県大分市敷戸 ;
+    mo:SubRegion mr:JP_大分県大分市敷戸駅北町 ;
+    mo:SubRegion mr:JP_大分県大分市敷戸新町 ;
+    mo:SubRegion mr:JP_大分県大分市敷戸台 ;
+    mo:SubRegion mr:JP_大分県大分市敷戸東町 ;
+    mo:SubRegion mr:JP_大分県大分市敷戸西町 ;
+    mo:SubRegion mr:JP_大分県大分市敷戸南町 ;
+    mo:SubRegion mr:JP_大分県大分市敷戸北町 ;
+    mo:SubRegion mr:JP_大分県大分市志津留 ;
+    mo:SubRegion mr:JP_大分県大分市志手 ;
+    mo:SubRegion mr:JP_大分県大分市志村 ;
+    mo:SubRegion mr:JP_大分県大分市下郡北 ;
+    mo:SubRegion mr:JP_大分県大分市下郡中央 ;
+    mo:SubRegion mr:JP_大分県大分市下郡東 ;
+    mo:SubRegion mr:JP_大分県大分市下郡南 ;
+    mo:SubRegion mr:JP_大分県大分市下郡山の手 ;
+    mo:SubRegion mr:JP_大分県大分市下郡 ;
+    mo:SubRegion mr:JP_大分県大分市下郡工業団地 ;
+    mo:SubRegion mr:JP_大分県大分市下白木 ;
+    mo:SubRegion mr:JP_大分県大分市下徳丸 ;
+    mo:SubRegion mr:JP_大分県大分市下原 ;
+    mo:SubRegion mr:JP_大分県大分市下判田 ;
+    mo:SubRegion mr:JP_大分県大分市下戸次 ;
+    mo:SubRegion mr:JP_大分県大分市下宗方 ;
+    mo:SubRegion mr:JP_大分県大分市下八幡 ;
+    mo:SubRegion mr:JP_大分県大分市志生木 ;
+    mo:SubRegion mr:JP_大分県大分市庄境 ;
+    mo:SubRegion mr:JP_大分県大分市城東町 ;
+    mo:SubRegion mr:JP_大分県大分市城南北 ;
+    mo:SubRegion mr:JP_大分県大分市城南西 ;
+    mo:SubRegion mr:JP_大分県大分市城南東 ;
+    mo:SubRegion mr:JP_大分県大分市城南南 ;
+    mo:SubRegion mr:JP_大分県大分市城南山手台 ;
+    mo:SubRegion mr:JP_大分県大分市城原 ;
+    mo:SubRegion mr:JP_大分県大分市庄の原 ;
+    mo:SubRegion mr:JP_大分県大分市白木 ;
+    mo:SubRegion mr:JP_大分県大分市城崎町 ;
+    mo:SubRegion mr:JP_大分県大分市新春日町 ;
+    mo:SubRegion mr:JP_大分県大分市新川西 ;
+    mo:SubRegion mr:JP_大分県大分市新川町 ;
+    mo:SubRegion mr:JP_大分県大分市新貝 ;
+    mo:SubRegion mr:JP_大分県大分市新栄町 ;
+    mo:SubRegion mr:JP_大分県大分市新町 ;
+    mo:SubRegion mr:JP_大分県大分市新明治 ;
+    mo:SubRegion mr:JP_大分県大分市末広町 ;
+    mo:SubRegion mr:JP_大分県大分市須賀 ;
+    mo:SubRegion mr:JP_大分県大分市杉原 ;
+    mo:SubRegion mr:JP_大分県大分市住吉町 ;
+    mo:SubRegion mr:JP_大分県大分市勢家町 ;
+    mo:SubRegion mr:JP_大分県大分市星和台 ;
+    mo:SubRegion mr:JP_大分県大分市関園 ;
+    mo:SubRegion mr:JP_大分県大分市碩田町 ;
+    mo:SubRegion mr:JP_大分県大分市千歳 ;
+    mo:SubRegion mr:JP_大分県大分市寒田 ;
+    mo:SubRegion mr:JP_大分県大分市寒田北町 ;
+    mo:SubRegion mr:JP_大分県大分市寒田南町 ;
+    mo:SubRegion mr:JP_大分県大分市寒田わかば台 ;
+    mo:SubRegion mr:JP_大分県大分市太平町 ;
+    mo:SubRegion mr:JP_大分県大分市高江中央 ;
+    mo:SubRegion mr:JP_大分県大分市高江西 ;
+    mo:SubRegion mr:JP_大分県大分市高江南 ;
+    mo:SubRegion mr:JP_大分県大分市高江北 ;
+    mo:SubRegion mr:JP_大分県大分市高尾台 ;
+    mo:SubRegion mr:JP_大分県大分市高崎 ;
+    mo:SubRegion mr:JP_大分県大分市高砂町 ;
+    mo:SubRegion mr:JP_大分県大分市高城新町 ;
+    mo:SubRegion mr:JP_大分県大分市高城台 ;
+    mo:SubRegion mr:JP_大分県大分市高城団地 ;
+    mo:SubRegion mr:JP_大分県大分市高城西町 ;
+    mo:SubRegion mr:JP_大分県大分市高城本町 ;
+    mo:SubRegion mr:JP_大分県大分市高城南町 ;
+    mo:SubRegion mr:JP_大分県大分市高瀬 ;
+    mo:SubRegion mr:JP_大分県大分市高原 ;
+    mo:SubRegion mr:JP_大分県大分市高松 ;
+    mo:SubRegion mr:JP_大分県大分市高松東 ;
+    mo:SubRegion mr:JP_大分県大分市竹下 ;
+    mo:SubRegion mr:JP_大分県大分市竹中 ;
+    mo:SubRegion mr:JP_大分県大分市竹の上 ;
+    mo:SubRegion mr:JP_大分県大分市竹矢 ;
+    mo:SubRegion mr:JP_大分県大分市田尻 ;
+    mo:SubRegion mr:JP_大分県大分市田尻北 ;
+    mo:SubRegion mr:JP_大分県大分市田尻中央 ;
+    mo:SubRegion mr:JP_大分県大分市田尻西 ;
+    mo:SubRegion mr:JP_大分県大分市田尻東 ;
+    mo:SubRegion mr:JP_大分県大分市田尻南 ;
+    mo:SubRegion mr:JP_大分県大分市田中町 ;
+    mo:SubRegion mr:JP_大分県大分市種具 ;
+    mo:SubRegion mr:JP_大分県大分市田ノ浦 ;
+    mo:SubRegion mr:JP_大分県大分市田原 ;
+    mo:SubRegion mr:JP_大分県大分市玉沢 ;
+    mo:SubRegion mr:JP_大分県大分市田室町 ;
+    mo:SubRegion mr:JP_大分県大分市旦野原 ;
+    mo:SubRegion mr:JP_大分県大分市中央町 ;
+    mo:SubRegion mr:JP_大分県大分市千代町 ;
+    mo:SubRegion mr:JP_大分県大分市月形 ;
+    mo:SubRegion mr:JP_大分県大分市辻 ;
+    mo:SubRegion mr:JP_大分県大分市辻原 ;
+    mo:SubRegion mr:JP_大分県大分市常行 ;
+    mo:SubRegion mr:JP_大分県大分市角子原 ;
+    mo:SubRegion mr:JP_大分県大分市角子南 ;
+    mo:SubRegion mr:JP_大分県大分市椿が丘 ;
+    mo:SubRegion mr:JP_大分県大分市津守 ;
+    mo:SubRegion mr:JP_大分県大分市津留 ;
+    mo:SubRegion mr:JP_大分県大分市鶴崎 ;
+    mo:SubRegion mr:JP_大分県大分市鶴崎コスモス団地 ;
+    mo:SubRegion mr:JP_大分県大分市つるさき陽光台 ;
+    mo:SubRegion mr:JP_大分県大分市鶴瀬 ;
+    mo:SubRegion mr:JP_大分県大分市寺崎町 ;
+    mo:SubRegion mr:JP_大分県大分市天領ハイツ ;
+    mo:SubRegion mr:JP_大分県大分市東院 ;
+    mo:SubRegion mr:JP_大分県大分市東野台 ;
+    mo:SubRegion mr:JP_大分県大分市徳島 ;
+    mo:SubRegion mr:JP_大分県大分市富岡 ;
+    mo:SubRegion mr:JP_大分県大分市豊海 ;
+    mo:SubRegion mr:JP_大分県大分市中尾 ;
+    mo:SubRegion mr:JP_大分県大分市中春日町 ;
+    mo:SubRegion mr:JP_大分県大分市中島中央 ;
+    mo:SubRegion mr:JP_大分県大分市中島東 ;
+    mo:SubRegion mr:JP_大分県大分市中島西 ;
+    mo:SubRegion mr:JP_大分県大分市中鶴崎 ;
+    mo:SubRegion mr:JP_大分県大分市中津留 ;
+    mo:SubRegion mr:JP_大分県大分市仲西町 ;
+    mo:SubRegion mr:JP_大分県大分市中ノ洲 ;
+    mo:SubRegion mr:JP_大分県大分市中の瀬町 ;
+    mo:SubRegion mr:JP_大分県大分市中判田 ;
+    mo:SubRegion mr:JP_大分県大分市中戸次 ;
+    mo:SubRegion mr:JP_大分県大分市長谷町 ;
+    mo:SubRegion mr:JP_大分県大分市長浜町 ;
+    mo:SubRegion mr:JP_大分県大分市鳴川 ;
+    mo:SubRegion mr:JP_大分県大分市荷揚町 ;
+    mo:SubRegion mr:JP_大分県大分市荷尾杵 ;
+    mo:SubRegion mr:JP_大分県大分市西大道 ;
+    mo:SubRegion mr:JP_大分県大分市西春日町 ;
+    mo:SubRegion mr:JP_大分県大分市錦町 ;
+    mo:SubRegion mr:JP_大分県大分市西新地 ;
+    mo:SubRegion mr:JP_大分県大分市西鶴崎 ;
+    mo:SubRegion mr:JP_大分県大分市西ノ洲 ;
+    mo:SubRegion mr:JP_大分県大分市西浜 ;
+    mo:SubRegion mr:JP_大分県大分市にじが丘 ;
+    mo:SubRegion mr:JP_大分県大分市丹生 ;
+    mo:SubRegion mr:JP_大分県大分市望みが丘 ;
+    mo:SubRegion mr:JP_大分県大分市野田 ;
+    mo:SubRegion mr:JP_大分県大分市野津原 ;
+    mo:SubRegion mr:JP_大分県大分市萩尾 ;
+    mo:SubRegion mr:JP_大分県大分市萩原 ;
+    mo:SubRegion mr:JP_大分県大分市畑中 ;
+    mo:SubRegion mr:JP_大分県大分市端登 ;
+    mo:SubRegion mr:JP_大分県大分市羽田 ;
+    mo:SubRegion mr:JP_大分県大分市花江川 ;
+    mo:SubRegion mr:JP_大分県大分市花園 ;
+    mo:SubRegion mr:JP_大分県大分市花高松 ;
+    mo:SubRegion mr:JP_大分県大分市花津留 ;
+    mo:SubRegion mr:JP_大分県大分市花の木坂 ;
+    mo:SubRegion mr:JP_大分県大分市はなの森 ;
+    mo:SubRegion mr:JP_大分県大分市馬場 ;
+    mo:SubRegion mr:JP_大分県大分市浜中 ;
+    mo:SubRegion mr:JP_大分県大分市浜の市 ;
+    mo:SubRegion mr:JP_大分県大分市浜町東 ;
+    mo:SubRegion mr:JP_大分県大分市浜町北 ;
+    mo:SubRegion mr:JP_大分県大分市羽屋 ;
+    mo:SubRegion mr:JP_大分県大分市羽屋新町 ;
+    mo:SubRegion mr:JP_大分県大分市原川 ;
+    mo:SubRegion mr:JP_大分県大分市原新町 ;
+    mo:SubRegion mr:JP_大分県大分市判田台 ;
+    mo:SubRegion mr:JP_大分県大分市判田台北 ;
+    mo:SubRegion mr:JP_大分県大分市判田台東 ;
+    mo:SubRegion mr:JP_大分県大分市判田台南 ;
+    mo:SubRegion mr:JP_大分県大分市日岡 ;
+    mo:SubRegion mr:JP_大分県大分市東明野 ;
+    mo:SubRegion mr:JP_大分県大分市東上野 ;
+    mo:SubRegion mr:JP_大分県大分市東大道 ;
+    mo:SubRegion mr:JP_大分県大分市東春日町 ;
+    mo:SubRegion mr:JP_大分県大分市東鶴崎 ;
+    mo:SubRegion mr:JP_大分県大分市東津留 ;
+    mo:SubRegion mr:JP_大分県大分市東浜 ;
+    mo:SubRegion mr:JP_大分県大分市東原 ;
+    mo:SubRegion mr:JP_大分県大分市東八幡 ;
+    mo:SubRegion mr:JP_大分県大分市ひばりケ丘 ;
+    mo:SubRegion mr:JP_大分県大分市日吉原 ;
+    mo:SubRegion mr:JP_大分県大分市日吉町 ;
+    mo:SubRegion mr:JP_大分県大分市平横瀬 ;
+    mo:SubRegion mr:JP_大分県大分市広内 ;
+    mo:SubRegion mr:JP_大分県大分市広瀬町 ;
+    mo:SubRegion mr:JP_大分県大分市深河内 ;
+    mo:SubRegion mr:JP_大分県大分市福宗 ;
+    mo:SubRegion mr:JP_大分県大分市福良 ;
+    mo:SubRegion mr:JP_大分県大分市ふじが丘 ;
+    mo:SubRegion mr:JP_大分県大分市ふじが丘北 ;
+    mo:SubRegion mr:JP_大分県大分市ふじが丘西 ;
+    mo:SubRegion mr:JP_大分県大分市ふじが丘東 ;
+    mo:SubRegion mr:JP_大分県大分市ふじが丘南 ;
+    mo:SubRegion mr:JP_大分県大分市ふじが丘山手 ;
+    mo:SubRegion mr:JP_大分県大分市藤の台 ;
+    mo:SubRegion mr:JP_大分県大分市富士見が丘東 ;
+    mo:SubRegion mr:JP_大分県大分市富士見が丘西 ;
+    mo:SubRegion mr:JP_大分県大分市二又町 ;
+    mo:SubRegion mr:JP_大分県大分市府内町 ;
+    mo:SubRegion mr:JP_大分県大分市豊饒 ;
+    mo:SubRegion mr:JP_大分県大分市古国府 ;
+    mo:SubRegion mr:JP_大分県大分市弁天 ;
+    mo:SubRegion mr:JP_大分県大分市芳河原台 ;
+    mo:SubRegion mr:JP_大分県大分市法勝台 ;
+    mo:SubRegion mr:JP_大分県大分市細 ;
+    mo:SubRegion mr:JP_大分県大分市本神崎 ;
+    mo:SubRegion mr:JP_大分県大分市舞鶴町 ;
+    mo:SubRegion mr:JP_大分県大分市曲 ;
+    mo:SubRegion mr:JP_大分県大分市牧 ;
+    mo:SubRegion mr:JP_大分県大分市牧上町 ;
+    mo:SubRegion mr:JP_大分県大分市松岡 ;
+    mo:SubRegion mr:JP_大分県大分市松が丘 ;
+    mo:SubRegion mr:JP_大分県大分市松原町 ;
+    mo:SubRegion mr:JP_大分県大分市政所 ;
+    mo:SubRegion mr:JP_大分県大分市丸亀 ;
+    mo:SubRegion mr:JP_大分県大分市三ケ田町 ;
+    mo:SubRegion mr:JP_大分県大分市三佐 ;
+    mo:SubRegion mr:JP_大分県大分市三川上 ;
+    mo:SubRegion mr:JP_大分県大分市三川下 ;
+    mo:SubRegion mr:JP_大分県大分市三川新町 ;
+    mo:SubRegion mr:JP_大分県大分市美園団地 ;
+    mo:SubRegion mr:JP_大分県大分市光吉 ;
+    mo:SubRegion mr:JP_大分県大分市光吉新町 ;
+    mo:SubRegion mr:JP_大分県大分市光吉台 ;
+    mo:SubRegion mr:JP_大分県大分市緑が丘 ;
+    mo:SubRegion mr:JP_大分県大分市皆春 ;
+    mo:SubRegion mr:JP_大分県大分市南 ;
+    mo:SubRegion mr:JP_大分県大分市南生石東 ;
+    mo:SubRegion mr:JP_大分県大分市南生石西 ;
+    mo:SubRegion mr:JP_大分県大分市南春日町 ;
+    mo:SubRegion mr:JP_大分県大分市南下郡 ;
+    mo:SubRegion mr:JP_大分県大分市南太平寺 ;
+    mo:SubRegion mr:JP_大分県大分市南鶴崎 ;
+    mo:SubRegion mr:JP_大分県大分市南津留 ;
+    mo:SubRegion mr:JP_大分県大分市宮尾 ;
+    mo:SubRegion mr:JP_大分県大分市宮河内 ;
+    mo:SubRegion mr:JP_大分県大分市宮河内ハイランド ;
+    mo:SubRegion mr:JP_大分県大分市都町 ;
+    mo:SubRegion mr:JP_大分県大分市宮崎 ;
+    mo:SubRegion mr:JP_大分県大分市宮崎台 ;
+    mo:SubRegion mr:JP_大分県大分市宮苑 ;
+    mo:SubRegion mr:JP_大分県大分市御幸町 ;
+    mo:SubRegion mr:JP_大分県大分市三芳 ;
+    mo:SubRegion mr:JP_大分県大分市向原沖 ;
+    mo:SubRegion mr:JP_大分県大分市向原東 ;
+    mo:SubRegion mr:JP_大分県大分市向原西 ;
+    mo:SubRegion mr:JP_大分県大分市宗方台北 ;
+    mo:SubRegion mr:JP_大分県大分市宗方台西 ;
+    mo:SubRegion mr:JP_大分県大分市宗方台東 ;
+    mo:SubRegion mr:JP_大分県大分市廻栖野 ;
+    mo:SubRegion mr:JP_大分県大分市米良 ;
+    mo:SubRegion mr:JP_大分県大分市萌葱台 ;
+    mo:SubRegion mr:JP_大分県大分市元町 ;
+    mo:SubRegion mr:JP_大分県大分市桃園団地 ;
+    mo:SubRegion mr:JP_大分県大分市森 ;
+    mo:SubRegion mr:JP_大分県大分市森町 ;
+    mo:SubRegion mr:JP_大分県大分市森町西 ;
+    mo:SubRegion mr:JP_大分県大分市山津町 ;
+    mo:SubRegion mr:JP_大分県大分市屋山 ;
+    mo:SubRegion mr:JP_大分県大分市豊町 ;
+    mo:SubRegion mr:JP_大分県大分市ゆめが丘 ;
+    mo:SubRegion mr:JP_大分県大分市横尾 ;
+    mo:SubRegion mr:JP_大分県大分市横尾東町 ;
+    mo:SubRegion mr:JP_大分県大分市横瀬 ;
+    mo:SubRegion mr:JP_大分県大分市横田 ;
+    mo:SubRegion mr:JP_大分県大分市横塚 ;
+    mo:SubRegion mr:JP_大分県大分市吉野原 ;
+    mo:SubRegion mr:JP_大分県大分市永興 ;
+    mo:SubRegion mr:JP_大分県大分市六坊南町 ;
+    mo:SubRegion mr:JP_大分県大分市六坊北町 ;
+a mo:GeoEntity .
+
+mr:JP_大分県大分市青崎
+    rdfs:label "青崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市青葉台
+    rdfs:label "青葉台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市青葉町
+    rdfs:label "青葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市丹川
+    rdfs:label "丹川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明磧
+    rdfs:label "明磧"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明磧町
+    rdfs:label "明磧町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明野高尾
+    rdfs:label "明野高尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明野東
+    rdfs:label "明野東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明野西
+    rdfs:label "明野西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明野南
+    rdfs:label "明野南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明野北
+    rdfs:label "明野北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明野北町
+    rdfs:label "明野北町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明野紅陽台
+    rdfs:label "明野紅陽台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市明野ハイツ
+    rdfs:label "明野ハイツ"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市曙台
+    rdfs:label "曙台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市芦崎
+    rdfs:label "芦崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市尼が瀬
+    rdfs:label "尼が瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市安藤
+    rdfs:label "安藤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市家島
+    rdfs:label "家島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市生石
+    rdfs:label "生石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市生石港町
+    rdfs:label "生石港町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市市
+    rdfs:label "市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市一木
+    rdfs:label "一木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市市尾
+    rdfs:label "市尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市一の洲
+    rdfs:label "一の洲"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市一尺屋
+    rdfs:label "一尺屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市猪野
+    rdfs:label "猪野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市今市
+    rdfs:label "今市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市今津留
+    rdfs:label "今津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市入蔵
+    rdfs:label "入蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市岩田町
+    rdfs:label "岩田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上田町
+    rdfs:label "上田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上野南
+    rdfs:label "上野南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上野丘
+    rdfs:label "上野丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上野丘東
+    rdfs:label "上野丘東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上野丘西
+    rdfs:label "上野丘西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上野町
+    rdfs:label "上野町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市梅が丘
+    rdfs:label "梅が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市裏川団地
+    rdfs:label "裏川団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市荏隈
+    rdfs:label "荏隈"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市荏隈町
+    rdfs:label "荏隈町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市恵比寿町
+    rdfs:label "恵比寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王子新町
+    rdfs:label "王子新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王子中町
+    rdfs:label "王子中町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王子港町
+    rdfs:label "王子港町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王子西町
+    rdfs:label "王子西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王子南町
+    rdfs:label "王子南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王子北町
+    rdfs:label "王子北町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王子山の手町
+    rdfs:label "王子山の手町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王子町
+    rdfs:label "王子町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市王ノ瀬
+    rdfs:label "王ノ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大石町
+    rdfs:label "大石町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大分流通業務団地
+    rdfs:label "大分流通業務団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大在
+    rdfs:label "大在"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大在北
+    rdfs:label "大在北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大在中央
+    rdfs:label "大在中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大在浜
+    rdfs:label "大在浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大州浜
+    rdfs:label "大州浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大園団地
+    rdfs:label "大園団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市太田
+    rdfs:label "太田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大津町
+    rdfs:label "大津町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大津留
+    rdfs:label "大津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大手町
+    rdfs:label "大手町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市大道町
+    rdfs:label "大道町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市岡
+    rdfs:label "岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市岡川
+    rdfs:label "岡川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市岡新町
+    rdfs:label "岡新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市雄城台
+    rdfs:label "雄城台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市雄城台中央
+    rdfs:label "雄城台中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市奥
+    rdfs:label "奥"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市鴛野
+    rdfs:label "鴛野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市乙津
+    rdfs:label "乙津"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市乙津町
+    rdfs:label "乙津町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市乙津港町
+    rdfs:label "乙津港町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市小中島
+    rdfs:label "小中島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市鬼崎
+    rdfs:label "鬼崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市小野鶴
+    rdfs:label "小野鶴"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市小野鶴新町
+    rdfs:label "小野鶴新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市小野鶴南
+    rdfs:label "小野鶴南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市海原
+    rdfs:label "海原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市賀来
+    rdfs:label "賀来"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市賀来北
+    rdfs:label "賀来北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市賀来新川
+    rdfs:label "賀来新川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市賀来西
+    rdfs:label "賀来西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市賀来南
+    rdfs:label "賀来南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市春日浦
+    rdfs:label "春日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市片島
+    rdfs:label "片島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市かたしま台
+    rdfs:label "かたしま台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市葛木
+    rdfs:label "葛木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市金池町
+    rdfs:label "金池町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市金池南
+    rdfs:label "金池南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市要町
+    rdfs:label "要町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市金谷迫
+    rdfs:label "金谷迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市加納
+    rdfs:label "加納"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上春日町
+    rdfs:label "上春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上白木
+    rdfs:label "上白木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上詰
+    rdfs:label "上詰"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上判田
+    rdfs:label "上判田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上戸次
+    rdfs:label "上戸次"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上宗方
+    rdfs:label "上宗方"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上宗方南
+    rdfs:label "上宗方南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市上八幡
+    rdfs:label "上八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市河原内
+    rdfs:label "河原内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市木佐上
+    rdfs:label "木佐上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市北下郡
+    rdfs:label "北下郡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市北鶴崎
+    rdfs:label "北鶴崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市木田
+    rdfs:label "木田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市机張原
+    rdfs:label "机張原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市木上
+    rdfs:label "木上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市木上台
+    rdfs:label "木上台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市季の坂
+    rdfs:label "季の坂"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市希望が丘
+    rdfs:label "希望が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市京が丘南
+    rdfs:label "京が丘南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市口戸
+    rdfs:label "口戸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市久土
+    rdfs:label "久土"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市久原
+    rdfs:label "久原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市久原北
+    rdfs:label "久原北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市久原中央
+    rdfs:label "久原中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市久原南
+    rdfs:label "久原南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市毛井
+    rdfs:label "毛井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市けやき台
+    rdfs:label "けやき台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市顕徳町
+    rdfs:label "顕徳町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市小池原
+    rdfs:label "小池原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市公園通り
+    rdfs:label "公園通り"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市公園通り西
+    rdfs:label "公園通り西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市古ケ鶴
+    rdfs:label "古ケ鶴"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市国分
+    rdfs:label "国分"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市国分新町
+    rdfs:label "国分新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市国分台
+    rdfs:label "国分台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市国分団地
+    rdfs:label "国分団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市小佐井
+    rdfs:label "小佐井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市小原団地
+    rdfs:label "小原団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市坂ノ市
+    rdfs:label "坂ノ市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市坂ノ市中央
+    rdfs:label "坂ノ市中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市坂ノ市西
+    rdfs:label "坂ノ市西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市坂ノ市南
+    rdfs:label "坂ノ市南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市佐賀関
+    rdfs:label "佐賀関"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市桜ケ丘
+    rdfs:label "桜ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市迫
+    rdfs:label "迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市里
+    rdfs:label "里"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市佐野
+    rdfs:label "佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市沢田
+    rdfs:label "沢田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市サンシャインしきど
+    rdfs:label "サンシャインしきど"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市椎迫
+    rdfs:label "椎迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市汐見
+    rdfs:label "汐見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市敷戸
+    rdfs:label "敷戸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市敷戸駅北町
+    rdfs:label "敷戸駅北町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市敷戸新町
+    rdfs:label "敷戸新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市敷戸台
+    rdfs:label "敷戸台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市敷戸東町
+    rdfs:label "敷戸東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市敷戸西町
+    rdfs:label "敷戸西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市敷戸南町
+    rdfs:label "敷戸南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市敷戸北町
+    rdfs:label "敷戸北町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市志津留
+    rdfs:label "志津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市志手
+    rdfs:label "志手"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市志村
+    rdfs:label "志村"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下郡北
+    rdfs:label "下郡北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下郡中央
+    rdfs:label "下郡中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下郡東
+    rdfs:label "下郡東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下郡南
+    rdfs:label "下郡南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下郡山の手
+    rdfs:label "下郡山の手"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下郡
+    rdfs:label "下郡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下郡工業団地
+    rdfs:label "下郡工業団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下白木
+    rdfs:label "下白木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下徳丸
+    rdfs:label "下徳丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下原
+    rdfs:label "下原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下判田
+    rdfs:label "下判田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下戸次
+    rdfs:label "下戸次"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下宗方
+    rdfs:label "下宗方"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市下八幡
+    rdfs:label "下八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市志生木
+    rdfs:label "志生木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市庄境
+    rdfs:label "庄境"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市城東町
+    rdfs:label "城東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市城南北
+    rdfs:label "城南北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市城南西
+    rdfs:label "城南西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市城南東
+    rdfs:label "城南東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市城南南
+    rdfs:label "城南南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市城南山手台
+    rdfs:label "城南山手台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市城原
+    rdfs:label "城原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市庄の原
+    rdfs:label "庄の原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市白木
+    rdfs:label "白木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市城崎町
+    rdfs:label "城崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市新春日町
+    rdfs:label "新春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市新川西
+    rdfs:label "新川西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市新川町
+    rdfs:label "新川町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市新貝
+    rdfs:label "新貝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市新栄町
+    rdfs:label "新栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市新明治
+    rdfs:label "新明治"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市須賀
+    rdfs:label "須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市杉原
+    rdfs:label "杉原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市勢家町
+    rdfs:label "勢家町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市星和台
+    rdfs:label "星和台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市関園
+    rdfs:label "関園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市碩田町
+    rdfs:label "碩田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市千歳
+    rdfs:label "千歳"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市寒田
+    rdfs:label "寒田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市寒田北町
+    rdfs:label "寒田北町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市寒田南町
+    rdfs:label "寒田南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市寒田わかば台
+    rdfs:label "寒田わかば台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市太平町
+    rdfs:label "太平町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高江中央
+    rdfs:label "高江中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高江西
+    rdfs:label "高江西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高江南
+    rdfs:label "高江南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高江北
+    rdfs:label "高江北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高尾台
+    rdfs:label "高尾台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高崎
+    rdfs:label "高崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高砂町
+    rdfs:label "高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高城新町
+    rdfs:label "高城新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高城台
+    rdfs:label "高城台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高城団地
+    rdfs:label "高城団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高城西町
+    rdfs:label "高城西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高城本町
+    rdfs:label "高城本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高城南町
+    rdfs:label "高城南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高瀬
+    rdfs:label "高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高原
+    rdfs:label "高原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高松
+    rdfs:label "高松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市高松東
+    rdfs:label "高松東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市竹下
+    rdfs:label "竹下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市竹中
+    rdfs:label "竹中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市竹の上
+    rdfs:label "竹の上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市竹矢
+    rdfs:label "竹矢"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田尻
+    rdfs:label "田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田尻北
+    rdfs:label "田尻北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田尻中央
+    rdfs:label "田尻中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田尻西
+    rdfs:label "田尻西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田尻東
+    rdfs:label "田尻東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田尻南
+    rdfs:label "田尻南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田中町
+    rdfs:label "田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市種具
+    rdfs:label "種具"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田ノ浦
+    rdfs:label "田ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田原
+    rdfs:label "田原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市玉沢
+    rdfs:label "玉沢"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市田室町
+    rdfs:label "田室町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市旦野原
+    rdfs:label "旦野原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市千代町
+    rdfs:label "千代町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市月形
+    rdfs:label "月形"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市辻
+    rdfs:label "辻"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市辻原
+    rdfs:label "辻原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市常行
+    rdfs:label "常行"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市角子原
+    rdfs:label "角子原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市角子南
+    rdfs:label "角子南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市椿が丘
+    rdfs:label "椿が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市津守
+    rdfs:label "津守"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市津留
+    rdfs:label "津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市鶴崎
+    rdfs:label "鶴崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市鶴崎コスモス団地
+    rdfs:label "鶴崎コスモス団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市つるさき陽光台
+    rdfs:label "つるさき陽光台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市鶴瀬
+    rdfs:label "鶴瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市寺崎町
+    rdfs:label "寺崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市天領ハイツ
+    rdfs:label "天領ハイツ"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東院
+    rdfs:label "東院"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東野台
+    rdfs:label "東野台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市徳島
+    rdfs:label "徳島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市豊海
+    rdfs:label "豊海"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中尾
+    rdfs:label "中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中春日町
+    rdfs:label "中春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中島中央
+    rdfs:label "中島中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中島東
+    rdfs:label "中島東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中島西
+    rdfs:label "中島西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中鶴崎
+    rdfs:label "中鶴崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中津留
+    rdfs:label "中津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市仲西町
+    rdfs:label "仲西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中ノ洲
+    rdfs:label "中ノ洲"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中の瀬町
+    rdfs:label "中の瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中判田
+    rdfs:label "中判田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市中戸次
+    rdfs:label "中戸次"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市長谷町
+    rdfs:label "長谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市長浜町
+    rdfs:label "長浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市鳴川
+    rdfs:label "鳴川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市荷揚町
+    rdfs:label "荷揚町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市荷尾杵
+    rdfs:label "荷尾杵"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市西大道
+    rdfs:label "西大道"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市西春日町
+    rdfs:label "西春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市西新地
+    rdfs:label "西新地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市西鶴崎
+    rdfs:label "西鶴崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市西ノ洲
+    rdfs:label "西ノ洲"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市西浜
+    rdfs:label "西浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市にじが丘
+    rdfs:label "にじが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市丹生
+    rdfs:label "丹生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市望みが丘
+    rdfs:label "望みが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市野津原
+    rdfs:label "野津原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市萩尾
+    rdfs:label "萩尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市萩原
+    rdfs:label "萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市畑中
+    rdfs:label "畑中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市端登
+    rdfs:label "端登"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市羽田
+    rdfs:label "羽田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市花江川
+    rdfs:label "花江川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市花園
+    rdfs:label "花園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市花高松
+    rdfs:label "花高松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市花津留
+    rdfs:label "花津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市花の木坂
+    rdfs:label "花の木坂"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市はなの森
+    rdfs:label "はなの森"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市馬場
+    rdfs:label "馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市浜中
+    rdfs:label "浜中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市浜の市
+    rdfs:label "浜の市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市浜町東
+    rdfs:label "浜町東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市浜町北
+    rdfs:label "浜町北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市羽屋
+    rdfs:label "羽屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市羽屋新町
+    rdfs:label "羽屋新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市原川
+    rdfs:label "原川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市原新町
+    rdfs:label "原新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市判田台
+    rdfs:label "判田台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市判田台北
+    rdfs:label "判田台北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市判田台東
+    rdfs:label "判田台東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市判田台南
+    rdfs:label "判田台南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市日岡
+    rdfs:label "日岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東明野
+    rdfs:label "東明野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東上野
+    rdfs:label "東上野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東大道
+    rdfs:label "東大道"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東春日町
+    rdfs:label "東春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東鶴崎
+    rdfs:label "東鶴崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東津留
+    rdfs:label "東津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東浜
+    rdfs:label "東浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東原
+    rdfs:label "東原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市東八幡
+    rdfs:label "東八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市ひばりケ丘
+    rdfs:label "ひばりケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市日吉原
+    rdfs:label "日吉原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市日吉町
+    rdfs:label "日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市平横瀬
+    rdfs:label "平横瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市広内
+    rdfs:label "広内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市広瀬町
+    rdfs:label "広瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市深河内
+    rdfs:label "深河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市福宗
+    rdfs:label "福宗"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市福良
+    rdfs:label "福良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市ふじが丘
+    rdfs:label "ふじが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市ふじが丘北
+    rdfs:label "ふじが丘北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市ふじが丘西
+    rdfs:label "ふじが丘西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市ふじが丘東
+    rdfs:label "ふじが丘東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市ふじが丘南
+    rdfs:label "ふじが丘南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市ふじが丘山手
+    rdfs:label "ふじが丘山手"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市藤の台
+    rdfs:label "藤の台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市富士見が丘東
+    rdfs:label "富士見が丘東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市富士見が丘西
+    rdfs:label "富士見が丘西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市二又町
+    rdfs:label "二又町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市府内町
+    rdfs:label "府内町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市豊饒
+    rdfs:label "豊饒"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市古国府
+    rdfs:label "古国府"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市弁天
+    rdfs:label "弁天"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市芳河原台
+    rdfs:label "芳河原台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市法勝台
+    rdfs:label "法勝台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市細
+    rdfs:label "細"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市本神崎
+    rdfs:label "本神崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市舞鶴町
+    rdfs:label "舞鶴町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市曲
+    rdfs:label "曲"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市牧
+    rdfs:label "牧"@ja ;
+    mo:SubRegion mr:JP_大分県大分市牧白滝Ｂ・Ｃ ;
+    mo:SubRegion mr:JP_大分県大分市牧高見 ;
+    a mo:町域 .
+
+mr:JP_大分県大分市牧白滝Ｂ・Ｃ
+    rdfs:label "白滝Ｂ・Ｃ"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市牧高見
+    rdfs:label "高見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市牧上町
+    rdfs:label "牧上町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市松岡
+    rdfs:label "松岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市松が丘
+    rdfs:label "松が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市政所
+    rdfs:label "政所"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市丸亀
+    rdfs:label "丸亀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市三ケ田町
+    rdfs:label "三ケ田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市三佐
+    rdfs:label "三佐"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市三川上
+    rdfs:label "三川上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市三川下
+    rdfs:label "三川下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市三川新町
+    rdfs:label "三川新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市美園団地
+    rdfs:label "美園団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市光吉
+    rdfs:label "光吉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市光吉新町
+    rdfs:label "光吉新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市光吉台
+    rdfs:label "光吉台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市緑が丘
+    rdfs:label "緑が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市皆春
+    rdfs:label "皆春"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市南
+    rdfs:label "南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市南生石東
+    rdfs:label "南生石東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市南生石西
+    rdfs:label "南生石西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市南春日町
+    rdfs:label "南春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市南下郡
+    rdfs:label "南下郡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市南太平寺
+    rdfs:label "南太平寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市南鶴崎
+    rdfs:label "南鶴崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市南津留
+    rdfs:label "南津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宮尾
+    rdfs:label "宮尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宮河内
+    rdfs:label "宮河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宮河内ハイランド
+    rdfs:label "宮河内ハイランド"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市都町
+    rdfs:label "都町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宮崎
+    rdfs:label "宮崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宮崎台
+    rdfs:label "宮崎台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宮苑
+    rdfs:label "宮苑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市御幸町
+    rdfs:label "御幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市三芳
+    rdfs:label "三芳"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市向原沖
+    rdfs:label "向原沖"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市向原東
+    rdfs:label "向原東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市向原西
+    rdfs:label "向原西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宗方台北
+    rdfs:label "宗方台北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宗方台西
+    rdfs:label "宗方台西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市宗方台東
+    rdfs:label "宗方台東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市廻栖野
+    rdfs:label "廻栖野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市米良
+    rdfs:label "米良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市萌葱台
+    rdfs:label "萌葱台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市桃園団地
+    rdfs:label "桃園団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市森町
+    rdfs:label "森町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市森町西
+    rdfs:label "森町西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市山津町
+    rdfs:label "山津町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市屋山
+    rdfs:label "屋山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市豊町
+    rdfs:label "豊町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市ゆめが丘
+    rdfs:label "ゆめが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市横尾
+    rdfs:label "横尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市横尾東町
+    rdfs:label "横尾東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市横瀬
+    rdfs:label "横瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市横塚
+    rdfs:label "横塚"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市吉野原
+    rdfs:label "吉野原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市永興
+    rdfs:label "永興"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市六坊南町
+    rdfs:label "六坊南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県大分市六坊北町
+    rdfs:label "六坊北町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市
+    rdfs:label "別府市"@ja ;
+    mo:AreaCode "44202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県別府市青山町 ;
+    mo:SubRegion mr:JP_大分県別府市赤松 ;
+    mo:SubRegion mr:JP_大分県別府市秋葉町 ;
+    mo:SubRegion mr:JP_大分県別府市朝日ケ丘町 ;
+    mo:SubRegion mr:JP_大分県別府市朝見 ;
+    mo:SubRegion mr:JP_大分県別府市天間 ;
+    mo:SubRegion mr:JP_大分県別府市石垣東 ;
+    mo:SubRegion mr:JP_大分県別府市石垣西 ;
+    mo:SubRegion mr:JP_大分県別府市井田 ;
+    mo:SubRegion mr:JP_大分県別府市内竈 ;
+    mo:SubRegion mr:JP_大分県別府市内成 ;
+    mo:SubRegion mr:JP_大分県別府市浦田 ;
+    mo:SubRegion mr:JP_大分県別府市駅前町 ;
+    mo:SubRegion mr:JP_大分県別府市駅前本町 ;
+    mo:SubRegion mr:JP_大分県別府市枝郷 ;
+    mo:SubRegion mr:JP_大分県別府市扇山 ;
+    mo:SubRegion mr:JP_大分県別府市小倉 ;
+    mo:SubRegion mr:JP_大分県別府市小坂 ;
+    mo:SubRegion mr:JP_大分県別府市大所 ;
+    mo:SubRegion mr:JP_大分県別府市乙原 ;
+    mo:SubRegion mr:JP_大分県別府市大畑 ;
+    mo:SubRegion mr:JP_大分県別府市上田の湯町 ;
+    mo:SubRegion mr:JP_大分県別府市上野口町 ;
+    mo:SubRegion mr:JP_大分県別府市上原町 ;
+    mo:SubRegion mr:JP_大分県別府市上平田町 ;
+    mo:SubRegion mr:JP_大分県別府市亀川四の湯町 ;
+    mo:SubRegion mr:JP_大分県別府市亀川中央町 ;
+    mo:SubRegion mr:JP_大分県別府市亀川浜田町 ;
+    mo:SubRegion mr:JP_大分県別府市亀川東町 ;
+    mo:SubRegion mr:JP_大分県別府市観海寺 ;
+    mo:SubRegion mr:JP_大分県別府市鉄輪上 ;
+    mo:SubRegion mr:JP_大分県別府市鉄輪東 ;
+    mo:SubRegion mr:JP_大分県別府市城島 ;
+    mo:SubRegion mr:JP_大分県別府市北鉄輪 ;
+    mo:SubRegion mr:JP_大分県別府市北中 ;
+    mo:SubRegion mr:JP_大分県別府市北浜 ;
+    mo:SubRegion mr:JP_大分県別府市北的ケ浜町 ;
+    mo:SubRegion mr:JP_大分県別府市京町 ;
+    mo:SubRegion mr:JP_大分県別府市楠町 ;
+    mo:SubRegion mr:JP_大分県別府市国立 ;
+    mo:SubRegion mr:JP_大分県別府市河内 ;
+    mo:SubRegion mr:JP_大分県別府市古賀原 ;
+    mo:SubRegion mr:JP_大分県別府市幸町 ;
+    mo:SubRegion mr:JP_大分県別府市桜ケ丘 ;
+    mo:SubRegion mr:JP_大分県別府市汐見町 ;
+    mo:SubRegion mr:JP_大分県別府市実相寺 ;
+    mo:SubRegion mr:JP_大分県別府市上人仲町 ;
+    mo:SubRegion mr:JP_大分県別府市上人本町 ;
+    mo:SubRegion mr:JP_大分県別府市上人西 ;
+    mo:SubRegion mr:JP_大分県別府市上人南 ;
+    mo:SubRegion mr:JP_大分県別府市上人ケ浜町 ;
+    mo:SubRegion mr:JP_大分県別府市照波園町 ;
+    mo:SubRegion mr:JP_大分県別府市新別府 ;
+    mo:SubRegion mr:JP_大分県別府市新港町 ;
+    mo:SubRegion mr:JP_大分県別府市末広町 ;
+    mo:SubRegion mr:JP_大分県別府市スパランド豊海 ;
+    mo:SubRegion mr:JP_大分県別府市関の江新町 ;
+    mo:SubRegion mr:JP_大分県別府市荘園 ;
+    mo:SubRegion mr:JP_大分県別府市荘園北町 ;
+    mo:SubRegion mr:JP_大分県別府市大観山町 ;
+    mo:SubRegion mr:JP_大分県別府市竹の内 ;
+    mo:SubRegion mr:JP_大分県別府市立田町 ;
+    mo:SubRegion mr:JP_大分県別府市田の口 ;
+    mo:SubRegion mr:JP_大分県別府市田の湯町 ;
+    mo:SubRegion mr:JP_大分県別府市中央町 ;
+    mo:SubRegion mr:JP_大分県別府市千代町 ;
+    mo:SubRegion mr:JP_大分県別府市鶴見 ;
+    mo:SubRegion mr:JP_大分県別府市鶴見園町 ;
+    mo:SubRegion mr:JP_大分県別府市天満町 ;
+    mo:SubRegion mr:JP_大分県別府市鳥越 ;
+    mo:SubRegion mr:JP_大分県別府市中島町 ;
+    mo:SubRegion mr:JP_大分県別府市中須賀東町 ;
+    mo:SubRegion mr:JP_大分県別府市中須賀本町 ;
+    mo:SubRegion mr:JP_大分県別府市中須賀元町 ;
+    mo:SubRegion mr:JP_大分県別府市西野口町 ;
+    mo:SubRegion mr:JP_大分県別府市野口中町 ;
+    mo:SubRegion mr:JP_大分県別府市野口元町 ;
+    mo:SubRegion mr:JP_大分県別府市野口原 ;
+    mo:SubRegion mr:JP_大分県別府市野田 ;
+    mo:SubRegion mr:JP_大分県別府市馬場 ;
+    mo:SubRegion mr:JP_大分県別府市浜町 ;
+    mo:SubRegion mr:JP_大分県別府市浜脇 ;
+    mo:SubRegion mr:JP_大分県別府市原町 ;
+    mo:SubRegion mr:JP_大分県別府市春木 ;
+    mo:SubRegion mr:JP_大分県別府市光町 ;
+    mo:SubRegion mr:JP_大分県別府市東荘園 ;
+    mo:SubRegion mr:JP_大分県別府市東山一区 ;
+    mo:SubRegion mr:JP_大分県別府市東山二区 ;
+    mo:SubRegion mr:JP_大分県別府市平田町 ;
+    mo:SubRegion mr:JP_大分県別府市富士見町 ;
+    mo:SubRegion mr:JP_大分県別府市船小路町 ;
+    mo:SubRegion mr:JP_大分県別府市古市町 ;
+    mo:SubRegion mr:JP_大分県別府市風呂本 ;
+    mo:SubRegion mr:JP_大分県別府市火売 ;
+    mo:SubRegion mr:JP_大分県別府市堀田 ;
+    mo:SubRegion mr:JP_大分県別府市松原町 ;
+    mo:SubRegion mr:JP_大分県別府市緑丘町 ;
+    mo:SubRegion mr:JP_大分県別府市南須賀 ;
+    mo:SubRegion mr:JP_大分県別府市南荘園町 ;
+    mo:SubRegion mr:JP_大分県別府市南立石生目町 ;
+    mo:SubRegion mr:JP_大分県別府市南立石板地町 ;
+    mo:SubRegion mr:JP_大分県別府市南立石一区 ;
+    mo:SubRegion mr:JP_大分県別府市南立石二区 ;
+    mo:SubRegion mr:JP_大分県別府市南立石八幡町 ;
+    mo:SubRegion mr:JP_大分県別府市南立石本町 ;
+    mo:SubRegion mr:JP_大分県別府市南町 ;
+    mo:SubRegion mr:JP_大分県別府市南的ケ浜町 ;
+    mo:SubRegion mr:JP_大分県別府市御幸 ;
+    mo:SubRegion mr:JP_大分県別府市明礬 ;
+    mo:SubRegion mr:JP_大分県別府市餅ケ浜町 ;
+    mo:SubRegion mr:JP_大分県別府市元町 ;
+    mo:SubRegion mr:JP_大分県別府市柳 ;
+    mo:SubRegion mr:JP_大分県別府市山家 ;
+    mo:SubRegion mr:JP_大分県別府市山の口 ;
+    mo:SubRegion mr:JP_大分県別府市山の手町 ;
+    mo:SubRegion mr:JP_大分県別府市弓ケ浜町 ;
+    mo:SubRegion mr:JP_大分県別府市湯山 ;
+    mo:SubRegion mr:JP_大分県別府市両郡橋 ;
+    mo:SubRegion mr:JP_大分県別府市若草町 ;
+a mo:GeoEntity .
+
+mr:JP_大分県別府市青山町
+    rdfs:label "青山町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市赤松
+    rdfs:label "赤松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市秋葉町
+    rdfs:label "秋葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市朝日ケ丘町
+    rdfs:label "朝日ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市朝見
+    rdfs:label "朝見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市天間
+    rdfs:label "天間"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市石垣東
+    rdfs:label "石垣東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市石垣西
+    rdfs:label "石垣西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市井田
+    rdfs:label "井田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市内竈
+    rdfs:label "内竈"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市内成
+    rdfs:label "内成"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市浦田
+    rdfs:label "浦田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市駅前町
+    rdfs:label "駅前町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市駅前本町
+    rdfs:label "駅前本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市枝郷
+    rdfs:label "枝郷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市扇山
+    rdfs:label "扇山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市小倉
+    rdfs:label "小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市小坂
+    rdfs:label "小坂"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市大所
+    rdfs:label "大所"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市乙原
+    rdfs:label "乙原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市大畑
+    rdfs:label "大畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上田の湯町
+    rdfs:label "上田の湯町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上野口町
+    rdfs:label "上野口町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上原町
+    rdfs:label "上原町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上平田町
+    rdfs:label "上平田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市亀川四の湯町
+    rdfs:label "亀川四の湯町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市亀川中央町
+    rdfs:label "亀川中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市亀川浜田町
+    rdfs:label "亀川浜田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市亀川東町
+    rdfs:label "亀川東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市観海寺
+    rdfs:label "観海寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市鉄輪上
+    rdfs:label "鉄輪上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市鉄輪東
+    rdfs:label "鉄輪東"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市城島
+    rdfs:label "城島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市北鉄輪
+    rdfs:label "北鉄輪"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市北中
+    rdfs:label "北中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市北浜
+    rdfs:label "北浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市北的ケ浜町
+    rdfs:label "北的ケ浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市楠町
+    rdfs:label "楠町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市国立
+    rdfs:label "国立"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市古賀原
+    rdfs:label "古賀原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市桜ケ丘
+    rdfs:label "桜ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市汐見町
+    rdfs:label "汐見町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市実相寺
+    rdfs:label "実相寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上人仲町
+    rdfs:label "上人仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上人本町
+    rdfs:label "上人本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上人西
+    rdfs:label "上人西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上人南
+    rdfs:label "上人南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市上人ケ浜町
+    rdfs:label "上人ケ浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市照波園町
+    rdfs:label "照波園町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市新別府
+    rdfs:label "新別府"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市新港町
+    rdfs:label "新港町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市スパランド豊海
+    rdfs:label "スパランド豊海"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市関の江新町
+    rdfs:label "関の江新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市荘園
+    rdfs:label "荘園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市荘園北町
+    rdfs:label "荘園北町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市大観山町
+    rdfs:label "大観山町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市竹の内
+    rdfs:label "竹の内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市立田町
+    rdfs:label "立田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市田の口
+    rdfs:label "田の口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市田の湯町
+    rdfs:label "田の湯町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市千代町
+    rdfs:label "千代町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市鶴見
+    rdfs:label "鶴見"@ja ;
+    mo:SubRegion mr:JP_大分県別府市鶴見大字 ;
+    a mo:町域 .
+
+mr:JP_大分県別府市鶴見大字
+    rdfs:label "大字"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市鶴見園町
+    rdfs:label "鶴見園町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市天満町
+    rdfs:label "天満町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市鳥越
+    rdfs:label "鳥越"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市中島町
+    rdfs:label "中島町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市中須賀東町
+    rdfs:label "中須賀東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市中須賀本町
+    rdfs:label "中須賀本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市中須賀元町
+    rdfs:label "中須賀元町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市西野口町
+    rdfs:label "西野口町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市野口中町
+    rdfs:label "野口中町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市野口元町
+    rdfs:label "野口元町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市野口原
+    rdfs:label "野口原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市馬場
+    rdfs:label "馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市浜脇
+    rdfs:label "浜脇"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市春木
+    rdfs:label "春木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市光町
+    rdfs:label "光町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市東荘園
+    rdfs:label "東荘園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市東山一区
+    rdfs:label "東山一区"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市東山二区
+    rdfs:label "東山二区"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市平田町
+    rdfs:label "平田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市船小路町
+    rdfs:label "船小路町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市古市町
+    rdfs:label "古市町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市風呂本
+    rdfs:label "風呂本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市火売
+    rdfs:label "火売"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市堀田
+    rdfs:label "堀田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市緑丘町
+    rdfs:label "緑丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南須賀
+    rdfs:label "南須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南荘園町
+    rdfs:label "南荘園町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南立石生目町
+    rdfs:label "南立石生目町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南立石板地町
+    rdfs:label "南立石板地町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南立石一区
+    rdfs:label "南立石一区"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南立石二区
+    rdfs:label "南立石二区"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南立石八幡町
+    rdfs:label "南立石八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南立石本町
+    rdfs:label "南立石本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市南的ケ浜町
+    rdfs:label "南的ケ浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市御幸
+    rdfs:label "御幸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市明礬
+    rdfs:label "明礬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市餅ケ浜町
+    rdfs:label "餅ケ浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市柳
+    rdfs:label "柳"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市山家
+    rdfs:label "山家"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市山の口
+    rdfs:label "山の口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市山の手町
+    rdfs:label "山の手町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市弓ケ浜町
+    rdfs:label "弓ケ浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市湯山
+    rdfs:label "湯山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市両郡橋
+    rdfs:label "両郡橋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県別府市若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市
+    rdfs:label "中津市"@ja ;
+    mo:AreaCode "44203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県中津市相原 ;
+    mo:SubRegion mr:JP_大分県中津市赤迫 ;
+    mo:SubRegion mr:JP_大分県中津市市場 ;
+    mo:SubRegion mr:JP_大分県中津市伊藤田 ;
+    mo:SubRegion mr:JP_大分県中津市犬丸 ;
+    mo:SubRegion mr:JP_大分県中津市今津 ;
+    mo:SubRegion mr:JP_大分県中津市植野 ;
+    mo:SubRegion mr:JP_大分県中津市牛神 ;
+    mo:SubRegion mr:JP_大分県中津市牛神町 ;
+    mo:SubRegion mr:JP_大分県中津市浦町 ;
+    mo:SubRegion mr:JP_大分県中津市餌指町 ;
+    mo:SubRegion mr:JP_大分県中津市枝町 ;
+    mo:SubRegion mr:JP_大分県中津市蛭子町 ;
+    mo:SubRegion mr:JP_大分県中津市江三竹町 ;
+    mo:SubRegion mr:JP_大分県中津市合馬 ;
+    mo:SubRegion mr:JP_大分県中津市大貞 ;
+    mo:SubRegion mr:JP_大分県中津市大新田 ;
+    mo:SubRegion mr:JP_大分県中津市大塚 ;
+    mo:SubRegion mr:JP_大分県中津市沖代町 ;
+    mo:SubRegion mr:JP_大分県中津市萱津町 ;
+    mo:SubRegion mr:JP_大分県中津市蛎瀬 ;
+    mo:SubRegion mr:JP_大分県中津市加来 ;
+    mo:SubRegion mr:JP_大分県中津市水主町 ;
+    mo:SubRegion mr:JP_大分県中津市片端町 ;
+    mo:SubRegion mr:JP_大分県中津市金手 ;
+    mo:SubRegion mr:JP_大分県中津市金谷 ;
+    mo:SubRegion mr:JP_大分県中津市上池永 ;
+    mo:SubRegion mr:JP_大分県中津市上如水 ;
+    mo:SubRegion mr:JP_大分県中津市上博多町 ;
+    mo:SubRegion mr:JP_大分県中津市上宮永 ;
+    mo:SubRegion mr:JP_大分県中津市北稲堀 ;
+    mo:SubRegion mr:JP_大分県中津市北浦町 ;
+    mo:SubRegion mr:JP_大分県中津市北新地 ;
+    mo:SubRegion mr:JP_大分県中津市北原 ;
+    mo:SubRegion mr:JP_大分県中津市北堀川町 ;
+    mo:SubRegion mr:JP_大分県中津市北門通 ;
+    mo:SubRegion mr:JP_大分県中津市京町 ;
+    mo:SubRegion mr:JP_大分県中津市闇無町 ;
+    mo:SubRegion mr:JP_大分県中津市小祝 ;
+    mo:SubRegion mr:JP_大分県中津市小祝新町 ;
+    mo:SubRegion mr:JP_大分県中津市古城 ;
+    mo:SubRegion mr:JP_大分県中津市小堀 ;
+    mo:SubRegion mr:JP_大分県中津市米町 ;
+    mo:SubRegion mr:JP_大分県中津市是則 ;
+    mo:SubRegion mr:JP_大分県中津市栄町 ;
+    mo:SubRegion mr:JP_大分県中津市榊原町 ;
+    mo:SubRegion mr:JP_大分県中津市桜町 ;
+    mo:SubRegion mr:JP_大分県中津市定留 ;
+    mo:SubRegion mr:JP_大分県中津市三光諫山 ;
+    mo:SubRegion mr:JP_大分県中津市三光臼木 ;
+    mo:SubRegion mr:JP_大分県中津市三光小袋 ;
+    mo:SubRegion mr:JP_大分県中津市三光上深水 ;
+    mo:SubRegion mr:JP_大分県中津市三光上秣 ;
+    mo:SubRegion mr:JP_大分県中津市三光佐知 ;
+    mo:SubRegion mr:JP_大分県中津市三光下深水 ;
+    mo:SubRegion mr:JP_大分県中津市三光下秣 ;
+    mo:SubRegion mr:JP_大分県中津市三光田口 ;
+    mo:SubRegion mr:JP_大分県中津市三光土田 ;
+    mo:SubRegion mr:JP_大分県中津市三光成恒 ;
+    mo:SubRegion mr:JP_大分県中津市三光西秣 ;
+    mo:SubRegion mr:JP_大分県中津市三光原口 ;
+    mo:SubRegion mr:JP_大分県中津市三光森山 ;
+    mo:SubRegion mr:JP_大分県中津市三ノ丁 ;
+    mo:SubRegion mr:JP_大分県中津市塩町 ;
+    mo:SubRegion mr:JP_大分県中津市島田 ;
+    mo:SubRegion mr:JP_大分県中津市島田仲町 ;
+    mo:SubRegion mr:JP_大分県中津市島田本町 ;
+    mo:SubRegion mr:JP_大分県中津市下池永 ;
+    mo:SubRegion mr:JP_大分県中津市下正路 ;
+    mo:SubRegion mr:JP_大分県中津市下永添 ;
+    mo:SubRegion mr:JP_大分県中津市下宮永 ;
+    mo:SubRegion mr:JP_大分県中津市昭和新田 ;
+    mo:SubRegion mr:JP_大分県中津市新魚町 ;
+    mo:SubRegion mr:JP_大分県中津市新大塚町 ;
+    mo:SubRegion mr:JP_大分県中津市新天神町 ;
+    mo:SubRegion mr:JP_大分県中津市新博多町 ;
+    mo:SubRegion mr:JP_大分県中津市新堀 ;
+    mo:SubRegion mr:JP_大分県中津市船頭町 ;
+    mo:SubRegion mr:JP_大分県中津市全徳 ;
+    mo:SubRegion mr:JP_大分県中津市船場町 ;
+    mo:SubRegion mr:JP_大分県中津市外馬場 ;
+    mo:SubRegion mr:JP_大分県中津市大悟法 ;
+    mo:SubRegion mr:JP_大分県中津市鷹匠町 ;
+    mo:SubRegion mr:JP_大分県中津市高瀬 ;
+    mo:SubRegion mr:JP_大分県中津市鷹部屋 ;
+    mo:SubRegion mr:JP_大分県中津市田尻 ;
+    mo:SubRegion mr:JP_大分県中津市田尻崎 ;
+    mo:SubRegion mr:JP_大分県中津市中央町 ;
+    mo:SubRegion mr:JP_大分県中津市仲間町 ;
+    mo:SubRegion mr:JP_大分県中津市角木 ;
+    mo:SubRegion mr:JP_大分県中津市角木新町 ;
+    mo:SubRegion mr:JP_大分県中津市角木町 ;
+    mo:SubRegion mr:JP_大分県中津市寺町 ;
+    mo:SubRegion mr:JP_大分県中津市天神町 ;
+    mo:SubRegion mr:JP_大分県中津市殿町 ;
+    mo:SubRegion mr:JP_大分県中津市豊田町 ;
+    mo:SubRegion mr:JP_大分県中津市中殿 ;
+    mo:SubRegion mr:JP_大分県中津市中殿町 ;
+    mo:SubRegion mr:JP_大分県中津市中原 ;
+    mo:SubRegion mr:JP_大分県中津市永添 ;
+    mo:SubRegion mr:JP_大分県中津市鍋島 ;
+    mo:SubRegion mr:JP_大分県中津市西永添 ;
+    mo:SubRegion mr:JP_大分県中津市西堀端 ;
+    mo:SubRegion mr:JP_大分県中津市二ノ丁 ;
+    mo:SubRegion mr:JP_大分県中津市野依 ;
+    mo:SubRegion mr:JP_大分県中津市八幡町 ;
+    mo:SubRegion mr:JP_大分県中津市東浜 ;
+    mo:SubRegion mr:JP_大分県中津市東堀端 ;
+    mo:SubRegion mr:JP_大分県中津市東本町 ;
+    mo:SubRegion mr:JP_大分県中津市一ツ松 ;
+    mo:SubRegion mr:JP_大分県中津市日ノ出町 ;
+    mo:SubRegion mr:JP_大分県中津市姫路町 ;
+    mo:SubRegion mr:JP_大分県中津市福島 ;
+    mo:SubRegion mr:JP_大分県中津市袋町 ;
+    mo:SubRegion mr:JP_大分県中津市船町 ;
+    mo:SubRegion mr:JP_大分県中津市古魚町 ;
+    mo:SubRegion mr:JP_大分県中津市古金谷 ;
+    mo:SubRegion mr:JP_大分県中津市古博多町 ;
+    mo:SubRegion mr:JP_大分県中津市豊後町 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町跡田 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町今行 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町落合 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町折元 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町冠石野 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町下屋形 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町曽木 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町多志田 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町西谷 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町西屋形 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町東谷 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町東屋形 ;
+    mo:SubRegion mr:JP_大分県中津市本耶馬渓町樋田 ;
+    mo:SubRegion mr:JP_大分県中津市丸山町 ;
+    mo:SubRegion mr:JP_大分県中津市万田 ;
+    mo:SubRegion mr:JP_大分県中津市南稲堀 ;
+    mo:SubRegion mr:JP_大分県中津市南新地 ;
+    mo:SubRegion mr:JP_大分県中津市南堀川町 ;
+    mo:SubRegion mr:JP_大分県中津市宮島町 ;
+    mo:SubRegion mr:JP_大分県中津市宮夫 ;
+    mo:SubRegion mr:JP_大分県中津市諸田 ;
+    mo:SubRegion mr:JP_大分県中津市諸町 ;
+    mo:SubRegion mr:JP_大分県中津市矢場 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町大島 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町大野 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町小友田 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町柿坂 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町金吉 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町冠石野 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町川原口 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町深耶馬 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町多志田 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町栃木 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町戸原 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町中畑 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町樋山路 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町平田 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町福土 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町三尾母 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町宮園 ;
+    mo:SubRegion mr:JP_大分県中津市耶馬溪町山移 ;
+    mo:SubRegion mr:JP_大分県中津市山国町宇曽 ;
+    mo:SubRegion mr:JP_大分県中津市山国町草本 ;
+    mo:SubRegion mr:JP_大分県中津市山国町小屋川 ;
+    mo:SubRegion mr:JP_大分県中津市山国町槻木 ;
+    mo:SubRegion mr:JP_大分県中津市山国町長尾野 ;
+    mo:SubRegion mr:JP_大分県中津市山国町中摩 ;
+    mo:SubRegion mr:JP_大分県中津市山国町平小野 ;
+    mo:SubRegion mr:JP_大分県中津市山国町藤野木 ;
+    mo:SubRegion mr:JP_大分県中津市山国町守実 ;
+    mo:SubRegion mr:JP_大分県中津市山国町吉野 ;
+    mo:SubRegion mr:JP_大分県中津市山下 ;
+    mo:SubRegion mr:JP_大分県中津市弓町 ;
+    mo:SubRegion mr:JP_大分県中津市湯屋 ;
+    mo:SubRegion mr:JP_大分県中津市竜王町 ;
+    mo:SubRegion mr:JP_大分県中津市留守居町 ;
+a mo:GeoEntity .
+
+mr:JP_大分県中津市相原
+    rdfs:label "相原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市赤迫
+    rdfs:label "赤迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市市場
+    rdfs:label "市場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市伊藤田
+    rdfs:label "伊藤田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市犬丸
+    rdfs:label "犬丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市今津
+    rdfs:label "今津"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市植野
+    rdfs:label "植野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市牛神
+    rdfs:label "牛神"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市牛神町
+    rdfs:label "牛神町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市浦町
+    rdfs:label "浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市餌指町
+    rdfs:label "餌指町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市枝町
+    rdfs:label "枝町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市蛭子町
+    rdfs:label "蛭子町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市江三竹町
+    rdfs:label "江三竹町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市合馬
+    rdfs:label "合馬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市大貞
+    rdfs:label "大貞"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市大新田
+    rdfs:label "大新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市大塚
+    rdfs:label "大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市沖代町
+    rdfs:label "沖代町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市萱津町
+    rdfs:label "萱津町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市蛎瀬
+    rdfs:label "蛎瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市加来
+    rdfs:label "加来"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市水主町
+    rdfs:label "水主町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市片端町
+    rdfs:label "片端町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金手
+    rdfs:label "金手"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金谷
+    rdfs:label "金谷"@ja ;
+    mo:SubRegion mr:JP_大分県中津市金谷上ノ丁 ;
+    mo:SubRegion mr:JP_大分県中津市金谷中ノ丁 ;
+    mo:SubRegion mr:JP_大分県中津市金谷西ノ丁 ;
+    mo:SubRegion mr:JP_大分県中津市金谷本町 ;
+    mo:SubRegion mr:JP_大分県中津市金谷南ノ丁 ;
+    mo:SubRegion mr:JP_大分県中津市金谷森ノ丁 ;
+    mo:SubRegion mr:JP_大分県中津市金谷山ノ神 ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金谷上ノ丁
+    rdfs:label "上ノ丁"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金谷中ノ丁
+    rdfs:label "中ノ丁"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金谷西ノ丁
+    rdfs:label "西ノ丁"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金谷本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金谷南ノ丁
+    rdfs:label "南ノ丁"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金谷森ノ丁
+    rdfs:label "森ノ丁"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市金谷山ノ神
+    rdfs:label "山ノ神"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市上池永
+    rdfs:label "上池永"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市上如水
+    rdfs:label "上如水"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市上博多町
+    rdfs:label "上博多町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市上宮永
+    rdfs:label "上宮永"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市北稲堀
+    rdfs:label "北稲堀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市北浦町
+    rdfs:label "北浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市北新地
+    rdfs:label "北新地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市北原
+    rdfs:label "北原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市北堀川町
+    rdfs:label "北堀川町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市北門通
+    rdfs:label "北門通"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市闇無町
+    rdfs:label "闇無町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市小祝
+    rdfs:label "小祝"@ja ;
+    mo:SubRegion mr:JP_大分県中津市小祝上方町 ;
+    mo:SubRegion mr:JP_大分県中津市小祝中島町 ;
+    mo:SubRegion mr:JP_大分県中津市小祝本町 ;
+    mo:SubRegion mr:JP_大分県中津市小祝港町 ;
+    a mo:町域 .
+
+mr:JP_大分県中津市小祝上方町
+    rdfs:label "上方町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市小祝中島町
+    rdfs:label "中島町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市小祝本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市小祝港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市小祝新町
+    rdfs:label "小祝新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市古城
+    rdfs:label "古城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市小堀
+    rdfs:label "小堀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市米町
+    rdfs:label "米町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市是則
+    rdfs:label "是則"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市榊原町
+    rdfs:label "榊原町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市定留
+    rdfs:label "定留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光諫山
+    rdfs:label "三光諫山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光臼木
+    rdfs:label "三光臼木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光小袋
+    rdfs:label "三光小袋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光上深水
+    rdfs:label "三光上深水"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光上秣
+    rdfs:label "三光上秣"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光佐知
+    rdfs:label "三光佐知"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光下深水
+    rdfs:label "三光下深水"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光下秣
+    rdfs:label "三光下秣"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光田口
+    rdfs:label "三光田口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光土田
+    rdfs:label "三光土田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光成恒
+    rdfs:label "三光成恒"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光西秣
+    rdfs:label "三光西秣"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光原口
+    rdfs:label "三光原口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三光森山
+    rdfs:label "三光森山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市三ノ丁
+    rdfs:label "三ノ丁"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市塩町
+    rdfs:label "塩町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市島田
+    rdfs:label "島田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市島田仲町
+    rdfs:label "島田仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市島田本町
+    rdfs:label "島田本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市下池永
+    rdfs:label "下池永"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市下正路
+    rdfs:label "下正路"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市下永添
+    rdfs:label "下永添"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市下宮永
+    rdfs:label "下宮永"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市昭和新田
+    rdfs:label "昭和新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市新魚町
+    rdfs:label "新魚町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市新大塚町
+    rdfs:label "新大塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市新天神町
+    rdfs:label "新天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市新博多町
+    rdfs:label "新博多町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市新堀
+    rdfs:label "新堀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市船頭町
+    rdfs:label "船頭町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市全徳
+    rdfs:label "全徳"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市船場町
+    rdfs:label "船場町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市外馬場
+    rdfs:label "外馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市大悟法
+    rdfs:label "大悟法"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市鷹匠町
+    rdfs:label "鷹匠町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市高瀬
+    rdfs:label "高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市鷹部屋
+    rdfs:label "鷹部屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市田尻
+    rdfs:label "田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市田尻崎
+    rdfs:label "田尻崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市仲間町
+    rdfs:label "仲間町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市角木
+    rdfs:label "角木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市角木新町
+    rdfs:label "角木新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市角木町
+    rdfs:label "角木町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市寺町
+    rdfs:label "寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市殿町
+    rdfs:label "殿町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市豊田町
+    rdfs:label "豊田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市中殿
+    rdfs:label "中殿"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市中殿町
+    rdfs:label "中殿町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市永添
+    rdfs:label "永添"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市鍋島
+    rdfs:label "鍋島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市西永添
+    rdfs:label "西永添"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市西堀端
+    rdfs:label "西堀端"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市二ノ丁
+    rdfs:label "二ノ丁"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市野依
+    rdfs:label "野依"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市東浜
+    rdfs:label "東浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市東堀端
+    rdfs:label "東堀端"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市東本町
+    rdfs:label "東本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市一ツ松
+    rdfs:label "一ツ松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市日ノ出町
+    rdfs:label "日ノ出町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市姫路町
+    rdfs:label "姫路町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市福島
+    rdfs:label "福島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市袋町
+    rdfs:label "袋町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市船町
+    rdfs:label "船町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市古魚町
+    rdfs:label "古魚町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市古金谷
+    rdfs:label "古金谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市古博多町
+    rdfs:label "古博多町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市豊後町
+    rdfs:label "豊後町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町跡田
+    rdfs:label "本耶馬渓町跡田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町今行
+    rdfs:label "本耶馬渓町今行"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町落合
+    rdfs:label "本耶馬渓町落合"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町折元
+    rdfs:label "本耶馬渓町折元"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町冠石野
+    rdfs:label "本耶馬渓町冠石野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町下屋形
+    rdfs:label "本耶馬渓町下屋形"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町曽木
+    rdfs:label "本耶馬渓町曽木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町多志田
+    rdfs:label "本耶馬渓町多志田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町西谷
+    rdfs:label "本耶馬渓町西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町西屋形
+    rdfs:label "本耶馬渓町西屋形"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町東谷
+    rdfs:label "本耶馬渓町東谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町東屋形
+    rdfs:label "本耶馬渓町東屋形"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市本耶馬渓町樋田
+    rdfs:label "本耶馬渓町樋田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市万田
+    rdfs:label "万田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市南稲堀
+    rdfs:label "南稲堀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市南新地
+    rdfs:label "南新地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市南堀川町
+    rdfs:label "南堀川町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市宮島町
+    rdfs:label "宮島町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市宮夫
+    rdfs:label "宮夫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市諸田
+    rdfs:label "諸田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市諸町
+    rdfs:label "諸町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市矢場
+    rdfs:label "矢場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町大島
+    rdfs:label "耶馬溪町大島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町大野
+    rdfs:label "耶馬溪町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町小友田
+    rdfs:label "耶馬溪町小友田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町柿坂
+    rdfs:label "耶馬溪町柿坂"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町金吉
+    rdfs:label "耶馬溪町金吉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町冠石野
+    rdfs:label "耶馬溪町冠石野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町川原口
+    rdfs:label "耶馬溪町川原口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町深耶馬
+    rdfs:label "耶馬溪町深耶馬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町多志田
+    rdfs:label "耶馬溪町多志田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町栃木
+    rdfs:label "耶馬溪町栃木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町戸原
+    rdfs:label "耶馬溪町戸原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町中畑
+    rdfs:label "耶馬溪町中畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町樋山路
+    rdfs:label "耶馬溪町樋山路"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町平田
+    rdfs:label "耶馬溪町平田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町福土
+    rdfs:label "耶馬溪町福土"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町三尾母
+    rdfs:label "耶馬溪町三尾母"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町宮園
+    rdfs:label "耶馬溪町宮園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市耶馬溪町山移
+    rdfs:label "耶馬溪町山移"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町宇曽
+    rdfs:label "山国町宇曽"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町草本
+    rdfs:label "山国町草本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町小屋川
+    rdfs:label "山国町小屋川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町槻木
+    rdfs:label "山国町槻木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町長尾野
+    rdfs:label "山国町長尾野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町中摩
+    rdfs:label "山国町中摩"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町平小野
+    rdfs:label "山国町平小野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町藤野木
+    rdfs:label "山国町藤野木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町守実
+    rdfs:label "山国町守実"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山国町吉野
+    rdfs:label "山国町吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市山下
+    rdfs:label "山下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市弓町
+    rdfs:label "弓町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市湯屋
+    rdfs:label "湯屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市竜王町
+    rdfs:label "竜王町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県中津市留守居町
+    rdfs:label "留守居町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市
+    rdfs:label "日田市"@ja ;
+    mo:AreaCode "44204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県日田市秋原町 ;
+    mo:SubRegion mr:JP_大分県日田市秋山町 ;
+    mo:SubRegion mr:JP_大分県日田市朝日ケ丘 ;
+    mo:SubRegion mr:JP_大分県日田市朝日町 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町赤岩 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町五馬市 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町出口 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町女子畑 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町合田 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町桜竹 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町塚田 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町本城 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町馬原 ;
+    mo:SubRegion mr:JP_大分県日田市天瀬町湯山 ;
+    mo:SubRegion mr:JP_大分県日田市あやめ台 ;
+    mo:SubRegion mr:JP_大分県日田市有田町 ;
+    mo:SubRegion mr:JP_大分県日田市池辺町 ;
+    mo:SubRegion mr:JP_大分県日田市石井 ;
+    mo:SubRegion mr:JP_大分県日田市石松町 ;
+    mo:SubRegion mr:JP_大分県日田市市ノ瀬町 ;
+    mo:SubRegion mr:JP_大分県日田市岩美町 ;
+    mo:SubRegion mr:JP_大分県日田市上野町 ;
+    mo:SubRegion mr:JP_大分県日田市内河町 ;
+    mo:SubRegion mr:JP_大分県日田市大鶴本町 ;
+    mo:SubRegion mr:JP_大分県日田市大鶴町 ;
+    mo:SubRegion mr:JP_大分県日田市大肥町 ;
+    mo:SubRegion mr:JP_大分県日田市大肥本町 ;
+    mo:SubRegion mr:JP_大分県日田市大部町 ;
+    mo:SubRegion mr:JP_大分県日田市大宮町 ;
+    mo:SubRegion mr:JP_大分県日田市大山町西大山 ;
+    mo:SubRegion mr:JP_大分県日田市大山町東大山 ;
+    mo:SubRegion mr:JP_大分県日田市小ケ瀬町 ;
+    mo:SubRegion mr:JP_大分県日田市小河内町 ;
+    mo:SubRegion mr:JP_大分県日田市小迫町 ;
+    mo:SubRegion mr:JP_大分県日田市尾当町 ;
+    mo:SubRegion mr:JP_大分県日田市小山町 ;
+    mo:SubRegion mr:JP_大分県日田市神来町 ;
+    mo:SubRegion mr:JP_大分県日田市上城内町 ;
+    mo:SubRegion mr:JP_大分県日田市上津江町上野田 ;
+    mo:SubRegion mr:JP_大分県日田市上津江町川原 ;
+    mo:SubRegion mr:JP_大分県日田市上諸留町 ;
+    mo:SubRegion mr:JP_大分県日田市亀川町 ;
+    mo:SubRegion mr:JP_大分県日田市川下 ;
+    mo:SubRegion mr:JP_大分県日田市川原町 ;
+    mo:SubRegion mr:JP_大分県日田市亀山町 ;
+    mo:SubRegion mr:JP_大分県日田市北友田 ;
+    mo:SubRegion mr:JP_大分県日田市君迫町 ;
+    mo:SubRegion mr:JP_大分県日田市京町 ;
+    mo:SubRegion mr:JP_大分県日田市串川町 ;
+    mo:SubRegion mr:JP_大分県日田市隈 ;
+    mo:SubRegion mr:JP_大分県日田市古金町 ;
+    mo:SubRegion mr:JP_大分県日田市琴平町 ;
+    mo:SubRegion mr:JP_大分県日田市財津町 ;
+    mo:SubRegion mr:JP_大分県日田市坂井町 ;
+    mo:SubRegion mr:JP_大分県日田市三ノ宮町 ;
+    mo:SubRegion mr:JP_大分県日田市三本松 ;
+    mo:SubRegion mr:JP_大分県日田市三本松新町 ;
+    mo:SubRegion mr:JP_大分県日田市清水町 ;
+    mo:SubRegion mr:JP_大分県日田市下井手町 ;
+    mo:SubRegion mr:JP_大分県日田市上宮町 ;
+    mo:SubRegion mr:JP_大分県日田市城内新町 ;
+    mo:SubRegion mr:JP_大分県日田市城町 ;
+    mo:SubRegion mr:JP_大分県日田市鈴連町 ;
+    mo:SubRegion mr:JP_大分県日田市清岸寺町 ;
+    mo:SubRegion mr:JP_大分県日田市誠和町 ;
+    mo:SubRegion mr:JP_大分県日田市銭渕町 ;
+    mo:SubRegion mr:JP_大分県日田市大日町 ;
+    mo:SubRegion mr:JP_大分県日田市高井町 ;
+    mo:SubRegion mr:JP_大分県日田市高瀬本町 ;
+    mo:SubRegion mr:JP_大分県日田市竹田新町 ;
+    mo:SubRegion mr:JP_大分県日田市田島 ;
+    mo:SubRegion mr:JP_大分県日田市田島本町 ;
+    mo:SubRegion mr:JP_大分県日田市玉川町 ;
+    mo:SubRegion mr:JP_大分県日田市淡窓 ;
+    mo:SubRegion mr:JP_大分県日田市中央 ;
+    mo:SubRegion mr:JP_大分県日田市月出町 ;
+    mo:SubRegion mr:JP_大分県日田市鶴河内町 ;
+    mo:SubRegion mr:JP_大分県日田市鶴城町 ;
+    mo:SubRegion mr:JP_大分県日田市天神町 ;
+    mo:SubRegion mr:JP_大分県日田市殿町 ;
+    mo:SubRegion mr:JP_大分県日田市中尾町 ;
+    mo:SubRegion mr:JP_大分県日田市中城町 ;
+    mo:SubRegion mr:JP_大分県日田市中津江村合瀬 ;
+    mo:SubRegion mr:JP_大分県日田市中津江村栃野 ;
+    mo:SubRegion mr:JP_大分県日田市中釣町 ;
+    mo:SubRegion mr:JP_大分県日田市中ノ島町 ;
+    mo:SubRegion mr:JP_大分県日田市中本町 ;
+    mo:SubRegion mr:JP_大分県日田市南部町 ;
+    mo:SubRegion mr:JP_大分県日田市新治町 ;
+    mo:SubRegion mr:JP_大分県日田市二串町 ;
+    mo:SubRegion mr:JP_大分県日田市上手町 ;
+    mo:SubRegion mr:JP_大分県日田市羽田町 ;
+    mo:SubRegion mr:JP_大分県日田市東羽田町 ;
+    mo:SubRegion mr:JP_大分県日田市東町 ;
+    mo:SubRegion mr:JP_大分県日田市日高町 ;
+    mo:SubRegion mr:JP_大分県日田市日ノ隈町 ;
+    mo:SubRegion mr:JP_大分県日田市日ノ出町 ;
+    mo:SubRegion mr:JP_大分県日田市日の本町 ;
+    mo:SubRegion mr:JP_大分県日田市吹上町 ;
+    mo:SubRegion mr:JP_大分県日田市伏木町 ;
+    mo:SubRegion mr:JP_大分県日田市藤山町 ;
+    mo:SubRegion mr:JP_大分県日田市本庄町 ;
+    mo:SubRegion mr:JP_大分県日田市本町 ;
+    mo:SubRegion mr:JP_大分県日田市前津江町赤石 ;
+    mo:SubRegion mr:JP_大分県日田市前津江町大野 ;
+    mo:SubRegion mr:JP_大分県日田市前津江町柚木 ;
+    mo:SubRegion mr:JP_大分県日田市松野町 ;
+    mo:SubRegion mr:JP_大分県日田市豆田町 ;
+    mo:SubRegion mr:JP_大分県日田市丸の内町 ;
+    mo:SubRegion mr:JP_大分県日田市丸山 ;
+    mo:SubRegion mr:JP_大分県日田市三池町 ;
+    mo:SubRegion mr:JP_大分県日田市三河町 ;
+    mo:SubRegion mr:JP_大分県日田市水目町 ;
+    mo:SubRegion mr:JP_大分県日田市緑町 ;
+    mo:SubRegion mr:JP_大分県日田市港町 ;
+    mo:SubRegion mr:JP_大分県日田市南友田町 ;
+    mo:SubRegion mr:JP_大分県日田市南元町 ;
+    mo:SubRegion mr:JP_大分県日田市三芳小渕町 ;
+    mo:SubRegion mr:JP_大分県日田市三和団地 ;
+    mo:SubRegion mr:JP_大分県日田市元町 ;
+    mo:SubRegion mr:JP_大分県日田市源栄町 ;
+    mo:SubRegion mr:JP_大分県日田市求町 ;
+    mo:SubRegion mr:JP_大分県日田市桃山町 ;
+    mo:SubRegion mr:JP_大分県日田市諸留町 ;
+    mo:SubRegion mr:JP_大分県日田市八幡町 ;
+    mo:SubRegion mr:JP_大分県日田市山田町 ;
+    mo:SubRegion mr:JP_大分県日田市刃連町 ;
+    mo:SubRegion mr:JP_大分県日田市夜明上町 ;
+    mo:SubRegion mr:JP_大分県日田市夜明中町 ;
+    mo:SubRegion mr:JP_大分県日田市夜明関町 ;
+    mo:SubRegion mr:JP_大分県日田市若宮町 ;
+a mo:GeoEntity .
+
+mr:JP_大分県日田市秋原町
+    rdfs:label "秋原町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市秋山町
+    rdfs:label "秋山町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市朝日ケ丘
+    rdfs:label "朝日ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町赤岩
+    rdfs:label "天瀬町赤岩"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町五馬市
+    rdfs:label "天瀬町五馬市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町出口
+    rdfs:label "天瀬町出口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町女子畑
+    rdfs:label "天瀬町女子畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町合田
+    rdfs:label "天瀬町合田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町桜竹
+    rdfs:label "天瀬町桜竹"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町塚田
+    rdfs:label "天瀬町塚田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町本城
+    rdfs:label "天瀬町本城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町馬原
+    rdfs:label "天瀬町馬原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天瀬町湯山
+    rdfs:label "天瀬町湯山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市あやめ台
+    rdfs:label "あやめ台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市有田町
+    rdfs:label "有田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市池辺町
+    rdfs:label "池辺町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市石井
+    rdfs:label "石井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市石松町
+    rdfs:label "石松町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市市ノ瀬町
+    rdfs:label "市ノ瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市岩美町
+    rdfs:label "岩美町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市上野町
+    rdfs:label "上野町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市内河町
+    rdfs:label "内河町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大鶴本町
+    rdfs:label "大鶴本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大鶴町
+    rdfs:label "大鶴町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大肥町
+    rdfs:label "大肥町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大肥本町
+    rdfs:label "大肥本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大部町
+    rdfs:label "大部町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大宮町
+    rdfs:label "大宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大山町西大山
+    rdfs:label "大山町西大山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大山町東大山
+    rdfs:label "大山町東大山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市小ケ瀬町
+    rdfs:label "小ケ瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市小河内町
+    rdfs:label "小河内町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市小迫町
+    rdfs:label "小迫町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市尾当町
+    rdfs:label "尾当町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市小山町
+    rdfs:label "小山町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市神来町
+    rdfs:label "神来町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市上城内町
+    rdfs:label "上城内町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市上津江町上野田
+    rdfs:label "上津江町上野田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市上津江町川原
+    rdfs:label "上津江町川原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市上諸留町
+    rdfs:label "上諸留町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市亀川町
+    rdfs:label "亀川町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市川下
+    rdfs:label "川下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市川原町
+    rdfs:label "川原町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市亀山町
+    rdfs:label "亀山町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市北友田
+    rdfs:label "北友田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市君迫町
+    rdfs:label "君迫町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市串川町
+    rdfs:label "串川町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市隈
+    rdfs:label "隈"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市古金町
+    rdfs:label "古金町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市琴平町
+    rdfs:label "琴平町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市財津町
+    rdfs:label "財津町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市坂井町
+    rdfs:label "坂井町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市三ノ宮町
+    rdfs:label "三ノ宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市三本松
+    rdfs:label "三本松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市三本松新町
+    rdfs:label "三本松新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市下井手町
+    rdfs:label "下井手町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市上宮町
+    rdfs:label "上宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市城内新町
+    rdfs:label "城内新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市城町
+    rdfs:label "城町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市鈴連町
+    rdfs:label "鈴連町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市清岸寺町
+    rdfs:label "清岸寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市誠和町
+    rdfs:label "誠和町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市銭渕町
+    rdfs:label "銭渕町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市大日町
+    rdfs:label "大日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市高井町
+    rdfs:label "高井町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市高瀬本町
+    rdfs:label "高瀬本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市竹田新町
+    rdfs:label "竹田新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市田島
+    rdfs:label "田島"@ja ;
+    mo:SubRegion mr:JP_大分県日田市田島大字 ;
+    mo:SubRegion mr:JP_大分県日田市田島丁目 ;
+    a mo:町域 .
+
+mr:JP_大分県日田市田島大字
+    rdfs:label "大字"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市田島丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市田島本町
+    rdfs:label "田島本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市玉川町
+    rdfs:label "玉川町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市淡窓
+    rdfs:label "淡窓"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市月出町
+    rdfs:label "月出町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市鶴河内町
+    rdfs:label "鶴河内町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市鶴城町
+    rdfs:label "鶴城町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市殿町
+    rdfs:label "殿町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市中尾町
+    rdfs:label "中尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市中城町
+    rdfs:label "中城町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市中津江村合瀬
+    rdfs:label "中津江村合瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市中津江村栃野
+    rdfs:label "中津江村栃野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市中釣町
+    rdfs:label "中釣町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市中ノ島町
+    rdfs:label "中ノ島町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市中本町
+    rdfs:label "中本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市南部町
+    rdfs:label "南部町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市新治町
+    rdfs:label "新治町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市二串町
+    rdfs:label "二串町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市上手町
+    rdfs:label "上手町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市羽田町
+    rdfs:label "羽田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市東羽田町
+    rdfs:label "東羽田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市日高町
+    rdfs:label "日高町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市日ノ隈町
+    rdfs:label "日ノ隈町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市日ノ出町
+    rdfs:label "日ノ出町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市日の本町
+    rdfs:label "日の本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市吹上町
+    rdfs:label "吹上町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市伏木町
+    rdfs:label "伏木町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市藤山町
+    rdfs:label "藤山町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市本庄町
+    rdfs:label "本庄町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市前津江町赤石
+    rdfs:label "前津江町赤石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市前津江町大野
+    rdfs:label "前津江町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市前津江町柚木
+    rdfs:label "前津江町柚木"@ja ;
+    mo:SubRegion mr:JP_大分県日田市前津江町柚木千蔵木 ;
+    mo:SubRegion mr:JP_大分県日田市前津江町柚木塔ノ本 ;
+    mo:SubRegion mr:JP_大分県日田市前津江町柚木仁田原 ;
+    mo:SubRegion mr:JP_大分県日田市前津江町柚木本村 ;
+    a mo:町域 .
+
+mr:JP_大分県日田市前津江町柚木千蔵木
+    rdfs:label "千蔵木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市前津江町柚木塔ノ本
+    rdfs:label "塔ノ本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市前津江町柚木仁田原
+    rdfs:label "仁田原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市前津江町柚木本村
+    rdfs:label "本村"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市松野町
+    rdfs:label "松野町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市豆田町
+    rdfs:label "豆田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市丸の内町
+    rdfs:label "丸の内町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市丸山
+    rdfs:label "丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市三池町
+    rdfs:label "三池町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市三河町
+    rdfs:label "三河町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市水目町
+    rdfs:label "水目町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市南友田町
+    rdfs:label "南友田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市南元町
+    rdfs:label "南元町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市三芳小渕町
+    rdfs:label "三芳小渕町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市三和団地
+    rdfs:label "三和団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市源栄町
+    rdfs:label "源栄町"@ja ;
+    mo:SubRegion mr:JP_大分県日田市源栄町池ノ鶴 ;
+    mo:SubRegion mr:JP_大分県日田市源栄町皿山 ;
+    a mo:町域 .
+
+mr:JP_大分県日田市源栄町池ノ鶴
+    rdfs:label "池ノ鶴"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市源栄町皿山
+    rdfs:label "皿山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市求町
+    rdfs:label "求町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市桃山町
+    rdfs:label "桃山町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市諸留町
+    rdfs:label "諸留町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市山田町
+    rdfs:label "山田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市刃連町
+    rdfs:label "刃連町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市夜明上町
+    rdfs:label "夜明上町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市夜明中町
+    rdfs:label "夜明中町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市夜明関町
+    rdfs:label "夜明関町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県日田市若宮町
+    rdfs:label "若宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市
+    rdfs:label "佐伯市"@ja ;
+    mo:AreaCode "44205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県佐伯市青山 ;
+    mo:SubRegion mr:JP_大分県佐伯市荒網代浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市池田 ;
+    mo:SubRegion mr:JP_大分県佐伯市池船町 ;
+    mo:SubRegion mr:JP_大分県佐伯市石間浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市稲垣 ;
+    mo:SubRegion mr:JP_大分県佐伯市臼坪 ;
+    mo:SubRegion mr:JP_大分県佐伯市内町 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目大平 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目小野市 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目河内 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目木浦内 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目木浦鉱山 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目塩見園 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目重岡 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目千束 ;
+    mo:SubRegion mr:JP_大分県佐伯市宇目南田原 ;
+    mo:SubRegion mr:JP_大分県佐伯市駅前 ;
+    mo:SubRegion mr:JP_大分県佐伯市王子丸 ;
+    mo:SubRegion mr:JP_大分県佐伯市大越 ;
+    mo:SubRegion mr:JP_大分県佐伯市大手町 ;
+    mo:SubRegion mr:JP_大分県佐伯市海崎 ;
+    mo:SubRegion mr:JP_大分県佐伯市樫野 ;
+    mo:SubRegion mr:JP_大分県佐伯市春日町 ;
+    mo:SubRegion mr:JP_大分県佐伯市霞ケ浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市片神浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市堅田 ;
+    mo:SubRegion mr:JP_大分県佐伯市葛港 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江猪串浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江尾浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江葛原浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江蒲江浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江楠本浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江竹野浦河内 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江西野浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江野々河内浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江畑野浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江波当津浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江丸市尾浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市蒲江森崎浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市上浦浅海井浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市上浦津井浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市上浦最勝海浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市上岡 ;
+    mo:SubRegion mr:JP_大分県佐伯市上久部 ;
+    mo:SubRegion mr:JP_大分県佐伯市上城 ;
+    mo:SubRegion mr:JP_大分県佐伯市上灘 ;
+    mo:SubRegion mr:JP_大分県佐伯市狩生 ;
+    mo:SubRegion mr:JP_大分県佐伯市川原 ;
+    mo:SubRegion mr:JP_大分県佐伯市蟹田 ;
+    mo:SubRegion mr:JP_大分県佐伯市岸河内 ;
+    mo:SubRegion mr:JP_大分県佐伯市木立 ;
+    mo:SubRegion mr:JP_大分県佐伯市久保浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市来島町 ;
+    mo:SubRegion mr:JP_大分県佐伯市坂の浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市坂山 ;
+    mo:SubRegion mr:JP_大分県佐伯市塩内浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市下久部 ;
+    mo:SubRegion mr:JP_大分県佐伯市下城 ;
+    mo:SubRegion mr:JP_大分県佐伯市城下東町 ;
+    mo:SubRegion mr:JP_大分県佐伯市城下西町 ;
+    mo:SubRegion mr:JP_大分県佐伯市城西区 ;
+    mo:SubRegion mr:JP_大分県佐伯市城東町 ;
+    mo:SubRegion mr:JP_大分県佐伯市城南町 ;
+    mo:SubRegion mr:JP_大分県佐伯市匠南 ;
+    mo:SubRegion mr:JP_大分県佐伯市白方 ;
+    mo:SubRegion mr:JP_大分県佐伯市新女島 ;
+    mo:SubRegion mr:JP_大分県佐伯市船頭町 ;
+    mo:SubRegion mr:JP_大分県佐伯市高畠 ;
+    mo:SubRegion mr:JP_大分県佐伯市高畑 ;
+    mo:SubRegion mr:JP_大分県佐伯市高松浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市田の浦町 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴岡西町 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴岡町 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴望 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見有明浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見大島 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見沖松浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見梶寄浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見地松浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見丹賀浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見中越浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見羽出浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見吹浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴谷町 ;
+    mo:SubRegion mr:JP_大分県佐伯市寺田 ;
+    mo:SubRegion mr:JP_大分県佐伯市常盤東町 ;
+    mo:SubRegion mr:JP_大分県佐伯市常盤西町 ;
+    mo:SubRegion mr:JP_大分県佐伯市常盤南町 ;
+    mo:SubRegion mr:JP_大分県佐伯市直川赤木 ;
+    mo:SubRegion mr:JP_大分県佐伯市直川上直見 ;
+    mo:SubRegion mr:JP_大分県佐伯市直川下直見 ;
+    mo:SubRegion mr:JP_大分県佐伯市直川仁田原 ;
+    mo:SubRegion mr:JP_大分県佐伯市直川横川 ;
+    mo:SubRegion mr:JP_大分県佐伯市中江町 ;
+    mo:SubRegion mr:JP_大分県佐伯市中の島 ;
+    mo:SubRegion mr:JP_大分県佐伯市中ノ島東町 ;
+    mo:SubRegion mr:JP_大分県佐伯市中村東町 ;
+    mo:SubRegion mr:JP_大分県佐伯市中村西町 ;
+    mo:SubRegion mr:JP_大分県佐伯市中村南町 ;
+    mo:SubRegion mr:JP_大分県佐伯市中村北町 ;
+    mo:SubRegion mr:JP_大分県佐伯市中山 ;
+    mo:SubRegion mr:JP_大分県佐伯市長島町 ;
+    mo:SubRegion mr:JP_大分県佐伯市長瀬 ;
+    mo:SubRegion mr:JP_大分県佐伯市長良 ;
+    mo:SubRegion mr:JP_大分県佐伯市西谷町 ;
+    mo:SubRegion mr:JP_大分県佐伯市西浜 ;
+    mo:SubRegion mr:JP_大分県佐伯市野岡町 ;
+    mo:SubRegion mr:JP_大分県佐伯市野口 ;
+    mo:SubRegion mr:JP_大分県佐伯市長谷 ;
+    mo:SubRegion mr:JP_大分県佐伯市戸穴 ;
+    mo:SubRegion mr:JP_大分県佐伯市東灘 ;
+    mo:SubRegion mr:JP_大分県佐伯市東浜 ;
+    mo:SubRegion mr:JP_大分県佐伯市東町 ;
+    mo:SubRegion mr:JP_大分県佐伯市日の出町 ;
+    mo:SubRegion mr:JP_大分県佐伯市日向泊浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市平 ;
+    mo:SubRegion mr:JP_大分県佐伯市平野町 ;
+    mo:SubRegion mr:JP_大分県佐伯市二栄 ;
+    mo:SubRegion mr:JP_大分県佐伯市古市 ;
+    mo:SubRegion mr:JP_大分県佐伯市蛇崎 ;
+    mo:SubRegion mr:JP_大分県佐伯市向島 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠井ノ上 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠因尾 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠宇津々 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠小川 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠小半 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠笠掛 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠風戸 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠上津川 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠堂ノ間 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠波寄 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠三股 ;
+    mo:SubRegion mr:JP_大分県佐伯市本匠山部 ;
+    mo:SubRegion mr:JP_大分県佐伯市女島 ;
+    mo:SubRegion mr:JP_大分県佐伯市女島団地 ;
+    mo:SubRegion mr:JP_大分県佐伯市百谷 ;
+    mo:SubRegion mr:JP_大分県佐伯市護江 ;
+    mo:SubRegion mr:JP_大分県佐伯市守後浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市門前 ;
+    mo:SubRegion mr:JP_大分県佐伯市八迫区 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生井崎 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生江良 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生大坂本 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生上小倉 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生門田 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生小田 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生細田 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生尺間 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生提内 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生平井 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生山梨子 ;
+    mo:SubRegion mr:JP_大分県佐伯市弥生床木 ;
+    mo:SubRegion mr:JP_大分県佐伯市米水津色利浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市米水津浦代浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市米水津小浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市米水津竹野浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市米水津宮野浦 ;
+    mo:SubRegion mr:JP_大分県佐伯市若宮町 ;
+    mo:SubRegion mr:JP_大分県佐伯市脇 ;
+a mo:GeoEntity .
+
+mr:JP_大分県佐伯市青山
+    rdfs:label "青山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市荒網代浦
+    rdfs:label "荒網代浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市池田
+    rdfs:label "池田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市池船町
+    rdfs:label "池船町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市石間浦
+    rdfs:label "石間浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市稲垣
+    rdfs:label "稲垣"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市臼坪
+    rdfs:label "臼坪"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市内町
+    rdfs:label "内町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目大平
+    rdfs:label "宇目大平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目小野市
+    rdfs:label "宇目小野市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目河内
+    rdfs:label "宇目河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目木浦内
+    rdfs:label "宇目木浦内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目木浦鉱山
+    rdfs:label "宇目木浦鉱山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目塩見園
+    rdfs:label "宇目塩見園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目重岡
+    rdfs:label "宇目重岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目千束
+    rdfs:label "宇目千束"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市宇目南田原
+    rdfs:label "宇目南田原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市駅前
+    rdfs:label "駅前"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市王子丸
+    rdfs:label "王子丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市大越
+    rdfs:label "大越"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市大手町
+    rdfs:label "大手町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市海崎
+    rdfs:label "海崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市樫野
+    rdfs:label "樫野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市霞ケ浦
+    rdfs:label "霞ケ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市片神浦
+    rdfs:label "片神浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市堅田
+    rdfs:label "堅田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市葛港
+    rdfs:label "葛港"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江猪串浦
+    rdfs:label "蒲江猪串浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江尾浦
+    rdfs:label "蒲江尾浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江葛原浦
+    rdfs:label "蒲江葛原浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江蒲江浦
+    rdfs:label "蒲江蒲江浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江楠本浦
+    rdfs:label "蒲江楠本浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江竹野浦河内
+    rdfs:label "蒲江竹野浦河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江西野浦
+    rdfs:label "蒲江西野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江野々河内浦
+    rdfs:label "蒲江野々河内浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江畑野浦
+    rdfs:label "蒲江畑野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江波当津浦
+    rdfs:label "蒲江波当津浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江丸市尾浦
+    rdfs:label "蒲江丸市尾浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蒲江森崎浦
+    rdfs:label "蒲江森崎浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市上浦浅海井浦
+    rdfs:label "上浦浅海井浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市上浦津井浦
+    rdfs:label "上浦津井浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市上浦最勝海浦
+    rdfs:label "上浦最勝海浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市上岡
+    rdfs:label "上岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市上久部
+    rdfs:label "上久部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市上城
+    rdfs:label "上城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市上灘
+    rdfs:label "上灘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市狩生
+    rdfs:label "狩生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市川原
+    rdfs:label "川原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蟹田
+    rdfs:label "蟹田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市岸河内
+    rdfs:label "岸河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市木立
+    rdfs:label "木立"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市久保浦
+    rdfs:label "久保浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市来島町
+    rdfs:label "来島町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市坂の浦
+    rdfs:label "坂の浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市坂山
+    rdfs:label "坂山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市塩内浦
+    rdfs:label "塩内浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市下久部
+    rdfs:label "下久部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市下城
+    rdfs:label "下城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市城下東町
+    rdfs:label "城下東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市城下西町
+    rdfs:label "城下西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市城西区
+    rdfs:label "城西区"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市城東町
+    rdfs:label "城東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市城南町
+    rdfs:label "城南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市匠南
+    rdfs:label "匠南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市白方
+    rdfs:label "白方"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市新女島
+    rdfs:label "新女島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市船頭町
+    rdfs:label "船頭町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市高畠
+    rdfs:label "高畠"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市高畑
+    rdfs:label "高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市高松浦
+    rdfs:label "高松浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市田の浦町
+    rdfs:label "田の浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴岡西町
+    rdfs:label "鶴岡西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴岡町
+    rdfs:label "鶴岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴望
+    rdfs:label "鶴望"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見有明浦
+    rdfs:label "鶴見有明浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見大島
+    rdfs:label "鶴見大島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見沖松浦
+    rdfs:label "鶴見沖松浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見梶寄浦
+    rdfs:label "鶴見梶寄浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見地松浦
+    rdfs:label "鶴見地松浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見丹賀浦
+    rdfs:label "鶴見丹賀浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見中越浦
+    rdfs:label "鶴見中越浦"@ja ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見中越浦猿戸 ;
+    mo:SubRegion mr:JP_大分県佐伯市鶴見中越浦広浦 ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見中越浦猿戸
+    rdfs:label "猿戸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見中越浦広浦
+    rdfs:label "広浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見羽出浦
+    rdfs:label "鶴見羽出浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴見吹浦
+    rdfs:label "鶴見吹浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市鶴谷町
+    rdfs:label "鶴谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市寺田
+    rdfs:label "寺田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市常盤東町
+    rdfs:label "常盤東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市常盤西町
+    rdfs:label "常盤西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市常盤南町
+    rdfs:label "常盤南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市直川赤木
+    rdfs:label "直川赤木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市直川上直見
+    rdfs:label "直川上直見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市直川下直見
+    rdfs:label "直川下直見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市直川仁田原
+    rdfs:label "直川仁田原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市直川横川
+    rdfs:label "直川横川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市中江町
+    rdfs:label "中江町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市中の島
+    rdfs:label "中の島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市中ノ島東町
+    rdfs:label "中ノ島東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市中村東町
+    rdfs:label "中村東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市中村西町
+    rdfs:label "中村西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市中村南町
+    rdfs:label "中村南町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市中村北町
+    rdfs:label "中村北町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市長島町
+    rdfs:label "長島町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市長瀬
+    rdfs:label "長瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市長良
+    rdfs:label "長良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市西谷町
+    rdfs:label "西谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市西浜
+    rdfs:label "西浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市野岡町
+    rdfs:label "野岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市野口
+    rdfs:label "野口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市長谷
+    rdfs:label "長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市戸穴
+    rdfs:label "戸穴"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市東灘
+    rdfs:label "東灘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市東浜
+    rdfs:label "東浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市日の出町
+    rdfs:label "日の出町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市日向泊浦
+    rdfs:label "日向泊浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市平
+    rdfs:label "平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市平野町
+    rdfs:label "平野町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市二栄
+    rdfs:label "二栄"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市古市
+    rdfs:label "古市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市蛇崎
+    rdfs:label "蛇崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市向島
+    rdfs:label "向島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠井ノ上
+    rdfs:label "本匠井ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠因尾
+    rdfs:label "本匠因尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠宇津々
+    rdfs:label "本匠宇津々"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠小川
+    rdfs:label "本匠小川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠小半
+    rdfs:label "本匠小半"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠笠掛
+    rdfs:label "本匠笠掛"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠風戸
+    rdfs:label "本匠風戸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠上津川
+    rdfs:label "本匠上津川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠堂ノ間
+    rdfs:label "本匠堂ノ間"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠波寄
+    rdfs:label "本匠波寄"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠三股
+    rdfs:label "本匠三股"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市本匠山部
+    rdfs:label "本匠山部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市女島
+    rdfs:label "女島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市女島団地
+    rdfs:label "女島団地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市百谷
+    rdfs:label "百谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市護江
+    rdfs:label "護江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市守後浦
+    rdfs:label "守後浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市門前
+    rdfs:label "門前"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市八迫区
+    rdfs:label "八迫区"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生井崎
+    rdfs:label "弥生井崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生江良
+    rdfs:label "弥生江良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生大坂本
+    rdfs:label "弥生大坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生上小倉
+    rdfs:label "弥生上小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生門田
+    rdfs:label "弥生門田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生小田
+    rdfs:label "弥生小田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生細田
+    rdfs:label "弥生細田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生尺間
+    rdfs:label "弥生尺間"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生提内
+    rdfs:label "弥生提内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生平井
+    rdfs:label "弥生平井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生山梨子
+    rdfs:label "弥生山梨子"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市弥生床木
+    rdfs:label "弥生床木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市米水津色利浦
+    rdfs:label "米水津色利浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市米水津浦代浦
+    rdfs:label "米水津浦代浦"@ja ;
+    mo:SubRegion mr:JP_大分県佐伯市米水津浦代浦間越 ;
+    mo:SubRegion mr:JP_大分県佐伯市米水津浦代浦芳ケ浦 ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市米水津浦代浦間越
+    rdfs:label "間越"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市米水津浦代浦芳ケ浦
+    rdfs:label "芳ケ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市米水津小浦
+    rdfs:label "米水津小浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市米水津竹野浦
+    rdfs:label "米水津竹野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市米水津宮野浦
+    rdfs:label "米水津宮野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市若宮町
+    rdfs:label "若宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県佐伯市脇
+    rdfs:label "脇"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市
+    rdfs:label "臼杵市"@ja ;
+    mo:AreaCode "44206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県臼杵市家野 ;
+    mo:SubRegion mr:JP_大分県臼杵市板知屋 ;
+    mo:SubRegion mr:JP_大分県臼杵市市浜 ;
+    mo:SubRegion mr:JP_大分県臼杵市稲田 ;
+    mo:SubRegion mr:JP_大分県臼杵市井村 ;
+    mo:SubRegion mr:JP_大分県臼杵市臼杵 ;
+    mo:SubRegion mr:JP_大分県臼杵市江無田 ;
+    mo:SubRegion mr:JP_大分県臼杵市大泊 ;
+    mo:SubRegion mr:JP_大分県臼杵市大野 ;
+    mo:SubRegion mr:JP_大分県臼杵市大浜 ;
+    mo:SubRegion mr:JP_大分県臼杵市乙見 ;
+    mo:SubRegion mr:JP_大分県臼杵市海添 ;
+    mo:SubRegion mr:JP_大分県臼杵市掻懐 ;
+    mo:SubRegion mr:JP_大分県臼杵市風成 ;
+    mo:SubRegion mr:JP_大分県臼杵市久木小野 ;
+    mo:SubRegion mr:JP_大分県臼杵市佐志生 ;
+    mo:SubRegion mr:JP_大分県臼杵市左津留 ;
+    mo:SubRegion mr:JP_大分県臼杵市下ノ江 ;
+    mo:SubRegion mr:JP_大分県臼杵市末広 ;
+    mo:SubRegion mr:JP_大分県臼杵市諏訪 ;
+    mo:SubRegion mr:JP_大分県臼杵市田井 ;
+    mo:SubRegion mr:JP_大分県臼杵市高山 ;
+    mo:SubRegion mr:JP_大分県臼杵市岳谷 ;
+    mo:SubRegion mr:JP_大分県臼杵市武山 ;
+    mo:SubRegion mr:JP_大分県臼杵市田尻 ;
+    mo:SubRegion mr:JP_大分県臼杵市戸室 ;
+    mo:SubRegion mr:JP_大分県臼杵市中臼杵 ;
+    mo:SubRegion mr:JP_大分県臼杵市中尾 ;
+    mo:SubRegion mr:JP_大分県臼杵市中津浦 ;
+    mo:SubRegion mr:JP_大分県臼杵市二王座 ;
+    mo:SubRegion mr:JP_大分県臼杵市野田 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町秋山 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町岩屋 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町烏嶽 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町老松 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町王子 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町落谷 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町垣河内 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町亀甲 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町西寒田 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町白岩 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町清水原 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町千塚 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町泊 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町西神野 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町西畑 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町野津市 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町八里合 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町原 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町東谷 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町福良木 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町藤小野 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町前河内 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町都原 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町宮原 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町山頭 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町柚野木 ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町吉田 ;
+    mo:SubRegion mr:JP_大分県臼杵市東神野 ;
+    mo:SubRegion mr:JP_大分県臼杵市深江 ;
+    mo:SubRegion mr:JP_大分県臼杵市深田 ;
+    mo:SubRegion mr:JP_大分県臼杵市福良 ;
+    mo:SubRegion mr:JP_大分県臼杵市藤河内 ;
+    mo:SubRegion mr:JP_大分県臼杵市前田 ;
+    mo:SubRegion mr:JP_大分県臼杵市望月 ;
+    mo:SubRegion mr:JP_大分県臼杵市吉小野 ;
+a mo:GeoEntity .
+
+mr:JP_大分県臼杵市家野
+    rdfs:label "家野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市板知屋
+    rdfs:label "板知屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市市浜
+    rdfs:label "市浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市稲田
+    rdfs:label "稲田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市井村
+    rdfs:label "井村"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市臼杵
+    rdfs:label "臼杵"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市江無田
+    rdfs:label "江無田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市大泊
+    rdfs:label "大泊"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市大浜
+    rdfs:label "大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市乙見
+    rdfs:label "乙見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市海添
+    rdfs:label "海添"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市掻懐
+    rdfs:label "掻懐"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市風成
+    rdfs:label "風成"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市久木小野
+    rdfs:label "久木小野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市佐志生
+    rdfs:label "佐志生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市左津留
+    rdfs:label "左津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市下ノ江
+    rdfs:label "下ノ江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市末広
+    rdfs:label "末広"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市諏訪
+    rdfs:label "諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市田井
+    rdfs:label "田井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市高山
+    rdfs:label "高山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市岳谷
+    rdfs:label "岳谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市武山
+    rdfs:label "武山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市田尻
+    rdfs:label "田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市戸室
+    rdfs:label "戸室"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市中臼杵
+    rdfs:label "中臼杵"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市中尾
+    rdfs:label "中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市中津浦
+    rdfs:label "中津浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市二王座
+    rdfs:label "二王座"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町秋山
+    rdfs:label "野津町秋山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町岩屋
+    rdfs:label "野津町岩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町烏嶽
+    rdfs:label "野津町烏嶽"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町老松
+    rdfs:label "野津町老松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町王子
+    rdfs:label "野津町王子"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町落谷
+    rdfs:label "野津町落谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町垣河内
+    rdfs:label "野津町垣河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町亀甲
+    rdfs:label "野津町亀甲"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町西寒田
+    rdfs:label "野津町西寒田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町白岩
+    rdfs:label "野津町白岩"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町清水原
+    rdfs:label "野津町清水原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町千塚
+    rdfs:label "野津町千塚"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町泊
+    rdfs:label "野津町泊"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町西神野
+    rdfs:label "野津町西神野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町西畑
+    rdfs:label "野津町西畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町野津市
+    rdfs:label "野津町野津市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町八里合
+    rdfs:label "野津町八里合"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町原
+    rdfs:label "野津町原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町東谷
+    rdfs:label "野津町東谷"@ja ;
+    mo:SubRegion mr:JP_大分県臼杵市野津町東谷三重谷 ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町東谷三重谷
+    rdfs:label "三重谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町福良木
+    rdfs:label "野津町福良木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町藤小野
+    rdfs:label "野津町藤小野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町前河内
+    rdfs:label "野津町前河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町都原
+    rdfs:label "野津町都原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町宮原
+    rdfs:label "野津町宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町山頭
+    rdfs:label "野津町山頭"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町柚野木
+    rdfs:label "野津町柚野木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市野津町吉田
+    rdfs:label "野津町吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市東神野
+    rdfs:label "東神野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市深江
+    rdfs:label "深江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市深田
+    rdfs:label "深田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市福良
+    rdfs:label "福良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市藤河内
+    rdfs:label "藤河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市前田
+    rdfs:label "前田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市望月
+    rdfs:label "望月"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県臼杵市吉小野
+    rdfs:label "吉小野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市
+    rdfs:label "津久見市"@ja ;
+    mo:AreaCode "44207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県津久見市網代 ;
+    mo:SubRegion mr:JP_大分県津久見市井無田町 ;
+    mo:SubRegion mr:JP_大分県津久見市入船東町 ;
+    mo:SubRegion mr:JP_大分県津久見市入船西町 ;
+    mo:SubRegion mr:JP_大分県津久見市岩屋町 ;
+    mo:SubRegion mr:JP_大分県津久見市大友町 ;
+    mo:SubRegion mr:JP_大分県津久見市岡町 ;
+    mo:SubRegion mr:JP_大分県津久見市堅浦 ;
+    mo:SubRegion mr:JP_大分県津久見市上青江 ;
+    mo:SubRegion mr:JP_大分県津久見市上宮本町 ;
+    mo:SubRegion mr:JP_大分県津久見市合ノ元町 ;
+    mo:SubRegion mr:JP_大分県津久見市小園町 ;
+    mo:SubRegion mr:JP_大分県津久見市地蔵町 ;
+    mo:SubRegion mr:JP_大分県津久見市志手町 ;
+    mo:SubRegion mr:JP_大分県津久見市下青江 ;
+    mo:SubRegion mr:JP_大分県津久見市新町 ;
+    mo:SubRegion mr:JP_大分県津久見市セメント町 ;
+    mo:SubRegion mr:JP_大分県津久見市高洲町 ;
+    mo:SubRegion mr:JP_大分県津久見市立花町 ;
+    mo:SubRegion mr:JP_大分県津久見市千怒 ;
+    mo:SubRegion mr:JP_大分県津久見市中央町 ;
+    mo:SubRegion mr:JP_大分県津久見市津久見 ;
+    mo:SubRegion mr:JP_大分県津久見市津久見浦 ;
+    mo:SubRegion mr:JP_大分県津久見市徳浦 ;
+    mo:SubRegion mr:JP_大分県津久見市徳浦本町 ;
+    mo:SubRegion mr:JP_大分県津久見市徳浦宮町 ;
+    mo:SubRegion mr:JP_大分県津久見市中田町 ;
+    mo:SubRegion mr:JP_大分県津久見市中町 ;
+    mo:SubRegion mr:JP_大分県津久見市長目 ;
+    mo:SubRegion mr:JP_大分県津久見市日見 ;
+    mo:SubRegion mr:JP_大分県津久見市文京町 ;
+    mo:SubRegion mr:JP_大分県津久見市保戸島 ;
+    mo:SubRegion mr:JP_大分県津久見市港町 ;
+    mo:SubRegion mr:JP_大分県津久見市宮本町 ;
+    mo:SubRegion mr:JP_大分県津久見市元町 ;
+    mo:SubRegion mr:JP_大分県津久見市門前町 ;
+    mo:SubRegion mr:JP_大分県津久見市八戸 ;
+    mo:SubRegion mr:JP_大分県津久見市四浦 ;
+a mo:GeoEntity .
+
+mr:JP_大分県津久見市網代
+    rdfs:label "網代"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市井無田町
+    rdfs:label "井無田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市入船東町
+    rdfs:label "入船東町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市入船西町
+    rdfs:label "入船西町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市岩屋町
+    rdfs:label "岩屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市大友町
+    rdfs:label "大友町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市岡町
+    rdfs:label "岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市堅浦
+    rdfs:label "堅浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市上青江
+    rdfs:label "上青江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市上宮本町
+    rdfs:label "上宮本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市合ノ元町
+    rdfs:label "合ノ元町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市小園町
+    rdfs:label "小園町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市地蔵町
+    rdfs:label "地蔵町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市志手町
+    rdfs:label "志手町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市下青江
+    rdfs:label "下青江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市セメント町
+    rdfs:label "セメント町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市高洲町
+    rdfs:label "高洲町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市立花町
+    rdfs:label "立花町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市千怒
+    rdfs:label "千怒"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市津久見
+    rdfs:label "津久見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市津久見浦
+    rdfs:label "津久見浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市徳浦
+    rdfs:label "徳浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市徳浦本町
+    rdfs:label "徳浦本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市徳浦宮町
+    rdfs:label "徳浦宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市中田町
+    rdfs:label "中田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市長目
+    rdfs:label "長目"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市日見
+    rdfs:label "日見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市文京町
+    rdfs:label "文京町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市保戸島
+    rdfs:label "保戸島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市宮本町
+    rdfs:label "宮本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市門前町
+    rdfs:label "門前町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市八戸
+    rdfs:label "八戸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県津久見市四浦
+    rdfs:label "四浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市
+    rdfs:label "竹田市"@ja ;
+    mo:AreaCode "44208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県竹田市会々 ;
+    mo:SubRegion mr:JP_大分県竹田市穴井迫 ;
+    mo:SubRegion mr:JP_大分県竹田市市用 ;
+    mo:SubRegion mr:JP_大分県竹田市今 ;
+    mo:SubRegion mr:JP_大分県竹田市岩瀬 ;
+    mo:SubRegion mr:JP_大分県竹田市岩本 ;
+    mo:SubRegion mr:JP_大分県竹田市植木 ;
+    mo:SubRegion mr:JP_大分県竹田市枝 ;
+    mo:SubRegion mr:JP_大分県竹田市太田 ;
+    mo:SubRegion mr:JP_大分県竹田市小川 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町瓜作 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町恵良原 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町大平 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町柏原 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町叶野 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町北原 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町木下 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町桑木 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町西福寺 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町鴫田 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町新藤 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町高城 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町高練木 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町田代 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町馬場 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町陽目 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町藤渡 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町仏面 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町馬背野 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町政所 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町南河内 ;
+    mo:SubRegion mr:JP_大分県竹田市荻町宮平 ;
+    mo:SubRegion mr:JP_大分県竹田市小塚 ;
+    mo:SubRegion mr:JP_大分県竹田市片ケ瀬 ;
+    mo:SubRegion mr:JP_大分県竹田市上坂田 ;
+    mo:SubRegion mr:JP_大分県竹田市上畑 ;
+    mo:SubRegion mr:JP_大分県竹田市刈小野 ;
+    mo:SubRegion mr:JP_大分県竹田市川床 ;
+    mo:SubRegion mr:JP_大分県竹田市城原 ;
+    mo:SubRegion mr:JP_大分県竹田市君ケ園 ;
+    mo:SubRegion mr:JP_大分県竹田市九重野 ;
+    mo:SubRegion mr:JP_大分県竹田市久住町有氏 ;
+    mo:SubRegion mr:JP_大分県竹田市久住町栢木 ;
+    mo:SubRegion mr:JP_大分県竹田市久住町久住 ;
+    mo:SubRegion mr:JP_大分県竹田市久住町白丹 ;
+    mo:SubRegion mr:JP_大分県竹田市久住町添ケ津留 ;
+    mo:SubRegion mr:JP_大分県竹田市久住町仏原 ;
+    mo:SubRegion mr:JP_大分県竹田市久保 ;
+    mo:SubRegion mr:JP_大分県竹田市倉木 ;
+    mo:SubRegion mr:JP_大分県竹田市神原 ;
+    mo:SubRegion mr:JP_大分県竹田市志土知 ;
+    mo:SubRegion mr:JP_大分県竹田市下坂田 ;
+    mo:SubRegion mr:JP_大分県竹田市下志土知 ;
+    mo:SubRegion mr:JP_大分県竹田市菅生 ;
+    mo:SubRegion mr:JP_大分県竹田市炭竈 ;
+    mo:SubRegion mr:JP_大分県竹田市田井 ;
+    mo:SubRegion mr:JP_大分県竹田市高伏 ;
+    mo:SubRegion mr:JP_大分県竹田市竹田 ;
+    mo:SubRegion mr:JP_大分県竹田市竹田町 ;
+    mo:SubRegion mr:JP_大分県竹田市玉来 ;
+    mo:SubRegion mr:JP_大分県竹田市次倉 ;
+    mo:SubRegion mr:JP_大分県竹田市戸上 ;
+    mo:SubRegion mr:JP_大分県竹田市直入町上田北 ;
+    mo:SubRegion mr:JP_大分県竹田市直入町神堤 ;
+    mo:SubRegion mr:JP_大分県竹田市直入町下田北 ;
+    mo:SubRegion mr:JP_大分県竹田市直入町長湯 ;
+    mo:SubRegion mr:JP_大分県竹田市中 ;
+    mo:SubRegion mr:JP_大分県竹田市中角 ;
+    mo:SubRegion mr:JP_大分県竹田市入田 ;
+    mo:SubRegion mr:JP_大分県竹田市拝田原 ;
+    mo:SubRegion mr:JP_大分県竹田市挾田 ;
+    mo:SubRegion mr:JP_大分県竹田市飛田川 ;
+    mo:SubRegion mr:JP_大分県竹田市平田 ;
+    mo:SubRegion mr:JP_大分県竹田市福原 ;
+    mo:SubRegion mr:JP_大分県竹田市古園 ;
+    mo:SubRegion mr:JP_大分県竹田市三宅 ;
+    mo:SubRegion mr:JP_大分県竹田市向山田 ;
+    mo:SubRegion mr:JP_大分県竹田市門田 ;
+    mo:SubRegion mr:JP_大分県竹田市吉田 ;
+    mo:SubRegion mr:JP_大分県竹田市米納 ;
+    mo:SubRegion mr:JP_大分県竹田市渡瀬 ;
+a mo:GeoEntity .
+
+mr:JP_大分県竹田市会々
+    rdfs:label "会々"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市穴井迫
+    rdfs:label "穴井迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市市用
+    rdfs:label "市用"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市今
+    rdfs:label "今"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市岩瀬
+    rdfs:label "岩瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市岩本
+    rdfs:label "岩本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市植木
+    rdfs:label "植木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市枝
+    rdfs:label "枝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市太田
+    rdfs:label "太田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町瓜作
+    rdfs:label "荻町瓜作"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町恵良原
+    rdfs:label "荻町恵良原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町大平
+    rdfs:label "荻町大平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町柏原
+    rdfs:label "荻町柏原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町叶野
+    rdfs:label "荻町叶野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町北原
+    rdfs:label "荻町北原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町木下
+    rdfs:label "荻町木下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町桑木
+    rdfs:label "荻町桑木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町西福寺
+    rdfs:label "荻町西福寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町鴫田
+    rdfs:label "荻町鴫田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町新藤
+    rdfs:label "荻町新藤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町高城
+    rdfs:label "荻町高城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町高練木
+    rdfs:label "荻町高練木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町田代
+    rdfs:label "荻町田代"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町馬場
+    rdfs:label "荻町馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町陽目
+    rdfs:label "荻町陽目"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町藤渡
+    rdfs:label "荻町藤渡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町仏面
+    rdfs:label "荻町仏面"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町馬背野
+    rdfs:label "荻町馬背野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町政所
+    rdfs:label "荻町政所"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町南河内
+    rdfs:label "荻町南河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市荻町宮平
+    rdfs:label "荻町宮平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市小塚
+    rdfs:label "小塚"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市片ケ瀬
+    rdfs:label "片ケ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市上坂田
+    rdfs:label "上坂田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市上畑
+    rdfs:label "上畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市刈小野
+    rdfs:label "刈小野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市川床
+    rdfs:label "川床"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市城原
+    rdfs:label "城原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市君ケ園
+    rdfs:label "君ケ園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市九重野
+    rdfs:label "九重野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市久住町有氏
+    rdfs:label "久住町有氏"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市久住町栢木
+    rdfs:label "久住町栢木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市久住町久住
+    rdfs:label "久住町久住"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市久住町白丹
+    rdfs:label "久住町白丹"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市久住町添ケ津留
+    rdfs:label "久住町添ケ津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市久住町仏原
+    rdfs:label "久住町仏原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市久保
+    rdfs:label "久保"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市倉木
+    rdfs:label "倉木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市神原
+    rdfs:label "神原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市志土知
+    rdfs:label "志土知"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市下坂田
+    rdfs:label "下坂田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市下志土知
+    rdfs:label "下志土知"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市菅生
+    rdfs:label "菅生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市炭竈
+    rdfs:label "炭竈"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市田井
+    rdfs:label "田井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市高伏
+    rdfs:label "高伏"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市竹田
+    rdfs:label "竹田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市竹田町
+    rdfs:label "竹田町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市玉来
+    rdfs:label "玉来"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市次倉
+    rdfs:label "次倉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市戸上
+    rdfs:label "戸上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市直入町上田北
+    rdfs:label "直入町上田北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市直入町神堤
+    rdfs:label "直入町神堤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市直入町下田北
+    rdfs:label "直入町下田北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市直入町長湯
+    rdfs:label "直入町長湯"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市中角
+    rdfs:label "中角"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市入田
+    rdfs:label "入田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市拝田原
+    rdfs:label "拝田原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市挾田
+    rdfs:label "挾田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市飛田川
+    rdfs:label "飛田川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市平田
+    rdfs:label "平田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市福原
+    rdfs:label "福原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市古園
+    rdfs:label "古園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市三宅
+    rdfs:label "三宅"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市向山田
+    rdfs:label "向山田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市門田
+    rdfs:label "門田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市米納
+    rdfs:label "米納"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県竹田市渡瀬
+    rdfs:label "渡瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市
+    rdfs:label "豊後高田市"@ja ;
+    mo:AreaCode "44209" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県豊後高田市荒尾 ;
+    mo:SubRegion mr:JP_大分県豊後高田市一畑 ;
+    mo:SubRegion mr:JP_大分県豊後高田市今町 ;
+    mo:SubRegion mr:JP_大分県豊後高田市臼野 ;
+    mo:SubRegion mr:JP_大分県豊後高田市梅ノ木 ;
+    mo:SubRegion mr:JP_大分県豊後高田市夷 ;
+    mo:SubRegion mr:JP_大分県豊後高田市大岩屋 ;
+    mo:SubRegion mr:JP_大分県豊後高田市大平 ;
+    mo:SubRegion mr:JP_大分県豊後高田市御玉 ;
+    mo:SubRegion mr:JP_大分県豊後高田市香々地 ;
+    mo:SubRegion mr:JP_大分県豊後高田市鍛治屋町 ;
+    mo:SubRegion mr:JP_大分県豊後高田市堅来 ;
+    mo:SubRegion mr:JP_大分県豊後高田市鼎 ;
+    mo:SubRegion mr:JP_大分県豊後高田市金谷町 ;
+    mo:SubRegion mr:JP_大分県豊後高田市上香々地 ;
+    mo:SubRegion mr:JP_大分県豊後高田市加礼川 ;
+    mo:SubRegion mr:JP_大分県豊後高田市草地 ;
+    mo:SubRegion mr:JP_大分県豊後高田市来縄 ;
+    mo:SubRegion mr:JP_大分県豊後高田市呉崎 ;
+    mo:SubRegion mr:JP_大分県豊後高田市黒土 ;
+    mo:SubRegion mr:JP_大分県豊後高田市小田原 ;
+    mo:SubRegion mr:JP_大分県豊後高田市小畑 ;
+    mo:SubRegion mr:JP_大分県豊後高田市是永町 ;
+    mo:SubRegion mr:JP_大分県豊後高田市界 ;
+    mo:SubRegion mr:JP_大分県豊後高田市佐野 ;
+    mo:SubRegion mr:JP_大分県豊後高田市城前 ;
+    mo:SubRegion mr:JP_大分県豊後高田市城台 ;
+    mo:SubRegion mr:JP_大分県豊後高田市新栄 ;
+    mo:SubRegion mr:JP_大分県豊後高田市新城 ;
+    mo:SubRegion mr:JP_大分県豊後高田市新地 ;
+    mo:SubRegion mr:JP_大分県豊後高田市新町 ;
+    mo:SubRegion mr:JP_大分県豊後高田市大力 ;
+    mo:SubRegion mr:JP_大分県豊後高田市高田 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染相原 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染池部 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染上野 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染小崎 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染平野 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染蕗 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染真木 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染真中 ;
+    mo:SubRegion mr:JP_大分県豊後高田市田染横嶺 ;
+    mo:SubRegion mr:JP_大分県豊後高田市玉津 ;
+    mo:SubRegion mr:JP_大分県豊後高田市中央通 ;
+    mo:SubRegion mr:JP_大分県豊後高田市築地 ;
+    mo:SubRegion mr:JP_大分県豊後高田市長岩屋 ;
+    mo:SubRegion mr:JP_大分県豊後高田市中真玉 ;
+    mo:SubRegion mr:JP_大分県豊後高田市西真玉 ;
+    mo:SubRegion mr:JP_大分県豊後高田市浜町 ;
+    mo:SubRegion mr:JP_大分県豊後高田市羽根 ;
+    mo:SubRegion mr:JP_大分県豊後高田市払田 ;
+    mo:SubRegion mr:JP_大分県豊後高田市本町 ;
+    mo:SubRegion mr:JP_大分県豊後高田市松行 ;
+    mo:SubRegion mr:JP_大分県豊後高田市水崎 ;
+    mo:SubRegion mr:JP_大分県豊後高田市水取 ;
+    mo:SubRegion mr:JP_大分県豊後高田市見目 ;
+    mo:SubRegion mr:JP_大分県豊後高田市美和 ;
+    mo:SubRegion mr:JP_大分県豊後高田市森 ;
+a mo:GeoEntity .
+
+mr:JP_大分県豊後高田市荒尾
+    rdfs:label "荒尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市一畑
+    rdfs:label "一畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市今町
+    rdfs:label "今町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市臼野
+    rdfs:label "臼野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市梅ノ木
+    rdfs:label "梅ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市夷
+    rdfs:label "夷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市大岩屋
+    rdfs:label "大岩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市御玉
+    rdfs:label "御玉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市香々地
+    rdfs:label "香々地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市鍛治屋町
+    rdfs:label "鍛治屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市堅来
+    rdfs:label "堅来"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市鼎
+    rdfs:label "鼎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市金谷町
+    rdfs:label "金谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市上香々地
+    rdfs:label "上香々地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市加礼川
+    rdfs:label "加礼川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市草地
+    rdfs:label "草地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市来縄
+    rdfs:label "来縄"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市呉崎
+    rdfs:label "呉崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市黒土
+    rdfs:label "黒土"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市小田原
+    rdfs:label "小田原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市小畑
+    rdfs:label "小畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市是永町
+    rdfs:label "是永町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市界
+    rdfs:label "界"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市佐野
+    rdfs:label "佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市城前
+    rdfs:label "城前"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市城台
+    rdfs:label "城台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市新栄
+    rdfs:label "新栄"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市新城
+    rdfs:label "新城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市新地
+    rdfs:label "新地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市大力
+    rdfs:label "大力"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市高田
+    rdfs:label "高田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染相原
+    rdfs:label "田染相原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染池部
+    rdfs:label "田染池部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染上野
+    rdfs:label "田染上野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染小崎
+    rdfs:label "田染小崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染平野
+    rdfs:label "田染平野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染蕗
+    rdfs:label "田染蕗"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染真木
+    rdfs:label "田染真木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染真中
+    rdfs:label "田染真中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市田染横嶺
+    rdfs:label "田染横嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市玉津
+    rdfs:label "玉津"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市中央通
+    rdfs:label "中央通"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市築地
+    rdfs:label "築地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市長岩屋
+    rdfs:label "長岩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市中真玉
+    rdfs:label "中真玉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市西真玉
+    rdfs:label "西真玉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市羽根
+    rdfs:label "羽根"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市払田
+    rdfs:label "払田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市松行
+    rdfs:label "松行"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市水崎
+    rdfs:label "水崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市水取
+    rdfs:label "水取"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市見目
+    rdfs:label "見目"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市美和
+    rdfs:label "美和"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後高田市森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市
+    rdfs:label "杵築市"@ja ;
+    mo:AreaCode "44210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県杵築市相原 ;
+    mo:SubRegion mr:JP_大分県杵築市猪尾 ;
+    mo:SubRegion mr:JP_大分県杵築市岩谷 ;
+    mo:SubRegion mr:JP_大分県杵築市大内 ;
+    mo:SubRegion mr:JP_大分県杵築市大片平 ;
+    mo:SubRegion mr:JP_大分県杵築市大田石丸 ;
+    mo:SubRegion mr:JP_大分県杵築市大田小野 ;
+    mo:SubRegion mr:JP_大分県杵築市大田沓掛 ;
+    mo:SubRegion mr:JP_大分県杵築市大田白木原 ;
+    mo:SubRegion mr:JP_大分県杵築市大田永松 ;
+    mo:SubRegion mr:JP_大分県杵築市大田波多方 ;
+    mo:SubRegion mr:JP_大分県杵築市大田俣水 ;
+    mo:SubRegion mr:JP_大分県杵築市片野 ;
+    mo:SubRegion mr:JP_大分県杵築市鴨川 ;
+    mo:SubRegion mr:JP_大分県杵築市狩宿 ;
+    mo:SubRegion mr:JP_大分県杵築市杵築 ;
+    mo:SubRegion mr:JP_大分県杵築市熊野 ;
+    mo:SubRegion mr:JP_大分県杵築市中 ;
+    mo:SubRegion mr:JP_大分県杵築市奈多 ;
+    mo:SubRegion mr:JP_大分県杵築市馬場尾 ;
+    mo:SubRegion mr:JP_大分県杵築市日野 ;
+    mo:SubRegion mr:JP_大分県杵築市船部 ;
+    mo:SubRegion mr:JP_大分県杵築市本庄 ;
+    mo:SubRegion mr:JP_大分県杵築市溝井 ;
+    mo:SubRegion mr:JP_大分県杵築市南杵築 ;
+    mo:SubRegion mr:JP_大分県杵築市宮司 ;
+    mo:SubRegion mr:JP_大分県杵築市守江 ;
+    mo:SubRegion mr:JP_大分県杵築市八坂 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町内河野 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町小武 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町久木野尾 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町倉成 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町下 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町立石 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町野原 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町日指 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町広瀬 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町南畑 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町向野 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町山浦 ;
+    mo:SubRegion mr:JP_大分県杵築市山香町吉野渡 ;
+    mo:SubRegion mr:JP_大分県杵築市横城 ;
+a mo:GeoEntity .
+
+mr:JP_大分県杵築市相原
+    rdfs:label "相原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市猪尾
+    rdfs:label "猪尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市岩谷
+    rdfs:label "岩谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大内
+    rdfs:label "大内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大片平
+    rdfs:label "大片平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大田石丸
+    rdfs:label "大田石丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大田小野
+    rdfs:label "大田小野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大田沓掛
+    rdfs:label "大田沓掛"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大田白木原
+    rdfs:label "大田白木原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大田永松
+    rdfs:label "大田永松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大田波多方
+    rdfs:label "大田波多方"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大田俣水
+    rdfs:label "大田俣水"@ja ;
+    mo:SubRegion mr:JP_大分県杵築市大田俣水天堤 ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市大田俣水天堤
+    rdfs:label "天堤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市片野
+    rdfs:label "片野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市鴨川
+    rdfs:label "鴨川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市狩宿
+    rdfs:label "狩宿"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市杵築
+    rdfs:label "杵築"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市熊野
+    rdfs:label "熊野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市奈多
+    rdfs:label "奈多"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市馬場尾
+    rdfs:label "馬場尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市日野
+    rdfs:label "日野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市船部
+    rdfs:label "船部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市本庄
+    rdfs:label "本庄"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市溝井
+    rdfs:label "溝井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市南杵築
+    rdfs:label "南杵築"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市宮司
+    rdfs:label "宮司"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市守江
+    rdfs:label "守江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市八坂
+    rdfs:label "八坂"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町内河野
+    rdfs:label "山香町内河野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町小武
+    rdfs:label "山香町小武"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町久木野尾
+    rdfs:label "山香町久木野尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町倉成
+    rdfs:label "山香町倉成"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町下
+    rdfs:label "山香町下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町立石
+    rdfs:label "山香町立石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町野原
+    rdfs:label "山香町野原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町日指
+    rdfs:label "山香町日指"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町広瀬
+    rdfs:label "山香町広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町南畑
+    rdfs:label "山香町南畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町向野
+    rdfs:label "山香町向野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町山浦
+    rdfs:label "山香町山浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市山香町吉野渡
+    rdfs:label "山香町吉野渡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県杵築市横城
+    rdfs:label "横城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市
+    rdfs:label "宇佐市"@ja ;
+    mo:AreaCode "44211" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県宇佐市青森 ;
+    mo:SubRegion mr:JP_大分県宇佐市赤尾 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町板場 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町今井 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町筌ノ口 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町内川野 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町有徳原 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町大見尾 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町折敷田 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町尾立 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町且尾 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町上市 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町上内河野 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町萱籠 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町川崎 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町川底 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町木裳 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町久井田 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町口ノ坪 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町熊 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町五郎丸 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町境ノ坪 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町笹ケ平 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町佐田 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町下内河野 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町下毛 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町荘 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町正覚寺 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町新貝 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町寒水 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町村部 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町大 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町大佛 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町畳石 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町田ノ口 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町辻 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町恒松 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町妻垣 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町塔尾 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町戸方 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町鳥越 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町中山 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町楢本 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町新原 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町西衲 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町野山 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町原 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町番木 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町飯田 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町東恵良 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町東椎屋 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町平ケ倉 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町平山 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町広谷 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町広連 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町福貴野 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町舟板 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町古市 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町古川 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町房ケ畑 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町佛木 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町松本 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町水車 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町南畑 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町元 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町森 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町矢崎 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町矢津 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町矢畑 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町山蔵 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町山ノ口 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町龍王 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町六郎丸 ;
+    mo:SubRegion mr:JP_大分県宇佐市安心院町若林 ;
+    mo:SubRegion mr:JP_大分県宇佐市麻生 ;
+    mo:SubRegion mr:JP_大分県宇佐市荒木 ;
+    mo:SubRegion mr:JP_大分県宇佐市石田 ;
+    mo:SubRegion mr:JP_大分県宇佐市出光 ;
+    mo:SubRegion mr:JP_大分県宇佐市今成 ;
+    mo:SubRegion mr:JP_大分県宇佐市今仁 ;
+    mo:SubRegion mr:JP_大分県宇佐市岩崎 ;
+    mo:SubRegion mr:JP_大分県宇佐市岩保新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町大重見 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町大副 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町大坪 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町岡 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町沖 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町荻迫 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町小坂 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町落狩倉 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町小野川内 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町景平 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町上余 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町上恵良 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町上納持 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町上船木 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町北山 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町櫛野 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町来鉢 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町栗山 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町小稲 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町香下 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町小平 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町五名 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町斎藤 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町下余 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町下恵良 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町下船木 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町定別当 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町新洞 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町副 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町台 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町大門 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町高並 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町滝貞 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町田所 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町田平 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町月俣 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町土岩屋 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町西椎屋 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町温見 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町野地 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町羽馬礼 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町原口 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町日岳 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町平原 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町広瀬 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町二日市 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町御沓 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町宮原 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町山城 ;
+    mo:SubRegion mr:JP_大分県宇佐市院内町和田 ;
+    mo:SubRegion mr:JP_大分県宇佐市上田 ;
+    mo:SubRegion mr:JP_大分県宇佐市江熊 ;
+    mo:SubRegion mr:JP_大分県宇佐市江須賀 ;
+    mo:SubRegion mr:JP_大分県宇佐市大塚 ;
+    mo:SubRegion mr:JP_大分県宇佐市大根川 ;
+    mo:SubRegion mr:JP_大分県宇佐市沖須町 ;
+    mo:SubRegion mr:JP_大分県宇佐市乙女新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市尾永井 ;
+    mo:SubRegion mr:JP_大分県宇佐市金丸 ;
+    mo:SubRegion mr:JP_大分県宇佐市金屋 ;
+    mo:SubRegion mr:JP_大分県宇佐市上乙女 ;
+    mo:SubRegion mr:JP_大分県宇佐市上敷田 ;
+    mo:SubRegion mr:JP_大分県宇佐市上庄 ;
+    mo:SubRegion mr:JP_大分県宇佐市上高 ;
+    mo:SubRegion mr:JP_大分県宇佐市上高家 ;
+    mo:SubRegion mr:JP_大分県宇佐市上時枝 ;
+    mo:SubRegion mr:JP_大分県宇佐市上拝田 ;
+    mo:SubRegion mr:JP_大分県宇佐市上元重 ;
+    mo:SubRegion mr:JP_大分県宇佐市上矢部 ;
+    mo:SubRegion mr:JP_大分県宇佐市辛島 ;
+    mo:SubRegion mr:JP_大分県宇佐市苅宇田 ;
+    mo:SubRegion mr:JP_大分県宇佐市川部 ;
+    mo:SubRegion mr:JP_大分県宇佐市北宇佐 ;
+    mo:SubRegion mr:JP_大分県宇佐市北鶴田新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市木内 ;
+    mo:SubRegion mr:JP_大分県宇佐市貴船町 ;
+    mo:SubRegion mr:JP_大分県宇佐市木部 ;
+    mo:SubRegion mr:JP_大分県宇佐市久兵衛新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市葛原 ;
+    mo:SubRegion mr:JP_大分県宇佐市熊 ;
+    mo:SubRegion mr:JP_大分県宇佐市黒 ;
+    mo:SubRegion mr:JP_大分県宇佐市郡中新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市閤 ;
+    mo:SubRegion mr:JP_大分県宇佐市小向野 ;
+    mo:SubRegion mr:JP_大分県宇佐市子安町 ;
+    mo:SubRegion mr:JP_大分県宇佐市西木 ;
+    mo:SubRegion mr:JP_大分県宇佐市佐々礼 ;
+    mo:SubRegion mr:JP_大分県宇佐市佐野 ;
+    mo:SubRegion mr:JP_大分県宇佐市猿渡 ;
+    mo:SubRegion mr:JP_大分県宇佐市芝原 ;
+    mo:SubRegion mr:JP_大分県宇佐市清水 ;
+    mo:SubRegion mr:JP_大分県宇佐市下乙女 ;
+    mo:SubRegion mr:JP_大分県宇佐市下敷田 ;
+    mo:SubRegion mr:JP_大分県宇佐市下庄 ;
+    mo:SubRegion mr:JP_大分県宇佐市下高 ;
+    mo:SubRegion mr:JP_大分県宇佐市下高家 ;
+    mo:SubRegion mr:JP_大分県宇佐市下時枝 ;
+    mo:SubRegion mr:JP_大分県宇佐市下拝田 ;
+    mo:SubRegion mr:JP_大分県宇佐市下元重 ;
+    mo:SubRegion mr:JP_大分県宇佐市下矢部 ;
+    mo:SubRegion mr:JP_大分県宇佐市順風新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市城井 ;
+    mo:SubRegion mr:JP_大分県宇佐市正覚寺 ;
+    mo:SubRegion mr:JP_大分県宇佐市末 ;
+    mo:SubRegion mr:JP_大分県宇佐市住江 ;
+    mo:SubRegion mr:JP_大分県宇佐市住吉町 ;
+    mo:SubRegion mr:JP_大分県宇佐市高砂新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市高森 ;
+    mo:SubRegion mr:JP_大分県宇佐市岳ノ首 ;
+    mo:SubRegion mr:JP_大分県宇佐市立石 ;
+    mo:SubRegion mr:JP_大分県宇佐市富山 ;
+    mo:SubRegion mr:JP_大分県宇佐市中 ;
+    mo:SubRegion mr:JP_大分県宇佐市中敷田 ;
+    mo:SubRegion mr:JP_大分県宇佐市中原 ;
+    mo:SubRegion mr:JP_大分県宇佐市長洲 ;
+    mo:SubRegion mr:JP_大分県宇佐市灘 ;
+    mo:SubRegion mr:JP_大分県宇佐市西大堀 ;
+    mo:SubRegion mr:JP_大分県宇佐市西高家 ;
+    mo:SubRegion mr:JP_大分県宇佐市西屋敷 ;
+    mo:SubRegion mr:JP_大分県宇佐市蜷木 ;
+    mo:SubRegion mr:JP_大分県宇佐市橋津 ;
+    mo:SubRegion mr:JP_大分県宇佐市畑田 ;
+    mo:SubRegion mr:JP_大分県宇佐市浜高家 ;
+    mo:SubRegion mr:JP_大分県宇佐市日足 ;
+    mo:SubRegion mr:JP_大分県宇佐市東大堀 ;
+    mo:SubRegion mr:JP_大分県宇佐市東高家 ;
+    mo:SubRegion mr:JP_大分県宇佐市樋田 ;
+    mo:SubRegion mr:JP_大分県宇佐市別府 ;
+    mo:SubRegion mr:JP_大分県宇佐市法鏡寺 ;
+    mo:SubRegion mr:JP_大分県宇佐市松崎 ;
+    mo:SubRegion mr:JP_大分県宇佐市神子山新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市南宇佐 ;
+    mo:SubRegion mr:JP_大分県宇佐市南敷田 ;
+    mo:SubRegion mr:JP_大分県宇佐市南鶴田新田 ;
+    mo:SubRegion mr:JP_大分県宇佐市宮熊 ;
+    mo:SubRegion mr:JP_大分県宇佐市森山 ;
+    mo:SubRegion mr:JP_大分県宇佐市山 ;
+    mo:SubRegion mr:JP_大分県宇佐市山口 ;
+    mo:SubRegion mr:JP_大分県宇佐市山下 ;
+    mo:SubRegion mr:JP_大分県宇佐市山袋 ;
+    mo:SubRegion mr:JP_大分県宇佐市山本 ;
+    mo:SubRegion mr:JP_大分県宇佐市横田 ;
+    mo:SubRegion mr:JP_大分県宇佐市吉松 ;
+    mo:SubRegion mr:JP_大分県宇佐市四日市 ;
+    mo:SubRegion mr:JP_大分県宇佐市両戒 ;
+    mo:SubRegion mr:JP_大分県宇佐市和気 ;
+a mo:GeoEntity .
+
+mr:JP_大分県宇佐市青森
+    rdfs:label "青森"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市赤尾
+    rdfs:label "赤尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町板場
+    rdfs:label "安心院町板場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町今井
+    rdfs:label "安心院町今井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町筌ノ口
+    rdfs:label "安心院町筌ノ口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町内川野
+    rdfs:label "安心院町内川野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町有徳原
+    rdfs:label "安心院町有徳原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町大見尾
+    rdfs:label "安心院町大見尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町折敷田
+    rdfs:label "安心院町折敷田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町尾立
+    rdfs:label "安心院町尾立"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町且尾
+    rdfs:label "安心院町且尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町上市
+    rdfs:label "安心院町上市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町上内河野
+    rdfs:label "安心院町上内河野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町萱籠
+    rdfs:label "安心院町萱籠"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町川崎
+    rdfs:label "安心院町川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町川底
+    rdfs:label "安心院町川底"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町木裳
+    rdfs:label "安心院町木裳"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町久井田
+    rdfs:label "安心院町久井田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町口ノ坪
+    rdfs:label "安心院町口ノ坪"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町熊
+    rdfs:label "安心院町熊"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町五郎丸
+    rdfs:label "安心院町五郎丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町境ノ坪
+    rdfs:label "安心院町境ノ坪"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町笹ケ平
+    rdfs:label "安心院町笹ケ平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町佐田
+    rdfs:label "安心院町佐田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町下内河野
+    rdfs:label "安心院町下内河野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町下毛
+    rdfs:label "安心院町下毛"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町荘
+    rdfs:label "安心院町荘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町正覚寺
+    rdfs:label "安心院町正覚寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町新貝
+    rdfs:label "安心院町新貝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町寒水
+    rdfs:label "安心院町寒水"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町村部
+    rdfs:label "安心院町村部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町大
+    rdfs:label "安心院町大"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町大佛
+    rdfs:label "安心院町大佛"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町畳石
+    rdfs:label "安心院町畳石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町田ノ口
+    rdfs:label "安心院町田ノ口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町辻
+    rdfs:label "安心院町辻"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町恒松
+    rdfs:label "安心院町恒松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町妻垣
+    rdfs:label "安心院町妻垣"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町塔尾
+    rdfs:label "安心院町塔尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町戸方
+    rdfs:label "安心院町戸方"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町鳥越
+    rdfs:label "安心院町鳥越"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町中山
+    rdfs:label "安心院町中山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町楢本
+    rdfs:label "安心院町楢本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町新原
+    rdfs:label "安心院町新原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町西衲
+    rdfs:label "安心院町西衲"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町野山
+    rdfs:label "安心院町野山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町原
+    rdfs:label "安心院町原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町番木
+    rdfs:label "安心院町番木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町飯田
+    rdfs:label "安心院町飯田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町東恵良
+    rdfs:label "安心院町東恵良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町東椎屋
+    rdfs:label "安心院町東椎屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町平ケ倉
+    rdfs:label "安心院町平ケ倉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町平山
+    rdfs:label "安心院町平山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町広谷
+    rdfs:label "安心院町広谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町広連
+    rdfs:label "安心院町広連"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町福貴野
+    rdfs:label "安心院町福貴野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町舟板
+    rdfs:label "安心院町舟板"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町古市
+    rdfs:label "安心院町古市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町古川
+    rdfs:label "安心院町古川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町房ケ畑
+    rdfs:label "安心院町房ケ畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町佛木
+    rdfs:label "安心院町佛木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町松本
+    rdfs:label "安心院町松本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町水車
+    rdfs:label "安心院町水車"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町南畑
+    rdfs:label "安心院町南畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町元
+    rdfs:label "安心院町元"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町森
+    rdfs:label "安心院町森"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町矢崎
+    rdfs:label "安心院町矢崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町矢津
+    rdfs:label "安心院町矢津"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町矢畑
+    rdfs:label "安心院町矢畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町山蔵
+    rdfs:label "安心院町山蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町山ノ口
+    rdfs:label "安心院町山ノ口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町龍王
+    rdfs:label "安心院町龍王"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町六郎丸
+    rdfs:label "安心院町六郎丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市安心院町若林
+    rdfs:label "安心院町若林"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市麻生
+    rdfs:label "麻生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市荒木
+    rdfs:label "荒木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市石田
+    rdfs:label "石田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市出光
+    rdfs:label "出光"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市今成
+    rdfs:label "今成"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市今仁
+    rdfs:label "今仁"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市岩崎
+    rdfs:label "岩崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市岩保新田
+    rdfs:label "岩保新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町大重見
+    rdfs:label "院内町大重見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町大副
+    rdfs:label "院内町大副"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町大坪
+    rdfs:label "院内町大坪"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町岡
+    rdfs:label "院内町岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町沖
+    rdfs:label "院内町沖"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町荻迫
+    rdfs:label "院内町荻迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町小坂
+    rdfs:label "院内町小坂"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町落狩倉
+    rdfs:label "院内町落狩倉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町小野川内
+    rdfs:label "院内町小野川内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町景平
+    rdfs:label "院内町景平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町上余
+    rdfs:label "院内町上余"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町上恵良
+    rdfs:label "院内町上恵良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町上納持
+    rdfs:label "院内町上納持"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町上船木
+    rdfs:label "院内町上船木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町北山
+    rdfs:label "院内町北山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町櫛野
+    rdfs:label "院内町櫛野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町来鉢
+    rdfs:label "院内町来鉢"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町栗山
+    rdfs:label "院内町栗山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町小稲
+    rdfs:label "院内町小稲"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町香下
+    rdfs:label "院内町香下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町小平
+    rdfs:label "院内町小平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町五名
+    rdfs:label "院内町五名"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町斎藤
+    rdfs:label "院内町斎藤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町下余
+    rdfs:label "院内町下余"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町下恵良
+    rdfs:label "院内町下恵良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町下船木
+    rdfs:label "院内町下船木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町定別当
+    rdfs:label "院内町定別当"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町新洞
+    rdfs:label "院内町新洞"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町副
+    rdfs:label "院内町副"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町台
+    rdfs:label "院内町台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町大門
+    rdfs:label "院内町大門"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町高並
+    rdfs:label "院内町高並"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町滝貞
+    rdfs:label "院内町滝貞"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町田所
+    rdfs:label "院内町田所"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町田平
+    rdfs:label "院内町田平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町月俣
+    rdfs:label "院内町月俣"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町土岩屋
+    rdfs:label "院内町土岩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町西椎屋
+    rdfs:label "院内町西椎屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町温見
+    rdfs:label "院内町温見"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町野地
+    rdfs:label "院内町野地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町羽馬礼
+    rdfs:label "院内町羽馬礼"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町原口
+    rdfs:label "院内町原口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町日岳
+    rdfs:label "院内町日岳"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町平原
+    rdfs:label "院内町平原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町広瀬
+    rdfs:label "院内町広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町二日市
+    rdfs:label "院内町二日市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町御沓
+    rdfs:label "院内町御沓"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町宮原
+    rdfs:label "院内町宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町山城
+    rdfs:label "院内町山城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市院内町和田
+    rdfs:label "院内町和田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上田
+    rdfs:label "上田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市江熊
+    rdfs:label "江熊"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市江須賀
+    rdfs:label "江須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市大塚
+    rdfs:label "大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市大根川
+    rdfs:label "大根川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市沖須町
+    rdfs:label "沖須町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市乙女新田
+    rdfs:label "乙女新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市尾永井
+    rdfs:label "尾永井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市金丸
+    rdfs:label "金丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市金屋
+    rdfs:label "金屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上乙女
+    rdfs:label "上乙女"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上敷田
+    rdfs:label "上敷田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上庄
+    rdfs:label "上庄"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上高
+    rdfs:label "上高"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上高家
+    rdfs:label "上高家"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上時枝
+    rdfs:label "上時枝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上拝田
+    rdfs:label "上拝田"@ja ;
+    mo:SubRegion mr:JP_大分県宇佐市上拝田新洞 ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上拝田新洞
+    rdfs:label "新洞"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上元重
+    rdfs:label "上元重"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市上矢部
+    rdfs:label "上矢部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市辛島
+    rdfs:label "辛島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市苅宇田
+    rdfs:label "苅宇田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市川部
+    rdfs:label "川部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市北宇佐
+    rdfs:label "北宇佐"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市北鶴田新田
+    rdfs:label "北鶴田新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市木内
+    rdfs:label "木内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市貴船町
+    rdfs:label "貴船町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市木部
+    rdfs:label "木部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市久兵衛新田
+    rdfs:label "久兵衛新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市葛原
+    rdfs:label "葛原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市熊
+    rdfs:label "熊"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市黒
+    rdfs:label "黒"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市郡中新田
+    rdfs:label "郡中新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市閤
+    rdfs:label "閤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市小向野
+    rdfs:label "小向野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市子安町
+    rdfs:label "子安町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市西木
+    rdfs:label "西木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市佐々礼
+    rdfs:label "佐々礼"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市佐野
+    rdfs:label "佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市猿渡
+    rdfs:label "猿渡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市芝原
+    rdfs:label "芝原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下乙女
+    rdfs:label "下乙女"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下敷田
+    rdfs:label "下敷田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下庄
+    rdfs:label "下庄"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下高
+    rdfs:label "下高"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下高家
+    rdfs:label "下高家"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下時枝
+    rdfs:label "下時枝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下拝田
+    rdfs:label "下拝田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下元重
+    rdfs:label "下元重"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市下矢部
+    rdfs:label "下矢部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市順風新田
+    rdfs:label "順風新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市城井
+    rdfs:label "城井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市正覚寺
+    rdfs:label "正覚寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市末
+    rdfs:label "末"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市住江
+    rdfs:label "住江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市高砂新田
+    rdfs:label "高砂新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市高森
+    rdfs:label "高森"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市岳ノ首
+    rdfs:label "岳ノ首"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市立石
+    rdfs:label "立石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市富山
+    rdfs:label "富山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市中敷田
+    rdfs:label "中敷田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市長洲
+    rdfs:label "長洲"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市灘
+    rdfs:label "灘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市西大堀
+    rdfs:label "西大堀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市西高家
+    rdfs:label "西高家"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市西屋敷
+    rdfs:label "西屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市蜷木
+    rdfs:label "蜷木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市橋津
+    rdfs:label "橋津"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市畑田
+    rdfs:label "畑田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市浜高家
+    rdfs:label "浜高家"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市日足
+    rdfs:label "日足"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市東大堀
+    rdfs:label "東大堀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市東高家
+    rdfs:label "東高家"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市樋田
+    rdfs:label "樋田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市別府
+    rdfs:label "別府"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市法鏡寺
+    rdfs:label "法鏡寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市松崎
+    rdfs:label "松崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市神子山新田
+    rdfs:label "神子山新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市南宇佐
+    rdfs:label "南宇佐"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市南敷田
+    rdfs:label "南敷田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市南鶴田新田
+    rdfs:label "南鶴田新田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市宮熊
+    rdfs:label "宮熊"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市森山
+    rdfs:label "森山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市山
+    rdfs:label "山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市山口
+    rdfs:label "山口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市山下
+    rdfs:label "山下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市山袋
+    rdfs:label "山袋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市山本
+    rdfs:label "山本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市吉松
+    rdfs:label "吉松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市四日市
+    rdfs:label "四日市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市両戒
+    rdfs:label "両戒"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県宇佐市和気
+    rdfs:label "和気"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市
+    rdfs:label "豊後大野市"@ja ;
+    mo:AreaCode "44212" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町朝地 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町池田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町板井迫 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町市万田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町上尾塚 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町栗林 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町志賀 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町下野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町坪泉 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町鳥田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町梨小 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町宮生 ;
+    mo:SubRegion mr:JP_大分県豊後大野市朝地町綿田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町犬飼 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町大寒 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町久原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町栗ケ畑 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町黒松 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町高津原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町西寒田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町柴北 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町下津尾 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町田原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町長畑 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町山内 ;
+    mo:SubRegion mr:JP_大分県豊後大野市犬飼町柚野木 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町安藤 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町後田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町大原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町片島 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町北園 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町桑原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町郡山 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町小倉木 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町酒井寺 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町沢田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町杉園 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町代三五 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町田代 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町田中 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町十時 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町中土師 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町長畑 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町中原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町夏足 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町藤北 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町宮迫 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町矢田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町屋原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市大野町両家 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町井上 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町上畑 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町小宛 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町大石 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町小原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町尾平鉱山 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町上犬塚 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町上自在 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町上年野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町上冬原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町木野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町草深野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町久土知 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町栗生 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町越生 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町志賀 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町軸丸 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町下自在 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町下徳田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町大化 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町滞迫 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町知田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町辻 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町寺原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町天神 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町徳田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町中野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町夏足 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町野尻 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町馬場 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町原尻 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町平石 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町鮒川 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町冬原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町馬背畑 ;
+    mo:SubRegion mr:JP_大分県豊後大野市緒方町柚木 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町雨堤 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町臼尾 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町宇田枝 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町大白谷 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町砂田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町左右知 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町天神 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町平石 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町伏野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町三玉 ;
+    mo:SubRegion mr:JP_大分県豊後大野市清川町六種 ;
+    mo:SubRegion mr:JP_大分県豊後大野市千歳町石田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市千歳町柴山 ;
+    mo:SubRegion mr:JP_大分県豊後大野市千歳町下山 ;
+    mo:SubRegion mr:JP_大分県豊後大野市千歳町高畑 ;
+    mo:SubRegion mr:JP_大分県豊後大野市千歳町長峰 ;
+    mo:SubRegion mr:JP_大分県豊後大野市千歳町新殿 ;
+    mo:SubRegion mr:JP_大分県豊後大野市千歳町船田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市千歳町前田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町赤嶺 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町秋葉 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町浅瀬 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町芦刈 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町井迫 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町市場 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町内田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町内山 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町大白谷 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町奥畑 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町小坂 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町小田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町上田原 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町川辺 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町菅生 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町玉田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町中津留 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町西泉 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町西畑 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町久田 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町伏野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町本城 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町松尾 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町宮野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町向野 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町百枝 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町山部 ;
+    mo:SubRegion mr:JP_大分県豊後大野市三重町鷲谷 ;
+a mo:GeoEntity .
+
+mr:JP_大分県豊後大野市朝地町朝地
+    rdfs:label "朝地町朝地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町池田
+    rdfs:label "朝地町池田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町板井迫
+    rdfs:label "朝地町板井迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町市万田
+    rdfs:label "朝地町市万田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町上尾塚
+    rdfs:label "朝地町上尾塚"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町栗林
+    rdfs:label "朝地町栗林"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町志賀
+    rdfs:label "朝地町志賀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町下野
+    rdfs:label "朝地町下野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町坪泉
+    rdfs:label "朝地町坪泉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町鳥田
+    rdfs:label "朝地町鳥田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町梨小
+    rdfs:label "朝地町梨小"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町宮生
+    rdfs:label "朝地町宮生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市朝地町綿田
+    rdfs:label "朝地町綿田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町犬飼
+    rdfs:label "犬飼町犬飼"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町大寒
+    rdfs:label "犬飼町大寒"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町久原
+    rdfs:label "犬飼町久原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町栗ケ畑
+    rdfs:label "犬飼町栗ケ畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町黒松
+    rdfs:label "犬飼町黒松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町高津原
+    rdfs:label "犬飼町高津原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町西寒田
+    rdfs:label "犬飼町西寒田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町柴北
+    rdfs:label "犬飼町柴北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町下津尾
+    rdfs:label "犬飼町下津尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町田原
+    rdfs:label "犬飼町田原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町長畑
+    rdfs:label "犬飼町長畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町山内
+    rdfs:label "犬飼町山内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市犬飼町柚野木
+    rdfs:label "犬飼町柚野木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町安藤
+    rdfs:label "大野町安藤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町後田
+    rdfs:label "大野町後田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町大原
+    rdfs:label "大野町大原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町片島
+    rdfs:label "大野町片島"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町北園
+    rdfs:label "大野町北園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町桑原
+    rdfs:label "大野町桑原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町郡山
+    rdfs:label "大野町郡山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町小倉木
+    rdfs:label "大野町小倉木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町酒井寺
+    rdfs:label "大野町酒井寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町沢田
+    rdfs:label "大野町沢田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町杉園
+    rdfs:label "大野町杉園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町代三五
+    rdfs:label "大野町代三五"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町田代
+    rdfs:label "大野町田代"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町田中
+    rdfs:label "大野町田中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町十時
+    rdfs:label "大野町十時"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町中土師
+    rdfs:label "大野町中土師"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町長畑
+    rdfs:label "大野町長畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町中原
+    rdfs:label "大野町中原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町夏足
+    rdfs:label "大野町夏足"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町藤北
+    rdfs:label "大野町藤北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町宮迫
+    rdfs:label "大野町宮迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町矢田
+    rdfs:label "大野町矢田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町屋原
+    rdfs:label "大野町屋原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市大野町両家
+    rdfs:label "大野町両家"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町井上
+    rdfs:label "緒方町井上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町上畑
+    rdfs:label "緒方町上畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町小宛
+    rdfs:label "緒方町小宛"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町大石
+    rdfs:label "緒方町大石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町小原
+    rdfs:label "緒方町小原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町尾平鉱山
+    rdfs:label "緒方町尾平鉱山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町上犬塚
+    rdfs:label "緒方町上犬塚"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町上自在
+    rdfs:label "緒方町上自在"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町上年野
+    rdfs:label "緒方町上年野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町上冬原
+    rdfs:label "緒方町上冬原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町木野
+    rdfs:label "緒方町木野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町草深野
+    rdfs:label "緒方町草深野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町久土知
+    rdfs:label "緒方町久土知"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町栗生
+    rdfs:label "緒方町栗生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町越生
+    rdfs:label "緒方町越生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町志賀
+    rdfs:label "緒方町志賀"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町軸丸
+    rdfs:label "緒方町軸丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町下自在
+    rdfs:label "緒方町下自在"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町下徳田
+    rdfs:label "緒方町下徳田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町大化
+    rdfs:label "緒方町大化"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町滞迫
+    rdfs:label "緒方町滞迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町知田
+    rdfs:label "緒方町知田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町辻
+    rdfs:label "緒方町辻"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町寺原
+    rdfs:label "緒方町寺原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町天神
+    rdfs:label "緒方町天神"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町徳田
+    rdfs:label "緒方町徳田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町中野
+    rdfs:label "緒方町中野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町夏足
+    rdfs:label "緒方町夏足"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町野尻
+    rdfs:label "緒方町野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町馬場
+    rdfs:label "緒方町馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町原尻
+    rdfs:label "緒方町原尻"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町平石
+    rdfs:label "緒方町平石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町鮒川
+    rdfs:label "緒方町鮒川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町冬原
+    rdfs:label "緒方町冬原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町馬背畑
+    rdfs:label "緒方町馬背畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市緒方町柚木
+    rdfs:label "緒方町柚木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町雨堤
+    rdfs:label "清川町雨堤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町臼尾
+    rdfs:label "清川町臼尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町宇田枝
+    rdfs:label "清川町宇田枝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町大白谷
+    rdfs:label "清川町大白谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町砂田
+    rdfs:label "清川町砂田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町左右知
+    rdfs:label "清川町左右知"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町天神
+    rdfs:label "清川町天神"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町平石
+    rdfs:label "清川町平石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町伏野
+    rdfs:label "清川町伏野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町三玉
+    rdfs:label "清川町三玉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市清川町六種
+    rdfs:label "清川町六種"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市千歳町石田
+    rdfs:label "千歳町石田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市千歳町柴山
+    rdfs:label "千歳町柴山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市千歳町下山
+    rdfs:label "千歳町下山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市千歳町高畑
+    rdfs:label "千歳町高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市千歳町長峰
+    rdfs:label "千歳町長峰"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市千歳町新殿
+    rdfs:label "千歳町新殿"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市千歳町船田
+    rdfs:label "千歳町船田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市千歳町前田
+    rdfs:label "千歳町前田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町赤嶺
+    rdfs:label "三重町赤嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町秋葉
+    rdfs:label "三重町秋葉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町浅瀬
+    rdfs:label "三重町浅瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町芦刈
+    rdfs:label "三重町芦刈"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町井迫
+    rdfs:label "三重町井迫"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町市場
+    rdfs:label "三重町市場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町内田
+    rdfs:label "三重町内田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町内山
+    rdfs:label "三重町内山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町大白谷
+    rdfs:label "三重町大白谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町奥畑
+    rdfs:label "三重町奥畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町小坂
+    rdfs:label "三重町小坂"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町小田
+    rdfs:label "三重町小田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町上田原
+    rdfs:label "三重町上田原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町川辺
+    rdfs:label "三重町川辺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町菅生
+    rdfs:label "三重町菅生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町玉田
+    rdfs:label "三重町玉田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町中津留
+    rdfs:label "三重町中津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町西泉
+    rdfs:label "三重町西泉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町西畑
+    rdfs:label "三重町西畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町久田
+    rdfs:label "三重町久田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町伏野
+    rdfs:label "三重町伏野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町本城
+    rdfs:label "三重町本城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町松尾
+    rdfs:label "三重町松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町宮野
+    rdfs:label "三重町宮野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町向野
+    rdfs:label "三重町向野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町百枝
+    rdfs:label "三重町百枝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町山部
+    rdfs:label "三重町山部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県豊後大野市三重町鷲谷
+    rdfs:label "三重町鷲谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市
+    rdfs:label "由布市"@ja ;
+    mo:AreaCode "44213" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町阿蘇野 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町櫟木 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町大龍 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町小挾間 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町柿原 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町北大津留 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町五ケ瀬 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町庄内原 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町高岡 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町龍原 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町直野内山 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町中 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町長野 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町西 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町西大津留 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町西長宝 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町野畑 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町畑田 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町東大津留 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町東長宝 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町平石 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町渕 ;
+    mo:SubRegion mr:JP_大分県由布市庄内町南大津留 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町赤野 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町医大ケ丘 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町内成 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町鬼瀬 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町鬼崎 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町小野 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町北方 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町来鉢 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町篠原 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町下市 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町高崎 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町田代 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町谷 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町筒口 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町東院 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町時松 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町七蔵司 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町挾間 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町古野 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町朴木 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町三船 ;
+    mo:SubRegion mr:JP_大分県由布市挾間町向原 ;
+    mo:SubRegion mr:JP_大分県由布市湯布院町川上 ;
+    mo:SubRegion mr:JP_大分県由布市湯布院町川北 ;
+    mo:SubRegion mr:JP_大分県由布市湯布院町川西 ;
+    mo:SubRegion mr:JP_大分県由布市湯布院町川南 ;
+    mo:SubRegion mr:JP_大分県由布市湯布院町下湯平 ;
+    mo:SubRegion mr:JP_大分県由布市湯布院町塚原 ;
+    mo:SubRegion mr:JP_大分県由布市湯布院町中川 ;
+    mo:SubRegion mr:JP_大分県由布市湯布院町湯平 ;
+a mo:GeoEntity .
+
+mr:JP_大分県由布市庄内町阿蘇野
+    rdfs:label "庄内町阿蘇野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町櫟木
+    rdfs:label "庄内町櫟木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町大龍
+    rdfs:label "庄内町大龍"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町小挾間
+    rdfs:label "庄内町小挾間"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町柿原
+    rdfs:label "庄内町柿原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町北大津留
+    rdfs:label "庄内町北大津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町五ケ瀬
+    rdfs:label "庄内町五ケ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町庄内原
+    rdfs:label "庄内町庄内原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町高岡
+    rdfs:label "庄内町高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町龍原
+    rdfs:label "庄内町龍原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町直野内山
+    rdfs:label "庄内町直野内山"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町中
+    rdfs:label "庄内町中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町長野
+    rdfs:label "庄内町長野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町西
+    rdfs:label "庄内町西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町西大津留
+    rdfs:label "庄内町西大津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町西長宝
+    rdfs:label "庄内町西長宝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町野畑
+    rdfs:label "庄内町野畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町畑田
+    rdfs:label "庄内町畑田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町東大津留
+    rdfs:label "庄内町東大津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町東長宝
+    rdfs:label "庄内町東長宝"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町平石
+    rdfs:label "庄内町平石"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町渕
+    rdfs:label "庄内町渕"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市庄内町南大津留
+    rdfs:label "庄内町南大津留"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町赤野
+    rdfs:label "挾間町赤野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町医大ケ丘
+    rdfs:label "挾間町医大ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町内成
+    rdfs:label "挾間町内成"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町鬼瀬
+    rdfs:label "挾間町鬼瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町鬼崎
+    rdfs:label "挾間町鬼崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町小野
+    rdfs:label "挾間町小野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町北方
+    rdfs:label "挾間町北方"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町来鉢
+    rdfs:label "挾間町来鉢"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町篠原
+    rdfs:label "挾間町篠原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町下市
+    rdfs:label "挾間町下市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町高崎
+    rdfs:label "挾間町高崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町田代
+    rdfs:label "挾間町田代"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町谷
+    rdfs:label "挾間町谷"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町筒口
+    rdfs:label "挾間町筒口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町東院
+    rdfs:label "挾間町東院"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町時松
+    rdfs:label "挾間町時松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町七蔵司
+    rdfs:label "挾間町七蔵司"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町挾間
+    rdfs:label "挾間町挾間"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町古野
+    rdfs:label "挾間町古野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町朴木
+    rdfs:label "挾間町朴木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町三船
+    rdfs:label "挾間町三船"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市挾間町向原
+    rdfs:label "挾間町向原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市湯布院町川上
+    rdfs:label "湯布院町川上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市湯布院町川北
+    rdfs:label "湯布院町川北"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市湯布院町川西
+    rdfs:label "湯布院町川西"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市湯布院町川南
+    rdfs:label "湯布院町川南"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市湯布院町下湯平
+    rdfs:label "湯布院町下湯平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市湯布院町塚原
+    rdfs:label "湯布院町塚原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市湯布院町中川
+    rdfs:label "湯布院町中川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県由布市湯布院町湯平
+    rdfs:label "湯布院町湯平"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市
+    rdfs:label "国東市"@ja ;
+    mo:AreaCode "44214" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町朝来 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町糸永 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町大添 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町掛樋 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町向陽台 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町塩屋 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町下原 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町下山口 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町瀬戸田 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町富清 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町中園 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町成久 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町西本 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町馬場 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町両子 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町明治 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町矢川 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町山浦 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町山口 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町油留木 ;
+    mo:SubRegion mr:JP_大分県国東市安岐町吉松 ;
+    mo:SubRegion mr:JP_大分県国東市国東町赤松 ;
+    mo:SubRegion mr:JP_大分県国東市国東町安国寺 ;
+    mo:SubRegion mr:JP_大分県国東市国東町岩戸寺 ;
+    mo:SubRegion mr:JP_大分県国東市国東町岩屋 ;
+    mo:SubRegion mr:JP_大分県国東市国東町小原 ;
+    mo:SubRegion mr:JP_大分県国東市国東町川原 ;
+    mo:SubRegion mr:JP_大分県国東市国東町北江 ;
+    mo:SubRegion mr:JP_大分県国東市国東町来浦 ;
+    mo:SubRegion mr:JP_大分県国東市国東町見地 ;
+    mo:SubRegion mr:JP_大分県国東市国東町重藤 ;
+    mo:SubRegion mr:JP_大分県国東市国東町下成仏 ;
+    mo:SubRegion mr:JP_大分県国東市国東町成仏 ;
+    mo:SubRegion mr:JP_大分県国東市国東町治郎丸 ;
+    mo:SubRegion mr:JP_大分県国東市国東町大恩寺 ;
+    mo:SubRegion mr:JP_大分県国東市国東町田深 ;
+    mo:SubRegion mr:JP_大分県国東市国東町綱井 ;
+    mo:SubRegion mr:JP_大分県国東市国東町鶴川 ;
+    mo:SubRegion mr:JP_大分県国東市国東町富来 ;
+    mo:SubRegion mr:JP_大分県国東市国東町富来浦 ;
+    mo:SubRegion mr:JP_大分県国東市国東町中田 ;
+    mo:SubRegion mr:JP_大分県国東市国東町浜 ;
+    mo:SubRegion mr:JP_大分県国東市国東町浜崎 ;
+    mo:SubRegion mr:JP_大分県国東市国東町原 ;
+    mo:SubRegion mr:JP_大分県国東市国東町東堅来 ;
+    mo:SubRegion mr:JP_大分県国東市国東町深江 ;
+    mo:SubRegion mr:JP_大分県国東市国東町横手 ;
+    mo:SubRegion mr:JP_大分県国東市国見町赤根 ;
+    mo:SubRegion mr:JP_大分県国東市国見町伊美 ;
+    mo:SubRegion mr:JP_大分県国東市国見町大熊毛 ;
+    mo:SubRegion mr:JP_大分県国東市国見町鬼籠 ;
+    mo:SubRegion mr:JP_大分県国東市国見町岐部 ;
+    mo:SubRegion mr:JP_大分県国東市国見町櫛来 ;
+    mo:SubRegion mr:JP_大分県国東市国見町櫛海 ;
+    mo:SubRegion mr:JP_大分県国東市国見町小熊毛 ;
+    mo:SubRegion mr:JP_大分県国東市国見町西方寺 ;
+    mo:SubRegion mr:JP_大分県国東市国見町千燈 ;
+    mo:SubRegion mr:JP_大分県国東市国見町竹田津 ;
+    mo:SubRegion mr:JP_大分県国東市国見町中 ;
+    mo:SubRegion mr:JP_大分県国東市国見町野田 ;
+    mo:SubRegion mr:JP_大分県国東市国見町向田 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町麻田 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町池ノ内 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町糸原 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町内田 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町小城 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町向陽台 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町志和利 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町手野 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町成吉 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町狭間 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町古市 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町丸小野 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町三井寺 ;
+    mo:SubRegion mr:JP_大分県国東市武蔵町吉広 ;
+a mo:GeoEntity .
+
+mr:JP_大分県国東市安岐町朝来
+    rdfs:label "安岐町朝来"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町糸永
+    rdfs:label "安岐町糸永"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町大添
+    rdfs:label "安岐町大添"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町掛樋
+    rdfs:label "安岐町掛樋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町向陽台
+    rdfs:label "安岐町向陽台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町塩屋
+    rdfs:label "安岐町塩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町下原
+    rdfs:label "安岐町下原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町下山口
+    rdfs:label "安岐町下山口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町瀬戸田
+    rdfs:label "安岐町瀬戸田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町富清
+    rdfs:label "安岐町富清"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町中園
+    rdfs:label "安岐町中園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町成久
+    rdfs:label "安岐町成久"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町西本
+    rdfs:label "安岐町西本"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町馬場
+    rdfs:label "安岐町馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町両子
+    rdfs:label "安岐町両子"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町明治
+    rdfs:label "安岐町明治"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町矢川
+    rdfs:label "安岐町矢川"@ja ;
+    mo:SubRegion mr:JP_大分県国東市安岐町矢川天堤 ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町矢川天堤
+    rdfs:label "天堤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町山浦
+    rdfs:label "安岐町山浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町山口
+    rdfs:label "安岐町山口"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町油留木
+    rdfs:label "安岐町油留木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市安岐町吉松
+    rdfs:label "安岐町吉松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町赤松
+    rdfs:label "国東町赤松"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町安国寺
+    rdfs:label "国東町安国寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町岩戸寺
+    rdfs:label "国東町岩戸寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町岩屋
+    rdfs:label "国東町岩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町小原
+    rdfs:label "国東町小原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町川原
+    rdfs:label "国東町川原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町北江
+    rdfs:label "国東町北江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町来浦
+    rdfs:label "国東町来浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町見地
+    rdfs:label "国東町見地"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町重藤
+    rdfs:label "国東町重藤"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町下成仏
+    rdfs:label "国東町下成仏"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町成仏
+    rdfs:label "国東町成仏"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町治郎丸
+    rdfs:label "国東町治郎丸"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町大恩寺
+    rdfs:label "国東町大恩寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町田深
+    rdfs:label "国東町田深"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町綱井
+    rdfs:label "国東町綱井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町鶴川
+    rdfs:label "国東町鶴川"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町富来
+    rdfs:label "国東町富来"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町富来浦
+    rdfs:label "国東町富来浦"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町中田
+    rdfs:label "国東町中田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町浜
+    rdfs:label "国東町浜"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町浜崎
+    rdfs:label "国東町浜崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町原
+    rdfs:label "国東町原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町東堅来
+    rdfs:label "国東町東堅来"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町深江
+    rdfs:label "国東町深江"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国東町横手
+    rdfs:label "国東町横手"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町赤根
+    rdfs:label "国見町赤根"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町伊美
+    rdfs:label "国見町伊美"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町大熊毛
+    rdfs:label "国見町大熊毛"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町鬼籠
+    rdfs:label "国見町鬼籠"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町岐部
+    rdfs:label "国見町岐部"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町櫛来
+    rdfs:label "国見町櫛来"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町櫛海
+    rdfs:label "国見町櫛海"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町小熊毛
+    rdfs:label "国見町小熊毛"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町西方寺
+    rdfs:label "国見町西方寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町千燈
+    rdfs:label "国見町千燈"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町竹田津
+    rdfs:label "国見町竹田津"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町中
+    rdfs:label "国見町中"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町野田
+    rdfs:label "国見町野田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市国見町向田
+    rdfs:label "国見町向田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町麻田
+    rdfs:label "武蔵町麻田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町池ノ内
+    rdfs:label "武蔵町池ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町糸原
+    rdfs:label "武蔵町糸原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町内田
+    rdfs:label "武蔵町内田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町小城
+    rdfs:label "武蔵町小城"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町向陽台
+    rdfs:label "武蔵町向陽台"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町志和利
+    rdfs:label "武蔵町志和利"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町手野
+    rdfs:label "武蔵町手野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町成吉
+    rdfs:label "武蔵町成吉"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町狭間
+    rdfs:label "武蔵町狭間"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町古市
+    rdfs:label "武蔵町古市"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町丸小野
+    rdfs:label "武蔵町丸小野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町三井寺
+    rdfs:label "武蔵町三井寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県国東市武蔵町吉広
+    rdfs:label "武蔵町吉広"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県東国東郡姫島村
+    rdfs:label "東国東郡姫島村"@ja ;
+    mo:AreaCode "44322" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_大分県速見郡日出町
+    rdfs:label "速見郡日出町"@ja ;
+    mo:AreaCode "44341" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町大神 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町川崎 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町豊岡 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町平道 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町広瀬 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町藤原 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町真那井 ;
+    mo:SubRegion mr:JP_大分県速見郡日出町南畑 ;
+a mo:GeoEntity .
+
+mr:JP_大分県速見郡日出町大神
+    rdfs:label "大神"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県速見郡日出町川崎
+    rdfs:label "川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県速見郡日出町豊岡
+    rdfs:label "豊岡"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県速見郡日出町平道
+    rdfs:label "平道"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県速見郡日出町広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県速見郡日出町藤原
+    rdfs:label "藤原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県速見郡日出町真那井
+    rdfs:label "真那井"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県速見郡日出町南畑
+    rdfs:label "南畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町
+    rdfs:label "玖珠郡九重町"@ja ;
+    mo:AreaCode "44461" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町粟野 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町後野上 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町恵良 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町菅原 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町田野 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町野上 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町引治 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町町田 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町松木 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町右田 ;
+    mo:SubRegion mr:JP_大分県玖珠郡九重町湯坪 ;
+a mo:GeoEntity .
+
+mr:JP_大分県玖珠郡九重町粟野
+    rdfs:label "粟野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町後野上
+    rdfs:label "後野上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町恵良
+    rdfs:label "恵良"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町菅原
+    rdfs:label "菅原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町田野
+    rdfs:label "田野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町野上
+    rdfs:label "野上"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町引治
+    rdfs:label "引治"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町町田
+    rdfs:label "町田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町松木
+    rdfs:label "松木"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町右田
+    rdfs:label "右田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡九重町湯坪
+    rdfs:label "湯坪"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町
+    rdfs:label "玖珠郡玖珠町"@ja ;
+    mo:AreaCode "44462" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町綾垣 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町岩室 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町大隈 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町太田 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町小田 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町古後 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町塚脇 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町戸畑 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町日出生 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町帆足 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町森 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山下 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山田 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町四日市 ;
+a mo:GeoEntity .
+
+mr:JP_大分県玖珠郡玖珠町綾垣
+    rdfs:label "綾垣"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町岩室
+    rdfs:label "岩室"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町大隈
+    rdfs:label "大隈"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町太田
+    rdfs:label "太田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町小田
+    rdfs:label "小田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町古後
+    rdfs:label "古後"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町塚脇
+    rdfs:label "塚脇"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町戸畑
+    rdfs:label "戸畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町日出生
+    rdfs:label "日出生"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町帆足
+    rdfs:label "帆足"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦
+    rdfs:label "山浦"@ja ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦秋畑 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦荻原 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦下園 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦下ノ寺 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦杉河内 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦千重 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦早水 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦中野 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦中泊里 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦花香 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦牧場 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦第一大原野 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦第二大原野 ;
+    mo:SubRegion mr:JP_大分県玖珠郡玖珠町山浦阿蘇釣 ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦秋畑
+    rdfs:label "秋畑"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦荻原
+    rdfs:label "荻原"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦下園
+    rdfs:label "下園"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦下ノ寺
+    rdfs:label "下ノ寺"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦杉河内
+    rdfs:label "杉河内"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦千重
+    rdfs:label "千重"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦早水
+    rdfs:label "早水"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦中泊里
+    rdfs:label "中泊里"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦花香
+    rdfs:label "花香"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦牧場
+    rdfs:label "牧場"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦第一大原野
+    rdfs:label "第一大原野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦第二大原野
+    rdfs:label "第二大原野"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山浦阿蘇釣
+    rdfs:label "阿蘇釣"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山下
+    rdfs:label "山下"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_大分県玖珠郡玖珠町四日市
+    rdfs:label "四日市"@ja ;
+    a mo:町域 .
+

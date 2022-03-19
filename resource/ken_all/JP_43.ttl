@@ -1,0 +1,9609 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_熊本県
+    a mo:都道府県 ;
+    rdfs:label "熊本県"@ja ;
+    mo:AreaCode "43" ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区 ;
+    mo:SubRegion mr:JP_熊本県八代市 ;
+    mo:SubRegion mr:JP_熊本県人吉市 ;
+    mo:SubRegion mr:JP_熊本県荒尾市 ;
+    mo:SubRegion mr:JP_熊本県水俣市 ;
+    mo:SubRegion mr:JP_熊本県玉名市 ;
+    mo:SubRegion mr:JP_熊本県山鹿市 ;
+    mo:SubRegion mr:JP_熊本県菊池市 ;
+    mo:SubRegion mr:JP_熊本県宇土市 ;
+    mo:SubRegion mr:JP_熊本県上天草市 ;
+    mo:SubRegion mr:JP_熊本県宇城市 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市 ;
+    mo:SubRegion mr:JP_熊本県天草市 ;
+    mo:SubRegion mr:JP_熊本県合志市 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南小国町 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡小国町 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡産山村 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡西原村 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町 ;
+    mo:SubRegion mr:JP_熊本県葦北郡津奈木町 ;
+    mo:SubRegion mr:JP_熊本県球磨郡錦町 ;
+    mo:SubRegion mr:JP_熊本県球磨郡多良木町 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町 ;
+    mo:SubRegion mr:JP_熊本県球磨郡水上村 ;
+    mo:SubRegion mr:JP_熊本県球磨郡相良村 ;
+    mo:SubRegion mr:JP_熊本県球磨郡五木村 ;
+    mo:SubRegion mr:JP_熊本県球磨郡山江村 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町 ;
+    a mo:GeoEntity .
+
+mr:JP_熊本県熊本市中央区
+    rdfs:label "熊本市中央区"@ja ;
+    mo:AreaCode "43101" ;
+    a mo:行政区_政令指定都市 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区安政町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区井川淵町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区出水 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区板屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区魚屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区内坪井町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区江津 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区大江 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区大江本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区岡田町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区帯山 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区鍛冶屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区上鍛冶屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区上京塚町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区上水前寺 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区上通町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区上林町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区辛島町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区川端町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区河原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区北千反畑町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区京町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区京町本丁 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区草葉町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区九品寺 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区黒髪 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区神水 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区神水本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区慶徳堀町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区紺屋阿弥陀寺町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区紺屋今町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区紺屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区子飼本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区国府 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区国府本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区小沢町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区古城町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区壺川 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区湖東 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区琴平 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区琴平本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区呉服町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区米屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区細工町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区桜町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区三郎 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区島崎 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区下通 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区十禅寺 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区城東町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区新大江 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区新鍛冶屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区新市街 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区新町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区新屋敷 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区水前寺 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区水前寺公園 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区水道町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区菅原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区船場町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区船場町下 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区段山本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区千葉城町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区中央街 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区坪井 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区手取本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区通町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区渡鹿 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区中唐人町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区西阿弥陀寺町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区西子飼町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区西唐人町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区二の丸 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区萩原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区白山 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区八王寺町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区花畑町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区春竹町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区東阿弥陀寺町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区東京塚町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区東子飼町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区古桶屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区古川町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区古京町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区古大工町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区平成 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区保田窪 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区本荘 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区本荘町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区本丸 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区松原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区南熊本 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区南千反畑町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区南坪井町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区宮内 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区妙体寺町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区迎町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区室園町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区本山 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区本山町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区薬園町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区山崎町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区弥生町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区横紺屋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区横手 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区世安 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区世安町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区万町 ;
+    mo:SubRegion mr:JP_熊本県熊本市中央区練兵町 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県熊本市中央区安政町
+    rdfs:label "安政町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区井川淵町
+    rdfs:label "井川淵町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区出水
+    rdfs:label "出水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区板屋町
+    rdfs:label "板屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区魚屋町
+    rdfs:label "魚屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区内坪井町
+    rdfs:label "内坪井町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区江津
+    rdfs:label "江津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区大江
+    rdfs:label "大江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区大江本町
+    rdfs:label "大江本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区岡田町
+    rdfs:label "岡田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区帯山
+    rdfs:label "帯山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区鍛冶屋町
+    rdfs:label "鍛冶屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区上鍛冶屋町
+    rdfs:label "上鍛冶屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区上京塚町
+    rdfs:label "上京塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区上水前寺
+    rdfs:label "上水前寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区上通町
+    rdfs:label "上通町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区上林町
+    rdfs:label "上林町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区辛島町
+    rdfs:label "辛島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区川端町
+    rdfs:label "川端町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区河原町
+    rdfs:label "河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区北千反畑町
+    rdfs:label "北千反畑町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区京町本丁
+    rdfs:label "京町本丁"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区草葉町
+    rdfs:label "草葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区九品寺
+    rdfs:label "九品寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区黒髪
+    rdfs:label "黒髪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区神水
+    rdfs:label "神水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区神水本町
+    rdfs:label "神水本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区慶徳堀町
+    rdfs:label "慶徳堀町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区紺屋阿弥陀寺町
+    rdfs:label "紺屋阿弥陀寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区紺屋今町
+    rdfs:label "紺屋今町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区紺屋町
+    rdfs:label "紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区子飼本町
+    rdfs:label "子飼本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区国府
+    rdfs:label "国府"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区国府本町
+    rdfs:label "国府本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区小沢町
+    rdfs:label "小沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区古城町
+    rdfs:label "古城町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区壺川
+    rdfs:label "壺川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区湖東
+    rdfs:label "湖東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区琴平
+    rdfs:label "琴平"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区琴平本町
+    rdfs:label "琴平本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区呉服町
+    rdfs:label "呉服町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区米屋町
+    rdfs:label "米屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区細工町
+    rdfs:label "細工町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区三郎
+    rdfs:label "三郎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区島崎
+    rdfs:label "島崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区下通
+    rdfs:label "下通"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区十禅寺
+    rdfs:label "十禅寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区城東町
+    rdfs:label "城東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区新大江
+    rdfs:label "新大江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区新鍛冶屋町
+    rdfs:label "新鍛冶屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区新市街
+    rdfs:label "新市街"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区新屋敷
+    rdfs:label "新屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区水前寺
+    rdfs:label "水前寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区水前寺公園
+    rdfs:label "水前寺公園"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区水道町
+    rdfs:label "水道町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区菅原町
+    rdfs:label "菅原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区船場町
+    rdfs:label "船場町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区船場町下
+    rdfs:label "船場町下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区段山本町
+    rdfs:label "段山本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区千葉城町
+    rdfs:label "千葉城町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区中央街
+    rdfs:label "中央街"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区坪井
+    rdfs:label "坪井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区手取本町
+    rdfs:label "手取本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区通町
+    rdfs:label "通町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区渡鹿
+    rdfs:label "渡鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区中唐人町
+    rdfs:label "中唐人町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区西阿弥陀寺町
+    rdfs:label "西阿弥陀寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区西子飼町
+    rdfs:label "西子飼町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区西唐人町
+    rdfs:label "西唐人町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区二の丸
+    rdfs:label "二の丸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区萩原町
+    rdfs:label "萩原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区白山
+    rdfs:label "白山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区八王寺町
+    rdfs:label "八王寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区花畑町
+    rdfs:label "花畑町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区春竹町
+    rdfs:label "春竹町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区東阿弥陀寺町
+    rdfs:label "東阿弥陀寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区東京塚町
+    rdfs:label "東京塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区東子飼町
+    rdfs:label "東子飼町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区古桶屋町
+    rdfs:label "古桶屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区古川町
+    rdfs:label "古川町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区古京町
+    rdfs:label "古京町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区古大工町
+    rdfs:label "古大工町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区平成
+    rdfs:label "平成"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区保田窪
+    rdfs:label "保田窪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区本荘
+    rdfs:label "本荘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区本荘町
+    rdfs:label "本荘町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区本丸
+    rdfs:label "本丸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区南熊本
+    rdfs:label "南熊本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区南千反畑町
+    rdfs:label "南千反畑町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区南坪井町
+    rdfs:label "南坪井町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区宮内
+    rdfs:label "宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区妙体寺町
+    rdfs:label "妙体寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区迎町
+    rdfs:label "迎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区室園町
+    rdfs:label "室園町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区本山
+    rdfs:label "本山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区本山町
+    rdfs:label "本山町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区薬園町
+    rdfs:label "薬園町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区山崎町
+    rdfs:label "山崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区横紺屋町
+    rdfs:label "横紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区横手
+    rdfs:label "横手"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区世安
+    rdfs:label "世安"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区世安町
+    rdfs:label "世安町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区万町
+    rdfs:label "万町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市中央区練兵町
+    rdfs:label "練兵町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区
+    rdfs:label "熊本市東区"@ja ;
+    mo:AreaCode "43102" ;
+    a mo:行政区_政令指定都市 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区秋津 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区秋津新町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区秋津町秋田 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区石原 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区石原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区出水 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区画図東 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区画図町上無田 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区画図町重富 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区画図町下江津 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区画図町下無田 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区画図町所島 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区江津 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区榎町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区尾ノ上 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区帯山 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区小峯 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区小山 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区小山町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区鹿帰瀬町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区上南部 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区上南部町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区京塚本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区神水本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区健軍 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区健軍本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区神園 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区湖東 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区御領 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区栄町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区桜木 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区佐土原 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区三郎 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区下江津 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区下南部 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区昭和町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区新生 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区新南部 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区新外 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区水源 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区月出 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区戸島 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区戸島西 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区戸島本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区戸島町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区渡鹿 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区中江町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区長嶺西 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区長嶺東 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区長嶺南 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区錦ケ丘 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区西原 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区沼山津 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区八反田 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区花立 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区東京塚町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区東野 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区東本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区東町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区平山町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区広木町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区保田窪 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区保田窪本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区南町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区山ノ内 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区山ノ神 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区弓削町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区吉原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市東区若葉 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県熊本市東区秋津
+    rdfs:label "秋津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区秋津新町
+    rdfs:label "秋津新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区秋津町秋田
+    rdfs:label "秋津町秋田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区石原
+    rdfs:label "石原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区石原町
+    rdfs:label "石原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区出水
+    rdfs:label "出水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区画図東
+    rdfs:label "画図東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区画図町上無田
+    rdfs:label "画図町上無田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区画図町重富
+    rdfs:label "画図町重富"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区画図町下江津
+    rdfs:label "画図町下江津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区画図町下無田
+    rdfs:label "画図町下無田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区画図町所島
+    rdfs:label "画図町所島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区江津
+    rdfs:label "江津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区榎町
+    rdfs:label "榎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区尾ノ上
+    rdfs:label "尾ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区帯山
+    rdfs:label "帯山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区小峯
+    rdfs:label "小峯"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区小山
+    rdfs:label "小山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区小山町
+    rdfs:label "小山町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区鹿帰瀬町
+    rdfs:label "鹿帰瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区上南部
+    rdfs:label "上南部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区上南部町
+    rdfs:label "上南部町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区京塚本町
+    rdfs:label "京塚本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区神水本町
+    rdfs:label "神水本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区健軍
+    rdfs:label "健軍"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区健軍本町
+    rdfs:label "健軍本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区神園
+    rdfs:label "神園"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区湖東
+    rdfs:label "湖東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区御領
+    rdfs:label "御領"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区桜木
+    rdfs:label "桜木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区佐土原
+    rdfs:label "佐土原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区三郎
+    rdfs:label "三郎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区下江津
+    rdfs:label "下江津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区下南部
+    rdfs:label "下南部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区新生
+    rdfs:label "新生"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区新南部
+    rdfs:label "新南部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区新外
+    rdfs:label "新外"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区水源
+    rdfs:label "水源"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区月出
+    rdfs:label "月出"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区戸島
+    rdfs:label "戸島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区戸島西
+    rdfs:label "戸島西"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区戸島本町
+    rdfs:label "戸島本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区戸島町
+    rdfs:label "戸島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区渡鹿
+    rdfs:label "渡鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区中江町
+    rdfs:label "中江町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区長嶺西
+    rdfs:label "長嶺西"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区長嶺東
+    rdfs:label "長嶺東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区長嶺南
+    rdfs:label "長嶺南"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区錦ケ丘
+    rdfs:label "錦ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区沼山津
+    rdfs:label "沼山津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区八反田
+    rdfs:label "八反田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区花立
+    rdfs:label "花立"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区東京塚町
+    rdfs:label "東京塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区東野
+    rdfs:label "東野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区東本町
+    rdfs:label "東本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区平山町
+    rdfs:label "平山町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区広木町
+    rdfs:label "広木町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区保田窪
+    rdfs:label "保田窪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区保田窪本町
+    rdfs:label "保田窪本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区山ノ内
+    rdfs:label "山ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区山ノ神
+    rdfs:label "山ノ神"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区弓削町
+    rdfs:label "弓削町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区吉原町
+    rdfs:label "吉原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市東区若葉
+    rdfs:label "若葉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区
+    rdfs:label "熊本市西区"@ja ;
+    mo:AreaCode "43103" ;
+    a mo:行政区_政令指定都市 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区池亀町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区池田 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区池上町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区沖新町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区小島 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区小島上町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区小島下町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区春日 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区上熊本 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区上代 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区上高橋 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区上松尾町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区河内町大多尾 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区河内町面木 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区河内町河内 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区河内町白浜 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区河内町岳 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区河内町東門寺 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区河内町野出 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区河内町船津 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区京町本丁 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区島崎 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区城山大塘 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区城山上代町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区城山下代 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区城山半田 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区城山薬師 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区新土河原 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区新港 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区高橋町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区田崎 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区田崎本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区田崎町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区谷尾崎町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区津浦町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区出町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区戸坂町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区中島町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区中原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区中松尾町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区西松尾町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区二本木 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区野中 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区花園 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区稗田町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区松尾 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区松尾町近津 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区松尾町平山 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区八島 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区八島町 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区横手 ;
+    mo:SubRegion mr:JP_熊本県熊本市西区蓮台寺 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県熊本市西区池亀町
+    rdfs:label "池亀町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区池田
+    rdfs:label "池田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区池上町
+    rdfs:label "池上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区沖新町
+    rdfs:label "沖新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区小島上町
+    rdfs:label "小島上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区小島下町
+    rdfs:label "小島下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区春日
+    rdfs:label "春日"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区上熊本
+    rdfs:label "上熊本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区上代
+    rdfs:label "上代"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区上高橋
+    rdfs:label "上高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区上松尾町
+    rdfs:label "上松尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区河内町大多尾
+    rdfs:label "河内町大多尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区河内町面木
+    rdfs:label "河内町面木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区河内町河内
+    rdfs:label "河内町河内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区河内町白浜
+    rdfs:label "河内町白浜"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区河内町岳
+    rdfs:label "河内町岳"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区河内町東門寺
+    rdfs:label "河内町東門寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区河内町野出
+    rdfs:label "河内町野出"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区河内町船津
+    rdfs:label "河内町船津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区京町本丁
+    rdfs:label "京町本丁"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区島崎
+    rdfs:label "島崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区城山大塘
+    rdfs:label "城山大塘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区城山上代町
+    rdfs:label "城山上代町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区城山下代
+    rdfs:label "城山下代"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区城山半田
+    rdfs:label "城山半田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区城山薬師
+    rdfs:label "城山薬師"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区新土河原
+    rdfs:label "新土河原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区新港
+    rdfs:label "新港"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区高橋町
+    rdfs:label "高橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区田崎
+    rdfs:label "田崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区田崎本町
+    rdfs:label "田崎本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区田崎町
+    rdfs:label "田崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区谷尾崎町
+    rdfs:label "谷尾崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区津浦町
+    rdfs:label "津浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区出町
+    rdfs:label "出町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区戸坂町
+    rdfs:label "戸坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区中島町
+    rdfs:label "中島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区中原町
+    rdfs:label "中原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区中松尾町
+    rdfs:label "中松尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区西松尾町
+    rdfs:label "西松尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区二本木
+    rdfs:label "二本木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区野中
+    rdfs:label "野中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区花園
+    rdfs:label "花園"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区稗田町
+    rdfs:label "稗田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区松尾
+    rdfs:label "松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区松尾町近津
+    rdfs:label "松尾町近津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区松尾町平山
+    rdfs:label "松尾町平山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区八島
+    rdfs:label "八島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区八島町
+    rdfs:label "八島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区横手
+    rdfs:label "横手"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市西区蓮台寺
+    rdfs:label "蓮台寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区
+    rdfs:label "熊本市南区"@ja ;
+    mo:AreaCode "43104" ;
+    a mo:行政区_政令指定都市 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区会富町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区荒尾 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区荒尾町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区出仲間 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区今町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区海路口町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区薄場 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区薄場町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区内田町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区江越 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区奥古閑町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区上ノ郷 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区刈草 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区川口町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区川尻 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区合志 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区幸田 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区護藤町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区島町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区十禅寺 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町赤見 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町阿高 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町碇 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町出水 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町今吉野 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町隈庄 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町坂野 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町さんさん ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町沈目 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町島田 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町下宮地 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町陳内 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町高 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町千町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町築地 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町塚原 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町永 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町丹生宮 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町東阿高 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町藤山 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町舞原 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町宮地 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町六田 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区城南町鰐瀬 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区白藤 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区白石町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区砂原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区銭塘町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区田井島 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区田迎 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区田迎町田井島 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区田迎町良町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区近見 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区土河原町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区鳶町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町榎津 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町大町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町御船手 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町硴江 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町上杉 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町清藤 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町木原 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町小岩瀬 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町莎崎 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町古閑 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町国町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町菰江 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町志々水 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町釈迦堂 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町新 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町杉島 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町田尻 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町西田尻 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町平原 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町廻江 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区富合町南田尻 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区中無田町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区並建町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区野口 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区野口町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区野田 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区畠口町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区八王寺町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区八分字町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区浜口町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区日吉 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区平田 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区平成 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区孫代町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区馬渡 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区美登里町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区南高江 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区御幸木部町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区御幸西無田町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区御幸笛田町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区御幸木部 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区御幸西 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区御幸笛田 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区無田口町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区元三町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区八幡 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区良町 ;
+    mo:SubRegion mr:JP_熊本県熊本市南区流通団地 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県熊本市南区会富町
+    rdfs:label "会富町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区荒尾
+    rdfs:label "荒尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区荒尾町
+    rdfs:label "荒尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区出仲間
+    rdfs:label "出仲間"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区今町
+    rdfs:label "今町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区海路口町
+    rdfs:label "海路口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区薄場
+    rdfs:label "薄場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区薄場町
+    rdfs:label "薄場町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区内田町
+    rdfs:label "内田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区江越
+    rdfs:label "江越"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区奥古閑町
+    rdfs:label "奥古閑町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区上ノ郷
+    rdfs:label "上ノ郷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区刈草
+    rdfs:label "刈草"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区川口町
+    rdfs:label "川口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区川尻
+    rdfs:label "川尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区合志
+    rdfs:label "合志"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区幸田
+    rdfs:label "幸田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区護藤町
+    rdfs:label "護藤町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区島町
+    rdfs:label "島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区十禅寺
+    rdfs:label "十禅寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町赤見
+    rdfs:label "城南町赤見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町阿高
+    rdfs:label "城南町阿高"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町碇
+    rdfs:label "城南町碇"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町出水
+    rdfs:label "城南町出水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町今吉野
+    rdfs:label "城南町今吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町隈庄
+    rdfs:label "城南町隈庄"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町坂野
+    rdfs:label "城南町坂野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町さんさん
+    rdfs:label "城南町さんさん"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町沈目
+    rdfs:label "城南町沈目"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町島田
+    rdfs:label "城南町島田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町下宮地
+    rdfs:label "城南町下宮地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町陳内
+    rdfs:label "城南町陳内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町高
+    rdfs:label "城南町高"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町千町
+    rdfs:label "城南町千町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町築地
+    rdfs:label "城南町築地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町塚原
+    rdfs:label "城南町塚原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町永
+    rdfs:label "城南町永"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町丹生宮
+    rdfs:label "城南町丹生宮"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町東阿高
+    rdfs:label "城南町東阿高"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町藤山
+    rdfs:label "城南町藤山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町舞原
+    rdfs:label "城南町舞原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町宮地
+    rdfs:label "城南町宮地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町六田
+    rdfs:label "城南町六田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区城南町鰐瀬
+    rdfs:label "城南町鰐瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区白藤
+    rdfs:label "白藤"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区白石町
+    rdfs:label "白石町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区砂原町
+    rdfs:label "砂原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区銭塘町
+    rdfs:label "銭塘町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区田井島
+    rdfs:label "田井島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区田迎
+    rdfs:label "田迎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区田迎町田井島
+    rdfs:label "田迎町田井島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区田迎町良町
+    rdfs:label "田迎町良町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区近見
+    rdfs:label "近見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区土河原町
+    rdfs:label "土河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区鳶町
+    rdfs:label "鳶町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町榎津
+    rdfs:label "富合町榎津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町大町
+    rdfs:label "富合町大町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町御船手
+    rdfs:label "富合町御船手"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町硴江
+    rdfs:label "富合町硴江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町上杉
+    rdfs:label "富合町上杉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町清藤
+    rdfs:label "富合町清藤"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町木原
+    rdfs:label "富合町木原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町小岩瀬
+    rdfs:label "富合町小岩瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町莎崎
+    rdfs:label "富合町莎崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町古閑
+    rdfs:label "富合町古閑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町国町
+    rdfs:label "富合町国町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町菰江
+    rdfs:label "富合町菰江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町志々水
+    rdfs:label "富合町志々水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町釈迦堂
+    rdfs:label "富合町釈迦堂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町新
+    rdfs:label "富合町新"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町杉島
+    rdfs:label "富合町杉島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町田尻
+    rdfs:label "富合町田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町西田尻
+    rdfs:label "富合町西田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町平原
+    rdfs:label "富合町平原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町廻江
+    rdfs:label "富合町廻江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区富合町南田尻
+    rdfs:label "富合町南田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区中無田町
+    rdfs:label "中無田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区並建町
+    rdfs:label "並建町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区野口
+    rdfs:label "野口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区野口町
+    rdfs:label "野口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区畠口町
+    rdfs:label "畠口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区八王寺町
+    rdfs:label "八王寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区八分字町
+    rdfs:label "八分字町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区浜口町
+    rdfs:label "浜口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区日吉
+    rdfs:label "日吉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区平田
+    rdfs:label "平田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区平成
+    rdfs:label "平成"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区孫代町
+    rdfs:label "孫代町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区馬渡
+    rdfs:label "馬渡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区美登里町
+    rdfs:label "美登里町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区南高江
+    rdfs:label "南高江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区御幸木部町
+    rdfs:label "御幸木部町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区御幸西無田町
+    rdfs:label "御幸西無田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区御幸笛田町
+    rdfs:label "御幸笛田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区御幸木部
+    rdfs:label "御幸木部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区御幸西
+    rdfs:label "御幸西"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区御幸笛田
+    rdfs:label "御幸笛田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区無田口町
+    rdfs:label "無田口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区元三町
+    rdfs:label "元三町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区良町
+    rdfs:label "良町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市南区流通団地
+    rdfs:label "流通団地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区
+    rdfs:label "熊本市北区"@ja ;
+    mo:AreaCode "43105" ;
+    a mo:行政区_政令指定都市 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区麻生田 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区改寄町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区池田 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区和泉町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町鐙田 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町有泉 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町石川 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町伊知坊 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町今藤 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町岩野 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町植木 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町上古閑 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町後古閑 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町内 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町円台寺 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町大井 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町荻迫 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町小野 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町亀甲 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町木留 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町清水 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町鞍掛 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町古閑 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町色出 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町正清 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町鈴麦 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町大和 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町田底 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町滴水 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町轟 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町富応 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町豊岡 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町豊田 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町投刀塚 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町那知 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町一木 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町平井 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町平野 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町平原 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町広住 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町舟島 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町辺田野 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町味取 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町宮原 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町舞尾 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町山本 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区植木町米塚 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区兎谷 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区打越町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区大窪 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区大鳥居町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区梶尾町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区鹿子木町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区釜尾町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区北迫町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区楠 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区楠野町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区黒髪 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区黒髪町坪井 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区小糸山町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水岩倉 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水亀井町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水新地 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水東町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水本町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水万石 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水町打越 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水町松崎 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区清水町室園 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区下硯川 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区下硯川町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区硯川町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区高平 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区龍田 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区龍田陳内 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区龍田弓削 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区太郎迫町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区津浦町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区鶴羽田 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区鶴羽田町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区徳王 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区徳王町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区西梶尾町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区楡木 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区八景水谷 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区飛田 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区万楽寺町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区貢町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区武蔵ケ丘 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区室園町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区明徳町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区山室 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区弓削 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区四方寄町 ;
+    mo:SubRegion mr:JP_熊本県熊本市北区立福寺町 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県熊本市北区麻生田
+    rdfs:label "麻生田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区改寄町
+    rdfs:label "改寄町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区池田
+    rdfs:label "池田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区和泉町
+    rdfs:label "和泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町鐙田
+    rdfs:label "植木町鐙田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町有泉
+    rdfs:label "植木町有泉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町石川
+    rdfs:label "植木町石川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町伊知坊
+    rdfs:label "植木町伊知坊"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町今藤
+    rdfs:label "植木町今藤"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町岩野
+    rdfs:label "植木町岩野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町植木
+    rdfs:label "植木町植木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町上古閑
+    rdfs:label "植木町上古閑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町後古閑
+    rdfs:label "植木町後古閑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町内
+    rdfs:label "植木町内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町円台寺
+    rdfs:label "植木町円台寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町大井
+    rdfs:label "植木町大井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町荻迫
+    rdfs:label "植木町荻迫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町小野
+    rdfs:label "植木町小野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町亀甲
+    rdfs:label "植木町亀甲"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町木留
+    rdfs:label "植木町木留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町清水
+    rdfs:label "植木町清水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町鞍掛
+    rdfs:label "植木町鞍掛"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町古閑
+    rdfs:label "植木町古閑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町色出
+    rdfs:label "植木町色出"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町正清
+    rdfs:label "植木町正清"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町鈴麦
+    rdfs:label "植木町鈴麦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町大和
+    rdfs:label "植木町大和"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町田底
+    rdfs:label "植木町田底"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町滴水
+    rdfs:label "植木町滴水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町轟
+    rdfs:label "植木町轟"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町富応
+    rdfs:label "植木町富応"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町豊岡
+    rdfs:label "植木町豊岡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町豊田
+    rdfs:label "植木町豊田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町投刀塚
+    rdfs:label "植木町投刀塚"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町那知
+    rdfs:label "植木町那知"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町一木
+    rdfs:label "植木町一木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町平井
+    rdfs:label "植木町平井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町平野
+    rdfs:label "植木町平野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町平原
+    rdfs:label "植木町平原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町広住
+    rdfs:label "植木町広住"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町舟島
+    rdfs:label "植木町舟島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町辺田野
+    rdfs:label "植木町辺田野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町味取
+    rdfs:label "植木町味取"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町宮原
+    rdfs:label "植木町宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町舞尾
+    rdfs:label "植木町舞尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町山本
+    rdfs:label "植木町山本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区植木町米塚
+    rdfs:label "植木町米塚"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区兎谷
+    rdfs:label "兎谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区打越町
+    rdfs:label "打越町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区大窪
+    rdfs:label "大窪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区大鳥居町
+    rdfs:label "大鳥居町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区梶尾町
+    rdfs:label "梶尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区鹿子木町
+    rdfs:label "鹿子木町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区釜尾町
+    rdfs:label "釜尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区北迫町
+    rdfs:label "北迫町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区楠
+    rdfs:label "楠"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区楠野町
+    rdfs:label "楠野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区黒髪
+    rdfs:label "黒髪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区黒髪町坪井
+    rdfs:label "黒髪町坪井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区小糸山町
+    rdfs:label "小糸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水岩倉
+    rdfs:label "清水岩倉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水亀井町
+    rdfs:label "清水亀井町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水新地
+    rdfs:label "清水新地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水東町
+    rdfs:label "清水東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水本町
+    rdfs:label "清水本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水万石
+    rdfs:label "清水万石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水町打越
+    rdfs:label "清水町打越"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水町松崎
+    rdfs:label "清水町松崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区清水町室園
+    rdfs:label "清水町室園"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区下硯川
+    rdfs:label "下硯川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区下硯川町
+    rdfs:label "下硯川町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区硯川町
+    rdfs:label "硯川町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区高平
+    rdfs:label "高平"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区龍田
+    rdfs:label "龍田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区龍田陳内
+    rdfs:label "龍田陳内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区龍田弓削
+    rdfs:label "龍田弓削"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区太郎迫町
+    rdfs:label "太郎迫町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区津浦町
+    rdfs:label "津浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区鶴羽田
+    rdfs:label "鶴羽田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区鶴羽田町
+    rdfs:label "鶴羽田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区徳王
+    rdfs:label "徳王"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区徳王町
+    rdfs:label "徳王町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区西梶尾町
+    rdfs:label "西梶尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区楡木
+    rdfs:label "楡木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区八景水谷
+    rdfs:label "八景水谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区飛田
+    rdfs:label "飛田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区万楽寺町
+    rdfs:label "万楽寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区貢町
+    rdfs:label "貢町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区武蔵ケ丘
+    rdfs:label "武蔵ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区室園町
+    rdfs:label "室園町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区明徳町
+    rdfs:label "明徳町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区山室
+    rdfs:label "山室"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区弓削
+    rdfs:label "弓削"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区四方寄町
+    rdfs:label "四方寄町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県熊本市北区立福寺町
+    rdfs:label "立福寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市
+    rdfs:label "八代市"@ja ;
+    mo:AreaCode "43202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県八代市揚町 ;
+    mo:SubRegion mr:JP_熊本県八代市旭中央通 ;
+    mo:SubRegion mr:JP_熊本県八代市海士江町 ;
+    mo:SubRegion mr:JP_熊本県八代市井揚町 ;
+    mo:SubRegion mr:JP_熊本県八代市泉町柿迫 ;
+    mo:SubRegion mr:JP_熊本県八代市泉町栗木 ;
+    mo:SubRegion mr:JP_熊本県八代市泉町久連子 ;
+    mo:SubRegion mr:JP_熊本県八代市泉町椎原 ;
+    mo:SubRegion mr:JP_熊本県八代市泉町下岳 ;
+    mo:SubRegion mr:JP_熊本県八代市泉町仁田尾 ;
+    mo:SubRegion mr:JP_熊本県八代市泉町葉木 ;
+    mo:SubRegion mr:JP_熊本県八代市泉町樅木 ;
+    mo:SubRegion mr:JP_熊本県八代市井上町 ;
+    mo:SubRegion mr:JP_熊本県八代市植柳上町 ;
+    mo:SubRegion mr:JP_熊本県八代市植柳下町 ;
+    mo:SubRegion mr:JP_熊本県八代市植柳新町 ;
+    mo:SubRegion mr:JP_熊本県八代市植柳元町 ;
+    mo:SubRegion mr:JP_熊本県八代市大島町 ;
+    mo:SubRegion mr:JP_熊本県八代市大手町 ;
+    mo:SubRegion mr:JP_熊本県八代市大村町 ;
+    mo:SubRegion mr:JP_熊本県八代市岡町小路 ;
+    mo:SubRegion mr:JP_熊本県八代市岡町谷川 ;
+    mo:SubRegion mr:JP_熊本県八代市岡町中 ;
+    mo:SubRegion mr:JP_熊本県八代市沖町 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町有佐 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町内田 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町貝洲 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町鏡 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町鏡村 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町上鏡 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町北新地 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町塩浜 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町芝口 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町下有佐 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町下村 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町中島 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町野崎 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町宝出 ;
+    mo:SubRegion mr:JP_熊本県八代市鏡町両出 ;
+    mo:SubRegion mr:JP_熊本県八代市上片町 ;
+    mo:SubRegion mr:JP_熊本県八代市上日置町 ;
+    mo:SubRegion mr:JP_熊本県八代市川田町東 ;
+    mo:SubRegion mr:JP_熊本県八代市川田町西 ;
+    mo:SubRegion mr:JP_熊本県八代市北の丸町 ;
+    mo:SubRegion mr:JP_熊本県八代市北原町 ;
+    mo:SubRegion mr:JP_熊本県八代市北平和町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築一番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築二番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築三番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築四番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築五番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築六番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築七番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築八番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築九番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築十番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築十一番町 ;
+    mo:SubRegion mr:JP_熊本県八代市郡築十二番町 ;
+    mo:SubRegion mr:JP_熊本県八代市高下東町 ;
+    mo:SubRegion mr:JP_熊本県八代市高下西町 ;
+    mo:SubRegion mr:JP_熊本県八代市興国町 ;
+    mo:SubRegion mr:JP_熊本県八代市高小原町 ;
+    mo:SubRegion mr:JP_熊本県八代市上野町 ;
+    mo:SubRegion mr:JP_熊本県八代市興善寺町 ;
+    mo:SubRegion mr:JP_熊本県八代市古閑上町 ;
+    mo:SubRegion mr:JP_熊本県八代市古閑中町 ;
+    mo:SubRegion mr:JP_熊本県八代市古閑下町 ;
+    mo:SubRegion mr:JP_熊本県八代市古閑浜町 ;
+    mo:SubRegion mr:JP_熊本県八代市黄金町 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町鮎帰 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町荒瀬 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町市ノ俣 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町鎌瀬 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町川嶽 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町百済来上 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町百済来下 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町西部 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町坂本 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町田上 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町鶴喰 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町中谷 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町中津道 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町葉木 ;
+    mo:SubRegion mr:JP_熊本県八代市坂本町深水 ;
+    mo:SubRegion mr:JP_熊本県八代市三楽町 ;
+    mo:SubRegion mr:JP_熊本県八代市塩屋町 ;
+    mo:SubRegion mr:JP_熊本県八代市敷川内町 ;
+    mo:SubRegion mr:JP_熊本県八代市島田町 ;
+    mo:SubRegion mr:JP_熊本県八代市清水町 ;
+    mo:SubRegion mr:JP_熊本県八代市蛇籠町 ;
+    mo:SubRegion mr:JP_熊本県八代市十条町 ;
+    mo:SubRegion mr:JP_熊本県八代市昭和同仁町 ;
+    mo:SubRegion mr:JP_熊本県八代市昭和日進町 ;
+    mo:SubRegion mr:JP_熊本県八代市昭和明徴町 ;
+    mo:SubRegion mr:JP_熊本県八代市新開町 ;
+    mo:SubRegion mr:JP_熊本県八代市新地町 ;
+    mo:SubRegion mr:JP_熊本県八代市新浜町 ;
+    mo:SubRegion mr:JP_熊本県八代市新町 ;
+    mo:SubRegion mr:JP_熊本県八代市新港町 ;
+    mo:SubRegion mr:JP_熊本県八代市末広町 ;
+    mo:SubRegion mr:JP_熊本県八代市千反町 ;
+    mo:SubRegion mr:JP_熊本県八代市栴檀町 ;
+    mo:SubRegion mr:JP_熊本県八代市千丁町太牟田 ;
+    mo:SubRegion mr:JP_熊本県八代市千丁町古閑出 ;
+    mo:SubRegion mr:JP_熊本県八代市千丁町新牟田 ;
+    mo:SubRegion mr:JP_熊本県八代市千丁町吉王丸 ;
+    mo:SubRegion mr:JP_熊本県八代市鼠蔵町 ;
+    mo:SubRegion mr:JP_熊本県八代市大福寺町 ;
+    mo:SubRegion mr:JP_熊本県八代市高植本町 ;
+    mo:SubRegion mr:JP_熊本県八代市高島町 ;
+    mo:SubRegion mr:JP_熊本県八代市鷹辻町 ;
+    mo:SubRegion mr:JP_熊本県八代市竹原町 ;
+    mo:SubRegion mr:JP_熊本県八代市建馬町 ;
+    mo:SubRegion mr:JP_熊本県八代市田中東町 ;
+    mo:SubRegion mr:JP_熊本県八代市田中西町 ;
+    mo:SubRegion mr:JP_熊本県八代市田中北町 ;
+    mo:SubRegion mr:JP_熊本県八代市田中町 ;
+    mo:SubRegion mr:JP_熊本県八代市築添町 ;
+    mo:SubRegion mr:JP_熊本県八代市出町 ;
+    mo:SubRegion mr:JP_熊本県八代市東陽町河俣 ;
+    mo:SubRegion mr:JP_熊本県八代市東陽町北 ;
+    mo:SubRegion mr:JP_熊本県八代市東陽町小浦 ;
+    mo:SubRegion mr:JP_熊本県八代市東陽町南 ;
+    mo:SubRegion mr:JP_熊本県八代市通町 ;
+    mo:SubRegion mr:JP_熊本県八代市中片町 ;
+    mo:SubRegion mr:JP_熊本県八代市中北町 ;
+    mo:SubRegion mr:JP_熊本県八代市永碇町 ;
+    mo:SubRegion mr:JP_熊本県八代市長田町 ;
+    mo:SubRegion mr:JP_熊本県八代市奈良木町 ;
+    mo:SubRegion mr:JP_熊本県八代市西片町 ;
+    mo:SubRegion mr:JP_熊本県八代市錦町 ;
+    mo:SubRegion mr:JP_熊本県八代市西松江城町 ;
+    mo:SubRegion mr:JP_熊本県八代市西宮町 ;
+    mo:SubRegion mr:JP_熊本県八代市萩原町 ;
+    mo:SubRegion mr:JP_熊本県八代市八幡町 ;
+    mo:SubRegion mr:JP_熊本県八代市花園町 ;
+    mo:SubRegion mr:JP_熊本県八代市日置町 ;
+    mo:SubRegion mr:JP_熊本県八代市東片町 ;
+    mo:SubRegion mr:JP_熊本県八代市東町 ;
+    mo:SubRegion mr:JP_熊本県八代市毘舎丸町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久大坪町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久上西町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久中西町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久下西町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久栄町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久塩南町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久塩北町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久新開町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久新田町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久竹之内町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久中町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久浜町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久東町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久平成町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久馬越町 ;
+    mo:SubRegion mr:JP_熊本県八代市日奈久山下町 ;
+    mo:SubRegion mr:JP_熊本県八代市平山新町 ;
+    mo:SubRegion mr:JP_熊本県八代市豊原上町 ;
+    mo:SubRegion mr:JP_熊本県八代市豊原中町 ;
+    mo:SubRegion mr:JP_熊本県八代市豊原下町 ;
+    mo:SubRegion mr:JP_熊本県八代市福正町 ;
+    mo:SubRegion mr:JP_熊本県八代市福正元町 ;
+    mo:SubRegion mr:JP_熊本県八代市袋町 ;
+    mo:SubRegion mr:JP_熊本県八代市二見赤松町 ;
+    mo:SubRegion mr:JP_熊本県八代市二見下大野町 ;
+    mo:SubRegion mr:JP_熊本県八代市二見洲口町 ;
+    mo:SubRegion mr:JP_熊本県八代市二見野田崎町 ;
+    mo:SubRegion mr:JP_熊本県八代市二見本町 ;
+    mo:SubRegion mr:JP_熊本県八代市古城町 ;
+    mo:SubRegion mr:JP_熊本県八代市古麓町 ;
+    mo:SubRegion mr:JP_熊本県八代市本野町 ;
+    mo:SubRegion mr:JP_熊本県八代市本町 ;
+    mo:SubRegion mr:JP_熊本県八代市松江城町 ;
+    mo:SubRegion mr:JP_熊本県八代市松江本町 ;
+    mo:SubRegion mr:JP_熊本県八代市松江町 ;
+    mo:SubRegion mr:JP_熊本県八代市松崎町 ;
+    mo:SubRegion mr:JP_熊本県八代市水島町 ;
+    mo:SubRegion mr:JP_熊本県八代市三江湖町 ;
+    mo:SubRegion mr:JP_熊本県八代市緑町 ;
+    mo:SubRegion mr:JP_熊本県八代市港町 ;
+    mo:SubRegion mr:JP_熊本県八代市南平和町 ;
+    mo:SubRegion mr:JP_熊本県八代市宮地町 ;
+    mo:SubRegion mr:JP_熊本県八代市妙見町 ;
+    mo:SubRegion mr:JP_熊本県八代市迎町 ;
+    mo:SubRegion mr:JP_熊本県八代市麦島東町 ;
+    mo:SubRegion mr:JP_熊本県八代市麦島西町 ;
+    mo:SubRegion mr:JP_熊本県八代市催合町 ;
+    mo:SubRegion mr:JP_熊本県八代市弥生町 ;
+    mo:SubRegion mr:JP_熊本県八代市夕葉町 ;
+    mo:SubRegion mr:JP_熊本県八代市横手新町 ;
+    mo:SubRegion mr:JP_熊本県八代市横手本町 ;
+    mo:SubRegion mr:JP_熊本県八代市横手町 ;
+    mo:SubRegion mr:JP_熊本県八代市葭牟田町 ;
+    mo:SubRegion mr:JP_熊本県八代市若草町 ;
+    mo:SubRegion mr:JP_熊本県八代市渡町 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県八代市揚町
+    rdfs:label "揚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市旭中央通
+    rdfs:label "旭中央通"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市海士江町
+    rdfs:label "海士江町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市井揚町
+    rdfs:label "井揚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市泉町柿迫
+    rdfs:label "泉町柿迫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市泉町栗木
+    rdfs:label "泉町栗木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市泉町久連子
+    rdfs:label "泉町久連子"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市泉町椎原
+    rdfs:label "泉町椎原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市泉町下岳
+    rdfs:label "泉町下岳"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市泉町仁田尾
+    rdfs:label "泉町仁田尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市泉町葉木
+    rdfs:label "泉町葉木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市泉町樅木
+    rdfs:label "泉町樅木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市井上町
+    rdfs:label "井上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市植柳上町
+    rdfs:label "植柳上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市植柳下町
+    rdfs:label "植柳下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市植柳新町
+    rdfs:label "植柳新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市植柳元町
+    rdfs:label "植柳元町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市大島町
+    rdfs:label "大島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市大手町
+    rdfs:label "大手町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市大村町
+    rdfs:label "大村町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市岡町小路
+    rdfs:label "岡町小路"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市岡町谷川
+    rdfs:label "岡町谷川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市岡町中
+    rdfs:label "岡町中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市沖町
+    rdfs:label "沖町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町有佐
+    rdfs:label "鏡町有佐"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町内田
+    rdfs:label "鏡町内田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町貝洲
+    rdfs:label "鏡町貝洲"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町鏡
+    rdfs:label "鏡町鏡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町鏡村
+    rdfs:label "鏡町鏡村"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町上鏡
+    rdfs:label "鏡町上鏡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町北新地
+    rdfs:label "鏡町北新地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町塩浜
+    rdfs:label "鏡町塩浜"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町芝口
+    rdfs:label "鏡町芝口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町下有佐
+    rdfs:label "鏡町下有佐"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町下村
+    rdfs:label "鏡町下村"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町中島
+    rdfs:label "鏡町中島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町野崎
+    rdfs:label "鏡町野崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町宝出
+    rdfs:label "鏡町宝出"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鏡町両出
+    rdfs:label "鏡町両出"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市上片町
+    rdfs:label "上片町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市上日置町
+    rdfs:label "上日置町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市川田町東
+    rdfs:label "川田町東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市川田町西
+    rdfs:label "川田町西"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市北の丸町
+    rdfs:label "北の丸町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市北原町
+    rdfs:label "北原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市北平和町
+    rdfs:label "北平和町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築一番町
+    rdfs:label "郡築一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築二番町
+    rdfs:label "郡築二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築三番町
+    rdfs:label "郡築三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築四番町
+    rdfs:label "郡築四番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築五番町
+    rdfs:label "郡築五番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築六番町
+    rdfs:label "郡築六番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築七番町
+    rdfs:label "郡築七番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築八番町
+    rdfs:label "郡築八番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築九番町
+    rdfs:label "郡築九番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築十番町
+    rdfs:label "郡築十番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築十一番町
+    rdfs:label "郡築十一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市郡築十二番町
+    rdfs:label "郡築十二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市高下東町
+    rdfs:label "高下東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市高下西町
+    rdfs:label "高下西町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市興国町
+    rdfs:label "興国町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市高小原町
+    rdfs:label "高小原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市上野町
+    rdfs:label "上野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市興善寺町
+    rdfs:label "興善寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市古閑上町
+    rdfs:label "古閑上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市古閑中町
+    rdfs:label "古閑中町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市古閑下町
+    rdfs:label "古閑下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市古閑浜町
+    rdfs:label "古閑浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市黄金町
+    rdfs:label "黄金町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町鮎帰
+    rdfs:label "坂本町鮎帰"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町荒瀬
+    rdfs:label "坂本町荒瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町市ノ俣
+    rdfs:label "坂本町市ノ俣"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町鎌瀬
+    rdfs:label "坂本町鎌瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町川嶽
+    rdfs:label "坂本町川嶽"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町百済来上
+    rdfs:label "坂本町百済来上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町百済来下
+    rdfs:label "坂本町百済来下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町西部
+    rdfs:label "坂本町西部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町坂本
+    rdfs:label "坂本町坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町田上
+    rdfs:label "坂本町田上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町鶴喰
+    rdfs:label "坂本町鶴喰"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町中谷
+    rdfs:label "坂本町中谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町中津道
+    rdfs:label "坂本町中津道"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町葉木
+    rdfs:label "坂本町葉木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市坂本町深水
+    rdfs:label "坂本町深水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市三楽町
+    rdfs:label "三楽町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市塩屋町
+    rdfs:label "塩屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市敷川内町
+    rdfs:label "敷川内町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市島田町
+    rdfs:label "島田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市蛇籠町
+    rdfs:label "蛇籠町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市十条町
+    rdfs:label "十条町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市昭和同仁町
+    rdfs:label "昭和同仁町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市昭和日進町
+    rdfs:label "昭和日進町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市昭和明徴町
+    rdfs:label "昭和明徴町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市新開町
+    rdfs:label "新開町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市新地町
+    rdfs:label "新地町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市新浜町
+    rdfs:label "新浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市新港町
+    rdfs:label "新港町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市千反町
+    rdfs:label "千反町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市栴檀町
+    rdfs:label "栴檀町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市千丁町太牟田
+    rdfs:label "千丁町太牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市千丁町古閑出
+    rdfs:label "千丁町古閑出"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市千丁町新牟田
+    rdfs:label "千丁町新牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市千丁町吉王丸
+    rdfs:label "千丁町吉王丸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鼠蔵町
+    rdfs:label "鼠蔵町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市大福寺町
+    rdfs:label "大福寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市高植本町
+    rdfs:label "高植本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市高島町
+    rdfs:label "高島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市鷹辻町
+    rdfs:label "鷹辻町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市竹原町
+    rdfs:label "竹原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市建馬町
+    rdfs:label "建馬町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市田中東町
+    rdfs:label "田中東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市田中西町
+    rdfs:label "田中西町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市田中北町
+    rdfs:label "田中北町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市田中町
+    rdfs:label "田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市築添町
+    rdfs:label "築添町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市出町
+    rdfs:label "出町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市東陽町河俣
+    rdfs:label "東陽町河俣"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市東陽町北
+    rdfs:label "東陽町北"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市東陽町小浦
+    rdfs:label "東陽町小浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市東陽町南
+    rdfs:label "東陽町南"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市通町
+    rdfs:label "通町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市中片町
+    rdfs:label "中片町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市中北町
+    rdfs:label "中北町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市永碇町
+    rdfs:label "永碇町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市長田町
+    rdfs:label "長田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市奈良木町
+    rdfs:label "奈良木町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市西片町
+    rdfs:label "西片町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市西松江城町
+    rdfs:label "西松江城町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市西宮町
+    rdfs:label "西宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市萩原町
+    rdfs:label "萩原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日置町
+    rdfs:label "日置町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市東片町
+    rdfs:label "東片町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市毘舎丸町
+    rdfs:label "毘舎丸町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久大坪町
+    rdfs:label "日奈久大坪町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久上西町
+    rdfs:label "日奈久上西町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久中西町
+    rdfs:label "日奈久中西町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久下西町
+    rdfs:label "日奈久下西町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久栄町
+    rdfs:label "日奈久栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久塩南町
+    rdfs:label "日奈久塩南町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久塩北町
+    rdfs:label "日奈久塩北町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久新開町
+    rdfs:label "日奈久新開町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久新田町
+    rdfs:label "日奈久新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久竹之内町
+    rdfs:label "日奈久竹之内町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久中町
+    rdfs:label "日奈久中町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久浜町
+    rdfs:label "日奈久浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久東町
+    rdfs:label "日奈久東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久平成町
+    rdfs:label "日奈久平成町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久馬越町
+    rdfs:label "日奈久馬越町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市日奈久山下町
+    rdfs:label "日奈久山下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市平山新町
+    rdfs:label "平山新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市豊原上町
+    rdfs:label "豊原上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市豊原中町
+    rdfs:label "豊原中町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市豊原下町
+    rdfs:label "豊原下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市福正町
+    rdfs:label "福正町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市福正元町
+    rdfs:label "福正元町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市袋町
+    rdfs:label "袋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市二見赤松町
+    rdfs:label "二見赤松町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市二見下大野町
+    rdfs:label "二見下大野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市二見洲口町
+    rdfs:label "二見洲口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市二見野田崎町
+    rdfs:label "二見野田崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市二見本町
+    rdfs:label "二見本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市古城町
+    rdfs:label "古城町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市古麓町
+    rdfs:label "古麓町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市本野町
+    rdfs:label "本野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市松江城町
+    rdfs:label "松江城町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市松江本町
+    rdfs:label "松江本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市松江町
+    rdfs:label "松江町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市松崎町
+    rdfs:label "松崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市水島町
+    rdfs:label "水島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市三江湖町
+    rdfs:label "三江湖町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市南平和町
+    rdfs:label "南平和町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市宮地町
+    rdfs:label "宮地町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市妙見町
+    rdfs:label "妙見町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市迎町
+    rdfs:label "迎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市麦島東町
+    rdfs:label "麦島東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市麦島西町
+    rdfs:label "麦島西町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市催合町
+    rdfs:label "催合町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市夕葉町
+    rdfs:label "夕葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市横手新町
+    rdfs:label "横手新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市横手本町
+    rdfs:label "横手本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市横手町
+    rdfs:label "横手町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市葭牟田町
+    rdfs:label "葭牟田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代市渡町
+    rdfs:label "渡町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市
+    rdfs:label "人吉市"@ja ;
+    mo:AreaCode "43203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県人吉市赤池原町 ;
+    mo:SubRegion mr:JP_熊本県人吉市赤池水無町 ;
+    mo:SubRegion mr:JP_熊本県人吉市五日町 ;
+    mo:SubRegion mr:JP_熊本県人吉市井ノ口町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上原町 ;
+    mo:SubRegion mr:JP_熊本県人吉市老神町 ;
+    mo:SubRegion mr:JP_熊本県人吉市大野町 ;
+    mo:SubRegion mr:JP_熊本県人吉市大畑麓町 ;
+    mo:SubRegion mr:JP_熊本県人吉市大畑町 ;
+    mo:SubRegion mr:JP_熊本県人吉市鬼木町 ;
+    mo:SubRegion mr:JP_熊本県人吉市温泉町 ;
+    mo:SubRegion mr:JP_熊本県人吉市鍛冶屋町 ;
+    mo:SubRegion mr:JP_熊本県人吉市鹿目町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上青井町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上漆田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上薩摩瀬町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上新町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上田代町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上戸越町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上永野町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上林町 ;
+    mo:SubRegion mr:JP_熊本県人吉市上原田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市瓦屋町 ;
+    mo:SubRegion mr:JP_熊本県人吉市願成寺町 ;
+    mo:SubRegion mr:JP_熊本県人吉市蟹作町 ;
+    mo:SubRegion mr:JP_熊本県人吉市木地屋町 ;
+    mo:SubRegion mr:JP_熊本県人吉市北泉田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市北願成寺町 ;
+    mo:SubRegion mr:JP_熊本県人吉市合ノ原町 ;
+    mo:SubRegion mr:JP_熊本県人吉市紺屋町 ;
+    mo:SubRegion mr:JP_熊本県人吉市九日町 ;
+    mo:SubRegion mr:JP_熊本県人吉市古仏頂町 ;
+    mo:SubRegion mr:JP_熊本県人吉市駒井田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市相良町 ;
+    mo:SubRegion mr:JP_熊本県人吉市七地町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下青井町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下漆田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下薩摩瀬町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下城本町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下新町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下田代町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下戸越町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下永野町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下原田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市下林町 ;
+    mo:SubRegion mr:JP_熊本県人吉市城本町 ;
+    mo:SubRegion mr:JP_熊本県人吉市新町 ;
+    mo:SubRegion mr:JP_熊本県人吉市大工町 ;
+    mo:SubRegion mr:JP_熊本県人吉市田野町 ;
+    mo:SubRegion mr:JP_熊本県人吉市田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市鶴田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市寺町 ;
+    mo:SubRegion mr:JP_熊本県人吉市土手町 ;
+    mo:SubRegion mr:JP_熊本県人吉市富ケ尾町 ;
+    mo:SubRegion mr:JP_熊本県人吉市中青井町 ;
+    mo:SubRegion mr:JP_熊本県人吉市中神町 ;
+    mo:SubRegion mr:JP_熊本県人吉市中林町 ;
+    mo:SubRegion mr:JP_熊本県人吉市七日町 ;
+    mo:SubRegion mr:JP_熊本県人吉市浪床町 ;
+    mo:SubRegion mr:JP_熊本県人吉市西間上町 ;
+    mo:SubRegion mr:JP_熊本県人吉市西間下町 ;
+    mo:SubRegion mr:JP_熊本県人吉市西大塚町 ;
+    mo:SubRegion mr:JP_熊本県人吉市二日町 ;
+    mo:SubRegion mr:JP_熊本県人吉市灰久保町 ;
+    mo:SubRegion mr:JP_熊本県人吉市原城町 ;
+    mo:SubRegion mr:JP_熊本県人吉市東間上町 ;
+    mo:SubRegion mr:JP_熊本県人吉市東間下町 ;
+    mo:SubRegion mr:JP_熊本県人吉市東漆田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市東大塚町 ;
+    mo:SubRegion mr:JP_熊本県人吉市麓町 ;
+    mo:SubRegion mr:JP_熊本県人吉市宝来町 ;
+    mo:SubRegion mr:JP_熊本県人吉市南泉田町 ;
+    mo:SubRegion mr:JP_熊本県人吉市南願成寺町 ;
+    mo:SubRegion mr:JP_熊本県人吉市南町 ;
+    mo:SubRegion mr:JP_熊本県人吉市蓑野町 ;
+    mo:SubRegion mr:JP_熊本県人吉市矢黒町 ;
+    mo:SubRegion mr:JP_熊本県人吉市矢岳町 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県人吉市赤池原町
+    rdfs:label "赤池原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市赤池水無町
+    rdfs:label "赤池水無町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市五日町
+    rdfs:label "五日町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市井ノ口町
+    rdfs:label "井ノ口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上原町
+    rdfs:label "上原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市老神町
+    rdfs:label "老神町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市大野町
+    rdfs:label "大野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市大畑麓町
+    rdfs:label "大畑麓町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市大畑町
+    rdfs:label "大畑町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市鬼木町
+    rdfs:label "鬼木町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市温泉町
+    rdfs:label "温泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市鍛冶屋町
+    rdfs:label "鍛冶屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市鹿目町
+    rdfs:label "鹿目町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上青井町
+    rdfs:label "上青井町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上漆田町
+    rdfs:label "上漆田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上薩摩瀬町
+    rdfs:label "上薩摩瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上新町
+    rdfs:label "上新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上田代町
+    rdfs:label "上田代町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上戸越町
+    rdfs:label "上戸越町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上永野町
+    rdfs:label "上永野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上林町
+    rdfs:label "上林町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市上原田町
+    rdfs:label "上原田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市瓦屋町
+    rdfs:label "瓦屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市願成寺町
+    rdfs:label "願成寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市蟹作町
+    rdfs:label "蟹作町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市木地屋町
+    rdfs:label "木地屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市北泉田町
+    rdfs:label "北泉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市北願成寺町
+    rdfs:label "北願成寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市合ノ原町
+    rdfs:label "合ノ原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市紺屋町
+    rdfs:label "紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市九日町
+    rdfs:label "九日町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市古仏頂町
+    rdfs:label "古仏頂町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市駒井田町
+    rdfs:label "駒井田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市相良町
+    rdfs:label "相良町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市七地町
+    rdfs:label "七地町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下青井町
+    rdfs:label "下青井町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下漆田町
+    rdfs:label "下漆田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下薩摩瀬町
+    rdfs:label "下薩摩瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下城本町
+    rdfs:label "下城本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下新町
+    rdfs:label "下新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下田代町
+    rdfs:label "下田代町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下戸越町
+    rdfs:label "下戸越町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下永野町
+    rdfs:label "下永野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下原田町
+    rdfs:label "下原田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市下林町
+    rdfs:label "下林町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市城本町
+    rdfs:label "城本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市大工町
+    rdfs:label "大工町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市田野町
+    rdfs:label "田野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市田町
+    rdfs:label "田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市鶴田町
+    rdfs:label "鶴田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市寺町
+    rdfs:label "寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市土手町
+    rdfs:label "土手町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市富ケ尾町
+    rdfs:label "富ケ尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市中青井町
+    rdfs:label "中青井町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市中神町
+    rdfs:label "中神町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市中林町
+    rdfs:label "中林町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市七日町
+    rdfs:label "七日町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市浪床町
+    rdfs:label "浪床町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市西間上町
+    rdfs:label "西間上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市西間下町
+    rdfs:label "西間下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市西大塚町
+    rdfs:label "西大塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市二日町
+    rdfs:label "二日町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市灰久保町
+    rdfs:label "灰久保町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市原城町
+    rdfs:label "原城町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市東間上町
+    rdfs:label "東間上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市東間下町
+    rdfs:label "東間下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市東漆田町
+    rdfs:label "東漆田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市東大塚町
+    rdfs:label "東大塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市麓町
+    rdfs:label "麓町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市宝来町
+    rdfs:label "宝来町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市南泉田町
+    rdfs:label "南泉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市南願成寺町
+    rdfs:label "南願成寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市蓑野町
+    rdfs:label "蓑野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市矢黒町
+    rdfs:label "矢黒町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県人吉市矢岳町
+    rdfs:label "矢岳町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市
+    rdfs:label "荒尾市"@ja ;
+    mo:AreaCode "43204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県荒尾市荒尾 ;
+    mo:SubRegion mr:JP_熊本県荒尾市一部 ;
+    mo:SubRegion mr:JP_熊本県荒尾市牛水 ;
+    mo:SubRegion mr:JP_熊本県荒尾市大島 ;
+    mo:SubRegion mr:JP_熊本県荒尾市大島町 ;
+    mo:SubRegion mr:JP_熊本県荒尾市大平町 ;
+    mo:SubRegion mr:JP_熊本県荒尾市金山 ;
+    mo:SubRegion mr:JP_熊本県荒尾市樺 ;
+    mo:SubRegion mr:JP_熊本県荒尾市上井手 ;
+    mo:SubRegion mr:JP_熊本県荒尾市上平山 ;
+    mo:SubRegion mr:JP_熊本県荒尾市川登 ;
+    mo:SubRegion mr:JP_熊本県荒尾市宮内 ;
+    mo:SubRegion mr:JP_熊本県荒尾市宮内出目 ;
+    mo:SubRegion mr:JP_熊本県荒尾市蔵満 ;
+    mo:SubRegion mr:JP_熊本県荒尾市菰屋 ;
+    mo:SubRegion mr:JP_熊本県荒尾市桜山町 ;
+    mo:SubRegion mr:JP_熊本県荒尾市下井手 ;
+    mo:SubRegion mr:JP_熊本県荒尾市昭和町 ;
+    mo:SubRegion mr:JP_熊本県荒尾市住吉町 ;
+    mo:SubRegion mr:JP_熊本県荒尾市大正町 ;
+    mo:SubRegion mr:JP_熊本県荒尾市高浜 ;
+    mo:SubRegion mr:JP_熊本県荒尾市西原町 ;
+    mo:SubRegion mr:JP_熊本県荒尾市野原 ;
+    mo:SubRegion mr:JP_熊本県荒尾市八幡台 ;
+    mo:SubRegion mr:JP_熊本県荒尾市原万田 ;
+    mo:SubRegion mr:JP_熊本県荒尾市東屋形 ;
+    mo:SubRegion mr:JP_熊本県荒尾市日の出町 ;
+    mo:SubRegion mr:JP_熊本県荒尾市平山 ;
+    mo:SubRegion mr:JP_熊本県荒尾市府本 ;
+    mo:SubRegion mr:JP_熊本県荒尾市本井手 ;
+    mo:SubRegion mr:JP_熊本県荒尾市増永 ;
+    mo:SubRegion mr:JP_熊本県荒尾市万田 ;
+    mo:SubRegion mr:JP_熊本県荒尾市水野 ;
+    mo:SubRegion mr:JP_熊本県荒尾市緑ケ丘 ;
+    mo:SubRegion mr:JP_熊本県荒尾市四ツ山町 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県荒尾市荒尾
+    rdfs:label "荒尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市一部
+    rdfs:label "一部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市牛水
+    rdfs:label "牛水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市大島町
+    rdfs:label "大島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市大平町
+    rdfs:label "大平町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市金山
+    rdfs:label "金山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市樺
+    rdfs:label "樺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市上井手
+    rdfs:label "上井手"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市上平山
+    rdfs:label "上平山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市川登
+    rdfs:label "川登"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市宮内
+    rdfs:label "宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市宮内出目
+    rdfs:label "宮内出目"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市蔵満
+    rdfs:label "蔵満"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市菰屋
+    rdfs:label "菰屋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市桜山町
+    rdfs:label "桜山町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市下井手
+    rdfs:label "下井手"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市大正町
+    rdfs:label "大正町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市高浜
+    rdfs:label "高浜"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市西原町
+    rdfs:label "西原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市野原
+    rdfs:label "野原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市八幡台
+    rdfs:label "八幡台"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市原万田
+    rdfs:label "原万田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市東屋形
+    rdfs:label "東屋形"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市日の出町
+    rdfs:label "日の出町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市平山
+    rdfs:label "平山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市府本
+    rdfs:label "府本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市本井手
+    rdfs:label "本井手"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市増永
+    rdfs:label "増永"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市万田
+    rdfs:label "万田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市水野
+    rdfs:label "水野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県荒尾市四ツ山町
+    rdfs:label "四ツ山町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市
+    rdfs:label "水俣市"@ja ;
+    mo:AreaCode "43205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県水俣市旭町 ;
+    mo:SubRegion mr:JP_熊本県水俣市洗切町 ;
+    mo:SubRegion mr:JP_熊本県水俣市石坂川 ;
+    mo:SubRegion mr:JP_熊本県水俣市市渡瀬 ;
+    mo:SubRegion mr:JP_熊本県水俣市梅戸町 ;
+    mo:SubRegion mr:JP_熊本県水俣市浦上町 ;
+    mo:SubRegion mr:JP_熊本県水俣市江添 ;
+    mo:SubRegion mr:JP_熊本県水俣市江南町 ;
+    mo:SubRegion mr:JP_熊本県水俣市大川 ;
+    mo:SubRegion mr:JP_熊本県水俣市大迫 ;
+    mo:SubRegion mr:JP_熊本県水俣市大園町 ;
+    mo:SubRegion mr:JP_熊本県水俣市祇園町 ;
+    mo:SubRegion mr:JP_熊本県水俣市久木野 ;
+    mo:SubRegion mr:JP_熊本県水俣市葛渡 ;
+    mo:SubRegion mr:JP_熊本県水俣市古賀町 ;
+    mo:SubRegion mr:JP_熊本県水俣市越小場 ;
+    mo:SubRegion mr:JP_熊本県水俣市古城 ;
+    mo:SubRegion mr:JP_熊本県水俣市小津奈木 ;
+    mo:SubRegion mr:JP_熊本県水俣市幸町 ;
+    mo:SubRegion mr:JP_熊本県水俣市栄町 ;
+    mo:SubRegion mr:JP_熊本県水俣市桜井町 ;
+    mo:SubRegion mr:JP_熊本県水俣市桜ケ丘 ;
+    mo:SubRegion mr:JP_熊本県水俣市塩浜町 ;
+    mo:SubRegion mr:JP_熊本県水俣市汐見町 ;
+    mo:SubRegion mr:JP_熊本県水俣市昭和町 ;
+    mo:SubRegion mr:JP_熊本県水俣市白浜町 ;
+    mo:SubRegion mr:JP_熊本県水俣市陣内 ;
+    mo:SubRegion mr:JP_熊本県水俣市薄原 ;
+    mo:SubRegion mr:JP_熊本県水俣市大黒町 ;
+    mo:SubRegion mr:JP_熊本県水俣市多々良町 ;
+    mo:SubRegion mr:JP_熊本県水俣市築地 ;
+    mo:SubRegion mr:JP_熊本県水俣市月浦 ;
+    mo:SubRegion mr:JP_熊本県水俣市天神町 ;
+    mo:SubRegion mr:JP_熊本県水俣市中鶴 ;
+    mo:SubRegion mr:JP_熊本県水俣市長崎 ;
+    mo:SubRegion mr:JP_熊本県水俣市長野 ;
+    mo:SubRegion mr:JP_熊本県水俣市長野町 ;
+    mo:SubRegion mr:JP_熊本県水俣市南福寺 ;
+    mo:SubRegion mr:JP_熊本県水俣市野口町 ;
+    mo:SubRegion mr:JP_熊本県水俣市八ノ窪町 ;
+    mo:SubRegion mr:JP_熊本県水俣市八幡町 ;
+    mo:SubRegion mr:JP_熊本県水俣市初野 ;
+    mo:SubRegion mr:JP_熊本県水俣市浜 ;
+    mo:SubRegion mr:JP_熊本県水俣市浜町 ;
+    mo:SubRegion mr:JP_熊本県水俣市浜松町 ;
+    mo:SubRegion mr:JP_熊本県水俣市ひばりケ丘 ;
+    mo:SubRegion mr:JP_熊本県水俣市百間町 ;
+    mo:SubRegion mr:JP_熊本県水俣市平町 ;
+    mo:SubRegion mr:JP_熊本県水俣市深川 ;
+    mo:SubRegion mr:JP_熊本県水俣市袋 ;
+    mo:SubRegion mr:JP_熊本県水俣市古里 ;
+    mo:SubRegion mr:JP_熊本県水俣市宝川内 ;
+    mo:SubRegion mr:JP_熊本県水俣市牧ノ内 ;
+    mo:SubRegion mr:JP_熊本県水俣市丸島町 ;
+    mo:SubRegion mr:JP_熊本県水俣市緑ケ丘 ;
+    mo:SubRegion mr:JP_熊本県水俣市港町 ;
+    mo:SubRegion mr:JP_熊本県水俣市明神町 ;
+    mo:SubRegion mr:JP_熊本県水俣市山手町 ;
+    mo:SubRegion mr:JP_熊本県水俣市湯出 ;
+    mo:SubRegion mr:JP_熊本県水俣市わらび野 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県水俣市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市洗切町
+    rdfs:label "洗切町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市石坂川
+    rdfs:label "石坂川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市市渡瀬
+    rdfs:label "市渡瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市梅戸町
+    rdfs:label "梅戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市浦上町
+    rdfs:label "浦上町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市江添
+    rdfs:label "江添"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市江南町
+    rdfs:label "江南町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市大川
+    rdfs:label "大川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市大迫
+    rdfs:label "大迫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市大園町
+    rdfs:label "大園町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市祇園町
+    rdfs:label "祇園町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市久木野
+    rdfs:label "久木野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市葛渡
+    rdfs:label "葛渡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市古賀町
+    rdfs:label "古賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市越小場
+    rdfs:label "越小場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市古城
+    rdfs:label "古城"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市小津奈木
+    rdfs:label "小津奈木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市桜井町
+    rdfs:label "桜井町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市桜ケ丘
+    rdfs:label "桜ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市塩浜町
+    rdfs:label "塩浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市汐見町
+    rdfs:label "汐見町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市白浜町
+    rdfs:label "白浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市陣内
+    rdfs:label "陣内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市薄原
+    rdfs:label "薄原"@ja ;
+    mo:SubRegion mr:JP_熊本県水俣市薄原桜野 ;
+    mo:SubRegion mr:JP_熊本県水俣市薄原桜野上場 ;
+    mo:SubRegion mr:JP_熊本県水俣市薄原芦刈赤林 ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市薄原桜野
+    rdfs:label "桜野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市薄原桜野上場
+    rdfs:label "桜野上場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市薄原芦刈赤林
+    rdfs:label "芦刈赤林"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市大黒町
+    rdfs:label "大黒町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市多々良町
+    rdfs:label "多々良町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市築地
+    rdfs:label "築地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市月浦
+    rdfs:label "月浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市中鶴
+    rdfs:label "中鶴"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市長崎
+    rdfs:label "長崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市長野
+    rdfs:label "長野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市長野町
+    rdfs:label "長野町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市南福寺
+    rdfs:label "南福寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市野口町
+    rdfs:label "野口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市八ノ窪町
+    rdfs:label "八ノ窪町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市初野
+    rdfs:label "初野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市浜
+    rdfs:label "浜"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市浜松町
+    rdfs:label "浜松町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市ひばりケ丘
+    rdfs:label "ひばりケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市百間町
+    rdfs:label "百間町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市平町
+    rdfs:label "平町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市深川
+    rdfs:label "深川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市袋
+    rdfs:label "袋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市古里
+    rdfs:label "古里"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市宝川内
+    rdfs:label "宝川内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市牧ノ内
+    rdfs:label "牧ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市丸島町
+    rdfs:label "丸島町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市明神町
+    rdfs:label "明神町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市山手町
+    rdfs:label "山手町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市湯出
+    rdfs:label "湯出"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県水俣市わらび野
+    rdfs:label "わらび野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市
+    rdfs:label "玉名市"@ja ;
+    mo:AreaCode "43206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県玉名市青木 ;
+    mo:SubRegion mr:JP_熊本県玉名市青野 ;
+    mo:SubRegion mr:JP_熊本県玉名市秋丸 ;
+    mo:SubRegion mr:JP_熊本県玉名市安楽寺 ;
+    mo:SubRegion mr:JP_熊本県玉名市伊倉南方 ;
+    mo:SubRegion mr:JP_熊本県玉名市伊倉北方 ;
+    mo:SubRegion mr:JP_熊本県玉名市石貫 ;
+    mo:SubRegion mr:JP_熊本県玉名市岩崎 ;
+    mo:SubRegion mr:JP_熊本県玉名市永徳寺 ;
+    mo:SubRegion mr:JP_熊本県玉名市大倉 ;
+    mo:SubRegion mr:JP_熊本県玉名市大浜町 ;
+    mo:SubRegion mr:JP_熊本県玉名市小島 ;
+    mo:SubRegion mr:JP_熊本県玉名市小野尻 ;
+    mo:SubRegion mr:JP_熊本県玉名市片諏訪 ;
+    mo:SubRegion mr:JP_熊本県玉名市上小田 ;
+    mo:SubRegion mr:JP_熊本県玉名市亀甲 ;
+    mo:SubRegion mr:JP_熊本県玉名市河崎 ;
+    mo:SubRegion mr:JP_熊本県玉名市川島 ;
+    mo:SubRegion mr:JP_熊本県玉名市川部田 ;
+    mo:SubRegion mr:JP_熊本県玉名市北坂門田 ;
+    mo:SubRegion mr:JP_熊本県玉名市北牟田 ;
+    mo:SubRegion mr:JP_熊本県玉名市小浜 ;
+    mo:SubRegion mr:JP_熊本県玉名市下 ;
+    mo:SubRegion mr:JP_熊本県玉名市下小田 ;
+    mo:SubRegion mr:JP_熊本県玉名市千田川原 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町扇崎 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町大野下 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町古閑 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町西照寺 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町下沖洲 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町下前原 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町上 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町庄山 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町高道 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町中土 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町鍋 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町野口 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町浜田 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町開田 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町三崎 ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町山下 ;
+    mo:SubRegion mr:JP_熊本県玉名市高瀬 ;
+    mo:SubRegion mr:JP_熊本県玉名市田崎 ;
+    mo:SubRegion mr:JP_熊本県玉名市玉名 ;
+    mo:SubRegion mr:JP_熊本県玉名市築地 ;
+    mo:SubRegion mr:JP_熊本県玉名市月田 ;
+    mo:SubRegion mr:JP_熊本県玉名市津留 ;
+    mo:SubRegion mr:JP_熊本県玉名市寺田 ;
+    mo:SubRegion mr:JP_熊本県玉名市天水町小天 ;
+    mo:SubRegion mr:JP_熊本県玉名市天水町尾田 ;
+    mo:SubRegion mr:JP_熊本県玉名市天水町竹崎 ;
+    mo:SubRegion mr:JP_熊本県玉名市天水町立花 ;
+    mo:SubRegion mr:JP_熊本県玉名市天水町野部田 ;
+    mo:SubRegion mr:JP_熊本県玉名市天水町部田見 ;
+    mo:SubRegion mr:JP_熊本県玉名市富尾 ;
+    mo:SubRegion mr:JP_熊本県玉名市中 ;
+    mo:SubRegion mr:JP_熊本県玉名市中尾 ;
+    mo:SubRegion mr:JP_熊本県玉名市中坂門田 ;
+    mo:SubRegion mr:JP_熊本県玉名市滑石 ;
+    mo:SubRegion mr:JP_熊本県玉名市箱谷 ;
+    mo:SubRegion mr:JP_熊本県玉名市繁根木 ;
+    mo:SubRegion mr:JP_熊本県玉名市松木 ;
+    mo:SubRegion mr:JP_熊本県玉名市溝上 ;
+    mo:SubRegion mr:JP_熊本県玉名市三ツ川 ;
+    mo:SubRegion mr:JP_熊本県玉名市南坂門田 ;
+    mo:SubRegion mr:JP_熊本県玉名市宮原 ;
+    mo:SubRegion mr:JP_熊本県玉名市向津留 ;
+    mo:SubRegion mr:JP_熊本県玉名市山田 ;
+    mo:SubRegion mr:JP_熊本県玉名市山部田 ;
+    mo:SubRegion mr:JP_熊本県玉名市横島町大園 ;
+    mo:SubRegion mr:JP_熊本県玉名市横島町共栄 ;
+    mo:SubRegion mr:JP_熊本県玉名市横島町横島 ;
+    mo:SubRegion mr:JP_熊本県玉名市横田 ;
+    mo:SubRegion mr:JP_熊本県玉名市立願寺 ;
+    mo:SubRegion mr:JP_熊本県玉名市両迫間 ;
+    mo:SubRegion mr:JP_熊本県玉名市六田 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県玉名市青木
+    rdfs:label "青木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市青野
+    rdfs:label "青野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市秋丸
+    rdfs:label "秋丸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市安楽寺
+    rdfs:label "安楽寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市伊倉南方
+    rdfs:label "伊倉南方"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市伊倉北方
+    rdfs:label "伊倉北方"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市石貫
+    rdfs:label "石貫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岩崎
+    rdfs:label "岩崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市永徳寺
+    rdfs:label "永徳寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市大倉
+    rdfs:label "大倉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市大浜町
+    rdfs:label "大浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市小野尻
+    rdfs:label "小野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市片諏訪
+    rdfs:label "片諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市上小田
+    rdfs:label "上小田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市亀甲
+    rdfs:label "亀甲"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市河崎
+    rdfs:label "河崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市川島
+    rdfs:label "川島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市川部田
+    rdfs:label "川部田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市北坂門田
+    rdfs:label "北坂門田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市北牟田
+    rdfs:label "北牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市小浜
+    rdfs:label "小浜"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市下
+    rdfs:label "下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市下小田
+    rdfs:label "下小田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市千田川原
+    rdfs:label "千田川原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町扇崎
+    rdfs:label "岱明町扇崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町大野下
+    rdfs:label "岱明町大野下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町古閑
+    rdfs:label "岱明町古閑"@ja ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町古閑雲雀丘 ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町古閑雲雀丘
+    rdfs:label "雲雀丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町西照寺
+    rdfs:label "岱明町西照寺"@ja ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町西照寺雲雀丘 ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町西照寺雲雀丘
+    rdfs:label "雲雀丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町下沖洲
+    rdfs:label "岱明町下沖洲"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町下前原
+    rdfs:label "岱明町下前原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町上
+    rdfs:label "岱明町上"@ja ;
+    mo:SubRegion mr:JP_熊本県玉名市岱明町上雲雀丘 ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町上雲雀丘
+    rdfs:label "雲雀丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町庄山
+    rdfs:label "岱明町庄山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町高道
+    rdfs:label "岱明町高道"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町中土
+    rdfs:label "岱明町中土"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町鍋
+    rdfs:label "岱明町鍋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町野口
+    rdfs:label "岱明町野口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町浜田
+    rdfs:label "岱明町浜田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町開田
+    rdfs:label "岱明町開田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町三崎
+    rdfs:label "岱明町三崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市岱明町山下
+    rdfs:label "岱明町山下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市高瀬
+    rdfs:label "高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市田崎
+    rdfs:label "田崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市玉名
+    rdfs:label "玉名"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市築地
+    rdfs:label "築地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市月田
+    rdfs:label "月田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市津留
+    rdfs:label "津留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市寺田
+    rdfs:label "寺田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市天水町小天
+    rdfs:label "天水町小天"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市天水町尾田
+    rdfs:label "天水町尾田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市天水町竹崎
+    rdfs:label "天水町竹崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市天水町立花
+    rdfs:label "天水町立花"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市天水町野部田
+    rdfs:label "天水町野部田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市天水町部田見
+    rdfs:label "天水町部田見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市富尾
+    rdfs:label "富尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市中尾
+    rdfs:label "中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市中坂門田
+    rdfs:label "中坂門田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市滑石
+    rdfs:label "滑石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市箱谷
+    rdfs:label "箱谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市繁根木
+    rdfs:label "繁根木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市松木
+    rdfs:label "松木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市溝上
+    rdfs:label "溝上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市三ツ川
+    rdfs:label "三ツ川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市南坂門田
+    rdfs:label "南坂門田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市宮原
+    rdfs:label "宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市向津留
+    rdfs:label "向津留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市山部田
+    rdfs:label "山部田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市横島町大園
+    rdfs:label "横島町大園"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市横島町共栄
+    rdfs:label "横島町共栄"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市横島町横島
+    rdfs:label "横島町横島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市立願寺
+    rdfs:label "立願寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市両迫間
+    rdfs:label "両迫間"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名市六田
+    rdfs:label "六田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市
+    rdfs:label "山鹿市"@ja ;
+    mo:AreaCode "43208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県山鹿市麻生野 ;
+    mo:SubRegion mr:JP_熊本県山鹿市石 ;
+    mo:SubRegion mr:JP_熊本県山鹿市泉町 ;
+    mo:SubRegion mr:JP_熊本県山鹿市大橋通 ;
+    mo:SubRegion mr:JP_熊本県山鹿市小坂 ;
+    mo:SubRegion mr:JP_熊本県山鹿市小原 ;
+    mo:SubRegion mr:JP_熊本県山鹿市小群 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町合里 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町岩原 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町梅木谷 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町大浦 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町北谷 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町霜野 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町千田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町中浦 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町仁王堂 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町広 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿央町持松 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿校通 ;
+    mo:SubRegion mr:JP_熊本県山鹿市方保田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿北町芋生 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿北町岩野 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿北町椎持 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿北町四丁 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿北町多久 ;
+    mo:SubRegion mr:JP_熊本県山鹿市上吉田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市蒲生 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町石渕 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町小嶋 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町梶屋 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町来民 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町小柳 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町下高橋 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町下分田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町庄 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町高橋 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町津袋 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町中川 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町中富 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町中分田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町分田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鹿本町御宇田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市川端町 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町相良 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町阿佐古 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町池永 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町太田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町上内田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町上永野 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町木野 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町五郎丸 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町下内田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町下永野 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町長 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町松尾 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町宮原 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町矢谷 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町山内 ;
+    mo:SubRegion mr:JP_熊本県山鹿市菊鹿町米原 ;
+    mo:SubRegion mr:JP_熊本県山鹿市久原 ;
+    mo:SubRegion mr:JP_熊本県山鹿市熊入町 ;
+    mo:SubRegion mr:JP_熊本県山鹿市古閑 ;
+    mo:SubRegion mr:JP_熊本県山鹿市坂田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市志々岐 ;
+    mo:SubRegion mr:JP_熊本県山鹿市下吉田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市城 ;
+    mo:SubRegion mr:JP_熊本県山鹿市昭和町 ;
+    mo:SubRegion mr:JP_熊本県山鹿市新町 ;
+    mo:SubRegion mr:JP_熊本県山鹿市杉 ;
+    mo:SubRegion mr:JP_熊本県山鹿市中央通 ;
+    mo:SubRegion mr:JP_熊本県山鹿市椿井 ;
+    mo:SubRegion mr:JP_熊本県山鹿市津留 ;
+    mo:SubRegion mr:JP_熊本県山鹿市寺島 ;
+    mo:SubRegion mr:JP_熊本県山鹿市中 ;
+    mo:SubRegion mr:JP_熊本県山鹿市長坂 ;
+    mo:SubRegion mr:JP_熊本県山鹿市名塚 ;
+    mo:SubRegion mr:JP_熊本県山鹿市鍋田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市西牧 ;
+    mo:SubRegion mr:JP_熊本県山鹿市平山 ;
+    mo:SubRegion mr:JP_熊本県山鹿市藤井 ;
+    mo:SubRegion mr:JP_熊本県山鹿市保多田 ;
+    mo:SubRegion mr:JP_熊本県山鹿市南島 ;
+    mo:SubRegion mr:JP_熊本県山鹿市宗方 ;
+    mo:SubRegion mr:JP_熊本県山鹿市宗方通 ;
+    mo:SubRegion mr:JP_熊本県山鹿市山鹿 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県山鹿市麻生野
+    rdfs:label "麻生野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市石
+    rdfs:label "石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市大橋通
+    rdfs:label "大橋通"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市小坂
+    rdfs:label "小坂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市小原
+    rdfs:label "小原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市小群
+    rdfs:label "小群"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町合里
+    rdfs:label "鹿央町合里"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町岩原
+    rdfs:label "鹿央町岩原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町梅木谷
+    rdfs:label "鹿央町梅木谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町大浦
+    rdfs:label "鹿央町大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町北谷
+    rdfs:label "鹿央町北谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町霜野
+    rdfs:label "鹿央町霜野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町千田
+    rdfs:label "鹿央町千田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町中浦
+    rdfs:label "鹿央町中浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町仁王堂
+    rdfs:label "鹿央町仁王堂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町広
+    rdfs:label "鹿央町広"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿央町持松
+    rdfs:label "鹿央町持松"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿校通
+    rdfs:label "鹿校通"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市方保田
+    rdfs:label "方保田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿北町芋生
+    rdfs:label "鹿北町芋生"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿北町岩野
+    rdfs:label "鹿北町岩野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿北町椎持
+    rdfs:label "鹿北町椎持"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿北町四丁
+    rdfs:label "鹿北町四丁"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿北町多久
+    rdfs:label "鹿北町多久"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市上吉田
+    rdfs:label "上吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市蒲生
+    rdfs:label "蒲生"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町石渕
+    rdfs:label "鹿本町石渕"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町小嶋
+    rdfs:label "鹿本町小嶋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町梶屋
+    rdfs:label "鹿本町梶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町来民
+    rdfs:label "鹿本町来民"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町小柳
+    rdfs:label "鹿本町小柳"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町下高橋
+    rdfs:label "鹿本町下高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町下分田
+    rdfs:label "鹿本町下分田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町庄
+    rdfs:label "鹿本町庄"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町高橋
+    rdfs:label "鹿本町高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町津袋
+    rdfs:label "鹿本町津袋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町中川
+    rdfs:label "鹿本町中川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町中富
+    rdfs:label "鹿本町中富"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町中分田
+    rdfs:label "鹿本町中分田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町分田
+    rdfs:label "鹿本町分田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鹿本町御宇田
+    rdfs:label "鹿本町御宇田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市川端町
+    rdfs:label "川端町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町相良
+    rdfs:label "菊鹿町相良"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町阿佐古
+    rdfs:label "菊鹿町阿佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町池永
+    rdfs:label "菊鹿町池永"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町太田
+    rdfs:label "菊鹿町太田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町上内田
+    rdfs:label "菊鹿町上内田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町上永野
+    rdfs:label "菊鹿町上永野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町木野
+    rdfs:label "菊鹿町木野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町五郎丸
+    rdfs:label "菊鹿町五郎丸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町下内田
+    rdfs:label "菊鹿町下内田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町下永野
+    rdfs:label "菊鹿町下永野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町長
+    rdfs:label "菊鹿町長"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町松尾
+    rdfs:label "菊鹿町松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町宮原
+    rdfs:label "菊鹿町宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町矢谷
+    rdfs:label "菊鹿町矢谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町山内
+    rdfs:label "菊鹿町山内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市菊鹿町米原
+    rdfs:label "菊鹿町米原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市久原
+    rdfs:label "久原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市熊入町
+    rdfs:label "熊入町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市古閑
+    rdfs:label "古閑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市坂田
+    rdfs:label "坂田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市志々岐
+    rdfs:label "志々岐"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市下吉田
+    rdfs:label "下吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市城
+    rdfs:label "城"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市杉
+    rdfs:label "杉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市中央通
+    rdfs:label "中央通"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市椿井
+    rdfs:label "椿井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市津留
+    rdfs:label "津留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市寺島
+    rdfs:label "寺島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市長坂
+    rdfs:label "長坂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市名塚
+    rdfs:label "名塚"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市鍋田
+    rdfs:label "鍋田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市西牧
+    rdfs:label "西牧"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市平山
+    rdfs:label "平山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市藤井
+    rdfs:label "藤井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市保多田
+    rdfs:label "保多田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市南島
+    rdfs:label "南島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市宗方
+    rdfs:label "宗方"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市宗方通
+    rdfs:label "宗方通"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県山鹿市山鹿
+    rdfs:label "山鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市
+    rdfs:label "菊池市"@ja ;
+    mo:AreaCode "43210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県菊池市赤星 ;
+    mo:SubRegion mr:JP_熊本県菊池市市野瀬 ;
+    mo:SubRegion mr:JP_熊本県菊池市出田 ;
+    mo:SubRegion mr:JP_熊本県菊池市今 ;
+    mo:SubRegion mr:JP_熊本県菊池市大平 ;
+    mo:SubRegion mr:JP_熊本県菊池市小木 ;
+    mo:SubRegion mr:JP_熊本県菊池市片角 ;
+    mo:SubRegion mr:JP_熊本県菊池市木柑子 ;
+    mo:SubRegion mr:JP_熊本県菊池市北宮 ;
+    mo:SubRegion mr:JP_熊本県菊池市木野 ;
+    mo:SubRegion mr:JP_熊本県菊池市旭志伊坂 ;
+    mo:SubRegion mr:JP_熊本県菊池市旭志伊萩 ;
+    mo:SubRegion mr:JP_熊本県菊池市旭志尾足 ;
+    mo:SubRegion mr:JP_熊本県菊池市旭志小原 ;
+    mo:SubRegion mr:JP_熊本県菊池市旭志川辺 ;
+    mo:SubRegion mr:JP_熊本県菊池市旭志新明 ;
+    mo:SubRegion mr:JP_熊本県菊池市旭志麓 ;
+    mo:SubRegion mr:JP_熊本県菊池市旭志弁利 ;
+    mo:SubRegion mr:JP_熊本県菊池市玉祥寺 ;
+    mo:SubRegion mr:JP_熊本県菊池市袈裟尾 ;
+    mo:SubRegion mr:JP_熊本県菊池市木庭 ;
+    mo:SubRegion mr:JP_熊本県菊池市重味 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町亀尾 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町住吉 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町田島 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町富納 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町豊水 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町永 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町福本 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町南田島 ;
+    mo:SubRegion mr:JP_熊本県菊池市泗水町吉富 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町荒牧 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町台 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町岡田 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町小野崎 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町加恵 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町亀尾 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町清水 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町甲佐町 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町菰入 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町新古閑 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町砂田 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町瀬戸口 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町蘇崎 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町高島 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町高田 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町流川 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町橋田 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町林原 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町辺田 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町水次 ;
+    mo:SubRegion mr:JP_熊本県菊池市七城町山崎 ;
+    mo:SubRegion mr:JP_熊本県菊池市四町分 ;
+    mo:SubRegion mr:JP_熊本県菊池市下河原 ;
+    mo:SubRegion mr:JP_熊本県菊池市大琳寺 ;
+    mo:SubRegion mr:JP_熊本県菊池市豊間 ;
+    mo:SubRegion mr:JP_熊本県菊池市長田 ;
+    mo:SubRegion mr:JP_熊本県菊池市西寺 ;
+    mo:SubRegion mr:JP_熊本県菊池市西迫間 ;
+    mo:SubRegion mr:JP_熊本県菊池市野間口 ;
+    mo:SubRegion mr:JP_熊本県菊池市原 ;
+    mo:SubRegion mr:JP_熊本県菊池市班蛇口 ;
+    mo:SubRegion mr:JP_熊本県菊池市稗方 ;
+    mo:SubRegion mr:JP_熊本県菊池市広瀬 ;
+    mo:SubRegion mr:JP_熊本県菊池市深川 ;
+    mo:SubRegion mr:JP_熊本県菊池市藤田 ;
+    mo:SubRegion mr:JP_熊本県菊池市村田 ;
+    mo:SubRegion mr:JP_熊本県菊池市森北 ;
+    mo:SubRegion mr:JP_熊本県菊池市雪野 ;
+    mo:SubRegion mr:JP_熊本県菊池市龍門 ;
+    mo:SubRegion mr:JP_熊本県菊池市隈府 ;
+    mo:SubRegion mr:JP_熊本県菊池市亘 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県菊池市赤星
+    rdfs:label "赤星"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市市野瀬
+    rdfs:label "市野瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市出田
+    rdfs:label "出田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市今
+    rdfs:label "今"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市小木
+    rdfs:label "小木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市片角
+    rdfs:label "片角"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市木柑子
+    rdfs:label "木柑子"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市北宮
+    rdfs:label "北宮"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市木野
+    rdfs:label "木野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市旭志伊坂
+    rdfs:label "旭志伊坂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市旭志伊萩
+    rdfs:label "旭志伊萩"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市旭志尾足
+    rdfs:label "旭志尾足"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市旭志小原
+    rdfs:label "旭志小原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市旭志川辺
+    rdfs:label "旭志川辺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市旭志新明
+    rdfs:label "旭志新明"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市旭志麓
+    rdfs:label "旭志麓"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市旭志弁利
+    rdfs:label "旭志弁利"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市玉祥寺
+    rdfs:label "玉祥寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市袈裟尾
+    rdfs:label "袈裟尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市木庭
+    rdfs:label "木庭"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市重味
+    rdfs:label "重味"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町亀尾
+    rdfs:label "泗水町亀尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町住吉
+    rdfs:label "泗水町住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町田島
+    rdfs:label "泗水町田島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町富納
+    rdfs:label "泗水町富納"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町豊水
+    rdfs:label "泗水町豊水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町永
+    rdfs:label "泗水町永"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町福本
+    rdfs:label "泗水町福本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町南田島
+    rdfs:label "泗水町南田島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市泗水町吉富
+    rdfs:label "泗水町吉富"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町荒牧
+    rdfs:label "七城町荒牧"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町台
+    rdfs:label "七城町台"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町岡田
+    rdfs:label "七城町岡田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町小野崎
+    rdfs:label "七城町小野崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町加恵
+    rdfs:label "七城町加恵"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町亀尾
+    rdfs:label "七城町亀尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町清水
+    rdfs:label "七城町清水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町甲佐町
+    rdfs:label "七城町甲佐町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町菰入
+    rdfs:label "七城町菰入"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町新古閑
+    rdfs:label "七城町新古閑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町砂田
+    rdfs:label "七城町砂田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町瀬戸口
+    rdfs:label "七城町瀬戸口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町蘇崎
+    rdfs:label "七城町蘇崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町高島
+    rdfs:label "七城町高島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町高田
+    rdfs:label "七城町高田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町流川
+    rdfs:label "七城町流川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町橋田
+    rdfs:label "七城町橋田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町林原
+    rdfs:label "七城町林原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町辺田
+    rdfs:label "七城町辺田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町水次
+    rdfs:label "七城町水次"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市七城町山崎
+    rdfs:label "七城町山崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市四町分
+    rdfs:label "四町分"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市下河原
+    rdfs:label "下河原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市大琳寺
+    rdfs:label "大琳寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市豊間
+    rdfs:label "豊間"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市長田
+    rdfs:label "長田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市西寺
+    rdfs:label "西寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市西迫間
+    rdfs:label "西迫間"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市野間口
+    rdfs:label "野間口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市班蛇口
+    rdfs:label "班蛇口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市稗方
+    rdfs:label "稗方"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市深川
+    rdfs:label "深川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市藤田
+    rdfs:label "藤田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市村田
+    rdfs:label "村田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市森北
+    rdfs:label "森北"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市雪野
+    rdfs:label "雪野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市龍門
+    rdfs:label "龍門"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市隈府
+    rdfs:label "隈府"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池市亘
+    rdfs:label "亘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市
+    rdfs:label "宇土市"@ja ;
+    mo:AreaCode "43211" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県宇土市赤瀬町 ;
+    mo:SubRegion mr:JP_熊本県宇土市旭町 ;
+    mo:SubRegion mr:JP_熊本県宇土市網引町 ;
+    mo:SubRegion mr:JP_熊本県宇土市網津町 ;
+    mo:SubRegion mr:JP_熊本県宇土市石小路町 ;
+    mo:SubRegion mr:JP_熊本県宇土市石橋町 ;
+    mo:SubRegion mr:JP_熊本県宇土市一里木町 ;
+    mo:SubRegion mr:JP_熊本県宇土市伊無田町 ;
+    mo:SubRegion mr:JP_熊本県宇土市入地町 ;
+    mo:SubRegion mr:JP_熊本県宇土市岩古曽町 ;
+    mo:SubRegion mr:JP_熊本県宇土市馬之瀬町 ;
+    mo:SubRegion mr:JP_熊本県宇土市浦田町 ;
+    mo:SubRegion mr:JP_熊本県宇土市恵塚町 ;
+    mo:SubRegion mr:JP_熊本県宇土市上網田町 ;
+    mo:SubRegion mr:JP_熊本県宇土市北段原町 ;
+    mo:SubRegion mr:JP_熊本県宇土市栗崎町 ;
+    mo:SubRegion mr:JP_熊本県宇土市神合町 ;
+    mo:SubRegion mr:JP_熊本県宇土市古保里町 ;
+    mo:SubRegion mr:JP_熊本県宇土市古城町 ;
+    mo:SubRegion mr:JP_熊本県宇土市境目町 ;
+    mo:SubRegion mr:JP_熊本県宇土市栄町 ;
+    mo:SubRegion mr:JP_熊本県宇土市笹原町 ;
+    mo:SubRegion mr:JP_熊本県宇土市三拾町 ;
+    mo:SubRegion mr:JP_熊本県宇土市下網田町 ;
+    mo:SubRegion mr:JP_熊本県宇土市城塚町 ;
+    mo:SubRegion mr:JP_熊本県宇土市城之浦町 ;
+    mo:SubRegion mr:JP_熊本県宇土市定府町 ;
+    mo:SubRegion mr:JP_熊本県宇土市新開町 ;
+    mo:SubRegion mr:JP_熊本県宇土市新小路町 ;
+    mo:SubRegion mr:JP_熊本県宇土市新町 ;
+    mo:SubRegion mr:JP_熊本県宇土市新松原町 ;
+    mo:SubRegion mr:JP_熊本県宇土市神馬町 ;
+    mo:SubRegion mr:JP_熊本県宇土市住吉町 ;
+    mo:SubRegion mr:JP_熊本県宇土市善道寺町 ;
+    mo:SubRegion mr:JP_熊本県宇土市船場町 ;
+    mo:SubRegion mr:JP_熊本県宇土市高柳町 ;
+    mo:SubRegion mr:JP_熊本県宇土市立岡町 ;
+    mo:SubRegion mr:JP_熊本県宇土市築籠町 ;
+    mo:SubRegion mr:JP_熊本県宇土市椿原町 ;
+    mo:SubRegion mr:JP_熊本県宇土市戸口町 ;
+    mo:SubRegion mr:JP_熊本県宇土市長浜町 ;
+    mo:SubRegion mr:JP_熊本県宇土市野鶴町 ;
+    mo:SubRegion mr:JP_熊本県宇土市走潟町 ;
+    mo:SubRegion mr:JP_熊本県宇土市花園台町 ;
+    mo:SubRegion mr:JP_熊本県宇土市花園町 ;
+    mo:SubRegion mr:JP_熊本県宇土市本町 ;
+    mo:SubRegion mr:JP_熊本県宇土市松原町 ;
+    mo:SubRegion mr:JP_熊本県宇土市松山町 ;
+    mo:SubRegion mr:JP_熊本県宇土市水町 ;
+    mo:SubRegion mr:JP_熊本県宇土市南段原町 ;
+    mo:SubRegion mr:JP_熊本県宇土市宮庄町 ;
+    mo:SubRegion mr:JP_熊本県宇土市門内町 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県宇土市赤瀬町
+    rdfs:label "赤瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市網引町
+    rdfs:label "網引町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市網津町
+    rdfs:label "網津町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市石小路町
+    rdfs:label "石小路町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市石橋町
+    rdfs:label "石橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市一里木町
+    rdfs:label "一里木町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市伊無田町
+    rdfs:label "伊無田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市入地町
+    rdfs:label "入地町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市岩古曽町
+    rdfs:label "岩古曽町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市馬之瀬町
+    rdfs:label "馬之瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市浦田町
+    rdfs:label "浦田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市恵塚町
+    rdfs:label "恵塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市上網田町
+    rdfs:label "上網田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市北段原町
+    rdfs:label "北段原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市栗崎町
+    rdfs:label "栗崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市神合町
+    rdfs:label "神合町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市古保里町
+    rdfs:label "古保里町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市古城町
+    rdfs:label "古城町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市境目町
+    rdfs:label "境目町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市笹原町
+    rdfs:label "笹原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市三拾町
+    rdfs:label "三拾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市下網田町
+    rdfs:label "下網田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市城塚町
+    rdfs:label "城塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市城之浦町
+    rdfs:label "城之浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市定府町
+    rdfs:label "定府町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市新開町
+    rdfs:label "新開町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市新小路町
+    rdfs:label "新小路町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市新松原町
+    rdfs:label "新松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市神馬町
+    rdfs:label "神馬町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市善道寺町
+    rdfs:label "善道寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市船場町
+    rdfs:label "船場町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市高柳町
+    rdfs:label "高柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市立岡町
+    rdfs:label "立岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市築籠町
+    rdfs:label "築籠町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市椿原町
+    rdfs:label "椿原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市戸口町
+    rdfs:label "戸口町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市長浜町
+    rdfs:label "長浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市野鶴町
+    rdfs:label "野鶴町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市走潟町
+    rdfs:label "走潟町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市花園台町
+    rdfs:label "花園台町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市松山町
+    rdfs:label "松山町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市水町
+    rdfs:label "水町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市南段原町
+    rdfs:label "南段原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市宮庄町
+    rdfs:label "宮庄町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇土市門内町
+    rdfs:label "門内町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市
+    rdfs:label "上天草市"@ja ;
+    mo:AreaCode "43212" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県上天草市大矢野町維和 ;
+    mo:SubRegion mr:JP_熊本県上天草市大矢野町上 ;
+    mo:SubRegion mr:JP_熊本県上天草市大矢野町中 ;
+    mo:SubRegion mr:JP_熊本県上天草市大矢野町登立 ;
+    mo:SubRegion mr:JP_熊本県上天草市大矢野町湯島 ;
+    mo:SubRegion mr:JP_熊本県上天草市姫戸町姫浦 ;
+    mo:SubRegion mr:JP_熊本県上天草市姫戸町二間戸 ;
+    mo:SubRegion mr:JP_熊本県上天草市松島町合津 ;
+    mo:SubRegion mr:JP_熊本県上天草市松島町阿村 ;
+    mo:SubRegion mr:JP_熊本県上天草市松島町今泉 ;
+    mo:SubRegion mr:JP_熊本県上天草市松島町内野河内 ;
+    mo:SubRegion mr:JP_熊本県上天草市松島町教良木 ;
+    mo:SubRegion mr:JP_熊本県上天草市龍ケ岳町大道 ;
+    mo:SubRegion mr:JP_熊本県上天草市龍ケ岳町高戸 ;
+    mo:SubRegion mr:JP_熊本県上天草市龍ケ岳町樋島 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県上天草市大矢野町維和
+    rdfs:label "大矢野町維和"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市大矢野町上
+    rdfs:label "大矢野町上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市大矢野町中
+    rdfs:label "大矢野町中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市大矢野町登立
+    rdfs:label "大矢野町登立"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市大矢野町湯島
+    rdfs:label "大矢野町湯島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市姫戸町姫浦
+    rdfs:label "姫戸町姫浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市姫戸町二間戸
+    rdfs:label "姫戸町二間戸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市松島町合津
+    rdfs:label "松島町合津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市松島町阿村
+    rdfs:label "松島町阿村"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市松島町今泉
+    rdfs:label "松島町今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市松島町内野河内
+    rdfs:label "松島町内野河内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市松島町教良木
+    rdfs:label "松島町教良木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市龍ケ岳町大道
+    rdfs:label "龍ケ岳町大道"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市龍ケ岳町高戸
+    rdfs:label "龍ケ岳町高戸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上天草市龍ケ岳町樋島
+    rdfs:label "龍ケ岳町樋島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市
+    rdfs:label "宇城市"@ja ;
+    mo:AreaCode "43213" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町江頭 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町小川 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町川尻 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町北小野 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町北海東 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町北新田 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町北部田 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町河江 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町不知火 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町新田 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町新田出 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町住吉 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町中小野 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町西海東 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町西北小川 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町東小川 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町東海東 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町南小川 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町南小野 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町南海東 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町南新田 ;
+    mo:SubRegion mr:JP_熊本県宇城市小川町南部田 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町浦上 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町永尾 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町大見 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町柏原 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町亀松 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町高良 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町小曽部 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町御領 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町長崎 ;
+    mo:SubRegion mr:JP_熊本県宇城市不知火町松合 ;
+    mo:SubRegion mr:JP_熊本県宇城市豊野町糸石 ;
+    mo:SubRegion mr:JP_熊本県宇城市豊野町上郷 ;
+    mo:SubRegion mr:JP_熊本県宇城市豊野町下郷 ;
+    mo:SubRegion mr:JP_熊本県宇城市豊野町巣林 ;
+    mo:SubRegion mr:JP_熊本県宇城市豊野町中間 ;
+    mo:SubRegion mr:JP_熊本県宇城市豊野町安見 ;
+    mo:SubRegion mr:JP_熊本県宇城市豊野町山崎 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町浅川 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町内田 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町浦川内 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町大野 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町きらら ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町久具 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町古保山 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町砂川 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町竹崎 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町豊崎 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町豊福 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町西下郷 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町萩尾 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町東松崎 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町曲野 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町松橋 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町松山 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町南豊崎 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町御船 ;
+    mo:SubRegion mr:JP_熊本県宇城市松橋町両仲間 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町大口 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町大田尾 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町郡浦 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町里浦 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町手場 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町戸馳 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町中村 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町波多 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町前越 ;
+    mo:SubRegion mr:JP_熊本県宇城市三角町三角浦 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県宇城市小川町江頭
+    rdfs:label "小川町江頭"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町小川
+    rdfs:label "小川町小川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町川尻
+    rdfs:label "小川町川尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町北小野
+    rdfs:label "小川町北小野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町北海東
+    rdfs:label "小川町北海東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町北新田
+    rdfs:label "小川町北新田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町北部田
+    rdfs:label "小川町北部田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町河江
+    rdfs:label "小川町河江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町不知火
+    rdfs:label "小川町不知火"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町新田
+    rdfs:label "小川町新田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町新田出
+    rdfs:label "小川町新田出"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町住吉
+    rdfs:label "小川町住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町中小野
+    rdfs:label "小川町中小野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町西海東
+    rdfs:label "小川町西海東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町西北小川
+    rdfs:label "小川町西北小川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町東小川
+    rdfs:label "小川町東小川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町東海東
+    rdfs:label "小川町東海東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町南小川
+    rdfs:label "小川町南小川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町南小野
+    rdfs:label "小川町南小野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町南海東
+    rdfs:label "小川町南海東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町南新田
+    rdfs:label "小川町南新田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市小川町南部田
+    rdfs:label "小川町南部田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町浦上
+    rdfs:label "不知火町浦上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町永尾
+    rdfs:label "不知火町永尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町大見
+    rdfs:label "不知火町大見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町柏原
+    rdfs:label "不知火町柏原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町亀松
+    rdfs:label "不知火町亀松"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町高良
+    rdfs:label "不知火町高良"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町小曽部
+    rdfs:label "不知火町小曽部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町御領
+    rdfs:label "不知火町御領"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町長崎
+    rdfs:label "不知火町長崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市不知火町松合
+    rdfs:label "不知火町松合"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市豊野町糸石
+    rdfs:label "豊野町糸石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市豊野町上郷
+    rdfs:label "豊野町上郷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市豊野町下郷
+    rdfs:label "豊野町下郷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市豊野町巣林
+    rdfs:label "豊野町巣林"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市豊野町中間
+    rdfs:label "豊野町中間"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市豊野町安見
+    rdfs:label "豊野町安見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市豊野町山崎
+    rdfs:label "豊野町山崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町浅川
+    rdfs:label "松橋町浅川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町内田
+    rdfs:label "松橋町内田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町浦川内
+    rdfs:label "松橋町浦川内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町大野
+    rdfs:label "松橋町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町きらら
+    rdfs:label "松橋町きらら"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町久具
+    rdfs:label "松橋町久具"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町古保山
+    rdfs:label "松橋町古保山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町砂川
+    rdfs:label "松橋町砂川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町竹崎
+    rdfs:label "松橋町竹崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町豊崎
+    rdfs:label "松橋町豊崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町豊福
+    rdfs:label "松橋町豊福"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町西下郷
+    rdfs:label "松橋町西下郷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町萩尾
+    rdfs:label "松橋町萩尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町東松崎
+    rdfs:label "松橋町東松崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町曲野
+    rdfs:label "松橋町曲野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町松橋
+    rdfs:label "松橋町松橋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町松山
+    rdfs:label "松橋町松山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町南豊崎
+    rdfs:label "松橋町南豊崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町御船
+    rdfs:label "松橋町御船"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市松橋町両仲間
+    rdfs:label "松橋町両仲間"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町大口
+    rdfs:label "三角町大口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町大田尾
+    rdfs:label "三角町大田尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町郡浦
+    rdfs:label "三角町郡浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町里浦
+    rdfs:label "三角町里浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町手場
+    rdfs:label "三角町手場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町戸馳
+    rdfs:label "三角町戸馳"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町中村
+    rdfs:label "三角町中村"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町波多
+    rdfs:label "三角町波多"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町前越
+    rdfs:label "三角町前越"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県宇城市三角町三角浦
+    rdfs:label "三角町三角浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市
+    rdfs:label "阿蘇市"@ja ;
+    mo:AreaCode "43214" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市赤水 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市跡ケ瀬 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市一の宮町荻の草 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市一の宮町北坂梨 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市一の宮町坂梨 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市一の宮町三野 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市一の宮町手野 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市一の宮町中坂梨 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市一の宮町中通 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市一の宮町宮地 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市今町 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市内牧 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市小倉 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市小里 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市乙姫 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市小野田 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市狩尾 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市蔵原 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市車帰 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市黒川 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市黒流町 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市小池 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市竹原 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市永草 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市波野赤仁田 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市波野小園 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市波野小地野 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市波野新波野 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市波野滝水 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市波野中江 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市波野波野 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市西小園 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市西町 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市西湯浦 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市的石 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市三久保 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市南宮原 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市無田 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市役犬原 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市山田 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市湯浦 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県阿蘇市赤水
+    rdfs:label "赤水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市跡ケ瀬
+    rdfs:label "跡ケ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市一の宮町荻の草
+    rdfs:label "一の宮町荻の草"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市一の宮町北坂梨
+    rdfs:label "一の宮町北坂梨"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市一の宮町坂梨
+    rdfs:label "一の宮町坂梨"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市一の宮町三野
+    rdfs:label "一の宮町三野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市一の宮町手野
+    rdfs:label "一の宮町手野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市一の宮町中坂梨
+    rdfs:label "一の宮町中坂梨"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市一の宮町中通
+    rdfs:label "一の宮町中通"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市一の宮町宮地
+    rdfs:label "一の宮町宮地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市今町
+    rdfs:label "今町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市内牧
+    rdfs:label "内牧"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市小倉
+    rdfs:label "小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市小里
+    rdfs:label "小里"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市乙姫
+    rdfs:label "乙姫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市小野田
+    rdfs:label "小野田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市狩尾
+    rdfs:label "狩尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市蔵原
+    rdfs:label "蔵原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市車帰
+    rdfs:label "車帰"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市黒川
+    rdfs:label "黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市黒流町
+    rdfs:label "黒流町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市小池
+    rdfs:label "小池"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市竹原
+    rdfs:label "竹原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市永草
+    rdfs:label "永草"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市波野赤仁田
+    rdfs:label "波野赤仁田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市波野小園
+    rdfs:label "波野小園"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市波野小地野
+    rdfs:label "波野小地野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市波野新波野
+    rdfs:label "波野新波野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市波野滝水
+    rdfs:label "波野滝水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市波野中江
+    rdfs:label "波野中江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市波野波野
+    rdfs:label "波野波野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市西小園
+    rdfs:label "西小園"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市西湯浦
+    rdfs:label "西湯浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市的石
+    rdfs:label "的石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市三久保
+    rdfs:label "三久保"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市南宮原
+    rdfs:label "南宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市無田
+    rdfs:label "無田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市役犬原
+    rdfs:label "役犬原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市山田
+    rdfs:label "山田"@ja ;
+    mo:SubRegion mr:JP_熊本県阿蘇市山田蔵床 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市山田橋台 ;
+    mo:SubRegion mr:JP_熊本県阿蘇市山田茗ケ原 ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市山田蔵床
+    rdfs:label "蔵床"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市山田橋台
+    rdfs:label "橋台"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市山田茗ケ原
+    rdfs:label "茗ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇市湯浦
+    rdfs:label "湯浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市
+    rdfs:label "天草市"@ja ;
+    mo:AreaCode "43215" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県天草市旭町 ;
+    mo:SubRegion mr:JP_熊本県天草市天草町大江 ;
+    mo:SubRegion mr:JP_熊本県天草市天草町大江軍浦 ;
+    mo:SubRegion mr:JP_熊本県天草市天草町大江向 ;
+    mo:SubRegion mr:JP_熊本県天草市天草町下田北 ;
+    mo:SubRegion mr:JP_熊本県天草市天草町下田南 ;
+    mo:SubRegion mr:JP_熊本県天草市天草町高浜北 ;
+    mo:SubRegion mr:JP_熊本県天草市天草町高浜南 ;
+    mo:SubRegion mr:JP_熊本県天草市天草町福連木 ;
+    mo:SubRegion mr:JP_熊本県天草市有明町赤崎 ;
+    mo:SubRegion mr:JP_熊本県天草市有明町大浦 ;
+    mo:SubRegion mr:JP_熊本県天草市有明町大島子 ;
+    mo:SubRegion mr:JP_熊本県天草市有明町楠甫 ;
+    mo:SubRegion mr:JP_熊本県天草市有明町上津浦 ;
+    mo:SubRegion mr:JP_熊本県天草市有明町小島子 ;
+    mo:SubRegion mr:JP_熊本県天草市有明町下津浦 ;
+    mo:SubRegion mr:JP_熊本県天草市有明町須子 ;
+    mo:SubRegion mr:JP_熊本県天草市五和町鬼池 ;
+    mo:SubRegion mr:JP_熊本県天草市五和町御領 ;
+    mo:SubRegion mr:JP_熊本県天草市五和町城河原 ;
+    mo:SubRegion mr:JP_熊本県天草市五和町手野 ;
+    mo:SubRegion mr:JP_熊本県天草市五和町二江 ;
+    mo:SubRegion mr:JP_熊本県天草市今釜新町 ;
+    mo:SubRegion mr:JP_熊本県天草市今釜町 ;
+    mo:SubRegion mr:JP_熊本県天草市牛深町 ;
+    mo:SubRegion mr:JP_熊本県天草市太田町 ;
+    mo:SubRegion mr:JP_熊本県天草市大浜町 ;
+    mo:SubRegion mr:JP_熊本県天草市魚貫町 ;
+    mo:SubRegion mr:JP_熊本県天草市亀場町亀川 ;
+    mo:SubRegion mr:JP_熊本県天草市亀場町食場 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町今田 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町今富 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町河浦 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町崎津 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町白木河内 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町新合 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町立原 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町久留 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町宮野河内 ;
+    mo:SubRegion mr:JP_熊本県天草市河浦町路木 ;
+    mo:SubRegion mr:JP_熊本県天草市川原新町 ;
+    mo:SubRegion mr:JP_熊本県天草市川原町 ;
+    mo:SubRegion mr:JP_熊本県天草市北浜町 ;
+    mo:SubRegion mr:JP_熊本県天草市北原町 ;
+    mo:SubRegion mr:JP_熊本県天草市楠浦町 ;
+    mo:SubRegion mr:JP_熊本県天草市久玉町 ;
+    mo:SubRegion mr:JP_熊本県天草市倉岳町浦 ;
+    mo:SubRegion mr:JP_熊本県天草市倉岳町棚底 ;
+    mo:SubRegion mr:JP_熊本県天草市倉岳町宮田 ;
+    mo:SubRegion mr:JP_熊本県天草市御所浦町御所浦 ;
+    mo:SubRegion mr:JP_熊本県天草市御所浦町牧島 ;
+    mo:SubRegion mr:JP_熊本県天草市御所浦町横浦 ;
+    mo:SubRegion mr:JP_熊本県天草市小松原町 ;
+    mo:SubRegion mr:JP_熊本県天草市佐伊津町 ;
+    mo:SubRegion mr:JP_熊本県天草市栄町 ;
+    mo:SubRegion mr:JP_熊本県天草市志柿町 ;
+    mo:SubRegion mr:JP_熊本県天草市下浦町 ;
+    mo:SubRegion mr:JP_熊本県天草市城下町 ;
+    mo:SubRegion mr:JP_熊本県天草市浄南町 ;
+    mo:SubRegion mr:JP_熊本県天草市新和町碇石 ;
+    mo:SubRegion mr:JP_熊本県天草市新和町大多尾 ;
+    mo:SubRegion mr:JP_熊本県天草市新和町大宮地 ;
+    mo:SubRegion mr:JP_熊本県天草市新和町小宮地 ;
+    mo:SubRegion mr:JP_熊本県天草市新和町中田 ;
+    mo:SubRegion mr:JP_熊本県天草市栖本町打田 ;
+    mo:SubRegion mr:JP_熊本県天草市栖本町河内 ;
+    mo:SubRegion mr:JP_熊本県天草市栖本町馬場 ;
+    mo:SubRegion mr:JP_熊本県天草市栖本町古江 ;
+    mo:SubRegion mr:JP_熊本県天草市栖本町湯船原 ;
+    mo:SubRegion mr:JP_熊本県天草市諏訪町 ;
+    mo:SubRegion mr:JP_熊本県天草市瀬戸町 ;
+    mo:SubRegion mr:JP_熊本県天草市中央新町 ;
+    mo:SubRegion mr:JP_熊本県天草市中村町 ;
+    mo:SubRegion mr:JP_熊本県天草市枦宇土町 ;
+    mo:SubRegion mr:JP_熊本県天草市八幡町 ;
+    mo:SubRegion mr:JP_熊本県天草市浜崎町 ;
+    mo:SubRegion mr:JP_熊本県天草市東浜町 ;
+    mo:SubRegion mr:JP_熊本県天草市東町 ;
+    mo:SubRegion mr:JP_熊本県天草市深海町 ;
+    mo:SubRegion mr:JP_熊本県天草市二浦町亀浦 ;
+    mo:SubRegion mr:JP_熊本県天草市二浦町早浦 ;
+    mo:SubRegion mr:JP_熊本県天草市船之尾町 ;
+    mo:SubRegion mr:JP_熊本県天草市古川町 ;
+    mo:SubRegion mr:JP_熊本県天草市本渡町広瀬 ;
+    mo:SubRegion mr:JP_熊本県天草市本渡町本渡 ;
+    mo:SubRegion mr:JP_熊本県天草市本渡町本戸馬場 ;
+    mo:SubRegion mr:JP_熊本県天草市本渡町本泉 ;
+    mo:SubRegion mr:JP_熊本県天草市本町下河内 ;
+    mo:SubRegion mr:JP_熊本県天草市本町新休 ;
+    mo:SubRegion mr:JP_熊本県天草市本町本 ;
+    mo:SubRegion mr:JP_熊本県天草市丸尾町 ;
+    mo:SubRegion mr:JP_熊本県天草市港町 ;
+    mo:SubRegion mr:JP_熊本県天草市南新町 ;
+    mo:SubRegion mr:JP_熊本県天草市南町 ;
+    mo:SubRegion mr:JP_熊本県天草市宮地岳町 ;
+    mo:SubRegion mr:JP_熊本県天草市山の手町 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県天草市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市天草町大江
+    rdfs:label "天草町大江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市天草町大江軍浦
+    rdfs:label "天草町大江軍浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市天草町大江向
+    rdfs:label "天草町大江向"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市天草町下田北
+    rdfs:label "天草町下田北"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市天草町下田南
+    rdfs:label "天草町下田南"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市天草町高浜北
+    rdfs:label "天草町高浜北"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市天草町高浜南
+    rdfs:label "天草町高浜南"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市天草町福連木
+    rdfs:label "天草町福連木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市有明町赤崎
+    rdfs:label "有明町赤崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市有明町大浦
+    rdfs:label "有明町大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市有明町大島子
+    rdfs:label "有明町大島子"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市有明町楠甫
+    rdfs:label "有明町楠甫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市有明町上津浦
+    rdfs:label "有明町上津浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市有明町小島子
+    rdfs:label "有明町小島子"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市有明町下津浦
+    rdfs:label "有明町下津浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市有明町須子
+    rdfs:label "有明町須子"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市五和町鬼池
+    rdfs:label "五和町鬼池"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市五和町御領
+    rdfs:label "五和町御領"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市五和町城河原
+    rdfs:label "五和町城河原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市五和町手野
+    rdfs:label "五和町手野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市五和町二江
+    rdfs:label "五和町二江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市今釜新町
+    rdfs:label "今釜新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市今釜町
+    rdfs:label "今釜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市牛深町
+    rdfs:label "牛深町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市太田町
+    rdfs:label "太田町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市大浜町
+    rdfs:label "大浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市魚貫町
+    rdfs:label "魚貫町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市亀場町亀川
+    rdfs:label "亀場町亀川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市亀場町食場
+    rdfs:label "亀場町食場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町今田
+    rdfs:label "河浦町今田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町今富
+    rdfs:label "河浦町今富"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町河浦
+    rdfs:label "河浦町河浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町崎津
+    rdfs:label "河浦町崎津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町白木河内
+    rdfs:label "河浦町白木河内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町新合
+    rdfs:label "河浦町新合"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町立原
+    rdfs:label "河浦町立原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町久留
+    rdfs:label "河浦町久留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町宮野河内
+    rdfs:label "河浦町宮野河内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市河浦町路木
+    rdfs:label "河浦町路木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市川原新町
+    rdfs:label "川原新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市川原町
+    rdfs:label "川原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市北浜町
+    rdfs:label "北浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市北原町
+    rdfs:label "北原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市楠浦町
+    rdfs:label "楠浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市久玉町
+    rdfs:label "久玉町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市倉岳町浦
+    rdfs:label "倉岳町浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市倉岳町棚底
+    rdfs:label "倉岳町棚底"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市倉岳町宮田
+    rdfs:label "倉岳町宮田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市御所浦町御所浦
+    rdfs:label "御所浦町御所浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市御所浦町牧島
+    rdfs:label "御所浦町牧島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市御所浦町横浦
+    rdfs:label "御所浦町横浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市小松原町
+    rdfs:label "小松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市佐伊津町
+    rdfs:label "佐伊津町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市志柿町
+    rdfs:label "志柿町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市下浦町
+    rdfs:label "下浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市城下町
+    rdfs:label "城下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市浄南町
+    rdfs:label "浄南町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市新和町碇石
+    rdfs:label "新和町碇石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市新和町大多尾
+    rdfs:label "新和町大多尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市新和町大宮地
+    rdfs:label "新和町大宮地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市新和町小宮地
+    rdfs:label "新和町小宮地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市新和町中田
+    rdfs:label "新和町中田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市栖本町打田
+    rdfs:label "栖本町打田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市栖本町河内
+    rdfs:label "栖本町河内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市栖本町馬場
+    rdfs:label "栖本町馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市栖本町古江
+    rdfs:label "栖本町古江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市栖本町湯船原
+    rdfs:label "栖本町湯船原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市諏訪町
+    rdfs:label "諏訪町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市瀬戸町
+    rdfs:label "瀬戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市中央新町
+    rdfs:label "中央新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市中村町
+    rdfs:label "中村町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市枦宇土町
+    rdfs:label "枦宇土町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市浜崎町
+    rdfs:label "浜崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市東浜町
+    rdfs:label "東浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市深海町
+    rdfs:label "深海町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市二浦町亀浦
+    rdfs:label "二浦町亀浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市二浦町早浦
+    rdfs:label "二浦町早浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市船之尾町
+    rdfs:label "船之尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市古川町
+    rdfs:label "古川町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市本渡町広瀬
+    rdfs:label "本渡町広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市本渡町本渡
+    rdfs:label "本渡町本渡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市本渡町本戸馬場
+    rdfs:label "本渡町本戸馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市本渡町本泉
+    rdfs:label "本渡町本泉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市本町下河内
+    rdfs:label "本町下河内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市本町新休
+    rdfs:label "本町新休"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市本町本
+    rdfs:label "本町本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市丸尾町
+    rdfs:label "丸尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市南新町
+    rdfs:label "南新町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市宮地岳町
+    rdfs:label "宮地岳町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草市山の手町
+    rdfs:label "山の手町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市
+    rdfs:label "合志市"@ja ;
+    mo:AreaCode "43216" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県合志市合生 ;
+    mo:SubRegion mr:JP_熊本県合志市上庄 ;
+    mo:SubRegion mr:JP_熊本県合志市幾久富 ;
+    mo:SubRegion mr:JP_熊本県合志市栄 ;
+    mo:SubRegion mr:JP_熊本県合志市須屋 ;
+    mo:SubRegion mr:JP_熊本県合志市竹迫 ;
+    mo:SubRegion mr:JP_熊本県合志市豊岡 ;
+    mo:SubRegion mr:JP_熊本県合志市野々島 ;
+    mo:SubRegion mr:JP_熊本県合志市福原 ;
+    mo:SubRegion mr:JP_熊本県合志市御代志 ;
+    mo:SubRegion mr:JP_熊本県合志市上生 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県合志市合生
+    rdfs:label "合生"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市上庄
+    rdfs:label "上庄"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市幾久富
+    rdfs:label "幾久富"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市栄
+    rdfs:label "栄"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市須屋
+    rdfs:label "須屋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市竹迫
+    rdfs:label "竹迫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市豊岡
+    rdfs:label "豊岡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市野々島
+    rdfs:label "野々島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市福原
+    rdfs:label "福原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市御代志
+    rdfs:label "御代志"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県合志市上生
+    rdfs:label "上生"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町
+    rdfs:label "下益城郡美里町"@ja ;
+    mo:AreaCode "43348" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町安部 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町石野 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町今 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町岩下 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町岩野 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町畝野 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町大井早 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町大窪 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町大沢水 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町柏川 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町堅志田 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町萱野 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町川越 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町木早川内 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町清水 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町栗崎 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町小市野 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町甲佐平 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町古閑 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町小筵 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町境 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町坂貫 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町坂本 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町佐俣 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町三加 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町白石野 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町土喰 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町椿 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町津留 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町遠野 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町豊富 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町中 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町長尾野 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町中郡 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町中小路 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町永富 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町名越谷 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町二和田 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町馬場 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町早楠 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町払川 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町原田 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町原町 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町洞岳 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町松野原 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町三和 ;
+    mo:SubRegion mr:JP_熊本県下益城郡美里町涌井 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県下益城郡美里町安部
+    rdfs:label "安部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町石野
+    rdfs:label "石野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町今
+    rdfs:label "今"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町岩下
+    rdfs:label "岩下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町岩野
+    rdfs:label "岩野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町畝野
+    rdfs:label "畝野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町大井早
+    rdfs:label "大井早"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町大窪
+    rdfs:label "大窪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町大沢水
+    rdfs:label "大沢水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町柏川
+    rdfs:label "柏川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町堅志田
+    rdfs:label "堅志田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町萱野
+    rdfs:label "萱野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町川越
+    rdfs:label "川越"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町木早川内
+    rdfs:label "木早川内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町栗崎
+    rdfs:label "栗崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町小市野
+    rdfs:label "小市野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町甲佐平
+    rdfs:label "甲佐平"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町古閑
+    rdfs:label "古閑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町小筵
+    rdfs:label "小筵"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町境
+    rdfs:label "境"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町坂貫
+    rdfs:label "坂貫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町坂本
+    rdfs:label "坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町佐俣
+    rdfs:label "佐俣"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町三加
+    rdfs:label "三加"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町白石野
+    rdfs:label "白石野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町土喰
+    rdfs:label "土喰"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町椿
+    rdfs:label "椿"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町津留
+    rdfs:label "津留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町遠野
+    rdfs:label "遠野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町豊富
+    rdfs:label "豊富"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町長尾野
+    rdfs:label "長尾野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町中郡
+    rdfs:label "中郡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町中小路
+    rdfs:label "中小路"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町永富
+    rdfs:label "永富"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町名越谷
+    rdfs:label "名越谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町二和田
+    rdfs:label "二和田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町馬場
+    rdfs:label "馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町早楠
+    rdfs:label "早楠"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町払川
+    rdfs:label "払川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町原田
+    rdfs:label "原田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町洞岳
+    rdfs:label "洞岳"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町松野原
+    rdfs:label "松野原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町三和
+    rdfs:label "三和"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県下益城郡美里町涌井
+    rdfs:label "涌井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町
+    rdfs:label "玉名郡玉東町"@ja ;
+    mo:AreaCode "43364" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町稲佐 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町浦田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町上木葉 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町上白木 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町木葉 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町西安寺 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町白木 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町原倉 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町二俣 ;
+    mo:SubRegion mr:JP_熊本県玉名郡玉東町山口 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県玉名郡玉東町稲佐
+    rdfs:label "稲佐"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町浦田
+    rdfs:label "浦田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町上木葉
+    rdfs:label "上木葉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町上白木
+    rdfs:label "上白木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町木葉
+    rdfs:label "木葉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町西安寺
+    rdfs:label "西安寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町白木
+    rdfs:label "白木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町原倉
+    rdfs:label "原倉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町二俣
+    rdfs:label "二俣"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡玉東町山口
+    rdfs:label "山口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町
+    rdfs:label "玉名郡南関町"@ja ;
+    mo:AreaCode "43367" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町相谷 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町今 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町上坂下 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町上長田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町久重 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町肥猪 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町肥猪町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町小原 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町下坂下 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町関下 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町関外目 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町関町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町関村 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町関東 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町高久野 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町豊永 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町長山 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町細永 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町宮尾 ;
+    mo:SubRegion mr:JP_熊本県玉名郡南関町四ツ原 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県玉名郡南関町相谷
+    rdfs:label "相谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町今
+    rdfs:label "今"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町上坂下
+    rdfs:label "上坂下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町上長田
+    rdfs:label "上長田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町久重
+    rdfs:label "久重"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町肥猪
+    rdfs:label "肥猪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町肥猪町
+    rdfs:label "肥猪町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町小原
+    rdfs:label "小原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町下坂下
+    rdfs:label "下坂下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町関下
+    rdfs:label "関下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町関外目
+    rdfs:label "関外目"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町関町
+    rdfs:label "関町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町関村
+    rdfs:label "関村"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町関東
+    rdfs:label "関東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町高久野
+    rdfs:label "高久野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町豊永
+    rdfs:label "豊永"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町長山
+    rdfs:label "長山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町細永
+    rdfs:label "細永"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町宮尾
+    rdfs:label "宮尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡南関町四ツ原
+    rdfs:label "四ツ原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町
+    rdfs:label "玉名郡長洲町"@ja ;
+    mo:AreaCode "43368" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町有明 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町梅田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町折崎 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町上沖洲 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町清源寺 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町高浜 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町永塩 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町長洲 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町腹赤 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町姫ケ浦 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町宮野 ;
+    mo:SubRegion mr:JP_熊本県玉名郡長洲町名石浜 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県玉名郡長洲町有明
+    rdfs:label "有明"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町梅田
+    rdfs:label "梅田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町折崎
+    rdfs:label "折崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町上沖洲
+    rdfs:label "上沖洲"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町清源寺
+    rdfs:label "清源寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町高浜
+    rdfs:label "高浜"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町永塩
+    rdfs:label "永塩"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町長洲
+    rdfs:label "長洲"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町腹赤
+    rdfs:label "腹赤"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町姫ケ浦
+    rdfs:label "姫ケ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町宮野
+    rdfs:label "宮野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡長洲町名石浜
+    rdfs:label "名石浜"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町
+    rdfs:label "玉名郡和水町"@ja ;
+    mo:AreaCode "43369" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町板楠 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町岩 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町岩尻 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町内田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町江栗 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町江田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町榎原 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町大田黒 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町大屋 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町竈門 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町上板楠 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町上十町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町上和仁 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町久米野 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町志口永 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町下津原 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町瀬川 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町高野 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町津田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町長小田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町中十町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町中林 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町中和仁 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町西吉地 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町野田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町萩原 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町原口 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町東吉地 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町久井原 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町日平 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町平野 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町藤田 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町蜻浦 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町前原 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町米渡尾 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町用木 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町焼米 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町山十町 ;
+    mo:SubRegion mr:JP_熊本県玉名郡和水町和仁 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県玉名郡和水町板楠
+    rdfs:label "板楠"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町岩
+    rdfs:label "岩"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町岩尻
+    rdfs:label "岩尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町内田
+    rdfs:label "内田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町江栗
+    rdfs:label "江栗"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町江田
+    rdfs:label "江田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町榎原
+    rdfs:label "榎原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町大田黒
+    rdfs:label "大田黒"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町大屋
+    rdfs:label "大屋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町竈門
+    rdfs:label "竈門"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町上板楠
+    rdfs:label "上板楠"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町上十町
+    rdfs:label "上十町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町上和仁
+    rdfs:label "上和仁"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町久米野
+    rdfs:label "久米野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町志口永
+    rdfs:label "志口永"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町下津原
+    rdfs:label "下津原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町瀬川
+    rdfs:label "瀬川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町高野
+    rdfs:label "高野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町津田
+    rdfs:label "津田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町長小田
+    rdfs:label "長小田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町中十町
+    rdfs:label "中十町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町中林
+    rdfs:label "中林"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町中和仁
+    rdfs:label "中和仁"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町西吉地
+    rdfs:label "西吉地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町萩原
+    rdfs:label "萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町原口
+    rdfs:label "原口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町東吉地
+    rdfs:label "東吉地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町久井原
+    rdfs:label "久井原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町日平
+    rdfs:label "日平"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町藤田
+    rdfs:label "藤田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町蜻浦
+    rdfs:label "蜻浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町前原
+    rdfs:label "前原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町米渡尾
+    rdfs:label "米渡尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町用木
+    rdfs:label "用木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町焼米
+    rdfs:label "焼米"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町山十町
+    rdfs:label "山十町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県玉名郡和水町和仁
+    rdfs:label "和仁"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町
+    rdfs:label "菊池郡大津町"@ja ;
+    mo:AreaCode "43403" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町岩坂 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町大津 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町大林 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町下町 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町新 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町陣内 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町杉水 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町瀬田 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町高尾野 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町中島 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町錦野 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町灰塚 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町引水 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町平川 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町吹田 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町古城 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町外牧 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町真木 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町町 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町美咲野 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町室 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町森 ;
+    mo:SubRegion mr:JP_熊本県菊池郡大津町矢護川 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県菊池郡大津町岩坂
+    rdfs:label "岩坂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町大津
+    rdfs:label "大津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町大林
+    rdfs:label "大林"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町下町
+    rdfs:label "下町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町新
+    rdfs:label "新"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町陣内
+    rdfs:label "陣内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町杉水
+    rdfs:label "杉水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町瀬田
+    rdfs:label "瀬田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町高尾野
+    rdfs:label "高尾野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町中島
+    rdfs:label "中島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町錦野
+    rdfs:label "錦野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町灰塚
+    rdfs:label "灰塚"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町引水
+    rdfs:label "引水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町平川
+    rdfs:label "平川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町吹田
+    rdfs:label "吹田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町古城
+    rdfs:label "古城"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町外牧
+    rdfs:label "外牧"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町真木
+    rdfs:label "真木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町町
+    rdfs:label "町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町美咲野
+    rdfs:label "美咲野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町室
+    rdfs:label "室"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡大津町矢護川
+    rdfs:label "矢護川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町
+    rdfs:label "菊池郡菊陽町"@ja ;
+    mo:AreaCode "43404" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町沖野 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町辛川 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町久保田 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町向陽台 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町新山 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町杉並台 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町津久礼 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町戸次 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町花立 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町馬場楠 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町原水 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町光の森 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町曲手 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町武蔵ヶ丘 ;
+    mo:SubRegion mr:JP_熊本県菊池郡菊陽町武蔵ヶ丘北 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県菊池郡菊陽町沖野
+    rdfs:label "沖野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町辛川
+    rdfs:label "辛川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町久保田
+    rdfs:label "久保田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町向陽台
+    rdfs:label "向陽台"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町新山
+    rdfs:label "新山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町杉並台
+    rdfs:label "杉並台"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町津久礼
+    rdfs:label "津久礼"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町戸次
+    rdfs:label "戸次"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町花立
+    rdfs:label "花立"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町馬場楠
+    rdfs:label "馬場楠"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町原水
+    rdfs:label "原水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町光の森
+    rdfs:label "光の森"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町曲手
+    rdfs:label "曲手"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町武蔵ヶ丘
+    rdfs:label "武蔵ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県菊池郡菊陽町武蔵ヶ丘北
+    rdfs:label "武蔵ヶ丘北"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南小国町
+    rdfs:label "阿蘇郡南小国町"@ja ;
+    mo:AreaCode "43423" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南小国町赤馬場 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南小国町中原 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南小国町満願寺 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県阿蘇郡南小国町赤馬場
+    rdfs:label "赤馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南小国町中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南小国町満願寺
+    rdfs:label "満願寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡小国町
+    rdfs:label "阿蘇郡小国町"@ja ;
+    mo:AreaCode "43424" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡小国町上田 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡小国町北里 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡小国町黒渕 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡小国町下城 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡小国町西里 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡小国町宮原 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県阿蘇郡小国町上田
+    rdfs:label "上田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡小国町北里
+    rdfs:label "北里"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡小国町黒渕
+    rdfs:label "黒渕"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡小国町下城
+    rdfs:label "下城"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡小国町西里
+    rdfs:label "西里"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡小国町宮原
+    rdfs:label "宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡産山村
+    rdfs:label "阿蘇郡産山村"@ja ;
+    mo:AreaCode "43425" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡産山村産山 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡産山村大利 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡産山村片俣 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡産山村田尻 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡産山村山鹿 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県阿蘇郡産山村産山
+    rdfs:label "産山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡産山村大利
+    rdfs:label "大利"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡産山村片俣
+    rdfs:label "片俣"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡産山村田尻
+    rdfs:label "田尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡産山村山鹿
+    rdfs:label "山鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町
+    rdfs:label "阿蘇郡高森町"@ja ;
+    mo:AreaCode "43428" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町尾下 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町上色見 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町河原 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町草部 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町色見 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町下切 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町菅山 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町芹口 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町高森 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町津留 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町中 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町永野原 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町野尻 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡高森町矢津田 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県阿蘇郡高森町尾下
+    rdfs:label "尾下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町上色見
+    rdfs:label "上色見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町河原
+    rdfs:label "河原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町草部
+    rdfs:label "草部"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町色見
+    rdfs:label "色見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町下切
+    rdfs:label "下切"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町菅山
+    rdfs:label "菅山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町芹口
+    rdfs:label "芹口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町高森
+    rdfs:label "高森"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町津留
+    rdfs:label "津留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町永野原
+    rdfs:label "永野原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町野尻
+    rdfs:label "野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡高森町矢津田
+    rdfs:label "矢津田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡西原村
+    rdfs:label "阿蘇郡西原村"@ja ;
+    mo:AreaCode "43432" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡西原村河原 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡西原村小森 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡西原村鳥子 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡西原村布田 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡西原村宮山 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県阿蘇郡西原村河原
+    rdfs:label "河原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡西原村小森
+    rdfs:label "小森"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡西原村鳥子
+    rdfs:label "鳥子"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡西原村布田
+    rdfs:label "布田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡西原村宮山
+    rdfs:label "宮山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村
+    rdfs:label "阿蘇郡南阿蘇村"@ja ;
+    mo:AreaCode "43433" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村一関 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村河陰 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村河陽 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村下野 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村白川 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村立野 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村長野 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村中松 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村久石 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村吉田 ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村両併 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県阿蘇郡南阿蘇村一関
+    rdfs:label "一関"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村河陰
+    rdfs:label "河陰"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村河陽
+    rdfs:label "河陽"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村下野
+    rdfs:label "下野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村白川
+    rdfs:label "白川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村立野
+    rdfs:label "立野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村長野
+    rdfs:label "長野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村中松
+    rdfs:label "中松"@ja ;
+    mo:SubRegion mr:JP_熊本県阿蘇郡南阿蘇村中松古坊中 ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村中松古坊中
+    rdfs:label "古坊中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村久石
+    rdfs:label "久石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県阿蘇郡南阿蘇村両併
+    rdfs:label "両併"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町
+    rdfs:label "上益城郡御船町"@ja ;
+    mo:AreaCode "43441" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町上野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町小坂 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町木倉 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町陣 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町高木 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町滝尾 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町滝川 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町田代 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町豊秋 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町七滝 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町辺田見 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町水越 ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町御船 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県上益城郡御船町上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町小坂
+    rdfs:label "小坂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町木倉
+    rdfs:label "木倉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町陣
+    rdfs:label "陣"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町高木
+    rdfs:label "高木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町滝尾
+    rdfs:label "滝尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町滝川
+    rdfs:label "滝川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町田代
+    rdfs:label "田代"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町豊秋
+    rdfs:label "豊秋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町七滝
+    rdfs:label "七滝"@ja ;
+    mo:SubRegion mr:JP_熊本県上益城郡御船町七滝松ノ生 ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町七滝松ノ生
+    rdfs:label "松ノ生"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町辺田見
+    rdfs:label "辺田見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町水越
+    rdfs:label "水越"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡御船町御船
+    rdfs:label "御船"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町
+    rdfs:label "上益城郡嘉島町"@ja ;
+    mo:AreaCode "43442" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町井寺 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町犬渕 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町上島 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町上仲間 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町上六嘉 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町北甘木 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町下仲間 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町下六嘉 ;
+    mo:SubRegion mr:JP_熊本県上益城郡嘉島町鯰 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県上益城郡嘉島町井寺
+    rdfs:label "井寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町犬渕
+    rdfs:label "犬渕"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町上島
+    rdfs:label "上島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町上仲間
+    rdfs:label "上仲間"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町上六嘉
+    rdfs:label "上六嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町北甘木
+    rdfs:label "北甘木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町下仲間
+    rdfs:label "下仲間"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町下六嘉
+    rdfs:label "下六嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡嘉島町鯰
+    rdfs:label "鯰"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町
+    rdfs:label "上益城郡益城町"@ja ;
+    mo:AreaCode "43443" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町赤井 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町小池 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町小谷 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町上陳 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町木山 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町古閑 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町寺中 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町島田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町下陳 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町杉堂 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町惣領 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町田原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町辻の城 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町寺迫 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町砥川 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町平田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町広崎 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町福富 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町福原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町馬水 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町宮園 ;
+    mo:SubRegion mr:JP_熊本県上益城郡益城町安永 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県上益城郡益城町赤井
+    rdfs:label "赤井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町小池
+    rdfs:label "小池"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町小谷
+    rdfs:label "小谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町上陳
+    rdfs:label "上陳"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町木山
+    rdfs:label "木山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町古閑
+    rdfs:label "古閑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町寺中
+    rdfs:label "寺中"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町島田
+    rdfs:label "島田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町下陳
+    rdfs:label "下陳"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町杉堂
+    rdfs:label "杉堂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町惣領
+    rdfs:label "惣領"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町田原
+    rdfs:label "田原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町辻の城
+    rdfs:label "辻の城"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町寺迫
+    rdfs:label "寺迫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町砥川
+    rdfs:label "砥川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町平田
+    rdfs:label "平田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町広崎
+    rdfs:label "広崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町福富
+    rdfs:label "福富"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町福原
+    rdfs:label "福原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町馬水
+    rdfs:label "馬水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町宮園
+    rdfs:label "宮園"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡益城町安永
+    rdfs:label "安永"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町
+    rdfs:label "上益城郡甲佐町"@ja ;
+    mo:AreaCode "43444" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町麻生原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町有安 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町糸田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町岩下 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町大町 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町小鹿 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町上揚 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町上早川 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町坂谷 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町芝原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町下横田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町白旗 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町早川 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町田口 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町津志田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町豊内 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町中山 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町中横田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町西寒野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町西原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町仁田子 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町東寒野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町船津 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町府領 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町緑町 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町南三箇 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町安平 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町横田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町吉田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡甲佐町世持 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県上益城郡甲佐町麻生原
+    rdfs:label "麻生原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町有安
+    rdfs:label "有安"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町糸田
+    rdfs:label "糸田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町岩下
+    rdfs:label "岩下"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町大町
+    rdfs:label "大町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町小鹿
+    rdfs:label "小鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町上揚
+    rdfs:label "上揚"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町上早川
+    rdfs:label "上早川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町坂谷
+    rdfs:label "坂谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町芝原
+    rdfs:label "芝原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町下横田
+    rdfs:label "下横田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町白旗
+    rdfs:label "白旗"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町早川
+    rdfs:label "早川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町田口
+    rdfs:label "田口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町津志田
+    rdfs:label "津志田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町豊内
+    rdfs:label "豊内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町中横田
+    rdfs:label "中横田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町西寒野
+    rdfs:label "西寒野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町仁田子
+    rdfs:label "仁田子"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町東寒野
+    rdfs:label "東寒野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町船津
+    rdfs:label "船津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町府領
+    rdfs:label "府領"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町南三箇
+    rdfs:label "南三箇"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町安平
+    rdfs:label "安平"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡甲佐町世持
+    rdfs:label "世持"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町
+    rdfs:label "上益城郡山都町"@ja ;
+    mo:AreaCode "43447" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町麻山 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町芦屋田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町荒谷 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町伊勢 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町市野原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町市原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町犬飼 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町今 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町井無田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町入佐 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町大野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町大平 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町大見口 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町小笹 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町男成 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町尾野尻 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町小峰 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町柏 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町金内 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町鎌野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町上川井野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町上差尾 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町神ノ前 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町仮屋 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町川口 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町川野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町北中島 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町木原谷 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町葛原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町黒川 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町下馬尾 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町高月 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町郷野原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町御所 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町小中竹 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町猿渡 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町三ケ ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町塩出迫 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町塩原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町島木 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町下市 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町下川井野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町下名連石 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町下山 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町上寺 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町城原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町城平 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町白石 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町白小野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町白藤 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町新小 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町杉木 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町菅 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町菅尾 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町須原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町勢井 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町千滝 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町田小野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町高辻 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町高畑 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町滝上 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町橘 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町田所 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町玉目 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町田吉 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町津留 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町鶴ケ田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町長崎 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町長田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町長谷 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町長原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町成君 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町二瀬本 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町貫原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町野尻 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町畑 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町八木 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町花上 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町浜町 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町東竹原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町藤木 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町二津留 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町方ケ野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町仏原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町牧野 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町馬見原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町万坂 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町緑川 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町南田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町目丸 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町安方 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町柳井原 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町柳 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町山田 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町柚木 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町米生 ;
+    mo:SubRegion mr:JP_熊本県上益城郡山都町米迫 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県上益城郡山都町麻山
+    rdfs:label "麻山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町芦屋田
+    rdfs:label "芦屋田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町荒谷
+    rdfs:label "荒谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町伊勢
+    rdfs:label "伊勢"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町市野原
+    rdfs:label "市野原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町市原
+    rdfs:label "市原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町犬飼
+    rdfs:label "犬飼"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町今
+    rdfs:label "今"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町井無田
+    rdfs:label "井無田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町入佐
+    rdfs:label "入佐"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町大見口
+    rdfs:label "大見口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町小笹
+    rdfs:label "小笹"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町男成
+    rdfs:label "男成"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町尾野尻
+    rdfs:label "尾野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町小峰
+    rdfs:label "小峰"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町柏
+    rdfs:label "柏"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町金内
+    rdfs:label "金内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町鎌野
+    rdfs:label "鎌野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町上川井野
+    rdfs:label "上川井野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町上差尾
+    rdfs:label "上差尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町神ノ前
+    rdfs:label "神ノ前"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町仮屋
+    rdfs:label "仮屋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町川口
+    rdfs:label "川口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町川野
+    rdfs:label "川野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町北中島
+    rdfs:label "北中島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町木原谷
+    rdfs:label "木原谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町葛原
+    rdfs:label "葛原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町黒川
+    rdfs:label "黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町下馬尾
+    rdfs:label "下馬尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町高月
+    rdfs:label "高月"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町郷野原
+    rdfs:label "郷野原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町御所
+    rdfs:label "御所"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町小中竹
+    rdfs:label "小中竹"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町猿渡
+    rdfs:label "猿渡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町三ケ
+    rdfs:label "三ケ"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町塩出迫
+    rdfs:label "塩出迫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町塩原
+    rdfs:label "塩原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町島木
+    rdfs:label "島木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町下市
+    rdfs:label "下市"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町下川井野
+    rdfs:label "下川井野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町下名連石
+    rdfs:label "下名連石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町下山
+    rdfs:label "下山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町上寺
+    rdfs:label "上寺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町城原
+    rdfs:label "城原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町城平
+    rdfs:label "城平"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町白石
+    rdfs:label "白石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町白小野
+    rdfs:label "白小野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町白藤
+    rdfs:label "白藤"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町新小
+    rdfs:label "新小"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町杉木
+    rdfs:label "杉木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町菅
+    rdfs:label "菅"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町菅尾
+    rdfs:label "菅尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町須原
+    rdfs:label "須原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町勢井
+    rdfs:label "勢井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町千滝
+    rdfs:label "千滝"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町田小野
+    rdfs:label "田小野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町高辻
+    rdfs:label "高辻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町高畑
+    rdfs:label "高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町滝上
+    rdfs:label "滝上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町橘
+    rdfs:label "橘"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町田所
+    rdfs:label "田所"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町玉目
+    rdfs:label "玉目"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町田吉
+    rdfs:label "田吉"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町津留
+    rdfs:label "津留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町鶴ケ田
+    rdfs:label "鶴ケ田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町長崎
+    rdfs:label "長崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町長田
+    rdfs:label "長田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町長谷
+    rdfs:label "長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町長原
+    rdfs:label "長原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町成君
+    rdfs:label "成君"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町二瀬本
+    rdfs:label "二瀬本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町貫原
+    rdfs:label "貫原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町野尻
+    rdfs:label "野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町畑
+    rdfs:label "畑"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町八木
+    rdfs:label "八木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町花上
+    rdfs:label "花上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町東竹原
+    rdfs:label "東竹原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町藤木
+    rdfs:label "藤木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町二津留
+    rdfs:label "二津留"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町方ケ野
+    rdfs:label "方ケ野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町仏原
+    rdfs:label "仏原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町牧野
+    rdfs:label "牧野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町馬見原
+    rdfs:label "馬見原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町万坂
+    rdfs:label "万坂"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町緑川
+    rdfs:label "緑川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町南田
+    rdfs:label "南田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町目丸
+    rdfs:label "目丸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町安方
+    rdfs:label "安方"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町柳井原
+    rdfs:label "柳井原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町柳
+    rdfs:label "柳"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町柚木
+    rdfs:label "柚木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町米生
+    rdfs:label "米生"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県上益城郡山都町米迫
+    rdfs:label "米迫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町
+    rdfs:label "八代郡氷川町"@ja ;
+    mo:AreaCode "43468" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町網道 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町有佐 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町今 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町大野 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町栫 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町鹿島 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町鹿野 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町河原 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町島地 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町新田 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町高塚 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町立神 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町中島 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町野津 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町早尾 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町宮原 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町宮原栄久 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町吉本 ;
+    mo:SubRegion mr:JP_熊本県八代郡氷川町若洲 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県八代郡氷川町網道
+    rdfs:label "網道"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町有佐
+    rdfs:label "有佐"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町今
+    rdfs:label "今"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町栫
+    rdfs:label "栫"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町鹿島
+    rdfs:label "鹿島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町鹿野
+    rdfs:label "鹿野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町河原
+    rdfs:label "河原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町島地
+    rdfs:label "島地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町高塚
+    rdfs:label "高塚"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町立神
+    rdfs:label "立神"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町中島
+    rdfs:label "中島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町野津
+    rdfs:label "野津"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町早尾
+    rdfs:label "早尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町宮原
+    rdfs:label "宮原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町宮原栄久
+    rdfs:label "宮原栄久"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町吉本
+    rdfs:label "吉本"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県八代郡氷川町若洲
+    rdfs:label "若洲"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町
+    rdfs:label "葦北郡芦北町"@ja ;
+    mo:AreaCode "43482" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町芦北 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町天月 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町市野瀬 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町井牟田 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町海浦 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町上原 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町箙瀬 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町大岩 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町大川内 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町大尼田 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町大野 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町乙千屋 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町海路 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町国見 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町黒岩 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町桑原 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町小田浦 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町佐敷 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町塩浸 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町白石 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町白岩 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町白木 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町高岡 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町田川 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町立川 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町田浦 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町田浦町 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町告 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町鶴木山 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町豊岡 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町計石 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町波多島 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町花岡 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町伏木氏 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町古石 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町松生 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町丸山 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町道川内 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町宮崎 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町宮浦 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町女島 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町八幡 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町湯浦 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町横居木 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町吉尾 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町米田 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県葦北郡芦北町芦北
+    rdfs:label "芦北"@ja ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町芦北北田 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町芦北中割 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町芦北西割 ;
+    mo:SubRegion mr:JP_熊本県葦北郡芦北町芦北松崎 ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町芦北北田
+    rdfs:label "北田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町芦北中割
+    rdfs:label "中割"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町芦北西割
+    rdfs:label "西割"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町芦北松崎
+    rdfs:label "松崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町天月
+    rdfs:label "天月"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町市野瀬
+    rdfs:label "市野瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町井牟田
+    rdfs:label "井牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町海浦
+    rdfs:label "海浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町上原
+    rdfs:label "上原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町箙瀬
+    rdfs:label "箙瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町大岩
+    rdfs:label "大岩"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町大川内
+    rdfs:label "大川内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町大尼田
+    rdfs:label "大尼田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町乙千屋
+    rdfs:label "乙千屋"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町海路
+    rdfs:label "海路"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町国見
+    rdfs:label "国見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町黒岩
+    rdfs:label "黒岩"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町桑原
+    rdfs:label "桑原"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町小田浦
+    rdfs:label "小田浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町佐敷
+    rdfs:label "佐敷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町塩浸
+    rdfs:label "塩浸"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町白石
+    rdfs:label "白石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町白岩
+    rdfs:label "白岩"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町白木
+    rdfs:label "白木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町高岡
+    rdfs:label "高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町田川
+    rdfs:label "田川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町立川
+    rdfs:label "立川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町田浦
+    rdfs:label "田浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町田浦町
+    rdfs:label "田浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町告
+    rdfs:label "告"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町鶴木山
+    rdfs:label "鶴木山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町豊岡
+    rdfs:label "豊岡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町計石
+    rdfs:label "計石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町波多島
+    rdfs:label "波多島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町花岡
+    rdfs:label "花岡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町伏木氏
+    rdfs:label "伏木氏"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町古石
+    rdfs:label "古石"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町松生
+    rdfs:label "松生"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町丸山
+    rdfs:label "丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町道川内
+    rdfs:label "道川内"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町宮崎
+    rdfs:label "宮崎"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町宮浦
+    rdfs:label "宮浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町女島
+    rdfs:label "女島"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町湯浦
+    rdfs:label "湯浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町横居木
+    rdfs:label "横居木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町吉尾
+    rdfs:label "吉尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡芦北町米田
+    rdfs:label "米田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡津奈木町
+    rdfs:label "葦北郡津奈木町"@ja ;
+    mo:AreaCode "43484" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県葦北郡津奈木町岩城 ;
+    mo:SubRegion mr:JP_熊本県葦北郡津奈木町小津奈木 ;
+    mo:SubRegion mr:JP_熊本県葦北郡津奈木町千代 ;
+    mo:SubRegion mr:JP_熊本県葦北郡津奈木町津奈木 ;
+    mo:SubRegion mr:JP_熊本県葦北郡津奈木町福浜 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県葦北郡津奈木町岩城
+    rdfs:label "岩城"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡津奈木町小津奈木
+    rdfs:label "小津奈木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡津奈木町千代
+    rdfs:label "千代"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡津奈木町津奈木
+    rdfs:label "津奈木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県葦北郡津奈木町福浜
+    rdfs:label "福浜"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡錦町
+    rdfs:label "球磨郡錦町"@ja ;
+    mo:AreaCode "43501" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡錦町一武 ;
+    mo:SubRegion mr:JP_熊本県球磨郡錦町木上 ;
+    mo:SubRegion mr:JP_熊本県球磨郡錦町西 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡錦町一武
+    rdfs:label "一武"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡錦町木上
+    rdfs:label "木上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡錦町西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡多良木町
+    rdfs:label "球磨郡多良木町"@ja ;
+    mo:AreaCode "43505" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡多良木町奥野 ;
+    mo:SubRegion mr:JP_熊本県球磨郡多良木町久米 ;
+    mo:SubRegion mr:JP_熊本県球磨郡多良木町黒肥地 ;
+    mo:SubRegion mr:JP_熊本県球磨郡多良木町多良木 ;
+    mo:SubRegion mr:JP_熊本県球磨郡多良木町槻木 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡多良木町奥野
+    rdfs:label "奥野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡多良木町久米
+    rdfs:label "久米"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡多良木町黒肥地
+    rdfs:label "黒肥地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡多良木町多良木
+    rdfs:label "多良木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡多良木町槻木
+    rdfs:label "槻木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町
+    rdfs:label "球磨郡湯前町"@ja ;
+    mo:AreaCode "43506" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町浅ケ野 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町植木 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町上猪 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町上里 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町上染田 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町上村 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町下城 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町下里 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町下染田 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町下村 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町瀬戸口 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町田上 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町中猪 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町中里 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町野中田 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町馬場 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町浜川 ;
+    mo:SubRegion mr:JP_熊本県球磨郡湯前町古城 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡湯前町浅ケ野
+    rdfs:label "浅ケ野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町植木
+    rdfs:label "植木"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町上猪
+    rdfs:label "上猪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町上里
+    rdfs:label "上里"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町上染田
+    rdfs:label "上染田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町上村
+    rdfs:label "上村"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町下城
+    rdfs:label "下城"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町下里
+    rdfs:label "下里"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町下染田
+    rdfs:label "下染田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町下村
+    rdfs:label "下村"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町瀬戸口
+    rdfs:label "瀬戸口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町田上
+    rdfs:label "田上"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町中猪
+    rdfs:label "中猪"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町中里
+    rdfs:label "中里"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町野中田
+    rdfs:label "野中田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町馬場
+    rdfs:label "馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町浜川
+    rdfs:label "浜川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡湯前町古城
+    rdfs:label "古城"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡水上村
+    rdfs:label "球磨郡水上村"@ja ;
+    mo:AreaCode "43507" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡水上村岩野 ;
+    mo:SubRegion mr:JP_熊本県球磨郡水上村江代 ;
+    mo:SubRegion mr:JP_熊本県球磨郡水上村湯山 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡水上村岩野
+    rdfs:label "岩野"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡水上村江代
+    rdfs:label "江代"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡水上村湯山
+    rdfs:label "湯山"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡相良村
+    rdfs:label "球磨郡相良村"@ja ;
+    mo:AreaCode "43510" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡相良村川辺 ;
+    mo:SubRegion mr:JP_熊本県球磨郡相良村深水 ;
+    mo:SubRegion mr:JP_熊本県球磨郡相良村柳瀬 ;
+    mo:SubRegion mr:JP_熊本県球磨郡相良村四浦 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡相良村川辺
+    rdfs:label "川辺"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡相良村深水
+    rdfs:label "深水"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡相良村柳瀬
+    rdfs:label "柳瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡相良村四浦
+    rdfs:label "四浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡五木村
+    rdfs:label "球磨郡五木村"@ja ;
+    mo:AreaCode "43511" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡五木村甲 ;
+    mo:SubRegion mr:JP_熊本県球磨郡五木村乙 ;
+    mo:SubRegion mr:JP_熊本県球磨郡五木村丙 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡五木村甲
+    rdfs:label "甲"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡五木村乙
+    rdfs:label "乙"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡五木村丙
+    rdfs:label "丙"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡山江村
+    rdfs:label "球磨郡山江村"@ja ;
+    mo:AreaCode "43512" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡山江村万江 ;
+    mo:SubRegion mr:JP_熊本県球磨郡山江村山田 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡山江村万江
+    rdfs:label "万江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡山江村山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村
+    rdfs:label "球磨郡球磨村"@ja ;
+    mo:AreaCode "43513" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村一勝地 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村大瀬 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村神瀬 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村三ケ浦 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村渡 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡球磨村一勝地
+    rdfs:label "一勝地"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村大瀬
+    rdfs:label "大瀬"@ja ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村大瀬沢見 ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村大瀬沢見
+    rdfs:label "沢見"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村神瀬
+    rdfs:label "神瀬"@ja ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村神瀬大槻 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村神瀬蔵谷 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村神瀬坂口 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村神瀬高沢 ;
+    mo:SubRegion mr:JP_熊本県球磨郡球磨村神瀬横井 ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村神瀬大槻
+    rdfs:label "大槻"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村神瀬蔵谷
+    rdfs:label "蔵谷"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村神瀬坂口
+    rdfs:label "坂口"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村神瀬高沢
+    rdfs:label "高沢"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村神瀬横井
+    rdfs:label "横井"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村三ケ浦
+    rdfs:label "三ケ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡球磨村渡
+    rdfs:label "渡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町
+    rdfs:label "球磨郡あさぎり町"@ja ;
+    mo:AreaCode "43514" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町上東 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町上西 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町上南 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町上北 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町岡原南 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町岡原北 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町須恵 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町深田東 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町深田西 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町深田南 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町深田北 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町皆越 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町免田東 ;
+    mo:SubRegion mr:JP_熊本県球磨郡あさぎり町免田西 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県球磨郡あさぎり町上東
+    rdfs:label "上東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町上西
+    rdfs:label "上西"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町上南
+    rdfs:label "上南"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町上北
+    rdfs:label "上北"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町岡原南
+    rdfs:label "岡原南"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町岡原北
+    rdfs:label "岡原北"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町須恵
+    rdfs:label "須恵"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町深田東
+    rdfs:label "深田東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町深田西
+    rdfs:label "深田西"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町深田南
+    rdfs:label "深田南"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町深田北
+    rdfs:label "深田北"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町皆越
+    rdfs:label "皆越"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町免田東
+    rdfs:label "免田東"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県球磨郡あさぎり町免田西
+    rdfs:label "免田西"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草郡苓北町
+    rdfs:label "天草郡苓北町"@ja ;
+    mo:AreaCode "43531" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町内田 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町上津深江 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町坂瀬川 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町志岐 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町白木尾 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町年柄 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町富岡 ;
+    mo:SubRegion mr:JP_熊本県天草郡苓北町都呂々 ;
+a mo:GeoEntity .
+
+mr:JP_熊本県天草郡苓北町内田
+    rdfs:label "内田"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草郡苓北町上津深江
+    rdfs:label "上津深江"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草郡苓北町坂瀬川
+    rdfs:label "坂瀬川"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草郡苓北町志岐
+    rdfs:label "志岐"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草郡苓北町白木尾
+    rdfs:label "白木尾"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草郡苓北町年柄
+    rdfs:label "年柄"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草郡苓北町富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_熊本県天草郡苓北町都呂々
+    rdfs:label "都呂々"@ja ;
+    a mo:町域 .
+

@@ -1,0 +1,4421 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_佐賀県
+    a mo:都道府県 ;
+    rdfs:label "佐賀県"@ja ;
+    mo:AreaCode "41" ;
+    mo:SubRegion mr:JP_佐賀県佐賀市 ;
+    mo:SubRegion mr:JP_佐賀県唐津市 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市 ;
+    mo:SubRegion mr:JP_佐賀県多久市 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市 ;
+    mo:SubRegion mr:JP_佐賀県武雄市 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市 ;
+    mo:SubRegion mr:JP_佐賀県小城市 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市 ;
+    mo:SubRegion mr:JP_佐賀県神埼市 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡基山町 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡上峰町 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡大町町 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡江北町 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町 ;
+    a mo:GeoEntity .
+
+mr:JP_佐賀県佐賀市
+    rdfs:label "佐賀市"@ja ;
+    mo:AreaCode "41201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市愛敬町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市赤松町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市朝日町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市伊勢町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市今宿町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市駅前中央 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市駅南本町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大財 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大財北町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市鬼丸町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市卸本町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市開成 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市嘉瀬町扇町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市嘉瀬町荻野 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市嘉瀬町十五 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市嘉瀬町中原 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市神園 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町犬井道 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町大詫間 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町鹿江 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町小々森 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町南里 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町西古賀 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町早津江 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町早津江津 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川副町福富 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市川原町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市北川副町江上 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市北川副町新郷 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市北川副町光法 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市木原 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市金立町金立 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市金立町千布 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市金立町薬師丸 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市久保泉町上和泉 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市久保泉町川久保 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市久保泉町下和泉 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市久保田町江戸 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市久保田町久保田 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市久保田町新田 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市久保田町徳万 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市久保田町久富 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市神野東 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市神野西 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市巨勢町牛島 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市巨勢町高尾 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市巨勢町修理田 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市巨勢町東西 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市呉服元町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市紺屋町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市材木 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市栄町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市道祖元町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市下田町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市昭栄町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市城内 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市精町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市白山 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市新栄西 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市新栄東 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市新郷本町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市新生町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市新中町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市末広 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市成章町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市高木瀬団地 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市高木瀬東 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市高木瀬西 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市高木瀬町長瀬 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市高木瀬町東高木 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市高木町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市田代 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市多布施 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市中央本町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市天神 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市天祐 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市天祐団地 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市唐人 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市中折町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市中の小路 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市中の館町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市長瀬町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市鍋島 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市鍋島町蛎久 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市鍋島町鍋島 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市鍋島町森田 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市鍋島町八戸 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市鍋島町八戸溝 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市西魚町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市西田代 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市西与賀町今津 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市西与賀町相応津 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市西与賀町厘外 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市西与賀町高太郎 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市蓮池町蓮池 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市蓮池町古賀 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市蓮池町小松 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市蓮池町見島 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市八幡小路 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市八丁畷町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市光 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市東佐賀町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市東与賀町飯盛 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市東与賀町下古賀 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市東与賀町田中 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市日の出 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市兵庫町瓦町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市兵庫町藤木 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市兵庫町西渕 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市兵庫町渕 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市兵庫町若宮 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市兵庫北 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市兵庫南 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町市川 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町内野 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町梅野 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町大串 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町大野 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町小副川 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町鎌原 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町上合瀬 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町上熊川 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町上無津呂 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町栗並 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町古場 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町下合瀬 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町下熊川 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町下無津呂 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町杉山 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町関屋 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町苣木 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町中原 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町畑瀬 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町藤瀬 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町古湯 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町松瀬 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市富士町麻那古 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市堀川町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市本庄町鹿子 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市本庄町本庄 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市本庄町正里 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市本庄町末次 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市本庄町袋 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市松原 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市水ケ江 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市三瀬村藤原 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市三瀬村三瀬 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市三瀬村杠 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市緑小路 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市南佐賀 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市諸富町大堂 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市諸富町為重 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市諸富町寺井津 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市諸富町徳富 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市諸富町諸富津 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市諸富町山領 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市八戸 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市八戸溝 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市柳町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町池上 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町梅野 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町川上 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町久池井 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町久留間 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町名尾 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町尼寺 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町八反原 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町東山田 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市大和町松瀬 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市与賀町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市六座町 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市若楠 ;
+    mo:SubRegion mr:JP_佐賀県佐賀市若宮 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県佐賀市愛敬町
+    rdfs:label "愛敬町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市赤松町
+    rdfs:label "赤松町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市伊勢町
+    rdfs:label "伊勢町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市今宿町
+    rdfs:label "今宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市駅前中央
+    rdfs:label "駅前中央"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市駅南本町
+    rdfs:label "駅南本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大財
+    rdfs:label "大財"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大財北町
+    rdfs:label "大財北町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市鬼丸町
+    rdfs:label "鬼丸町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市卸本町
+    rdfs:label "卸本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市開成
+    rdfs:label "開成"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市嘉瀬町扇町
+    rdfs:label "嘉瀬町扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市嘉瀬町荻野
+    rdfs:label "嘉瀬町荻野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市嘉瀬町十五
+    rdfs:label "嘉瀬町十五"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市嘉瀬町中原
+    rdfs:label "嘉瀬町中原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市神園
+    rdfs:label "神園"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町犬井道
+    rdfs:label "川副町犬井道"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町大詫間
+    rdfs:label "川副町大詫間"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町鹿江
+    rdfs:label "川副町鹿江"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町小々森
+    rdfs:label "川副町小々森"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町南里
+    rdfs:label "川副町南里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町西古賀
+    rdfs:label "川副町西古賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町早津江
+    rdfs:label "川副町早津江"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町早津江津
+    rdfs:label "川副町早津江津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川副町福富
+    rdfs:label "川副町福富"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市川原町
+    rdfs:label "川原町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市北川副町江上
+    rdfs:label "北川副町江上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市北川副町新郷
+    rdfs:label "北川副町新郷"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市北川副町光法
+    rdfs:label "北川副町光法"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市木原
+    rdfs:label "木原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市金立町金立
+    rdfs:label "金立町金立"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市金立町千布
+    rdfs:label "金立町千布"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市金立町薬師丸
+    rdfs:label "金立町薬師丸"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市久保泉町上和泉
+    rdfs:label "久保泉町上和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市久保泉町川久保
+    rdfs:label "久保泉町川久保"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市久保泉町下和泉
+    rdfs:label "久保泉町下和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市久保田町江戸
+    rdfs:label "久保田町江戸"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市久保田町久保田
+    rdfs:label "久保田町久保田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市久保田町新田
+    rdfs:label "久保田町新田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市久保田町徳万
+    rdfs:label "久保田町徳万"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市久保田町久富
+    rdfs:label "久保田町久富"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市神野東
+    rdfs:label "神野東"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市神野西
+    rdfs:label "神野西"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市巨勢町牛島
+    rdfs:label "巨勢町牛島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市巨勢町高尾
+    rdfs:label "巨勢町高尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市巨勢町修理田
+    rdfs:label "巨勢町修理田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市巨勢町東西
+    rdfs:label "巨勢町東西"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市呉服元町
+    rdfs:label "呉服元町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市紺屋町
+    rdfs:label "紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市材木
+    rdfs:label "材木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市道祖元町
+    rdfs:label "道祖元町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市下田町
+    rdfs:label "下田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市昭栄町
+    rdfs:label "昭栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市城内
+    rdfs:label "城内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市精町
+    rdfs:label "精町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市白山
+    rdfs:label "白山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市新栄西
+    rdfs:label "新栄西"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市新栄東
+    rdfs:label "新栄東"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市新郷本町
+    rdfs:label "新郷本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市新生町
+    rdfs:label "新生町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市新中町
+    rdfs:label "新中町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市末広
+    rdfs:label "末広"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市成章町
+    rdfs:label "成章町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市高木瀬団地
+    rdfs:label "高木瀬団地"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市高木瀬東
+    rdfs:label "高木瀬東"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市高木瀬西
+    rdfs:label "高木瀬西"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市高木瀬町長瀬
+    rdfs:label "高木瀬町長瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市高木瀬町東高木
+    rdfs:label "高木瀬町東高木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市高木町
+    rdfs:label "高木町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市田代
+    rdfs:label "田代"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市多布施
+    rdfs:label "多布施"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市中央本町
+    rdfs:label "中央本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市天祐
+    rdfs:label "天祐"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市天祐団地
+    rdfs:label "天祐団地"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市唐人
+    rdfs:label "唐人"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市中折町
+    rdfs:label "中折町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市中の小路
+    rdfs:label "中の小路"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市中の館町
+    rdfs:label "中の館町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市長瀬町
+    rdfs:label "長瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市鍋島
+    rdfs:label "鍋島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市鍋島町蛎久
+    rdfs:label "鍋島町蛎久"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市鍋島町鍋島
+    rdfs:label "鍋島町鍋島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市鍋島町森田
+    rdfs:label "鍋島町森田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市鍋島町八戸
+    rdfs:label "鍋島町八戸"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市鍋島町八戸溝
+    rdfs:label "鍋島町八戸溝"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市西魚町
+    rdfs:label "西魚町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市西田代
+    rdfs:label "西田代"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市西与賀町今津
+    rdfs:label "西与賀町今津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市西与賀町相応津
+    rdfs:label "西与賀町相応津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市西与賀町厘外
+    rdfs:label "西与賀町厘外"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市西与賀町高太郎
+    rdfs:label "西与賀町高太郎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市蓮池町蓮池
+    rdfs:label "蓮池町蓮池"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市蓮池町古賀
+    rdfs:label "蓮池町古賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市蓮池町小松
+    rdfs:label "蓮池町小松"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市蓮池町見島
+    rdfs:label "蓮池町見島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市八幡小路
+    rdfs:label "八幡小路"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市八丁畷町
+    rdfs:label "八丁畷町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市光
+    rdfs:label "光"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市東佐賀町
+    rdfs:label "東佐賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市東与賀町飯盛
+    rdfs:label "東与賀町飯盛"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市東与賀町下古賀
+    rdfs:label "東与賀町下古賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市東与賀町田中
+    rdfs:label "東与賀町田中"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市日の出
+    rdfs:label "日の出"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市兵庫町瓦町
+    rdfs:label "兵庫町瓦町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市兵庫町藤木
+    rdfs:label "兵庫町藤木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市兵庫町西渕
+    rdfs:label "兵庫町西渕"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市兵庫町渕
+    rdfs:label "兵庫町渕"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市兵庫町若宮
+    rdfs:label "兵庫町若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市兵庫北
+    rdfs:label "兵庫北"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市兵庫南
+    rdfs:label "兵庫南"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町市川
+    rdfs:label "富士町市川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町内野
+    rdfs:label "富士町内野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町梅野
+    rdfs:label "富士町梅野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町大串
+    rdfs:label "富士町大串"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町大野
+    rdfs:label "富士町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町小副川
+    rdfs:label "富士町小副川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町鎌原
+    rdfs:label "富士町鎌原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町上合瀬
+    rdfs:label "富士町上合瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町上熊川
+    rdfs:label "富士町上熊川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町上無津呂
+    rdfs:label "富士町上無津呂"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町栗並
+    rdfs:label "富士町栗並"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町古場
+    rdfs:label "富士町古場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町下合瀬
+    rdfs:label "富士町下合瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町下熊川
+    rdfs:label "富士町下熊川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町下無津呂
+    rdfs:label "富士町下無津呂"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町杉山
+    rdfs:label "富士町杉山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町関屋
+    rdfs:label "富士町関屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町苣木
+    rdfs:label "富士町苣木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町中原
+    rdfs:label "富士町中原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町畑瀬
+    rdfs:label "富士町畑瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町藤瀬
+    rdfs:label "富士町藤瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町古湯
+    rdfs:label "富士町古湯"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町松瀬
+    rdfs:label "富士町松瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市富士町麻那古
+    rdfs:label "富士町麻那古"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市堀川町
+    rdfs:label "堀川町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市本庄町鹿子
+    rdfs:label "本庄町鹿子"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市本庄町本庄
+    rdfs:label "本庄町本庄"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市本庄町正里
+    rdfs:label "本庄町正里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市本庄町末次
+    rdfs:label "本庄町末次"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市本庄町袋
+    rdfs:label "本庄町袋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市水ケ江
+    rdfs:label "水ケ江"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市三瀬村藤原
+    rdfs:label "三瀬村藤原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市三瀬村三瀬
+    rdfs:label "三瀬村三瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市三瀬村杠
+    rdfs:label "三瀬村杠"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市緑小路
+    rdfs:label "緑小路"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市南佐賀
+    rdfs:label "南佐賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市諸富町大堂
+    rdfs:label "諸富町大堂"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市諸富町為重
+    rdfs:label "諸富町為重"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市諸富町寺井津
+    rdfs:label "諸富町寺井津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市諸富町徳富
+    rdfs:label "諸富町徳富"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市諸富町諸富津
+    rdfs:label "諸富町諸富津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市諸富町山領
+    rdfs:label "諸富町山領"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市八戸
+    rdfs:label "八戸"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市八戸溝
+    rdfs:label "八戸溝"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市柳町
+    rdfs:label "柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町池上
+    rdfs:label "大和町池上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町梅野
+    rdfs:label "大和町梅野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町川上
+    rdfs:label "大和町川上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町久池井
+    rdfs:label "大和町久池井"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町久留間
+    rdfs:label "大和町久留間"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町名尾
+    rdfs:label "大和町名尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町尼寺
+    rdfs:label "大和町尼寺"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町八反原
+    rdfs:label "大和町八反原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町東山田
+    rdfs:label "大和町東山田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市大和町松瀬
+    rdfs:label "大和町松瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市与賀町
+    rdfs:label "与賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市六座町
+    rdfs:label "六座町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市若楠
+    rdfs:label "若楠"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県佐賀市若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市
+    rdfs:label "唐津市"@ja ;
+    mo:AreaCode "41202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県唐津市旭が丘 ;
+    mo:SubRegion mr:JP_佐賀県唐津市朝日町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市石志 ;
+    mo:SubRegion mr:JP_佐賀県唐津市魚屋町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市宇木 ;
+    mo:SubRegion mr:JP_佐賀県唐津市後川内 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市江川町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市枝去木 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相賀 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町伊岐佐 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町相知 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町大野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町楠 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町久保 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町黒岩 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町佐里 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町千束 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町田頭 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町鷹取 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町町切 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町長部田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町中山 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町平山上 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町平山下 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町牟田部 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町山崎 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町湯屋 ;
+    mo:SubRegion mr:JP_佐賀県唐津市相知町横枕 ;
+    mo:SubRegion mr:JP_佐賀県唐津市大石町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市海岸通 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鏡 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鏡新開 ;
+    mo:SubRegion mr:JP_佐賀県唐津市水主町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市柏崎 ;
+    mo:SubRegion mr:JP_佐賀県唐津市神集島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市刀町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北城内 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多大杉 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多上平野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多岸山 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多志気 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多下平野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多竹有 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多田中 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多徳須恵 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多成渕 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多稗田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多山彦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市北波多行合野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町天川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町岩屋 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町うつぼ木 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町浦川内 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町厳木 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町瀬戸木場 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町鳥越 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町中島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町浪瀬 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町平之 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町広川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町広瀬 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町星領 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町牧瀬 ;
+    mo:SubRegion mr:JP_佐賀県唐津市厳木町本山 ;
+    mo:SubRegion mr:JP_佐賀県唐津市京町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市木綿町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市熊原町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市熊ノ峰 ;
+    mo:SubRegion mr:JP_佐賀県唐津市久里 ;
+    mo:SubRegion mr:JP_佐賀県唐津市神田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市呉服町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市米屋町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市紺屋町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市材木町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市栄町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市桜馬場 ;
+    mo:SubRegion mr:JP_佐賀県唐津市桜町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市佐志 ;
+    mo:SubRegion mr:JP_佐賀県唐津市佐志中里 ;
+    mo:SubRegion mr:JP_佐賀県唐津市佐志中通 ;
+    mo:SubRegion mr:JP_佐賀県唐津市佐志浜町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市佐志南 ;
+    mo:SubRegion mr:JP_佐賀県唐津市重河内 ;
+    mo:SubRegion mr:JP_佐賀県唐津市十人町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市松南町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市新興町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市新町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市菅牟田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市双水 ;
+    mo:SubRegion mr:JP_佐賀県唐津市大名小路 ;
+    mo:SubRegion mr:JP_佐賀県唐津市大良 ;
+    mo:SubRegion mr:JP_佐賀県唐津市高砂町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市高島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市竹木場 ;
+    mo:SubRegion mr:JP_佐賀県唐津市千々賀 ;
+    mo:SubRegion mr:JP_佐賀県唐津市町田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市千代田町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町赤木 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町石室 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町岩野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町打上 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町加唐島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町加倉 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町串 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町高野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町塩鶴 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町菖蒲 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町中野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町名護屋 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町野元 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町波戸 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町早田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町馬渡島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町松島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町丸田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町八床 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鎮西町横竹 ;
+    mo:SubRegion mr:JP_佐賀県唐津市唐川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市唐房 ;
+    mo:SubRegion mr:JP_佐賀県唐津市中里 ;
+    mo:SubRegion mr:JP_佐賀県唐津市中瀬通 ;
+    mo:SubRegion mr:JP_佐賀県唐津市中原 ;
+    mo:SubRegion mr:JP_佐賀県唐津市中町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市中山町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市長谷 ;
+    mo:SubRegion mr:JP_佐賀県唐津市梨川内 ;
+    mo:SubRegion mr:JP_佐賀県唐津市七山荒川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市七山池原 ;
+    mo:SubRegion mr:JP_佐賀県唐津市七山木浦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市七山白木 ;
+    mo:SubRegion mr:JP_佐賀県唐津市七山滝川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市七山仁部 ;
+    mo:SubRegion mr:JP_佐賀県唐津市七山藤川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市七山馬川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市菜畑 ;
+    mo:SubRegion mr:JP_佐賀県唐津市西大島町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市西唐津 ;
+    mo:SubRegion mr:JP_佐賀県唐津市西城内 ;
+    mo:SubRegion mr:JP_佐賀県唐津市西寺町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市西浜町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市西旗町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市橋本 ;
+    mo:SubRegion mr:JP_佐賀県唐津市橋本町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市畑島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市半田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市鳩川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町大江 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町岡口 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町五反田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町谷口 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町鳥巣 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町浜崎 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町東山田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町平原 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町渕上 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町南山 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町山瀬 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町横田上 ;
+    mo:SubRegion mr:JP_佐賀県唐津市浜玉町横田下 ;
+    mo:SubRegion mr:JP_佐賀県唐津市原 ;
+    mo:SubRegion mr:JP_佐賀県唐津市東宇木 ;
+    mo:SubRegion mr:JP_佐賀県唐津市東大島町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市東唐津 ;
+    mo:SubRegion mr:JP_佐賀県唐津市東城内 ;
+    mo:SubRegion mr:JP_佐賀県唐津市東町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市東山 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町赤坂 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町上ケ倉 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町犬頭 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町入野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町梅崎 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町瓜ケ坂 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町大浦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町切木 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町杉野浦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町田野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町鶴牧 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町寺浦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町中浦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町新木場 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町仁田野尾 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町納所 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町星賀 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町万賀里川 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町満越 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町向島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市肥前町湯野浦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市平野町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市藤崎通 ;
+    mo:SubRegion mr:JP_佐賀県唐津市富士見町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市二タ子 ;
+    mo:SubRegion mr:JP_佐賀県唐津市船宮町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市坊主町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市本町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市湊町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市南城内 ;
+    mo:SubRegion mr:JP_佐賀県唐津市南富士見町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市妙見町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市見借 ;
+    mo:SubRegion mr:JP_佐賀県唐津市元石町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市元旗町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市八百屋町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市屋形石 ;
+    mo:SubRegion mr:JP_佐賀県唐津市八幡町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市養母田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市養母田鬼塚 ;
+    mo:SubRegion mr:JP_佐賀県唐津市山下町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市山田 ;
+    mo:SubRegion mr:JP_佐賀県唐津市山本 ;
+    mo:SubRegion mr:JP_佐賀県唐津市夕日 ;
+    mo:SubRegion mr:JP_佐賀県唐津市弓鷹町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市横野 ;
+    mo:SubRegion mr:JP_佐賀県唐津市呼子町大友 ;
+    mo:SubRegion mr:JP_佐賀県唐津市呼子町小川島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市呼子町加部島 ;
+    mo:SubRegion mr:JP_佐賀県唐津市呼子町小友 ;
+    mo:SubRegion mr:JP_佐賀県唐津市呼子町殿ノ浦 ;
+    mo:SubRegion mr:JP_佐賀県唐津市呼子町呼子 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田海士町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田大土井 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田先石 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田天満町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田西山 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田東百人町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田百人町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田本村 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田南先石 ;
+    mo:SubRegion mr:JP_佐賀県唐津市和多田用尺 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県唐津市旭が丘
+    rdfs:label "旭が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市石志
+    rdfs:label "石志"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市魚屋町
+    rdfs:label "魚屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市宇木
+    rdfs:label "宇木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市後川内
+    rdfs:label "後川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浦
+    rdfs:label "浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市江川町
+    rdfs:label "江川町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市枝去木
+    rdfs:label "枝去木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相賀
+    rdfs:label "相賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町伊岐佐
+    rdfs:label "相知町伊岐佐"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町相知
+    rdfs:label "相知町相知"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町大野
+    rdfs:label "相知町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町楠
+    rdfs:label "相知町楠"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町久保
+    rdfs:label "相知町久保"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町黒岩
+    rdfs:label "相知町黒岩"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町佐里
+    rdfs:label "相知町佐里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町千束
+    rdfs:label "相知町千束"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町田頭
+    rdfs:label "相知町田頭"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町鷹取
+    rdfs:label "相知町鷹取"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町町切
+    rdfs:label "相知町町切"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町長部田
+    rdfs:label "相知町長部田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町中山
+    rdfs:label "相知町中山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町平山上
+    rdfs:label "相知町平山上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町平山下
+    rdfs:label "相知町平山下"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町牟田部
+    rdfs:label "相知町牟田部"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町山崎
+    rdfs:label "相知町山崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町湯屋
+    rdfs:label "相知町湯屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市相知町横枕
+    rdfs:label "相知町横枕"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市大石町
+    rdfs:label "大石町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市海岸通
+    rdfs:label "海岸通"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鏡
+    rdfs:label "鏡"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鏡新開
+    rdfs:label "鏡新開"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市水主町
+    rdfs:label "水主町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市柏崎
+    rdfs:label "柏崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市神集島
+    rdfs:label "神集島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市刀町
+    rdfs:label "刀町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北城内
+    rdfs:label "北城内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多大杉
+    rdfs:label "北波多大杉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多上平野
+    rdfs:label "北波多上平野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多岸山
+    rdfs:label "北波多岸山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多志気
+    rdfs:label "北波多志気"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多下平野
+    rdfs:label "北波多下平野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多竹有
+    rdfs:label "北波多竹有"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多田中
+    rdfs:label "北波多田中"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多徳須恵
+    rdfs:label "北波多徳須恵"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多成渕
+    rdfs:label "北波多成渕"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多稗田
+    rdfs:label "北波多稗田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多山彦
+    rdfs:label "北波多山彦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市北波多行合野
+    rdfs:label "北波多行合野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町天川
+    rdfs:label "厳木町天川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町岩屋
+    rdfs:label "厳木町岩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町うつぼ木
+    rdfs:label "厳木町うつぼ木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町浦川内
+    rdfs:label "厳木町浦川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町厳木
+    rdfs:label "厳木町厳木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町瀬戸木場
+    rdfs:label "厳木町瀬戸木場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町鳥越
+    rdfs:label "厳木町鳥越"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町中島
+    rdfs:label "厳木町中島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町浪瀬
+    rdfs:label "厳木町浪瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町平之
+    rdfs:label "厳木町平之"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町広川
+    rdfs:label "厳木町広川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町広瀬
+    rdfs:label "厳木町広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町星領
+    rdfs:label "厳木町星領"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町牧瀬
+    rdfs:label "厳木町牧瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市厳木町本山
+    rdfs:label "厳木町本山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市木綿町
+    rdfs:label "木綿町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市熊原町
+    rdfs:label "熊原町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市熊ノ峰
+    rdfs:label "熊ノ峰"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市久里
+    rdfs:label "久里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市神田
+    rdfs:label "神田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市呉服町
+    rdfs:label "呉服町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市米屋町
+    rdfs:label "米屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市紺屋町
+    rdfs:label "紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市材木町
+    rdfs:label "材木町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市桜馬場
+    rdfs:label "桜馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市佐志
+    rdfs:label "佐志"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市佐志中里
+    rdfs:label "佐志中里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市佐志中通
+    rdfs:label "佐志中通"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市佐志浜町
+    rdfs:label "佐志浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市佐志南
+    rdfs:label "佐志南"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市重河内
+    rdfs:label "重河内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市十人町
+    rdfs:label "十人町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市松南町
+    rdfs:label "松南町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市新興町
+    rdfs:label "新興町"@ja ;
+    mo:SubRegion mr:JP_佐賀県唐津市新興町東新興町 ;
+    mo:SubRegion mr:JP_佐賀県唐津市新興町西新興町 ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市新興町東新興町
+    rdfs:label "東新興町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市新興町西新興町
+    rdfs:label "西新興町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市菅牟田
+    rdfs:label "菅牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市双水
+    rdfs:label "双水"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市大名小路
+    rdfs:label "大名小路"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市大良
+    rdfs:label "大良"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市高砂町
+    rdfs:label "高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市高島
+    rdfs:label "高島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市竹木場
+    rdfs:label "竹木場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市千々賀
+    rdfs:label "千々賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市町田
+    rdfs:label "町田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市千代田町
+    rdfs:label "千代田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町赤木
+    rdfs:label "鎮西町赤木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町石室
+    rdfs:label "鎮西町石室"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町岩野
+    rdfs:label "鎮西町岩野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町打上
+    rdfs:label "鎮西町打上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町加唐島
+    rdfs:label "鎮西町加唐島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町加倉
+    rdfs:label "鎮西町加倉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町串
+    rdfs:label "鎮西町串"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町高野
+    rdfs:label "鎮西町高野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町塩鶴
+    rdfs:label "鎮西町塩鶴"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町菖蒲
+    rdfs:label "鎮西町菖蒲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町中野
+    rdfs:label "鎮西町中野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町名護屋
+    rdfs:label "鎮西町名護屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町野元
+    rdfs:label "鎮西町野元"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町波戸
+    rdfs:label "鎮西町波戸"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町早田
+    rdfs:label "鎮西町早田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町馬渡島
+    rdfs:label "鎮西町馬渡島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町松島
+    rdfs:label "鎮西町松島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町丸田
+    rdfs:label "鎮西町丸田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町八床
+    rdfs:label "鎮西町八床"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鎮西町横竹
+    rdfs:label "鎮西町横竹"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市唐川
+    rdfs:label "唐川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市唐房
+    rdfs:label "唐房"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市中里
+    rdfs:label "中里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市中瀬通
+    rdfs:label "中瀬通"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市中山町
+    rdfs:label "中山町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市長谷
+    rdfs:label "長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市梨川内
+    rdfs:label "梨川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市七山荒川
+    rdfs:label "七山荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市七山池原
+    rdfs:label "七山池原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市七山木浦
+    rdfs:label "七山木浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市七山白木
+    rdfs:label "七山白木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市七山滝川
+    rdfs:label "七山滝川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市七山仁部
+    rdfs:label "七山仁部"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市七山藤川
+    rdfs:label "七山藤川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市七山馬川
+    rdfs:label "七山馬川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市菜畑
+    rdfs:label "菜畑"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市西大島町
+    rdfs:label "西大島町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市西唐津
+    rdfs:label "西唐津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市西城内
+    rdfs:label "西城内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市西寺町
+    rdfs:label "西寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市西浜町
+    rdfs:label "西浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市西旗町
+    rdfs:label "西旗町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市橋本
+    rdfs:label "橋本"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市橋本町
+    rdfs:label "橋本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市畑島
+    rdfs:label "畑島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市半田
+    rdfs:label "半田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市鳩川
+    rdfs:label "鳩川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町大江
+    rdfs:label "浜玉町大江"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町岡口
+    rdfs:label "浜玉町岡口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町五反田
+    rdfs:label "浜玉町五反田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町谷口
+    rdfs:label "浜玉町谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町鳥巣
+    rdfs:label "浜玉町鳥巣"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町浜崎
+    rdfs:label "浜玉町浜崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町東山田
+    rdfs:label "浜玉町東山田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町平原
+    rdfs:label "浜玉町平原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町渕上
+    rdfs:label "浜玉町渕上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町南山
+    rdfs:label "浜玉町南山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町山瀬
+    rdfs:label "浜玉町山瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町横田上
+    rdfs:label "浜玉町横田上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市浜玉町横田下
+    rdfs:label "浜玉町横田下"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市東宇木
+    rdfs:label "東宇木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市東大島町
+    rdfs:label "東大島町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市東唐津
+    rdfs:label "東唐津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市東城内
+    rdfs:label "東城内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市東山
+    rdfs:label "東山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町赤坂
+    rdfs:label "肥前町赤坂"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町上ケ倉
+    rdfs:label "肥前町上ケ倉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町犬頭
+    rdfs:label "肥前町犬頭"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町入野
+    rdfs:label "肥前町入野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町梅崎
+    rdfs:label "肥前町梅崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町瓜ケ坂
+    rdfs:label "肥前町瓜ケ坂"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町大浦
+    rdfs:label "肥前町大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町切木
+    rdfs:label "肥前町切木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町杉野浦
+    rdfs:label "肥前町杉野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町田野
+    rdfs:label "肥前町田野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町鶴牧
+    rdfs:label "肥前町鶴牧"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町寺浦
+    rdfs:label "肥前町寺浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町中浦
+    rdfs:label "肥前町中浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町新木場
+    rdfs:label "肥前町新木場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町仁田野尾
+    rdfs:label "肥前町仁田野尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町納所
+    rdfs:label "肥前町納所"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町星賀
+    rdfs:label "肥前町星賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町万賀里川
+    rdfs:label "肥前町万賀里川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町満越
+    rdfs:label "肥前町満越"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町向島
+    rdfs:label "肥前町向島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市肥前町湯野浦
+    rdfs:label "肥前町湯野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市平野町
+    rdfs:label "平野町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市藤崎通
+    rdfs:label "藤崎通"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市二タ子
+    rdfs:label "二タ子"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市船宮町
+    rdfs:label "船宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市坊主町
+    rdfs:label "坊主町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市湊町
+    rdfs:label "湊町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市南城内
+    rdfs:label "南城内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市南富士見町
+    rdfs:label "南富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市妙見町
+    rdfs:label "妙見町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市見借
+    rdfs:label "見借"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市元石町
+    rdfs:label "元石町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市元旗町
+    rdfs:label "元旗町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市八百屋町
+    rdfs:label "八百屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市屋形石
+    rdfs:label "屋形石"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市養母田
+    rdfs:label "養母田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市養母田鬼塚
+    rdfs:label "養母田鬼塚"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市山下町
+    rdfs:label "山下町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市山本
+    rdfs:label "山本"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市夕日
+    rdfs:label "夕日"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市弓鷹町
+    rdfs:label "弓鷹町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市横野
+    rdfs:label "横野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市呼子町大友
+    rdfs:label "呼子町大友"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市呼子町小川島
+    rdfs:label "呼子町小川島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市呼子町加部島
+    rdfs:label "呼子町加部島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市呼子町小友
+    rdfs:label "呼子町小友"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市呼子町殿ノ浦
+    rdfs:label "呼子町殿ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市呼子町呼子
+    rdfs:label "呼子町呼子"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田海士町
+    rdfs:label "和多田海士町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田大土井
+    rdfs:label "和多田大土井"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田先石
+    rdfs:label "和多田先石"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田天満町
+    rdfs:label "和多田天満町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田西山
+    rdfs:label "和多田西山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田東百人町
+    rdfs:label "和多田東百人町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田百人町
+    rdfs:label "和多田百人町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田本村
+    rdfs:label "和多田本村"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田南先石
+    rdfs:label "和多田南先石"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県唐津市和多田用尺
+    rdfs:label "和多田用尺"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市
+    rdfs:label "鳥栖市"@ja ;
+    mo:AreaCode "41203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市秋葉町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市浅井町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市あさひ新町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市安楽寺町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市飯田町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市今泉町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市今町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市牛原町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市江島町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市加藤田町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市萱方町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市河内町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市儀徳町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市京町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市蔵上 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市蔵上町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市神辺町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市古賀町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市幸津町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市酒井東町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市酒井西町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市桜ケ丘町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市桜町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市下野町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市宿町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市曽根崎町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市大正町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市高田町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市田代上町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市田代昌町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市田代新町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市田代大官町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市田代外町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市田代本町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市立石町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市土井町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市轟木町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市永吉町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市西新町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市西田町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市虹ケ丘町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市幡崎町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市原古賀町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市原町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市東町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市姫方町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市平田町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市藤木町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市布津原町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市古野町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市本通町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市本鳥栖町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市本町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市前田町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市真木町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市松原町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市三島町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市水屋町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市村田町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市元町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市養父町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市山浦町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市山都町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市弥生が丘 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市鎗田町 ;
+    mo:SubRegion mr:JP_佐賀県鳥栖市柚比町 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県鳥栖市秋葉町
+    rdfs:label "秋葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市浅井町
+    rdfs:label "浅井町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市あさひ新町
+    rdfs:label "あさひ新町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市安楽寺町
+    rdfs:label "安楽寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市飯田町
+    rdfs:label "飯田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市今泉町
+    rdfs:label "今泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市今町
+    rdfs:label "今町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市牛原町
+    rdfs:label "牛原町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市江島町
+    rdfs:label "江島町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市加藤田町
+    rdfs:label "加藤田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市萱方町
+    rdfs:label "萱方町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市河内町
+    rdfs:label "河内町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市儀徳町
+    rdfs:label "儀徳町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市蔵上
+    rdfs:label "蔵上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市蔵上町
+    rdfs:label "蔵上町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市神辺町
+    rdfs:label "神辺町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市古賀町
+    rdfs:label "古賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市幸津町
+    rdfs:label "幸津町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市酒井東町
+    rdfs:label "酒井東町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市酒井西町
+    rdfs:label "酒井西町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市桜ケ丘町
+    rdfs:label "桜ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市下野町
+    rdfs:label "下野町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市宿町
+    rdfs:label "宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市曽根崎町
+    rdfs:label "曽根崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市大正町
+    rdfs:label "大正町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市高田町
+    rdfs:label "高田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市田代上町
+    rdfs:label "田代上町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市田代昌町
+    rdfs:label "田代昌町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市田代新町
+    rdfs:label "田代新町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市田代大官町
+    rdfs:label "田代大官町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市田代外町
+    rdfs:label "田代外町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市田代本町
+    rdfs:label "田代本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市立石町
+    rdfs:label "立石町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市土井町
+    rdfs:label "土井町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市轟木町
+    rdfs:label "轟木町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市永吉町
+    rdfs:label "永吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市西新町
+    rdfs:label "西新町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市西田町
+    rdfs:label "西田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市虹ケ丘町
+    rdfs:label "虹ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市幡崎町
+    rdfs:label "幡崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市原古賀町
+    rdfs:label "原古賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市姫方町
+    rdfs:label "姫方町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市平田町
+    rdfs:label "平田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市藤木町
+    rdfs:label "藤木町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市布津原町
+    rdfs:label "布津原町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市古野町
+    rdfs:label "古野町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市本通町
+    rdfs:label "本通町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市本鳥栖町
+    rdfs:label "本鳥栖町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市前田町
+    rdfs:label "前田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市真木町
+    rdfs:label "真木町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市三島町
+    rdfs:label "三島町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市水屋町
+    rdfs:label "水屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市村田町
+    rdfs:label "村田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市養父町
+    rdfs:label "養父町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市山浦町
+    rdfs:label "山浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市山都町
+    rdfs:label "山都町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市弥生が丘
+    rdfs:label "弥生が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市鎗田町
+    rdfs:label "鎗田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鳥栖市柚比町
+    rdfs:label "柚比町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市
+    rdfs:label "多久市"@ja ;
+    mo:AreaCode "41204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県多久市北多久町 ;
+    mo:SubRegion mr:JP_佐賀県多久市北多久町莇原 ;
+    mo:SubRegion mr:JP_佐賀県多久市北多久町小侍 ;
+    mo:SubRegion mr:JP_佐賀県多久市北多久町砂原 ;
+    mo:SubRegion mr:JP_佐賀県多久市北多久町多久原 ;
+    mo:SubRegion mr:JP_佐賀県多久市北多久町中多久 ;
+    mo:SubRegion mr:JP_佐賀県多久市北多久町メイプルタウン ;
+    mo:SubRegion mr:JP_佐賀県多久市多久町 ;
+    mo:SubRegion mr:JP_佐賀県多久市西多久町 ;
+    mo:SubRegion mr:JP_佐賀県多久市東多久町 ;
+    mo:SubRegion mr:JP_佐賀県多久市東多久町古賀 ;
+    mo:SubRegion mr:JP_佐賀県多久市東多久町納所 ;
+    mo:SubRegion mr:JP_佐賀県多久市東多久町別府 ;
+    mo:SubRegion mr:JP_佐賀県多久市南多久町 ;
+    mo:SubRegion mr:JP_佐賀県多久市南多久町泉町 ;
+    mo:SubRegion mr:JP_佐賀県多久市南多久町下多久 ;
+    mo:SubRegion mr:JP_佐賀県多久市南多久町長尾 ;
+    mo:SubRegion mr:JP_佐賀県多久市南多久町花祭 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県多久市北多久町
+    rdfs:label "北多久町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市北多久町莇原
+    rdfs:label "北多久町莇原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市北多久町小侍
+    rdfs:label "北多久町小侍"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市北多久町砂原
+    rdfs:label "北多久町砂原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市北多久町多久原
+    rdfs:label "北多久町多久原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市北多久町中多久
+    rdfs:label "北多久町中多久"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市北多久町メイプルタウン
+    rdfs:label "北多久町メイプルタウン"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市多久町
+    rdfs:label "多久町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市西多久町
+    rdfs:label "西多久町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市東多久町
+    rdfs:label "東多久町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市東多久町古賀
+    rdfs:label "東多久町古賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市東多久町納所
+    rdfs:label "東多久町納所"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市東多久町別府
+    rdfs:label "東多久町別府"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市南多久町
+    rdfs:label "南多久町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市南多久町泉町
+    rdfs:label "南多久町泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市南多久町下多久
+    rdfs:label "南多久町下多久"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市南多久町長尾
+    rdfs:label "南多久町長尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県多久市南多久町花祭
+    rdfs:label "南多久町花祭"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市
+    rdfs:label "伊万里市"@ja ;
+    mo:AreaCode "41205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市伊万里町甲 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市伊万里町乙 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川内町甲 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川内町乙 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川内町丙 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川町大川野 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川町川原 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川町川西 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川町駒鳴 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川町立川 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川町東田代 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大川町山口 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大坪町甲 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大坪町乙 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市大坪町丙 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市木須町 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町大黒川 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町黒塩 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町小黒川 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町塩屋 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町清水 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町立目 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町椿原 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町長尾 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町畑川内 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町花房 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町福田 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町真手野 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町牟田 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町横野 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市新天町 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市瀬戸町 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市立花町 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市二里町大里甲 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市二里町大里乙 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市二里町中里甲 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市二里町中里乙 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市二里町八谷搦 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市蓮池町 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町板木 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町井野尾 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町内野 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町木場 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町煤屋 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町田代 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町辻 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町筒井 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町津留主屋 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町中山 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町畑津 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市波多津町馬蛤潟 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町浦川内 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町大久保 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町川内野 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町里 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町滝川内 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町天神 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町長浜 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町日尾 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町東大久保 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市東山代町脇野 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市松浦町提川 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市松浦町中野原 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市松浦町桃川 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市松浦町山形 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市松島町 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町井手野 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町大川原 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町大曲 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町笠椎 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町小麦原 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町重橋 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町高瀬 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町谷口 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町水留 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町原屋敷 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町府招 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町古川 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市南波多町古里 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町楠久 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町楠久津 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町久原 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町城 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町立岩 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町西大久保 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町東分 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町西分 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町福川内 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市山代町峰 ;
+    mo:SubRegion mr:JP_佐賀県伊万里市脇田町 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県伊万里市伊万里町甲
+    rdfs:label "伊万里町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市伊万里町乙
+    rdfs:label "伊万里町乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川内町甲
+    rdfs:label "大川内町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川内町乙
+    rdfs:label "大川内町乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川内町丙
+    rdfs:label "大川内町丙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川町大川野
+    rdfs:label "大川町大川野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川町川原
+    rdfs:label "大川町川原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川町川西
+    rdfs:label "大川町川西"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川町駒鳴
+    rdfs:label "大川町駒鳴"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川町立川
+    rdfs:label "大川町立川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川町東田代
+    rdfs:label "大川町東田代"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大川町山口
+    rdfs:label "大川町山口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大坪町甲
+    rdfs:label "大坪町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大坪町乙
+    rdfs:label "大坪町乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市大坪町丙
+    rdfs:label "大坪町丙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市木須町
+    rdfs:label "木須町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町
+    rdfs:label "黒川町"@ja ;
+    mo:SubRegion mr:JP_佐賀県伊万里市黒川町名村団地 ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町名村団地
+    rdfs:label "名村団地"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町大黒川
+    rdfs:label "黒川町大黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町黒塩
+    rdfs:label "黒川町黒塩"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町小黒川
+    rdfs:label "黒川町小黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町塩屋
+    rdfs:label "黒川町塩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町清水
+    rdfs:label "黒川町清水"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町立目
+    rdfs:label "黒川町立目"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町椿原
+    rdfs:label "黒川町椿原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町長尾
+    rdfs:label "黒川町長尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町畑川内
+    rdfs:label "黒川町畑川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町花房
+    rdfs:label "黒川町花房"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町福田
+    rdfs:label "黒川町福田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町真手野
+    rdfs:label "黒川町真手野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町牟田
+    rdfs:label "黒川町牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市黒川町横野
+    rdfs:label "黒川町横野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市新天町
+    rdfs:label "新天町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市瀬戸町
+    rdfs:label "瀬戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市立花町
+    rdfs:label "立花町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市二里町大里甲
+    rdfs:label "二里町大里甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市二里町大里乙
+    rdfs:label "二里町大里乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市二里町中里甲
+    rdfs:label "二里町中里甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市二里町中里乙
+    rdfs:label "二里町中里乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市二里町八谷搦
+    rdfs:label "二里町八谷搦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市蓮池町
+    rdfs:label "蓮池町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町板木
+    rdfs:label "波多津町板木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町井野尾
+    rdfs:label "波多津町井野尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町内野
+    rdfs:label "波多津町内野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町木場
+    rdfs:label "波多津町木場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町煤屋
+    rdfs:label "波多津町煤屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町田代
+    rdfs:label "波多津町田代"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町辻
+    rdfs:label "波多津町辻"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町筒井
+    rdfs:label "波多津町筒井"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町津留主屋
+    rdfs:label "波多津町津留主屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町中山
+    rdfs:label "波多津町中山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町畑津
+    rdfs:label "波多津町畑津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市波多津町馬蛤潟
+    rdfs:label "波多津町馬蛤潟"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町浦川内
+    rdfs:label "東山代町浦川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町大久保
+    rdfs:label "東山代町大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町川内野
+    rdfs:label "東山代町川内野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町里
+    rdfs:label "東山代町里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町滝川内
+    rdfs:label "東山代町滝川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町天神
+    rdfs:label "東山代町天神"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町長浜
+    rdfs:label "東山代町長浜"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町日尾
+    rdfs:label "東山代町日尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町東大久保
+    rdfs:label "東山代町東大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市東山代町脇野
+    rdfs:label "東山代町脇野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市松浦町提川
+    rdfs:label "松浦町提川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市松浦町中野原
+    rdfs:label "松浦町中野原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市松浦町桃川
+    rdfs:label "松浦町桃川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市松浦町山形
+    rdfs:label "松浦町山形"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市松島町
+    rdfs:label "松島町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町井手野
+    rdfs:label "南波多町井手野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町大川原
+    rdfs:label "南波多町大川原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町大曲
+    rdfs:label "南波多町大曲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町笠椎
+    rdfs:label "南波多町笠椎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町小麦原
+    rdfs:label "南波多町小麦原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町重橋
+    rdfs:label "南波多町重橋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町高瀬
+    rdfs:label "南波多町高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町谷口
+    rdfs:label "南波多町谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町水留
+    rdfs:label "南波多町水留"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町原屋敷
+    rdfs:label "南波多町原屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町府招
+    rdfs:label "南波多町府招"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町古川
+    rdfs:label "南波多町古川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市南波多町古里
+    rdfs:label "南波多町古里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町楠久
+    rdfs:label "山代町楠久"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町楠久津
+    rdfs:label "山代町楠久津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町久原
+    rdfs:label "山代町久原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町城
+    rdfs:label "山代町城"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町立岩
+    rdfs:label "山代町立岩"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町西大久保
+    rdfs:label "山代町西大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町東分
+    rdfs:label "山代町東分"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町西分
+    rdfs:label "山代町西分"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町福川内
+    rdfs:label "山代町福川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市山代町峰
+    rdfs:label "山代町峰"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県伊万里市脇田町
+    rdfs:label "脇田町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市
+    rdfs:label "武雄市"@ja ;
+    mo:AreaCode "41206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県武雄市朝日町芦原 ;
+    mo:SubRegion mr:JP_佐賀県武雄市朝日町甘久 ;
+    mo:SubRegion mr:JP_佐賀県武雄市朝日町中野 ;
+    mo:SubRegion mr:JP_佐賀県武雄市北方町芦原 ;
+    mo:SubRegion mr:JP_佐賀県武雄市北方町大崎 ;
+    mo:SubRegion mr:JP_佐賀県武雄市北方町大渡 ;
+    mo:SubRegion mr:JP_佐賀県武雄市北方町志久 ;
+    mo:SubRegion mr:JP_佐賀県武雄市武内町梅野 ;
+    mo:SubRegion mr:JP_佐賀県武雄市武内町真手野 ;
+    mo:SubRegion mr:JP_佐賀県武雄市武雄町昭和 ;
+    mo:SubRegion mr:JP_佐賀県武雄市武雄町武雄 ;
+    mo:SubRegion mr:JP_佐賀県武雄市武雄町富岡 ;
+    mo:SubRegion mr:JP_佐賀県武雄市武雄町永島 ;
+    mo:SubRegion mr:JP_佐賀県武雄市橘町芦原 ;
+    mo:SubRegion mr:JP_佐賀県武雄市橘町片白 ;
+    mo:SubRegion mr:JP_佐賀県武雄市橘町大日 ;
+    mo:SubRegion mr:JP_佐賀県武雄市橘町永島 ;
+    mo:SubRegion mr:JP_佐賀県武雄市西川登町小田志 ;
+    mo:SubRegion mr:JP_佐賀県武雄市西川登町神六 ;
+    mo:SubRegion mr:JP_佐賀県武雄市東川登町永野 ;
+    mo:SubRegion mr:JP_佐賀県武雄市東川登町袴野 ;
+    mo:SubRegion mr:JP_佐賀県武雄市山内町犬走 ;
+    mo:SubRegion mr:JP_佐賀県武雄市山内町大野 ;
+    mo:SubRegion mr:JP_佐賀県武雄市山内町鳥海 ;
+    mo:SubRegion mr:JP_佐賀県武雄市山内町三間坂 ;
+    mo:SubRegion mr:JP_佐賀県武雄市山内町宮野 ;
+    mo:SubRegion mr:JP_佐賀県武雄市若木町川古 ;
+    mo:SubRegion mr:JP_佐賀県武雄市若木町本部 ;
+    mo:SubRegion mr:JP_佐賀県武雄市若木町桃川 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県武雄市朝日町芦原
+    rdfs:label "朝日町芦原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市朝日町甘久
+    rdfs:label "朝日町甘久"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市朝日町中野
+    rdfs:label "朝日町中野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市北方町芦原
+    rdfs:label "北方町芦原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市北方町大崎
+    rdfs:label "北方町大崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市北方町大渡
+    rdfs:label "北方町大渡"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市北方町志久
+    rdfs:label "北方町志久"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市武内町梅野
+    rdfs:label "武内町梅野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市武内町真手野
+    rdfs:label "武内町真手野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市武雄町昭和
+    rdfs:label "武雄町昭和"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市武雄町武雄
+    rdfs:label "武雄町武雄"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市武雄町富岡
+    rdfs:label "武雄町富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市武雄町永島
+    rdfs:label "武雄町永島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市橘町芦原
+    rdfs:label "橘町芦原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市橘町片白
+    rdfs:label "橘町片白"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市橘町大日
+    rdfs:label "橘町大日"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市橘町永島
+    rdfs:label "橘町永島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市西川登町小田志
+    rdfs:label "西川登町小田志"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市西川登町神六
+    rdfs:label "西川登町神六"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市東川登町永野
+    rdfs:label "東川登町永野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市東川登町袴野
+    rdfs:label "東川登町袴野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市山内町犬走
+    rdfs:label "山内町犬走"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市山内町大野
+    rdfs:label "山内町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市山内町鳥海
+    rdfs:label "山内町鳥海"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市山内町三間坂
+    rdfs:label "山内町三間坂"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市山内町宮野
+    rdfs:label "山内町宮野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市若木町川古
+    rdfs:label "若木町川古"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市若木町本部
+    rdfs:label "若木町本部"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県武雄市若木町桃川
+    rdfs:label "若木町桃川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市
+    rdfs:label "鹿島市"@ja ;
+    mo:AreaCode "41207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市飯田 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市井手 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市音成 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市重ノ木 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市高津原 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市常広 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市中村 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市納富分 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市浜町 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市古枝 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市三河内 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市森 ;
+    mo:SubRegion mr:JP_佐賀県鹿島市山浦 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県鹿島市飯田
+    rdfs:label "飯田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市井手
+    rdfs:label "井手"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市音成
+    rdfs:label "音成"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市重ノ木
+    rdfs:label "重ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市高津原
+    rdfs:label "高津原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市常広
+    rdfs:label "常広"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市納富分
+    rdfs:label "納富分"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市古枝
+    rdfs:label "古枝"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市三河内
+    rdfs:label "三河内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県鹿島市山浦
+    rdfs:label "山浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市
+    rdfs:label "小城市"@ja ;
+    mo:AreaCode "41208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県小城市芦刈町芦溝 ;
+    mo:SubRegion mr:JP_佐賀県小城市芦刈町下古賀 ;
+    mo:SubRegion mr:JP_佐賀県小城市芦刈町道免 ;
+    mo:SubRegion mr:JP_佐賀県小城市芦刈町永田 ;
+    mo:SubRegion mr:JP_佐賀県小城市芦刈町浜枝川 ;
+    mo:SubRegion mr:JP_佐賀県小城市芦刈町三王崎 ;
+    mo:SubRegion mr:JP_佐賀県小城市牛津町牛津 ;
+    mo:SubRegion mr:JP_佐賀県小城市牛津町乙柳 ;
+    mo:SubRegion mr:JP_佐賀県小城市牛津町柿樋瀬 ;
+    mo:SubRegion mr:JP_佐賀県小城市牛津町勝 ;
+    mo:SubRegion mr:JP_佐賀県小城市牛津町上砥川 ;
+    mo:SubRegion mr:JP_佐賀県小城市牛津町下砥川 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町池上 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町岩蔵 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町栗原 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町畑田 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町晴気 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町東新町 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町船田 ;
+    mo:SubRegion mr:JP_佐賀県小城市小城町松尾 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町石木 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町織島 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町金田 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町久米 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町甲柳原 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町長神田 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町樋口 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町堀江 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町三ケ島 ;
+    mo:SubRegion mr:JP_佐賀県小城市三日月町道辺 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県小城市芦刈町芦溝
+    rdfs:label "芦刈町芦溝"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市芦刈町下古賀
+    rdfs:label "芦刈町下古賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市芦刈町道免
+    rdfs:label "芦刈町道免"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市芦刈町永田
+    rdfs:label "芦刈町永田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市芦刈町浜枝川
+    rdfs:label "芦刈町浜枝川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市芦刈町三王崎
+    rdfs:label "芦刈町三王崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市牛津町牛津
+    rdfs:label "牛津町牛津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市牛津町乙柳
+    rdfs:label "牛津町乙柳"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市牛津町柿樋瀬
+    rdfs:label "牛津町柿樋瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市牛津町勝
+    rdfs:label "牛津町勝"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市牛津町上砥川
+    rdfs:label "牛津町上砥川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市牛津町下砥川
+    rdfs:label "牛津町下砥川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町
+    rdfs:label "小城町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町池上
+    rdfs:label "小城町池上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町岩蔵
+    rdfs:label "小城町岩蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町栗原
+    rdfs:label "小城町栗原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町畑田
+    rdfs:label "小城町畑田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町晴気
+    rdfs:label "小城町晴気"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町東新町
+    rdfs:label "小城町東新町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町船田
+    rdfs:label "小城町船田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市小城町松尾
+    rdfs:label "小城町松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町石木
+    rdfs:label "三日月町石木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町織島
+    rdfs:label "三日月町織島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町金田
+    rdfs:label "三日月町金田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町久米
+    rdfs:label "三日月町久米"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町甲柳原
+    rdfs:label "三日月町甲柳原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町長神田
+    rdfs:label "三日月町長神田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町樋口
+    rdfs:label "三日月町樋口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町堀江
+    rdfs:label "三日月町堀江"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町三ケ島
+    rdfs:label "三日月町三ケ島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県小城市三日月町道辺
+    rdfs:label "三日月町道辺"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市
+    rdfs:label "嬉野市"@ja ;
+    mo:AreaCode "41209" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市嬉野町岩屋川内 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市嬉野町下宿 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市嬉野町下野 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市嬉野町不動山 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市嬉野町吉田 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町大草野乙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町大草野甲 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町大草野丙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町久間乙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町久間甲 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町久間丁 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町久間丙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町五町田乙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町五町田甲 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町谷所乙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町谷所甲 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町谷所丙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町馬場下乙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町馬場下甲 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町馬場下丙 ;
+    mo:SubRegion mr:JP_佐賀県嬉野市塩田町真崎 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県嬉野市嬉野町岩屋川内
+    rdfs:label "嬉野町岩屋川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市嬉野町下宿
+    rdfs:label "嬉野町下宿"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市嬉野町下野
+    rdfs:label "嬉野町下野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市嬉野町不動山
+    rdfs:label "嬉野町不動山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市嬉野町吉田
+    rdfs:label "嬉野町吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町大草野乙
+    rdfs:label "塩田町大草野乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町大草野甲
+    rdfs:label "塩田町大草野甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町大草野丙
+    rdfs:label "塩田町大草野丙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町久間乙
+    rdfs:label "塩田町久間乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町久間甲
+    rdfs:label "塩田町久間甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町久間丁
+    rdfs:label "塩田町久間丁"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町久間丙
+    rdfs:label "塩田町久間丙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町五町田乙
+    rdfs:label "塩田町五町田乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町五町田甲
+    rdfs:label "塩田町五町田甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町谷所乙
+    rdfs:label "塩田町谷所乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町谷所甲
+    rdfs:label "塩田町谷所甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町谷所丙
+    rdfs:label "塩田町谷所丙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町馬場下乙
+    rdfs:label "塩田町馬場下乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町馬場下甲
+    rdfs:label "塩田町馬場下甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町馬場下丙
+    rdfs:label "塩田町馬場下丙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県嬉野市塩田町真崎
+    rdfs:label "塩田町真崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市
+    rdfs:label "神埼市"@ja ;
+    mo:AreaCode "41210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町姉川 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町的 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町枝ケ里 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町尾崎 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町神埼 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町城原 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町志波屋 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町竹 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町田道ケ里 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町鶴 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町永歌 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町西小津ケ里 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町本告牟田 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町本堀 ;
+    mo:SubRegion mr:JP_佐賀県神埼市神埼町横武 ;
+    mo:SubRegion mr:JP_佐賀県神埼市脊振町服巻 ;
+    mo:SubRegion mr:JP_佐賀県神埼市脊振町広滝 ;
+    mo:SubRegion mr:JP_佐賀県神埼市脊振町鹿路 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町姉 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町餘江 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町嘉納 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町黒井 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町境原 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町崎村 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町下板 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町下西 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町詫田 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町直鳥 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町迎島 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町柳島 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町用作 ;
+    mo:SubRegion mr:JP_佐賀県神埼市千代田町渡瀬 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県神埼市神埼町姉川
+    rdfs:label "神埼町姉川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町的
+    rdfs:label "神埼町的"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町枝ケ里
+    rdfs:label "神埼町枝ケ里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町尾崎
+    rdfs:label "神埼町尾崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町神埼
+    rdfs:label "神埼町神埼"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町城原
+    rdfs:label "神埼町城原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町志波屋
+    rdfs:label "神埼町志波屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町竹
+    rdfs:label "神埼町竹"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町田道ケ里
+    rdfs:label "神埼町田道ケ里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町鶴
+    rdfs:label "神埼町鶴"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町永歌
+    rdfs:label "神埼町永歌"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町西小津ケ里
+    rdfs:label "神埼町西小津ケ里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町本告牟田
+    rdfs:label "神埼町本告牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町本堀
+    rdfs:label "神埼町本堀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市神埼町横武
+    rdfs:label "神埼町横武"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市脊振町服巻
+    rdfs:label "脊振町服巻"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市脊振町広滝
+    rdfs:label "脊振町広滝"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市脊振町鹿路
+    rdfs:label "脊振町鹿路"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町姉
+    rdfs:label "千代田町姉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町餘江
+    rdfs:label "千代田町餘江"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町嘉納
+    rdfs:label "千代田町嘉納"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町黒井
+    rdfs:label "千代田町黒井"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町境原
+    rdfs:label "千代田町境原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町崎村
+    rdfs:label "千代田町崎村"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町下板
+    rdfs:label "千代田町下板"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町下西
+    rdfs:label "千代田町下西"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町詫田
+    rdfs:label "千代田町詫田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町直鳥
+    rdfs:label "千代田町直鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町迎島
+    rdfs:label "千代田町迎島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町柳島
+    rdfs:label "千代田町柳島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町用作
+    rdfs:label "千代田町用作"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼市千代田町渡瀬
+    rdfs:label "千代田町渡瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町
+    rdfs:label "神埼郡吉野ヶ里町"@ja ;
+    mo:AreaCode "41327" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町石動 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町大曲 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町田手 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町立野 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町箱川 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町松隈 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町豆田 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町三津 ;
+    mo:SubRegion mr:JP_佐賀県神埼郡吉野ヶ里町吉田 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町石動
+    rdfs:label "石動"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町大曲
+    rdfs:label "大曲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町田手
+    rdfs:label "田手"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町立野
+    rdfs:label "立野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町箱川
+    rdfs:label "箱川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町松隈
+    rdfs:label "松隈"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町豆田
+    rdfs:label "豆田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町三津
+    rdfs:label "三津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県神埼郡吉野ヶ里町吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡基山町
+    rdfs:label "三養基郡基山町"@ja ;
+    mo:AreaCode "41341" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡基山町けやき台 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡基山町小倉 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡基山町園部 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡基山町長野 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡基山町宮浦 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県三養基郡基山町けやき台
+    rdfs:label "けやき台"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡基山町小倉
+    rdfs:label "小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡基山町園部
+    rdfs:label "園部"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡基山町長野
+    rdfs:label "長野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡基山町宮浦
+    rdfs:label "宮浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡上峰町
+    rdfs:label "三養基郡上峰町"@ja ;
+    mo:AreaCode "41345" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡上峰町江迎 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡上峰町堤 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡上峰町坊所 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡上峰町前牟田 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県三養基郡上峰町江迎
+    rdfs:label "江迎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡上峰町堤
+    rdfs:label "堤"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡上峰町坊所
+    rdfs:label "坊所"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡上峰町前牟田
+    rdfs:label "前牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町
+    rdfs:label "三養基郡みやき町"@ja ;
+    mo:AreaCode "41346" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町市武 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町江口 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町坂口 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町白壁 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町天建寺 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町中津隈 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町西島 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町原古賀 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町東尾 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町東津 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町簑原 ;
+    mo:SubRegion mr:JP_佐賀県三養基郡みやき町寄人 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県三養基郡みやき町市武
+    rdfs:label "市武"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町江口
+    rdfs:label "江口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町坂口
+    rdfs:label "坂口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町白壁
+    rdfs:label "白壁"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町天建寺
+    rdfs:label "天建寺"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町中津隈
+    rdfs:label "中津隈"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町西島
+    rdfs:label "西島"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町原古賀
+    rdfs:label "原古賀"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町東尾
+    rdfs:label "東尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町東津
+    rdfs:label "東津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町簑原
+    rdfs:label "簑原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県三養基郡みやき町寄人
+    rdfs:label "寄人"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町
+    rdfs:label "東松浦郡玄海町"@ja ;
+    mo:AreaCode "41387" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町有浦上 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町有浦下 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町石田 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町今村 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町大薗 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町大鳥 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町仮立 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町仮屋 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町小加倉 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町栄 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町下宮 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町新田 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町座川内 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町田代 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町値賀川内 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町轟木 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町中通 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町長倉 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町花の木 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町浜野浦 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町平尾 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町普恩寺 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町藤平 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町外津 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町牟形 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町諸浦 ;
+    mo:SubRegion mr:JP_佐賀県東松浦郡玄海町湯野尾 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県東松浦郡玄海町有浦上
+    rdfs:label "有浦上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町有浦下
+    rdfs:label "有浦下"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町石田
+    rdfs:label "石田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町今村
+    rdfs:label "今村"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町大薗
+    rdfs:label "大薗"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町大鳥
+    rdfs:label "大鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町仮立
+    rdfs:label "仮立"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町仮屋
+    rdfs:label "仮屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町小加倉
+    rdfs:label "小加倉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町栄
+    rdfs:label "栄"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町下宮
+    rdfs:label "下宮"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町座川内
+    rdfs:label "座川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町田代
+    rdfs:label "田代"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町値賀川内
+    rdfs:label "値賀川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町轟木
+    rdfs:label "轟木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町中通
+    rdfs:label "中通"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町長倉
+    rdfs:label "長倉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町花の木
+    rdfs:label "花の木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町浜野浦
+    rdfs:label "浜野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町平尾
+    rdfs:label "平尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町普恩寺
+    rdfs:label "普恩寺"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町藤平
+    rdfs:label "藤平"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町外津
+    rdfs:label "外津"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町牟形
+    rdfs:label "牟形"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町諸浦
+    rdfs:label "諸浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県東松浦郡玄海町湯野尾
+    rdfs:label "湯野尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町
+    rdfs:label "西松浦郡有田町"@ja ;
+    mo:AreaCode "41401" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町赤絵町 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町赤坂 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町泉山 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町岩谷川内 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町応法 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町大木宿 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町大樽 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町大野 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町上内野 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町上幸平 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町上本 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町上山谷 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町北ノ川内 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町楠木原 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町黒川 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町黒牟田 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町桑古場 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町桑木原 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町幸平 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町境野 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町下内野 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町下本 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町下山谷 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町白川 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町蔵宿 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町岳 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町立部 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町戸杓 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町戸矢 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町中樽 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町中の原 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町南山 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町南原 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町二ノ瀬 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町原明 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町稗古場 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町広瀬 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町広瀬山 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町古木場 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町外尾町 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町外尾山 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町仏ノ原 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町本町 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町舞原 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町丸尾 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町山谷切口 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町山谷牧 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町山本 ;
+    mo:SubRegion mr:JP_佐賀県西松浦郡有田町代々木 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県西松浦郡有田町赤絵町
+    rdfs:label "赤絵町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町赤坂
+    rdfs:label "赤坂"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町泉山
+    rdfs:label "泉山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町岩谷川内
+    rdfs:label "岩谷川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町応法
+    rdfs:label "応法"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町大木宿
+    rdfs:label "大木宿"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町大樽
+    rdfs:label "大樽"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町上内野
+    rdfs:label "上内野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町上幸平
+    rdfs:label "上幸平"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町上本
+    rdfs:label "上本"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町上山谷
+    rdfs:label "上山谷"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町北ノ川内
+    rdfs:label "北ノ川内"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町楠木原
+    rdfs:label "楠木原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町黒川
+    rdfs:label "黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町黒牟田
+    rdfs:label "黒牟田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町桑古場
+    rdfs:label "桑古場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町桑木原
+    rdfs:label "桑木原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町幸平
+    rdfs:label "幸平"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町境野
+    rdfs:label "境野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町下内野
+    rdfs:label "下内野"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町下本
+    rdfs:label "下本"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町下山谷
+    rdfs:label "下山谷"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町白川
+    rdfs:label "白川"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町蔵宿
+    rdfs:label "蔵宿"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町岳
+    rdfs:label "岳"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町立部
+    rdfs:label "立部"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町戸杓
+    rdfs:label "戸杓"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町戸矢
+    rdfs:label "戸矢"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町中樽
+    rdfs:label "中樽"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町中の原
+    rdfs:label "中の原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町南山
+    rdfs:label "南山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町南原
+    rdfs:label "南原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町二ノ瀬
+    rdfs:label "二ノ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町原明
+    rdfs:label "原明"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町稗古場
+    rdfs:label "稗古場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町広瀬山
+    rdfs:label "広瀬山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町古木場
+    rdfs:label "古木場"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町外尾町
+    rdfs:label "外尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町外尾山
+    rdfs:label "外尾山"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町仏ノ原
+    rdfs:label "仏ノ原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町舞原
+    rdfs:label "舞原"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町丸尾
+    rdfs:label "丸尾"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町山谷切口
+    rdfs:label "山谷切口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町山谷牧
+    rdfs:label "山谷牧"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町山本
+    rdfs:label "山本"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県西松浦郡有田町代々木
+    rdfs:label "代々木"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡大町町
+    rdfs:label "杵島郡大町町"@ja ;
+    mo:AreaCode "41423" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡大町町大町 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡大町町福母 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県杵島郡大町町大町
+    rdfs:label "大町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡大町町福母
+    rdfs:label "福母"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡江北町
+    rdfs:label "杵島郡江北町"@ja ;
+    mo:AreaCode "41424" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡江北町上小田 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡江北町佐留志 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡江北町下小田 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡江北町惣領分 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡江北町八町 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡江北町山口 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県杵島郡江北町上小田
+    rdfs:label "上小田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡江北町佐留志
+    rdfs:label "佐留志"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡江北町下小田
+    rdfs:label "下小田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡江北町惣領分
+    rdfs:label "惣領分"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡江北町八町
+    rdfs:label "八町"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡江北町山口
+    rdfs:label "山口"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町
+    rdfs:label "杵島郡白石町"@ja ;
+    mo:AreaCode "41425" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町今泉 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町牛屋 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町大渡 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町坂田 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町新開 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町新拓 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町新明 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町田野上 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町築切 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町堤 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町遠江 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町戸ケ里 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町廿治 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町八平 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町東郷 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町深浦 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町福田 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町福富 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町福富下分 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町福吉 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町辺田 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町馬洗 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町湯崎 ;
+    mo:SubRegion mr:JP_佐賀県杵島郡白石町横手 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県杵島郡白石町今泉
+    rdfs:label "今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町牛屋
+    rdfs:label "牛屋"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町大渡
+    rdfs:label "大渡"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町坂田
+    rdfs:label "坂田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町新開
+    rdfs:label "新開"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町新拓
+    rdfs:label "新拓"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町新明
+    rdfs:label "新明"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町田野上
+    rdfs:label "田野上"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町築切
+    rdfs:label "築切"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町堤
+    rdfs:label "堤"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町遠江
+    rdfs:label "遠江"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町戸ケ里
+    rdfs:label "戸ケ里"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町廿治
+    rdfs:label "廿治"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町八平
+    rdfs:label "八平"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町東郷
+    rdfs:label "東郷"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町深浦
+    rdfs:label "深浦"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町福田
+    rdfs:label "福田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町福富
+    rdfs:label "福富"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町福富下分
+    rdfs:label "福富下分"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町福吉
+    rdfs:label "福吉"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町辺田
+    rdfs:label "辺田"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町馬洗
+    rdfs:label "馬洗"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町湯崎
+    rdfs:label "湯崎"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県杵島郡白石町横手
+    rdfs:label "横手"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町
+    rdfs:label "藤津郡太良町"@ja ;
+    mo:AreaCode "41441" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町糸岐 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町伊福甲 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町大浦甲 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町大浦乙 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町大浦丙 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町大浦丁 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町大浦戊 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町大浦己 ;
+    mo:SubRegion mr:JP_佐賀県藤津郡太良町多良 ;
+a mo:GeoEntity .
+
+mr:JP_佐賀県藤津郡太良町糸岐
+    rdfs:label "糸岐"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町伊福甲
+    rdfs:label "伊福甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町大浦甲
+    rdfs:label "大浦甲"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町大浦乙
+    rdfs:label "大浦乙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町大浦丙
+    rdfs:label "大浦丙"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町大浦丁
+    rdfs:label "大浦丁"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町大浦戊
+    rdfs:label "大浦戊"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町大浦己
+    rdfs:label "大浦己"@ja ;
+    a mo:町域 .
+
+mr:JP_佐賀県藤津郡太良町多良
+    rdfs:label "多良"@ja ;
+    a mo:町域 .
+
