@@ -28,7 +28,11 @@ mo:GeoEntity
 
 mo:GeoEntityDefenition
     rdfs:label "曖昧な地理エンティティの定義の一つ"@ja;
-    a rdfs:Property.
+    a rdf:Property.
+
+mo:AreaCode
+    rdfs:label "地域コード"@ja;
+    a rdf:Property.
 
 mo:SubRegion
     a rdf:Property.
@@ -52,6 +56,6 @@ mo:HomeURL
 
 mo:WebSite
     rdfs:label "親ページのタイトル"@ja;
-    a rdf:Class.
+    a rdfs:Class.
 
 

@@ -1,0 +1,28 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+mr:JP_北海道
+    a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "北海道"@ja ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/北海道> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/北海道>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?北海道>;
+    rdfs:comment ""@ja .
+
+mr:根室地方
+    a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "根室地方"@ja ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/根室振興局> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/根室振興局>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?根室地方>;
+    rdfs:comment ""@ja .
+
+
+

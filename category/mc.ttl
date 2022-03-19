@@ -5,6 +5,11 @@
 @prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 
+mc:Math
+    a mo:Category ;
+    rdfs:label "数学カテゴリ"@ja ;
+    rdfs:comment "数学に関するカテゴリ"@ja .
+
 mc:Region
     a mo:Category ;
     rdfs:label "地域情報カテゴリ"@ja ;

@@ -97,12 +97,17 @@ mo:地方開発事業団
 mo:行政区_政令指定都市
     a rdfs:Class ;
     rdfs:label "行政区_政令指定都市"@ja;
-    rdfs:comment ""@ja.
+    rdfs:comment "政令指定都市の行政区を示す。東京都の区は特別区で示す。"@ja.
 
 mo:地域自治区
     a rdfs:Class ;
     rdfs:label "地域自治区"@ja;
     rdfs:comment ""@ja.
+
+mo:町域
+    a rdfs:Class ;
+    rdfs:label "町域"@ja;
+    rdfs:comment "大字・小字・町丁などの区域を示す包括的な述語。"@ja.
 
 
 
