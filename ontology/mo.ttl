@@ -50,12 +50,25 @@ mo:Reference
     rdfs:label "参考文献"@ja;
     a rdf:Property.
 
-mo:HomeURL
-    rdfs:label "親ページのタイトル"@ja;
-    a rdf:Property.
-
 mo:WebSite
-    rdfs:label "親ページのタイトル"@ja;
+    rdfs:label "ウェブページのクラス"@ja;
     a rdfs:Class.
 
+mo:HomeURL
+    rdfs:label "親ページのエンティティ"@ja;
+    a rdf:Property.
+
+mo:Entity
+    rdfs:label "知識ベースのエンティティであることを示す"@ja;
+    a rdfs:Class.
+
+mo:ExternalEntity
+    rdfs:label "外部の知識ベースのエンティティであることを示す"@ja;
+    rdfs:subClassOf mo:Entity ;
+    a rdfs:Class.
+
+mo:WikipediaPage
+    rdfs:label "Wikipediaのページであることを示す"@ja;
+    rdfs:subClassOf mo:Entity ;
+    a rdfs:Class.
 
