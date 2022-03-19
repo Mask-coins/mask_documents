@@ -1,0 +1,8515 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_長野県
+    a mo:都道府県 ;
+    rdfs:label "長野県"@ja ;
+    mo:AreaCode "20" ;
+    mo:SubRegion mr:JP_長野県長野市 ;
+    mo:SubRegion mr:JP_長野県松本市 ;
+    mo:SubRegion mr:JP_長野県上田市 ;
+    mo:SubRegion mr:JP_長野県岡谷市 ;
+    mo:SubRegion mr:JP_長野県飯田市 ;
+    mo:SubRegion mr:JP_長野県諏訪市 ;
+    mo:SubRegion mr:JP_長野県須坂市 ;
+    mo:SubRegion mr:JP_長野県小諸市 ;
+    mo:SubRegion mr:JP_長野県伊那市 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市 ;
+    mo:SubRegion mr:JP_長野県中野市 ;
+    mo:SubRegion mr:JP_長野県大町市 ;
+    mo:SubRegion mr:JP_長野県飯山市 ;
+    mo:SubRegion mr:JP_長野県茅野市 ;
+    mo:SubRegion mr:JP_長野県塩尻市 ;
+    mo:SubRegion mr:JP_長野県佐久市 ;
+    mo:SubRegion mr:JP_長野県千曲市 ;
+    mo:SubRegion mr:JP_長野県東御市 ;
+    mo:SubRegion mr:JP_長野県安曇野市 ;
+    mo:SubRegion mr:JP_長野県南佐久郡小海町 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村 ;
+    mo:SubRegion mr:JP_長野県南佐久郡南牧村 ;
+    mo:SubRegion mr:JP_長野県南佐久郡南相木村 ;
+    mo:SubRegion mr:JP_長野県南佐久郡北相木村 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町 ;
+    mo:SubRegion mr:JP_長野県小県郡青木村 ;
+    mo:SubRegion mr:JP_長野県小県郡長和町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡富士見町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町 ;
+    mo:SubRegion mr:JP_長野県上伊那郡箕輪町 ;
+    mo:SubRegion mr:JP_長野県上伊那郡飯島町 ;
+    mo:SubRegion mr:JP_長野県上伊那郡南箕輪村 ;
+    mo:SubRegion mr:JP_長野県上伊那郡中川村 ;
+    mo:SubRegion mr:JP_長野県上伊那郡宮田村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡松川町 ;
+    mo:SubRegion mr:JP_長野県下伊那郡高森町 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿南町 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿智村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡平谷村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡根羽村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡下條村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡売木村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡天龍村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡泰阜村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡豊丘村 ;
+    mo:SubRegion mr:JP_長野県下伊那郡大鹿村 ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町 ;
+    mo:SubRegion mr:JP_長野県木曽郡南木曽町 ;
+    mo:SubRegion mr:JP_長野県木曽郡木祖村 ;
+    mo:SubRegion mr:JP_長野県木曽郡王滝村 ;
+    mo:SubRegion mr:JP_長野県木曽郡大桑村 ;
+    mo:SubRegion mr:JP_長野県木曽郡木曽町 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡麻績村 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡生坂村 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡山形村 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡朝日村 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡筑北村 ;
+    mo:SubRegion mr:JP_長野県北安曇郡池田町 ;
+    mo:SubRegion mr:JP_長野県北安曇郡松川村 ;
+    mo:SubRegion mr:JP_長野県北安曇郡白馬村 ;
+    mo:SubRegion mr:JP_長野県北安曇郡小谷村 ;
+    mo:SubRegion mr:JP_長野県埴科郡坂城町 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村 ;
+    mo:SubRegion mr:JP_長野県下高井郡山ノ内町 ;
+    mo:SubRegion mr:JP_長野県下高井郡木島平村 ;
+    mo:SubRegion mr:JP_長野県下高井郡野沢温泉村 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町 ;
+    mo:SubRegion mr:JP_長野県上水内郡小川村 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町 ;
+    mo:SubRegion mr:JP_長野県下水内郡栄村 ;
+    a mo:GeoEntity .
+
+mr:JP_長野県長野市
+    rdfs:label "長野市"@ja ;
+    mo:AreaCode "20201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県長野市アークス ;
+    mo:SubRegion mr:JP_長野県長野市青木島 ;
+    mo:SubRegion mr:JP_長野県長野市青木島町青木島 ;
+    mo:SubRegion mr:JP_長野県長野市青木島町青木島乙 ;
+    mo:SubRegion mr:JP_長野県長野市青木島町大塚 ;
+    mo:SubRegion mr:JP_長野県長野市青木島町綱島 ;
+    mo:SubRegion mr:JP_長野県長野市赤沼 ;
+    mo:SubRegion mr:JP_長野県長野市県町 ;
+    mo:SubRegion mr:JP_長野県長野市上ケ屋 ;
+    mo:SubRegion mr:JP_長野県長野市浅川 ;
+    mo:SubRegion mr:JP_長野県長野市浅川押田 ;
+    mo:SubRegion mr:JP_長野県長野市浅川清水 ;
+    mo:SubRegion mr:JP_長野県長野市浅川西条 ;
+    mo:SubRegion mr:JP_長野県長野市浅川西平 ;
+    mo:SubRegion mr:JP_長野県長野市浅川畑山 ;
+    mo:SubRegion mr:JP_長野県長野市浅川東条 ;
+    mo:SubRegion mr:JP_長野県長野市浅川福岡 ;
+    mo:SubRegion mr:JP_長野県長野市旭町 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里杏花台 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里小市 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里小路 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里米村 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里犀北 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里犀北団地 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里差出 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里大門 ;
+    mo:SubRegion mr:JP_長野県長野市安茂里西河原 ;
+    mo:SubRegion mr:JP_長野県長野市荒屋 ;
+    mo:SubRegion mr:JP_長野県長野市石渡 ;
+    mo:SubRegion mr:JP_長野県長野市泉平 ;
+    mo:SubRegion mr:JP_長野県長野市伊勢町 ;
+    mo:SubRegion mr:JP_長野県長野市伊勢宮 ;
+    mo:SubRegion mr:JP_長野県長野市市場 ;
+    mo:SubRegion mr:JP_長野県長野市稲里 ;
+    mo:SubRegion mr:JP_長野県長野市稲里町下氷鉋 ;
+    mo:SubRegion mr:JP_長野県長野市稲里町田牧 ;
+    mo:SubRegion mr:JP_長野県長野市稲里町中央 ;
+    mo:SubRegion mr:JP_長野県長野市稲里町中氷鉋 ;
+    mo:SubRegion mr:JP_長野県長野市稲田 ;
+    mo:SubRegion mr:JP_長野県長野市稲葉 ;
+    mo:SubRegion mr:JP_長野県長野市稲葉上千田 ;
+    mo:SubRegion mr:JP_長野県長野市稲葉中千田 ;
+    mo:SubRegion mr:JP_長野県長野市稲葉日詰 ;
+    mo:SubRegion mr:JP_長野県長野市稲葉南俣 ;
+    mo:SubRegion mr:JP_長野県長野市稲葉母袋 ;
+    mo:SubRegion mr:JP_長野県長野市居町 ;
+    mo:SubRegion mr:JP_長野県長野市入山 ;
+    mo:SubRegion mr:JP_長野県長野市上松 ;
+    mo:SubRegion mr:JP_長野県長野市上野 ;
+    mo:SubRegion mr:JP_長野県長野市往生地 ;
+    mo:SubRegion mr:JP_長野県長野市大岡乙 ;
+    mo:SubRegion mr:JP_長野県長野市大岡甲 ;
+    mo:SubRegion mr:JP_長野県長野市大岡中牧 ;
+    mo:SubRegion mr:JP_長野県長野市大岡弘崎 ;
+    mo:SubRegion mr:JP_長野県長野市大岡丙 ;
+    mo:SubRegion mr:JP_長野県長野市大橋南 ;
+    mo:SubRegion mr:JP_長野県長野市大町 ;
+    mo:SubRegion mr:JP_長野県長野市岡田町 ;
+    mo:SubRegion mr:JP_長野県長野市小島田町 ;
+    mo:SubRegion mr:JP_長野県長野市神楽橋 ;
+    mo:SubRegion mr:JP_長野県長野市風間 ;
+    mo:SubRegion mr:JP_長野県長野市合戦場 ;
+    mo:SubRegion mr:JP_長野県長野市門沢 ;
+    mo:SubRegion mr:JP_長野県長野市金井田 ;
+    mo:SubRegion mr:JP_長野県長野市金箱 ;
+    mo:SubRegion mr:JP_長野県長野市上駒沢 ;
+    mo:SubRegion mr:JP_長野県長野市上千歳町 ;
+    mo:SubRegion mr:JP_長野県長野市上西之門町 ;
+    mo:SubRegion mr:JP_長野県長野市川合新田 ;
+    mo:SubRegion mr:JP_長野県長野市川中島町若葉町 ;
+    mo:SubRegion mr:JP_長野県長野市川中島町今井 ;
+    mo:SubRegion mr:JP_長野県長野市川中島町今井原 ;
+    mo:SubRegion mr:JP_長野県長野市川中島町今里 ;
+    mo:SubRegion mr:JP_長野県長野市川中島町上氷鉋 ;
+    mo:SubRegion mr:JP_長野県長野市川中島町原 ;
+    mo:SubRegion mr:JP_長野県長野市川中島町御厨 ;
+    mo:SubRegion mr:JP_長野県長野市川中島町四ツ屋 ;
+    mo:SubRegion mr:JP_長野県長野市岩石町 ;
+    mo:SubRegion mr:JP_長野県長野市北石堂町 ;
+    mo:SubRegion mr:JP_長野県長野市北尾張部 ;
+    mo:SubRegion mr:JP_長野県長野市北郷 ;
+    mo:SubRegion mr:JP_長野県長野市北条町 ;
+    mo:SubRegion mr:JP_長野県長野市北長池 ;
+    mo:SubRegion mr:JP_長野県長野市北堀 ;
+    mo:SubRegion mr:JP_長野県長野市狐池 ;
+    mo:SubRegion mr:JP_長野県長野市鬼無里 ;
+    mo:SubRegion mr:JP_長野県長野市鬼無里日下野 ;
+    mo:SubRegion mr:JP_長野県長野市鬼無里日影 ;
+    mo:SubRegion mr:JP_長野県長野市桐原 ;
+    mo:SubRegion mr:JP_長野県長野市栗田 ;
+    mo:SubRegion mr:JP_長野県長野市栗田北中 ;
+    mo:SubRegion mr:JP_長野県長野市小柴見 ;
+    mo:SubRegion mr:JP_長野県長野市小島 ;
+    mo:SubRegion mr:JP_長野県長野市小鍋 ;
+    mo:SubRegion mr:JP_長野県長野市権堂町 ;
+    mo:SubRegion mr:JP_長野県長野市栄町 ;
+    mo:SubRegion mr:JP_長野県長野市坂中 ;
+    mo:SubRegion mr:JP_長野県長野市桜 ;
+    mo:SubRegion mr:JP_長野県長野市桜枝町 ;
+    mo:SubRegion mr:JP_長野県長野市桜新町 ;
+    mo:SubRegion mr:JP_長野県長野市差出南 ;
+    mo:SubRegion mr:JP_長野県長野市里島 ;
+    mo:SubRegion mr:JP_長野県長野市早苗町 ;
+    mo:SubRegion mr:JP_長野県長野市三才 ;
+    mo:SubRegion mr:JP_長野県長野市三本柳西 ;
+    mo:SubRegion mr:JP_長野県長野市三本柳東 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井会 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井石川 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井有旅 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井岡田 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井御幣川 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井杵淵 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井小松原 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井小森 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井塩崎 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井東福寺 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井西寺尾 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井布施五明 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井布施高田 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井二ツ柳 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井山布施 ;
+    mo:SubRegion mr:JP_長野県長野市篠ノ井横田 ;
+    mo:SubRegion mr:JP_長野県長野市下駒沢 ;
+    mo:SubRegion mr:JP_長野県長野市下氷鉋 ;
+    mo:SubRegion mr:JP_長野県長野市伺去 ;
+    mo:SubRegion mr:JP_長野県長野市塩生 ;
+    mo:SubRegion mr:JP_長野県長野市真光寺 ;
+    mo:SubRegion mr:JP_長野県長野市信更町赤田 ;
+    mo:SubRegion mr:JP_長野県長野市信更町上尾 ;
+    mo:SubRegion mr:JP_長野県長野市信更町今泉 ;
+    mo:SubRegion mr:JP_長野県長野市信更町桜井 ;
+    mo:SubRegion mr:JP_長野県長野市信更町三水 ;
+    mo:SubRegion mr:JP_長野県長野市信更町下平 ;
+    mo:SubRegion mr:JP_長野県長野市信更町高野 ;
+    mo:SubRegion mr:JP_長野県長野市信更町田沢 ;
+    mo:SubRegion mr:JP_長野県長野市信更町田野口 ;
+    mo:SubRegion mr:JP_長野県長野市信更町灰原 ;
+    mo:SubRegion mr:JP_長野県長野市信更町氷ノ田 ;
+    mo:SubRegion mr:JP_長野県長野市信更町古藤 ;
+    mo:SubRegion mr:JP_長野県長野市信更町宮平 ;
+    mo:SubRegion mr:JP_長野県長野市信更町安庭 ;
+    mo:SubRegion mr:JP_長野県長野市信更町吉原 ;
+    mo:SubRegion mr:JP_長野県長野市信更町涌池 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町上条 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町越道 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町里穂刈 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町下市場 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町新町 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町左右 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町竹房 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町中牧 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町信級 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町日原西 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町日原東 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町弘崎 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町牧田中 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町牧野島 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町水内 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町山上条 ;
+    mo:SubRegion mr:JP_長野県長野市信州新町山穂刈 ;
+    mo:SubRegion mr:JP_長野県長野市新諏訪 ;
+    mo:SubRegion mr:JP_長野県長野市新諏訪町 ;
+    mo:SubRegion mr:JP_長野県長野市新田町 ;
+    mo:SubRegion mr:JP_長野県長野市新町 ;
+    mo:SubRegion mr:JP_長野県長野市神明 ;
+    mo:SubRegion mr:JP_長野県長野市末広町 ;
+    mo:SubRegion mr:JP_長野県長野市諏訪町 ;
+    mo:SubRegion mr:JP_長野県長野市台ケ窪 ;
+    mo:SubRegion mr:JP_長野県長野市大門町 ;
+    mo:SubRegion mr:JP_長野県長野市高田 ;
+    mo:SubRegion mr:JP_長野県長野市田子 ;
+    mo:SubRegion mr:JP_長野県長野市鑪 ;
+    mo:SubRegion mr:JP_長野県長野市立町 ;
+    mo:SubRegion mr:JP_長野県長野市田中 ;
+    mo:SubRegion mr:JP_長野県長野市田町 ;
+    mo:SubRegion mr:JP_長野県長野市丹波島 ;
+    mo:SubRegion mr:JP_長野県長野市津野 ;
+    mo:SubRegion mr:JP_長野県長野市妻科 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀 ;
+    mo:SubRegion mr:JP_長野県長野市問御所町 ;
+    mo:SubRegion mr:JP_長野県長野市戸隠 ;
+    mo:SubRegion mr:JP_長野県長野市戸隠祖山 ;
+    mo:SubRegion mr:JP_長野県長野市戸隠栃原 ;
+    mo:SubRegion mr:JP_長野県長野市戸隠豊岡 ;
+    mo:SubRegion mr:JP_長野県長野市徳間 ;
+    mo:SubRegion mr:JP_長野県長野市富田 ;
+    mo:SubRegion mr:JP_長野県長野市富竹 ;
+    mo:SubRegion mr:JP_長野県長野市豊野町浅野 ;
+    mo:SubRegion mr:JP_長野県長野市豊野町石 ;
+    mo:SubRegion mr:JP_長野県長野市豊野町大倉 ;
+    mo:SubRegion mr:JP_長野県長野市豊野町蟹沢 ;
+    mo:SubRegion mr:JP_長野県長野市豊野町川谷 ;
+    mo:SubRegion mr:JP_長野県長野市豊野町豊野 ;
+    mo:SubRegion mr:JP_長野県長野市豊野町南郷 ;
+    mo:SubRegion mr:JP_長野県長野市中越 ;
+    mo:SubRegion mr:JP_長野県長野市中御所 ;
+    mo:SubRegion mr:JP_長野県長野市中御所町 ;
+    mo:SubRegion mr:JP_長野県長野市中条 ;
+    mo:SubRegion mr:JP_長野県長野市中条日下野 ;
+    mo:SubRegion mr:JP_長野県長野市中条住良木 ;
+    mo:SubRegion mr:JP_長野県長野市中条日高 ;
+    mo:SubRegion mr:JP_長野県長野市中条御山里 ;
+    mo:SubRegion mr:JP_長野県長野市中曽根 ;
+    mo:SubRegion mr:JP_長野県長野市長門町 ;
+    mo:SubRegion mr:JP_長野県長野市七瀬 ;
+    mo:SubRegion mr:JP_長野県長野市七瀬中町 ;
+    mo:SubRegion mr:JP_長野県長野市七瀬南部 ;
+    mo:SubRegion mr:JP_長野県長野市七二会乙 ;
+    mo:SubRegion mr:JP_長野県長野市七二会己 ;
+    mo:SubRegion mr:JP_長野県長野市七二会甲 ;
+    mo:SubRegion mr:JP_長野県長野市七二会丁 ;
+    mo:SubRegion mr:JP_長野県長野市七二会丙 ;
+    mo:SubRegion mr:JP_長野県長野市七二会戊 ;
+    mo:SubRegion mr:JP_長野県長野市西尾張部 ;
+    mo:SubRegion mr:JP_長野県長野市西後町 ;
+    mo:SubRegion mr:JP_長野県長野市西三才 ;
+    mo:SubRegion mr:JP_長野県長野市西鶴賀町 ;
+    mo:SubRegion mr:JP_長野県長野市西長野 ;
+    mo:SubRegion mr:JP_長野県長野市西之門町 ;
+    mo:SubRegion mr:JP_長野県長野市西町 ;
+    mo:SubRegion mr:JP_長野県長野市西和田 ;
+    mo:SubRegion mr:JP_長野県長野市箱清水 ;
+    mo:SubRegion mr:JP_長野県長野市花咲町 ;
+    mo:SubRegion mr:JP_長野県長野市東後町 ;
+    mo:SubRegion mr:JP_長野県長野市東犀南 ;
+    mo:SubRegion mr:JP_長野県長野市東鶴賀町 ;
+    mo:SubRegion mr:JP_長野県長野市東之門町 ;
+    mo:SubRegion mr:JP_長野県長野市東町 ;
+    mo:SubRegion mr:JP_長野県長野市東和田 ;
+    mo:SubRegion mr:JP_長野県長野市平柴 ;
+    mo:SubRegion mr:JP_長野県長野市平柴台 ;
+    mo:SubRegion mr:JP_長野県長野市平林 ;
+    mo:SubRegion mr:JP_長野県長野市広瀬 ;
+    mo:SubRegion mr:JP_長野県長野市広田 ;
+    mo:SubRegion mr:JP_長野県長野市穂保 ;
+    mo:SubRegion mr:JP_長野県長野市真島町川合 ;
+    mo:SubRegion mr:JP_長野県長野市真島町真島 ;
+    mo:SubRegion mr:JP_長野県長野市松岡 ;
+    mo:SubRegion mr:JP_長野県長野市松代温泉 ;
+    mo:SubRegion mr:JP_長野県長野市松代町岩野 ;
+    mo:SubRegion mr:JP_長野県長野市松代町大室 ;
+    mo:SubRegion mr:JP_長野県長野市松代町小島田 ;
+    mo:SubRegion mr:JP_長野県長野市松代町清野 ;
+    mo:SubRegion mr:JP_長野県長野市松代町柴 ;
+    mo:SubRegion mr:JP_長野県長野市松代町城東 ;
+    mo:SubRegion mr:JP_長野県長野市松代町城北 ;
+    mo:SubRegion mr:JP_長野県長野市松代町豊栄 ;
+    mo:SubRegion mr:JP_長野県長野市松代町西条 ;
+    mo:SubRegion mr:JP_長野県長野市松代町西寺尾 ;
+    mo:SubRegion mr:JP_長野県長野市松代町東条 ;
+    mo:SubRegion mr:JP_長野県長野市松代町東寺尾 ;
+    mo:SubRegion mr:JP_長野県長野市松代町牧島 ;
+    mo:SubRegion mr:JP_長野県長野市松代町松代 ;
+    mo:SubRegion mr:JP_長野県長野市大豆島 ;
+    mo:SubRegion mr:JP_長野県長野市檀田 ;
+    mo:SubRegion mr:JP_長野県長野市みこと川 ;
+    mo:SubRegion mr:JP_長野県長野市三ツ出 ;
+    mo:SubRegion mr:JP_長野県長野市緑町 ;
+    mo:SubRegion mr:JP_長野県長野市皆神台 ;
+    mo:SubRegion mr:JP_長野県長野市南県町 ;
+    mo:SubRegion mr:JP_長野県長野市南石堂町 ;
+    mo:SubRegion mr:JP_長野県長野市南高田 ;
+    mo:SubRegion mr:JP_長野県長野市南千歳 ;
+    mo:SubRegion mr:JP_長野県長野市南千歳町 ;
+    mo:SubRegion mr:JP_長野県長野市南長池 ;
+    mo:SubRegion mr:JP_長野県長野市南長野 ;
+    mo:SubRegion mr:JP_長野県長野市南堀 ;
+    mo:SubRegion mr:JP_長野県長野市宮沖 ;
+    mo:SubRegion mr:JP_長野県長野市三輪 ;
+    mo:SubRegion mr:JP_長野県長野市三輪田町 ;
+    mo:SubRegion mr:JP_長野県長野市村山 ;
+    mo:SubRegion mr:JP_長野県長野市茂菅 ;
+    mo:SubRegion mr:JP_長野県長野市元善町 ;
+    mo:SubRegion mr:JP_長野県長野市屋敷田 ;
+    mo:SubRegion mr:JP_長野県長野市屋島 ;
+    mo:SubRegion mr:JP_長野県長野市柳原 ;
+    mo:SubRegion mr:JP_長野県長野市柳町 ;
+    mo:SubRegion mr:JP_長野県長野市山田中 ;
+    mo:SubRegion mr:JP_長野県長野市横沢町 ;
+    mo:SubRegion mr:JP_長野県長野市横町 ;
+    mo:SubRegion mr:JP_長野県長野市横山 ;
+    mo:SubRegion mr:JP_長野県長野市吉 ;
+    mo:SubRegion mr:JP_長野県長野市吉田 ;
+    mo:SubRegion mr:JP_長野県長野市淀ケ橋 ;
+    mo:SubRegion mr:JP_長野県長野市若里 ;
+    mo:SubRegion mr:JP_長野県長野市若槻東条 ;
+    mo:SubRegion mr:JP_長野県長野市若槻団地 ;
+    mo:SubRegion mr:JP_長野県長野市若槻西条 ;
+    mo:SubRegion mr:JP_長野県長野市若穂川田 ;
+    mo:SubRegion mr:JP_長野県長野市若穂保科 ;
+    mo:SubRegion mr:JP_長野県長野市若穂綿内 ;
+    mo:SubRegion mr:JP_長野県長野市若穂牛島 ;
+    mo:SubRegion mr:JP_長野県長野市若松町 ;
+    mo:SubRegion mr:JP_長野県長野市若宮 ;
+a mo:GeoEntity .
+
+mr:JP_長野県長野市アークス
+    rdfs:label "アークス"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市青木島
+    rdfs:label "青木島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市青木島町青木島
+    rdfs:label "青木島町青木島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市青木島町青木島乙
+    rdfs:label "青木島町青木島乙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市青木島町大塚
+    rdfs:label "青木島町大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市青木島町綱島
+    rdfs:label "青木島町綱島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市赤沼
+    rdfs:label "赤沼"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市県町
+    rdfs:label "県町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市上ケ屋
+    rdfs:label "上ケ屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市浅川
+    rdfs:label "浅川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市浅川押田
+    rdfs:label "浅川押田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市浅川清水
+    rdfs:label "浅川清水"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市浅川西条
+    rdfs:label "浅川西条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市浅川西平
+    rdfs:label "浅川西平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市浅川畑山
+    rdfs:label "浅川畑山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市浅川東条
+    rdfs:label "浅川東条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市浅川福岡
+    rdfs:label "浅川福岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里
+    rdfs:label "安茂里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里杏花台
+    rdfs:label "安茂里杏花台"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里小市
+    rdfs:label "安茂里小市"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里小路
+    rdfs:label "安茂里小路"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里米村
+    rdfs:label "安茂里米村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里犀北
+    rdfs:label "安茂里犀北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里犀北団地
+    rdfs:label "安茂里犀北団地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里差出
+    rdfs:label "安茂里差出"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里大門
+    rdfs:label "安茂里大門"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市安茂里西河原
+    rdfs:label "安茂里西河原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市荒屋
+    rdfs:label "荒屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市石渡
+    rdfs:label "石渡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市泉平
+    rdfs:label "泉平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市伊勢町
+    rdfs:label "伊勢町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市伊勢宮
+    rdfs:label "伊勢宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市市場
+    rdfs:label "市場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲里
+    rdfs:label "稲里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲里町下氷鉋
+    rdfs:label "稲里町下氷鉋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲里町田牧
+    rdfs:label "稲里町田牧"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲里町中央
+    rdfs:label "稲里町中央"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲里町中氷鉋
+    rdfs:label "稲里町中氷鉋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲田
+    rdfs:label "稲田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲葉
+    rdfs:label "稲葉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲葉上千田
+    rdfs:label "稲葉上千田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲葉中千田
+    rdfs:label "稲葉中千田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲葉日詰
+    rdfs:label "稲葉日詰"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲葉南俣
+    rdfs:label "稲葉南俣"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市稲葉母袋
+    rdfs:label "稲葉母袋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市居町
+    rdfs:label "居町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市入山
+    rdfs:label "入山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市上松
+    rdfs:label "上松"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市往生地
+    rdfs:label "往生地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大岡乙
+    rdfs:label "大岡乙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大岡甲
+    rdfs:label "大岡甲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大岡中牧
+    rdfs:label "大岡中牧"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大岡弘崎
+    rdfs:label "大岡弘崎"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大岡丙
+    rdfs:label "大岡丙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大橋南
+    rdfs:label "大橋南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大町
+    rdfs:label "大町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市岡田町
+    rdfs:label "岡田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市小島田町
+    rdfs:label "小島田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市神楽橋
+    rdfs:label "神楽橋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市風間
+    rdfs:label "風間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市合戦場
+    rdfs:label "合戦場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市門沢
+    rdfs:label "門沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市金井田
+    rdfs:label "金井田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市金箱
+    rdfs:label "金箱"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市上駒沢
+    rdfs:label "上駒沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市上千歳町
+    rdfs:label "上千歳町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市上西之門町
+    rdfs:label "上西之門町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川合新田
+    rdfs:label "川合新田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川中島町若葉町
+    rdfs:label "川中島町若葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川中島町今井
+    rdfs:label "川中島町今井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川中島町今井原
+    rdfs:label "川中島町今井原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川中島町今里
+    rdfs:label "川中島町今里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川中島町上氷鉋
+    rdfs:label "川中島町上氷鉋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川中島町原
+    rdfs:label "川中島町原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川中島町御厨
+    rdfs:label "川中島町御厨"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市川中島町四ツ屋
+    rdfs:label "川中島町四ツ屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市岩石町
+    rdfs:label "岩石町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市北石堂町
+    rdfs:label "北石堂町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市北尾張部
+    rdfs:label "北尾張部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市北郷
+    rdfs:label "北郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市北条町
+    rdfs:label "北条町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市北長池
+    rdfs:label "北長池"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市北堀
+    rdfs:label "北堀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市狐池
+    rdfs:label "狐池"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鬼無里
+    rdfs:label "鬼無里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鬼無里日下野
+    rdfs:label "鬼無里日下野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鬼無里日影
+    rdfs:label "鬼無里日影"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市桐原
+    rdfs:label "桐原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市栗田
+    rdfs:label "栗田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市栗田北中
+    rdfs:label "栗田北中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市小柴見
+    rdfs:label "小柴見"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市小鍋
+    rdfs:label "小鍋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市権堂町
+    rdfs:label "権堂町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市坂中
+    rdfs:label "坂中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市桜
+    rdfs:label "桜"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市桜枝町
+    rdfs:label "桜枝町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市桜新町
+    rdfs:label "桜新町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市差出南
+    rdfs:label "差出南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市里島
+    rdfs:label "里島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市早苗町
+    rdfs:label "早苗町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市三才
+    rdfs:label "三才"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市三本柳西
+    rdfs:label "三本柳西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市三本柳東
+    rdfs:label "三本柳東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井会
+    rdfs:label "篠ノ井会"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井石川
+    rdfs:label "篠ノ井石川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井有旅
+    rdfs:label "篠ノ井有旅"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井岡田
+    rdfs:label "篠ノ井岡田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井御幣川
+    rdfs:label "篠ノ井御幣川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井杵淵
+    rdfs:label "篠ノ井杵淵"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井小松原
+    rdfs:label "篠ノ井小松原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井小森
+    rdfs:label "篠ノ井小森"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井塩崎
+    rdfs:label "篠ノ井塩崎"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井東福寺
+    rdfs:label "篠ノ井東福寺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井西寺尾
+    rdfs:label "篠ノ井西寺尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井布施五明
+    rdfs:label "篠ノ井布施五明"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井布施高田
+    rdfs:label "篠ノ井布施高田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井二ツ柳
+    rdfs:label "篠ノ井二ツ柳"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井山布施
+    rdfs:label "篠ノ井山布施"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市篠ノ井横田
+    rdfs:label "篠ノ井横田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市下駒沢
+    rdfs:label "下駒沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市下氷鉋
+    rdfs:label "下氷鉋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市伺去
+    rdfs:label "伺去"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市塩生
+    rdfs:label "塩生"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市真光寺
+    rdfs:label "真光寺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町赤田
+    rdfs:label "信更町赤田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町上尾
+    rdfs:label "信更町上尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町今泉
+    rdfs:label "信更町今泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町桜井
+    rdfs:label "信更町桜井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町三水
+    rdfs:label "信更町三水"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町下平
+    rdfs:label "信更町下平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町高野
+    rdfs:label "信更町高野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町田沢
+    rdfs:label "信更町田沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町田野口
+    rdfs:label "信更町田野口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町灰原
+    rdfs:label "信更町灰原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町氷ノ田
+    rdfs:label "信更町氷ノ田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町古藤
+    rdfs:label "信更町古藤"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町宮平
+    rdfs:label "信更町宮平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町安庭
+    rdfs:label "信更町安庭"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町吉原
+    rdfs:label "信更町吉原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信更町涌池
+    rdfs:label "信更町涌池"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町上条
+    rdfs:label "信州新町上条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町越道
+    rdfs:label "信州新町越道"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町里穂刈
+    rdfs:label "信州新町里穂刈"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町下市場
+    rdfs:label "信州新町下市場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町新町
+    rdfs:label "信州新町新町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町左右
+    rdfs:label "信州新町左右"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町竹房
+    rdfs:label "信州新町竹房"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町中牧
+    rdfs:label "信州新町中牧"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町信級
+    rdfs:label "信州新町信級"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町日原西
+    rdfs:label "信州新町日原西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町日原東
+    rdfs:label "信州新町日原東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町弘崎
+    rdfs:label "信州新町弘崎"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町牧田中
+    rdfs:label "信州新町牧田中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町牧野島
+    rdfs:label "信州新町牧野島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町水内
+    rdfs:label "信州新町水内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町山上条
+    rdfs:label "信州新町山上条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市信州新町山穂刈
+    rdfs:label "信州新町山穂刈"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市新諏訪
+    rdfs:label "新諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市新諏訪町
+    rdfs:label "新諏訪町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市新田町
+    rdfs:label "新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市神明
+    rdfs:label "神明"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市諏訪町
+    rdfs:label "諏訪町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市台ケ窪
+    rdfs:label "台ケ窪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大門町
+    rdfs:label "大門町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市高田
+    rdfs:label "高田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市田子
+    rdfs:label "田子"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鑪
+    rdfs:label "鑪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市立町
+    rdfs:label "立町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市田中
+    rdfs:label "田中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市田町
+    rdfs:label "田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市丹波島
+    rdfs:label "丹波島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市津野
+    rdfs:label "津野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市妻科
+    rdfs:label "妻科"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀
+    rdfs:label "鶴賀"@ja ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀居町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀上千歳町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀権堂町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀早苗町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀田町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀問御所町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀中堰 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀七瀬 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀七瀬中町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀七瀬南部 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀西鶴賀町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀東鶴賀町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀緑町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀南千歳町 ;
+    mo:SubRegion mr:JP_長野県長野市鶴賀峰村 ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀居町
+    rdfs:label "居町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀上千歳町
+    rdfs:label "上千歳町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀権堂町
+    rdfs:label "権堂町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀早苗町
+    rdfs:label "早苗町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀田町
+    rdfs:label "田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀問御所町
+    rdfs:label "問御所町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀中堰
+    rdfs:label "中堰"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀七瀬
+    rdfs:label "七瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀七瀬中町
+    rdfs:label "七瀬中町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀七瀬南部
+    rdfs:label "七瀬南部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀西鶴賀町
+    rdfs:label "西鶴賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀東鶴賀町
+    rdfs:label "東鶴賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀南千歳町
+    rdfs:label "南千歳町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市鶴賀峰村
+    rdfs:label "峰村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市問御所町
+    rdfs:label "問御所町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市戸隠
+    rdfs:label "戸隠"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市戸隠祖山
+    rdfs:label "戸隠祖山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市戸隠栃原
+    rdfs:label "戸隠栃原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市戸隠豊岡
+    rdfs:label "戸隠豊岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市徳間
+    rdfs:label "徳間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市富田
+    rdfs:label "富田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市富竹
+    rdfs:label "富竹"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市豊野町浅野
+    rdfs:label "豊野町浅野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市豊野町石
+    rdfs:label "豊野町石"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市豊野町大倉
+    rdfs:label "豊野町大倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市豊野町蟹沢
+    rdfs:label "豊野町蟹沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市豊野町川谷
+    rdfs:label "豊野町川谷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市豊野町豊野
+    rdfs:label "豊野町豊野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市豊野町南郷
+    rdfs:label "豊野町南郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中越
+    rdfs:label "中越"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中御所
+    rdfs:label "中御所"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中御所町
+    rdfs:label "中御所町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中条
+    rdfs:label "中条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中条日下野
+    rdfs:label "中条日下野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中条住良木
+    rdfs:label "中条住良木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中条日高
+    rdfs:label "中条日高"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中条御山里
+    rdfs:label "中条御山里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市中曽根
+    rdfs:label "中曽根"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市長門町
+    rdfs:label "長門町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七瀬
+    rdfs:label "七瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七瀬中町
+    rdfs:label "七瀬中町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七瀬南部
+    rdfs:label "七瀬南部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七二会乙
+    rdfs:label "七二会乙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七二会己
+    rdfs:label "七二会己"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七二会甲
+    rdfs:label "七二会甲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七二会丁
+    rdfs:label "七二会丁"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七二会丙
+    rdfs:label "七二会丙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市七二会戊
+    rdfs:label "七二会戊"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市西尾張部
+    rdfs:label "西尾張部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市西後町
+    rdfs:label "西後町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市西三才
+    rdfs:label "西三才"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市西鶴賀町
+    rdfs:label "西鶴賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市西長野
+    rdfs:label "西長野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市西之門町
+    rdfs:label "西之門町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市西和田
+    rdfs:label "西和田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市箱清水
+    rdfs:label "箱清水"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市花咲町
+    rdfs:label "花咲町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市東後町
+    rdfs:label "東後町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市東犀南
+    rdfs:label "東犀南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市東鶴賀町
+    rdfs:label "東鶴賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市東之門町
+    rdfs:label "東之門町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市東和田
+    rdfs:label "東和田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市平柴
+    rdfs:label "平柴"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市平柴台
+    rdfs:label "平柴台"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市平林
+    rdfs:label "平林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市広田
+    rdfs:label "広田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市穂保
+    rdfs:label "穂保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市真島町川合
+    rdfs:label "真島町川合"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市真島町真島
+    rdfs:label "真島町真島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松岡
+    rdfs:label "松岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代温泉
+    rdfs:label "松代温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町岩野
+    rdfs:label "松代町岩野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町大室
+    rdfs:label "松代町大室"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町小島田
+    rdfs:label "松代町小島田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町清野
+    rdfs:label "松代町清野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町柴
+    rdfs:label "松代町柴"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町城東
+    rdfs:label "松代町城東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町城北
+    rdfs:label "松代町城北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町豊栄
+    rdfs:label "松代町豊栄"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町西条
+    rdfs:label "松代町西条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町西寺尾
+    rdfs:label "松代町西寺尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町東条
+    rdfs:label "松代町東条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町東寺尾
+    rdfs:label "松代町東寺尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町牧島
+    rdfs:label "松代町牧島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市松代町松代
+    rdfs:label "松代町松代"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市大豆島
+    rdfs:label "大豆島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市檀田
+    rdfs:label "檀田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市みこと川
+    rdfs:label "みこと川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市三ツ出
+    rdfs:label "三ツ出"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市皆神台
+    rdfs:label "皆神台"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南県町
+    rdfs:label "南県町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南石堂町
+    rdfs:label "南石堂町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南高田
+    rdfs:label "南高田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南千歳
+    rdfs:label "南千歳"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南千歳町
+    rdfs:label "南千歳町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南長池
+    rdfs:label "南長池"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南長野
+    rdfs:label "南長野"@ja ;
+    mo:SubRegion mr:JP_長野県長野市南長野幅下 ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南長野幅下
+    rdfs:label "幅下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市南堀
+    rdfs:label "南堀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市宮沖
+    rdfs:label "宮沖"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市三輪
+    rdfs:label "三輪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市三輪田町
+    rdfs:label "三輪田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市村山
+    rdfs:label "村山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市茂菅
+    rdfs:label "茂菅"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市元善町
+    rdfs:label "元善町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市屋敷田
+    rdfs:label "屋敷田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市屋島
+    rdfs:label "屋島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市柳原
+    rdfs:label "柳原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市柳町
+    rdfs:label "柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市山田中
+    rdfs:label "山田中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市横沢町
+    rdfs:label "横沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市横町
+    rdfs:label "横町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市横山
+    rdfs:label "横山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市吉
+    rdfs:label "吉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市淀ケ橋
+    rdfs:label "淀ケ橋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若里
+    rdfs:label "若里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若槻東条
+    rdfs:label "若槻東条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若槻団地
+    rdfs:label "若槻団地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若槻西条
+    rdfs:label "若槻西条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若穂川田
+    rdfs:label "若穂川田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若穂保科
+    rdfs:label "若穂保科"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若穂綿内
+    rdfs:label "若穂綿内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若穂牛島
+    rdfs:label "若穂牛島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若松町
+    rdfs:label "若松町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県長野市若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市
+    rdfs:label "松本市"@ja ;
+    mo:AreaCode "20202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県松本市会田 ;
+    mo:SubRegion mr:JP_長野県松本市県 ;
+    mo:SubRegion mr:JP_長野県松本市赤怒田 ;
+    mo:SubRegion mr:JP_長野県松本市旭 ;
+    mo:SubRegion mr:JP_長野県松本市浅間温泉 ;
+    mo:SubRegion mr:JP_長野県松本市梓川梓 ;
+    mo:SubRegion mr:JP_長野県松本市梓川上野 ;
+    mo:SubRegion mr:JP_長野県松本市梓川倭 ;
+    mo:SubRegion mr:JP_長野県松本市安曇 ;
+    mo:SubRegion mr:JP_長野県松本市穴沢 ;
+    mo:SubRegion mr:JP_長野県松本市蟻ケ崎 ;
+    mo:SubRegion mr:JP_長野県松本市蟻ケ崎台 ;
+    mo:SubRegion mr:JP_長野県松本市井川城 ;
+    mo:SubRegion mr:JP_長野県松本市石芝 ;
+    mo:SubRegion mr:JP_長野県松本市板場 ;
+    mo:SubRegion mr:JP_長野県松本市市場 ;
+    mo:SubRegion mr:JP_長野県松本市出川 ;
+    mo:SubRegion mr:JP_長野県松本市出川町 ;
+    mo:SubRegion mr:JP_長野県松本市今井 ;
+    mo:SubRegion mr:JP_長野県松本市入山辺 ;
+    mo:SubRegion mr:JP_長野県松本市埋橋 ;
+    mo:SubRegion mr:JP_長野県松本市内田 ;
+    mo:SubRegion mr:JP_長野県松本市大手 ;
+    mo:SubRegion mr:JP_長野県松本市大村 ;
+    mo:SubRegion mr:JP_長野県松本市岡田伊深 ;
+    mo:SubRegion mr:JP_長野県松本市岡田下岡田 ;
+    mo:SubRegion mr:JP_長野県松本市岡田町 ;
+    mo:SubRegion mr:JP_長野県松本市岡田松岡 ;
+    mo:SubRegion mr:JP_長野県松本市開智 ;
+    mo:SubRegion mr:JP_長野県松本市金山町 ;
+    mo:SubRegion mr:JP_長野県松本市鎌田 ;
+    mo:SubRegion mr:JP_長野県松本市刈谷原町 ;
+    mo:SubRegion mr:JP_長野県松本市神田 ;
+    mo:SubRegion mr:JP_長野県松本市神林 ;
+    mo:SubRegion mr:JP_長野県松本市北深志 ;
+    mo:SubRegion mr:JP_長野県松本市桐 ;
+    mo:SubRegion mr:JP_長野県松本市空港東 ;
+    mo:SubRegion mr:JP_長野県松本市五常 ;
+    mo:SubRegion mr:JP_長野県松本市寿小赤 ;
+    mo:SubRegion mr:JP_長野県松本市寿白瀬渕 ;
+    mo:SubRegion mr:JP_長野県松本市寿台 ;
+    mo:SubRegion mr:JP_長野県松本市寿豊丘 ;
+    mo:SubRegion mr:JP_長野県松本市寿北 ;
+    mo:SubRegion mr:JP_長野県松本市寿中 ;
+    mo:SubRegion mr:JP_長野県松本市寿南 ;
+    mo:SubRegion mr:JP_長野県松本市小屋北 ;
+    mo:SubRegion mr:JP_長野県松本市小屋南 ;
+    mo:SubRegion mr:JP_長野県松本市笹賀 ;
+    mo:SubRegion mr:JP_長野県松本市笹部 ;
+    mo:SubRegion mr:JP_長野県松本市里山辺 ;
+    mo:SubRegion mr:JP_長野県松本市沢村 ;
+    mo:SubRegion mr:JP_長野県松本市稲倉 ;
+    mo:SubRegion mr:JP_長野県松本市島内 ;
+    mo:SubRegion mr:JP_長野県松本市島立 ;
+    mo:SubRegion mr:JP_長野県松本市清水 ;
+    mo:SubRegion mr:JP_長野県松本市城西 ;
+    mo:SubRegion mr:JP_長野県松本市城東 ;
+    mo:SubRegion mr:JP_長野県松本市庄内 ;
+    mo:SubRegion mr:JP_長野県松本市城山 ;
+    mo:SubRegion mr:JP_長野県松本市白板 ;
+    mo:SubRegion mr:JP_長野県松本市新橋 ;
+    mo:SubRegion mr:JP_長野県松本市惣社 ;
+    mo:SubRegion mr:JP_長野県松本市征矢野 ;
+    mo:SubRegion mr:JP_長野県松本市反町 ;
+    mo:SubRegion mr:JP_長野県松本市高宮中 ;
+    mo:SubRegion mr:JP_長野県松本市高宮東 ;
+    mo:SubRegion mr:JP_長野県松本市高宮西 ;
+    mo:SubRegion mr:JP_長野県松本市高宮南 ;
+    mo:SubRegion mr:JP_長野県松本市高宮北 ;
+    mo:SubRegion mr:JP_長野県松本市中央 ;
+    mo:SubRegion mr:JP_長野県松本市筑摩 ;
+    mo:SubRegion mr:JP_長野県松本市殿野入 ;
+    mo:SubRegion mr:JP_長野県松本市取出 ;
+    mo:SubRegion mr:JP_長野県松本市中川 ;
+    mo:SubRegion mr:JP_長野県松本市中条 ;
+    mo:SubRegion mr:JP_長野県松本市中山 ;
+    mo:SubRegion mr:JP_長野県松本市中山台 ;
+    mo:SubRegion mr:JP_長野県松本市奈川 ;
+    mo:SubRegion mr:JP_長野県松本市渚 ;
+    mo:SubRegion mr:JP_長野県松本市七嵐 ;
+    mo:SubRegion mr:JP_長野県松本市並柳 ;
+    mo:SubRegion mr:JP_長野県松本市新村 ;
+    mo:SubRegion mr:JP_長野県松本市野溝西 ;
+    mo:SubRegion mr:JP_長野県松本市野溝東 ;
+    mo:SubRegion mr:JP_長野県松本市野溝木工 ;
+    mo:SubRegion mr:JP_長野県松本市波田 ;
+    mo:SubRegion mr:JP_長野県松本市巾上 ;
+    mo:SubRegion mr:JP_長野県松本市原 ;
+    mo:SubRegion mr:JP_長野県松本市平田東 ;
+    mo:SubRegion mr:JP_長野県松本市平田西 ;
+    mo:SubRegion mr:JP_長野県松本市深志 ;
+    mo:SubRegion mr:JP_長野県松本市双葉 ;
+    mo:SubRegion mr:JP_長野県松本市保福寺町 ;
+    mo:SubRegion mr:JP_長野県松本市洞 ;
+    mo:SubRegion mr:JP_長野県松本市本庄 ;
+    mo:SubRegion mr:JP_長野県松本市松原 ;
+    mo:SubRegion mr:JP_長野県松本市丸の内 ;
+    mo:SubRegion mr:JP_長野県松本市三才山 ;
+    mo:SubRegion mr:JP_長野県松本市美須々 ;
+    mo:SubRegion mr:JP_長野県松本市水汲 ;
+    mo:SubRegion mr:JP_長野県松本市南浅間 ;
+    mo:SubRegion mr:JP_長野県松本市南原 ;
+    mo:SubRegion mr:JP_長野県松本市南松本 ;
+    mo:SubRegion mr:JP_長野県松本市宮田 ;
+    mo:SubRegion mr:JP_長野県松本市宮渕 ;
+    mo:SubRegion mr:JP_長野県松本市宮渕本村 ;
+    mo:SubRegion mr:JP_長野県松本市村井町北 ;
+    mo:SubRegion mr:JP_長野県松本市村井町西 ;
+    mo:SubRegion mr:JP_長野県松本市村井町南 ;
+    mo:SubRegion mr:JP_長野県松本市女鳥羽 ;
+    mo:SubRegion mr:JP_長野県松本市元町 ;
+    mo:SubRegion mr:JP_長野県松本市横田 ;
+    mo:SubRegion mr:JP_長野県松本市芳野 ;
+    mo:SubRegion mr:JP_長野県松本市両島 ;
+    mo:SubRegion mr:JP_長野県松本市和田 ;
+a mo:GeoEntity .
+
+mr:JP_長野県松本市会田
+    rdfs:label "会田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市県
+    rdfs:label "県"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市赤怒田
+    rdfs:label "赤怒田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市旭
+    rdfs:label "旭"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市浅間温泉
+    rdfs:label "浅間温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市梓川梓
+    rdfs:label "梓川梓"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市梓川上野
+    rdfs:label "梓川上野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市梓川倭
+    rdfs:label "梓川倭"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇
+    rdfs:label "安曇"@ja ;
+    mo:SubRegion mr:JP_長野県松本市安曇稲核 ;
+    mo:SubRegion mr:JP_長野県松本市安曇大野田 ;
+    mo:SubRegion mr:JP_長野県松本市安曇上高地 ;
+    mo:SubRegion mr:JP_長野県松本市安曇沢渡 ;
+    mo:SubRegion mr:JP_長野県松本市安曇島々 ;
+    mo:SubRegion mr:JP_長野県松本市安曇白骨 ;
+    mo:SubRegion mr:JP_長野県松本市安曇鈴蘭 ;
+    mo:SubRegion mr:JP_長野県松本市安曇千石平 ;
+    mo:SubRegion mr:JP_長野県松本市安曇楢ノ木 ;
+    mo:SubRegion mr:JP_長野県松本市安曇橋場 ;
+    mo:SubRegion mr:JP_長野県松本市安曇番所 ;
+    mo:SubRegion mr:JP_長野県松本市安曇宮の原 ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇稲核
+    rdfs:label "稲核"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇大野田
+    rdfs:label "大野田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇上高地
+    rdfs:label "上高地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇沢渡
+    rdfs:label "沢渡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇島々
+    rdfs:label "島々"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇白骨
+    rdfs:label "白骨"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇鈴蘭
+    rdfs:label "鈴蘭"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇千石平
+    rdfs:label "千石平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇楢ノ木
+    rdfs:label "楢ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇橋場
+    rdfs:label "橋場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇番所
+    rdfs:label "番所"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市安曇宮の原
+    rdfs:label "宮の原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市穴沢
+    rdfs:label "穴沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市蟻ケ崎
+    rdfs:label "蟻ケ崎"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市蟻ケ崎台
+    rdfs:label "蟻ケ崎台"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市井川城
+    rdfs:label "井川城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市石芝
+    rdfs:label "石芝"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市板場
+    rdfs:label "板場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市市場
+    rdfs:label "市場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市出川
+    rdfs:label "出川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市出川町
+    rdfs:label "出川町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市今井
+    rdfs:label "今井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市入山辺
+    rdfs:label "入山辺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市埋橋
+    rdfs:label "埋橋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市内田
+    rdfs:label "内田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市大手
+    rdfs:label "大手"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市大村
+    rdfs:label "大村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市岡田伊深
+    rdfs:label "岡田伊深"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市岡田下岡田
+    rdfs:label "岡田下岡田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市岡田町
+    rdfs:label "岡田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市岡田松岡
+    rdfs:label "岡田松岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市開智
+    rdfs:label "開智"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市金山町
+    rdfs:label "金山町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市鎌田
+    rdfs:label "鎌田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市刈谷原町
+    rdfs:label "刈谷原町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市神田
+    rdfs:label "神田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市神林
+    rdfs:label "神林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市北深志
+    rdfs:label "北深志"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市桐
+    rdfs:label "桐"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市空港東
+    rdfs:label "空港東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市五常
+    rdfs:label "五常"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市寿小赤
+    rdfs:label "寿小赤"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市寿白瀬渕
+    rdfs:label "寿白瀬渕"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市寿台
+    rdfs:label "寿台"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市寿豊丘
+    rdfs:label "寿豊丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市寿北
+    rdfs:label "寿北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市寿中
+    rdfs:label "寿中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市寿南
+    rdfs:label "寿南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市小屋北
+    rdfs:label "小屋北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市小屋南
+    rdfs:label "小屋南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市笹賀
+    rdfs:label "笹賀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市笹部
+    rdfs:label "笹部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市里山辺
+    rdfs:label "里山辺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市沢村
+    rdfs:label "沢村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市稲倉
+    rdfs:label "稲倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市島内
+    rdfs:label "島内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市島立
+    rdfs:label "島立"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市城西
+    rdfs:label "城西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市城東
+    rdfs:label "城東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市庄内
+    rdfs:label "庄内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市城山
+    rdfs:label "城山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市白板
+    rdfs:label "白板"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市新橋
+    rdfs:label "新橋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市惣社
+    rdfs:label "惣社"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市征矢野
+    rdfs:label "征矢野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市反町
+    rdfs:label "反町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市高宮中
+    rdfs:label "高宮中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市高宮東
+    rdfs:label "高宮東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市高宮西
+    rdfs:label "高宮西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市高宮南
+    rdfs:label "高宮南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市高宮北
+    rdfs:label "高宮北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市筑摩
+    rdfs:label "筑摩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市殿野入
+    rdfs:label "殿野入"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市取出
+    rdfs:label "取出"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市中川
+    rdfs:label "中川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市中条
+    rdfs:label "中条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市中山台
+    rdfs:label "中山台"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市奈川
+    rdfs:label "奈川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市渚
+    rdfs:label "渚"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市七嵐
+    rdfs:label "七嵐"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市並柳
+    rdfs:label "並柳"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市新村
+    rdfs:label "新村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市野溝西
+    rdfs:label "野溝西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市野溝東
+    rdfs:label "野溝東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市野溝木工
+    rdfs:label "野溝木工"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市波田
+    rdfs:label "波田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市巾上
+    rdfs:label "巾上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市平田東
+    rdfs:label "平田東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市平田西
+    rdfs:label "平田西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市深志
+    rdfs:label "深志"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市双葉
+    rdfs:label "双葉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市保福寺町
+    rdfs:label "保福寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市洞
+    rdfs:label "洞"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市本庄
+    rdfs:label "本庄"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市丸の内
+    rdfs:label "丸の内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市三才山
+    rdfs:label "三才山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市美須々
+    rdfs:label "美須々"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市水汲
+    rdfs:label "水汲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市南浅間
+    rdfs:label "南浅間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市南原
+    rdfs:label "南原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市南松本
+    rdfs:label "南松本"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市宮田
+    rdfs:label "宮田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市宮渕
+    rdfs:label "宮渕"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市宮渕本村
+    rdfs:label "宮渕本村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市村井町北
+    rdfs:label "村井町北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市村井町西
+    rdfs:label "村井町西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市村井町南
+    rdfs:label "村井町南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市女鳥羽
+    rdfs:label "女鳥羽"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市芳野
+    rdfs:label "芳野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市両島
+    rdfs:label "両島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県松本市和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市
+    rdfs:label "上田市"@ja ;
+    mo:AreaCode "20203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上田市蒼久保 ;
+    mo:SubRegion mr:JP_長野県上田市秋和 ;
+    mo:SubRegion mr:JP_長野県上田市生田 ;
+    mo:SubRegion mr:JP_長野県上田市岩下 ;
+    mo:SubRegion mr:JP_長野県上田市上田 ;
+    mo:SubRegion mr:JP_長野県上田市上田原 ;
+    mo:SubRegion mr:JP_長野県上田市上野 ;
+    mo:SubRegion mr:JP_長野県上田市浦野 ;
+    mo:SubRegion mr:JP_長野県上田市漆戸 ;
+    mo:SubRegion mr:JP_長野県上田市大手 ;
+    mo:SubRegion mr:JP_長野県上田市大屋 ;
+    mo:SubRegion mr:JP_長野県上田市岡 ;
+    mo:SubRegion mr:JP_長野県上田市鹿教湯温泉 ;
+    mo:SubRegion mr:JP_長野県上田市神畑 ;
+    mo:SubRegion mr:JP_長野県上田市神畑乙 ;
+    mo:SubRegion mr:JP_長野県上田市上塩尻 ;
+    mo:SubRegion mr:JP_長野県上田市上武石 ;
+    mo:SubRegion mr:JP_長野県上田市上丸子 ;
+    mo:SubRegion mr:JP_長野県上田市上室賀 ;
+    mo:SubRegion mr:JP_長野県上田市古安曽 ;
+    mo:SubRegion mr:JP_長野県上田市小泉 ;
+    mo:SubRegion mr:JP_長野県上田市越戸 ;
+    mo:SubRegion mr:JP_長野県上田市五加 ;
+    mo:SubRegion mr:JP_長野県上田市国分 ;
+    mo:SubRegion mr:JP_長野県上田市古里 ;
+    mo:SubRegion mr:JP_長野県上田市腰越 ;
+    mo:SubRegion mr:JP_長野県上田市小島 ;
+    mo:SubRegion mr:JP_長野県上田市御所 ;
+    mo:SubRegion mr:JP_長野県上田市小牧 ;
+    mo:SubRegion mr:JP_長野県上田市材木町 ;
+    mo:SubRegion mr:JP_長野県上田市真田町長 ;
+    mo:SubRegion mr:JP_長野県上田市真田町傍陽 ;
+    mo:SubRegion mr:JP_長野県上田市真田町本原 ;
+    mo:SubRegion mr:JP_長野県上田市塩川 ;
+    mo:SubRegion mr:JP_長野県上田市下塩尻 ;
+    mo:SubRegion mr:JP_長野県上田市下武石 ;
+    mo:SubRegion mr:JP_長野県上田市下之郷 ;
+    mo:SubRegion mr:JP_長野県上田市下之郷乙 ;
+    mo:SubRegion mr:JP_長野県上田市下之条 ;
+    mo:SubRegion mr:JP_長野県上田市下丸子 ;
+    mo:SubRegion mr:JP_長野県上田市下室賀 ;
+    mo:SubRegion mr:JP_長野県上田市十人 ;
+    mo:SubRegion mr:JP_長野県上田市新町 ;
+    mo:SubRegion mr:JP_長野県上田市菅平高原 ;
+    mo:SubRegion mr:JP_長野県上田市住吉 ;
+    mo:SubRegion mr:JP_長野県上田市諏訪形 ;
+    mo:SubRegion mr:JP_長野県上田市武石沖 ;
+    mo:SubRegion mr:JP_長野県上田市武石小沢根 ;
+    mo:SubRegion mr:JP_長野県上田市武石上本入 ;
+    mo:SubRegion mr:JP_長野県上田市武石下本入 ;
+    mo:SubRegion mr:JP_長野県上田市武石鳥屋 ;
+    mo:SubRegion mr:JP_長野県上田市武石余里 ;
+    mo:SubRegion mr:JP_長野県上田市中央 ;
+    mo:SubRegion mr:JP_長野県上田市中央東 ;
+    mo:SubRegion mr:JP_長野県上田市中央西 ;
+    mo:SubRegion mr:JP_長野県上田市中央北 ;
+    mo:SubRegion mr:JP_長野県上田市築地 ;
+    mo:SubRegion mr:JP_長野県上田市手塚 ;
+    mo:SubRegion mr:JP_長野県上田市天神 ;
+    mo:SubRegion mr:JP_長野県上田市常入 ;
+    mo:SubRegion mr:JP_長野県上田市常田 ;
+    mo:SubRegion mr:JP_長野県上田市常磐城 ;
+    mo:SubRegion mr:JP_長野県上田市殿城 ;
+    mo:SubRegion mr:JP_長野県上田市長瀬 ;
+    mo:SubRegion mr:JP_長野県上田市中野 ;
+    mo:SubRegion mr:JP_長野県上田市中之条 ;
+    mo:SubRegion mr:JP_長野県上田市中丸子 ;
+    mo:SubRegion mr:JP_長野県上田市仁古田 ;
+    mo:SubRegion mr:JP_長野県上田市西内 ;
+    mo:SubRegion mr:JP_長野県上田市二の丸 ;
+    mo:SubRegion mr:JP_長野県上田市野倉 ;
+    mo:SubRegion mr:JP_長野県上田市林之郷 ;
+    mo:SubRegion mr:JP_長野県上田市東内 ;
+    mo:SubRegion mr:JP_長野県上田市平井 ;
+    mo:SubRegion mr:JP_長野県上田市福田 ;
+    mo:SubRegion mr:JP_長野県上田市富士山 ;
+    mo:SubRegion mr:JP_長野県上田市藤原田 ;
+    mo:SubRegion mr:JP_長野県上田市踏入 ;
+    mo:SubRegion mr:JP_長野県上田市別所温泉 ;
+    mo:SubRegion mr:JP_長野県上田市保野 ;
+    mo:SubRegion mr:JP_長野県上田市本郷 ;
+    mo:SubRegion mr:JP_長野県上田市舞田 ;
+    mo:SubRegion mr:JP_長野県上田市前山 ;
+    mo:SubRegion mr:JP_長野県上田市御嶽堂 ;
+    mo:SubRegion mr:JP_長野県上田市緑が丘 ;
+    mo:SubRegion mr:JP_長野県上田市本海野 ;
+    mo:SubRegion mr:JP_長野県上田市八木沢 ;
+    mo:SubRegion mr:JP_長野県上田市山田 ;
+    mo:SubRegion mr:JP_長野県上田市芳田 ;
+    mo:SubRegion mr:JP_長野県上田市吉田 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上田市蒼久保
+    rdfs:label "蒼久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市秋和
+    rdfs:label "秋和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市生田
+    rdfs:label "生田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市岩下
+    rdfs:label "岩下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市上田
+    rdfs:label "上田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市上田原
+    rdfs:label "上田原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市浦野
+    rdfs:label "浦野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市漆戸
+    rdfs:label "漆戸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市大手
+    rdfs:label "大手"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市大屋
+    rdfs:label "大屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市岡
+    rdfs:label "岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市鹿教湯温泉
+    rdfs:label "鹿教湯温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市神畑
+    rdfs:label "神畑"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市神畑乙
+    rdfs:label "神畑乙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市上塩尻
+    rdfs:label "上塩尻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市上武石
+    rdfs:label "上武石"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市上丸子
+    rdfs:label "上丸子"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市上室賀
+    rdfs:label "上室賀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市古安曽
+    rdfs:label "古安曽"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市小泉
+    rdfs:label "小泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市越戸
+    rdfs:label "越戸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市五加
+    rdfs:label "五加"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市国分
+    rdfs:label "国分"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市古里
+    rdfs:label "古里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市腰越
+    rdfs:label "腰越"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市御所
+    rdfs:label "御所"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市小牧
+    rdfs:label "小牧"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市材木町
+    rdfs:label "材木町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市真田町長
+    rdfs:label "真田町長"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市真田町傍陽
+    rdfs:label "真田町傍陽"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市真田町本原
+    rdfs:label "真田町本原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市塩川
+    rdfs:label "塩川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市下塩尻
+    rdfs:label "下塩尻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市下武石
+    rdfs:label "下武石"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市下之郷
+    rdfs:label "下之郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市下之郷乙
+    rdfs:label "下之郷乙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市下之条
+    rdfs:label "下之条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市下丸子
+    rdfs:label "下丸子"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市下室賀
+    rdfs:label "下室賀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市十人
+    rdfs:label "十人"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市菅平高原
+    rdfs:label "菅平高原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市住吉
+    rdfs:label "住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市諏訪形
+    rdfs:label "諏訪形"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市武石沖
+    rdfs:label "武石沖"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市武石小沢根
+    rdfs:label "武石小沢根"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市武石上本入
+    rdfs:label "武石上本入"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市武石下本入
+    rdfs:label "武石下本入"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市武石鳥屋
+    rdfs:label "武石鳥屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市武石余里
+    rdfs:label "武石余里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市中央東
+    rdfs:label "中央東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市中央西
+    rdfs:label "中央西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市中央北
+    rdfs:label "中央北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市築地
+    rdfs:label "築地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市手塚
+    rdfs:label "手塚"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市常入
+    rdfs:label "常入"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市常田
+    rdfs:label "常田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市常磐城
+    rdfs:label "常磐城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市殿城
+    rdfs:label "殿城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市長瀬
+    rdfs:label "長瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市中之条
+    rdfs:label "中之条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市中丸子
+    rdfs:label "中丸子"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市仁古田
+    rdfs:label "仁古田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市西内
+    rdfs:label "西内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市二の丸
+    rdfs:label "二の丸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市野倉
+    rdfs:label "野倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市林之郷
+    rdfs:label "林之郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市東内
+    rdfs:label "東内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市平井
+    rdfs:label "平井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市福田
+    rdfs:label "福田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市富士山
+    rdfs:label "富士山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市藤原田
+    rdfs:label "藤原田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市踏入
+    rdfs:label "踏入"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市別所温泉
+    rdfs:label "別所温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市保野
+    rdfs:label "保野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市本郷
+    rdfs:label "本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市舞田
+    rdfs:label "舞田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市前山
+    rdfs:label "前山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市御嶽堂
+    rdfs:label "御嶽堂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市緑が丘
+    rdfs:label "緑が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市本海野
+    rdfs:label "本海野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市八木沢
+    rdfs:label "八木沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市芳田
+    rdfs:label "芳田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上田市吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市
+    rdfs:label "岡谷市"@ja ;
+    mo:AreaCode "20204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県岡谷市赤羽 ;
+    mo:SubRegion mr:JP_長野県岡谷市芦ノ沢 ;
+    mo:SubRegion mr:JP_長野県岡谷市今井 ;
+    mo:SubRegion mr:JP_長野県岡谷市内山 ;
+    mo:SubRegion mr:JP_長野県岡谷市塩嶺 ;
+    mo:SubRegion mr:JP_長野県岡谷市御倉町 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地出早 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地片間町 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地御所 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地小萩 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地権現町 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地鎮 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地柴宮 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地梨久保 ;
+    mo:SubRegion mr:JP_長野県岡谷市長地源 ;
+    mo:SubRegion mr:JP_長野県岡谷市加茂町 ;
+    mo:SubRegion mr:JP_長野県岡谷市川岸上 ;
+    mo:SubRegion mr:JP_長野県岡谷市川岸中 ;
+    mo:SubRegion mr:JP_長野県岡谷市川岸東 ;
+    mo:SubRegion mr:JP_長野県岡谷市川岸西 ;
+    mo:SubRegion mr:JP_長野県岡谷市銀座 ;
+    mo:SubRegion mr:JP_長野県岡谷市郷田 ;
+    mo:SubRegion mr:JP_長野県岡谷市湖畔 ;
+    mo:SubRegion mr:JP_長野県岡谷市幸町 ;
+    mo:SubRegion mr:JP_長野県岡谷市神明町 ;
+    mo:SubRegion mr:JP_長野県岡谷市大栄町 ;
+    mo:SubRegion mr:JP_長野県岡谷市田中町 ;
+    mo:SubRegion mr:JP_長野県岡谷市中央町 ;
+    mo:SubRegion mr:JP_長野県岡谷市塚間町 ;
+    mo:SubRegion mr:JP_長野県岡谷市天竜町 ;
+    mo:SubRegion mr:JP_長野県岡谷市成田町 ;
+    mo:SubRegion mr:JP_長野県岡谷市南宮 ;
+    mo:SubRegion mr:JP_長野県岡谷市西林 ;
+    mo:SubRegion mr:JP_長野県岡谷市半ノ木 ;
+    mo:SubRegion mr:JP_長野県岡谷市東銀座 ;
+    mo:SubRegion mr:JP_長野県岡谷市樋沢 ;
+    mo:SubRegion mr:JP_長野県岡谷市堀ノ内 ;
+    mo:SubRegion mr:JP_長野県岡谷市本町 ;
+    mo:SubRegion mr:JP_長野県岡谷市湊 ;
+    mo:SubRegion mr:JP_長野県岡谷市山下町 ;
+    mo:SubRegion mr:JP_長野県岡谷市山手町 ;
+    mo:SubRegion mr:JP_長野県岡谷市ヨギトギ沢 ;
+    mo:SubRegion mr:JP_長野県岡谷市若宮 ;
+a mo:GeoEntity .
+
+mr:JP_長野県岡谷市赤羽
+    rdfs:label "赤羽"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市芦ノ沢
+    rdfs:label "芦ノ沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市今井
+    rdfs:label "今井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市内山
+    rdfs:label "内山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市塩嶺
+    rdfs:label "塩嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市御倉町
+    rdfs:label "御倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地
+    rdfs:label "長地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地出早
+    rdfs:label "長地出早"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地片間町
+    rdfs:label "長地片間町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地御所
+    rdfs:label "長地御所"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地小萩
+    rdfs:label "長地小萩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地権現町
+    rdfs:label "長地権現町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地鎮
+    rdfs:label "長地鎮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地柴宮
+    rdfs:label "長地柴宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地梨久保
+    rdfs:label "長地梨久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市長地源
+    rdfs:label "長地源"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市加茂町
+    rdfs:label "加茂町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市川岸上
+    rdfs:label "川岸上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市川岸中
+    rdfs:label "川岸中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市川岸東
+    rdfs:label "川岸東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市川岸西
+    rdfs:label "川岸西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市銀座
+    rdfs:label "銀座"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市郷田
+    rdfs:label "郷田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市湖畔
+    rdfs:label "湖畔"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市神明町
+    rdfs:label "神明町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市大栄町
+    rdfs:label "大栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市田中町
+    rdfs:label "田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市塚間町
+    rdfs:label "塚間町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市天竜町
+    rdfs:label "天竜町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市成田町
+    rdfs:label "成田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市南宮
+    rdfs:label "南宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市西林
+    rdfs:label "西林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市半ノ木
+    rdfs:label "半ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市東銀座
+    rdfs:label "東銀座"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市樋沢
+    rdfs:label "樋沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市堀ノ内
+    rdfs:label "堀ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市湊
+    rdfs:label "湊"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市山下町
+    rdfs:label "山下町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市山手町
+    rdfs:label "山手町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市ヨギトギ沢
+    rdfs:label "ヨギトギ沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県岡谷市若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市
+    rdfs:label "飯田市"@ja ;
+    mo:AreaCode "20205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県飯田市曙町 ;
+    mo:SubRegion mr:JP_長野県飯田市旭町 ;
+    mo:SubRegion mr:JP_長野県飯田市吾妻町 ;
+    mo:SubRegion mr:JP_長野県飯田市愛宕町 ;
+    mo:SubRegion mr:JP_長野県飯田市育良町 ;
+    mo:SubRegion mr:JP_長野県飯田市伊豆木 ;
+    mo:SubRegion mr:JP_長野県飯田市今宮町 ;
+    mo:SubRegion mr:JP_長野県飯田市江戸浜町 ;
+    mo:SubRegion mr:JP_長野県飯田市江戸町 ;
+    mo:SubRegion mr:JP_長野県飯田市扇町 ;
+    mo:SubRegion mr:JP_長野県飯田市追手町 ;
+    mo:SubRegion mr:JP_長野県飯田市大久保町 ;
+    mo:SubRegion mr:JP_長野県飯田市大瀬木 ;
+    mo:SubRegion mr:JP_長野県飯田市大通 ;
+    mo:SubRegion mr:JP_長野県飯田市大休 ;
+    mo:SubRegion mr:JP_長野県飯田市長姫町 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎一色 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎上茶屋 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎下茶屋 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎上山 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎下山 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎切石 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎中平 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎名古熊 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎東鼎 ;
+    mo:SubRegion mr:JP_長野県飯田市鼎西鼎 ;
+    mo:SubRegion mr:JP_長野県飯田市上川路 ;
+    mo:SubRegion mr:JP_長野県飯田市上郷飯沼 ;
+    mo:SubRegion mr:JP_長野県飯田市上郷別府 ;
+    mo:SubRegion mr:JP_長野県飯田市上郷黒田 ;
+    mo:SubRegion mr:JP_長野県飯田市上殿岡 ;
+    mo:SubRegion mr:JP_長野県飯田市上久堅 ;
+    mo:SubRegion mr:JP_長野県飯田市上久堅戊 ;
+    mo:SubRegion mr:JP_長野県飯田市上村 ;
+    mo:SubRegion mr:JP_長野県飯田市川路 ;
+    mo:SubRegion mr:JP_長野県飯田市北方 ;
+    mo:SubRegion mr:JP_長野県飯田市桐林 ;
+    mo:SubRegion mr:JP_長野県飯田市銀座 ;
+    mo:SubRegion mr:JP_長野県飯田市久米 ;
+    mo:SubRegion mr:JP_長野県飯田市毛賀 ;
+    mo:SubRegion mr:JP_長野県飯田市小伝馬町 ;
+    mo:SubRegion mr:JP_長野県飯田市桜町 ;
+    mo:SubRegion mr:JP_長野県飯田市座光寺 ;
+    mo:SubRegion mr:JP_長野県飯田市嶋 ;
+    mo:SubRegion mr:JP_長野県飯田市下瀬 ;
+    mo:SubRegion mr:JP_長野県飯田市下殿岡 ;
+    mo:SubRegion mr:JP_長野県飯田市下久堅稲葉 ;
+    mo:SubRegion mr:JP_長野県飯田市下久堅柿野沢 ;
+    mo:SubRegion mr:JP_長野県飯田市下久堅小林 ;
+    mo:SubRegion mr:JP_長野県飯田市下久堅下虎岩 ;
+    mo:SubRegion mr:JP_長野県飯田市下久堅知久平 ;
+    mo:SubRegion mr:JP_長野県飯田市下久堅南原 ;
+    mo:SubRegion mr:JP_長野県飯田市正永町 ;
+    mo:SubRegion mr:JP_長野県飯田市鈴加町 ;
+    mo:SubRegion mr:JP_長野県飯田市砂払町 ;
+    mo:SubRegion mr:JP_長野県飯田市諏訪町 ;
+    mo:SubRegion mr:JP_長野県飯田市大王路 ;
+    mo:SubRegion mr:JP_長野県飯田市大門町 ;
+    mo:SubRegion mr:JP_長野県飯田市高羽町 ;
+    mo:SubRegion mr:JP_長野県飯田市滝の沢 ;
+    mo:SubRegion mr:JP_長野県飯田市竹佐 ;
+    mo:SubRegion mr:JP_長野県飯田市駄科 ;
+    mo:SubRegion mr:JP_長野県飯田市龍江 ;
+    mo:SubRegion mr:JP_長野県飯田市立石 ;
+    mo:SubRegion mr:JP_長野県飯田市主税町 ;
+    mo:SubRegion mr:JP_長野県飯田市知久町 ;
+    mo:SubRegion mr:JP_長野県飯田市千栄 ;
+    mo:SubRegion mr:JP_長野県飯田市中央通り ;
+    mo:SubRegion mr:JP_長野県飯田市千代 ;
+    mo:SubRegion mr:JP_長野県飯田市伝馬町 ;
+    mo:SubRegion mr:JP_長野県飯田市東栄町 ;
+    mo:SubRegion mr:JP_長野県飯田市東新町 ;
+    mo:SubRegion mr:JP_長野県飯田市東和町 ;
+    mo:SubRegion mr:JP_長野県飯田市通り町 ;
+    mo:SubRegion mr:JP_長野県飯田市時又 ;
+    mo:SubRegion mr:JP_長野県飯田市常盤町 ;
+    mo:SubRegion mr:JP_長野県飯田市虎岩 ;
+    mo:SubRegion mr:JP_長野県飯田市仲ノ町 ;
+    mo:SubRegion mr:JP_長野県飯田市中村 ;
+    mo:SubRegion mr:JP_長野県飯田市長野原 ;
+    mo:SubRegion mr:JP_長野県飯田市錦町 ;
+    mo:SubRegion mr:JP_長野県飯田市二本松 ;
+    mo:SubRegion mr:JP_長野県飯田市白山町 ;
+    mo:SubRegion mr:JP_長野県飯田市白山通り ;
+    mo:SubRegion mr:JP_長野県飯田市箱川 ;
+    mo:SubRegion mr:JP_長野県飯田市羽場赤坂 ;
+    mo:SubRegion mr:JP_長野県飯田市羽場上河原 ;
+    mo:SubRegion mr:JP_長野県飯田市羽場権現 ;
+    mo:SubRegion mr:JP_長野県飯田市羽場坂町 ;
+    mo:SubRegion mr:JP_長野県飯田市羽場町 ;
+    mo:SubRegion mr:JP_長野県飯田市羽場仲畑 ;
+    mo:SubRegion mr:JP_長野県飯田市馬場町 ;
+    mo:SubRegion mr:JP_長野県飯田市浜井町 ;
+    mo:SubRegion mr:JP_長野県飯田市東中央通り ;
+    mo:SubRegion mr:JP_長野県飯田市本町 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾上溝 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾新井 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾清水 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾代田 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾城 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾寺所 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾常盤台 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾久井 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾町 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾水城 ;
+    mo:SubRegion mr:JP_長野県飯田市松尾明 ;
+    mo:SubRegion mr:JP_長野県飯田市松川町 ;
+    mo:SubRegion mr:JP_長野県飯田市丸山町 ;
+    mo:SubRegion mr:JP_長野県飯田市水の手町 ;
+    mo:SubRegion mr:JP_長野県飯田市三日市場 ;
+    mo:SubRegion mr:JP_長野県飯田市南信濃木沢 ;
+    mo:SubRegion mr:JP_長野県飯田市南信濃南和田 ;
+    mo:SubRegion mr:JP_長野県飯田市南信濃八重河内 ;
+    mo:SubRegion mr:JP_長野県飯田市南信濃和田 ;
+    mo:SubRegion mr:JP_長野県飯田市南常盤町 ;
+    mo:SubRegion mr:JP_長野県飯田市箕瀬町 ;
+    mo:SubRegion mr:JP_長野県飯田市宮ノ上 ;
+    mo:SubRegion mr:JP_長野県飯田市宮の前 ;
+    mo:SubRegion mr:JP_長野県飯田市元町 ;
+    mo:SubRegion mr:JP_長野県飯田市山本 ;
+    mo:SubRegion mr:JP_長野県飯田市山本二ツ山団地 ;
+    mo:SubRegion mr:JP_長野県飯田市八幡町 ;
+a mo:GeoEntity .
+
+mr:JP_長野県飯田市曙町
+    rdfs:label "曙町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市吾妻町
+    rdfs:label "吾妻町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市愛宕町
+    rdfs:label "愛宕町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市育良町
+    rdfs:label "育良町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市伊豆木
+    rdfs:label "伊豆木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市今宮町
+    rdfs:label "今宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市江戸浜町
+    rdfs:label "江戸浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市江戸町
+    rdfs:label "江戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市扇町
+    rdfs:label "扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市追手町
+    rdfs:label "追手町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市大久保町
+    rdfs:label "大久保町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市大瀬木
+    rdfs:label "大瀬木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市大通
+    rdfs:label "大通"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市大休
+    rdfs:label "大休"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市長姫町
+    rdfs:label "長姫町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎一色
+    rdfs:label "鼎一色"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎上茶屋
+    rdfs:label "鼎上茶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎下茶屋
+    rdfs:label "鼎下茶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎上山
+    rdfs:label "鼎上山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎下山
+    rdfs:label "鼎下山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎切石
+    rdfs:label "鼎切石"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎中平
+    rdfs:label "鼎中平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎名古熊
+    rdfs:label "鼎名古熊"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎東鼎
+    rdfs:label "鼎東鼎"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鼎西鼎
+    rdfs:label "鼎西鼎"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市上川路
+    rdfs:label "上川路"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市上郷飯沼
+    rdfs:label "上郷飯沼"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市上郷別府
+    rdfs:label "上郷別府"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市上郷黒田
+    rdfs:label "上郷黒田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市上殿岡
+    rdfs:label "上殿岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市上久堅
+    rdfs:label "上久堅"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市上久堅戊
+    rdfs:label "上久堅戊"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市上村
+    rdfs:label "上村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市川路
+    rdfs:label "川路"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市北方
+    rdfs:label "北方"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市桐林
+    rdfs:label "桐林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市銀座
+    rdfs:label "銀座"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市久米
+    rdfs:label "久米"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市毛賀
+    rdfs:label "毛賀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市小伝馬町
+    rdfs:label "小伝馬町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市座光寺
+    rdfs:label "座光寺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市嶋
+    rdfs:label "嶋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市下瀬
+    rdfs:label "下瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市下殿岡
+    rdfs:label "下殿岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市下久堅稲葉
+    rdfs:label "下久堅稲葉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市下久堅柿野沢
+    rdfs:label "下久堅柿野沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市下久堅小林
+    rdfs:label "下久堅小林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市下久堅下虎岩
+    rdfs:label "下久堅下虎岩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市下久堅知久平
+    rdfs:label "下久堅知久平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市下久堅南原
+    rdfs:label "下久堅南原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市正永町
+    rdfs:label "正永町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市鈴加町
+    rdfs:label "鈴加町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市砂払町
+    rdfs:label "砂払町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市諏訪町
+    rdfs:label "諏訪町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市大王路
+    rdfs:label "大王路"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市大門町
+    rdfs:label "大門町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市高羽町
+    rdfs:label "高羽町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市滝の沢
+    rdfs:label "滝の沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市竹佐
+    rdfs:label "竹佐"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市駄科
+    rdfs:label "駄科"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市龍江
+    rdfs:label "龍江"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市立石
+    rdfs:label "立石"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市主税町
+    rdfs:label "主税町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市知久町
+    rdfs:label "知久町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市千栄
+    rdfs:label "千栄"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市中央通り
+    rdfs:label "中央通り"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市千代
+    rdfs:label "千代"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市伝馬町
+    rdfs:label "伝馬町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市東栄町
+    rdfs:label "東栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市東新町
+    rdfs:label "東新町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市東和町
+    rdfs:label "東和町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市通り町
+    rdfs:label "通り町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市時又
+    rdfs:label "時又"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市常盤町
+    rdfs:label "常盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市虎岩
+    rdfs:label "虎岩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市仲ノ町
+    rdfs:label "仲ノ町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市長野原
+    rdfs:label "長野原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市二本松
+    rdfs:label "二本松"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市白山町
+    rdfs:label "白山町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市白山通り
+    rdfs:label "白山通り"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市箱川
+    rdfs:label "箱川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市羽場赤坂
+    rdfs:label "羽場赤坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市羽場上河原
+    rdfs:label "羽場上河原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市羽場権現
+    rdfs:label "羽場権現"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市羽場坂町
+    rdfs:label "羽場坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市羽場町
+    rdfs:label "羽場町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市羽場仲畑
+    rdfs:label "羽場仲畑"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市馬場町
+    rdfs:label "馬場町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市浜井町
+    rdfs:label "浜井町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市東中央通り
+    rdfs:label "東中央通り"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾上溝
+    rdfs:label "松尾上溝"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾新井
+    rdfs:label "松尾新井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾清水
+    rdfs:label "松尾清水"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾代田
+    rdfs:label "松尾代田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾城
+    rdfs:label "松尾城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾寺所
+    rdfs:label "松尾寺所"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾常盤台
+    rdfs:label "松尾常盤台"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾久井
+    rdfs:label "松尾久井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾町
+    rdfs:label "松尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾水城
+    rdfs:label "松尾水城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松尾明
+    rdfs:label "松尾明"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市松川町
+    rdfs:label "松川町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市水の手町
+    rdfs:label "水の手町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市三日市場
+    rdfs:label "三日市場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市南信濃木沢
+    rdfs:label "南信濃木沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市南信濃南和田
+    rdfs:label "南信濃南和田"@ja ;
+    mo:SubRegion mr:JP_長野県飯田市南信濃南和田万古 ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市南信濃南和田万古
+    rdfs:label "万古"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市南信濃八重河内
+    rdfs:label "南信濃八重河内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市南信濃和田
+    rdfs:label "南信濃和田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市南常盤町
+    rdfs:label "南常盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市箕瀬町
+    rdfs:label "箕瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市宮ノ上
+    rdfs:label "宮ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市宮の前
+    rdfs:label "宮の前"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市山本
+    rdfs:label "山本"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市山本二ツ山団地
+    rdfs:label "山本二ツ山団地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯田市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市
+    rdfs:label "諏訪市"@ja ;
+    mo:AreaCode "20206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県諏訪市赤羽根 ;
+    mo:SubRegion mr:JP_長野県諏訪市大手 ;
+    mo:SubRegion mr:JP_長野県諏訪市岡村 ;
+    mo:SubRegion mr:JP_長野県諏訪市沖田町 ;
+    mo:SubRegion mr:JP_長野県諏訪市大和 ;
+    mo:SubRegion mr:JP_長野県諏訪市上川 ;
+    mo:SubRegion mr:JP_長野県諏訪市上諏訪 ;
+    mo:SubRegion mr:JP_長野県諏訪市霧ケ峰 ;
+    mo:SubRegion mr:JP_長野県諏訪市湖岸通り ;
+    mo:SubRegion mr:JP_長野県諏訪市湖南 ;
+    mo:SubRegion mr:JP_長野県諏訪市小和田 ;
+    mo:SubRegion mr:JP_長野県諏訪市小和田南 ;
+    mo:SubRegion mr:JP_長野県諏訪市四賀 ;
+    mo:SubRegion mr:JP_長野県諏訪市渋崎 ;
+    mo:SubRegion mr:JP_長野県諏訪市清水 ;
+    mo:SubRegion mr:JP_長野県諏訪市城南 ;
+    mo:SubRegion mr:JP_長野県諏訪市末広 ;
+    mo:SubRegion mr:JP_長野県諏訪市杉菜池 ;
+    mo:SubRegion mr:JP_長野県諏訪市諏訪 ;
+    mo:SubRegion mr:JP_長野県諏訪市高島 ;
+    mo:SubRegion mr:JP_長野県諏訪市豊田 ;
+    mo:SubRegion mr:JP_長野県諏訪市中洲 ;
+    mo:SubRegion mr:JP_長野県諏訪市南町 ;
+    mo:SubRegion mr:JP_長野県諏訪市元町 ;
+    mo:SubRegion mr:JP_長野県諏訪市湯の脇 ;
+a mo:GeoEntity .
+
+mr:JP_長野県諏訪市赤羽根
+    rdfs:label "赤羽根"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市大手
+    rdfs:label "大手"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市岡村
+    rdfs:label "岡村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市沖田町
+    rdfs:label "沖田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市大和
+    rdfs:label "大和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市上川
+    rdfs:label "上川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市上諏訪
+    rdfs:label "上諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市霧ケ峰
+    rdfs:label "霧ケ峰"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市湖岸通り
+    rdfs:label "湖岸通り"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市湖南
+    rdfs:label "湖南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市小和田
+    rdfs:label "小和田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市小和田南
+    rdfs:label "小和田南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市四賀
+    rdfs:label "四賀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市渋崎
+    rdfs:label "渋崎"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市城南
+    rdfs:label "城南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市末広
+    rdfs:label "末広"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市杉菜池
+    rdfs:label "杉菜池"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市諏訪
+    rdfs:label "諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市高島
+    rdfs:label "高島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市豊田
+    rdfs:label "豊田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市中洲
+    rdfs:label "中洲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪市湯の脇
+    rdfs:label "湯の脇"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市
+    rdfs:label "須坂市"@ja ;
+    mo:AreaCode "20207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県須坂市相之島 ;
+    mo:SubRegion mr:JP_長野県須坂市旭ケ丘 ;
+    mo:SubRegion mr:JP_長野県須坂市井上 ;
+    mo:SubRegion mr:JP_長野県須坂市相森町 ;
+    mo:SubRegion mr:JP_長野県須坂市大谷町 ;
+    mo:SubRegion mr:JP_長野県須坂市小河原町 ;
+    mo:SubRegion mr:JP_長野県須坂市大日向町 ;
+    mo:SubRegion mr:JP_長野県須坂市上中町 ;
+    mo:SubRegion mr:JP_長野県須坂市上八町 ;
+    mo:SubRegion mr:JP_長野県須坂市亀倉町 ;
+    mo:SubRegion mr:JP_長野県須坂市臥竜 ;
+    mo:SubRegion mr:JP_長野県須坂市上町 ;
+    mo:SubRegion mr:JP_長野県須坂市北相之島町 ;
+    mo:SubRegion mr:JP_長野県須坂市北旭ケ丘町 ;
+    mo:SubRegion mr:JP_長野県須坂市北原町 ;
+    mo:SubRegion mr:JP_長野県須坂市北横町 ;
+    mo:SubRegion mr:JP_長野県須坂市九反田町 ;
+    mo:SubRegion mr:JP_長野県須坂市幸高町 ;
+    mo:SubRegion mr:JP_長野県須坂市五閑町 ;
+    mo:SubRegion mr:JP_長野県須坂市穀町 ;
+    mo:SubRegion mr:JP_長野県須坂市小島町 ;
+    mo:SubRegion mr:JP_長野県須坂市坂田町 ;
+    mo:SubRegion mr:JP_長野県須坂市塩川町 ;
+    mo:SubRegion mr:JP_長野県須坂市塩野町 ;
+    mo:SubRegion mr:JP_長野県須坂市下八町 ;
+    mo:SubRegion mr:JP_長野県須坂市新田町 ;
+    mo:SubRegion mr:JP_長野県須坂市新町 ;
+    mo:SubRegion mr:JP_長野県須坂市須坂ハイランド町 ;
+    mo:SubRegion mr:JP_長野県須坂市墨坂 ;
+    mo:SubRegion mr:JP_長野県須坂市墨坂南 ;
+    mo:SubRegion mr:JP_長野県須坂市太子町 ;
+    mo:SubRegion mr:JP_長野県須坂市高梨町 ;
+    mo:SubRegion mr:JP_長野県須坂市高橋町 ;
+    mo:SubRegion mr:JP_長野県須坂市高畑町 ;
+    mo:SubRegion mr:JP_長野県須坂市立町 ;
+    mo:SubRegion mr:JP_長野県須坂市田の神町 ;
+    mo:SubRegion mr:JP_長野県須坂市常盤町 ;
+    mo:SubRegion mr:JP_長野県須坂市豊丘上町 ;
+    mo:SubRegion mr:JP_長野県須坂市豊丘町 ;
+    mo:SubRegion mr:JP_長野県須坂市豊島町 ;
+    mo:SubRegion mr:JP_長野県須坂市中島町 ;
+    mo:SubRegion mr:JP_長野県須坂市中町 ;
+    mo:SubRegion mr:JP_長野県須坂市夏端町 ;
+    mo:SubRegion mr:JP_長野県須坂市西町 ;
+    mo:SubRegion mr:JP_長野県須坂市二睦町 ;
+    mo:SubRegion mr:JP_長野県須坂市仁礼町 ;
+    mo:SubRegion mr:JP_長野県須坂市沼目町 ;
+    mo:SubRegion mr:JP_長野県須坂市野辺町 ;
+    mo:SubRegion mr:JP_長野県須坂市馬場町 ;
+    mo:SubRegion mr:JP_長野県須坂市春木町 ;
+    mo:SubRegion mr:JP_長野県須坂市光ケ丘ニュータウン ;
+    mo:SubRegion mr:JP_長野県須坂市東横町 ;
+    mo:SubRegion mr:JP_長野県須坂市福島町 ;
+    mo:SubRegion mr:JP_長野県須坂市望岳台 ;
+    mo:SubRegion mr:JP_長野県須坂市本上町 ;
+    mo:SubRegion mr:JP_長野県須坂市本郷町 ;
+    mo:SubRegion mr:JP_長野県須坂市松川町 ;
+    mo:SubRegion mr:JP_長野県須坂市南小河原町 ;
+    mo:SubRegion mr:JP_長野県須坂市南原町 ;
+    mo:SubRegion mr:JP_長野県須坂市南横町 ;
+    mo:SubRegion mr:JP_長野県須坂市明徳町 ;
+    mo:SubRegion mr:JP_長野県須坂市村石町 ;
+    mo:SubRegion mr:JP_長野県須坂市村山町 ;
+    mo:SubRegion mr:JP_長野県須坂市八重森町 ;
+    mo:SubRegion mr:JP_長野県須坂市屋部町 ;
+    mo:SubRegion mr:JP_長野県須坂市横町 ;
+    mo:SubRegion mr:JP_長野県須坂市米子町 ;
+    mo:SubRegion mr:JP_長野県須坂市米持町 ;
+a mo:GeoEntity .
+
+mr:JP_長野県須坂市相之島
+    rdfs:label "相之島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市旭ケ丘
+    rdfs:label "旭ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市井上
+    rdfs:label "井上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市相森町
+    rdfs:label "相森町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市大谷町
+    rdfs:label "大谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市小河原町
+    rdfs:label "小河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市大日向町
+    rdfs:label "大日向町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市上中町
+    rdfs:label "上中町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市上八町
+    rdfs:label "上八町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市亀倉町
+    rdfs:label "亀倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市臥竜
+    rdfs:label "臥竜"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市上町
+    rdfs:label "上町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市北相之島町
+    rdfs:label "北相之島町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市北旭ケ丘町
+    rdfs:label "北旭ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市北原町
+    rdfs:label "北原町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市北横町
+    rdfs:label "北横町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市九反田町
+    rdfs:label "九反田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市幸高町
+    rdfs:label "幸高町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市五閑町
+    rdfs:label "五閑町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市穀町
+    rdfs:label "穀町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市小島町
+    rdfs:label "小島町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市坂田町
+    rdfs:label "坂田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市塩川町
+    rdfs:label "塩川町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市塩野町
+    rdfs:label "塩野町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市下八町
+    rdfs:label "下八町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市新田町
+    rdfs:label "新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市須坂ハイランド町
+    rdfs:label "須坂ハイランド町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市墨坂
+    rdfs:label "墨坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市墨坂南
+    rdfs:label "墨坂南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市太子町
+    rdfs:label "太子町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市高梨町
+    rdfs:label "高梨町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市高橋町
+    rdfs:label "高橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市高畑町
+    rdfs:label "高畑町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市立町
+    rdfs:label "立町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市田の神町
+    rdfs:label "田の神町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市常盤町
+    rdfs:label "常盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市豊丘上町
+    rdfs:label "豊丘上町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市豊丘町
+    rdfs:label "豊丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市豊島町
+    rdfs:label "豊島町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市中島町
+    rdfs:label "中島町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市夏端町
+    rdfs:label "夏端町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市二睦町
+    rdfs:label "二睦町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市仁礼町
+    rdfs:label "仁礼町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市沼目町
+    rdfs:label "沼目町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市野辺町
+    rdfs:label "野辺町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市馬場町
+    rdfs:label "馬場町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市春木町
+    rdfs:label "春木町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市光ケ丘ニュータウン
+    rdfs:label "光ケ丘ニュータウン"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市東横町
+    rdfs:label "東横町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市福島町
+    rdfs:label "福島町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市望岳台
+    rdfs:label "望岳台"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市本上町
+    rdfs:label "本上町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市本郷町
+    rdfs:label "本郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市松川町
+    rdfs:label "松川町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市南小河原町
+    rdfs:label "南小河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市南原町
+    rdfs:label "南原町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市南横町
+    rdfs:label "南横町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市明徳町
+    rdfs:label "明徳町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市村石町
+    rdfs:label "村石町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市村山町
+    rdfs:label "村山町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市八重森町
+    rdfs:label "八重森町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市屋部町
+    rdfs:label "屋部町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市横町
+    rdfs:label "横町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市米子町
+    rdfs:label "米子町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県須坂市米持町
+    rdfs:label "米持町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市
+    rdfs:label "小諸市"@ja ;
+    mo:AreaCode "20208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県小諸市相生町 ;
+    mo:SubRegion mr:JP_長野県小諸市赤坂 ;
+    mo:SubRegion mr:JP_長野県小諸市天池 ;
+    mo:SubRegion mr:JP_長野県小諸市荒堀 ;
+    mo:SubRegion mr:JP_長野県小諸市荒町 ;
+    mo:SubRegion mr:JP_長野県小諸市池ノ前 ;
+    mo:SubRegion mr:JP_長野県小諸市井子 ;
+    mo:SubRegion mr:JP_長野県小諸市石峠 ;
+    mo:SubRegion mr:JP_長野県小諸市市 ;
+    mo:SubRegion mr:JP_長野県小諸市市町 ;
+    mo:SubRegion mr:JP_長野県小諸市上ノ平 ;
+    mo:SubRegion mr:JP_長野県小諸市後平 ;
+    mo:SubRegion mr:JP_長野県小諸市大杭 ;
+    mo:SubRegion mr:JP_長野県小諸市大久保 ;
+    mo:SubRegion mr:JP_長野県小諸市大手 ;
+    mo:SubRegion mr:JP_長野県小諸市押出 ;
+    mo:SubRegion mr:JP_長野県小諸市乙 ;
+    mo:SubRegion mr:JP_長野県小諸市乙女 ;
+    mo:SubRegion mr:JP_長野県小諸市柏木 ;
+    mo:SubRegion mr:JP_長野県小諸市加増 ;
+    mo:SubRegion mr:JP_長野県小諸市唐松 ;
+    mo:SubRegion mr:JP_長野県小諸市己 ;
+    mo:SubRegion mr:JP_長野県小諸市久保 ;
+    mo:SubRegion mr:JP_長野県小諸市熊ノ堂 ;
+    mo:SubRegion mr:JP_長野県小諸市甲 ;
+    mo:SubRegion mr:JP_長野県小諸市古城 ;
+    mo:SubRegion mr:JP_長野県小諸市小原 ;
+    mo:SubRegion mr:JP_長野県小諸市紺屋町 ;
+    mo:SubRegion mr:JP_長野県小諸市坂ノ上 ;
+    mo:SubRegion mr:JP_長野県小諸市塩野 ;
+    mo:SubRegion mr:JP_長野県小諸市滋野甲 ;
+    mo:SubRegion mr:JP_長野県小諸市東雲 ;
+    mo:SubRegion mr:JP_長野県小諸市芝生田 ;
+    mo:SubRegion mr:JP_長野県小諸市新町 ;
+    mo:SubRegion mr:JP_長野県小諸市諏訪山 ;
+    mo:SubRegion mr:JP_長野県小諸市滝原 ;
+    mo:SubRegion mr:JP_長野県小諸市田町 ;
+    mo:SubRegion mr:JP_長野県小諸市鶴巻 ;
+    mo:SubRegion mr:JP_長野県小諸市丁 ;
+    mo:SubRegion mr:JP_長野県小諸市鴇久保 ;
+    mo:SubRegion mr:JP_長野県小諸市栃木 ;
+    mo:SubRegion mr:JP_長野県小諸市西浦 ;
+    mo:SubRegion mr:JP_長野県小諸市西原 ;
+    mo:SubRegion mr:JP_長野県小諸市糠地 ;
+    mo:SubRegion mr:JP_長野県小諸市乗瀬 ;
+    mo:SubRegion mr:JP_長野県小諸市八満 ;
+    mo:SubRegion mr:JP_長野県小諸市八幡町 ;
+    mo:SubRegion mr:JP_長野県小諸市東区 ;
+    mo:SubRegion mr:JP_長野県小諸市東小諸 ;
+    mo:SubRegion mr:JP_長野県小諸市東山 ;
+    mo:SubRegion mr:JP_長野県小諸市菱平 ;
+    mo:SubRegion mr:JP_長野県小諸市一ツ谷 ;
+    mo:SubRegion mr:JP_長野県小諸市ひばりケ丘 ;
+    mo:SubRegion mr:JP_長野県小諸市平原 ;
+    mo:SubRegion mr:JP_長野県小諸市藤塚 ;
+    mo:SubRegion mr:JP_長野県小諸市富士見平 ;
+    mo:SubRegion mr:JP_長野県小諸市丙 ;
+    mo:SubRegion mr:JP_長野県小諸市本町 ;
+    mo:SubRegion mr:JP_長野県小諸市松井 ;
+    mo:SubRegion mr:JP_長野県小諸市御影 ;
+    mo:SubRegion mr:JP_長野県小諸市御影新田 ;
+    mo:SubRegion mr:JP_長野県小諸市三和 ;
+    mo:SubRegion mr:JP_長野県小諸市緑ケ丘 ;
+    mo:SubRegion mr:JP_長野県小諸市南ケ原 ;
+    mo:SubRegion mr:JP_長野県小諸市南町 ;
+    mo:SubRegion mr:JP_長野県小諸市御牧ケ原 ;
+    mo:SubRegion mr:JP_長野県小諸市耳取 ;
+    mo:SubRegion mr:JP_長野県小諸市宮沢 ;
+    mo:SubRegion mr:JP_長野県小諸市御幸町 ;
+    mo:SubRegion mr:JP_長野県小諸市森山 ;
+    mo:SubRegion mr:JP_長野県小諸市諸 ;
+    mo:SubRegion mr:JP_長野県小諸市谷地原 ;
+    mo:SubRegion mr:JP_長野県小諸市山浦 ;
+    mo:SubRegion mr:JP_長野県小諸市四ツ谷 ;
+    mo:SubRegion mr:JP_長野県小諸市与良町 ;
+    mo:SubRegion mr:JP_長野県小諸市両神 ;
+    mo:SubRegion mr:JP_長野県小諸市六供 ;
+    mo:SubRegion mr:JP_長野県小諸市和田 ;
+a mo:GeoEntity .
+
+mr:JP_長野県小諸市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市赤坂
+    rdfs:label "赤坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市天池
+    rdfs:label "天池"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市荒堀
+    rdfs:label "荒堀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市荒町
+    rdfs:label "荒町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市池ノ前
+    rdfs:label "池ノ前"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市井子
+    rdfs:label "井子"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市石峠
+    rdfs:label "石峠"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市市
+    rdfs:label "市"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市市町
+    rdfs:label "市町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市上ノ平
+    rdfs:label "上ノ平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市後平
+    rdfs:label "後平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市大杭
+    rdfs:label "大杭"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市大手
+    rdfs:label "大手"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市押出
+    rdfs:label "押出"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市乙
+    rdfs:label "乙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市乙女
+    rdfs:label "乙女"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市柏木
+    rdfs:label "柏木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市加増
+    rdfs:label "加増"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市唐松
+    rdfs:label "唐松"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市己
+    rdfs:label "己"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市久保
+    rdfs:label "久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市熊ノ堂
+    rdfs:label "熊ノ堂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市甲
+    rdfs:label "甲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市古城
+    rdfs:label "古城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市小原
+    rdfs:label "小原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市紺屋町
+    rdfs:label "紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市坂ノ上
+    rdfs:label "坂ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市塩野
+    rdfs:label "塩野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市滋野甲
+    rdfs:label "滋野甲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市東雲
+    rdfs:label "東雲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市芝生田
+    rdfs:label "芝生田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市諏訪山
+    rdfs:label "諏訪山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市滝原
+    rdfs:label "滝原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市田町
+    rdfs:label "田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市鶴巻
+    rdfs:label "鶴巻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市丁
+    rdfs:label "丁"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市鴇久保
+    rdfs:label "鴇久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市栃木
+    rdfs:label "栃木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市西浦
+    rdfs:label "西浦"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市糠地
+    rdfs:label "糠地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市乗瀬
+    rdfs:label "乗瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市八満
+    rdfs:label "八満"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市東区
+    rdfs:label "東区"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市東小諸
+    rdfs:label "東小諸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市東山
+    rdfs:label "東山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市菱平
+    rdfs:label "菱平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市一ツ谷
+    rdfs:label "一ツ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市ひばりケ丘
+    rdfs:label "ひばりケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市平原
+    rdfs:label "平原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市藤塚
+    rdfs:label "藤塚"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市富士見平
+    rdfs:label "富士見平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市丙
+    rdfs:label "丙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市松井
+    rdfs:label "松井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市御影
+    rdfs:label "御影"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市御影新田
+    rdfs:label "御影新田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市三和
+    rdfs:label "三和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市南ケ原
+    rdfs:label "南ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市御牧ケ原
+    rdfs:label "御牧ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市耳取
+    rdfs:label "耳取"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市宮沢
+    rdfs:label "宮沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市御幸町
+    rdfs:label "御幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市森山
+    rdfs:label "森山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市諸
+    rdfs:label "諸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市谷地原
+    rdfs:label "谷地原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市山浦
+    rdfs:label "山浦"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市四ツ谷
+    rdfs:label "四ツ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市与良町
+    rdfs:label "与良町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市両神
+    rdfs:label "両神"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市六供
+    rdfs:label "六供"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小諸市和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市
+    rdfs:label "伊那市"@ja ;
+    mo:AreaCode "20209" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県伊那市荒井 ;
+    mo:SubRegion mr:JP_長野県伊那市荒井内の萱 ;
+    mo:SubRegion mr:JP_長野県伊那市伊那 ;
+    mo:SubRegion mr:JP_長野県伊那市伊那部 ;
+    mo:SubRegion mr:JP_長野県伊那市上の原 ;
+    mo:SubRegion mr:JP_長野県伊那市小沢 ;
+    mo:SubRegion mr:JP_長野県伊那市上新田 ;
+    mo:SubRegion mr:JP_長野県伊那市上牧 ;
+    mo:SubRegion mr:JP_長野県伊那市狐島 ;
+    mo:SubRegion mr:JP_長野県伊那市小四郎久保 ;
+    mo:SubRegion mr:JP_長野県伊那市境 ;
+    mo:SubRegion mr:JP_長野県伊那市坂下 ;
+    mo:SubRegion mr:JP_長野県伊那市下新田 ;
+    mo:SubRegion mr:JP_長野県伊那市仙美 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町長藤 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町小原 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町勝間 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町上山田 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町芝平 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町下山田 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町西高遠 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町荊口 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町東高遠 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町藤沢 ;
+    mo:SubRegion mr:JP_長野県伊那市高遠町山室 ;
+    mo:SubRegion mr:JP_長野県伊那市中央 ;
+    mo:SubRegion mr:JP_長野県伊那市手良沢岡 ;
+    mo:SubRegion mr:JP_長野県伊那市手良中坪 ;
+    mo:SubRegion mr:JP_長野県伊那市手良野口 ;
+    mo:SubRegion mr:JP_長野県伊那市富県 ;
+    mo:SubRegion mr:JP_長野県伊那市中の原 ;
+    mo:SubRegion mr:JP_長野県伊那市西春近 ;
+    mo:SubRegion mr:JP_長野県伊那市西町 ;
+    mo:SubRegion mr:JP_長野県伊那市西箕輪 ;
+    mo:SubRegion mr:JP_長野県伊那市野底 ;
+    mo:SubRegion mr:JP_長野県伊那市長谷市野瀬 ;
+    mo:SubRegion mr:JP_長野県伊那市長谷浦 ;
+    mo:SubRegion mr:JP_長野県伊那市長谷黒河内 ;
+    mo:SubRegion mr:JP_長野県伊那市長谷杉島 ;
+    mo:SubRegion mr:JP_長野県伊那市長谷中尾 ;
+    mo:SubRegion mr:JP_長野県伊那市長谷非持 ;
+    mo:SubRegion mr:JP_長野県伊那市長谷溝口 ;
+    mo:SubRegion mr:JP_長野県伊那市日影 ;
+    mo:SubRegion mr:JP_長野県伊那市東春近 ;
+    mo:SubRegion mr:JP_長野県伊那市平沢 ;
+    mo:SubRegion mr:JP_長野県伊那市福島 ;
+    mo:SubRegion mr:JP_長野県伊那市前原 ;
+    mo:SubRegion mr:JP_長野県伊那市ますみヶ丘 ;
+    mo:SubRegion mr:JP_長野県伊那市美篶 ;
+    mo:SubRegion mr:JP_長野県伊那市御園 ;
+    mo:SubRegion mr:JP_長野県伊那市美原 ;
+    mo:SubRegion mr:JP_長野県伊那市山寺 ;
+    mo:SubRegion mr:JP_長野県伊那市横山 ;
+    mo:SubRegion mr:JP_長野県伊那市若宮 ;
+a mo:GeoEntity .
+
+mr:JP_長野県伊那市荒井
+    rdfs:label "荒井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市荒井内の萱
+    rdfs:label "荒井内の萱"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市伊那
+    rdfs:label "伊那"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市伊那部
+    rdfs:label "伊那部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市上の原
+    rdfs:label "上の原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市小沢
+    rdfs:label "小沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市上新田
+    rdfs:label "上新田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市上牧
+    rdfs:label "上牧"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市狐島
+    rdfs:label "狐島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市小四郎久保
+    rdfs:label "小四郎久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市境
+    rdfs:label "境"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市坂下
+    rdfs:label "坂下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市下新田
+    rdfs:label "下新田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市仙美
+    rdfs:label "仙美"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町長藤
+    rdfs:label "高遠町長藤"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町小原
+    rdfs:label "高遠町小原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町勝間
+    rdfs:label "高遠町勝間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町上山田
+    rdfs:label "高遠町上山田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町芝平
+    rdfs:label "高遠町芝平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町下山田
+    rdfs:label "高遠町下山田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町西高遠
+    rdfs:label "高遠町西高遠"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町荊口
+    rdfs:label "高遠町荊口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町東高遠
+    rdfs:label "高遠町東高遠"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町藤沢
+    rdfs:label "高遠町藤沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市高遠町山室
+    rdfs:label "高遠町山室"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市手良沢岡
+    rdfs:label "手良沢岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市手良中坪
+    rdfs:label "手良中坪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市手良野口
+    rdfs:label "手良野口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市富県
+    rdfs:label "富県"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市中の原
+    rdfs:label "中の原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市西春近
+    rdfs:label "西春近"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市西箕輪
+    rdfs:label "西箕輪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市野底
+    rdfs:label "野底"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市長谷市野瀬
+    rdfs:label "長谷市野瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市長谷浦
+    rdfs:label "長谷浦"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市長谷黒河内
+    rdfs:label "長谷黒河内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市長谷杉島
+    rdfs:label "長谷杉島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市長谷中尾
+    rdfs:label "長谷中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市長谷非持
+    rdfs:label "長谷非持"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市長谷溝口
+    rdfs:label "長谷溝口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市日影
+    rdfs:label "日影"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市東春近
+    rdfs:label "東春近"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市平沢
+    rdfs:label "平沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市福島
+    rdfs:label "福島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市前原
+    rdfs:label "前原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市ますみヶ丘
+    rdfs:label "ますみヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市美篶
+    rdfs:label "美篶"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市御園
+    rdfs:label "御園"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市美原
+    rdfs:label "美原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市山寺
+    rdfs:label "山寺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市横山
+    rdfs:label "横山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県伊那市若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市
+    rdfs:label "駒ヶ根市"@ja ;
+    mo:AreaCode "20210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市赤須町 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市赤須東 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市赤穂 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市飯坂 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市上穂栄町 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市上穂南 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市上穂北 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市北町 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市経塚 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市下市場 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市下平 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市中央 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市中沢 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市梨の木 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市東伊那 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市東町 ;
+    mo:SubRegion mr:JP_長野県駒ヶ根市南田 ;
+a mo:GeoEntity .
+
+mr:JP_長野県駒ヶ根市赤須町
+    rdfs:label "赤須町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市赤須東
+    rdfs:label "赤須東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市赤穂
+    rdfs:label "赤穂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市飯坂
+    rdfs:label "飯坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市上穂栄町
+    rdfs:label "上穂栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市上穂南
+    rdfs:label "上穂南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市上穂北
+    rdfs:label "上穂北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市北町
+    rdfs:label "北町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市経塚
+    rdfs:label "経塚"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市下市場
+    rdfs:label "下市場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市下平
+    rdfs:label "下平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市中沢
+    rdfs:label "中沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市梨の木
+    rdfs:label "梨の木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市東伊那
+    rdfs:label "東伊那"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県駒ヶ根市南田
+    rdfs:label "南田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市
+    rdfs:label "中野市"@ja ;
+    mo:AreaCode "20211" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県中野市赤岩 ;
+    mo:SubRegion mr:JP_長野県中野市厚貝 ;
+    mo:SubRegion mr:JP_長野県中野市穴田 ;
+    mo:SubRegion mr:JP_長野県中野市新井 ;
+    mo:SubRegion mr:JP_長野県中野市安源寺 ;
+    mo:SubRegion mr:JP_長野県中野市一本木 ;
+    mo:SubRegion mr:JP_長野県中野市岩井 ;
+    mo:SubRegion mr:JP_長野県中野市岩船 ;
+    mo:SubRegion mr:JP_長野県中野市牛出 ;
+    mo:SubRegion mr:JP_長野県中野市江部 ;
+    mo:SubRegion mr:JP_長野県中野市大俣 ;
+    mo:SubRegion mr:JP_長野県中野市小舘 ;
+    mo:SubRegion mr:JP_長野県中野市笠原 ;
+    mo:SubRegion mr:JP_長野県中野市片塩 ;
+    mo:SubRegion mr:JP_長野県中野市金井 ;
+    mo:SubRegion mr:JP_長野県中野市上今井 ;
+    mo:SubRegion mr:JP_長野県中野市草間 ;
+    mo:SubRegion mr:JP_長野県中野市栗林 ;
+    mo:SubRegion mr:JP_長野県中野市越 ;
+    mo:SubRegion mr:JP_長野県中野市小田中 ;
+    mo:SubRegion mr:JP_長野県中野市桜沢 ;
+    mo:SubRegion mr:JP_長野県中野市更科 ;
+    mo:SubRegion mr:JP_長野県中野市篠井 ;
+    mo:SubRegion mr:JP_長野県中野市新野 ;
+    mo:SubRegion mr:JP_長野県中野市新保 ;
+    mo:SubRegion mr:JP_長野県中野市諏訪町 ;
+    mo:SubRegion mr:JP_長野県中野市田上 ;
+    mo:SubRegion mr:JP_長野県中野市竹原 ;
+    mo:SubRegion mr:JP_長野県中野市立ケ花 ;
+    mo:SubRegion mr:JP_長野県中野市田麦 ;
+    mo:SubRegion mr:JP_長野県中野市中央 ;
+    mo:SubRegion mr:JP_長野県中野市豊津 ;
+    mo:SubRegion mr:JP_長野県中野市永江 ;
+    mo:SubRegion mr:JP_長野県中野市中野 ;
+    mo:SubRegion mr:JP_長野県中野市七瀬 ;
+    mo:SubRegion mr:JP_長野県中野市南宮 ;
+    mo:SubRegion mr:JP_長野県中野市西 ;
+    mo:SubRegion mr:JP_長野県中野市西条 ;
+    mo:SubRegion mr:JP_長野県中野市東山 ;
+    mo:SubRegion mr:JP_長野県中野市深沢 ;
+    mo:SubRegion mr:JP_長野県中野市壁田 ;
+    mo:SubRegion mr:JP_長野県中野市間長瀬 ;
+    mo:SubRegion mr:JP_長野県中野市間山 ;
+    mo:SubRegion mr:JP_長野県中野市三ツ和 ;
+    mo:SubRegion mr:JP_長野県中野市三好町 ;
+    mo:SubRegion mr:JP_長野県中野市柳沢 ;
+    mo:SubRegion mr:JP_長野県中野市吉田 ;
+    mo:SubRegion mr:JP_長野県中野市若宮 ;
+a mo:GeoEntity .
+
+mr:JP_長野県中野市赤岩
+    rdfs:label "赤岩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市厚貝
+    rdfs:label "厚貝"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市穴田
+    rdfs:label "穴田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市新井
+    rdfs:label "新井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市安源寺
+    rdfs:label "安源寺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市一本木
+    rdfs:label "一本木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市岩井
+    rdfs:label "岩井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市岩船
+    rdfs:label "岩船"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市牛出
+    rdfs:label "牛出"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市江部
+    rdfs:label "江部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市大俣
+    rdfs:label "大俣"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市小舘
+    rdfs:label "小舘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市笠原
+    rdfs:label "笠原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市片塩
+    rdfs:label "片塩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市金井
+    rdfs:label "金井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市上今井
+    rdfs:label "上今井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市草間
+    rdfs:label "草間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市栗林
+    rdfs:label "栗林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市越
+    rdfs:label "越"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市小田中
+    rdfs:label "小田中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市桜沢
+    rdfs:label "桜沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市更科
+    rdfs:label "更科"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市篠井
+    rdfs:label "篠井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市新野
+    rdfs:label "新野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市新保
+    rdfs:label "新保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市諏訪町
+    rdfs:label "諏訪町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市田上
+    rdfs:label "田上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市竹原
+    rdfs:label "竹原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市立ケ花
+    rdfs:label "立ケ花"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市田麦
+    rdfs:label "田麦"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市豊津
+    rdfs:label "豊津"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市永江
+    rdfs:label "永江"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市七瀬
+    rdfs:label "七瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市南宮
+    rdfs:label "南宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市西条
+    rdfs:label "西条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市東山
+    rdfs:label "東山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市深沢
+    rdfs:label "深沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市壁田
+    rdfs:label "壁田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市間長瀬
+    rdfs:label "間長瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市間山
+    rdfs:label "間山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市三ツ和
+    rdfs:label "三ツ和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市三好町
+    rdfs:label "三好町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市柳沢
+    rdfs:label "柳沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県中野市若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県大町市
+    rdfs:label "大町市"@ja ;
+    mo:AreaCode "20212" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県大町市大町 ;
+    mo:SubRegion mr:JP_長野県大町市平 ;
+    mo:SubRegion mr:JP_長野県大町市常盤 ;
+    mo:SubRegion mr:JP_長野県大町市美麻 ;
+    mo:SubRegion mr:JP_長野県大町市八坂 ;
+    mo:SubRegion mr:JP_長野県大町市八坂菖蒲 ;
+    mo:SubRegion mr:JP_長野県大町市社 ;
+a mo:GeoEntity .
+
+mr:JP_長野県大町市大町
+    rdfs:label "大町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県大町市平
+    rdfs:label "平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県大町市常盤
+    rdfs:label "常盤"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県大町市美麻
+    rdfs:label "美麻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県大町市八坂
+    rdfs:label "八坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県大町市八坂菖蒲
+    rdfs:label "八坂菖蒲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県大町市社
+    rdfs:label "社"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市
+    rdfs:label "飯山市"@ja ;
+    mo:AreaCode "20213" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県飯山市旭 ;
+    mo:SubRegion mr:JP_長野県飯山市飯山 ;
+    mo:SubRegion mr:JP_長野県飯山市一山 ;
+    mo:SubRegion mr:JP_長野県飯山市大池 ;
+    mo:SubRegion mr:JP_長野県飯山市木島 ;
+    mo:SubRegion mr:JP_長野県飯山市小佐原 ;
+    mo:SubRegion mr:JP_長野県飯山市寿 ;
+    mo:SubRegion mr:JP_長野県飯山市坂井 ;
+    mo:SubRegion mr:JP_長野県飯山市静間 ;
+    mo:SubRegion mr:JP_長野県飯山市下木島 ;
+    mo:SubRegion mr:JP_長野県飯山市其綿 ;
+    mo:SubRegion mr:JP_長野県飯山市照岡 ;
+    mo:SubRegion mr:JP_長野県飯山市照里 ;
+    mo:SubRegion mr:JP_長野県飯山市天神堂 ;
+    mo:SubRegion mr:JP_長野県飯山市常郷 ;
+    mo:SubRegion mr:JP_長野県飯山市常盤 ;
+    mo:SubRegion mr:JP_長野県飯山市富倉 ;
+    mo:SubRegion mr:JP_長野県飯山市豊田 ;
+    mo:SubRegion mr:JP_長野県飯山市中曽根 ;
+    mo:SubRegion mr:JP_長野県飯山市野坂田 ;
+    mo:SubRegion mr:JP_長野県飯山市蓮 ;
+    mo:SubRegion mr:JP_長野県飯山市斑尾高原 ;
+    mo:SubRegion mr:JP_長野県飯山市瑞穂 ;
+    mo:SubRegion mr:JP_長野県飯山市瑞穂豊 ;
+    mo:SubRegion mr:JP_長野県飯山市緑 ;
+    mo:SubRegion mr:JP_長野県飯山市南町 ;
+    mo:SubRegion mr:JP_長野県飯山市安田 ;
+    mo:SubRegion mr:JP_長野県飯山市山岸 ;
+    mo:SubRegion mr:JP_長野県飯山市吉 ;
+a mo:GeoEntity .
+
+mr:JP_長野県飯山市旭
+    rdfs:label "旭"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市飯山
+    rdfs:label "飯山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市一山
+    rdfs:label "一山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市大池
+    rdfs:label "大池"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市木島
+    rdfs:label "木島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市小佐原
+    rdfs:label "小佐原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市寿
+    rdfs:label "寿"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市坂井
+    rdfs:label "坂井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市静間
+    rdfs:label "静間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市下木島
+    rdfs:label "下木島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市其綿
+    rdfs:label "其綿"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市照岡
+    rdfs:label "照岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市照里
+    rdfs:label "照里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市天神堂
+    rdfs:label "天神堂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市常郷
+    rdfs:label "常郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市常盤
+    rdfs:label "常盤"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市富倉
+    rdfs:label "富倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市豊田
+    rdfs:label "豊田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市中曽根
+    rdfs:label "中曽根"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市野坂田
+    rdfs:label "野坂田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市蓮
+    rdfs:label "蓮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市斑尾高原
+    rdfs:label "斑尾高原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市瑞穂
+    rdfs:label "瑞穂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市瑞穂豊
+    rdfs:label "瑞穂豊"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市緑
+    rdfs:label "緑"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市安田
+    rdfs:label "安田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市山岸
+    rdfs:label "山岸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県飯山市吉
+    rdfs:label "吉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市
+    rdfs:label "茅野市"@ja ;
+    mo:AreaCode "20214" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県茅野市泉野 ;
+    mo:SubRegion mr:JP_長野県茅野市金沢 ;
+    mo:SubRegion mr:JP_長野県茅野市北山 ;
+    mo:SubRegion mr:JP_長野県茅野市湖東 ;
+    mo:SubRegion mr:JP_長野県茅野市城山 ;
+    mo:SubRegion mr:JP_長野県茅野市玉川 ;
+    mo:SubRegion mr:JP_長野県茅野市ちの ;
+    mo:SubRegion mr:JP_長野県茅野市塚原 ;
+    mo:SubRegion mr:JP_長野県茅野市豊平 ;
+    mo:SubRegion mr:JP_長野県茅野市中大塩 ;
+    mo:SubRegion mr:JP_長野県茅野市仲町 ;
+    mo:SubRegion mr:JP_長野県茅野市本町 ;
+    mo:SubRegion mr:JP_長野県茅野市宮川 ;
+    mo:SubRegion mr:JP_長野県茅野市米沢 ;
+a mo:GeoEntity .
+
+mr:JP_長野県茅野市泉野
+    rdfs:label "泉野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市金沢
+    rdfs:label "金沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市北山
+    rdfs:label "北山"@ja ;
+    mo:SubRegion mr:JP_長野県茅野市北山渋御殿湯・渋の湯 ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市北山渋御殿湯・渋の湯
+    rdfs:label "渋御殿湯・渋の湯"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市湖東
+    rdfs:label "湖東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市城山
+    rdfs:label "城山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市玉川
+    rdfs:label "玉川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市ちの
+    rdfs:label "ちの"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市塚原
+    rdfs:label "塚原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市豊平
+    rdfs:label "豊平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市中大塩
+    rdfs:label "中大塩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市仲町
+    rdfs:label "仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市宮川
+    rdfs:label "宮川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県茅野市米沢
+    rdfs:label "米沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市
+    rdfs:label "塩尻市"@ja ;
+    mo:AreaCode "20215" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県塩尻市大小屋 ;
+    mo:SubRegion mr:JP_長野県塩尻市柿沢 ;
+    mo:SubRegion mr:JP_長野県塩尻市片丘 ;
+    mo:SubRegion mr:JP_長野県塩尻市金井 ;
+    mo:SubRegion mr:JP_長野県塩尻市上西条 ;
+    mo:SubRegion mr:JP_長野県塩尻市木曽平沢 ;
+    mo:SubRegion mr:JP_長野県塩尻市北小野 ;
+    mo:SubRegion mr:JP_長野県塩尻市旧塩尻 ;
+    mo:SubRegion mr:JP_長野県塩尻市桟敷 ;
+    mo:SubRegion mr:JP_長野県塩尻市塩尻町 ;
+    mo:SubRegion mr:JP_長野県塩尻市下西条 ;
+    mo:SubRegion mr:JP_長野県塩尻市洗馬 ;
+    mo:SubRegion mr:JP_長野県塩尻市宗賀 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門七区 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門泉町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門桔梗町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門幸町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門田川町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門並木町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門一番町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門二番町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門三番町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門四番町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門五番町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門六番町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門七番町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門八番町 ;
+    mo:SubRegion mr:JP_長野県塩尻市大門 ;
+    mo:SubRegion mr:JP_長野県塩尻市中西条 ;
+    mo:SubRegion mr:JP_長野県塩尻市長畝 ;
+    mo:SubRegion mr:JP_長野県塩尻市奈良井 ;
+    mo:SubRegion mr:JP_長野県塩尻市贄川 ;
+    mo:SubRegion mr:JP_長野県塩尻市広丘堅石 ;
+    mo:SubRegion mr:JP_長野県塩尻市広丘郷原 ;
+    mo:SubRegion mr:JP_長野県塩尻市広丘高出 ;
+    mo:SubRegion mr:JP_長野県塩尻市広丘野村 ;
+    mo:SubRegion mr:JP_長野県塩尻市広丘原新田 ;
+    mo:SubRegion mr:JP_長野県塩尻市広丘吉田 ;
+    mo:SubRegion mr:JP_長野県塩尻市堀ノ内 ;
+    mo:SubRegion mr:JP_長野県塩尻市みどり湖 ;
+    mo:SubRegion mr:JP_長野県塩尻市峰原 ;
+a mo:GeoEntity .
+
+mr:JP_長野県塩尻市大小屋
+    rdfs:label "大小屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市柿沢
+    rdfs:label "柿沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市片丘
+    rdfs:label "片丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市金井
+    rdfs:label "金井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市上西条
+    rdfs:label "上西条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市木曽平沢
+    rdfs:label "木曽平沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市北小野
+    rdfs:label "北小野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市旧塩尻
+    rdfs:label "旧塩尻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市桟敷
+    rdfs:label "桟敷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市塩尻町
+    rdfs:label "塩尻町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市下西条
+    rdfs:label "下西条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市洗馬
+    rdfs:label "洗馬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市宗賀
+    rdfs:label "宗賀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門七区
+    rdfs:label "大門七区"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門泉町
+    rdfs:label "大門泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門桔梗町
+    rdfs:label "大門桔梗町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門幸町
+    rdfs:label "大門幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門田川町
+    rdfs:label "大門田川町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門並木町
+    rdfs:label "大門並木町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門一番町
+    rdfs:label "大門一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門二番町
+    rdfs:label "大門二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門三番町
+    rdfs:label "大門三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門四番町
+    rdfs:label "大門四番町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門五番町
+    rdfs:label "大門五番町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門六番町
+    rdfs:label "大門六番町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門七番町
+    rdfs:label "大門七番町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門八番町
+    rdfs:label "大門八番町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市大門
+    rdfs:label "大門"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市中西条
+    rdfs:label "中西条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市長畝
+    rdfs:label "長畝"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市奈良井
+    rdfs:label "奈良井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市贄川
+    rdfs:label "贄川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市広丘堅石
+    rdfs:label "広丘堅石"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市広丘郷原
+    rdfs:label "広丘郷原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市広丘高出
+    rdfs:label "広丘高出"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市広丘野村
+    rdfs:label "広丘野村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市広丘原新田
+    rdfs:label "広丘原新田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市広丘吉田
+    rdfs:label "広丘吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市堀ノ内
+    rdfs:label "堀ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市みどり湖
+    rdfs:label "みどり湖"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県塩尻市峰原
+    rdfs:label "峰原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市
+    rdfs:label "佐久市"@ja ;
+    mo:AreaCode "20217" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県佐久市跡部 ;
+    mo:SubRegion mr:JP_長野県佐久市新子田 ;
+    mo:SubRegion mr:JP_長野県佐久市今井 ;
+    mo:SubRegion mr:JP_長野県佐久市入澤 ;
+    mo:SubRegion mr:JP_長野県佐久市岩村田 ;
+    mo:SubRegion mr:JP_長野県佐久市岩村田北 ;
+    mo:SubRegion mr:JP_長野県佐久市印内 ;
+    mo:SubRegion mr:JP_長野県佐久市臼田 ;
+    mo:SubRegion mr:JP_長野県佐久市内山 ;
+    mo:SubRegion mr:JP_長野県佐久市大沢 ;
+    mo:SubRegion mr:JP_長野県佐久市太田部 ;
+    mo:SubRegion mr:JP_長野県佐久市小田井 ;
+    mo:SubRegion mr:JP_長野県佐久市鍛冶屋 ;
+    mo:SubRegion mr:JP_長野県佐久市春日 ;
+    mo:SubRegion mr:JP_長野県佐久市勝間 ;
+    mo:SubRegion mr:JP_長野県佐久市上小田切 ;
+    mo:SubRegion mr:JP_長野県佐久市上平尾 ;
+    mo:SubRegion mr:JP_長野県佐久市北川 ;
+    mo:SubRegion mr:JP_長野県佐久市協和 ;
+    mo:SubRegion mr:JP_長野県佐久市清川 ;
+    mo:SubRegion mr:JP_長野県佐久市桑山 ;
+    mo:SubRegion mr:JP_長野県佐久市甲 ;
+    mo:SubRegion mr:JP_長野県佐久市香坂 ;
+    mo:SubRegion mr:JP_長野県佐久市小宮山 ;
+    mo:SubRegion mr:JP_長野県佐久市佐久平駅東 ;
+    mo:SubRegion mr:JP_長野県佐久市佐久平駅南 ;
+    mo:SubRegion mr:JP_長野県佐久市佐久平駅北 ;
+    mo:SubRegion mr:JP_長野県佐久市桜井 ;
+    mo:SubRegion mr:JP_長野県佐久市猿久保 ;
+    mo:SubRegion mr:JP_長野県佐久市塩名田 ;
+    mo:SubRegion mr:JP_長野県佐久市志賀 ;
+    mo:SubRegion mr:JP_長野県佐久市下小田切 ;
+    mo:SubRegion mr:JP_長野県佐久市下越 ;
+    mo:SubRegion mr:JP_長野県佐久市下平尾 ;
+    mo:SubRegion mr:JP_長野県佐久市瀬戸 ;
+    mo:SubRegion mr:JP_長野県佐久市高柳 ;
+    mo:SubRegion mr:JP_長野県佐久市田口 ;
+    mo:SubRegion mr:JP_長野県佐久市塚原 ;
+    mo:SubRegion mr:JP_長野県佐久市常田 ;
+    mo:SubRegion mr:JP_長野県佐久市常和 ;
+    mo:SubRegion mr:JP_長野県佐久市伴野 ;
+    mo:SubRegion mr:JP_長野県佐久市取出町 ;
+    mo:SubRegion mr:JP_長野県佐久市中小田切 ;
+    mo:SubRegion mr:JP_長野県佐久市中込 ;
+    mo:SubRegion mr:JP_長野県佐久市長土呂 ;
+    mo:SubRegion mr:JP_長野県佐久市鳴瀬 ;
+    mo:SubRegion mr:JP_長野県佐久市根岸 ;
+    mo:SubRegion mr:JP_長野県佐久市根々井 ;
+    mo:SubRegion mr:JP_長野県佐久市野沢 ;
+    mo:SubRegion mr:JP_長野県佐久市原 ;
+    mo:SubRegion mr:JP_長野県佐久市東立科 ;
+    mo:SubRegion mr:JP_長野県佐久市平賀 ;
+    mo:SubRegion mr:JP_長野県佐久市平塚 ;
+    mo:SubRegion mr:JP_長野県佐久市平林 ;
+    mo:SubRegion mr:JP_長野県佐久市布施 ;
+    mo:SubRegion mr:JP_長野県佐久市本新町 ;
+    mo:SubRegion mr:JP_長野県佐久市前山 ;
+    mo:SubRegion mr:JP_長野県佐久市三河田 ;
+    mo:SubRegion mr:JP_長野県佐久市三塚 ;
+    mo:SubRegion mr:JP_長野県佐久市三分 ;
+    mo:SubRegion mr:JP_長野県佐久市御馬寄 ;
+    mo:SubRegion mr:JP_長野県佐久市茂田井 ;
+    mo:SubRegion mr:JP_長野県佐久市望月 ;
+    mo:SubRegion mr:JP_長野県佐久市矢嶋 ;
+    mo:SubRegion mr:JP_長野県佐久市安原 ;
+    mo:SubRegion mr:JP_長野県佐久市八幡 ;
+    mo:SubRegion mr:JP_長野県佐久市湯原 ;
+    mo:SubRegion mr:JP_長野県佐久市横根 ;
+    mo:SubRegion mr:JP_長野県佐久市横和 ;
+    mo:SubRegion mr:JP_長野県佐久市蓬田 ;
+a mo:GeoEntity .
+
+mr:JP_長野県佐久市跡部
+    rdfs:label "跡部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市新子田
+    rdfs:label "新子田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市今井
+    rdfs:label "今井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市入澤
+    rdfs:label "入澤"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市岩村田
+    rdfs:label "岩村田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市岩村田北
+    rdfs:label "岩村田北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市印内
+    rdfs:label "印内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市臼田
+    rdfs:label "臼田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市内山
+    rdfs:label "内山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市大沢
+    rdfs:label "大沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市太田部
+    rdfs:label "太田部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市小田井
+    rdfs:label "小田井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市鍛冶屋
+    rdfs:label "鍛冶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市春日
+    rdfs:label "春日"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市勝間
+    rdfs:label "勝間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市上小田切
+    rdfs:label "上小田切"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市上平尾
+    rdfs:label "上平尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市北川
+    rdfs:label "北川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市協和
+    rdfs:label "協和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市清川
+    rdfs:label "清川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市桑山
+    rdfs:label "桑山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市甲
+    rdfs:label "甲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市香坂
+    rdfs:label "香坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市小宮山
+    rdfs:label "小宮山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市佐久平駅東
+    rdfs:label "佐久平駅東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市佐久平駅南
+    rdfs:label "佐久平駅南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市佐久平駅北
+    rdfs:label "佐久平駅北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市桜井
+    rdfs:label "桜井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市猿久保
+    rdfs:label "猿久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市塩名田
+    rdfs:label "塩名田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市志賀
+    rdfs:label "志賀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市下小田切
+    rdfs:label "下小田切"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市下越
+    rdfs:label "下越"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市下平尾
+    rdfs:label "下平尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市瀬戸
+    rdfs:label "瀬戸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市高柳
+    rdfs:label "高柳"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市田口
+    rdfs:label "田口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市塚原
+    rdfs:label "塚原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市常田
+    rdfs:label "常田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市常和
+    rdfs:label "常和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市伴野
+    rdfs:label "伴野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市取出町
+    rdfs:label "取出町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市中小田切
+    rdfs:label "中小田切"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市中込
+    rdfs:label "中込"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市長土呂
+    rdfs:label "長土呂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市鳴瀬
+    rdfs:label "鳴瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市根岸
+    rdfs:label "根岸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市根々井
+    rdfs:label "根々井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市野沢
+    rdfs:label "野沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市東立科
+    rdfs:label "東立科"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市平賀
+    rdfs:label "平賀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市平塚
+    rdfs:label "平塚"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市平林
+    rdfs:label "平林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市布施
+    rdfs:label "布施"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市本新町
+    rdfs:label "本新町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市前山
+    rdfs:label "前山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市三河田
+    rdfs:label "三河田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市三塚
+    rdfs:label "三塚"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市三分
+    rdfs:label "三分"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市御馬寄
+    rdfs:label "御馬寄"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市茂田井
+    rdfs:label "茂田井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市望月
+    rdfs:label "望月"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市矢嶋
+    rdfs:label "矢嶋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市安原
+    rdfs:label "安原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市湯原
+    rdfs:label "湯原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市横根
+    rdfs:label "横根"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市横和
+    rdfs:label "横和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県佐久市蓬田
+    rdfs:label "蓬田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市
+    rdfs:label "千曲市"@ja ;
+    mo:AreaCode "20218" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県千曲市雨宮 ;
+    mo:SubRegion mr:JP_長野県千曲市新山 ;
+    mo:SubRegion mr:JP_長野県千曲市粟佐 ;
+    mo:SubRegion mr:JP_長野県千曲市生萱 ;
+    mo:SubRegion mr:JP_長野県千曲市磯部 ;
+    mo:SubRegion mr:JP_長野県千曲市稲荷山 ;
+    mo:SubRegion mr:JP_長野県千曲市鋳物師屋 ;
+    mo:SubRegion mr:JP_長野県千曲市内川 ;
+    mo:SubRegion mr:JP_長野県千曲市打沢 ;
+    mo:SubRegion mr:JP_長野県千曲市小島 ;
+    mo:SubRegion mr:JP_長野県千曲市上徳間 ;
+    mo:SubRegion mr:JP_長野県千曲市上山田 ;
+    mo:SubRegion mr:JP_長野県千曲市上山田温泉 ;
+    mo:SubRegion mr:JP_長野県千曲市杭瀬下 ;
+    mo:SubRegion mr:JP_長野県千曲市倉科 ;
+    mo:SubRegion mr:JP_長野県千曲市桑原 ;
+    mo:SubRegion mr:JP_長野県千曲市小船山 ;
+    mo:SubRegion mr:JP_長野県千曲市桜堂 ;
+    mo:SubRegion mr:JP_長野県千曲市寂蒔 ;
+    mo:SubRegion mr:JP_長野県千曲市新田 ;
+    mo:SubRegion mr:JP_長野県千曲市須坂 ;
+    mo:SubRegion mr:JP_長野県千曲市千本柳 ;
+    mo:SubRegion mr:JP_長野県千曲市力石 ;
+    mo:SubRegion mr:JP_長野県千曲市土口 ;
+    mo:SubRegion mr:JP_長野県千曲市戸倉 ;
+    mo:SubRegion mr:JP_長野県千曲市戸倉温泉 ;
+    mo:SubRegion mr:JP_長野県千曲市中 ;
+    mo:SubRegion mr:JP_長野県千曲市野高場 ;
+    mo:SubRegion mr:JP_長野県千曲市羽尾 ;
+    mo:SubRegion mr:JP_長野県千曲市森 ;
+    mo:SubRegion mr:JP_長野県千曲市屋代 ;
+    mo:SubRegion mr:JP_長野県千曲市八幡 ;
+    mo:SubRegion mr:JP_長野県千曲市若宮 ;
+a mo:GeoEntity .
+
+mr:JP_長野県千曲市雨宮
+    rdfs:label "雨宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市新山
+    rdfs:label "新山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市粟佐
+    rdfs:label "粟佐"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市生萱
+    rdfs:label "生萱"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市磯部
+    rdfs:label "磯部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市稲荷山
+    rdfs:label "稲荷山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市鋳物師屋
+    rdfs:label "鋳物師屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市内川
+    rdfs:label "内川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市打沢
+    rdfs:label "打沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市上徳間
+    rdfs:label "上徳間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市上山田
+    rdfs:label "上山田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市上山田温泉
+    rdfs:label "上山田温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市杭瀬下
+    rdfs:label "杭瀬下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市倉科
+    rdfs:label "倉科"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市桑原
+    rdfs:label "桑原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市小船山
+    rdfs:label "小船山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市桜堂
+    rdfs:label "桜堂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市寂蒔
+    rdfs:label "寂蒔"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市須坂
+    rdfs:label "須坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市千本柳
+    rdfs:label "千本柳"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市力石
+    rdfs:label "力石"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市土口
+    rdfs:label "土口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市戸倉
+    rdfs:label "戸倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市戸倉温泉
+    rdfs:label "戸倉温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市野高場
+    rdfs:label "野高場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市羽尾
+    rdfs:label "羽尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市屋代
+    rdfs:label "屋代"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県千曲市若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市
+    rdfs:label "東御市"@ja ;
+    mo:AreaCode "20219" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県東御市県 ;
+    mo:SubRegion mr:JP_長野県東御市新屋 ;
+    mo:SubRegion mr:JP_長野県東御市大日向 ;
+    mo:SubRegion mr:JP_長野県東御市海善寺 ;
+    mo:SubRegion mr:JP_長野県東御市加沢 ;
+    mo:SubRegion mr:JP_長野県東御市和 ;
+    mo:SubRegion mr:JP_長野県東御市鞍掛 ;
+    mo:SubRegion mr:JP_長野県東御市塩川 ;
+    mo:SubRegion mr:JP_長野県東御市滋野 ;
+    mo:SubRegion mr:JP_長野県東御市島川原 ;
+    mo:SubRegion mr:JP_長野県東御市下之城 ;
+    mo:SubRegion mr:JP_長野県東御市田中 ;
+    mo:SubRegion mr:JP_長野県東御市常田 ;
+    mo:SubRegion mr:JP_長野県東御市布下 ;
+    mo:SubRegion mr:JP_長野県東御市祢津 ;
+    mo:SubRegion mr:JP_長野県東御市羽毛山 ;
+    mo:SubRegion mr:JP_長野県東御市新張 ;
+    mo:SubRegion mr:JP_長野県東御市御牧原 ;
+    mo:SubRegion mr:JP_長野県東御市本海野 ;
+    mo:SubRegion mr:JP_長野県東御市八重原 ;
+a mo:GeoEntity .
+
+mr:JP_長野県東御市県
+    rdfs:label "県"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市新屋
+    rdfs:label "新屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市大日向
+    rdfs:label "大日向"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市海善寺
+    rdfs:label "海善寺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市加沢
+    rdfs:label "加沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市和
+    rdfs:label "和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市鞍掛
+    rdfs:label "鞍掛"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市塩川
+    rdfs:label "塩川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市滋野
+    rdfs:label "滋野"@ja ;
+    mo:SubRegion mr:JP_長野県東御市滋野乙 ;
+    mo:SubRegion mr:JP_長野県東御市滋野甲 ;
+    a mo:町域 .
+
+mr:JP_長野県東御市滋野乙
+    rdfs:label "乙"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市滋野甲
+    rdfs:label "甲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市島川原
+    rdfs:label "島川原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市下之城
+    rdfs:label "下之城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市田中
+    rdfs:label "田中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市常田
+    rdfs:label "常田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市布下
+    rdfs:label "布下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市祢津
+    rdfs:label "祢津"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市羽毛山
+    rdfs:label "羽毛山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市新張
+    rdfs:label "新張"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市御牧原
+    rdfs:label "御牧原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市本海野
+    rdfs:label "本海野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東御市八重原
+    rdfs:label "八重原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市
+    rdfs:label "安曇野市"@ja ;
+    mo:AreaCode "20220" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県安曇野市明科中川手 ;
+    mo:SubRegion mr:JP_長野県安曇野市明科七貴 ;
+    mo:SubRegion mr:JP_長野県安曇野市明科東川手 ;
+    mo:SubRegion mr:JP_長野県安曇野市明科光 ;
+    mo:SubRegion mr:JP_長野県安曇野市明科南陸郷 ;
+    mo:SubRegion mr:JP_長野県安曇野市豊科 ;
+    mo:SubRegion mr:JP_長野県安曇野市豊科高家 ;
+    mo:SubRegion mr:JP_長野県安曇野市豊科田沢 ;
+    mo:SubRegion mr:JP_長野県安曇野市豊科光 ;
+    mo:SubRegion mr:JP_長野県安曇野市豊科南穂高 ;
+    mo:SubRegion mr:JP_長野県安曇野市穂高 ;
+    mo:SubRegion mr:JP_長野県安曇野市穂高有明 ;
+    mo:SubRegion mr:JP_長野県安曇野市穂高柏原 ;
+    mo:SubRegion mr:JP_長野県安曇野市穂高北穂高 ;
+    mo:SubRegion mr:JP_長野県安曇野市穂高牧 ;
+    mo:SubRegion mr:JP_長野県安曇野市堀金烏川 ;
+    mo:SubRegion mr:JP_長野県安曇野市堀金三田 ;
+    mo:SubRegion mr:JP_長野県安曇野市三郷小倉 ;
+    mo:SubRegion mr:JP_長野県安曇野市三郷明盛 ;
+    mo:SubRegion mr:JP_長野県安曇野市三郷温 ;
+a mo:GeoEntity .
+
+mr:JP_長野県安曇野市明科中川手
+    rdfs:label "明科中川手"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市明科七貴
+    rdfs:label "明科七貴"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市明科東川手
+    rdfs:label "明科東川手"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市明科光
+    rdfs:label "明科光"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市明科南陸郷
+    rdfs:label "明科南陸郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市豊科
+    rdfs:label "豊科"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市豊科高家
+    rdfs:label "豊科高家"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市豊科田沢
+    rdfs:label "豊科田沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市豊科光
+    rdfs:label "豊科光"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市豊科南穂高
+    rdfs:label "豊科南穂高"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市穂高
+    rdfs:label "穂高"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市穂高有明
+    rdfs:label "穂高有明"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市穂高柏原
+    rdfs:label "穂高柏原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市穂高北穂高
+    rdfs:label "穂高北穂高"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市穂高牧
+    rdfs:label "穂高牧"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市堀金烏川
+    rdfs:label "堀金烏川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市堀金三田
+    rdfs:label "堀金三田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市三郷小倉
+    rdfs:label "三郷小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市三郷明盛
+    rdfs:label "三郷明盛"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県安曇野市三郷温
+    rdfs:label "三郷温"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡小海町
+    rdfs:label "南佐久郡小海町"@ja ;
+    mo:AreaCode "20303" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県南佐久郡小海町稲子 ;
+    mo:SubRegion mr:JP_長野県南佐久郡小海町小海 ;
+    mo:SubRegion mr:JP_長野県南佐久郡小海町千代里 ;
+    mo:SubRegion mr:JP_長野県南佐久郡小海町豊里 ;
+    mo:SubRegion mr:JP_長野県南佐久郡小海町東馬流 ;
+a mo:GeoEntity .
+
+mr:JP_長野県南佐久郡小海町稲子
+    rdfs:label "稲子"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡小海町小海
+    rdfs:label "小海"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡小海町千代里
+    rdfs:label "千代里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡小海町豊里
+    rdfs:label "豊里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡小海町東馬流
+    rdfs:label "東馬流"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡川上村
+    rdfs:label "南佐久郡川上村"@ja ;
+    mo:AreaCode "20304" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村秋山 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村梓山 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村居倉 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村大深山 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村川端下 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村御所平 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村原 ;
+    mo:SubRegion mr:JP_長野県南佐久郡川上村樋沢 ;
+a mo:GeoEntity .
+
+mr:JP_長野県南佐久郡川上村秋山
+    rdfs:label "秋山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡川上村梓山
+    rdfs:label "梓山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡川上村居倉
+    rdfs:label "居倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡川上村大深山
+    rdfs:label "大深山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡川上村川端下
+    rdfs:label "川端下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡川上村御所平
+    rdfs:label "御所平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡川上村原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡川上村樋沢
+    rdfs:label "樋沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡南牧村
+    rdfs:label "南佐久郡南牧村"@ja ;
+    mo:AreaCode "20305" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県南佐久郡南牧村板橋 ;
+    mo:SubRegion mr:JP_長野県南佐久郡南牧村海尻 ;
+    mo:SubRegion mr:JP_長野県南佐久郡南牧村海ノ口 ;
+    mo:SubRegion mr:JP_長野県南佐久郡南牧村野辺山 ;
+    mo:SubRegion mr:JP_長野県南佐久郡南牧村平沢 ;
+    mo:SubRegion mr:JP_長野県南佐久郡南牧村広瀬 ;
+a mo:GeoEntity .
+
+mr:JP_長野県南佐久郡南牧村板橋
+    rdfs:label "板橋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡南牧村海尻
+    rdfs:label "海尻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡南牧村海ノ口
+    rdfs:label "海ノ口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡南牧村野辺山
+    rdfs:label "野辺山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡南牧村平沢
+    rdfs:label "平沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡南牧村広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡南相木村
+    rdfs:label "南佐久郡南相木村"@ja ;
+    mo:AreaCode "20306" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県南佐久郡北相木村
+    rdfs:label "南佐久郡北相木村"@ja ;
+    mo:AreaCode "20307" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県南佐久郡佐久穂町
+    rdfs:label "南佐久郡佐久穂町"@ja ;
+    mo:AreaCode "20309" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町大日向 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町海瀬 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町上 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町高野町 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町千代里 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町畑 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町平林 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町穂積 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町八郡 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町宿岩 ;
+    mo:SubRegion mr:JP_長野県南佐久郡佐久穂町余地 ;
+a mo:GeoEntity .
+
+mr:JP_長野県南佐久郡佐久穂町大日向
+    rdfs:label "大日向"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町海瀬
+    rdfs:label "海瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町上
+    rdfs:label "上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町高野町
+    rdfs:label "高野町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町千代里
+    rdfs:label "千代里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町畑
+    rdfs:label "畑"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町平林
+    rdfs:label "平林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町穂積
+    rdfs:label "穂積"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町八郡
+    rdfs:label "八郡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町宿岩
+    rdfs:label "宿岩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県南佐久郡佐久穂町余地
+    rdfs:label "余地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町
+    rdfs:label "北佐久郡軽井沢町"@ja ;
+    mo:AreaCode "20321" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町追分 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町軽井沢 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町軽井沢東 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町峠町 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町中軽井沢 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町長倉 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町発地 ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町茂沢 ;
+a mo:GeoEntity .
+
+mr:JP_長野県北佐久郡軽井沢町追分
+    rdfs:label "追分"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町軽井沢
+    rdfs:label "軽井沢"@ja ;
+    mo:SubRegion mr:JP_長野県北佐久郡軽井沢町軽井沢大字 ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町軽井沢大字
+    rdfs:label "大字"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町軽井沢東
+    rdfs:label "軽井沢東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町峠町
+    rdfs:label "峠町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町中軽井沢
+    rdfs:label "中軽井沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町長倉
+    rdfs:label "長倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町発地
+    rdfs:label "発地"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡軽井沢町茂沢
+    rdfs:label "茂沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡御代田町
+    rdfs:label "北佐久郡御代田町"@ja ;
+    mo:AreaCode "20323" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町面替 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町草越 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町塩野 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町広戸 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町豊昇 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町馬瀬口 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町御代田 ;
+    mo:SubRegion mr:JP_長野県北佐久郡御代田町茂沢 ;
+a mo:GeoEntity .
+
+mr:JP_長野県北佐久郡御代田町面替
+    rdfs:label "面替"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡御代田町草越
+    rdfs:label "草越"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡御代田町塩野
+    rdfs:label "塩野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡御代田町広戸
+    rdfs:label "広戸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡御代田町豊昇
+    rdfs:label "豊昇"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡御代田町馬瀬口
+    rdfs:label "馬瀬口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡御代田町御代田
+    rdfs:label "御代田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡御代田町茂沢
+    rdfs:label "茂沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町
+    rdfs:label "北佐久郡立科町"@ja ;
+    mo:AreaCode "20324" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町芦田 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町芦田八ケ野 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町池の平 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町牛鹿 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町宇山 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町桐原 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町塩沢 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町藤沢 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町茂田井 ;
+    mo:SubRegion mr:JP_長野県北佐久郡立科町山部 ;
+a mo:GeoEntity .
+
+mr:JP_長野県北佐久郡立科町芦田
+    rdfs:label "芦田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町芦田八ケ野
+    rdfs:label "芦田八ケ野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町池の平
+    rdfs:label "池の平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町牛鹿
+    rdfs:label "牛鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町宇山
+    rdfs:label "宇山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町桐原
+    rdfs:label "桐原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町塩沢
+    rdfs:label "塩沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町藤沢
+    rdfs:label "藤沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町茂田井
+    rdfs:label "茂田井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北佐久郡立科町山部
+    rdfs:label "山部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡青木村
+    rdfs:label "小県郡青木村"@ja ;
+    mo:AreaCode "20349" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県小県郡青木村夫神 ;
+    mo:SubRegion mr:JP_長野県小県郡青木村沓掛 ;
+    mo:SubRegion mr:JP_長野県小県郡青木村田沢 ;
+    mo:SubRegion mr:JP_長野県小県郡青木村当郷 ;
+    mo:SubRegion mr:JP_長野県小県郡青木村殿戸 ;
+    mo:SubRegion mr:JP_長野県小県郡青木村奈良本 ;
+    mo:SubRegion mr:JP_長野県小県郡青木村村松 ;
+a mo:GeoEntity .
+
+mr:JP_長野県小県郡青木村夫神
+    rdfs:label "夫神"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡青木村沓掛
+    rdfs:label "沓掛"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡青木村田沢
+    rdfs:label "田沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡青木村当郷
+    rdfs:label "当郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡青木村殿戸
+    rdfs:label "殿戸"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡青木村奈良本
+    rdfs:label "奈良本"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡青木村村松
+    rdfs:label "村松"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡長和町
+    rdfs:label "小県郡長和町"@ja ;
+    mo:AreaCode "20350" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県小県郡長和町大門 ;
+    mo:SubRegion mr:JP_長野県小県郡長和町長久保 ;
+    mo:SubRegion mr:JP_長野県小県郡長和町古町 ;
+    mo:SubRegion mr:JP_長野県小県郡長和町和田 ;
+a mo:GeoEntity .
+
+mr:JP_長野県小県郡長和町大門
+    rdfs:label "大門"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡長和町長久保
+    rdfs:label "長久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡長和町古町
+    rdfs:label "古町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県小県郡長和町和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町
+    rdfs:label "諏訪郡下諏訪町"@ja ;
+    mo:AreaCode "20361" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町曙町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町春日町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町上久保 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町上馬場 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町北四王 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町木の下 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町久保海道 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町五官 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町湖畔町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町小湯の上 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町栄町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町魁町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町桜町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町清水町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町下屋敷 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町新町上 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町新町下 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町菅野町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町関屋 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町大社通 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町大門 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町高木 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町高浜 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町武居 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町立町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町田中町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町中央通 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町塚田町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町富ケ丘 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町友之町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町樋橋 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町中汐町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町仲町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町西赤砂 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町西四王 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町西鷹野町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町西浜 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町西弥生町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町西豊 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町萩倉 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町花咲町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東赤砂 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東四王 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東鷹野町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東俣 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東町上 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東町中 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東町下 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東山田 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東弥生町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町東豊 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町平沢町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町広瀬町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町富士見町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町星が丘 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町本郷 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町町屋敷 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町御田町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町緑町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町南四王 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町矢木東 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町矢木西 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町矢木町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町社東町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町湯田仲町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町湯田町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町横町 ;
+    mo:SubRegion mr:JP_長野県諏訪郡下諏訪町横町木の下 ;
+a mo:GeoEntity .
+
+mr:JP_長野県諏訪郡下諏訪町曙町
+    rdfs:label "曙町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町上久保
+    rdfs:label "上久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町上馬場
+    rdfs:label "上馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町北四王
+    rdfs:label "北四王"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町木の下
+    rdfs:label "木の下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町久保海道
+    rdfs:label "久保海道"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町五官
+    rdfs:label "五官"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町湖畔町
+    rdfs:label "湖畔町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町小湯の上
+    rdfs:label "小湯の上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町魁町
+    rdfs:label "魁町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町下屋敷
+    rdfs:label "下屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町新町上
+    rdfs:label "新町上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町新町下
+    rdfs:label "新町下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町菅野町
+    rdfs:label "菅野町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町関屋
+    rdfs:label "関屋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町大社通
+    rdfs:label "大社通"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町大門
+    rdfs:label "大門"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町高木
+    rdfs:label "高木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町高浜
+    rdfs:label "高浜"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町武居
+    rdfs:label "武居"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町立町
+    rdfs:label "立町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町田中町
+    rdfs:label "田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町中央通
+    rdfs:label "中央通"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町塚田町
+    rdfs:label "塚田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町富ケ丘
+    rdfs:label "富ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町友之町
+    rdfs:label "友之町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町樋橋
+    rdfs:label "樋橋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町中汐町
+    rdfs:label "中汐町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町仲町
+    rdfs:label "仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町西赤砂
+    rdfs:label "西赤砂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町西四王
+    rdfs:label "西四王"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町西鷹野町
+    rdfs:label "西鷹野町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町西浜
+    rdfs:label "西浜"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町西弥生町
+    rdfs:label "西弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町西豊
+    rdfs:label "西豊"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町萩倉
+    rdfs:label "萩倉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町花咲町
+    rdfs:label "花咲町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東赤砂
+    rdfs:label "東赤砂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東四王
+    rdfs:label "東四王"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東鷹野町
+    rdfs:label "東鷹野町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東俣
+    rdfs:label "東俣"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東町上
+    rdfs:label "東町上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東町中
+    rdfs:label "東町中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東町下
+    rdfs:label "東町下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東山田
+    rdfs:label "東山田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東弥生町
+    rdfs:label "東弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町東豊
+    rdfs:label "東豊"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町平沢町
+    rdfs:label "平沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町広瀬町
+    rdfs:label "広瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町星が丘
+    rdfs:label "星が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町本郷
+    rdfs:label "本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町町屋敷
+    rdfs:label "町屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町御田町
+    rdfs:label "御田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町南四王
+    rdfs:label "南四王"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町矢木東
+    rdfs:label "矢木東"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町矢木西
+    rdfs:label "矢木西"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町矢木町
+    rdfs:label "矢木町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町社東町
+    rdfs:label "社東町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町湯田仲町
+    rdfs:label "湯田仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町湯田町
+    rdfs:label "湯田町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町横町
+    rdfs:label "横町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡下諏訪町横町木の下
+    rdfs:label "横町木の下"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡富士見町
+    rdfs:label "諏訪郡富士見町"@ja ;
+    mo:AreaCode "20362" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県諏訪郡富士見町落合 ;
+    mo:SubRegion mr:JP_長野県諏訪郡富士見町乙事 ;
+    mo:SubRegion mr:JP_長野県諏訪郡富士見町境 ;
+    mo:SubRegion mr:JP_長野県諏訪郡富士見町立沢 ;
+    mo:SubRegion mr:JP_長野県諏訪郡富士見町富士見 ;
+a mo:GeoEntity .
+
+mr:JP_長野県諏訪郡富士見町落合
+    rdfs:label "落合"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡富士見町乙事
+    rdfs:label "乙事"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡富士見町境
+    rdfs:label "境"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡富士見町立沢
+    rdfs:label "立沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡富士見町富士見
+    rdfs:label "富士見"@ja ;
+    mo:SubRegion mr:JP_長野県諏訪郡富士見町富士見入笠湖 ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡富士見町富士見入笠湖
+    rdfs:label "入笠湖"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村
+    rdfs:label "諏訪郡原村"@ja ;
+    mo:AreaCode "20363" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村大久保 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村柏木 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村上里 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村菖蒲沢 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村中新田 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村農場 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村払沢 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村原山 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村判の木 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村ペンション ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村南原 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村室内 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村やつがね ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村八ツ手 ;
+    mo:SubRegion mr:JP_長野県諏訪郡原村柳沢 ;
+a mo:GeoEntity .
+
+mr:JP_長野県諏訪郡原村大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村柏木
+    rdfs:label "柏木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村上里
+    rdfs:label "上里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村菖蒲沢
+    rdfs:label "菖蒲沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村中新田
+    rdfs:label "中新田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村農場
+    rdfs:label "農場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村払沢
+    rdfs:label "払沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村原山
+    rdfs:label "原山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村判の木
+    rdfs:label "判の木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村ペンション
+    rdfs:label "ペンション"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村南原
+    rdfs:label "南原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村室内
+    rdfs:label "室内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村やつがね
+    rdfs:label "やつがね"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村八ツ手
+    rdfs:label "八ツ手"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県諏訪郡原村柳沢
+    rdfs:label "柳沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町
+    rdfs:label "上伊那郡辰野町"@ja ;
+    mo:AreaCode "20382" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町赤羽 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町伊那富 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町小野 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町上島 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町沢底 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町辰野 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町中央 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町樋口 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町平出 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町宮木 ;
+    mo:SubRegion mr:JP_長野県上伊那郡辰野町横川 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上伊那郡辰野町赤羽
+    rdfs:label "赤羽"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町伊那富
+    rdfs:label "伊那富"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町上島
+    rdfs:label "上島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町沢底
+    rdfs:label "沢底"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町辰野
+    rdfs:label "辰野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町樋口
+    rdfs:label "樋口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町平出
+    rdfs:label "平出"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町宮木
+    rdfs:label "宮木"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡辰野町横川
+    rdfs:label "横川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡箕輪町
+    rdfs:label "上伊那郡箕輪町"@ja ;
+    mo:AreaCode "20383" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上伊那郡箕輪町中曽根 ;
+    mo:SubRegion mr:JP_長野県上伊那郡箕輪町中箕輪 ;
+    mo:SubRegion mr:JP_長野県上伊那郡箕輪町東箕輪 ;
+    mo:SubRegion mr:JP_長野県上伊那郡箕輪町福与 ;
+    mo:SubRegion mr:JP_長野県上伊那郡箕輪町三日町 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上伊那郡箕輪町中曽根
+    rdfs:label "中曽根"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡箕輪町中箕輪
+    rdfs:label "中箕輪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡箕輪町東箕輪
+    rdfs:label "東箕輪"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡箕輪町福与
+    rdfs:label "福与"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡箕輪町三日町
+    rdfs:label "三日町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡飯島町
+    rdfs:label "上伊那郡飯島町"@ja ;
+    mo:AreaCode "20384" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上伊那郡飯島町飯島 ;
+    mo:SubRegion mr:JP_長野県上伊那郡飯島町田切 ;
+    mo:SubRegion mr:JP_長野県上伊那郡飯島町七久保 ;
+    mo:SubRegion mr:JP_長野県上伊那郡飯島町日曽利 ;
+    mo:SubRegion mr:JP_長野県上伊那郡飯島町本郷 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上伊那郡飯島町飯島
+    rdfs:label "飯島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡飯島町田切
+    rdfs:label "田切"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡飯島町七久保
+    rdfs:label "七久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡飯島町日曽利
+    rdfs:label "日曽利"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡飯島町本郷
+    rdfs:label "本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡南箕輪村
+    rdfs:label "上伊那郡南箕輪村"@ja ;
+    mo:AreaCode "20385" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上伊那郡中川村
+    rdfs:label "上伊那郡中川村"@ja ;
+    mo:AreaCode "20386" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上伊那郡中川村大草 ;
+    mo:SubRegion mr:JP_長野県上伊那郡中川村片桐 ;
+    mo:SubRegion mr:JP_長野県上伊那郡中川村葛島 ;
+    mo:SubRegion mr:JP_長野県上伊那郡中川村四徳 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上伊那郡中川村大草
+    rdfs:label "大草"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡中川村片桐
+    rdfs:label "片桐"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡中川村葛島
+    rdfs:label "葛島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡中川村四徳
+    rdfs:label "四徳"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上伊那郡宮田村
+    rdfs:label "上伊那郡宮田村"@ja ;
+    mo:AreaCode "20388" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡松川町
+    rdfs:label "下伊那郡松川町"@ja ;
+    mo:AreaCode "20402" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡松川町生田 ;
+    mo:SubRegion mr:JP_長野県下伊那郡松川町大島 ;
+    mo:SubRegion mr:JP_長野県下伊那郡松川町上片桐 ;
+    mo:SubRegion mr:JP_長野県下伊那郡松川町元大島 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡松川町生田
+    rdfs:label "生田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡松川町大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡松川町上片桐
+    rdfs:label "上片桐"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡松川町元大島
+    rdfs:label "元大島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡高森町
+    rdfs:label "下伊那郡高森町"@ja ;
+    mo:AreaCode "20403" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡高森町出原 ;
+    mo:SubRegion mr:JP_長野県下伊那郡高森町牛牧 ;
+    mo:SubRegion mr:JP_長野県下伊那郡高森町大島山 ;
+    mo:SubRegion mr:JP_長野県下伊那郡高森町上市田 ;
+    mo:SubRegion mr:JP_長野県下伊那郡高森町下市田 ;
+    mo:SubRegion mr:JP_長野県下伊那郡高森町山吹 ;
+    mo:SubRegion mr:JP_長野県下伊那郡高森町吉田 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡高森町出原
+    rdfs:label "出原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡高森町牛牧
+    rdfs:label "牛牧"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡高森町大島山
+    rdfs:label "大島山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡高森町上市田
+    rdfs:label "上市田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡高森町下市田
+    rdfs:label "下市田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡高森町山吹
+    rdfs:label "山吹"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡高森町吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿南町
+    rdfs:label "下伊那郡阿南町"@ja ;
+    mo:AreaCode "20404" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿南町北條 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿南町富草 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿南町新野 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿南町西條 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿南町東條 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿南町南條 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿南町和合 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡阿南町北條
+    rdfs:label "北條"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿南町富草
+    rdfs:label "富草"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿南町新野
+    rdfs:label "新野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿南町西條
+    rdfs:label "西條"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿南町東條
+    rdfs:label "東條"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿南町南條
+    rdfs:label "南條"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿南町和合
+    rdfs:label "和合"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿智村
+    rdfs:label "下伊那郡阿智村"@ja ;
+    mo:AreaCode "20407" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿智村春日 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿智村伍和 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿智村駒 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿智村駒場 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿智村清内路 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿智村智里 ;
+    mo:SubRegion mr:JP_長野県下伊那郡阿智村浪合 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡阿智村春日
+    rdfs:label "春日"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿智村伍和
+    rdfs:label "伍和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿智村駒
+    rdfs:label "駒"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿智村駒場
+    rdfs:label "駒場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿智村清内路
+    rdfs:label "清内路"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿智村智里
+    rdfs:label "智里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡阿智村浪合
+    rdfs:label "浪合"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡平谷村
+    rdfs:label "下伊那郡平谷村"@ja ;
+    mo:AreaCode "20409" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡根羽村
+    rdfs:label "下伊那郡根羽村"@ja ;
+    mo:AreaCode "20410" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡下條村
+    rdfs:label "下伊那郡下條村"@ja ;
+    mo:AreaCode "20411" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡下條村陽皐 ;
+    mo:SubRegion mr:JP_長野県下伊那郡下條村睦沢 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡下條村陽皐
+    rdfs:label "陽皐"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡下條村睦沢
+    rdfs:label "睦沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡売木村
+    rdfs:label "下伊那郡売木村"@ja ;
+    mo:AreaCode "20412" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡天龍村
+    rdfs:label "下伊那郡天龍村"@ja ;
+    mo:AreaCode "20413" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡天龍村神原 ;
+    mo:SubRegion mr:JP_長野県下伊那郡天龍村長島 ;
+    mo:SubRegion mr:JP_長野県下伊那郡天龍村平岡 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡天龍村神原
+    rdfs:label "神原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡天龍村長島
+    rdfs:label "長島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡天龍村平岡
+    rdfs:label "平岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡泰阜村
+    rdfs:label "下伊那郡泰阜村"@ja ;
+    mo:AreaCode "20414" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡喬木村
+    rdfs:label "下伊那郡喬木村"@ja ;
+    mo:AreaCode "20415" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村阿島 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村伊久間 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村氏乗 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村大島 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村大和知 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村小川 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村加々須 ;
+    mo:SubRegion mr:JP_長野県下伊那郡喬木村富田 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡喬木村阿島
+    rdfs:label "阿島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡喬木村伊久間
+    rdfs:label "伊久間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡喬木村氏乗
+    rdfs:label "氏乗"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡喬木村大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡喬木村大和知
+    rdfs:label "大和知"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡喬木村小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡喬木村加々須
+    rdfs:label "加々須"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡喬木村富田
+    rdfs:label "富田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡豊丘村
+    rdfs:label "下伊那郡豊丘村"@ja ;
+    mo:AreaCode "20416" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡豊丘村河野 ;
+    mo:SubRegion mr:JP_長野県下伊那郡豊丘村神稲 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡豊丘村河野
+    rdfs:label "河野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡豊丘村神稲
+    rdfs:label "神稲"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡大鹿村
+    rdfs:label "下伊那郡大鹿村"@ja ;
+    mo:AreaCode "20417" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下伊那郡大鹿村大河原 ;
+    mo:SubRegion mr:JP_長野県下伊那郡大鹿村鹿塩 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下伊那郡大鹿村大河原
+    rdfs:label "大河原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下伊那郡大鹿村鹿塩
+    rdfs:label "鹿塩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町
+    rdfs:label "木曽郡上松町"@ja ;
+    mo:AreaCode "20422" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町上松 ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町旭町 ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町駅前通り ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町小川 ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町荻原 ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町栄町 ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町正島町 ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町本町通り ;
+    mo:SubRegion mr:JP_長野県木曽郡上松町緑町 ;
+a mo:GeoEntity .
+
+mr:JP_長野県木曽郡上松町上松
+    rdfs:label "上松"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町駅前通り
+    rdfs:label "駅前通り"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町荻原
+    rdfs:label "荻原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町正島町
+    rdfs:label "正島町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町本町通り
+    rdfs:label "本町通り"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡上松町緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡南木曽町
+    rdfs:label "木曽郡南木曽町"@ja ;
+    mo:AreaCode "20423" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県木曽郡南木曽町吾妻 ;
+    mo:SubRegion mr:JP_長野県木曽郡南木曽町田立 ;
+    mo:SubRegion mr:JP_長野県木曽郡南木曽町読書 ;
+a mo:GeoEntity .
+
+mr:JP_長野県木曽郡南木曽町吾妻
+    rdfs:label "吾妻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡南木曽町田立
+    rdfs:label "田立"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡南木曽町読書
+    rdfs:label "読書"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木祖村
+    rdfs:label "木曽郡木祖村"@ja ;
+    mo:AreaCode "20425" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県木曽郡木祖村小木曽 ;
+    mo:SubRegion mr:JP_長野県木曽郡木祖村菅 ;
+    mo:SubRegion mr:JP_長野県木曽郡木祖村薮原 ;
+a mo:GeoEntity .
+
+mr:JP_長野県木曽郡木祖村小木曽
+    rdfs:label "小木曽"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木祖村菅
+    rdfs:label "菅"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木祖村薮原
+    rdfs:label "薮原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡王滝村
+    rdfs:label "木曽郡王滝村"@ja ;
+    mo:AreaCode "20429" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県木曽郡大桑村
+    rdfs:label "木曽郡大桑村"@ja ;
+    mo:AreaCode "20430" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県木曽郡大桑村須原 ;
+    mo:SubRegion mr:JP_長野県木曽郡大桑村殿 ;
+    mo:SubRegion mr:JP_長野県木曽郡大桑村長野 ;
+    mo:SubRegion mr:JP_長野県木曽郡大桑村野尻 ;
+a mo:GeoEntity .
+
+mr:JP_長野県木曽郡大桑村須原
+    rdfs:label "須原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡大桑村殿
+    rdfs:label "殿"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡大桑村長野
+    rdfs:label "長野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡大桑村野尻
+    rdfs:label "野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木曽町
+    rdfs:label "木曽郡木曽町"@ja ;
+    mo:AreaCode "20432" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県木曽郡木曽町開田高原末川 ;
+    mo:SubRegion mr:JP_長野県木曽郡木曽町開田高原西野 ;
+    mo:SubRegion mr:JP_長野県木曽郡木曽町新開 ;
+    mo:SubRegion mr:JP_長野県木曽郡木曽町新開福 ;
+    mo:SubRegion mr:JP_長野県木曽郡木曽町日義 ;
+    mo:SubRegion mr:JP_長野県木曽郡木曽町福島 ;
+    mo:SubRegion mr:JP_長野県木曽郡木曽町三岳 ;
+a mo:GeoEntity .
+
+mr:JP_長野県木曽郡木曽町開田高原末川
+    rdfs:label "開田高原末川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木曽町開田高原西野
+    rdfs:label "開田高原西野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木曽町新開
+    rdfs:label "新開"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木曽町新開福
+    rdfs:label "新開福"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木曽町日義
+    rdfs:label "日義"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木曽町福島
+    rdfs:label "福島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県木曽郡木曽町三岳
+    rdfs:label "三岳"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡麻績村
+    rdfs:label "東筑摩郡麻績村"@ja ;
+    mo:AreaCode "20446" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡麻績村麻 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡麻績村日 ;
+a mo:GeoEntity .
+
+mr:JP_長野県東筑摩郡麻績村麻
+    rdfs:label "麻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡麻績村日
+    rdfs:label "日"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡生坂村
+    rdfs:label "東筑摩郡生坂村"@ja ;
+    mo:AreaCode "20448" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡生坂村北陸郷 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡生坂村東広津 ;
+a mo:GeoEntity .
+
+mr:JP_長野県東筑摩郡生坂村北陸郷
+    rdfs:label "北陸郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡生坂村東広津
+    rdfs:label "東広津"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡山形村
+    rdfs:label "東筑摩郡山形村"@ja ;
+    mo:AreaCode "20450" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県東筑摩郡朝日村
+    rdfs:label "東筑摩郡朝日村"@ja ;
+    mo:AreaCode "20451" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡朝日村小野沢 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡朝日村古見 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡朝日村西洗馬 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡朝日村針尾 ;
+a mo:GeoEntity .
+
+mr:JP_長野県東筑摩郡朝日村小野沢
+    rdfs:label "小野沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡朝日村古見
+    rdfs:label "古見"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡朝日村西洗馬
+    rdfs:label "西洗馬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡朝日村針尾
+    rdfs:label "針尾"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡筑北村
+    rdfs:label "東筑摩郡筑北村"@ja ;
+    mo:AreaCode "20452" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡筑北村大沢新田 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡筑北村坂井 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡筑北村坂北 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡筑北村西条 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡筑北村東条 ;
+    mo:SubRegion mr:JP_長野県東筑摩郡筑北村乱橋 ;
+a mo:GeoEntity .
+
+mr:JP_長野県東筑摩郡筑北村大沢新田
+    rdfs:label "大沢新田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡筑北村坂井
+    rdfs:label "坂井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡筑北村坂北
+    rdfs:label "坂北"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡筑北村西条
+    rdfs:label "西条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡筑北村東条
+    rdfs:label "東条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県東筑摩郡筑北村乱橋
+    rdfs:label "乱橋"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡池田町
+    rdfs:label "北安曇郡池田町"@ja ;
+    mo:AreaCode "20481" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県北安曇郡池田町会染 ;
+    mo:SubRegion mr:JP_長野県北安曇郡池田町池田 ;
+    mo:SubRegion mr:JP_長野県北安曇郡池田町中鵜 ;
+    mo:SubRegion mr:JP_長野県北安曇郡池田町広津 ;
+    mo:SubRegion mr:JP_長野県北安曇郡池田町陸郷 ;
+a mo:GeoEntity .
+
+mr:JP_長野県北安曇郡池田町会染
+    rdfs:label "会染"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡池田町池田
+    rdfs:label "池田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡池田町中鵜
+    rdfs:label "中鵜"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡池田町広津
+    rdfs:label "広津"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡池田町陸郷
+    rdfs:label "陸郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡松川村
+    rdfs:label "北安曇郡松川村"@ja ;
+    mo:AreaCode "20482" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_長野県北安曇郡白馬村
+    rdfs:label "北安曇郡白馬村"@ja ;
+    mo:AreaCode "20485" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県北安曇郡白馬村神城 ;
+    mo:SubRegion mr:JP_長野県北安曇郡白馬村北城 ;
+a mo:GeoEntity .
+
+mr:JP_長野県北安曇郡白馬村神城
+    rdfs:label "神城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡白馬村北城
+    rdfs:label "北城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡小谷村
+    rdfs:label "北安曇郡小谷村"@ja ;
+    mo:AreaCode "20486" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県北安曇郡小谷村北小谷 ;
+    mo:SubRegion mr:JP_長野県北安曇郡小谷村千国 ;
+    mo:SubRegion mr:JP_長野県北安曇郡小谷村中小谷 ;
+    mo:SubRegion mr:JP_長野県北安曇郡小谷村中土 ;
+a mo:GeoEntity .
+
+mr:JP_長野県北安曇郡小谷村北小谷
+    rdfs:label "北小谷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡小谷村千国
+    rdfs:label "千国"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡小谷村中小谷
+    rdfs:label "中小谷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県北安曇郡小谷村中土
+    rdfs:label "中土"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県埴科郡坂城町
+    rdfs:label "埴科郡坂城町"@ja ;
+    mo:AreaCode "20521" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県埴科郡坂城町網掛 ;
+    mo:SubRegion mr:JP_長野県埴科郡坂城町上平 ;
+    mo:SubRegion mr:JP_長野県埴科郡坂城町上五明 ;
+    mo:SubRegion mr:JP_長野県埴科郡坂城町坂城 ;
+    mo:SubRegion mr:JP_長野県埴科郡坂城町中之条 ;
+    mo:SubRegion mr:JP_長野県埴科郡坂城町南条 ;
+a mo:GeoEntity .
+
+mr:JP_長野県埴科郡坂城町網掛
+    rdfs:label "網掛"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県埴科郡坂城町上平
+    rdfs:label "上平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県埴科郡坂城町上五明
+    rdfs:label "上五明"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県埴科郡坂城町坂城
+    rdfs:label "坂城"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県埴科郡坂城町中之条
+    rdfs:label "中之条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県埴科郡坂城町南条
+    rdfs:label "南条"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町
+    rdfs:label "上高井郡小布施町"@ja ;
+    mo:AreaCode "20541" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町飯田 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町大島 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町押羽 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町小布施 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町雁田 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町北岡 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町山王島 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町都住 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町中松 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町福原 ;
+    mo:SubRegion mr:JP_長野県上高井郡小布施町吉島 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上高井郡小布施町飯田
+    rdfs:label "飯田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町押羽
+    rdfs:label "押羽"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町小布施
+    rdfs:label "小布施"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町雁田
+    rdfs:label "雁田"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町北岡
+    rdfs:label "北岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町山王島
+    rdfs:label "山王島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町都住
+    rdfs:label "都住"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町中松
+    rdfs:label "中松"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町福原
+    rdfs:label "福原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡小布施町吉島
+    rdfs:label "吉島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村
+    rdfs:label "上高井郡高山村"@ja ;
+    mo:AreaCode "20543" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村赤和 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村荒井原 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村荻久保 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村久保 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村黒部 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村駒場 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村新堀 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村千本松 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村天神原 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村中原 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村なかひら ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村福井原 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村二ツ石 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村堀之内 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村牧 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村桝形 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村松南 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村松原 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村三郷 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村水中 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村緑ケ丘 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村宮関 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村紫 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村山田温泉 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村山田牧場 ;
+    mo:SubRegion mr:JP_長野県上高井郡高山村蕨平 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上高井郡高山村赤和
+    rdfs:label "赤和"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村荒井原
+    rdfs:label "荒井原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村荻久保
+    rdfs:label "荻久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村久保
+    rdfs:label "久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村黒部
+    rdfs:label "黒部"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村駒場
+    rdfs:label "駒場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村新堀
+    rdfs:label "新堀"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村千本松
+    rdfs:label "千本松"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村天神原
+    rdfs:label "天神原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村なかひら
+    rdfs:label "なかひら"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村福井原
+    rdfs:label "福井原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村二ツ石
+    rdfs:label "二ツ石"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村堀之内
+    rdfs:label "堀之内"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村牧
+    rdfs:label "牧"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村桝形
+    rdfs:label "桝形"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村松南
+    rdfs:label "松南"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村三郷
+    rdfs:label "三郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村水中
+    rdfs:label "水中"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村宮関
+    rdfs:label "宮関"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村紫
+    rdfs:label "紫"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村山田温泉
+    rdfs:label "山田温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村山田牧場
+    rdfs:label "山田牧場"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上高井郡高山村蕨平
+    rdfs:label "蕨平"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡山ノ内町
+    rdfs:label "下高井郡山ノ内町"@ja ;
+    mo:AreaCode "20561" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下高井郡山ノ内町佐野 ;
+    mo:SubRegion mr:JP_長野県下高井郡山ノ内町寒沢 ;
+    mo:SubRegion mr:JP_長野県下高井郡山ノ内町戸狩 ;
+    mo:SubRegion mr:JP_長野県下高井郡山ノ内町平穏 ;
+    mo:SubRegion mr:JP_長野県下高井郡山ノ内町夜間瀬 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下高井郡山ノ内町佐野
+    rdfs:label "佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡山ノ内町寒沢
+    rdfs:label "寒沢"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡山ノ内町戸狩
+    rdfs:label "戸狩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡山ノ内町平穏
+    rdfs:label "平穏"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡山ノ内町夜間瀬
+    rdfs:label "夜間瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡木島平村
+    rdfs:label "下高井郡木島平村"@ja ;
+    mo:AreaCode "20562" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下高井郡木島平村往郷 ;
+    mo:SubRegion mr:JP_長野県下高井郡木島平村上木島 ;
+    mo:SubRegion mr:JP_長野県下高井郡木島平村穂高 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下高井郡木島平村往郷
+    rdfs:label "往郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡木島平村上木島
+    rdfs:label "上木島"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡木島平村穂高
+    rdfs:label "穂高"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡野沢温泉村
+    rdfs:label "下高井郡野沢温泉村"@ja ;
+    mo:AreaCode "20563" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下高井郡野沢温泉村坪山 ;
+    mo:SubRegion mr:JP_長野県下高井郡野沢温泉村豊郷 ;
+    mo:SubRegion mr:JP_長野県下高井郡野沢温泉村七ケ巻 ;
+    mo:SubRegion mr:JP_長野県下高井郡野沢温泉村東大滝 ;
+    mo:SubRegion mr:JP_長野県下高井郡野沢温泉村平林 ;
+    mo:SubRegion mr:JP_長野県下高井郡野沢温泉村前坂 ;
+    mo:SubRegion mr:JP_長野県下高井郡野沢温泉村虫生 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下高井郡野沢温泉村坪山
+    rdfs:label "坪山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡野沢温泉村豊郷
+    rdfs:label "豊郷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡野沢温泉村七ケ巻
+    rdfs:label "七ケ巻"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡野沢温泉村東大滝
+    rdfs:label "東大滝"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡野沢温泉村平林
+    rdfs:label "平林"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡野沢温泉村前坂
+    rdfs:label "前坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下高井郡野沢温泉村虫生
+    rdfs:label "虫生"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町
+    rdfs:label "上水内郡信濃町"@ja ;
+    mo:AreaCode "20583" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町荒瀬原 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町大井 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町柏原 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町神山国際村 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町熊坂 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町富濃 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町野尻 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町平岡 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町古間 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町古海 ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町穂波 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上水内郡信濃町荒瀬原
+    rdfs:label "荒瀬原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町大井
+    rdfs:label "大井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町柏原
+    rdfs:label "柏原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町神山国際村
+    rdfs:label "神山国際村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町熊坂
+    rdfs:label "熊坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町富濃
+    rdfs:label "富濃"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町野尻
+    rdfs:label "野尻"@ja ;
+    mo:SubRegion mr:JP_長野県上水内郡信濃町野尻大学村 ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町野尻大学村
+    rdfs:label "大学村"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町平岡
+    rdfs:label "平岡"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町古間
+    rdfs:label "古間"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町古海
+    rdfs:label "古海"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡信濃町穂波
+    rdfs:label "穂波"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡小川村
+    rdfs:label "上水内郡小川村"@ja ;
+    mo:AreaCode "20588" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上水内郡小川村稲丘 ;
+    mo:SubRegion mr:JP_長野県上水内郡小川村小根山 ;
+    mo:SubRegion mr:JP_長野県上水内郡小川村瀬戸川 ;
+    mo:SubRegion mr:JP_長野県上水内郡小川村高府 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上水内郡小川村稲丘
+    rdfs:label "稲丘"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡小川村小根山
+    rdfs:label "小根山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡小川村瀬戸川
+    rdfs:label "瀬戸川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡小川村高府
+    rdfs:label "高府"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町
+    rdfs:label "上水内郡飯綱町"@ja ;
+    mo:AreaCode "20590" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町赤塩 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町芋川 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町川上 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町川谷 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町倉井 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町黒川 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町高坂 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町小玉 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町坂口 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町地蔵久保 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町袖之山 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町豊野 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町東柏原 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町平出 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町普光寺 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町古町 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町牟礼 ;
+    mo:SubRegion mr:JP_長野県上水内郡飯綱町柳里 ;
+a mo:GeoEntity .
+
+mr:JP_長野県上水内郡飯綱町赤塩
+    rdfs:label "赤塩"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町芋川
+    rdfs:label "芋川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町川谷
+    rdfs:label "川谷"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町倉井
+    rdfs:label "倉井"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町黒川
+    rdfs:label "黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町高坂
+    rdfs:label "高坂"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町小玉
+    rdfs:label "小玉"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町坂口
+    rdfs:label "坂口"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町地蔵久保
+    rdfs:label "地蔵久保"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町袖之山
+    rdfs:label "袖之山"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町豊野
+    rdfs:label "豊野"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町東柏原
+    rdfs:label "東柏原"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町平出
+    rdfs:label "平出"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町普光寺
+    rdfs:label "普光寺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町古町
+    rdfs:label "古町"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町牟礼
+    rdfs:label "牟礼"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県上水内郡飯綱町柳里
+    rdfs:label "柳里"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下水内郡栄村
+    rdfs:label "下水内郡栄村"@ja ;
+    mo:AreaCode "20602" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_長野県下水内郡栄村堺 ;
+    mo:SubRegion mr:JP_長野県下水内郡栄村豊栄 ;
+    mo:SubRegion mr:JP_長野県下水内郡栄村北信 ;
+a mo:GeoEntity .
+
+mr:JP_長野県下水内郡栄村堺
+    rdfs:label "堺"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下水内郡栄村豊栄
+    rdfs:label "豊栄"@ja ;
+    a mo:町域 .
+
+mr:JP_長野県下水内郡栄村北信
+    rdfs:label "北信"@ja ;
+    a mo:町域 .
+
