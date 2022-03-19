@@ -1,0 +1,8809 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_高知県
+    a mo:都道府県 ;
+    rdfs:label "高知県"@ja ;
+    mo:AreaCode "39" ;
+    mo:SubRegion mr:JP_高知県高知市 ;
+    mo:SubRegion mr:JP_高知県室戸市 ;
+    mo:SubRegion mr:JP_高知県安芸市 ;
+    mo:SubRegion mr:JP_高知県南国市 ;
+    mo:SubRegion mr:JP_高知県土佐市 ;
+    mo:SubRegion mr:JP_高知県須崎市 ;
+    mo:SubRegion mr:JP_高知県宿毛市 ;
+    mo:SubRegion mr:JP_高知県土佐清水市 ;
+    mo:SubRegion mr:JP_高知県四万十市 ;
+    mo:SubRegion mr:JP_高知県香南市 ;
+    mo:SubRegion mr:JP_高知県香美市 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町 ;
+    mo:SubRegion mr:JP_高知県安芸郡奈半利町 ;
+    mo:SubRegion mr:JP_高知県安芸郡田野町 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村 ;
+    mo:SubRegion mr:JP_高知県安芸郡馬路村 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町 ;
+    a mo:GeoEntity .
+
+mr:JP_高知県高知市
+    rdfs:label "高知市"@ja ;
+    mo:AreaCode "39201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県高知市相生町 ;
+    mo:SubRegion mr:JP_高知県高知市青柳町 ;
+    mo:SubRegion mr:JP_高知県高知市赤石町 ;
+    mo:SubRegion mr:JP_高知県高知市曙町 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉甲 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉乙 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉丙 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉丁 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉戊 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉己 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉西町 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉東町 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉南町 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉横町 ;
+    mo:SubRegion mr:JP_高知県高知市朝倉本町 ;
+    mo:SubRegion mr:JP_高知県高知市旭駅前町 ;
+    mo:SubRegion mr:JP_高知県高知市旭上町 ;
+    mo:SubRegion mr:JP_高知県高知市旭天神町 ;
+    mo:SubRegion mr:JP_高知県高知市旭町 ;
+    mo:SubRegion mr:JP_高知県高知市薊野 ;
+    mo:SubRegion mr:JP_高知県高知市薊野中町 ;
+    mo:SubRegion mr:JP_高知県高知市薊野東町 ;
+    mo:SubRegion mr:JP_高知県高知市薊野西町 ;
+    mo:SubRegion mr:JP_高知県高知市薊野南町 ;
+    mo:SubRegion mr:JP_高知県高知市薊野北町 ;
+    mo:SubRegion mr:JP_高知県高知市愛宕町 ;
+    mo:SubRegion mr:JP_高知県高知市愛宕山 ;
+    mo:SubRegion mr:JP_高知県高知市愛宕山南町 ;
+    mo:SubRegion mr:JP_高知県高知市井口町 ;
+    mo:SubRegion mr:JP_高知県高知市池 ;
+    mo:SubRegion mr:JP_高知県高知市石立町 ;
+    mo:SubRegion mr:JP_高知県高知市和泉町 ;
+    mo:SubRegion mr:JP_高知県高知市伊勢崎町 ;
+    mo:SubRegion mr:JP_高知県高知市一宮 ;
+    mo:SubRegion mr:JP_高知県高知市一宮しなね ;
+    mo:SubRegion mr:JP_高知県高知市一宮徳谷 ;
+    mo:SubRegion mr:JP_高知県高知市一宮中町 ;
+    mo:SubRegion mr:JP_高知県高知市一宮西町 ;
+    mo:SubRegion mr:JP_高知県高知市一宮東町 ;
+    mo:SubRegion mr:JP_高知県高知市一宮南町 ;
+    mo:SubRegion mr:JP_高知県高知市稲荷町 ;
+    mo:SubRegion mr:JP_高知県高知市入明町 ;
+    mo:SubRegion mr:JP_高知県高知市岩ケ淵 ;
+    mo:SubRegion mr:JP_高知県高知市鵜来巣 ;
+    mo:SubRegion mr:JP_高知県高知市潮新町 ;
+    mo:SubRegion mr:JP_高知県高知市宇津野 ;
+    mo:SubRegion mr:JP_高知県高知市梅ノ辻 ;
+    mo:SubRegion mr:JP_高知県高知市浦戸 ;
+    mo:SubRegion mr:JP_高知県高知市永国寺町 ;
+    mo:SubRegion mr:JP_高知県高知市駅前町 ;
+    mo:SubRegion mr:JP_高知県高知市越前町 ;
+    mo:SubRegion mr:JP_高知県高知市海老ノ丸 ;
+    mo:SubRegion mr:JP_高知県高知市円行寺 ;
+    mo:SubRegion mr:JP_高知県高知市追手筋 ;
+    mo:SubRegion mr:JP_高知県高知市大川筋 ;
+    mo:SubRegion mr:JP_高知県高知市大谷 ;
+    mo:SubRegion mr:JP_高知県高知市大谷公園町 ;
+    mo:SubRegion mr:JP_高知県高知市大津甲 ;
+    mo:SubRegion mr:JP_高知県高知市大津乙 ;
+    mo:SubRegion mr:JP_高知県高知市大原町 ;
+    mo:SubRegion mr:JP_高知県高知市小倉町 ;
+    mo:SubRegion mr:JP_高知県高知市小津町 ;
+    mo:SubRegion mr:JP_高知県高知市帯屋町 ;
+    mo:SubRegion mr:JP_高知県高知市加賀野井 ;
+    mo:SubRegion mr:JP_高知県高知市鏡今井 ;
+    mo:SubRegion mr:JP_高知県高知市鏡梅ノ木 ;
+    mo:SubRegion mr:JP_高知県高知市鏡大河内 ;
+    mo:SubRegion mr:JP_高知県高知市鏡大利 ;
+    mo:SubRegion mr:JP_高知県高知市鏡柿ノ又 ;
+    mo:SubRegion mr:JP_高知県高知市鏡葛山 ;
+    mo:SubRegion mr:JP_高知県高知市鏡狩山 ;
+    mo:SubRegion mr:JP_高知県高知市鏡草峰 ;
+    mo:SubRegion mr:JP_高知県高知市鏡小浜 ;
+    mo:SubRegion mr:JP_高知県高知市鏡小山 ;
+    mo:SubRegion mr:JP_高知県高知市鏡去坂 ;
+    mo:SubRegion mr:JP_高知県高知市鏡敷ノ山 ;
+    mo:SubRegion mr:JP_高知県高知市鏡白岩 ;
+    mo:SubRegion mr:JP_高知県高知市鏡竹奈路 ;
+    mo:SubRegion mr:JP_高知県高知市鏡増原 ;
+    mo:SubRegion mr:JP_高知県高知市鏡的渕 ;
+    mo:SubRegion mr:JP_高知県高知市鏡横矢 ;
+    mo:SubRegion mr:JP_高知県高知市鏡吉原 ;
+    mo:SubRegion mr:JP_高知県高知市鏡川町 ;
+    mo:SubRegion mr:JP_高知県高知市葛島 ;
+    mo:SubRegion mr:JP_高知県高知市上本宮町 ;
+    mo:SubRegion mr:JP_高知県高知市上町 ;
+    mo:SubRegion mr:JP_高知県高知市鴨部 ;
+    mo:SubRegion mr:JP_高知県高知市鴨部上町 ;
+    mo:SubRegion mr:JP_高知県高知市鴨部高町 ;
+    mo:SubRegion mr:JP_高知県高知市唐岩 ;
+    mo:SubRegion mr:JP_高知県高知市北金田 ;
+    mo:SubRegion mr:JP_高知県高知市北川添 ;
+    mo:SubRegion mr:JP_高知県高知市北久保 ;
+    mo:SubRegion mr:JP_高知県高知市北御座 ;
+    mo:SubRegion mr:JP_高知県高知市北新田町 ;
+    mo:SubRegion mr:JP_高知県高知市北秦泉寺 ;
+    mo:SubRegion mr:JP_高知県高知市北高見町 ;
+    mo:SubRegion mr:JP_高知県高知市北竹島町 ;
+    mo:SubRegion mr:JP_高知県高知市北中山 ;
+    mo:SubRegion mr:JP_高知県高知市北八反町 ;
+    mo:SubRegion mr:JP_高知県高知市北端町 ;
+    mo:SubRegion mr:JP_高知県高知市北本町 ;
+    mo:SubRegion mr:JP_高知県高知市吸江 ;
+    mo:SubRegion mr:JP_高知県高知市九反田 ;
+    mo:SubRegion mr:JP_高知県高知市口細山 ;
+    mo:SubRegion mr:JP_高知県高知市久礼野 ;
+    mo:SubRegion mr:JP_高知県高知市介良甲 ;
+    mo:SubRegion mr:JP_高知県高知市介良乙 ;
+    mo:SubRegion mr:JP_高知県高知市介良丙 ;
+    mo:SubRegion mr:JP_高知県高知市介良 ;
+    mo:SubRegion mr:JP_高知県高知市小石木町 ;
+    mo:SubRegion mr:JP_高知県高知市弘化台 ;
+    mo:SubRegion mr:JP_高知県高知市幸崎 ;
+    mo:SubRegion mr:JP_高知県高知市神田 ;
+    mo:SubRegion mr:JP_高知県高知市河ノ瀬町 ;
+    mo:SubRegion mr:JP_高知県高知市江陽町 ;
+    mo:SubRegion mr:JP_高知県高知市五台山 ;
+    mo:SubRegion mr:JP_高知県高知市寿町 ;
+    mo:SubRegion mr:JP_高知県高知市幸町 ;
+    mo:SubRegion mr:JP_高知県高知市菜園場町 ;
+    mo:SubRegion mr:JP_高知県高知市堺町 ;
+    mo:SubRegion mr:JP_高知県高知市栄田町 ;
+    mo:SubRegion mr:JP_高知県高知市相模町 ;
+    mo:SubRegion mr:JP_高知県高知市桜井町 ;
+    mo:SubRegion mr:JP_高知県高知市桜馬場 ;
+    mo:SubRegion mr:JP_高知県高知市佐々木町 ;
+    mo:SubRegion mr:JP_高知県高知市三ノ丸 ;
+    mo:SubRegion mr:JP_高知県高知市桟橋通 ;
+    mo:SubRegion mr:JP_高知県高知市塩田町 ;
+    mo:SubRegion mr:JP_高知県高知市潮見台 ;
+    mo:SubRegion mr:JP_高知県高知市塩屋崎町 ;
+    mo:SubRegion mr:JP_高知県高知市重倉 ;
+    mo:SubRegion mr:JP_高知県高知市東雲町 ;
+    mo:SubRegion mr:JP_高知県高知市柴巻 ;
+    mo:SubRegion mr:JP_高知県高知市下島町 ;
+    mo:SubRegion mr:JP_高知県高知市城北町 ;
+    mo:SubRegion mr:JP_高知県高知市城山町 ;
+    mo:SubRegion mr:JP_高知県高知市上里 ;
+    mo:SubRegion mr:JP_高知県高知市昭和町 ;
+    mo:SubRegion mr:JP_高知県高知市城見町 ;
+    mo:SubRegion mr:JP_高知県高知市新田町 ;
+    mo:SubRegion mr:JP_高知県高知市新本町 ;
+    mo:SubRegion mr:JP_高知県高知市新屋敷 ;
+    mo:SubRegion mr:JP_高知県高知市水源町 ;
+    mo:SubRegion mr:JP_高知県高知市水通町 ;
+    mo:SubRegion mr:JP_高知県高知市杉井流 ;
+    mo:SubRegion mr:JP_高知県高知市瀬戸 ;
+    mo:SubRegion mr:JP_高知県高知市瀬戸東町 ;
+    mo:SubRegion mr:JP_高知県高知市瀬戸西町 ;
+    mo:SubRegion mr:JP_高知県高知市瀬戸南町 ;
+    mo:SubRegion mr:JP_高知県高知市宗安寺 ;
+    mo:SubRegion mr:JP_高知県高知市大膳町 ;
+    mo:SubRegion mr:JP_高知県高知市鷹匠町 ;
+    mo:SubRegion mr:JP_高知県高知市高須 ;
+    mo:SubRegion mr:JP_高知県高知市高須大島 ;
+    mo:SubRegion mr:JP_高知県高知市高須大谷 ;
+    mo:SubRegion mr:JP_高知県高知市高須新木 ;
+    mo:SubRegion mr:JP_高知県高知市高須新町 ;
+    mo:SubRegion mr:JP_高知県高知市高須砂地 ;
+    mo:SubRegion mr:JP_高知県高知市高須絶海 ;
+    mo:SubRegion mr:JP_高知県高知市高須西町 ;
+    mo:SubRegion mr:JP_高知県高知市高須東町 ;
+    mo:SubRegion mr:JP_高知県高知市高須本町 ;
+    mo:SubRegion mr:JP_高知県高知市高そね ;
+    mo:SubRegion mr:JP_高知県高知市高見町 ;
+    mo:SubRegion mr:JP_高知県高知市宝町 ;
+    mo:SubRegion mr:JP_高知県高知市竹島町 ;
+    mo:SubRegion mr:JP_高知県高知市種崎 ;
+    mo:SubRegion mr:JP_高知県高知市玉水町 ;
+    mo:SubRegion mr:JP_高知県高知市知寄町 ;
+    mo:SubRegion mr:JP_高知県高知市塚ノ原 ;
+    mo:SubRegion mr:JP_高知県高知市天神町 ;
+    mo:SubRegion mr:JP_高知県高知市土居町 ;
+    mo:SubRegion mr:JP_高知県高知市唐人町 ;
+    mo:SubRegion mr:JP_高知県高知市十津 ;
+    mo:SubRegion mr:JP_高知県高知市通町 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山梶谷 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山桑尾 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山菖蒲 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山高川 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山都網 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山中切 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山西川 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山東川 ;
+    mo:SubRegion mr:JP_高知県高知市土佐山弘瀬 ;
+    mo:SubRegion mr:JP_高知県高知市鳥越 ;
+    mo:SubRegion mr:JP_高知県高知市中久万 ;
+    mo:SubRegion mr:JP_高知県高知市中秦泉寺 ;
+    mo:SubRegion mr:JP_高知県高知市中水道 ;
+    mo:SubRegion mr:JP_高知県高知市中須賀町 ;
+    mo:SubRegion mr:JP_高知県高知市仲田町 ;
+    mo:SubRegion mr:JP_高知県高知市中の島 ;
+    mo:SubRegion mr:JP_高知県高知市中宝永町 ;
+    mo:SubRegion mr:JP_高知県高知市中万々 ;
+    mo:SubRegion mr:JP_高知県高知市長尾山町 ;
+    mo:SubRegion mr:JP_高知県高知市長浜 ;
+    mo:SubRegion mr:JP_高知県高知市長浜蒔絵台 ;
+    mo:SubRegion mr:JP_高知県高知市長浜宮田 ;
+    mo:SubRegion mr:JP_高知県高知市七ツ淵 ;
+    mo:SubRegion mr:JP_高知県高知市行川 ;
+    mo:SubRegion mr:JP_高知県高知市縄手町 ;
+    mo:SubRegion mr:JP_高知県高知市仁井田 ;
+    mo:SubRegion mr:JP_高知県高知市西久万 ;
+    mo:SubRegion mr:JP_高知県高知市西秦泉寺 ;
+    mo:SubRegion mr:JP_高知県高知市西塚ノ原 ;
+    mo:SubRegion mr:JP_高知県高知市西町 ;
+    mo:SubRegion mr:JP_高知県高知市廿代町 ;
+    mo:SubRegion mr:JP_高知県高知市布師田 ;
+    mo:SubRegion mr:JP_高知県高知市農人町 ;
+    mo:SubRegion mr:JP_高知県高知市萩町 ;
+    mo:SubRegion mr:JP_高知県高知市秦南町 ;
+    mo:SubRegion mr:JP_高知県高知市八反町 ;
+    mo:SubRegion mr:JP_高知県高知市孕東町 ;
+    mo:SubRegion mr:JP_高知県高知市孕西町 ;
+    mo:SubRegion mr:JP_高知県高知市針木北 ;
+    mo:SubRegion mr:JP_高知県高知市針木西 ;
+    mo:SubRegion mr:JP_高知県高知市針木東町 ;
+    mo:SubRegion mr:JP_高知県高知市針木本町 ;
+    mo:SubRegion mr:JP_高知県高知市針木南 ;
+    mo:SubRegion mr:JP_高知県高知市針原 ;
+    mo:SubRegion mr:JP_高知県高知市はりまや町 ;
+    mo:SubRegion mr:JP_高知県高知市春野町秋山 ;
+    mo:SubRegion mr:JP_高知県高知市春野町内ノ谷 ;
+    mo:SubRegion mr:JP_高知県高知市春野町甲殿 ;
+    mo:SubRegion mr:JP_高知県高知市春野町西畑 ;
+    mo:SubRegion mr:JP_高知県高知市春野町西分 ;
+    mo:SubRegion mr:JP_高知県高知市春野町西諸木 ;
+    mo:SubRegion mr:JP_高知県高知市春野町仁ノ ;
+    mo:SubRegion mr:JP_高知県高知市春野町東諸木 ;
+    mo:SubRegion mr:JP_高知県高知市春野町弘岡上 ;
+    mo:SubRegion mr:JP_高知県高知市春野町弘岡下 ;
+    mo:SubRegion mr:JP_高知県高知市春野町弘岡中 ;
+    mo:SubRegion mr:JP_高知県高知市春野町平和 ;
+    mo:SubRegion mr:JP_高知県高知市春野町南ケ丘 ;
+    mo:SubRegion mr:JP_高知県高知市春野町森山 ;
+    mo:SubRegion mr:JP_高知県高知市春野町芳原 ;
+    mo:SubRegion mr:JP_高知県高知市東石立町 ;
+    mo:SubRegion mr:JP_高知県高知市東久万 ;
+    mo:SubRegion mr:JP_高知県高知市東城山町 ;
+    mo:SubRegion mr:JP_高知県高知市東秦泉寺 ;
+    mo:SubRegion mr:JP_高知県高知市尾立 ;
+    mo:SubRegion mr:JP_高知県高知市比島町 ;
+    mo:SubRegion mr:JP_高知県高知市筆山町 ;
+    mo:SubRegion mr:JP_高知県高知市一ツ橋町 ;
+    mo:SubRegion mr:JP_高知県高知市日の出町 ;
+    mo:SubRegion mr:JP_高知県高知市百石町 ;
+    mo:SubRegion mr:JP_高知県高知市深谷町 ;
+    mo:SubRegion mr:JP_高知県高知市福井扇町 ;
+    mo:SubRegion mr:JP_高知県高知市福井町 ;
+    mo:SubRegion mr:JP_高知県高知市福井東町 ;
+    mo:SubRegion mr:JP_高知県高知市札場 ;
+    mo:SubRegion mr:JP_高知県高知市二葉町 ;
+    mo:SubRegion mr:JP_高知県高知市平和町 ;
+    mo:SubRegion mr:JP_高知県高知市宝永町 ;
+    mo:SubRegion mr:JP_高知県高知市洞ケ島町 ;
+    mo:SubRegion mr:JP_高知県高知市本宮町 ;
+    mo:SubRegion mr:JP_高知県高知市本丁筋 ;
+    mo:SubRegion mr:JP_高知県高知市本町 ;
+    mo:SubRegion mr:JP_高知県高知市前里 ;
+    mo:SubRegion mr:JP_高知県高知市槇山町 ;
+    mo:SubRegion mr:JP_高知県高知市升形 ;
+    mo:SubRegion mr:JP_高知県高知市万々 ;
+    mo:SubRegion mr:JP_高知県高知市丸池町 ;
+    mo:SubRegion mr:JP_高知県高知市丸ノ内 ;
+    mo:SubRegion mr:JP_高知県高知市三園町 ;
+    mo:SubRegion mr:JP_高知県高知市三谷 ;
+    mo:SubRegion mr:JP_高知県高知市みづき ;
+    mo:SubRegion mr:JP_高知県高知市みづき山 ;
+    mo:SubRegion mr:JP_高知県高知市南金田 ;
+    mo:SubRegion mr:JP_高知県高知市南川添 ;
+    mo:SubRegion mr:JP_高知県高知市南久保 ;
+    mo:SubRegion mr:JP_高知県高知市南久万 ;
+    mo:SubRegion mr:JP_高知県高知市南河ノ瀬町 ;
+    mo:SubRegion mr:JP_高知県高知市南御座 ;
+    mo:SubRegion mr:JP_高知県高知市南新田町 ;
+    mo:SubRegion mr:JP_高知県高知市南竹島町 ;
+    mo:SubRegion mr:JP_高知県高知市南中山 ;
+    mo:SubRegion mr:JP_高知県高知市南ノ丸町 ;
+    mo:SubRegion mr:JP_高知県高知市南はりまや町 ;
+    mo:SubRegion mr:JP_高知県高知市南宝永町 ;
+    mo:SubRegion mr:JP_高知県高知市南万々 ;
+    mo:SubRegion mr:JP_高知県高知市南元町 ;
+    mo:SubRegion mr:JP_高知県高知市御畳瀬 ;
+    mo:SubRegion mr:JP_高知県高知市宮前町 ;
+    mo:SubRegion mr:JP_高知県高知市元町 ;
+    mo:SubRegion mr:JP_高知県高知市屋頭 ;
+    mo:SubRegion mr:JP_高知県高知市役知町 ;
+    mo:SubRegion mr:JP_高知県高知市山手町 ;
+    mo:SubRegion mr:JP_高知県高知市山ノ端町 ;
+    mo:SubRegion mr:JP_高知県高知市弥生町 ;
+    mo:SubRegion mr:JP_高知県高知市横内 ;
+    mo:SubRegion mr:JP_高知県高知市横浜 ;
+    mo:SubRegion mr:JP_高知県高知市横浜新町 ;
+    mo:SubRegion mr:JP_高知県高知市横浜西町 ;
+    mo:SubRegion mr:JP_高知県高知市横浜東町 ;
+    mo:SubRegion mr:JP_高知県高知市横浜南町 ;
+    mo:SubRegion mr:JP_高知県高知市吉田町 ;
+    mo:SubRegion mr:JP_高知県高知市与力町 ;
+    mo:SubRegion mr:JP_高知県高知市領家 ;
+    mo:SubRegion mr:JP_高知県高知市蓮台 ;
+    mo:SubRegion mr:JP_高知県高知市六泉寺町 ;
+    mo:SubRegion mr:JP_高知県高知市若草町 ;
+    mo:SubRegion mr:JP_高知県高知市若草南町 ;
+    mo:SubRegion mr:JP_高知県高知市若松町 ;
+a mo:GeoEntity .
+
+mr:JP_高知県高知市相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市青柳町
+    rdfs:label "青柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市赤石町
+    rdfs:label "赤石町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市曙町
+    rdfs:label "曙町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉甲
+    rdfs:label "朝倉甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉乙
+    rdfs:label "朝倉乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉丙
+    rdfs:label "朝倉丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉丁
+    rdfs:label "朝倉丁"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉戊
+    rdfs:label "朝倉戊"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉己
+    rdfs:label "朝倉己"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉西町
+    rdfs:label "朝倉西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉東町
+    rdfs:label "朝倉東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉南町
+    rdfs:label "朝倉南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉横町
+    rdfs:label "朝倉横町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市朝倉本町
+    rdfs:label "朝倉本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市旭駅前町
+    rdfs:label "旭駅前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市旭上町
+    rdfs:label "旭上町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市旭天神町
+    rdfs:label "旭天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市薊野
+    rdfs:label "薊野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市薊野中町
+    rdfs:label "薊野中町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市薊野東町
+    rdfs:label "薊野東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市薊野西町
+    rdfs:label "薊野西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市薊野南町
+    rdfs:label "薊野南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市薊野北町
+    rdfs:label "薊野北町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市愛宕町
+    rdfs:label "愛宕町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市愛宕山
+    rdfs:label "愛宕山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市愛宕山南町
+    rdfs:label "愛宕山南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市井口町
+    rdfs:label "井口町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市池
+    rdfs:label "池"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市石立町
+    rdfs:label "石立町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市和泉町
+    rdfs:label "和泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市伊勢崎町
+    rdfs:label "伊勢崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市一宮
+    rdfs:label "一宮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市一宮しなね
+    rdfs:label "一宮しなね"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市一宮徳谷
+    rdfs:label "一宮徳谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市一宮中町
+    rdfs:label "一宮中町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市一宮西町
+    rdfs:label "一宮西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市一宮東町
+    rdfs:label "一宮東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市一宮南町
+    rdfs:label "一宮南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市稲荷町
+    rdfs:label "稲荷町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市入明町
+    rdfs:label "入明町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市岩ケ淵
+    rdfs:label "岩ケ淵"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鵜来巣
+    rdfs:label "鵜来巣"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市潮新町
+    rdfs:label "潮新町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市宇津野
+    rdfs:label "宇津野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市梅ノ辻
+    rdfs:label "梅ノ辻"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市浦戸
+    rdfs:label "浦戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市永国寺町
+    rdfs:label "永国寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市駅前町
+    rdfs:label "駅前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市越前町
+    rdfs:label "越前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市海老ノ丸
+    rdfs:label "海老ノ丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市円行寺
+    rdfs:label "円行寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市追手筋
+    rdfs:label "追手筋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市大川筋
+    rdfs:label "大川筋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市大谷公園町
+    rdfs:label "大谷公園町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市大津甲
+    rdfs:label "大津甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市大津乙
+    rdfs:label "大津乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市大原町
+    rdfs:label "大原町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市小倉町
+    rdfs:label "小倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市小津町
+    rdfs:label "小津町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市帯屋町
+    rdfs:label "帯屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市加賀野井
+    rdfs:label "加賀野井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡今井
+    rdfs:label "鏡今井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡梅ノ木
+    rdfs:label "鏡梅ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡大河内
+    rdfs:label "鏡大河内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡大利
+    rdfs:label "鏡大利"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡柿ノ又
+    rdfs:label "鏡柿ノ又"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡葛山
+    rdfs:label "鏡葛山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡狩山
+    rdfs:label "鏡狩山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡草峰
+    rdfs:label "鏡草峰"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡小浜
+    rdfs:label "鏡小浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡小山
+    rdfs:label "鏡小山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡去坂
+    rdfs:label "鏡去坂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡敷ノ山
+    rdfs:label "鏡敷ノ山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡白岩
+    rdfs:label "鏡白岩"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡竹奈路
+    rdfs:label "鏡竹奈路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡増原
+    rdfs:label "鏡増原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡的渕
+    rdfs:label "鏡的渕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡横矢
+    rdfs:label "鏡横矢"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡吉原
+    rdfs:label "鏡吉原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鏡川町
+    rdfs:label "鏡川町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市葛島
+    rdfs:label "葛島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市上本宮町
+    rdfs:label "上本宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市上町
+    rdfs:label "上町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鴨部
+    rdfs:label "鴨部"@ja ;
+    mo:SubRegion mr:JP_高知県高知市鴨部丁目 ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鴨部丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鴨部上町
+    rdfs:label "鴨部上町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鴨部高町
+    rdfs:label "鴨部高町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市唐岩
+    rdfs:label "唐岩"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北金田
+    rdfs:label "北金田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北川添
+    rdfs:label "北川添"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北久保
+    rdfs:label "北久保"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北御座
+    rdfs:label "北御座"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北新田町
+    rdfs:label "北新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北秦泉寺
+    rdfs:label "北秦泉寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北高見町
+    rdfs:label "北高見町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北竹島町
+    rdfs:label "北竹島町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北中山
+    rdfs:label "北中山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北八反町
+    rdfs:label "北八反町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北端町
+    rdfs:label "北端町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市北本町
+    rdfs:label "北本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市吸江
+    rdfs:label "吸江"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市九反田
+    rdfs:label "九反田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市口細山
+    rdfs:label "口細山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市久礼野
+    rdfs:label "久礼野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市介良甲
+    rdfs:label "介良甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市介良乙
+    rdfs:label "介良乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市介良丙
+    rdfs:label "介良丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市介良
+    rdfs:label "介良"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市小石木町
+    rdfs:label "小石木町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市弘化台
+    rdfs:label "弘化台"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市幸崎
+    rdfs:label "幸崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市神田
+    rdfs:label "神田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市河ノ瀬町
+    rdfs:label "河ノ瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市江陽町
+    rdfs:label "江陽町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市五台山
+    rdfs:label "五台山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市菜園場町
+    rdfs:label "菜園場町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市堺町
+    rdfs:label "堺町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市栄田町
+    rdfs:label "栄田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市相模町
+    rdfs:label "相模町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市桜井町
+    rdfs:label "桜井町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市桜馬場
+    rdfs:label "桜馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市佐々木町
+    rdfs:label "佐々木町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市三ノ丸
+    rdfs:label "三ノ丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市桟橋通
+    rdfs:label "桟橋通"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市塩田町
+    rdfs:label "塩田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市潮見台
+    rdfs:label "潮見台"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市塩屋崎町
+    rdfs:label "塩屋崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市重倉
+    rdfs:label "重倉"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市東雲町
+    rdfs:label "東雲町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市柴巻
+    rdfs:label "柴巻"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市下島町
+    rdfs:label "下島町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市城北町
+    rdfs:label "城北町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市城山町
+    rdfs:label "城山町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市上里
+    rdfs:label "上里"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市城見町
+    rdfs:label "城見町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市新田町
+    rdfs:label "新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市新本町
+    rdfs:label "新本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市新屋敷
+    rdfs:label "新屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市水源町
+    rdfs:label "水源町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市水通町
+    rdfs:label "水通町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市杉井流
+    rdfs:label "杉井流"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市瀬戸
+    rdfs:label "瀬戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市瀬戸東町
+    rdfs:label "瀬戸東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市瀬戸西町
+    rdfs:label "瀬戸西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市瀬戸南町
+    rdfs:label "瀬戸南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市宗安寺
+    rdfs:label "宗安寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市大膳町
+    rdfs:label "大膳町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鷹匠町
+    rdfs:label "鷹匠町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須
+    rdfs:label "高須"@ja ;
+    mo:SubRegion mr:JP_高知県高知市高須丁目 ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須大島
+    rdfs:label "高須大島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須大谷
+    rdfs:label "高須大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須新木
+    rdfs:label "高須新木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須新町
+    rdfs:label "高須新町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須砂地
+    rdfs:label "高須砂地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須絶海
+    rdfs:label "高須絶海"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須西町
+    rdfs:label "高須西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須東町
+    rdfs:label "高須東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高須本町
+    rdfs:label "高須本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高そね
+    rdfs:label "高そね"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市高見町
+    rdfs:label "高見町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市宝町
+    rdfs:label "宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市竹島町
+    rdfs:label "竹島町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市種崎
+    rdfs:label "種崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市玉水町
+    rdfs:label "玉水町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市知寄町
+    rdfs:label "知寄町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市塚ノ原
+    rdfs:label "塚ノ原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土居町
+    rdfs:label "土居町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市唐人町
+    rdfs:label "唐人町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市十津
+    rdfs:label "十津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市通町
+    rdfs:label "通町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山
+    rdfs:label "土佐山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山梶谷
+    rdfs:label "土佐山梶谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山桑尾
+    rdfs:label "土佐山桑尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山菖蒲
+    rdfs:label "土佐山菖蒲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山高川
+    rdfs:label "土佐山高川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山都網
+    rdfs:label "土佐山都網"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山中切
+    rdfs:label "土佐山中切"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山西川
+    rdfs:label "土佐山西川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山東川
+    rdfs:label "土佐山東川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市土佐山弘瀬
+    rdfs:label "土佐山弘瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市鳥越
+    rdfs:label "鳥越"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市中久万
+    rdfs:label "中久万"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市中秦泉寺
+    rdfs:label "中秦泉寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市中水道
+    rdfs:label "中水道"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市中須賀町
+    rdfs:label "中須賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市仲田町
+    rdfs:label "仲田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市中の島
+    rdfs:label "中の島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市中宝永町
+    rdfs:label "中宝永町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市中万々
+    rdfs:label "中万々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市長尾山町
+    rdfs:label "長尾山町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市長浜
+    rdfs:label "長浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市長浜蒔絵台
+    rdfs:label "長浜蒔絵台"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市長浜宮田
+    rdfs:label "長浜宮田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市七ツ淵
+    rdfs:label "七ツ淵"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市行川
+    rdfs:label "行川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市縄手町
+    rdfs:label "縄手町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市仁井田
+    rdfs:label "仁井田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市西久万
+    rdfs:label "西久万"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市西秦泉寺
+    rdfs:label "西秦泉寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市西塚ノ原
+    rdfs:label "西塚ノ原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市廿代町
+    rdfs:label "廿代町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市布師田
+    rdfs:label "布師田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市農人町
+    rdfs:label "農人町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市萩町
+    rdfs:label "萩町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市秦南町
+    rdfs:label "秦南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市八反町
+    rdfs:label "八反町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市孕東町
+    rdfs:label "孕東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市孕西町
+    rdfs:label "孕西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市針木北
+    rdfs:label "針木北"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市針木西
+    rdfs:label "針木西"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市針木東町
+    rdfs:label "針木東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市針木本町
+    rdfs:label "針木本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市針木南
+    rdfs:label "針木南"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市針原
+    rdfs:label "針原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市はりまや町
+    rdfs:label "はりまや町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町秋山
+    rdfs:label "春野町秋山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町内ノ谷
+    rdfs:label "春野町内ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町甲殿
+    rdfs:label "春野町甲殿"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町西畑
+    rdfs:label "春野町西畑"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町西分
+    rdfs:label "春野町西分"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町西諸木
+    rdfs:label "春野町西諸木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町仁ノ
+    rdfs:label "春野町仁ノ"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町東諸木
+    rdfs:label "春野町東諸木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町弘岡上
+    rdfs:label "春野町弘岡上"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町弘岡下
+    rdfs:label "春野町弘岡下"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町弘岡中
+    rdfs:label "春野町弘岡中"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町平和
+    rdfs:label "春野町平和"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町南ケ丘
+    rdfs:label "春野町南ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町森山
+    rdfs:label "春野町森山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市春野町芳原
+    rdfs:label "春野町芳原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市東石立町
+    rdfs:label "東石立町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市東久万
+    rdfs:label "東久万"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市東城山町
+    rdfs:label "東城山町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市東秦泉寺
+    rdfs:label "東秦泉寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市尾立
+    rdfs:label "尾立"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市比島町
+    rdfs:label "比島町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市筆山町
+    rdfs:label "筆山町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市一ツ橋町
+    rdfs:label "一ツ橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市日の出町
+    rdfs:label "日の出町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市百石町
+    rdfs:label "百石町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市深谷町
+    rdfs:label "深谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市福井扇町
+    rdfs:label "福井扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市福井町
+    rdfs:label "福井町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市福井東町
+    rdfs:label "福井東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市札場
+    rdfs:label "札場"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市二葉町
+    rdfs:label "二葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市平和町
+    rdfs:label "平和町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市宝永町
+    rdfs:label "宝永町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市洞ケ島町
+    rdfs:label "洞ケ島町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市本宮町
+    rdfs:label "本宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市本丁筋
+    rdfs:label "本丁筋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市前里
+    rdfs:label "前里"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市槇山町
+    rdfs:label "槇山町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市升形
+    rdfs:label "升形"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市万々
+    rdfs:label "万々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市丸池町
+    rdfs:label "丸池町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市丸ノ内
+    rdfs:label "丸ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市三園町
+    rdfs:label "三園町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市三谷
+    rdfs:label "三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市みづき
+    rdfs:label "みづき"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市みづき山
+    rdfs:label "みづき山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南金田
+    rdfs:label "南金田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南川添
+    rdfs:label "南川添"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南久保
+    rdfs:label "南久保"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南久万
+    rdfs:label "南久万"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南河ノ瀬町
+    rdfs:label "南河ノ瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南御座
+    rdfs:label "南御座"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南新田町
+    rdfs:label "南新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南竹島町
+    rdfs:label "南竹島町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南中山
+    rdfs:label "南中山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南ノ丸町
+    rdfs:label "南ノ丸町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南はりまや町
+    rdfs:label "南はりまや町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南宝永町
+    rdfs:label "南宝永町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南万々
+    rdfs:label "南万々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市南元町
+    rdfs:label "南元町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市御畳瀬
+    rdfs:label "御畳瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市宮前町
+    rdfs:label "宮前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市屋頭
+    rdfs:label "屋頭"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市役知町
+    rdfs:label "役知町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市山手町
+    rdfs:label "山手町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市山ノ端町
+    rdfs:label "山ノ端町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市横内
+    rdfs:label "横内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市横浜
+    rdfs:label "横浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市横浜新町
+    rdfs:label "横浜新町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市横浜西町
+    rdfs:label "横浜西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市横浜東町
+    rdfs:label "横浜東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市横浜南町
+    rdfs:label "横浜南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市吉田町
+    rdfs:label "吉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市与力町
+    rdfs:label "与力町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市領家
+    rdfs:label "領家"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市蓮台
+    rdfs:label "蓮台"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市六泉寺町
+    rdfs:label "六泉寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市若草南町
+    rdfs:label "若草南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高知市若松町
+    rdfs:label "若松町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市
+    rdfs:label "室戸市"@ja ;
+    mo:AreaCode "39202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県室戸市浮津 ;
+    mo:SubRegion mr:JP_高知県室戸市浮津一番町 ;
+    mo:SubRegion mr:JP_高知県室戸市浮津二番町 ;
+    mo:SubRegion mr:JP_高知県室戸市浮津三番町 ;
+    mo:SubRegion mr:JP_高知県室戸市吉良川町甲 ;
+    mo:SubRegion mr:JP_高知県室戸市吉良川町乙 ;
+    mo:SubRegion mr:JP_高知県室戸市吉良川町丙 ;
+    mo:SubRegion mr:JP_高知県室戸市佐喜浜町 ;
+    mo:SubRegion mr:JP_高知県室戸市羽根町甲 ;
+    mo:SubRegion mr:JP_高知県室戸市羽根町乙 ;
+    mo:SubRegion mr:JP_高知県室戸市室津 ;
+    mo:SubRegion mr:JP_高知県室戸市室戸岬町 ;
+    mo:SubRegion mr:JP_高知県室戸市元甲 ;
+    mo:SubRegion mr:JP_高知県室戸市元乙 ;
+    mo:SubRegion mr:JP_高知県室戸市領家 ;
+a mo:GeoEntity .
+
+mr:JP_高知県室戸市浮津
+    rdfs:label "浮津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市浮津一番町
+    rdfs:label "浮津一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市浮津二番町
+    rdfs:label "浮津二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市浮津三番町
+    rdfs:label "浮津三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市吉良川町甲
+    rdfs:label "吉良川町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市吉良川町乙
+    rdfs:label "吉良川町乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市吉良川町丙
+    rdfs:label "吉良川町丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市佐喜浜町
+    rdfs:label "佐喜浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市羽根町甲
+    rdfs:label "羽根町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市羽根町乙
+    rdfs:label "羽根町乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市室津
+    rdfs:label "室津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市室戸岬町
+    rdfs:label "室戸岬町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市元甲
+    rdfs:label "元甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市元乙
+    rdfs:label "元乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県室戸市領家
+    rdfs:label "領家"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市
+    rdfs:label "安芸市"@ja ;
+    mo:AreaCode "39203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県安芸市赤野甲 ;
+    mo:SubRegion mr:JP_高知県安芸市赤野乙 ;
+    mo:SubRegion mr:JP_高知県安芸市安芸ノ川甲 ;
+    mo:SubRegion mr:JP_高知県安芸市安芸ノ川乙 ;
+    mo:SubRegion mr:JP_高知県安芸市穴内甲 ;
+    mo:SubRegion mr:JP_高知県安芸市穴内乙 ;
+    mo:SubRegion mr:JP_高知県安芸市伊尾木 ;
+    mo:SubRegion mr:JP_高知県安芸市井ノ口甲 ;
+    mo:SubRegion mr:JP_高知県安芸市井ノ口乙 ;
+    mo:SubRegion mr:JP_高知県安芸市植野 ;
+    mo:SubRegion mr:JP_高知県安芸市大井甲 ;
+    mo:SubRegion mr:JP_高知県安芸市大井乙 ;
+    mo:SubRegion mr:JP_高知県安芸市尾川甲 ;
+    mo:SubRegion mr:JP_高知県安芸市尾川乙 ;
+    mo:SubRegion mr:JP_高知県安芸市小谷 ;
+    mo:SubRegion mr:JP_高知県安芸市川北甲 ;
+    mo:SubRegion mr:JP_高知県安芸市川北乙 ;
+    mo:SubRegion mr:JP_高知県安芸市久世町 ;
+    mo:SubRegion mr:JP_高知県安芸市黒瀬 ;
+    mo:SubRegion mr:JP_高知県安芸市黒鳥 ;
+    mo:SubRegion mr:JP_高知県安芸市古井 ;
+    mo:SubRegion mr:JP_高知県安芸市寿町 ;
+    mo:SubRegion mr:JP_高知県安芸市幸町 ;
+    mo:SubRegion mr:JP_高知県安芸市桜ケ丘町 ;
+    mo:SubRegion mr:JP_高知県安芸市島 ;
+    mo:SubRegion mr:JP_高知県安芸市下山 ;
+    mo:SubRegion mr:JP_高知県安芸市庄之芝町 ;
+    mo:SubRegion mr:JP_高知県安芸市清和町 ;
+    mo:SubRegion mr:JP_高知県安芸市僧津 ;
+    mo:SubRegion mr:JP_高知県安芸市染井町 ;
+    mo:SubRegion mr:JP_高知県安芸市千歳町 ;
+    mo:SubRegion mr:JP_高知県安芸市津久茂町 ;
+    mo:SubRegion mr:JP_高知県安芸市土居 ;
+    mo:SubRegion mr:JP_高知県安芸市栃ノ木 ;
+    mo:SubRegion mr:JP_高知県安芸市奈比賀 ;
+    mo:SubRegion mr:JP_高知県安芸市西浜 ;
+    mo:SubRegion mr:JP_高知県安芸市入河内 ;
+    mo:SubRegion mr:JP_高知県安芸市畑山甲 ;
+    mo:SubRegion mr:JP_高知県安芸市畑山乙 ;
+    mo:SubRegion mr:JP_高知県安芸市畑山丙 ;
+    mo:SubRegion mr:JP_高知県安芸市花園町 ;
+    mo:SubRegion mr:JP_高知県安芸市東浜 ;
+    mo:SubRegion mr:JP_高知県安芸市日ノ出町 ;
+    mo:SubRegion mr:JP_高知県安芸市別役 ;
+    mo:SubRegion mr:JP_高知県安芸市宝永町 ;
+    mo:SubRegion mr:JP_高知県安芸市本町 ;
+    mo:SubRegion mr:JP_高知県安芸市舞川 ;
+    mo:SubRegion mr:JP_高知県安芸市港町 ;
+    mo:SubRegion mr:JP_高知県安芸市矢ノ丸 ;
+a mo:GeoEntity .
+
+mr:JP_高知県安芸市赤野甲
+    rdfs:label "赤野甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市赤野乙
+    rdfs:label "赤野乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市安芸ノ川甲
+    rdfs:label "安芸ノ川甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市安芸ノ川乙
+    rdfs:label "安芸ノ川乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市穴内甲
+    rdfs:label "穴内甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市穴内乙
+    rdfs:label "穴内乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市伊尾木
+    rdfs:label "伊尾木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市井ノ口甲
+    rdfs:label "井ノ口甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市井ノ口乙
+    rdfs:label "井ノ口乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市植野
+    rdfs:label "植野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市大井甲
+    rdfs:label "大井甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市大井乙
+    rdfs:label "大井乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市尾川甲
+    rdfs:label "尾川甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市尾川乙
+    rdfs:label "尾川乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市小谷
+    rdfs:label "小谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市川北甲
+    rdfs:label "川北甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市川北乙
+    rdfs:label "川北乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市久世町
+    rdfs:label "久世町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市黒瀬
+    rdfs:label "黒瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市黒鳥
+    rdfs:label "黒鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市古井
+    rdfs:label "古井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市桜ケ丘町
+    rdfs:label "桜ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市島
+    rdfs:label "島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市下山
+    rdfs:label "下山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市庄之芝町
+    rdfs:label "庄之芝町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市清和町
+    rdfs:label "清和町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市僧津
+    rdfs:label "僧津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市染井町
+    rdfs:label "染井町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市千歳町
+    rdfs:label "千歳町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市津久茂町
+    rdfs:label "津久茂町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市土居
+    rdfs:label "土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市栃ノ木
+    rdfs:label "栃ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市奈比賀
+    rdfs:label "奈比賀"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市西浜
+    rdfs:label "西浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市入河内
+    rdfs:label "入河内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市畑山甲
+    rdfs:label "畑山甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市畑山乙
+    rdfs:label "畑山乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市畑山丙
+    rdfs:label "畑山丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市東浜
+    rdfs:label "東浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市日ノ出町
+    rdfs:label "日ノ出町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市別役
+    rdfs:label "別役"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市宝永町
+    rdfs:label "宝永町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市舞川
+    rdfs:label "舞川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸市矢ノ丸
+    rdfs:label "矢ノ丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市
+    rdfs:label "南国市"@ja ;
+    mo:AreaCode "39204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県南国市上倉 ;
+    mo:SubRegion mr:JP_高知県南国市伊達野 ;
+    mo:SubRegion mr:JP_高知県南国市稲生 ;
+    mo:SubRegion mr:JP_高知県南国市植田 ;
+    mo:SubRegion mr:JP_高知県南国市植野 ;
+    mo:SubRegion mr:JP_高知県南国市駅前町 ;
+    mo:SubRegion mr:JP_高知県南国市大改野 ;
+    mo:SubRegion mr:JP_高知県南国市大そね甲 ;
+    mo:SubRegion mr:JP_高知県南国市大そね乙 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町江村 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町笠ノ川 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町蒲原 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町小篭 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町小蓮 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町常通寺島 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町定林寺 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町滝本 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町中島 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町八幡 ;
+    mo:SubRegion mr:JP_高知県南国市岡豊町吉田 ;
+    mo:SubRegion mr:JP_高知県南国市片山 ;
+    mo:SubRegion mr:JP_高知県南国市金地 ;
+    mo:SubRegion mr:JP_高知県南国市包末 ;
+    mo:SubRegion mr:JP_高知県南国市上末松 ;
+    mo:SubRegion mr:JP_高知県南国市上野田 ;
+    mo:SubRegion mr:JP_高知県南国市亀岩 ;
+    mo:SubRegion mr:JP_高知県南国市久礼田 ;
+    mo:SubRegion mr:JP_高知県南国市黒滝 ;
+    mo:SubRegion mr:JP_高知県南国市桑ノ川 ;
+    mo:SubRegion mr:JP_高知県南国市国分 ;
+    mo:SubRegion mr:JP_高知県南国市小籠 ;
+    mo:SubRegion mr:JP_高知県南国市後免町 ;
+    mo:SubRegion mr:JP_高知県南国市才谷 ;
+    mo:SubRegion mr:JP_高知県南国市幸町 ;
+    mo:SubRegion mr:JP_高知県南国市里改田 ;
+    mo:SubRegion mr:JP_高知県南国市三畠 ;
+    mo:SubRegion mr:JP_高知県南国市宍崎 ;
+    mo:SubRegion mr:JP_高知県南国市篠原 ;
+    mo:SubRegion mr:JP_高知県南国市下島 ;
+    mo:SubRegion mr:JP_高知県南国市下末松 ;
+    mo:SubRegion mr:JP_高知県南国市下野田 ;
+    mo:SubRegion mr:JP_高知県南国市白木谷 ;
+    mo:SubRegion mr:JP_高知県南国市陣山 ;
+    mo:SubRegion mr:JP_高知県南国市左右山 ;
+    mo:SubRegion mr:JP_高知県南国市蔵福寺島 ;
+    mo:SubRegion mr:JP_高知県南国市立田 ;
+    mo:SubRegion mr:JP_高知県南国市田村 ;
+    mo:SubRegion mr:JP_高知県南国市天行寺 ;
+    mo:SubRegion mr:JP_高知県南国市十市 ;
+    mo:SubRegion mr:JP_高知県南国市外山 ;
+    mo:SubRegion mr:JP_高知県南国市中谷 ;
+    mo:SubRegion mr:JP_高知県南国市中ノ川 ;
+    mo:SubRegion mr:JP_高知県南国市成合 ;
+    mo:SubRegion mr:JP_高知県南国市奈路 ;
+    mo:SubRegion mr:JP_高知県南国市西野田町 ;
+    mo:SubRegion mr:JP_高知県南国市西山 ;
+    mo:SubRegion mr:JP_高知県南国市日章あけぼの ;
+    mo:SubRegion mr:JP_高知県南国市野中 ;
+    mo:SubRegion mr:JP_高知県南国市廿枝 ;
+    mo:SubRegion mr:JP_高知県南国市浜改田 ;
+    mo:SubRegion mr:JP_高知県南国市比江 ;
+    mo:SubRegion mr:JP_高知県南国市東崎 ;
+    mo:SubRegion mr:JP_高知県南国市東山町 ;
+    mo:SubRegion mr:JP_高知県南国市久枝 ;
+    mo:SubRegion mr:JP_高知県南国市日吉町 ;
+    mo:SubRegion mr:JP_高知県南国市福船 ;
+    mo:SubRegion mr:JP_高知県南国市双葉台 ;
+    mo:SubRegion mr:JP_高知県南国市蛍が丘 ;
+    mo:SubRegion mr:JP_高知県南国市堀ノ内 ;
+    mo:SubRegion mr:JP_高知県南国市前浜 ;
+    mo:SubRegion mr:JP_高知県南国市緑ケ丘 ;
+    mo:SubRegion mr:JP_高知県南国市明見 ;
+    mo:SubRegion mr:JP_高知県南国市三和琴平 ;
+    mo:SubRegion mr:JP_高知県南国市元町 ;
+    mo:SubRegion mr:JP_高知県南国市物部 ;
+    mo:SubRegion mr:JP_高知県南国市八京 ;
+    mo:SubRegion mr:JP_高知県南国市領石 ;
+a mo:GeoEntity .
+
+mr:JP_高知県南国市上倉
+    rdfs:label "上倉"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市伊達野
+    rdfs:label "伊達野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市稲生
+    rdfs:label "稲生"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市植田
+    rdfs:label "植田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市植野
+    rdfs:label "植野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市駅前町
+    rdfs:label "駅前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市大改野
+    rdfs:label "大改野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市大そね甲
+    rdfs:label "大そね甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市大そね乙
+    rdfs:label "大そね乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町江村
+    rdfs:label "岡豊町江村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町笠ノ川
+    rdfs:label "岡豊町笠ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町蒲原
+    rdfs:label "岡豊町蒲原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町小篭
+    rdfs:label "岡豊町小篭"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町小蓮
+    rdfs:label "岡豊町小蓮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町常通寺島
+    rdfs:label "岡豊町常通寺島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町定林寺
+    rdfs:label "岡豊町定林寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町滝本
+    rdfs:label "岡豊町滝本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町中島
+    rdfs:label "岡豊町中島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町八幡
+    rdfs:label "岡豊町八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市岡豊町吉田
+    rdfs:label "岡豊町吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市片山
+    rdfs:label "片山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市金地
+    rdfs:label "金地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市包末
+    rdfs:label "包末"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市上末松
+    rdfs:label "上末松"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市上野田
+    rdfs:label "上野田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市亀岩
+    rdfs:label "亀岩"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市久礼田
+    rdfs:label "久礼田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市黒滝
+    rdfs:label "黒滝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市桑ノ川
+    rdfs:label "桑ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市国分
+    rdfs:label "国分"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市小籠
+    rdfs:label "小籠"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市後免町
+    rdfs:label "後免町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市才谷
+    rdfs:label "才谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市里改田
+    rdfs:label "里改田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市三畠
+    rdfs:label "三畠"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市宍崎
+    rdfs:label "宍崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市篠原
+    rdfs:label "篠原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市下島
+    rdfs:label "下島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市下末松
+    rdfs:label "下末松"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市下野田
+    rdfs:label "下野田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市白木谷
+    rdfs:label "白木谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市陣山
+    rdfs:label "陣山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市左右山
+    rdfs:label "左右山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市蔵福寺島
+    rdfs:label "蔵福寺島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市立田
+    rdfs:label "立田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市田村
+    rdfs:label "田村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市天行寺
+    rdfs:label "天行寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市十市
+    rdfs:label "十市"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市外山
+    rdfs:label "外山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市中谷
+    rdfs:label "中谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市中ノ川
+    rdfs:label "中ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市成合
+    rdfs:label "成合"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市奈路
+    rdfs:label "奈路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市西野田町
+    rdfs:label "西野田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市西山
+    rdfs:label "西山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市日章あけぼの
+    rdfs:label "日章あけぼの"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市野中
+    rdfs:label "野中"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市廿枝
+    rdfs:label "廿枝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市浜改田
+    rdfs:label "浜改田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市比江
+    rdfs:label "比江"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市東崎
+    rdfs:label "東崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市東山町
+    rdfs:label "東山町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市久枝
+    rdfs:label "久枝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市日吉町
+    rdfs:label "日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市福船
+    rdfs:label "福船"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市双葉台
+    rdfs:label "双葉台"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市蛍が丘
+    rdfs:label "蛍が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市堀ノ内
+    rdfs:label "堀ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市前浜
+    rdfs:label "前浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市明見
+    rdfs:label "明見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市三和琴平
+    rdfs:label "三和琴平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市物部
+    rdfs:label "物部"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市八京
+    rdfs:label "八京"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県南国市領石
+    rdfs:label "領石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市
+    rdfs:label "土佐市"@ja ;
+    mo:AreaCode "39205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県土佐市浅井 ;
+    mo:SubRegion mr:JP_高知県土佐市家俊 ;
+    mo:SubRegion mr:JP_高知県土佐市出間 ;
+    mo:SubRegion mr:JP_高知県土佐市市野々 ;
+    mo:SubRegion mr:JP_高知県土佐市岩戸 ;
+    mo:SubRegion mr:JP_高知県土佐市宇佐町井尻 ;
+    mo:SubRegion mr:JP_高知県土佐市宇佐町渭浜 ;
+    mo:SubRegion mr:JP_高知県土佐市宇佐町宇佐 ;
+    mo:SubRegion mr:JP_高知県土佐市宇佐町福島 ;
+    mo:SubRegion mr:JP_高知県土佐市宇佐町竜 ;
+    mo:SubRegion mr:JP_高知県土佐市甲原 ;
+    mo:SubRegion mr:JP_高知県土佐市北地 ;
+    mo:SubRegion mr:JP_高知県土佐市積善寺 ;
+    mo:SubRegion mr:JP_高知県土佐市高岡町甲 ;
+    mo:SubRegion mr:JP_高知県土佐市高岡町乙 ;
+    mo:SubRegion mr:JP_高知県土佐市高岡町丙 ;
+    mo:SubRegion mr:JP_高知県土佐市高岡町丁 ;
+    mo:SubRegion mr:JP_高知県土佐市鷹ノ巣 ;
+    mo:SubRegion mr:JP_高知県土佐市太郎丸 ;
+    mo:SubRegion mr:JP_高知県土佐市塚地 ;
+    mo:SubRegion mr:JP_高知県土佐市中島 ;
+    mo:SubRegion mr:JP_高知県土佐市永野 ;
+    mo:SubRegion mr:JP_高知県土佐市新居 ;
+    mo:SubRegion mr:JP_高知県土佐市西鴨地 ;
+    mo:SubRegion mr:JP_高知県土佐市波介 ;
+    mo:SubRegion mr:JP_高知県土佐市蓮池 ;
+    mo:SubRegion mr:JP_高知県土佐市東鴨地 ;
+    mo:SubRegion mr:JP_高知県土佐市福田 ;
+    mo:SubRegion mr:JP_高知県土佐市本村 ;
+    mo:SubRegion mr:JP_高知県土佐市宮ノ内 ;
+    mo:SubRegion mr:JP_高知県土佐市用石 ;
+    mo:SubRegion mr:JP_高知県土佐市谷地 ;
+a mo:GeoEntity .
+
+mr:JP_高知県土佐市浅井
+    rdfs:label "浅井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市家俊
+    rdfs:label "家俊"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市出間
+    rdfs:label "出間"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市市野々
+    rdfs:label "市野々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市岩戸
+    rdfs:label "岩戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市宇佐町井尻
+    rdfs:label "宇佐町井尻"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市宇佐町渭浜
+    rdfs:label "宇佐町渭浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市宇佐町宇佐
+    rdfs:label "宇佐町宇佐"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市宇佐町福島
+    rdfs:label "宇佐町福島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市宇佐町竜
+    rdfs:label "宇佐町竜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市甲原
+    rdfs:label "甲原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市北地
+    rdfs:label "北地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市積善寺
+    rdfs:label "積善寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市高岡町甲
+    rdfs:label "高岡町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市高岡町乙
+    rdfs:label "高岡町乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市高岡町丙
+    rdfs:label "高岡町丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市高岡町丁
+    rdfs:label "高岡町丁"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市鷹ノ巣
+    rdfs:label "鷹ノ巣"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市太郎丸
+    rdfs:label "太郎丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市塚地
+    rdfs:label "塚地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市中島
+    rdfs:label "中島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市永野
+    rdfs:label "永野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市新居
+    rdfs:label "新居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市西鴨地
+    rdfs:label "西鴨地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市波介
+    rdfs:label "波介"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市蓮池
+    rdfs:label "蓮池"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市東鴨地
+    rdfs:label "東鴨地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市福田
+    rdfs:label "福田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市本村
+    rdfs:label "本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市宮ノ内
+    rdfs:label "宮ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市用石
+    rdfs:label "用石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐市谷地
+    rdfs:label "谷地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市
+    rdfs:label "須崎市"@ja ;
+    mo:AreaCode "39206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県須崎市吾井郷甲 ;
+    mo:SubRegion mr:JP_高知県須崎市吾井郷乙 ;
+    mo:SubRegion mr:JP_高知県須崎市青木町 ;
+    mo:SubRegion mr:JP_高知県須崎市赤崎町 ;
+    mo:SubRegion mr:JP_高知県須崎市安和 ;
+    mo:SubRegion mr:JP_高知県須崎市池ノ内 ;
+    mo:SubRegion mr:JP_高知県須崎市泉町 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内出見 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内今川内 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内下中山 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内塩間 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内須ノ浦 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内立目摺木 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内西分 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内灰方 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内東分 ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内福良 ;
+    mo:SubRegion mr:JP_高知県須崎市大谷 ;
+    mo:SubRegion mr:JP_高知県須崎市多ノ郷甲 ;
+    mo:SubRegion mr:JP_高知県須崎市多ノ郷乙 ;
+    mo:SubRegion mr:JP_高知県須崎市大間東町 ;
+    mo:SubRegion mr:JP_高知県須崎市大間西町 ;
+    mo:SubRegion mr:JP_高知県須崎市大間本町 ;
+    mo:SubRegion mr:JP_高知県須崎市押岡 ;
+    mo:SubRegion mr:JP_高知県須崎市鍛冶町 ;
+    mo:SubRegion mr:JP_高知県須崎市上分甲 ;
+    mo:SubRegion mr:JP_高知県須崎市上分乙 ;
+    mo:SubRegion mr:JP_高知県須崎市上分丙 ;
+    mo:SubRegion mr:JP_高知県須崎市桐間西 ;
+    mo:SubRegion mr:JP_高知県須崎市桐間東 ;
+    mo:SubRegion mr:JP_高知県須崎市桐間南 ;
+    mo:SubRegion mr:JP_高知県須崎市久通 ;
+    mo:SubRegion mr:JP_高知県須崎市神田 ;
+    mo:SubRegion mr:JP_高知県須崎市幸町 ;
+    mo:SubRegion mr:JP_高知県須崎市栄町 ;
+    mo:SubRegion mr:JP_高知県須崎市潮田町 ;
+    mo:SubRegion mr:JP_高知県須崎市下郷 ;
+    mo:SubRegion mr:JP_高知県須崎市下分甲 ;
+    mo:SubRegion mr:JP_高知県須崎市下分乙 ;
+    mo:SubRegion mr:JP_高知県須崎市新町 ;
+    mo:SubRegion mr:JP_高知県須崎市須崎 ;
+    mo:SubRegion mr:JP_高知県須崎市桑田山甲 ;
+    mo:SubRegion mr:JP_高知県須崎市桑田山乙 ;
+    mo:SubRegion mr:JP_高知県須崎市土崎町 ;
+    mo:SubRegion mr:JP_高知県須崎市中町 ;
+    mo:SubRegion mr:JP_高知県須崎市西崎町 ;
+    mo:SubRegion mr:JP_高知県須崎市西糺町 ;
+    mo:SubRegion mr:JP_高知県須崎市西古市町 ;
+    mo:SubRegion mr:JP_高知県須崎市西町 ;
+    mo:SubRegion mr:JP_高知県須崎市野見 ;
+    mo:SubRegion mr:JP_高知県須崎市浜町 ;
+    mo:SubRegion mr:JP_高知県須崎市原町 ;
+    mo:SubRegion mr:JP_高知県須崎市東糺町 ;
+    mo:SubRegion mr:JP_高知県須崎市東古市町 ;
+    mo:SubRegion mr:JP_高知県須崎市緑町 ;
+    mo:SubRegion mr:JP_高知県須崎市港町 ;
+    mo:SubRegion mr:JP_高知県須崎市南古市町 ;
+    mo:SubRegion mr:JP_高知県須崎市妙見町 ;
+    mo:SubRegion mr:JP_高知県須崎市山手町 ;
+    mo:SubRegion mr:JP_高知県須崎市横町 ;
+a mo:GeoEntity .
+
+mr:JP_高知県須崎市吾井郷甲
+    rdfs:label "吾井郷甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市吾井郷乙
+    rdfs:label "吾井郷乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市青木町
+    rdfs:label "青木町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市赤崎町
+    rdfs:label "赤崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市安和
+    rdfs:label "安和"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市池ノ内
+    rdfs:label "池ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内出見
+    rdfs:label "浦ノ内出見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内今川内
+    rdfs:label "浦ノ内今川内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内下中山
+    rdfs:label "浦ノ内下中山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内塩間
+    rdfs:label "浦ノ内塩間"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内須ノ浦
+    rdfs:label "浦ノ内須ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内立目摺木
+    rdfs:label "浦ノ内立目摺木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内西分
+    rdfs:label "浦ノ内西分"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内灰方
+    rdfs:label "浦ノ内灰方"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内東分
+    rdfs:label "浦ノ内東分"@ja ;
+    mo:SubRegion mr:JP_高知県須崎市浦ノ内東分鳴無・坂内 ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内東分鳴無・坂内
+    rdfs:label "鳴無・坂内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浦ノ内福良
+    rdfs:label "浦ノ内福良"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市多ノ郷甲
+    rdfs:label "多ノ郷甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市多ノ郷乙
+    rdfs:label "多ノ郷乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市大間東町
+    rdfs:label "大間東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市大間西町
+    rdfs:label "大間西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市大間本町
+    rdfs:label "大間本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市押岡
+    rdfs:label "押岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市鍛冶町
+    rdfs:label "鍛冶町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市上分甲
+    rdfs:label "上分甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市上分乙
+    rdfs:label "上分乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市上分丙
+    rdfs:label "上分丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市桐間西
+    rdfs:label "桐間西"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市桐間東
+    rdfs:label "桐間東"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市桐間南
+    rdfs:label "桐間南"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市久通
+    rdfs:label "久通"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市神田
+    rdfs:label "神田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市潮田町
+    rdfs:label "潮田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市下郷
+    rdfs:label "下郷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市下分甲
+    rdfs:label "下分甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市下分乙
+    rdfs:label "下分乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市須崎
+    rdfs:label "須崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市桑田山甲
+    rdfs:label "桑田山甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市桑田山乙
+    rdfs:label "桑田山乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市土崎町
+    rdfs:label "土崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市西崎町
+    rdfs:label "西崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市西糺町
+    rdfs:label "西糺町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市西古市町
+    rdfs:label "西古市町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市野見
+    rdfs:label "野見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市東糺町
+    rdfs:label "東糺町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市東古市町
+    rdfs:label "東古市町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市南古市町
+    rdfs:label "南古市町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市妙見町
+    rdfs:label "妙見町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市山手町
+    rdfs:label "山手町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県須崎市横町
+    rdfs:label "横町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市
+    rdfs:label "宿毛市"@ja ;
+    mo:AreaCode "39208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県宿毛市池島 ;
+    mo:SubRegion mr:JP_高知県宿毛市宇須々木 ;
+    mo:SubRegion mr:JP_高知県宿毛市駅東町 ;
+    mo:SubRegion mr:JP_高知県宿毛市駅前町 ;
+    mo:SubRegion mr:JP_高知県宿毛市大島 ;
+    mo:SubRegion mr:JP_高知県宿毛市大深浦 ;
+    mo:SubRegion mr:JP_高知県宿毛市沖の島町鵜来島 ;
+    mo:SubRegion mr:JP_高知県宿毛市沖の島町弘瀬 ;
+    mo:SubRegion mr:JP_高知県宿毛市沖の島町母島 ;
+    mo:SubRegion mr:JP_高知県宿毛市押ノ川 ;
+    mo:SubRegion mr:JP_高知県宿毛市貝塚 ;
+    mo:SubRegion mr:JP_高知県宿毛市片島 ;
+    mo:SubRegion mr:JP_高知県宿毛市樺 ;
+    mo:SubRegion mr:JP_高知県宿毛市希望ヶ丘 ;
+    mo:SubRegion mr:JP_高知県宿毛市草木薮 ;
+    mo:SubRegion mr:JP_高知県宿毛市港南台 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町石原 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町伊与野 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町大海 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町小浦 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町小筑紫 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町栄喜 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町田ノ浦 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町都賀ノ川 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町内外ノ浦 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町福良 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町湊 ;
+    mo:SubRegion mr:JP_高知県宿毛市小筑紫町呼崎 ;
+    mo:SubRegion mr:JP_高知県宿毛市小深浦 ;
+    mo:SubRegion mr:JP_高知県宿毛市幸町 ;
+    mo:SubRegion mr:JP_高知県宿毛市坂ノ下 ;
+    mo:SubRegion mr:JP_高知県宿毛市さくらが丘 ;
+    mo:SubRegion mr:JP_高知県宿毛市桜町 ;
+    mo:SubRegion mr:JP_高知県宿毛市四季の丘 ;
+    mo:SubRegion mr:JP_高知県宿毛市自由ケ丘 ;
+    mo:SubRegion mr:JP_高知県宿毛市新港 ;
+    mo:SubRegion mr:JP_高知県宿毛市新田 ;
+    mo:SubRegion mr:JP_高知県宿毛市高砂 ;
+    mo:SubRegion mr:JP_高知県宿毛市中央 ;
+    mo:SubRegion mr:JP_高知県宿毛市中角 ;
+    mo:SubRegion mr:JP_高知県宿毛市長田町 ;
+    mo:SubRegion mr:JP_高知県宿毛市西片島 ;
+    mo:SubRegion mr:JP_高知県宿毛市錦 ;
+    mo:SubRegion mr:JP_高知県宿毛市西町 ;
+    mo:SubRegion mr:JP_高知県宿毛市二ノ宮 ;
+    mo:SubRegion mr:JP_高知県宿毛市野地 ;
+    mo:SubRegion mr:JP_高知県宿毛市萩原 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町出井 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町奥奈路 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町神有 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町京法 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町楠山 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町還住薮 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町坂本 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町橋上 ;
+    mo:SubRegion mr:JP_高知県宿毛市橋上町平野 ;
+    mo:SubRegion mr:JP_高知県宿毛市平田町黒川 ;
+    mo:SubRegion mr:JP_高知県宿毛市平田町中山 ;
+    mo:SubRegion mr:JP_高知県宿毛市平田町東平 ;
+    mo:SubRegion mr:JP_高知県宿毛市平田町戸内 ;
+    mo:SubRegion mr:JP_高知県宿毛市松田町 ;
+    mo:SubRegion mr:JP_高知県宿毛市南沖須賀 ;
+    mo:SubRegion mr:JP_高知県宿毛市藻津 ;
+    mo:SubRegion mr:JP_高知県宿毛市山北 ;
+    mo:SubRegion mr:JP_高知県宿毛市山奈町山田 ;
+    mo:SubRegion mr:JP_高知県宿毛市山奈町芳奈 ;
+    mo:SubRegion mr:JP_高知県宿毛市与市明 ;
+    mo:SubRegion mr:JP_高知県宿毛市和田 ;
+a mo:GeoEntity .
+
+mr:JP_高知県宿毛市池島
+    rdfs:label "池島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市宇須々木
+    rdfs:label "宇須々木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市駅東町
+    rdfs:label "駅東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市駅前町
+    rdfs:label "駅前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市大深浦
+    rdfs:label "大深浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市沖の島町鵜来島
+    rdfs:label "沖の島町鵜来島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市沖の島町弘瀬
+    rdfs:label "沖の島町弘瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市沖の島町母島
+    rdfs:label "沖の島町母島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市押ノ川
+    rdfs:label "押ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市貝塚
+    rdfs:label "貝塚"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市片島
+    rdfs:label "片島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市樺
+    rdfs:label "樺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市希望ヶ丘
+    rdfs:label "希望ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市草木薮
+    rdfs:label "草木薮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市港南台
+    rdfs:label "港南台"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町石原
+    rdfs:label "小筑紫町石原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町伊与野
+    rdfs:label "小筑紫町伊与野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町大海
+    rdfs:label "小筑紫町大海"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町小浦
+    rdfs:label "小筑紫町小浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町小筑紫
+    rdfs:label "小筑紫町小筑紫"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町栄喜
+    rdfs:label "小筑紫町栄喜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町田ノ浦
+    rdfs:label "小筑紫町田ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町都賀ノ川
+    rdfs:label "小筑紫町都賀ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町内外ノ浦
+    rdfs:label "小筑紫町内外ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町福良
+    rdfs:label "小筑紫町福良"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町湊
+    rdfs:label "小筑紫町湊"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小筑紫町呼崎
+    rdfs:label "小筑紫町呼崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市小深浦
+    rdfs:label "小深浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市坂ノ下
+    rdfs:label "坂ノ下"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市さくらが丘
+    rdfs:label "さくらが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市四季の丘
+    rdfs:label "四季の丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市自由ケ丘
+    rdfs:label "自由ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市新港
+    rdfs:label "新港"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市高砂
+    rdfs:label "高砂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市中角
+    rdfs:label "中角"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市長田町
+    rdfs:label "長田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市西片島
+    rdfs:label "西片島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市錦
+    rdfs:label "錦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市二ノ宮
+    rdfs:label "二ノ宮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市野地
+    rdfs:label "野地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市萩原
+    rdfs:label "萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町出井
+    rdfs:label "橋上町出井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町奥奈路
+    rdfs:label "橋上町奥奈路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町神有
+    rdfs:label "橋上町神有"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町京法
+    rdfs:label "橋上町京法"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町楠山
+    rdfs:label "橋上町楠山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町還住薮
+    rdfs:label "橋上町還住薮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町坂本
+    rdfs:label "橋上町坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町橋上
+    rdfs:label "橋上町橋上"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市橋上町平野
+    rdfs:label "橋上町平野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市平田町黒川
+    rdfs:label "平田町黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市平田町中山
+    rdfs:label "平田町中山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市平田町東平
+    rdfs:label "平田町東平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市平田町戸内
+    rdfs:label "平田町戸内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市松田町
+    rdfs:label "松田町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市南沖須賀
+    rdfs:label "南沖須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市藻津
+    rdfs:label "藻津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市山北
+    rdfs:label "山北"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市山奈町山田
+    rdfs:label "山奈町山田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市山奈町芳奈
+    rdfs:label "山奈町芳奈"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市与市明
+    rdfs:label "与市明"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県宿毛市和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市
+    rdfs:label "土佐清水市"@ja ;
+    mo:AreaCode "39209" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県土佐清水市旭町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市足摺岬 ;
+    mo:SubRegion mr:JP_高知県土佐清水市有永 ;
+    mo:SubRegion mr:JP_高知県土佐清水市市場町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市以布利 ;
+    mo:SubRegion mr:JP_高知県土佐清水市上野 ;
+    mo:SubRegion mr:JP_高知県土佐清水市浦尻 ;
+    mo:SubRegion mr:JP_高知県土佐清水市越前町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市戎町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市大岐 ;
+    mo:SubRegion mr:JP_高知県土佐清水市大谷 ;
+    mo:SubRegion mr:JP_高知県土佐清水市大津 ;
+    mo:SubRegion mr:JP_高知県土佐清水市大浜 ;
+    mo:SubRegion mr:JP_高知県土佐清水市斧積 ;
+    mo:SubRegion mr:JP_高知県土佐清水市鍵掛 ;
+    mo:SubRegion mr:JP_高知県土佐清水市貝ノ川 ;
+    mo:SubRegion mr:JP_高知県土佐清水市加久見入沢町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市加久見新町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市加久見 ;
+    mo:SubRegion mr:JP_高知県土佐清水市片粕 ;
+    mo:SubRegion mr:JP_高知県土佐清水市窪津 ;
+    mo:SubRegion mr:JP_高知県土佐清水市久百々 ;
+    mo:SubRegion mr:JP_高知県土佐清水市グリーンハイツ ;
+    mo:SubRegion mr:JP_高知県土佐清水市厚生町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市小江町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市寿町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市幸町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市栄町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市汐見町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市清水 ;
+    mo:SubRegion mr:JP_高知県土佐清水市清水ヶ丘 ;
+    mo:SubRegion mr:JP_高知県土佐清水市下川口 ;
+    mo:SubRegion mr:JP_高知県土佐清水市下ノ加江 ;
+    mo:SubRegion mr:JP_高知県土佐清水市下益野 ;
+    mo:SubRegion mr:JP_高知県土佐清水市宗呂甲 ;
+    mo:SubRegion mr:JP_高知県土佐清水市宗呂乙 ;
+    mo:SubRegion mr:JP_高知県土佐清水市宗呂丙 ;
+    mo:SubRegion mr:JP_高知県土佐清水市竜串 ;
+    mo:SubRegion mr:JP_高知県土佐清水市立石 ;
+    mo:SubRegion mr:JP_高知県土佐清水市中央町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市爪白 ;
+    mo:SubRegion mr:JP_高知県土佐清水市津呂 ;
+    mo:SubRegion mr:JP_高知県土佐清水市天神町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市中浜 ;
+    mo:SubRegion mr:JP_高知県土佐清水市西町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市布 ;
+    mo:SubRegion mr:JP_高知県土佐清水市浜町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市本町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市松尾 ;
+    mo:SubRegion mr:JP_高知県土佐清水市三崎 ;
+    mo:SubRegion mr:JP_高知県土佐清水市三崎浦 ;
+    mo:SubRegion mr:JP_高知県土佐清水市緑ケ丘 ;
+    mo:SubRegion mr:JP_高知県土佐清水市元町 ;
+    mo:SubRegion mr:JP_高知県土佐清水市養老 ;
+    mo:SubRegion mr:JP_高知県土佐清水市横道 ;
+a mo:GeoEntity .
+
+mr:JP_高知県土佐清水市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市足摺岬
+    rdfs:label "足摺岬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市有永
+    rdfs:label "有永"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市市場町
+    rdfs:label "市場町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市以布利
+    rdfs:label "以布利"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市浦尻
+    rdfs:label "浦尻"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市越前町
+    rdfs:label "越前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市戎町
+    rdfs:label "戎町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市大岐
+    rdfs:label "大岐"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市大津
+    rdfs:label "大津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市大浜
+    rdfs:label "大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市斧積
+    rdfs:label "斧積"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市鍵掛
+    rdfs:label "鍵掛"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市貝ノ川
+    rdfs:label "貝ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市加久見入沢町
+    rdfs:label "加久見入沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市加久見新町
+    rdfs:label "加久見新町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市加久見
+    rdfs:label "加久見"@ja ;
+    mo:SubRegion mr:JP_高知県土佐清水市加久見松崎 ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市加久見松崎
+    rdfs:label "松崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市片粕
+    rdfs:label "片粕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市窪津
+    rdfs:label "窪津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市久百々
+    rdfs:label "久百々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市グリーンハイツ
+    rdfs:label "グリーンハイツ"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市厚生町
+    rdfs:label "厚生町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市小江町
+    rdfs:label "小江町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市汐見町
+    rdfs:label "汐見町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市清水ヶ丘
+    rdfs:label "清水ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市下川口
+    rdfs:label "下川口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市下ノ加江
+    rdfs:label "下ノ加江"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市下益野
+    rdfs:label "下益野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市宗呂甲
+    rdfs:label "宗呂甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市宗呂乙
+    rdfs:label "宗呂乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市宗呂丙
+    rdfs:label "宗呂丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市竜串
+    rdfs:label "竜串"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市立石
+    rdfs:label "立石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市爪白
+    rdfs:label "爪白"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市津呂
+    rdfs:label "津呂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市中浜
+    rdfs:label "中浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市布
+    rdfs:label "布"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市松尾
+    rdfs:label "松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市三崎
+    rdfs:label "三崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市三崎浦
+    rdfs:label "三崎浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市養老
+    rdfs:label "養老"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐清水市横道
+    rdfs:label "横道"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市
+    rdfs:label "四万十市"@ja ;
+    mo:AreaCode "39210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県四万十市秋田 ;
+    mo:SubRegion mr:JP_高知県四万十市赤松町 ;
+    mo:SubRegion mr:JP_高知県四万十市麻生 ;
+    mo:SubRegion mr:JP_高知県四万十市荒川 ;
+    mo:SubRegion mr:JP_高知県四万十市有岡 ;
+    mo:SubRegion mr:JP_高知県四万十市伊才原 ;
+    mo:SubRegion mr:JP_高知県四万十市井沢 ;
+    mo:SubRegion mr:JP_高知県四万十市磯ノ川 ;
+    mo:SubRegion mr:JP_高知県四万十市板ノ川 ;
+    mo:SubRegion mr:JP_高知県四万十市岩田 ;
+    mo:SubRegion mr:JP_高知県四万十市鵜ノ江 ;
+    mo:SubRegion mr:JP_高知県四万十市右山 ;
+    mo:SubRegion mr:JP_高知県四万十市右山五月町 ;
+    mo:SubRegion mr:JP_高知県四万十市右山天神町 ;
+    mo:SubRegion mr:JP_高知県四万十市右山元町 ;
+    mo:SubRegion mr:JP_高知県四万十市駅前町 ;
+    mo:SubRegion mr:JP_高知県四万十市江ノ村 ;
+    mo:SubRegion mr:JP_高知県四万十市生ノ川 ;
+    mo:SubRegion mr:JP_高知県四万十市大西ノ川 ;
+    mo:SubRegion mr:JP_高知県四万十市大屋敷 ;
+    mo:SubRegion mr:JP_高知県四万十市大用 ;
+    mo:SubRegion mr:JP_高知県四万十市奥鴨川 ;
+    mo:SubRegion mr:JP_高知県四万十市片魚 ;
+    mo:SubRegion mr:JP_高知県四万十市勝間 ;
+    mo:SubRegion mr:JP_高知県四万十市上ノ土居 ;
+    mo:SubRegion mr:JP_高知県四万十市川登 ;
+    mo:SubRegion mr:JP_高知県四万十市九樹 ;
+    mo:SubRegion mr:JP_高知県四万十市楠 ;
+    mo:SubRegion mr:JP_高知県四万十市楠島 ;
+    mo:SubRegion mr:JP_高知県四万十市口鴨川 ;
+    mo:SubRegion mr:JP_高知県四万十市具同 ;
+    mo:SubRegion mr:JP_高知県四万十市具同田黒 ;
+    mo:SubRegion mr:JP_高知県四万十市国見 ;
+    mo:SubRegion mr:JP_高知県四万十市久保川 ;
+    mo:SubRegion mr:JP_高知県四万十市古津賀 ;
+    mo:SubRegion mr:JP_高知県四万十市小西ノ川 ;
+    mo:SubRegion mr:JP_高知県四万十市古尾 ;
+    mo:SubRegion mr:JP_高知県四万十市佐岡 ;
+    mo:SubRegion mr:JP_高知県四万十市坂本 ;
+    mo:SubRegion mr:JP_高知県四万十市佐田 ;
+    mo:SubRegion mr:JP_高知県四万十市実崎 ;
+    mo:SubRegion mr:JP_高知県四万十市敷地 ;
+    mo:SubRegion mr:JP_高知県四万十市下田 ;
+    mo:SubRegion mr:JP_高知県四万十市住次郎 ;
+    mo:SubRegion mr:JP_高知県四万十市常六 ;
+    mo:SubRegion mr:JP_高知県四万十市高瀬 ;
+    mo:SubRegion mr:JP_高知県四万十市竹島 ;
+    mo:SubRegion mr:JP_高知県四万十市竹屋敷 ;
+    mo:SubRegion mr:JP_高知県四万十市田出ノ川 ;
+    mo:SubRegion mr:JP_高知県四万十市田野川 ;
+    mo:SubRegion mr:JP_高知県四万十市手洗川 ;
+    mo:SubRegion mr:JP_高知県四万十市津蔵渕 ;
+    mo:SubRegion mr:JP_高知県四万十市角崎 ;
+    mo:SubRegion mr:JP_高知県四万十市利岡 ;
+    mo:SubRegion mr:JP_高知県四万十市中村愛宕町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村一条通 ;
+    mo:SubRegion mr:JP_高知県四万十市中村岩崎町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村大橋通 ;
+    mo:SubRegion mr:JP_高知県四万十市中村於東町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村上小姓町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村京町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村小姓町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村栄町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村桜町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村四万十町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村新町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村天神橋 ;
+    mo:SubRegion mr:JP_高知県四万十市中村百笑町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村羽生小路 ;
+    mo:SubRegion mr:JP_高知県四万十市中村東下町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村東町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村本町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村丸の内 ;
+    mo:SubRegion mr:JP_高知県四万十市中村山手通 ;
+    mo:SubRegion mr:JP_高知県四万十市中村弥生町 ;
+    mo:SubRegion mr:JP_高知県四万十市中村 ;
+    mo:SubRegion mr:JP_高知県四万十市名鹿 ;
+    mo:SubRegion mr:JP_高知県四万十市鍋島 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐岩間 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐江川 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐江川崎 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐大宮 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐奥屋内 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐茅生 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐玖木 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐口屋内 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐下家地 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐須崎 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐橘 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐津賀 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐津野川 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐中家地 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐長生 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐中半 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐西ケ方 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐半家 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐藤ノ川 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐用井 ;
+    mo:SubRegion mr:JP_高知県四万十市西土佐薮ケ市 ;
+    mo:SubRegion mr:JP_高知県四万十市入田 ;
+    mo:SubRegion mr:JP_高知県四万十市初崎 ;
+    mo:SubRegion mr:JP_高知県四万十市平野 ;
+    mo:SubRegion mr:JP_高知県四万十市深木 ;
+    mo:SubRegion mr:JP_高知県四万十市藤 ;
+    mo:SubRegion mr:JP_高知県四万十市双海 ;
+    mo:SubRegion mr:JP_高知県四万十市不破 ;
+    mo:SubRegion mr:JP_高知県四万十市不破上町 ;
+    mo:SubRegion mr:JP_高知県四万十市間崎 ;
+    mo:SubRegion mr:JP_高知県四万十市三里 ;
+    mo:SubRegion mr:JP_高知県四万十市三ツ又 ;
+    mo:SubRegion mr:JP_高知県四万十市森沢 ;
+    mo:SubRegion mr:JP_高知県四万十市安並 ;
+    mo:SubRegion mr:JP_高知県四万十市山路 ;
+    mo:SubRegion mr:JP_高知県四万十市横瀬 ;
+    mo:SubRegion mr:JP_高知県四万十市若藤 ;
+    mo:SubRegion mr:JP_高知県四万十市渡川 ;
+    mo:SubRegion mr:JP_高知県四万十市蕨岡乙 ;
+    mo:SubRegion mr:JP_高知県四万十市蕨岡甲 ;
+a mo:GeoEntity .
+
+mr:JP_高知県四万十市秋田
+    rdfs:label "秋田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市赤松町
+    rdfs:label "赤松町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市麻生
+    rdfs:label "麻生"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市荒川
+    rdfs:label "荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市有岡
+    rdfs:label "有岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市伊才原
+    rdfs:label "伊才原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市井沢
+    rdfs:label "井沢"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市磯ノ川
+    rdfs:label "磯ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市板ノ川
+    rdfs:label "板ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市岩田
+    rdfs:label "岩田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市鵜ノ江
+    rdfs:label "鵜ノ江"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市右山
+    rdfs:label "右山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市右山五月町
+    rdfs:label "右山五月町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市右山天神町
+    rdfs:label "右山天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市右山元町
+    rdfs:label "右山元町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市駅前町
+    rdfs:label "駅前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市江ノ村
+    rdfs:label "江ノ村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市生ノ川
+    rdfs:label "生ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市大西ノ川
+    rdfs:label "大西ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市大屋敷
+    rdfs:label "大屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市大用
+    rdfs:label "大用"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市奥鴨川
+    rdfs:label "奥鴨川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市片魚
+    rdfs:label "片魚"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市勝間
+    rdfs:label "勝間"@ja ;
+    mo:SubRegion mr:JP_高知県四万十市勝間勝間川 ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市勝間勝間川
+    rdfs:label "勝間川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市上ノ土居
+    rdfs:label "上ノ土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市川登
+    rdfs:label "川登"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市九樹
+    rdfs:label "九樹"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市楠
+    rdfs:label "楠"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市楠島
+    rdfs:label "楠島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市口鴨川
+    rdfs:label "口鴨川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市具同
+    rdfs:label "具同"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市具同田黒
+    rdfs:label "具同田黒"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市国見
+    rdfs:label "国見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市久保川
+    rdfs:label "久保川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市古津賀
+    rdfs:label "古津賀"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市小西ノ川
+    rdfs:label "小西ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市古尾
+    rdfs:label "古尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市佐岡
+    rdfs:label "佐岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市坂本
+    rdfs:label "坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市佐田
+    rdfs:label "佐田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市実崎
+    rdfs:label "実崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市敷地
+    rdfs:label "敷地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市下田
+    rdfs:label "下田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市住次郎
+    rdfs:label "住次郎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市常六
+    rdfs:label "常六"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市高瀬
+    rdfs:label "高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市竹島
+    rdfs:label "竹島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市竹屋敷
+    rdfs:label "竹屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市田出ノ川
+    rdfs:label "田出ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市田野川
+    rdfs:label "田野川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市手洗川
+    rdfs:label "手洗川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市津蔵渕
+    rdfs:label "津蔵渕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市角崎
+    rdfs:label "角崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市利岡
+    rdfs:label "利岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村愛宕町
+    rdfs:label "中村愛宕町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村一条通
+    rdfs:label "中村一条通"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村岩崎町
+    rdfs:label "中村岩崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村大橋通
+    rdfs:label "中村大橋通"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村於東町
+    rdfs:label "中村於東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村上小姓町
+    rdfs:label "中村上小姓町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村京町
+    rdfs:label "中村京町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村小姓町
+    rdfs:label "中村小姓町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村栄町
+    rdfs:label "中村栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村桜町
+    rdfs:label "中村桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村四万十町
+    rdfs:label "中村四万十町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村新町
+    rdfs:label "中村新町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村天神橋
+    rdfs:label "中村天神橋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村百笑町
+    rdfs:label "中村百笑町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村羽生小路
+    rdfs:label "中村羽生小路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村東下町
+    rdfs:label "中村東下町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村東町
+    rdfs:label "中村東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村本町
+    rdfs:label "中村本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村丸の内
+    rdfs:label "中村丸の内"@ja ;
+    mo:SubRegion mr:JP_高知県四万十市中村丸の内丸の内ハイランド ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村丸の内丸の内ハイランド
+    rdfs:label "丸の内ハイランド"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村山手通
+    rdfs:label "中村山手通"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村弥生町
+    rdfs:label "中村弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村
+    rdfs:label "中村"@ja ;
+    mo:SubRegion mr:JP_高知県四万十市中村桂山団地 ;
+    mo:SubRegion mr:JP_高知県四万十市中村大用寺 ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村桂山団地
+    rdfs:label "桂山団地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市中村大用寺
+    rdfs:label "大用寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市名鹿
+    rdfs:label "名鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市鍋島
+    rdfs:label "鍋島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐岩間
+    rdfs:label "西土佐岩間"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐江川
+    rdfs:label "西土佐江川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐江川崎
+    rdfs:label "西土佐江川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐大宮
+    rdfs:label "西土佐大宮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐奥屋内
+    rdfs:label "西土佐奥屋内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐茅生
+    rdfs:label "西土佐茅生"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐玖木
+    rdfs:label "西土佐玖木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐口屋内
+    rdfs:label "西土佐口屋内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐下家地
+    rdfs:label "西土佐下家地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐須崎
+    rdfs:label "西土佐須崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐橘
+    rdfs:label "西土佐橘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐津賀
+    rdfs:label "西土佐津賀"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐津野川
+    rdfs:label "西土佐津野川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐中家地
+    rdfs:label "西土佐中家地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐長生
+    rdfs:label "西土佐長生"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐中半
+    rdfs:label "西土佐中半"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐西ケ方
+    rdfs:label "西土佐西ケ方"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐半家
+    rdfs:label "西土佐半家"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐藤ノ川
+    rdfs:label "西土佐藤ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐用井
+    rdfs:label "西土佐用井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市西土佐薮ケ市
+    rdfs:label "西土佐薮ケ市"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市入田
+    rdfs:label "入田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市初崎
+    rdfs:label "初崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市深木
+    rdfs:label "深木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市藤
+    rdfs:label "藤"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市双海
+    rdfs:label "双海"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市不破
+    rdfs:label "不破"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市不破上町
+    rdfs:label "不破上町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市間崎
+    rdfs:label "間崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市三里
+    rdfs:label "三里"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市三ツ又
+    rdfs:label "三ツ又"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市森沢
+    rdfs:label "森沢"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市安並
+    rdfs:label "安並"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市山路
+    rdfs:label "山路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市横瀬
+    rdfs:label "横瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市若藤
+    rdfs:label "若藤"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市渡川
+    rdfs:label "渡川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市蕨岡乙
+    rdfs:label "蕨岡乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県四万十市蕨岡甲
+    rdfs:label "蕨岡甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市
+    rdfs:label "香南市"@ja ;
+    mo:AreaCode "39211" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県香南市赤岡町 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町奥西川 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町上分 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町岸本 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町口西川 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町下分 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町末清 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町末延 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町徳王子 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町中西川 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町福万 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町別役 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町舞川 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町正延 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町撫川 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町山川 ;
+    mo:SubRegion mr:JP_高知県香南市香我美町山北 ;
+    mo:SubRegion mr:JP_高知県香南市野市町兎田 ;
+    mo:SubRegion mr:JP_高知県香南市野市町大谷 ;
+    mo:SubRegion mr:JP_高知県香南市野市町上岡 ;
+    mo:SubRegion mr:JP_高知県香南市野市町下井 ;
+    mo:SubRegion mr:JP_高知県香南市野市町新宮 ;
+    mo:SubRegion mr:JP_高知県香南市野市町土居 ;
+    mo:SubRegion mr:JP_高知県香南市野市町中ノ村 ;
+    mo:SubRegion mr:JP_高知県香南市野市町中山田 ;
+    mo:SubRegion mr:JP_高知県香南市野市町西佐古 ;
+    mo:SubRegion mr:JP_高知県香南市野市町西野 ;
+    mo:SubRegion mr:JP_高知県香南市野市町東佐古 ;
+    mo:SubRegion mr:JP_高知県香南市野市町東野 ;
+    mo:SubRegion mr:JP_高知県香南市野市町深渕 ;
+    mo:SubRegion mr:JP_高知県香南市野市町父養寺 ;
+    mo:SubRegion mr:JP_高知県香南市野市町母代寺 ;
+    mo:SubRegion mr:JP_高知県香南市野市町本村 ;
+    mo:SubRegion mr:JP_高知県香南市野市町みどり野 ;
+    mo:SubRegion mr:JP_高知県香南市野市町みどり野東 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町出口 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町上夜須 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町国光 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町沢谷 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町千切 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町坪井 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町手結 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町手結山 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町十ノ木 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町仲木屋 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町西山 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町羽尾 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町細川 ;
+    mo:SubRegion mr:JP_高知県香南市夜須町夜須川 ;
+    mo:SubRegion mr:JP_高知県香南市吉川町古川 ;
+    mo:SubRegion mr:JP_高知県香南市吉川町吉原 ;
+a mo:GeoEntity .
+
+mr:JP_高知県香南市赤岡町
+    rdfs:label "赤岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町奥西川
+    rdfs:label "香我美町奥西川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町上分
+    rdfs:label "香我美町上分"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町岸本
+    rdfs:label "香我美町岸本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町口西川
+    rdfs:label "香我美町口西川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町下分
+    rdfs:label "香我美町下分"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町末清
+    rdfs:label "香我美町末清"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町末延
+    rdfs:label "香我美町末延"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町徳王子
+    rdfs:label "香我美町徳王子"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町中西川
+    rdfs:label "香我美町中西川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町福万
+    rdfs:label "香我美町福万"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町別役
+    rdfs:label "香我美町別役"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町舞川
+    rdfs:label "香我美町舞川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町正延
+    rdfs:label "香我美町正延"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町撫川
+    rdfs:label "香我美町撫川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町山川
+    rdfs:label "香我美町山川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市香我美町山北
+    rdfs:label "香我美町山北"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町兎田
+    rdfs:label "野市町兎田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町大谷
+    rdfs:label "野市町大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町上岡
+    rdfs:label "野市町上岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町下井
+    rdfs:label "野市町下井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町新宮
+    rdfs:label "野市町新宮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町土居
+    rdfs:label "野市町土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町中ノ村
+    rdfs:label "野市町中ノ村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町中山田
+    rdfs:label "野市町中山田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町西佐古
+    rdfs:label "野市町西佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町西野
+    rdfs:label "野市町西野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町東佐古
+    rdfs:label "野市町東佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町東野
+    rdfs:label "野市町東野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町深渕
+    rdfs:label "野市町深渕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町父養寺
+    rdfs:label "野市町父養寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町母代寺
+    rdfs:label "野市町母代寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町本村
+    rdfs:label "野市町本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町みどり野
+    rdfs:label "野市町みどり野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市野市町みどり野東
+    rdfs:label "野市町みどり野東"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町出口
+    rdfs:label "夜須町出口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町上夜須
+    rdfs:label "夜須町上夜須"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町国光
+    rdfs:label "夜須町国光"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町沢谷
+    rdfs:label "夜須町沢谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町千切
+    rdfs:label "夜須町千切"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町坪井
+    rdfs:label "夜須町坪井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町手結
+    rdfs:label "夜須町手結"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町手結山
+    rdfs:label "夜須町手結山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町十ノ木
+    rdfs:label "夜須町十ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町仲木屋
+    rdfs:label "夜須町仲木屋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町西山
+    rdfs:label "夜須町西山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町羽尾
+    rdfs:label "夜須町羽尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町細川
+    rdfs:label "夜須町細川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市夜須町夜須川
+    rdfs:label "夜須町夜須川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市吉川町古川
+    rdfs:label "吉川町古川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香南市吉川町吉原
+    rdfs:label "吉川町吉原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市
+    rdfs:label "香美市"@ja ;
+    mo:AreaCode "39212" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県香美市香北町有川 ;
+    mo:SubRegion mr:JP_高知県香美市香北町有瀬 ;
+    mo:SubRegion mr:JP_高知県香美市香北町五百蔵 ;
+    mo:SubRegion mr:JP_高知県香美市香北町猪野々 ;
+    mo:SubRegion mr:JP_高知県香美市香北町岩改 ;
+    mo:SubRegion mr:JP_高知県香美市香北町梅久保 ;
+    mo:SubRegion mr:JP_高知県香美市香北町大井平 ;
+    mo:SubRegion mr:JP_高知県香美市香北町大束 ;
+    mo:SubRegion mr:JP_高知県香美市香北町小川 ;
+    mo:SubRegion mr:JP_高知県香美市香北町川ノ内 ;
+    mo:SubRegion mr:JP_高知県香美市香北町河野 ;
+    mo:SubRegion mr:JP_高知県香美市香北町下野尻 ;
+    mo:SubRegion mr:JP_高知県香美市香北町白石 ;
+    mo:SubRegion mr:JP_高知県香美市香北町白川 ;
+    mo:SubRegion mr:JP_高知県香美市香北町清爪 ;
+    mo:SubRegion mr:JP_高知県香美市香北町谷相 ;
+    mo:SubRegion mr:JP_高知県香美市香北町太郎丸 ;
+    mo:SubRegion mr:JP_高知県香美市香北町永瀬 ;
+    mo:SubRegion mr:JP_高知県香美市香北町中谷 ;
+    mo:SubRegion mr:JP_高知県香美市香北町永野 ;
+    mo:SubRegion mr:JP_高知県香美市香北町西川甲 ;
+    mo:SubRegion mr:JP_高知県香美市香北町西川乙 ;
+    mo:SubRegion mr:JP_高知県香美市香北町西峯 ;
+    mo:SubRegion mr:JP_高知県香美市香北町韮生野 ;
+    mo:SubRegion mr:JP_高知県香美市香北町根須 ;
+    mo:SubRegion mr:JP_高知県香美市香北町萩野 ;
+    mo:SubRegion mr:JP_高知県香美市香北町橋川野 ;
+    mo:SubRegion mr:JP_高知県香美市香北町日浦込 ;
+    mo:SubRegion mr:JP_高知県香美市香北町日ノ御子 ;
+    mo:SubRegion mr:JP_高知県香美市香北町日比原 ;
+    mo:SubRegion mr:JP_高知県香美市香北町美良布 ;
+    mo:SubRegion mr:JP_高知県香美市香北町朴ノ木 ;
+    mo:SubRegion mr:JP_高知県香美市香北町横谷 ;
+    mo:SubRegion mr:JP_高知県香美市香北町吉野 ;
+    mo:SubRegion mr:JP_高知県香美市香北町蕨野 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町旭町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町有谷 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町神母ノ木 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町入野 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町岩積 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町岩次 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町植 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町大後入 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町大平 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町小田島 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町角茂谷 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町影山 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町樫谷 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町上穴内 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町上改田 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町加茂 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町北滝本 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町京田 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町楠目 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町栄町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町逆川 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町佐古薮 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町佐竹 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町佐野 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町繁藤 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町下ノ村 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町新改 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町秦山町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町神通寺 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町杉田 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町須江 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町曽我部川 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町大法寺 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町宝町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町テクノパーク ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町戸板島 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町中後入 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町中野 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町西後入 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町西本町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町西又 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町間 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町林田 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町東川 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町東本町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町久次 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町百石町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町平山 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町船谷 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町本村 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町町田 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町松本 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町宮ノ口 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町宮前町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町山田 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町山田島 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町 ;
+    mo:SubRegion mr:JP_高知県香美市物部町市宇 ;
+    mo:SubRegion mr:JP_高知県香美市物部町大栃 ;
+    mo:SubRegion mr:JP_高知県香美市物部町大西 ;
+    mo:SubRegion mr:JP_高知県香美市物部町岡ノ内 ;
+    mo:SubRegion mr:JP_高知県香美市物部町押谷 ;
+    mo:SubRegion mr:JP_高知県香美市物部町楮佐古 ;
+    mo:SubRegion mr:JP_高知県香美市物部町神池 ;
+    mo:SubRegion mr:JP_高知県香美市物部町久保 ;
+    mo:SubRegion mr:JP_高知県香美市物部町黒代 ;
+    mo:SubRegion mr:JP_高知県香美市物部町五王堂 ;
+    mo:SubRegion mr:JP_高知県香美市物部町小浜 ;
+    mo:SubRegion mr:JP_高知県香美市物部町笹 ;
+    mo:SubRegion mr:JP_高知県香美市物部町庄谷相 ;
+    mo:SubRegion mr:JP_高知県香美市物部町仙頭 ;
+    mo:SubRegion mr:JP_高知県香美市物部町拓 ;
+    mo:SubRegion mr:JP_高知県香美市物部町頓定 ;
+    mo:SubRegion mr:JP_高知県香美市物部町中上 ;
+    mo:SubRegion mr:JP_高知県香美市物部町中谷川 ;
+    mo:SubRegion mr:JP_高知県香美市物部町中津尾 ;
+    mo:SubRegion mr:JP_高知県香美市物部町根木屋 ;
+    mo:SubRegion mr:JP_高知県香美市物部町別役 ;
+    mo:SubRegion mr:JP_高知県香美市物部町別府 ;
+    mo:SubRegion mr:JP_高知県香美市物部町舞川 ;
+    mo:SubRegion mr:JP_高知県香美市物部町南池 ;
+    mo:SubRegion mr:JP_高知県香美市物部町安丸 ;
+    mo:SubRegion mr:JP_高知県香美市物部町柳瀬 ;
+    mo:SubRegion mr:JP_高知県香美市物部町山崎 ;
+a mo:GeoEntity .
+
+mr:JP_高知県香美市香北町有川
+    rdfs:label "香北町有川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町有瀬
+    rdfs:label "香北町有瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町五百蔵
+    rdfs:label "香北町五百蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町猪野々
+    rdfs:label "香北町猪野々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町岩改
+    rdfs:label "香北町岩改"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町梅久保
+    rdfs:label "香北町梅久保"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町大井平
+    rdfs:label "香北町大井平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町大束
+    rdfs:label "香北町大束"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町小川
+    rdfs:label "香北町小川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町川ノ内
+    rdfs:label "香北町川ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町河野
+    rdfs:label "香北町河野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町下野尻
+    rdfs:label "香北町下野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町白石
+    rdfs:label "香北町白石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町白川
+    rdfs:label "香北町白川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町清爪
+    rdfs:label "香北町清爪"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町谷相
+    rdfs:label "香北町谷相"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町太郎丸
+    rdfs:label "香北町太郎丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町永瀬
+    rdfs:label "香北町永瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町中谷
+    rdfs:label "香北町中谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町永野
+    rdfs:label "香北町永野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町西川甲
+    rdfs:label "香北町西川甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町西川乙
+    rdfs:label "香北町西川乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町西峯
+    rdfs:label "香北町西峯"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町韮生野
+    rdfs:label "香北町韮生野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町根須
+    rdfs:label "香北町根須"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町萩野
+    rdfs:label "香北町萩野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町橋川野
+    rdfs:label "香北町橋川野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町日浦込
+    rdfs:label "香北町日浦込"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町日ノ御子
+    rdfs:label "香北町日ノ御子"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町日比原
+    rdfs:label "香北町日比原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町美良布
+    rdfs:label "香北町美良布"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町朴ノ木
+    rdfs:label "香北町朴ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町横谷
+    rdfs:label "香北町横谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町吉野
+    rdfs:label "香北町吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市香北町蕨野
+    rdfs:label "香北町蕨野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町旭町
+    rdfs:label "土佐山田町旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町有谷
+    rdfs:label "土佐山田町有谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町神母ノ木
+    rdfs:label "土佐山田町神母ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町入野
+    rdfs:label "土佐山田町入野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町岩積
+    rdfs:label "土佐山田町岩積"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町岩次
+    rdfs:label "土佐山田町岩次"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町植
+    rdfs:label "土佐山田町植"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町大後入
+    rdfs:label "土佐山田町大後入"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町大平
+    rdfs:label "土佐山田町大平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町小田島
+    rdfs:label "土佐山田町小田島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町角茂谷
+    rdfs:label "土佐山田町角茂谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町影山
+    rdfs:label "土佐山田町影山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町樫谷
+    rdfs:label "土佐山田町樫谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町上穴内
+    rdfs:label "土佐山田町上穴内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町上改田
+    rdfs:label "土佐山田町上改田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町加茂
+    rdfs:label "土佐山田町加茂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町北滝本
+    rdfs:label "土佐山田町北滝本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町京田
+    rdfs:label "土佐山田町京田"@ja ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町京田立石 ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町京田立石
+    rdfs:label "立石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町楠目
+    rdfs:label "土佐山田町楠目"@ja ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町楠目油石 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町楠目前行 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町楠目談議所 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町楠目中村 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町楠目平田 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町楠目伏原 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町楠目予岳 ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町楠目油石
+    rdfs:label "油石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町楠目前行
+    rdfs:label "前行"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町楠目談議所
+    rdfs:label "談議所"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町楠目中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町楠目平田
+    rdfs:label "平田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町楠目伏原
+    rdfs:label "伏原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町楠目予岳
+    rdfs:label "予岳"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町栄町
+    rdfs:label "土佐山田町栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町逆川
+    rdfs:label "土佐山田町逆川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町佐古薮
+    rdfs:label "土佐山田町佐古薮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町佐竹
+    rdfs:label "土佐山田町佐竹"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町佐野
+    rdfs:label "土佐山田町佐野"@ja ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町佐野仁井田 ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町佐野仁井田
+    rdfs:label "仁井田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町繁藤
+    rdfs:label "土佐山田町繁藤"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町下ノ村
+    rdfs:label "土佐山田町下ノ村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町新改
+    rdfs:label "土佐山田町新改"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町秦山町
+    rdfs:label "土佐山田町秦山町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町神通寺
+    rdfs:label "土佐山田町神通寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町杉田
+    rdfs:label "土佐山田町杉田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町須江
+    rdfs:label "土佐山田町須江"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町曽我部川
+    rdfs:label "土佐山田町曽我部川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町大法寺
+    rdfs:label "土佐山田町大法寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町宝町
+    rdfs:label "土佐山田町宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町テクノパーク
+    rdfs:label "土佐山田町テクノパーク"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町戸板島
+    rdfs:label "土佐山田町戸板島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町中後入
+    rdfs:label "土佐山田町中後入"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町中野
+    rdfs:label "土佐山田町中野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町西後入
+    rdfs:label "土佐山田町西後入"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町西本町
+    rdfs:label "土佐山田町西本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町西又
+    rdfs:label "土佐山田町西又"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町間
+    rdfs:label "土佐山田町間"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町林田
+    rdfs:label "土佐山田町林田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町東川
+    rdfs:label "土佐山田町東川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町東本町
+    rdfs:label "土佐山田町東本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町久次
+    rdfs:label "土佐山田町久次"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町百石町
+    rdfs:label "土佐山田町百石町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町平山
+    rdfs:label "土佐山田町平山"@ja ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町平山岡田丸 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町平山双子岩 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町平山向田 ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町平山岡田丸
+    rdfs:label "岡田丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町平山双子岩
+    rdfs:label "双子岩"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町平山向田
+    rdfs:label "向田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町船谷
+    rdfs:label "土佐山田町船谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町本村
+    rdfs:label "土佐山田町本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町町田
+    rdfs:label "土佐山田町町田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町松本
+    rdfs:label "土佐山田町松本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町宮ノ口
+    rdfs:label "土佐山田町宮ノ口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町宮前町
+    rdfs:label "土佐山田町宮前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町山田
+    rdfs:label "土佐山田町山田"@ja ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町山田小島 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町山田八王子 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町山田原 ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町山田小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町山田八王子
+    rdfs:label "八王子"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町山田原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町山田島
+    rdfs:label "土佐山田町山田島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町
+    rdfs:label "土佐山田町"@ja ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町北組西 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町北本町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町黒土 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町中組 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町古町 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町前山 ;
+    mo:SubRegion mr:JP_高知県香美市土佐山田町南組 ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町北組西
+    rdfs:label "北組西"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町北本町
+    rdfs:label "北本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町黒土
+    rdfs:label "黒土"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町中組
+    rdfs:label "中組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町古町
+    rdfs:label "古町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町前山
+    rdfs:label "前山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市土佐山田町南組
+    rdfs:label "南組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町市宇
+    rdfs:label "物部町市宇"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町大栃
+    rdfs:label "物部町大栃"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町大西
+    rdfs:label "物部町大西"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町岡ノ内
+    rdfs:label "物部町岡ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町押谷
+    rdfs:label "物部町押谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町楮佐古
+    rdfs:label "物部町楮佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町神池
+    rdfs:label "物部町神池"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町久保
+    rdfs:label "物部町久保"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町黒代
+    rdfs:label "物部町黒代"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町五王堂
+    rdfs:label "物部町五王堂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町小浜
+    rdfs:label "物部町小浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町笹
+    rdfs:label "物部町笹"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町庄谷相
+    rdfs:label "物部町庄谷相"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町仙頭
+    rdfs:label "物部町仙頭"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町拓
+    rdfs:label "物部町拓"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町頓定
+    rdfs:label "物部町頓定"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町中上
+    rdfs:label "物部町中上"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町中谷川
+    rdfs:label "物部町中谷川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町中津尾
+    rdfs:label "物部町中津尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町根木屋
+    rdfs:label "物部町根木屋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町別役
+    rdfs:label "物部町別役"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町別府
+    rdfs:label "物部町別府"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町舞川
+    rdfs:label "物部町舞川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町南池
+    rdfs:label "物部町南池"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町安丸
+    rdfs:label "物部町安丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町柳瀬
+    rdfs:label "物部町柳瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町山崎
+    rdfs:label "物部町山崎"@ja ;
+    mo:SubRegion mr:JP_高知県香美市物部町山崎桑ノ川 ;
+    a mo:町域 .
+
+mr:JP_高知県香美市物部町山崎桑ノ川
+    rdfs:label "桑ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡東洋町
+    rdfs:label "安芸郡東洋町"@ja ;
+    mo:AreaCode "39301" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町生見 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町河内 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町甲浦 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町白浜 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町野根甲 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町野根乙 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町野根丙 ;
+    mo:SubRegion mr:JP_高知県安芸郡東洋町野根丁 ;
+a mo:GeoEntity .
+
+mr:JP_高知県安芸郡東洋町生見
+    rdfs:label "生見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡東洋町河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡東洋町甲浦
+    rdfs:label "甲浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡東洋町白浜
+    rdfs:label "白浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡東洋町野根甲
+    rdfs:label "野根甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡東洋町野根乙
+    rdfs:label "野根乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡東洋町野根丙
+    rdfs:label "野根丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡東洋町野根丁
+    rdfs:label "野根丁"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡奈半利町
+    rdfs:label "安芸郡奈半利町"@ja ;
+    mo:AreaCode "39302" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県安芸郡奈半利町甲 ;
+    mo:SubRegion mr:JP_高知県安芸郡奈半利町乙 ;
+    mo:SubRegion mr:JP_高知県安芸郡奈半利町丙 ;
+a mo:GeoEntity .
+
+mr:JP_高知県安芸郡奈半利町甲
+    rdfs:label "甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡奈半利町乙
+    rdfs:label "乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡奈半利町丙
+    rdfs:label "丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡田野町
+    rdfs:label "安芸郡田野町"@ja ;
+    mo:AreaCode "39303" ;
+    a mo:町_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_高知県安芸郡安田町
+    rdfs:label "安芸郡安田町"@ja ;
+    mo:AreaCode "39304" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町小川 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町瀬切 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町隆見 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町唐浜 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町内京坊 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町中里 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町中ノ川 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町西島 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町西ノ川 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町東島 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町日々入 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町船倉 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町別所 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町間下 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町正弘 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町安田 ;
+    mo:SubRegion mr:JP_高知県安芸郡安田町与床 ;
+a mo:GeoEntity .
+
+mr:JP_高知県安芸郡安田町小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町瀬切
+    rdfs:label "瀬切"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町隆見
+    rdfs:label "隆見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町唐浜
+    rdfs:label "唐浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町内京坊
+    rdfs:label "内京坊"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町中里
+    rdfs:label "中里"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町中ノ川
+    rdfs:label "中ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町西島
+    rdfs:label "西島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町西ノ川
+    rdfs:label "西ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町東島
+    rdfs:label "東島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町日々入
+    rdfs:label "日々入"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町船倉
+    rdfs:label "船倉"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町別所
+    rdfs:label "別所"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町間下
+    rdfs:label "間下"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町正弘
+    rdfs:label "正弘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町安田
+    rdfs:label "安田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡安田町与床
+    rdfs:label "与床"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村
+    rdfs:label "安芸郡北川村"@ja ;
+    mo:AreaCode "39305" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村安倉 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村柏木 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村加茂 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村久江ノ上 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村久木 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村小島 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村木積 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村島 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村菅ノ上 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村宗ノ上 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村竹屋敷 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村長山 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村西谷 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村野川 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村野友甲 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村野友乙 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村平鍋 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村弘瀬 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村二タ又 ;
+    mo:SubRegion mr:JP_高知県安芸郡北川村和田 ;
+a mo:GeoEntity .
+
+mr:JP_高知県安芸郡北川村安倉
+    rdfs:label "安倉"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村柏木
+    rdfs:label "柏木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村加茂
+    rdfs:label "加茂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村久江ノ上
+    rdfs:label "久江ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村久木
+    rdfs:label "久木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村木積
+    rdfs:label "木積"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村島
+    rdfs:label "島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村菅ノ上
+    rdfs:label "菅ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村宗ノ上
+    rdfs:label "宗ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村竹屋敷
+    rdfs:label "竹屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村長山
+    rdfs:label "長山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村西谷
+    rdfs:label "西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村野川
+    rdfs:label "野川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村野友甲
+    rdfs:label "野友甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村野友乙
+    rdfs:label "野友乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村平鍋
+    rdfs:label "平鍋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村弘瀬
+    rdfs:label "弘瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村二タ又
+    rdfs:label "二タ又"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡北川村和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡馬路村
+    rdfs:label "安芸郡馬路村"@ja ;
+    mo:AreaCode "39306" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県安芸郡馬路村馬路 ;
+    mo:SubRegion mr:JP_高知県安芸郡馬路村魚梁瀬 ;
+a mo:GeoEntity .
+
+mr:JP_高知県安芸郡馬路村馬路
+    rdfs:label "馬路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡馬路村魚梁瀬
+    rdfs:label "魚梁瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡芸西村
+    rdfs:label "安芸郡芸西村"@ja ;
+    mo:AreaCode "39307" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村馬ノ上 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村久重 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村国光 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村道家 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村西分甲 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村西分乙 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村和食甲 ;
+    mo:SubRegion mr:JP_高知県安芸郡芸西村和食乙 ;
+a mo:GeoEntity .
+
+mr:JP_高知県安芸郡芸西村馬ノ上
+    rdfs:label "馬ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡芸西村久重
+    rdfs:label "久重"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡芸西村国光
+    rdfs:label "国光"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡芸西村道家
+    rdfs:label "道家"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡芸西村西分甲
+    rdfs:label "西分甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡芸西村西分乙
+    rdfs:label "西分乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡芸西村和食甲
+    rdfs:label "和食甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県安芸郡芸西村和食乙
+    rdfs:label "和食乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町
+    rdfs:label "長岡郡本山町"@ja ;
+    mo:AreaCode "39341" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町井窪 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町瓜生野 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町大石 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町上関甲 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町上関乙 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町北山甲 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町北山乙 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町北山丙 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町木能津 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町坂本 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町寺家 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町下関 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町下津野 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町助藤 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町沢ケ内 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町高角 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町立野 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町七戸 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町古田 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町本山 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町屋所 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町吉野 ;
+    mo:SubRegion mr:JP_高知県長岡郡本山町吉延 ;
+a mo:GeoEntity .
+
+mr:JP_高知県長岡郡本山町井窪
+    rdfs:label "井窪"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町瓜生野
+    rdfs:label "瓜生野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町大石
+    rdfs:label "大石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町上関甲
+    rdfs:label "上関甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町上関乙
+    rdfs:label "上関乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町北山甲
+    rdfs:label "北山甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町北山乙
+    rdfs:label "北山乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町北山丙
+    rdfs:label "北山丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町木能津
+    rdfs:label "木能津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町坂本
+    rdfs:label "坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町寺家
+    rdfs:label "寺家"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町下関
+    rdfs:label "下関"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町下津野
+    rdfs:label "下津野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町助藤
+    rdfs:label "助藤"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町沢ケ内
+    rdfs:label "沢ケ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町高角
+    rdfs:label "高角"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町立野
+    rdfs:label "立野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町七戸
+    rdfs:label "七戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町古田
+    rdfs:label "古田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町本山
+    rdfs:label "本山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町屋所
+    rdfs:label "屋所"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町吉野
+    rdfs:label "吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡本山町吉延
+    rdfs:label "吉延"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町
+    rdfs:label "長岡郡大豊町"@ja ;
+    mo:AreaCode "39344" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町粟生 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町穴内 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町庵谷 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町筏木 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町磯谷 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町岩原 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町馬瀬 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町尾生 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町大久保 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町大砂子 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町大平 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町大滝 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町小川 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町奥大田 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町角茂谷 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町梶ケ内 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町葛原 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町上東 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町川井 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町川口 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町川口南 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町川戸 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町北川 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町久寿軒 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町黒石 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町佐賀山 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町式岩 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町杉 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町高須 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町立川上名 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町立川下名 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町立野 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町谷 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町津家 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町連火 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町寺内 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町戸手野 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町中内 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町中村大王 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町中屋 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町永淵 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町西川 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町西久保 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町西土居 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町西峰 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町怒田 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町日浦 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町東土居 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町船戸 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町南大王 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町桃原 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町八川 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町安野々 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町柳野 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町柚木 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町八畝 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町和田 ;
+a mo:GeoEntity .
+
+mr:JP_高知県長岡郡大豊町粟生
+    rdfs:label "粟生"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町穴内
+    rdfs:label "穴内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町庵谷
+    rdfs:label "庵谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町筏木
+    rdfs:label "筏木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町磯谷
+    rdfs:label "磯谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町岩原
+    rdfs:label "岩原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町馬瀬
+    rdfs:label "馬瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町尾生
+    rdfs:label "尾生"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町大砂子
+    rdfs:label "大砂子"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町大平
+    rdfs:label "大平"@ja ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町大平高原 ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町大平高原
+    rdfs:label "高原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町大滝
+    rdfs:label "大滝"@ja ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町大滝落合 ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町大滝落合
+    rdfs:label "落合"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町奥大田
+    rdfs:label "奥大田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町角茂谷
+    rdfs:label "角茂谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町梶ケ内
+    rdfs:label "梶ケ内"@ja ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町梶ケ内石堂 ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町梶ケ内佐賀井 ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町梶ケ内石堂
+    rdfs:label "石堂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町梶ケ内佐賀井
+    rdfs:label "佐賀井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町葛原
+    rdfs:label "葛原"@ja ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町葛原千野々 ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町葛原千野々
+    rdfs:label "千野々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町上東
+    rdfs:label "上東"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町川井
+    rdfs:label "川井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町川口
+    rdfs:label "川口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町川口南
+    rdfs:label "川口南"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町川戸
+    rdfs:label "川戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町北川
+    rdfs:label "北川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町久寿軒
+    rdfs:label "久寿軒"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町黒石
+    rdfs:label "黒石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町佐賀山
+    rdfs:label "佐賀山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町式岩
+    rdfs:label "式岩"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町杉
+    rdfs:label "杉"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町高須
+    rdfs:label "高須"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町立川上名
+    rdfs:label "立川上名"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町立川下名
+    rdfs:label "立川下名"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町立野
+    rdfs:label "立野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町谷
+    rdfs:label "谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町津家
+    rdfs:label "津家"@ja ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町津家桧生 ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町津家桧生
+    rdfs:label "桧生"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町連火
+    rdfs:label "連火"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町寺内
+    rdfs:label "寺内"@ja ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町寺内大田口 ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町寺内大田口
+    rdfs:label "大田口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町戸手野
+    rdfs:label "戸手野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町中内
+    rdfs:label "中内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町中村大王
+    rdfs:label "中村大王"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町中屋
+    rdfs:label "中屋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町永淵
+    rdfs:label "永淵"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町西川
+    rdfs:label "西川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町西久保
+    rdfs:label "西久保"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町西土居
+    rdfs:label "西土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町西峰
+    rdfs:label "西峰"@ja ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町西峰三谷 ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町西峰三谷
+    rdfs:label "三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町怒田
+    rdfs:label "怒田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町日浦
+    rdfs:label "日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町東土居
+    rdfs:label "東土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町船戸
+    rdfs:label "船戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町南大王
+    rdfs:label "南大王"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町桃原
+    rdfs:label "桃原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町八川
+    rdfs:label "八川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町安野々
+    rdfs:label "安野々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町柳野
+    rdfs:label "柳野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町柚木
+    rdfs:label "柚木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町八畝
+    rdfs:label "八畝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町和田
+    rdfs:label "和田"@ja ;
+    mo:SubRegion mr:JP_高知県長岡郡大豊町和田目付 ;
+    a mo:町域 .
+
+mr:JP_高知県長岡郡大豊町和田目付
+    rdfs:label "目付"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町
+    rdfs:label "土佐郡土佐町"@ja ;
+    mo:AreaCode "39363" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町相川 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町芥川 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町有間 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町井尻 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町大渕 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町樫山 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町栗木 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町上津川 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町古味 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町境 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町地蔵寺 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町下川 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町瀬戸 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町田井 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町高須 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町土居 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町西石原 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町溜井 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町東石原 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町南泉 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町南川 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町宮古野 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町柚ノ木 ;
+    mo:SubRegion mr:JP_高知県土佐郡土佐町和田 ;
+a mo:GeoEntity .
+
+mr:JP_高知県土佐郡土佐町相川
+    rdfs:label "相川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町芥川
+    rdfs:label "芥川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町有間
+    rdfs:label "有間"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町井尻
+    rdfs:label "井尻"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町大渕
+    rdfs:label "大渕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町樫山
+    rdfs:label "樫山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町栗木
+    rdfs:label "栗木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町上津川
+    rdfs:label "上津川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町古味
+    rdfs:label "古味"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町境
+    rdfs:label "境"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町地蔵寺
+    rdfs:label "地蔵寺"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町下川
+    rdfs:label "下川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町瀬戸
+    rdfs:label "瀬戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町田井
+    rdfs:label "田井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町高須
+    rdfs:label "高須"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町土居
+    rdfs:label "土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町西石原
+    rdfs:label "西石原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町溜井
+    rdfs:label "溜井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町東石原
+    rdfs:label "東石原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町南泉
+    rdfs:label "南泉"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町南川
+    rdfs:label "南川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町宮古野
+    rdfs:label "宮古野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町柚ノ木
+    rdfs:label "柚ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡土佐町和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村
+    rdfs:label "土佐郡大川村"@ja ;
+    mo:AreaCode "39364" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村朝谷 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村井野川 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村大北川 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村大平 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村大薮 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村上小南川 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村川崎 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村小北川 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村小松 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村小麦畝 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村下切 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村下小南川 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村高野 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村中切 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村船戸 ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村南野山 ;
+a mo:GeoEntity .
+
+mr:JP_高知県土佐郡大川村朝谷
+    rdfs:label "朝谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村井野川
+    rdfs:label "井野川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村大北川
+    rdfs:label "大北川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村大薮
+    rdfs:label "大薮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村上小南川
+    rdfs:label "上小南川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村川崎
+    rdfs:label "川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村小北川
+    rdfs:label "小北川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村小松
+    rdfs:label "小松"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村小麦畝
+    rdfs:label "小麦畝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村下切
+    rdfs:label "下切"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村下小南川
+    rdfs:label "下小南川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村高野
+    rdfs:label "高野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村中切
+    rdfs:label "中切"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村船戸
+    rdfs:label "船戸"@ja ;
+    mo:SubRegion mr:JP_高知県土佐郡大川村船戸桃ケ谷 ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村船戸桃ケ谷
+    rdfs:label "桃ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県土佐郡大川村南野山
+    rdfs:label "南野山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町
+    rdfs:label "吾川郡いの町"@ja ;
+    mo:AreaCode "39386" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町旭町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町足谷 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町池の内 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町内野北町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町内野東町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町内野南町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町駅東町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町駅前町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町駅南町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町枝川 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町越裏門 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町大内 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町大森 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町鹿敷 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町葛原 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町加田 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町鎌田 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川甲 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川丙 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町加茂町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水上分 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水下分 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町楠瀬 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町桑瀬 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町公園町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町神谷 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町小川新別 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町小川西津賀才 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町小川東津賀才 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町小川樅ノ木山 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町小川柳野 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町小野 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町幸町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町下八川乙 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町下八川甲 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町下八川丁 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町下八川十田 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町下八川丙 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町勝賀瀬 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町新町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町大国町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町高薮 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町寺川 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町天王北 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町天王南 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町戸中 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町中追 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町長沢 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町中ノ川 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町成山 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町西町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町波川 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町八田 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町羽根町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町藤町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町槇 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町元町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町柳町 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町柳瀬石見 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町柳瀬上分 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町柳瀬本村 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町脇ノ山 ;
+a mo:GeoEntity .
+
+mr:JP_高知県吾川郡いの町旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町足谷
+    rdfs:label "足谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町池の内
+    rdfs:label "池の内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町内野北町
+    rdfs:label "内野北町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町内野東町
+    rdfs:label "内野東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町内野南町
+    rdfs:label "内野南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町駅東町
+    rdfs:label "駅東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町駅前町
+    rdfs:label "駅前町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町駅南町
+    rdfs:label "駅南町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町枝川
+    rdfs:label "枝川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町越裏門
+    rdfs:label "越裏門"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町大内
+    rdfs:label "大内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町大森
+    rdfs:label "大森"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町鹿敷
+    rdfs:label "鹿敷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町葛原
+    rdfs:label "葛原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町加田
+    rdfs:label "加田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町鎌田
+    rdfs:label "鎌田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川甲
+    rdfs:label "上八川甲"@ja ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川甲枝川 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川甲大久保 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川甲木ノ瀬 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川甲土居 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川甲西川 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川甲本郷 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川甲柚ノ木野 ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川甲枝川
+    rdfs:label "枝川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川甲大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川甲木ノ瀬
+    rdfs:label "木ノ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川甲土居
+    rdfs:label "土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川甲西川
+    rdfs:label "西川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川甲本郷
+    rdfs:label "本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川甲柚ノ木野
+    rdfs:label "柚ノ木野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川丙
+    rdfs:label "上八川丙"@ja ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川丙柿薮 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川丙小申田 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川丙津賀谷 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川丙寺野 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川丙古江 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町上八川丙連行 ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川丙柿薮
+    rdfs:label "柿薮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川丙小申田
+    rdfs:label "小申田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川丙津賀谷
+    rdfs:label "津賀谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川丙寺野
+    rdfs:label "寺野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川丙古江
+    rdfs:label "古江"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町上八川丙連行
+    rdfs:label "連行"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町加茂町
+    rdfs:label "加茂町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水上分
+    rdfs:label "清水上分"@ja ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水上分伊守川 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水上分川窪 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水上分敷槇 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水上分土居 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水上分程野 ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水上分伊守川
+    rdfs:label "伊守川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水上分川窪
+    rdfs:label "川窪"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水上分敷槇
+    rdfs:label "敷槇"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水上分土居
+    rdfs:label "土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水上分程野
+    rdfs:label "程野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水下分
+    rdfs:label "清水下分"@ja ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水下分馬路 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水下分大野 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水下分川口 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水下分日比原 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水下分槇川 ;
+    mo:SubRegion mr:JP_高知県吾川郡いの町清水下分松ノ木 ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水下分馬路
+    rdfs:label "馬路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水下分大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水下分川口
+    rdfs:label "川口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水下分日比原
+    rdfs:label "日比原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水下分槇川
+    rdfs:label "槇川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町清水下分松ノ木
+    rdfs:label "松ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町楠瀬
+    rdfs:label "楠瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町桑瀬
+    rdfs:label "桑瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町公園町
+    rdfs:label "公園町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町神谷
+    rdfs:label "神谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町小川新別
+    rdfs:label "小川新別"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町小川西津賀才
+    rdfs:label "小川西津賀才"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町小川東津賀才
+    rdfs:label "小川東津賀才"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町小川樅ノ木山
+    rdfs:label "小川樅ノ木山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町小川柳野
+    rdfs:label "小川柳野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町下八川乙
+    rdfs:label "下八川乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町下八川甲
+    rdfs:label "下八川甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町下八川丁
+    rdfs:label "下八川丁"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町下八川十田
+    rdfs:label "下八川十田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町下八川丙
+    rdfs:label "下八川丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町勝賀瀬
+    rdfs:label "勝賀瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町大国町
+    rdfs:label "大国町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町高薮
+    rdfs:label "高薮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町寺川
+    rdfs:label "寺川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町天王北
+    rdfs:label "天王北"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町天王南
+    rdfs:label "天王南"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町戸中
+    rdfs:label "戸中"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町中追
+    rdfs:label "中追"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町長沢
+    rdfs:label "長沢"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町中ノ川
+    rdfs:label "中ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町成山
+    rdfs:label "成山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町波川
+    rdfs:label "波川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町八田
+    rdfs:label "八田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町羽根町
+    rdfs:label "羽根町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町藤町
+    rdfs:label "藤町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町槇
+    rdfs:label "槇"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町柳町
+    rdfs:label "柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町柳瀬石見
+    rdfs:label "柳瀬石見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町柳瀬上分
+    rdfs:label "柳瀬上分"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町柳瀬本村
+    rdfs:label "柳瀬本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡いの町脇ノ山
+    rdfs:label "脇ノ山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町
+    rdfs:label "吾川郡仁淀川町"@ja ;
+    mo:AreaCode "39387" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町相能 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町池川大渡 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町泉 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町入江谷 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町岩柄 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町岩戸 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町岩丸 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大板 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大植 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大尾 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大崎 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大渡 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大西 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大野 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大平 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大屋 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町大蕨 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町遅越 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町加枝 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町楮原 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町上名野川 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町川内谷 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町川口 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町川渡 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町北 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町北浦 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町北川 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町久喜 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町葛原 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町坂本 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町崎ノ山 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町桜 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町鹿森 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町下北川 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町下名野川 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町宗津 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町高瀬 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町竹ノ谷 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町竹屋敷 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町橘 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町橘谷 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町田村 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町長者乙 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町長者丁 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町長者丙 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町津江 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町潰溜 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町椿山 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町坪井川 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町寺村 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町土居 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町峠ノ越 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町中 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町長坂 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町中村 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町長屋 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町名野川 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町名野川大平 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町成川 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町二ノ滝 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町日浦 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町引地 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町藤ノ野 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町二子野 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町別枝 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町本村 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町峯岩戸 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町見ノ越 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町宮ケ平 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町明戸岩 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町用居乙 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町用居甲 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町百川内 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町森 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町森山 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町吉ケ成 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町余能 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町寄合 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町鷲ノ巣 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町蕨谷 ;
+a mo:GeoEntity .
+
+mr:JP_高知県吾川郡仁淀川町相能
+    rdfs:label "相能"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町池川大渡
+    rdfs:label "池川大渡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町泉
+    rdfs:label "泉"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町入江谷
+    rdfs:label "入江谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町岩柄
+    rdfs:label "岩柄"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町岩戸
+    rdfs:label "岩戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町岩丸
+    rdfs:label "岩丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大板
+    rdfs:label "大板"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大植
+    rdfs:label "大植"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大尾
+    rdfs:label "大尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大崎
+    rdfs:label "大崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大渡
+    rdfs:label "大渡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大西
+    rdfs:label "大西"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大屋
+    rdfs:label "大屋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町大蕨
+    rdfs:label "大蕨"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町遅越
+    rdfs:label "遅越"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町加枝
+    rdfs:label "加枝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町楮原
+    rdfs:label "楮原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町上名野川
+    rdfs:label "上名野川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町川内谷
+    rdfs:label "川内谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町川口
+    rdfs:label "川口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町川渡
+    rdfs:label "川渡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町北
+    rdfs:label "北"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町北浦
+    rdfs:label "北浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町北川
+    rdfs:label "北川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町久喜
+    rdfs:label "久喜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町葛原
+    rdfs:label "葛原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町坂本
+    rdfs:label "坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町崎ノ山
+    rdfs:label "崎ノ山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町桜
+    rdfs:label "桜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町鹿森
+    rdfs:label "鹿森"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町下北川
+    rdfs:label "下北川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町下名野川
+    rdfs:label "下名野川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町宗津
+    rdfs:label "宗津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町高瀬
+    rdfs:label "高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町竹ノ谷
+    rdfs:label "竹ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町竹屋敷
+    rdfs:label "竹屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町橘
+    rdfs:label "橘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町橘谷
+    rdfs:label "橘谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町田村
+    rdfs:label "田村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町長者乙
+    rdfs:label "長者乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町長者丁
+    rdfs:label "長者丁"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町長者丙
+    rdfs:label "長者丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町津江
+    rdfs:label "津江"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町潰溜
+    rdfs:label "潰溜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町椿山
+    rdfs:label "椿山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町坪井川
+    rdfs:label "坪井川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町寺村
+    rdfs:label "寺村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町土居
+    rdfs:label "土居"@ja ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町土居甲・乙 ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町土居甲・乙
+    rdfs:label "甲・乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町峠ノ越
+    rdfs:label "峠ノ越"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町長坂
+    rdfs:label "長坂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町長屋
+    rdfs:label "長屋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町名野川
+    rdfs:label "名野川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町名野川大平
+    rdfs:label "名野川大平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町成川
+    rdfs:label "成川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町二ノ滝
+    rdfs:label "二ノ滝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町日浦
+    rdfs:label "日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町引地
+    rdfs:label "引地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町藤ノ野
+    rdfs:label "藤ノ野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町二子野
+    rdfs:label "二子野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町別枝
+    rdfs:label "別枝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町本村
+    rdfs:label "本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町峯岩戸
+    rdfs:label "峯岩戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町見ノ越
+    rdfs:label "見ノ越"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町宮ケ平
+    rdfs:label "宮ケ平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町明戸岩
+    rdfs:label "明戸岩"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町用居乙
+    rdfs:label "用居乙"@ja ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町用居乙瓜生野 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町用居乙折尾 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町用居乙桧谷 ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町用居乙瓜生野
+    rdfs:label "瓜生野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町用居乙折尾
+    rdfs:label "折尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町用居乙桧谷
+    rdfs:label "桧谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町用居甲
+    rdfs:label "用居甲"@ja ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町用居甲出丸 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町用居甲舟形 ;
+    mo:SubRegion mr:JP_高知県吾川郡仁淀川町用居甲用居 ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町用居甲出丸
+    rdfs:label "出丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町用居甲舟形
+    rdfs:label "舟形"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町用居甲用居
+    rdfs:label "用居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町百川内
+    rdfs:label "百川内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町森山
+    rdfs:label "森山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町吉ケ成
+    rdfs:label "吉ケ成"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町余能
+    rdfs:label "余能"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町寄合
+    rdfs:label "寄合"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町鷲ノ巣
+    rdfs:label "鷲ノ巣"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県吾川郡仁淀川町蕨谷
+    rdfs:label "蕨谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町
+    rdfs:label "高岡郡中土佐町"@ja ;
+    mo:AreaCode "39401" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見荒瀬 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見神母野 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見伊勢川 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見大股 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見川奥 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見下ル川 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見久万秋 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見島ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見竹原 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見栂ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見寺野 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見野老野 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見長野 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見奈路 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見萩中 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見橋谷 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見槇野々 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見三ツ又 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町大野見吉野 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町上ノ加江 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町久礼 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町矢井賀乙 ;
+    mo:SubRegion mr:JP_高知県高岡郡中土佐町矢井賀甲 ;
+a mo:GeoEntity .
+
+mr:JP_高知県高岡郡中土佐町大野見荒瀬
+    rdfs:label "大野見荒瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見神母野
+    rdfs:label "大野見神母野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見伊勢川
+    rdfs:label "大野見伊勢川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見大股
+    rdfs:label "大野見大股"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見川奥
+    rdfs:label "大野見川奥"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見下ル川
+    rdfs:label "大野見下ル川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見久万秋
+    rdfs:label "大野見久万秋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見島ノ川
+    rdfs:label "大野見島ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見竹原
+    rdfs:label "大野見竹原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見栂ノ川
+    rdfs:label "大野見栂ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見寺野
+    rdfs:label "大野見寺野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見野老野
+    rdfs:label "大野見野老野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見長野
+    rdfs:label "大野見長野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見奈路
+    rdfs:label "大野見奈路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見萩中
+    rdfs:label "大野見萩中"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見橋谷
+    rdfs:label "大野見橋谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見槇野々
+    rdfs:label "大野見槇野々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見三ツ又
+    rdfs:label "大野見三ツ又"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町大野見吉野
+    rdfs:label "大野見吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町上ノ加江
+    rdfs:label "上ノ加江"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町久礼
+    rdfs:label "久礼"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町矢井賀乙
+    rdfs:label "矢井賀乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡中土佐町矢井賀甲
+    rdfs:label "矢井賀甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町
+    rdfs:label "高岡郡佐川町"@ja ;
+    mo:AreaCode "39402" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町大田川 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町乙 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町加茂 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町川ノ内組 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町黒原 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町甲 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町庄田 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町瑞応 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町中組 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町中野 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町永野 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町西組 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町西山組 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町西山耕 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町東組 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町平野 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町二ツ野 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町古畑耕 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町丙 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町本郷耕 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町峰耕 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町室原 ;
+    mo:SubRegion mr:JP_高知県高岡郡佐川町四ツ白 ;
+a mo:GeoEntity .
+
+mr:JP_高知県高岡郡佐川町大田川
+    rdfs:label "大田川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町乙
+    rdfs:label "乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町加茂
+    rdfs:label "加茂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町川ノ内組
+    rdfs:label "川ノ内組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町黒原
+    rdfs:label "黒原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町甲
+    rdfs:label "甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町庄田
+    rdfs:label "庄田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町瑞応
+    rdfs:label "瑞応"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町中組
+    rdfs:label "中組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町永野
+    rdfs:label "永野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町西組
+    rdfs:label "西組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町西山組
+    rdfs:label "西山組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町西山耕
+    rdfs:label "西山耕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町東組
+    rdfs:label "東組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町二ツ野
+    rdfs:label "二ツ野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町古畑耕
+    rdfs:label "古畑耕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町丙
+    rdfs:label "丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町本郷耕
+    rdfs:label "本郷耕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町峰耕
+    rdfs:label "峰耕"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町室原
+    rdfs:label "室原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡佐川町四ツ白
+    rdfs:label "四ツ白"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町
+    rdfs:label "高岡郡越知町"@ja ;
+    mo:AreaCode "39403" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町浅尾 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町今成 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町大平 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町越知甲 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町越知乙 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町越知丙 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町越知丁 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町片岡 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町鎌井田桑薮 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町鎌井田清助 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町鎌井田日ノ浦 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町鎌井田本村 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町桐見川 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町黒瀬 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町五味 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町佐之国 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町柴尾 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町長者 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町野老山 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町中大平 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町南片岡 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町南ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町峰 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町宮地 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町山室 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町横畠中 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町横畠東 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町横畠南 ;
+    mo:SubRegion mr:JP_高知県高岡郡越知町横畠北 ;
+a mo:GeoEntity .
+
+mr:JP_高知県高岡郡越知町浅尾
+    rdfs:label "浅尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町今成
+    rdfs:label "今成"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町越知甲
+    rdfs:label "越知甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町越知乙
+    rdfs:label "越知乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町越知丙
+    rdfs:label "越知丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町越知丁
+    rdfs:label "越知丁"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町片岡
+    rdfs:label "片岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町鎌井田桑薮
+    rdfs:label "鎌井田桑薮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町鎌井田清助
+    rdfs:label "鎌井田清助"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町鎌井田日ノ浦
+    rdfs:label "鎌井田日ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町鎌井田本村
+    rdfs:label "鎌井田本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町桐見川
+    rdfs:label "桐見川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町黒瀬
+    rdfs:label "黒瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町五味
+    rdfs:label "五味"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町佐之国
+    rdfs:label "佐之国"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町柴尾
+    rdfs:label "柴尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町長者
+    rdfs:label "長者"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町野老山
+    rdfs:label "野老山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町中大平
+    rdfs:label "中大平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町南片岡
+    rdfs:label "南片岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町南ノ川
+    rdfs:label "南ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町峰
+    rdfs:label "峰"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町宮地
+    rdfs:label "宮地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町山室
+    rdfs:label "山室"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町横畠中
+    rdfs:label "横畠中"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町横畠東
+    rdfs:label "横畠東"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町横畠南
+    rdfs:label "横畠南"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡越知町横畠北
+    rdfs:label "横畠北"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町
+    rdfs:label "高岡郡檮原町"@ja ;
+    mo:AreaCode "39405" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町飯母 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町井高 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町井の谷 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町上成 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町太田戸 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町大野地 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町大向 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町大蔵谷 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町本も谷 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町影野地 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町上折渡 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町上組 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町上西の川 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町神の山 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町上本村 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町家籠戸 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町川井 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町川口 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町川西路 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町神在居 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町久保谷 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町東向 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町後別当 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町坂本川 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町佐渡 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町島中 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町下折渡 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町下組 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町下西の川 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町下本村 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町竹の薮 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町田野々 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町太郎川 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町茶や谷 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町坪野田 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町富永 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町豊原 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町仲間 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町仲久保 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町仲洞 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町中の川 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町中平 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町永野 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町初瀬本村 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町東川 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町広野 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町文丸 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町松谷 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町松原 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町宮野々 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町檮原 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町横貝 ;
+    mo:SubRegion mr:JP_高知県高岡郡檮原町六丁 ;
+a mo:GeoEntity .
+
+mr:JP_高知県高岡郡檮原町飯母
+    rdfs:label "飯母"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町井高
+    rdfs:label "井高"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町井の谷
+    rdfs:label "井の谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町上成
+    rdfs:label "上成"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町太田戸
+    rdfs:label "太田戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町大野地
+    rdfs:label "大野地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町大向
+    rdfs:label "大向"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町大蔵谷
+    rdfs:label "大蔵谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町本も谷
+    rdfs:label "本も谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町影野地
+    rdfs:label "影野地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町上折渡
+    rdfs:label "上折渡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町上組
+    rdfs:label "上組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町上西の川
+    rdfs:label "上西の川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町神の山
+    rdfs:label "神の山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町上本村
+    rdfs:label "上本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町家籠戸
+    rdfs:label "家籠戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町川井
+    rdfs:label "川井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町川口
+    rdfs:label "川口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町川西路
+    rdfs:label "川西路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町神在居
+    rdfs:label "神在居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町久保谷
+    rdfs:label "久保谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町東向
+    rdfs:label "東向"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町後別当
+    rdfs:label "後別当"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町坂本川
+    rdfs:label "坂本川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町佐渡
+    rdfs:label "佐渡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町島中
+    rdfs:label "島中"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町下折渡
+    rdfs:label "下折渡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町下組
+    rdfs:label "下組"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町下西の川
+    rdfs:label "下西の川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町下本村
+    rdfs:label "下本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町竹の薮
+    rdfs:label "竹の薮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町田野々
+    rdfs:label "田野々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町太郎川
+    rdfs:label "太郎川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町茶や谷
+    rdfs:label "茶や谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町坪野田
+    rdfs:label "坪野田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町富永
+    rdfs:label "富永"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町豊原
+    rdfs:label "豊原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町仲間
+    rdfs:label "仲間"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町仲久保
+    rdfs:label "仲久保"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町仲洞
+    rdfs:label "仲洞"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町中の川
+    rdfs:label "中の川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町中平
+    rdfs:label "中平"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町永野
+    rdfs:label "永野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町初瀬本村
+    rdfs:label "初瀬本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町東川
+    rdfs:label "東川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町広野
+    rdfs:label "広野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町文丸
+    rdfs:label "文丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町松谷
+    rdfs:label "松谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町宮野々
+    rdfs:label "宮野々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町檮原
+    rdfs:label "檮原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町横貝
+    rdfs:label "横貝"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡檮原町六丁
+    rdfs:label "六丁"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村
+    rdfs:label "高岡郡日高村"@ja ;
+    mo:AreaCode "39410" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村岩目地 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村大花 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村沖名 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村鴨地 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村九頭 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村下分 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村長畑 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村名越屋 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村柱谷 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村本郷 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村本村 ;
+    mo:SubRegion mr:JP_高知県高岡郡日高村宮ノ谷 ;
+a mo:GeoEntity .
+
+mr:JP_高知県高岡郡日高村岩目地
+    rdfs:label "岩目地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村大花
+    rdfs:label "大花"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村沖名
+    rdfs:label "沖名"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村鴨地
+    rdfs:label "鴨地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村九頭
+    rdfs:label "九頭"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村下分
+    rdfs:label "下分"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村長畑
+    rdfs:label "長畑"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村名越屋
+    rdfs:label "名越屋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村柱谷
+    rdfs:label "柱谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村本郷
+    rdfs:label "本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村本村
+    rdfs:label "本村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡日高村宮ノ谷
+    rdfs:label "宮ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町
+    rdfs:label "高岡郡津野町"@ja ;
+    mo:AreaCode "39411" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町赤木 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町大野 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町貝ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町貝ノ川床鍋 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町樺の川 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町烏出川 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町北川 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町久保川 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町黒川 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町桑ケ市 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町白石乙 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町白石甲 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町白石丙 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町新土居 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町杉ノ川乙 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町杉ノ川甲 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町杉ノ川丙 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町力石 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町永野 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町西谷乙 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町西谷甲 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町姫野々 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町船戸 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町三間川 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町芳生野乙 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町芳生野甲 ;
+    mo:SubRegion mr:JP_高知県高岡郡津野町芳生野丙 ;
+a mo:GeoEntity .
+
+mr:JP_高知県高岡郡津野町赤木
+    rdfs:label "赤木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町貝ノ川
+    rdfs:label "貝ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町貝ノ川床鍋
+    rdfs:label "貝ノ川床鍋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町樺の川
+    rdfs:label "樺の川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町烏出川
+    rdfs:label "烏出川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町北川
+    rdfs:label "北川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町久保川
+    rdfs:label "久保川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町黒川
+    rdfs:label "黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町桑ケ市
+    rdfs:label "桑ケ市"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町白石乙
+    rdfs:label "白石乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町白石甲
+    rdfs:label "白石甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町白石丙
+    rdfs:label "白石丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町新土居
+    rdfs:label "新土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町杉ノ川乙
+    rdfs:label "杉ノ川乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町杉ノ川甲
+    rdfs:label "杉ノ川甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町杉ノ川丙
+    rdfs:label "杉ノ川丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町力石
+    rdfs:label "力石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町永野
+    rdfs:label "永野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町西谷乙
+    rdfs:label "西谷乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町西谷甲
+    rdfs:label "西谷甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町姫野々
+    rdfs:label "姫野々"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町船戸
+    rdfs:label "船戸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町三間川
+    rdfs:label "三間川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町芳生野乙
+    rdfs:label "芳生野乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町芳生野甲
+    rdfs:label "芳生野甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡津野町芳生野丙
+    rdfs:label "芳生野丙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町
+    rdfs:label "高岡郡四万十町"@ja ;
+    mo:AreaCode "39412" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町相去 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町秋丸 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町家地川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町井崎 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町市生原 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町市ノ又 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町一斗俵 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町魚の川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町打井川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町浦越 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町江師 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大井川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大井野 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大鶴津 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大向 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町興津 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町奥大道 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町奥呉地 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町奥神ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町小野 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町親ケ内 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町折合 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町替坂本 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町香月が丘 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町影野 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町数神 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町上秋丸 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町上岡 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町茅吹手 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町烏手 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町河内 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町川ノ内 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町北琴平町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町希ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町金上野 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町口大道 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町口神ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町窪川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町久保川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町窪川中津川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町黒石 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町小石 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町神ノ西 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町古城 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町小鶴津 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町琴平町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町小向 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町木屋ケ内 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町根元原 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町西原 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町榊山町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町作屋 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町里川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町茂串町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町仕出原 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町下岡 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町下呉地 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町下津井 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町下道 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町勝賀野 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町上宮 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町昭和乙 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町昭和甲 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町昭和 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町地吉 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町志和 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町志和峰 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町新開町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町瀬里 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町天の川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大正 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大正大奈路 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大正北ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大正中津川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町高野 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町津賀 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町寺野 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町土居 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町道徳 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町十川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町十和川口 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町戸川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町床鍋 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町富岡 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町中神ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町中ノ越 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町中村 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町七里 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町奈路 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町仁井田 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町西川角 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町西ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町根々崎 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町野地 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町野々川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町八千数 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町飯ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町東大奈路 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町東川角 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町東北ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町東町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町桧生原 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町日野地 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町平串 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町平野 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町弘瀬 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町広瀬 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町弘見 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町藤ノ川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町古市町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町本堂 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町本町 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町見付 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町南川口 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町峰ノ上 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町宮内 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町向川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町芳川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町与津地 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町米奥 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町六反地 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町若井 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町若井川 ;
+a mo:GeoEntity .
+
+mr:JP_高知県高岡郡四万十町相去
+    rdfs:label "相去"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町秋丸
+    rdfs:label "秋丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町家地川
+    rdfs:label "家地川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町井崎
+    rdfs:label "井崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町市生原
+    rdfs:label "市生原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町市ノ又
+    rdfs:label "市ノ又"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町一斗俵
+    rdfs:label "一斗俵"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町魚の川
+    rdfs:label "魚の川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町打井川
+    rdfs:label "打井川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町浦越
+    rdfs:label "浦越"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町江師
+    rdfs:label "江師"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大井川
+    rdfs:label "大井川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大井野
+    rdfs:label "大井野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大鶴津
+    rdfs:label "大鶴津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大向
+    rdfs:label "大向"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町興津
+    rdfs:label "興津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町奥大道
+    rdfs:label "奥大道"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町奥呉地
+    rdfs:label "奥呉地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町奥神ノ川
+    rdfs:label "奥神ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町親ケ内
+    rdfs:label "親ケ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町折合
+    rdfs:label "折合"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町替坂本
+    rdfs:label "替坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町香月が丘
+    rdfs:label "香月が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町影野
+    rdfs:label "影野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町数神
+    rdfs:label "数神"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町上秋丸
+    rdfs:label "上秋丸"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町上岡
+    rdfs:label "上岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町茅吹手
+    rdfs:label "茅吹手"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町烏手
+    rdfs:label "烏手"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町川ノ内
+    rdfs:label "川ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町北琴平町
+    rdfs:label "北琴平町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町希ノ川
+    rdfs:label "希ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町金上野
+    rdfs:label "金上野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町口大道
+    rdfs:label "口大道"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町口神ノ川
+    rdfs:label "口神ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町窪川
+    rdfs:label "窪川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町久保川
+    rdfs:label "久保川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町窪川中津川
+    rdfs:label "窪川中津川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町黒石
+    rdfs:label "黒石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町小石
+    rdfs:label "小石"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町神ノ西
+    rdfs:label "神ノ西"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町古城
+    rdfs:label "古城"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町小鶴津
+    rdfs:label "小鶴津"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町琴平町
+    rdfs:label "琴平町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町小向
+    rdfs:label "小向"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町木屋ケ内
+    rdfs:label "木屋ケ内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町根元原
+    rdfs:label "根元原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町榊山町
+    rdfs:label "榊山町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町作屋
+    rdfs:label "作屋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町里川
+    rdfs:label "里川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町茂串町
+    rdfs:label "茂串町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町仕出原
+    rdfs:label "仕出原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町下岡
+    rdfs:label "下岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町下呉地
+    rdfs:label "下呉地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町下津井
+    rdfs:label "下津井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町下道
+    rdfs:label "下道"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町勝賀野
+    rdfs:label "勝賀野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町上宮
+    rdfs:label "上宮"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町昭和乙
+    rdfs:label "昭和乙"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町昭和甲
+    rdfs:label "昭和甲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町昭和
+    rdfs:label "昭和"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町地吉
+    rdfs:label "地吉"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町志和
+    rdfs:label "志和"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町志和峰
+    rdfs:label "志和峰"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町新開町
+    rdfs:label "新開町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町瀬里
+    rdfs:label "瀬里"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町天の川
+    rdfs:label "天の川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大正
+    rdfs:label "大正"@ja ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大正葛籠川 ;
+    mo:SubRegion mr:JP_高知県高岡郡四万十町大正轟崎を含む ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大正葛籠川
+    rdfs:label "葛籠川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大正轟崎を含む
+    rdfs:label "轟崎を含む"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大正大奈路
+    rdfs:label "大正大奈路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大正北ノ川
+    rdfs:label "大正北ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町大正中津川
+    rdfs:label "大正中津川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町高野
+    rdfs:label "高野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町津賀
+    rdfs:label "津賀"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町寺野
+    rdfs:label "寺野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町土居
+    rdfs:label "土居"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町道徳
+    rdfs:label "道徳"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町十川
+    rdfs:label "十川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町十和川口
+    rdfs:label "十和川口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町戸川
+    rdfs:label "戸川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町床鍋
+    rdfs:label "床鍋"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町中神ノ川
+    rdfs:label "中神ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町中ノ越
+    rdfs:label "中ノ越"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町七里
+    rdfs:label "七里"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町奈路
+    rdfs:label "奈路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町仁井田
+    rdfs:label "仁井田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町西川角
+    rdfs:label "西川角"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町西ノ川
+    rdfs:label "西ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町根々崎
+    rdfs:label "根々崎"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町野地
+    rdfs:label "野地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町野々川
+    rdfs:label "野々川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町八千数
+    rdfs:label "八千数"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町飯ノ川
+    rdfs:label "飯ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町東大奈路
+    rdfs:label "東大奈路"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町東川角
+    rdfs:label "東川角"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町東北ノ川
+    rdfs:label "東北ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町桧生原
+    rdfs:label "桧生原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町日野地
+    rdfs:label "日野地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町平串
+    rdfs:label "平串"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町弘瀬
+    rdfs:label "弘瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町弘見
+    rdfs:label "弘見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町藤ノ川
+    rdfs:label "藤ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町古市町
+    rdfs:label "古市町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町本堂
+    rdfs:label "本堂"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町見付
+    rdfs:label "見付"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町南川口
+    rdfs:label "南川口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町峰ノ上
+    rdfs:label "峰ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町宮内
+    rdfs:label "宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町向川
+    rdfs:label "向川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町芳川
+    rdfs:label "芳川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町与津地
+    rdfs:label "与津地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町米奥
+    rdfs:label "米奥"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町六反地
+    rdfs:label "六反地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町若井
+    rdfs:label "若井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県高岡郡四万十町若井川
+    rdfs:label "若井川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町
+    rdfs:label "幡多郡大月町"@ja ;
+    mo:AreaCode "39424" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町赤泊 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町安満地 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町一切 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町大浦 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町樫ノ浦 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町頭集 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町柏島 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町唐岩 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町口目塚 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町小才角 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町古満目 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町才角 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町周防形 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町清王 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町添ノ川 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町橘浦 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町龍ケ迫 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町月ケ丘 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町泊浦 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町西泊 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町春遠 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町姫ノ井 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町平山 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町弘見 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町鉾土 ;
+    mo:SubRegion mr:JP_高知県幡多郡大月町芳ノ沢 ;
+a mo:GeoEntity .
+
+mr:JP_高知県幡多郡大月町赤泊
+    rdfs:label "赤泊"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町安満地
+    rdfs:label "安満地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町一切
+    rdfs:label "一切"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町大浦
+    rdfs:label "大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町樫ノ浦
+    rdfs:label "樫ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町頭集
+    rdfs:label "頭集"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町柏島
+    rdfs:label "柏島"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町唐岩
+    rdfs:label "唐岩"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町口目塚
+    rdfs:label "口目塚"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町小才角
+    rdfs:label "小才角"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町古満目
+    rdfs:label "古満目"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町才角
+    rdfs:label "才角"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町周防形
+    rdfs:label "周防形"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町清王
+    rdfs:label "清王"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町添ノ川
+    rdfs:label "添ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町橘浦
+    rdfs:label "橘浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町龍ケ迫
+    rdfs:label "龍ケ迫"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町月ケ丘
+    rdfs:label "月ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町泊浦
+    rdfs:label "泊浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町西泊
+    rdfs:label "西泊"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町春遠
+    rdfs:label "春遠"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町姫ノ井
+    rdfs:label "姫ノ井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町平山
+    rdfs:label "平山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町弘見
+    rdfs:label "弘見"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町鉾土
+    rdfs:label "鉾土"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡大月町芳ノ沢
+    rdfs:label "芳ノ沢"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村
+    rdfs:label "幡多郡三原村"@ja ;
+    mo:AreaCode "39427" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村狼内 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村上下長谷 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村上長谷 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村亀ノ川 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村来栖野 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村下切 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村下長谷 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村成山 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村広野 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村皆尾 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村宮ノ川 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村柚ノ木 ;
+    mo:SubRegion mr:JP_高知県幡多郡三原村芳井 ;
+a mo:GeoEntity .
+
+mr:JP_高知県幡多郡三原村狼内
+    rdfs:label "狼内"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村上下長谷
+    rdfs:label "上下長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村上長谷
+    rdfs:label "上長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村亀ノ川
+    rdfs:label "亀ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村来栖野
+    rdfs:label "来栖野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村下切
+    rdfs:label "下切"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村下長谷
+    rdfs:label "下長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村成山
+    rdfs:label "成山"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村広野
+    rdfs:label "広野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村皆尾
+    rdfs:label "皆尾"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村宮ノ川
+    rdfs:label "宮ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村柚ノ木
+    rdfs:label "柚ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡三原村芳井
+    rdfs:label "芳井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町
+    rdfs:label "幡多郡黒潮町"@ja ;
+    mo:AreaCode "39428" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町有井川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町伊田 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町市野瀬 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町市野々川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町出口 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町伊与喜 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町入野 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町浮鞭 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町馬荷 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町大井川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町大方橘川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町奥湊川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町御坊畑 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町荷稲 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町上川口 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町上田の口 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町加持 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町加持川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町川奥 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町口湊川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町熊井 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町熊野浦 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町小黒ノ川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町拳ノ川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町佐賀 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町佐賀橘川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町下田の口 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町白浜 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町鈴 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町田野浦 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町中ノ川 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町灘 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町藤縄 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町不破原 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町蜷川 ;
+a mo:GeoEntity .
+
+mr:JP_高知県幡多郡黒潮町有井川
+    rdfs:label "有井川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町伊田
+    rdfs:label "伊田"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町市野瀬
+    rdfs:label "市野瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町市野々川
+    rdfs:label "市野々川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町出口
+    rdfs:label "出口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町伊与喜
+    rdfs:label "伊与喜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町入野
+    rdfs:label "入野"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町浮鞭
+    rdfs:label "浮鞭"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町馬荷
+    rdfs:label "馬荷"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町大井川
+    rdfs:label "大井川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町大方橘川
+    rdfs:label "大方橘川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町奥湊川
+    rdfs:label "奥湊川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町御坊畑
+    rdfs:label "御坊畑"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町荷稲
+    rdfs:label "荷稲"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町上川口
+    rdfs:label "上川口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町上田の口
+    rdfs:label "上田の口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町加持
+    rdfs:label "加持"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町加持川
+    rdfs:label "加持川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町川奥
+    rdfs:label "川奥"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町口湊川
+    rdfs:label "口湊川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町熊井
+    rdfs:label "熊井"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町熊野浦
+    rdfs:label "熊野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町小黒ノ川
+    rdfs:label "小黒ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町拳ノ川
+    rdfs:label "拳ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町佐賀
+    rdfs:label "佐賀"@ja ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町佐賀馬地 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町佐賀坂折 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町佐賀中角 ;
+    mo:SubRegion mr:JP_高知県幡多郡黒潮町佐賀横浜 ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町佐賀馬地
+    rdfs:label "馬地"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町佐賀坂折
+    rdfs:label "坂折"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町佐賀中角
+    rdfs:label "中角"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町佐賀横浜
+    rdfs:label "横浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町佐賀橘川
+    rdfs:label "佐賀橘川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町下田の口
+    rdfs:label "下田の口"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町白浜
+    rdfs:label "白浜"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町鈴
+    rdfs:label "鈴"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町田野浦
+    rdfs:label "田野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町中ノ川
+    rdfs:label "中ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町灘
+    rdfs:label "灘"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町藤縄
+    rdfs:label "藤縄"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町不破原
+    rdfs:label "不破原"@ja ;
+    a mo:町域 .
+
+mr:JP_高知県幡多郡黒潮町蜷川
+    rdfs:label "蜷川"@ja ;
+    a mo:町域 .
+

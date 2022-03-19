@@ -1,0 +1,3595 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_香川県
+    a mo:都道府県 ;
+    rdfs:label "香川県"@ja ;
+    mo:AreaCode "37" ;
+    mo:SubRegion mr:JP_香川県高松市 ;
+    mo:SubRegion mr:JP_香川県丸亀市 ;
+    mo:SubRegion mr:JP_香川県坂出市 ;
+    mo:SubRegion mr:JP_香川県善通寺市 ;
+    mo:SubRegion mr:JP_香川県観音寺市 ;
+    mo:SubRegion mr:JP_香川県さぬき市 ;
+    mo:SubRegion mr:JP_香川県東かがわ市 ;
+    mo:SubRegion mr:JP_香川県三豊市 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町 ;
+    mo:SubRegion mr:JP_香川県香川郡直島町 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡琴平町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町 ;
+    a mo:GeoEntity .
+
+mr:JP_香川県高松市
+    rdfs:label "高松市"@ja ;
+    mo:AreaCode "37201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県高松市茜町 ;
+    mo:SubRegion mr:JP_香川県高松市朝日新町 ;
+    mo:SubRegion mr:JP_香川県高松市朝日町 ;
+    mo:SubRegion mr:JP_香川県高松市庵治町 ;
+    mo:SubRegion mr:JP_香川県高松市飯田町 ;
+    mo:SubRegion mr:JP_香川県高松市生島町 ;
+    mo:SubRegion mr:JP_香川県高松市井口町 ;
+    mo:SubRegion mr:JP_香川県高松市池田町 ;
+    mo:SubRegion mr:JP_香川県高松市一宮町 ;
+    mo:SubRegion mr:JP_香川県高松市今里町 ;
+    mo:SubRegion mr:JP_香川県高松市今新町 ;
+    mo:SubRegion mr:JP_香川県高松市植松町 ;
+    mo:SubRegion mr:JP_香川県高松市内町 ;
+    mo:SubRegion mr:JP_香川県高松市円座町 ;
+    mo:SubRegion mr:JP_香川県高松市扇町 ;
+    mo:SubRegion mr:JP_香川県高松市太田上町 ;
+    mo:SubRegion mr:JP_香川県高松市太田下町 ;
+    mo:SubRegion mr:JP_香川県高松市岡本町 ;
+    mo:SubRegion mr:JP_香川県高松市男木町 ;
+    mo:SubRegion mr:JP_香川県高松市小村町 ;
+    mo:SubRegion mr:JP_香川県高松市香川町浅野 ;
+    mo:SubRegion mr:JP_香川県高松市香川町大野 ;
+    mo:SubRegion mr:JP_香川県高松市香川町川内原 ;
+    mo:SubRegion mr:JP_香川県高松市香川町川東上 ;
+    mo:SubRegion mr:JP_香川県高松市香川町川東下 ;
+    mo:SubRegion mr:JP_香川県高松市香川町寺井 ;
+    mo:SubRegion mr:JP_香川県高松市香川町東谷 ;
+    mo:SubRegion mr:JP_香川県高松市香川町安原下 ;
+    mo:SubRegion mr:JP_香川県高松市鍛冶屋町 ;
+    mo:SubRegion mr:JP_香川県高松市春日町 ;
+    mo:SubRegion mr:JP_香川県高松市片原町 ;
+    mo:SubRegion mr:JP_香川県高松市鹿角町 ;
+    mo:SubRegion mr:JP_香川県高松市上天神町 ;
+    mo:SubRegion mr:JP_香川県高松市上之町 ;
+    mo:SubRegion mr:JP_香川県高松市上林町 ;
+    mo:SubRegion mr:JP_香川県高松市上福岡町 ;
+    mo:SubRegion mr:JP_香川県高松市紙町 ;
+    mo:SubRegion mr:JP_香川県高松市亀井町 ;
+    mo:SubRegion mr:JP_香川県高松市亀岡町 ;
+    mo:SubRegion mr:JP_香川県高松市亀田町 ;
+    mo:SubRegion mr:JP_香川県高松市亀田南町 ;
+    mo:SubRegion mr:JP_香川県高松市川島東町 ;
+    mo:SubRegion mr:JP_香川県高松市川島本町 ;
+    mo:SubRegion mr:JP_香川県高松市川部町 ;
+    mo:SubRegion mr:JP_香川県高松市瓦町 ;
+    mo:SubRegion mr:JP_香川県高松市観光町 ;
+    mo:SubRegion mr:JP_香川県高松市観光通 ;
+    mo:SubRegion mr:JP_香川県高松市木太町 ;
+    mo:SubRegion mr:JP_香川県高松市北浜町 ;
+    mo:SubRegion mr:JP_香川県高松市鬼無町鬼無 ;
+    mo:SubRegion mr:JP_香川県高松市鬼無町是竹 ;
+    mo:SubRegion mr:JP_香川県高松市鬼無町佐藤 ;
+    mo:SubRegion mr:JP_香川県高松市鬼無町佐料 ;
+    mo:SubRegion mr:JP_香川県高松市鬼無町藤井 ;
+    mo:SubRegion mr:JP_香川県高松市鬼無町山口 ;
+    mo:SubRegion mr:JP_香川県高松市楠上町 ;
+    mo:SubRegion mr:JP_香川県高松市香西東町 ;
+    mo:SubRegion mr:JP_香川県高松市香西西町 ;
+    mo:SubRegion mr:JP_香川県高松市香西南町 ;
+    mo:SubRegion mr:JP_香川県高松市香西北町 ;
+    mo:SubRegion mr:JP_香川県高松市香西本町 ;
+    mo:SubRegion mr:JP_香川県高松市郷東町 ;
+    mo:SubRegion mr:JP_香川県高松市香南町池内 ;
+    mo:SubRegion mr:JP_香川県高松市香南町岡 ;
+    mo:SubRegion mr:JP_香川県高松市香南町西庄 ;
+    mo:SubRegion mr:JP_香川県高松市香南町由佐 ;
+    mo:SubRegion mr:JP_香川県高松市香南町横井 ;
+    mo:SubRegion mr:JP_香川県高松市香南町吉光 ;
+    mo:SubRegion mr:JP_香川県高松市国分寺町柏原 ;
+    mo:SubRegion mr:JP_香川県高松市国分寺町国分 ;
+    mo:SubRegion mr:JP_香川県高松市国分寺町新名 ;
+    mo:SubRegion mr:JP_香川県高松市国分寺町新居 ;
+    mo:SubRegion mr:JP_香川県高松市国分寺町福家 ;
+    mo:SubRegion mr:JP_香川県高松市寿町 ;
+    mo:SubRegion mr:JP_香川県高松市御坊町 ;
+    mo:SubRegion mr:JP_香川県高松市紺屋町 ;
+    mo:SubRegion mr:JP_香川県高松市西宝町 ;
+    mo:SubRegion mr:JP_香川県高松市幸町 ;
+    mo:SubRegion mr:JP_香川県高松市桜町 ;
+    mo:SubRegion mr:JP_香川県高松市三条町 ;
+    mo:SubRegion mr:JP_香川県高松市サンポート ;
+    mo:SubRegion mr:JP_香川県高松市三名町 ;
+    mo:SubRegion mr:JP_香川県高松市紫雲町 ;
+    mo:SubRegion mr:JP_香川県高松市塩上町 ;
+    mo:SubRegion mr:JP_香川県高松市塩江町上西乙 ;
+    mo:SubRegion mr:JP_香川県高松市塩江町上西甲 ;
+    mo:SubRegion mr:JP_香川県高松市塩江町安原上 ;
+    mo:SubRegion mr:JP_香川県高松市塩江町安原上東 ;
+    mo:SubRegion mr:JP_香川県高松市塩江町安原下 ;
+    mo:SubRegion mr:JP_香川県高松市塩屋町 ;
+    mo:SubRegion mr:JP_香川県高松市下田井町 ;
+    mo:SubRegion mr:JP_香川県高松市出作町 ;
+    mo:SubRegion mr:JP_香川県高松市城東町 ;
+    mo:SubRegion mr:JP_香川県高松市昭和町 ;
+    mo:SubRegion mr:JP_香川県高松市新北町 ;
+    mo:SubRegion mr:JP_香川県高松市神在川窪町 ;
+    mo:SubRegion mr:JP_香川県高松市新田町甲 ;
+    mo:SubRegion mr:JP_香川県高松市新田町乙 ;
+    mo:SubRegion mr:JP_香川県高松市末広町 ;
+    mo:SubRegion mr:JP_香川県高松市菅沢町 ;
+    mo:SubRegion mr:JP_香川県高松市瀬戸内町 ;
+    mo:SubRegion mr:JP_香川県高松市十川東町 ;
+    mo:SubRegion mr:JP_香川県高松市十川西町 ;
+    mo:SubRegion mr:JP_香川県高松市高松町 ;
+    mo:SubRegion mr:JP_香川県高松市多賀町 ;
+    mo:SubRegion mr:JP_香川県高松市多肥上町 ;
+    mo:SubRegion mr:JP_香川県高松市多肥下町 ;
+    mo:SubRegion mr:JP_香川県高松市田町 ;
+    mo:SubRegion mr:JP_香川県高松市玉藻町 ;
+    mo:SubRegion mr:JP_香川県高松市田村町 ;
+    mo:SubRegion mr:JP_香川県高松市亀水町 ;
+    mo:SubRegion mr:JP_香川県高松市大工町 ;
+    mo:SubRegion mr:JP_香川県高松市檀紙町 ;
+    mo:SubRegion mr:JP_香川県高松市中央町 ;
+    mo:SubRegion mr:JP_香川県高松市勅使町 ;
+    mo:SubRegion mr:JP_香川県高松市築地町 ;
+    mo:SubRegion mr:JP_香川県高松市鶴市町 ;
+    mo:SubRegion mr:JP_香川県高松市鶴屋町 ;
+    mo:SubRegion mr:JP_香川県高松市寺井町 ;
+    mo:SubRegion mr:JP_香川県高松市天神前 ;
+    mo:SubRegion mr:JP_香川県高松市通町 ;
+    mo:SubRegion mr:JP_香川県高松市常磐町 ;
+    mo:SubRegion mr:JP_香川県高松市磨屋町 ;
+    mo:SubRegion mr:JP_香川県高松市中新町 ;
+    mo:SubRegion mr:JP_香川県高松市中間町 ;
+    mo:SubRegion mr:JP_香川県高松市中野町 ;
+    mo:SubRegion mr:JP_香川県高松市中山町 ;
+    mo:SubRegion mr:JP_香川県高松市成合町 ;
+    mo:SubRegion mr:JP_香川県高松市西植田町 ;
+    mo:SubRegion mr:JP_香川県高松市西内町 ;
+    mo:SubRegion mr:JP_香川県高松市西春日町 ;
+    mo:SubRegion mr:JP_香川県高松市錦町 ;
+    mo:SubRegion mr:JP_香川県高松市西の丸町 ;
+    mo:SubRegion mr:JP_香川県高松市西ハゼ町 ;
+    mo:SubRegion mr:JP_香川県高松市西町 ;
+    mo:SubRegion mr:JP_香川県高松市西山崎町 ;
+    mo:SubRegion mr:JP_香川県高松市旅籠町 ;
+    mo:SubRegion mr:JP_香川県高松市花園町 ;
+    mo:SubRegion mr:JP_香川県高松市花ノ宮町 ;
+    mo:SubRegion mr:JP_香川県高松市浜ノ町 ;
+    mo:SubRegion mr:JP_香川県高松市林町 ;
+    mo:SubRegion mr:JP_香川県高松市番町 ;
+    mo:SubRegion mr:JP_香川県高松市東植田町 ;
+    mo:SubRegion mr:JP_香川県高松市東田町 ;
+    mo:SubRegion mr:JP_香川県高松市東ハゼ町 ;
+    mo:SubRegion mr:JP_香川県高松市東浜町 ;
+    mo:SubRegion mr:JP_香川県高松市東山崎町 ;
+    mo:SubRegion mr:JP_香川県高松市百間町 ;
+    mo:SubRegion mr:JP_香川県高松市兵庫町 ;
+    mo:SubRegion mr:JP_香川県高松市福岡町 ;
+    mo:SubRegion mr:JP_香川県高松市福田町 ;
+    mo:SubRegion mr:JP_香川県高松市藤塚町 ;
+    mo:SubRegion mr:JP_香川県高松市伏石町 ;
+    mo:SubRegion mr:JP_香川県高松市古新町 ;
+    mo:SubRegion mr:JP_香川県高松市古馬場町 ;
+    mo:SubRegion mr:JP_香川県高松市仏生山町甲 ;
+    mo:SubRegion mr:JP_香川県高松市仏生山町乙 ;
+    mo:SubRegion mr:JP_香川県高松市本町 ;
+    mo:SubRegion mr:JP_香川県高松市前田東町 ;
+    mo:SubRegion mr:JP_香川県高松市前田西町 ;
+    mo:SubRegion mr:JP_香川県高松市松島町 ;
+    mo:SubRegion mr:JP_香川県高松市松並町 ;
+    mo:SubRegion mr:JP_香川県高松市松縄町 ;
+    mo:SubRegion mr:JP_香川県高松市松福町 ;
+    mo:SubRegion mr:JP_香川県高松市丸亀町 ;
+    mo:SubRegion mr:JP_香川県高松市丸の内 ;
+    mo:SubRegion mr:JP_香川県高松市三谷町 ;
+    mo:SubRegion mr:JP_香川県高松市南新町 ;
+    mo:SubRegion mr:JP_香川県高松市峰山町 ;
+    mo:SubRegion mr:JP_香川県高松市御厩町 ;
+    mo:SubRegion mr:JP_香川県高松市宮脇町 ;
+    mo:SubRegion mr:JP_香川県高松市牟礼町大町 ;
+    mo:SubRegion mr:JP_香川県高松市牟礼町原 ;
+    mo:SubRegion mr:JP_香川県高松市牟礼町牟礼 ;
+    mo:SubRegion mr:JP_香川県高松市室新町 ;
+    mo:SubRegion mr:JP_香川県高松市室町 ;
+    mo:SubRegion mr:JP_香川県高松市女木町 ;
+    mo:SubRegion mr:JP_香川県高松市元山町 ;
+    mo:SubRegion mr:JP_香川県高松市八坂町 ;
+    mo:SubRegion mr:JP_香川県高松市屋島中町 ;
+    mo:SubRegion mr:JP_香川県高松市屋島東町 ;
+    mo:SubRegion mr:JP_香川県高松市屋島西町 ;
+    mo:SubRegion mr:JP_香川県高松市由良町 ;
+    mo:SubRegion mr:JP_香川県高松市栗林町 ;
+    mo:SubRegion mr:JP_香川県高松市六条町 ;
+a mo:GeoEntity .
+
+mr:JP_香川県高松市茜町
+    rdfs:label "茜町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市朝日新町
+    rdfs:label "朝日新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市庵治町
+    rdfs:label "庵治町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市飯田町
+    rdfs:label "飯田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市生島町
+    rdfs:label "生島町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市井口町
+    rdfs:label "井口町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市池田町
+    rdfs:label "池田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市一宮町
+    rdfs:label "一宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市今里町
+    rdfs:label "今里町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市今新町
+    rdfs:label "今新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市植松町
+    rdfs:label "植松町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市内町
+    rdfs:label "内町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市円座町
+    rdfs:label "円座町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市扇町
+    rdfs:label "扇町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市太田上町
+    rdfs:label "太田上町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市太田下町
+    rdfs:label "太田下町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市岡本町
+    rdfs:label "岡本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市男木町
+    rdfs:label "男木町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市小村町
+    rdfs:label "小村町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香川町浅野
+    rdfs:label "香川町浅野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香川町大野
+    rdfs:label "香川町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香川町川内原
+    rdfs:label "香川町川内原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香川町川東上
+    rdfs:label "香川町川東上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香川町川東下
+    rdfs:label "香川町川東下"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香川町寺井
+    rdfs:label "香川町寺井"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香川町東谷
+    rdfs:label "香川町東谷"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香川町安原下
+    rdfs:label "香川町安原下"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鍛冶屋町
+    rdfs:label "鍛冶屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市片原町
+    rdfs:label "片原町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鹿角町
+    rdfs:label "鹿角町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市上天神町
+    rdfs:label "上天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市上之町
+    rdfs:label "上之町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市上林町
+    rdfs:label "上林町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市上福岡町
+    rdfs:label "上福岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市紙町
+    rdfs:label "紙町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市亀井町
+    rdfs:label "亀井町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市亀岡町
+    rdfs:label "亀岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市亀田町
+    rdfs:label "亀田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市亀田南町
+    rdfs:label "亀田南町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市川島東町
+    rdfs:label "川島東町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市川島本町
+    rdfs:label "川島本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市川部町
+    rdfs:label "川部町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市瓦町
+    rdfs:label "瓦町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市観光町
+    rdfs:label "観光町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市観光通
+    rdfs:label "観光通"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市木太町
+    rdfs:label "木太町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市北浜町
+    rdfs:label "北浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鬼無町鬼無
+    rdfs:label "鬼無町鬼無"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鬼無町是竹
+    rdfs:label "鬼無町是竹"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鬼無町佐藤
+    rdfs:label "鬼無町佐藤"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鬼無町佐料
+    rdfs:label "鬼無町佐料"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鬼無町藤井
+    rdfs:label "鬼無町藤井"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鬼無町山口
+    rdfs:label "鬼無町山口"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市楠上町
+    rdfs:label "楠上町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香西東町
+    rdfs:label "香西東町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香西西町
+    rdfs:label "香西西町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香西南町
+    rdfs:label "香西南町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香西北町
+    rdfs:label "香西北町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香西本町
+    rdfs:label "香西本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市郷東町
+    rdfs:label "郷東町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香南町池内
+    rdfs:label "香南町池内"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香南町岡
+    rdfs:label "香南町岡"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香南町西庄
+    rdfs:label "香南町西庄"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香南町由佐
+    rdfs:label "香南町由佐"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香南町横井
+    rdfs:label "香南町横井"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市香南町吉光
+    rdfs:label "香南町吉光"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市国分寺町柏原
+    rdfs:label "国分寺町柏原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市国分寺町国分
+    rdfs:label "国分寺町国分"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市国分寺町新名
+    rdfs:label "国分寺町新名"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市国分寺町新居
+    rdfs:label "国分寺町新居"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市国分寺町福家
+    rdfs:label "国分寺町福家"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市御坊町
+    rdfs:label "御坊町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市紺屋町
+    rdfs:label "紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市西宝町
+    rdfs:label "西宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市三条町
+    rdfs:label "三条町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市サンポート
+    rdfs:label "サンポート"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市三名町
+    rdfs:label "三名町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市紫雲町
+    rdfs:label "紫雲町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩上町
+    rdfs:label "塩上町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩江町上西乙
+    rdfs:label "塩江町上西乙"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩江町上西甲
+    rdfs:label "塩江町上西甲"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩江町安原上
+    rdfs:label "塩江町安原上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩江町安原上東
+    rdfs:label "塩江町安原上東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩江町安原下
+    rdfs:label "塩江町安原下"@ja ;
+    mo:SubRegion mr:JP_香川県高松市塩江町安原下上小田 ;
+    mo:SubRegion mr:JP_香川県高松市塩江町安原下炭谷 ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩江町安原下上小田
+    rdfs:label "上小田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩江町安原下炭谷
+    rdfs:label "炭谷"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市塩屋町
+    rdfs:label "塩屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市下田井町
+    rdfs:label "下田井町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市出作町
+    rdfs:label "出作町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市城東町
+    rdfs:label "城東町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市新北町
+    rdfs:label "新北町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市神在川窪町
+    rdfs:label "神在川窪町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市新田町甲
+    rdfs:label "新田町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市新田町乙
+    rdfs:label "新田町乙"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市菅沢町
+    rdfs:label "菅沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市瀬戸内町
+    rdfs:label "瀬戸内町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市十川東町
+    rdfs:label "十川東町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市十川西町
+    rdfs:label "十川西町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市高松町
+    rdfs:label "高松町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市多賀町
+    rdfs:label "多賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市多肥上町
+    rdfs:label "多肥上町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市多肥下町
+    rdfs:label "多肥下町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市田町
+    rdfs:label "田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市玉藻町
+    rdfs:label "玉藻町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市田村町
+    rdfs:label "田村町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市亀水町
+    rdfs:label "亀水町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市大工町
+    rdfs:label "大工町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市檀紙町
+    rdfs:label "檀紙町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市勅使町
+    rdfs:label "勅使町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市築地町
+    rdfs:label "築地町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鶴市町
+    rdfs:label "鶴市町"@ja ;
+    mo:SubRegion mr:JP_香川県高松市鶴市町台山 ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鶴市町台山
+    rdfs:label "台山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市鶴屋町
+    rdfs:label "鶴屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市寺井町
+    rdfs:label "寺井町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市天神前
+    rdfs:label "天神前"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市通町
+    rdfs:label "通町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市常磐町
+    rdfs:label "常磐町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市磨屋町
+    rdfs:label "磨屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市中新町
+    rdfs:label "中新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市中間町
+    rdfs:label "中間町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市中野町
+    rdfs:label "中野町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市中山町
+    rdfs:label "中山町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市成合町
+    rdfs:label "成合町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市西植田町
+    rdfs:label "西植田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市西内町
+    rdfs:label "西内町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市西春日町
+    rdfs:label "西春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市西の丸町
+    rdfs:label "西の丸町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市西ハゼ町
+    rdfs:label "西ハゼ町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市西山崎町
+    rdfs:label "西山崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市旅籠町
+    rdfs:label "旅籠町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市花ノ宮町
+    rdfs:label "花ノ宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市浜ノ町
+    rdfs:label "浜ノ町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市林町
+    rdfs:label "林町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市番町
+    rdfs:label "番町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市東植田町
+    rdfs:label "東植田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市東田町
+    rdfs:label "東田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市東ハゼ町
+    rdfs:label "東ハゼ町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市東浜町
+    rdfs:label "東浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市東山崎町
+    rdfs:label "東山崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市百間町
+    rdfs:label "百間町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市兵庫町
+    rdfs:label "兵庫町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市福岡町
+    rdfs:label "福岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市福田町
+    rdfs:label "福田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市藤塚町
+    rdfs:label "藤塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市伏石町
+    rdfs:label "伏石町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市古新町
+    rdfs:label "古新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市古馬場町
+    rdfs:label "古馬場町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市仏生山町甲
+    rdfs:label "仏生山町甲"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市仏生山町乙
+    rdfs:label "仏生山町乙"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市前田東町
+    rdfs:label "前田東町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市前田西町
+    rdfs:label "前田西町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市松島町
+    rdfs:label "松島町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市松並町
+    rdfs:label "松並町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市松縄町
+    rdfs:label "松縄町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市松福町
+    rdfs:label "松福町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市丸亀町
+    rdfs:label "丸亀町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市丸の内
+    rdfs:label "丸の内"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市三谷町
+    rdfs:label "三谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市南新町
+    rdfs:label "南新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市峰山町
+    rdfs:label "峰山町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市御厩町
+    rdfs:label "御厩町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市宮脇町
+    rdfs:label "宮脇町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市牟礼町大町
+    rdfs:label "牟礼町大町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市牟礼町原
+    rdfs:label "牟礼町原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市牟礼町牟礼
+    rdfs:label "牟礼町牟礼"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市室新町
+    rdfs:label "室新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市室町
+    rdfs:label "室町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市女木町
+    rdfs:label "女木町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市元山町
+    rdfs:label "元山町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市八坂町
+    rdfs:label "八坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市屋島中町
+    rdfs:label "屋島中町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市屋島東町
+    rdfs:label "屋島東町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市屋島西町
+    rdfs:label "屋島西町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市由良町
+    rdfs:label "由良町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市栗林町
+    rdfs:label "栗林町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県高松市六条町
+    rdfs:label "六条町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市
+    rdfs:label "丸亀市"@ja ;
+    mo:AreaCode "37202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県丸亀市綾歌町岡田上 ;
+    mo:SubRegion mr:JP_香川県丸亀市綾歌町岡田下 ;
+    mo:SubRegion mr:JP_香川県丸亀市綾歌町岡田東 ;
+    mo:SubRegion mr:JP_香川県丸亀市綾歌町岡田西 ;
+    mo:SubRegion mr:JP_香川県丸亀市綾歌町栗熊東 ;
+    mo:SubRegion mr:JP_香川県丸亀市綾歌町栗熊西 ;
+    mo:SubRegion mr:JP_香川県丸亀市綾歌町富熊 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯野町東二 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯野町東分 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯野町西分 ;
+    mo:SubRegion mr:JP_香川県丸亀市一番丁 ;
+    mo:SubRegion mr:JP_香川県丸亀市今津町 ;
+    mo:SubRegion mr:JP_香川県丸亀市魚屋町 ;
+    mo:SubRegion mr:JP_香川県丸亀市牛島 ;
+    mo:SubRegion mr:JP_香川県丸亀市大手町 ;
+    mo:SubRegion mr:JP_香川県丸亀市金倉町 ;
+    mo:SubRegion mr:JP_香川県丸亀市葭町 ;
+    mo:SubRegion mr:JP_香川県丸亀市川西町南 ;
+    mo:SubRegion mr:JP_香川県丸亀市川西町北 ;
+    mo:SubRegion mr:JP_香川県丸亀市瓦町 ;
+    mo:SubRegion mr:JP_香川県丸亀市北平山町 ;
+    mo:SubRegion mr:JP_香川県丸亀市柞原町 ;
+    mo:SubRegion mr:JP_香川県丸亀市九番丁 ;
+    mo:SubRegion mr:JP_香川県丸亀市郡家町 ;
+    mo:SubRegion mr:JP_香川県丸亀市御供所町 ;
+    mo:SubRegion mr:JP_香川県丸亀市米屋町 ;
+    mo:SubRegion mr:JP_香川県丸亀市幸町 ;
+    mo:SubRegion mr:JP_香川県丸亀市三条町 ;
+    mo:SubRegion mr:JP_香川県丸亀市塩屋町 ;
+    mo:SubRegion mr:JP_香川県丸亀市七番丁 ;
+    mo:SubRegion mr:JP_香川県丸亀市十番丁 ;
+    mo:SubRegion mr:JP_香川県丸亀市城東町 ;
+    mo:SubRegion mr:JP_香川県丸亀市城南町 ;
+    mo:SubRegion mr:JP_香川県丸亀市城西町 ;
+    mo:SubRegion mr:JP_香川県丸亀市昭和町 ;
+    mo:SubRegion mr:JP_香川県丸亀市塩飽町 ;
+    mo:SubRegion mr:JP_香川県丸亀市新田町 ;
+    mo:SubRegion mr:JP_香川県丸亀市新浜町 ;
+    mo:SubRegion mr:JP_香川県丸亀市新町 ;
+    mo:SubRegion mr:JP_香川県丸亀市宗古町 ;
+    mo:SubRegion mr:JP_香川県丸亀市田村町 ;
+    mo:SubRegion mr:JP_香川県丸亀市垂水町 ;
+    mo:SubRegion mr:JP_香川県丸亀市津森町 ;
+    mo:SubRegion mr:JP_香川県丸亀市手島町 ;
+    mo:SubRegion mr:JP_香川県丸亀市天満町 ;
+    mo:SubRegion mr:JP_香川県丸亀市通町 ;
+    mo:SubRegion mr:JP_香川県丸亀市富屋町 ;
+    mo:SubRegion mr:JP_香川県丸亀市土居町 ;
+    mo:SubRegion mr:JP_香川県丸亀市土器町東 ;
+    mo:SubRegion mr:JP_香川県丸亀市土器町西 ;
+    mo:SubRegion mr:JP_香川県丸亀市土器町北 ;
+    mo:SubRegion mr:JP_香川県丸亀市中津町 ;
+    mo:SubRegion mr:JP_香川県丸亀市中府町 ;
+    mo:SubRegion mr:JP_香川県丸亀市南条町 ;
+    mo:SubRegion mr:JP_香川県丸亀市西平山町 ;
+    mo:SubRegion mr:JP_香川県丸亀市西本町 ;
+    mo:SubRegion mr:JP_香川県丸亀市八番丁 ;
+    mo:SubRegion mr:JP_香川県丸亀市浜町 ;
+    mo:SubRegion mr:JP_香川県丸亀市原田団地 ;
+    mo:SubRegion mr:JP_香川県丸亀市原田町 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯山町上法軍寺 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯山町川原 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯山町真時 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯山町下法軍寺 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯山町西坂元 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯山町東小川 ;
+    mo:SubRegion mr:JP_香川県丸亀市飯山町東坂元 ;
+    mo:SubRegion mr:JP_香川県丸亀市広島町青木 ;
+    mo:SubRegion mr:JP_香川県丸亀市広島町市井 ;
+    mo:SubRegion mr:JP_香川県丸亀市広島町江の浦 ;
+    mo:SubRegion mr:JP_香川県丸亀市広島町小手島 ;
+    mo:SubRegion mr:JP_香川県丸亀市広島町釜の越 ;
+    mo:SubRegion mr:JP_香川県丸亀市広島町甲路 ;
+    mo:SubRegion mr:JP_香川県丸亀市広島町立石 ;
+    mo:SubRegion mr:JP_香川県丸亀市広島町茂浦 ;
+    mo:SubRegion mr:JP_香川県丸亀市福島町 ;
+    mo:SubRegion mr:JP_香川県丸亀市富士見町 ;
+    mo:SubRegion mr:JP_香川県丸亀市風袋町 ;
+    mo:SubRegion mr:JP_香川県丸亀市蓬莱町 ;
+    mo:SubRegion mr:JP_香川県丸亀市本島町生ノ浜 ;
+    mo:SubRegion mr:JP_香川県丸亀市本島町大浦 ;
+    mo:SubRegion mr:JP_香川県丸亀市本島町笠島 ;
+    mo:SubRegion mr:JP_香川県丸亀市本島町甲生 ;
+    mo:SubRegion mr:JP_香川県丸亀市本島町小阪 ;
+    mo:SubRegion mr:JP_香川県丸亀市本島町尻浜 ;
+    mo:SubRegion mr:JP_香川県丸亀市本島町泊 ;
+    mo:SubRegion mr:JP_香川県丸亀市本島町福田 ;
+    mo:SubRegion mr:JP_香川県丸亀市本町 ;
+    mo:SubRegion mr:JP_香川県丸亀市前塩屋町 ;
+    mo:SubRegion mr:JP_香川県丸亀市松屋町 ;
+    mo:SubRegion mr:JP_香川県丸亀市港町 ;
+    mo:SubRegion mr:JP_香川県丸亀市山北町 ;
+    mo:SubRegion mr:JP_香川県丸亀市六番丁 ;
+a mo:GeoEntity .
+
+mr:JP_香川県丸亀市綾歌町岡田上
+    rdfs:label "綾歌町岡田上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市綾歌町岡田下
+    rdfs:label "綾歌町岡田下"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市綾歌町岡田東
+    rdfs:label "綾歌町岡田東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市綾歌町岡田西
+    rdfs:label "綾歌町岡田西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市綾歌町栗熊東
+    rdfs:label "綾歌町栗熊東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市綾歌町栗熊西
+    rdfs:label "綾歌町栗熊西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市綾歌町富熊
+    rdfs:label "綾歌町富熊"@ja ;
+    mo:SubRegion mr:JP_香川県丸亀市綾歌町富熊富士見坂 ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市綾歌町富熊富士見坂
+    rdfs:label "富士見坂"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯野町東二
+    rdfs:label "飯野町東二"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯野町東分
+    rdfs:label "飯野町東分"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯野町西分
+    rdfs:label "飯野町西分"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市一番丁
+    rdfs:label "一番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市今津町
+    rdfs:label "今津町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市魚屋町
+    rdfs:label "魚屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市牛島
+    rdfs:label "牛島"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市大手町
+    rdfs:label "大手町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市金倉町
+    rdfs:label "金倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市葭町
+    rdfs:label "葭町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市川西町南
+    rdfs:label "川西町南"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市川西町北
+    rdfs:label "川西町北"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市瓦町
+    rdfs:label "瓦町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市北平山町
+    rdfs:label "北平山町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市柞原町
+    rdfs:label "柞原町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市九番丁
+    rdfs:label "九番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市郡家町
+    rdfs:label "郡家町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市御供所町
+    rdfs:label "御供所町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市米屋町
+    rdfs:label "米屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市三条町
+    rdfs:label "三条町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市塩屋町
+    rdfs:label "塩屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市七番丁
+    rdfs:label "七番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市十番丁
+    rdfs:label "十番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市城東町
+    rdfs:label "城東町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市城南町
+    rdfs:label "城南町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市城西町
+    rdfs:label "城西町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市塩飽町
+    rdfs:label "塩飽町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市新田町
+    rdfs:label "新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市新浜町
+    rdfs:label "新浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市宗古町
+    rdfs:label "宗古町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市田村町
+    rdfs:label "田村町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市垂水町
+    rdfs:label "垂水町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市津森町
+    rdfs:label "津森町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市手島町
+    rdfs:label "手島町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市天満町
+    rdfs:label "天満町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市通町
+    rdfs:label "通町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市富屋町
+    rdfs:label "富屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市土居町
+    rdfs:label "土居町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市土器町東
+    rdfs:label "土器町東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市土器町西
+    rdfs:label "土器町西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市土器町北
+    rdfs:label "土器町北"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市中津町
+    rdfs:label "中津町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市中府町
+    rdfs:label "中府町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市南条町
+    rdfs:label "南条町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市西平山町
+    rdfs:label "西平山町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市西本町
+    rdfs:label "西本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市八番丁
+    rdfs:label "八番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市浜町
+    rdfs:label "浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市原田団地
+    rdfs:label "原田団地"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市原田町
+    rdfs:label "原田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯山町上法軍寺
+    rdfs:label "飯山町上法軍寺"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯山町川原
+    rdfs:label "飯山町川原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯山町真時
+    rdfs:label "飯山町真時"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯山町下法軍寺
+    rdfs:label "飯山町下法軍寺"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯山町西坂元
+    rdfs:label "飯山町西坂元"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯山町東小川
+    rdfs:label "飯山町東小川"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市飯山町東坂元
+    rdfs:label "飯山町東坂元"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市広島町青木
+    rdfs:label "広島町青木"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市広島町市井
+    rdfs:label "広島町市井"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市広島町江の浦
+    rdfs:label "広島町江の浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市広島町小手島
+    rdfs:label "広島町小手島"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市広島町釜の越
+    rdfs:label "広島町釜の越"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市広島町甲路
+    rdfs:label "広島町甲路"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市広島町立石
+    rdfs:label "広島町立石"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市広島町茂浦
+    rdfs:label "広島町茂浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市福島町
+    rdfs:label "福島町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市風袋町
+    rdfs:label "風袋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市蓬莱町
+    rdfs:label "蓬莱町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本島町生ノ浜
+    rdfs:label "本島町生ノ浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本島町大浦
+    rdfs:label "本島町大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本島町笠島
+    rdfs:label "本島町笠島"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本島町甲生
+    rdfs:label "本島町甲生"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本島町小阪
+    rdfs:label "本島町小阪"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本島町尻浜
+    rdfs:label "本島町尻浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本島町泊
+    rdfs:label "本島町泊"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本島町福田
+    rdfs:label "本島町福田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市前塩屋町
+    rdfs:label "前塩屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市松屋町
+    rdfs:label "松屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市山北町
+    rdfs:label "山北町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県丸亀市六番丁
+    rdfs:label "六番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市
+    rdfs:label "坂出市"@ja ;
+    mo:AreaCode "37203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県坂出市青葉町 ;
+    mo:SubRegion mr:JP_香川県坂出市旭町 ;
+    mo:SubRegion mr:JP_香川県坂出市池園町 ;
+    mo:SubRegion mr:JP_香川県坂出市入船町 ;
+    mo:SubRegion mr:JP_香川県坂出市岩黒 ;
+    mo:SubRegion mr:JP_香川県坂出市江尻町 ;
+    mo:SubRegion mr:JP_香川県坂出市王越町木沢 ;
+    mo:SubRegion mr:JP_香川県坂出市王越町乃生 ;
+    mo:SubRegion mr:JP_香川県坂出市青海町 ;
+    mo:SubRegion mr:JP_香川県坂出市大池町 ;
+    mo:SubRegion mr:JP_香川県坂出市大屋冨町 ;
+    mo:SubRegion mr:JP_香川県坂出市沖の浜 ;
+    mo:SubRegion mr:JP_香川県坂出市笠指町 ;
+    mo:SubRegion mr:JP_香川県坂出市加茂町甲 ;
+    mo:SubRegion mr:JP_香川県坂出市加茂町 ;
+    mo:SubRegion mr:JP_香川県坂出市川崎町 ;
+    mo:SubRegion mr:JP_香川県坂出市川津町 ;
+    mo:SubRegion mr:JP_香川県坂出市神谷町 ;
+    mo:SubRegion mr:JP_香川県坂出市京町 ;
+    mo:SubRegion mr:JP_香川県坂出市久米町 ;
+    mo:SubRegion mr:JP_香川県坂出市寿町 ;
+    mo:SubRegion mr:JP_香川県坂出市御供所町 ;
+    mo:SubRegion mr:JP_香川県坂出市駒止町 ;
+    mo:SubRegion mr:JP_香川県坂出市小山町 ;
+    mo:SubRegion mr:JP_香川県坂出市坂出町 ;
+    mo:SubRegion mr:JP_香川県坂出市沙弥島 ;
+    mo:SubRegion mr:JP_香川県坂出市昭和町 ;
+    mo:SubRegion mr:JP_香川県坂出市白金町 ;
+    mo:SubRegion mr:JP_香川県坂出市新浜町 ;
+    mo:SubRegion mr:JP_香川県坂出市瀬居町 ;
+    mo:SubRegion mr:JP_香川県坂出市高屋町 ;
+    mo:SubRegion mr:JP_香川県坂出市谷町 ;
+    mo:SubRegion mr:JP_香川県坂出市築港町 ;
+    mo:SubRegion mr:JP_香川県坂出市中央町 ;
+    mo:SubRegion mr:JP_香川県坂出市常盤町 ;
+    mo:SubRegion mr:JP_香川県坂出市西大浜南 ;
+    mo:SubRegion mr:JP_香川県坂出市西大浜北 ;
+    mo:SubRegion mr:JP_香川県坂出市西庄町 ;
+    mo:SubRegion mr:JP_香川県坂出市八幡町 ;
+    mo:SubRegion mr:JP_香川県坂出市花町 ;
+    mo:SubRegion mr:JP_香川県坂出市林田町 ;
+    mo:SubRegion mr:JP_香川県坂出市番の州公園 ;
+    mo:SubRegion mr:JP_香川県坂出市番の州町 ;
+    mo:SubRegion mr:JP_香川県坂出市番の州緑町 ;
+    mo:SubRegion mr:JP_香川県坂出市櫃石 ;
+    mo:SubRegion mr:JP_香川県坂出市福江町 ;
+    mo:SubRegion mr:JP_香川県坂出市富士見町 ;
+    mo:SubRegion mr:JP_香川県坂出市府中町 ;
+    mo:SubRegion mr:JP_香川県坂出市文京町 ;
+    mo:SubRegion mr:JP_香川県坂出市本町 ;
+    mo:SubRegion mr:JP_香川県坂出市宮下町 ;
+    mo:SubRegion mr:JP_香川県坂出市室町 ;
+    mo:SubRegion mr:JP_香川県坂出市元町 ;
+    mo:SubRegion mr:JP_香川県坂出市横津町 ;
+    mo:SubRegion mr:JP_香川県坂出市与島町 ;
+a mo:GeoEntity .
+
+mr:JP_香川県坂出市青葉町
+    rdfs:label "青葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市池園町
+    rdfs:label "池園町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市入船町
+    rdfs:label "入船町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市岩黒
+    rdfs:label "岩黒"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市江尻町
+    rdfs:label "江尻町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市王越町木沢
+    rdfs:label "王越町木沢"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市王越町乃生
+    rdfs:label "王越町乃生"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市青海町
+    rdfs:label "青海町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市大池町
+    rdfs:label "大池町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市大屋冨町
+    rdfs:label "大屋冨町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市沖の浜
+    rdfs:label "沖の浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市笠指町
+    rdfs:label "笠指町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市加茂町甲
+    rdfs:label "加茂町甲"@ja ;
+    mo:SubRegion mr:JP_香川県坂出市加茂町甲氏部 ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市加茂町甲氏部
+    rdfs:label "氏部"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市加茂町
+    rdfs:label "加茂町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市川崎町
+    rdfs:label "川崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市川津町
+    rdfs:label "川津町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市神谷町
+    rdfs:label "神谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市久米町
+    rdfs:label "久米町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市御供所町
+    rdfs:label "御供所町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市駒止町
+    rdfs:label "駒止町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市小山町
+    rdfs:label "小山町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市坂出町
+    rdfs:label "坂出町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市沙弥島
+    rdfs:label "沙弥島"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市白金町
+    rdfs:label "白金町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市新浜町
+    rdfs:label "新浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市瀬居町
+    rdfs:label "瀬居町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市高屋町
+    rdfs:label "高屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市谷町
+    rdfs:label "谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市築港町
+    rdfs:label "築港町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市常盤町
+    rdfs:label "常盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市西大浜南
+    rdfs:label "西大浜南"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市西大浜北
+    rdfs:label "西大浜北"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市西庄町
+    rdfs:label "西庄町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市花町
+    rdfs:label "花町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市林田町
+    rdfs:label "林田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市番の州公園
+    rdfs:label "番の州公園"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市番の州町
+    rdfs:label "番の州町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市番の州緑町
+    rdfs:label "番の州緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市櫃石
+    rdfs:label "櫃石"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市福江町
+    rdfs:label "福江町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市府中町
+    rdfs:label "府中町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市文京町
+    rdfs:label "文京町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市宮下町
+    rdfs:label "宮下町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市室町
+    rdfs:label "室町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市横津町
+    rdfs:label "横津町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県坂出市与島町
+    rdfs:label "与島町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市
+    rdfs:label "善通寺市"@ja ;
+    mo:AreaCode "37204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県善通寺市生野町 ;
+    mo:SubRegion mr:JP_香川県善通寺市生野本町 ;
+    mo:SubRegion mr:JP_香川県善通寺市稲木町 ;
+    mo:SubRegion mr:JP_香川県善通寺市大麻町 ;
+    mo:SubRegion mr:JP_香川県善通寺市上吉田町 ;
+    mo:SubRegion mr:JP_香川県善通寺市木徳町 ;
+    mo:SubRegion mr:JP_香川県善通寺市櫛梨町 ;
+    mo:SubRegion mr:JP_香川県善通寺市金蔵寺町 ;
+    mo:SubRegion mr:JP_香川県善通寺市下吉田町 ;
+    mo:SubRegion mr:JP_香川県善通寺市善通寺町 ;
+    mo:SubRegion mr:JP_香川県善通寺市仙遊町 ;
+    mo:SubRegion mr:JP_香川県善通寺市中村町 ;
+    mo:SubRegion mr:JP_香川県善通寺市原田町 ;
+    mo:SubRegion mr:JP_香川県善通寺市碑殿町 ;
+    mo:SubRegion mr:JP_香川県善通寺市弘田町 ;
+    mo:SubRegion mr:JP_香川県善通寺市文京町 ;
+    mo:SubRegion mr:JP_香川県善通寺市南町 ;
+    mo:SubRegion mr:JP_香川県善通寺市与北町 ;
+    mo:SubRegion mr:JP_香川県善通寺市吉原町 ;
+a mo:GeoEntity .
+
+mr:JP_香川県善通寺市生野町
+    rdfs:label "生野町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市生野本町
+    rdfs:label "生野本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市稲木町
+    rdfs:label "稲木町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市大麻町
+    rdfs:label "大麻町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市上吉田町
+    rdfs:label "上吉田町"@ja ;
+    mo:SubRegion mr:JP_香川県善通寺市上吉田町丁目 ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市上吉田町丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市木徳町
+    rdfs:label "木徳町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市櫛梨町
+    rdfs:label "櫛梨町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市金蔵寺町
+    rdfs:label "金蔵寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市下吉田町
+    rdfs:label "下吉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市善通寺町
+    rdfs:label "善通寺町"@ja ;
+    mo:SubRegion mr:JP_香川県善通寺市善通寺町丁目 ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市善通寺町丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市仙遊町
+    rdfs:label "仙遊町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市中村町
+    rdfs:label "中村町"@ja ;
+    mo:SubRegion mr:JP_香川県善通寺市中村町丁目 ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市中村町丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市原田町
+    rdfs:label "原田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市碑殿町
+    rdfs:label "碑殿町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市弘田町
+    rdfs:label "弘田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市文京町
+    rdfs:label "文京町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市与北町
+    rdfs:label "与北町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県善通寺市吉原町
+    rdfs:label "吉原町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市
+    rdfs:label "観音寺市"@ja ;
+    mo:AreaCode "37205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県観音寺市有明町 ;
+    mo:SubRegion mr:JP_香川県観音寺市粟井町 ;
+    mo:SubRegion mr:JP_香川県観音寺市池之尻町 ;
+    mo:SubRegion mr:JP_香川県観音寺市伊吹町 ;
+    mo:SubRegion mr:JP_香川県観音寺市植田町 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町青岡 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町有木 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町井関 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町内野々 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町海老済 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町大野原 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町田野々 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町中姫 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町萩原 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町花稲 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町福田原 ;
+    mo:SubRegion mr:JP_香川県観音寺市大野原町丸井 ;
+    mo:SubRegion mr:JP_香川県観音寺市観音寺町 ;
+    mo:SubRegion mr:JP_香川県観音寺市木之郷町 ;
+    mo:SubRegion mr:JP_香川県観音寺市柞田町 ;
+    mo:SubRegion mr:JP_香川県観音寺市琴浪町 ;
+    mo:SubRegion mr:JP_香川県観音寺市幸町 ;
+    mo:SubRegion mr:JP_香川県観音寺市栄町 ;
+    mo:SubRegion mr:JP_香川県観音寺市坂本町 ;
+    mo:SubRegion mr:JP_香川県観音寺市三本松町 ;
+    mo:SubRegion mr:JP_香川県観音寺市茂木町 ;
+    mo:SubRegion mr:JP_香川県観音寺市茂西町 ;
+    mo:SubRegion mr:JP_香川県観音寺市出作町 ;
+    mo:SubRegion mr:JP_香川県観音寺市昭和町 ;
+    mo:SubRegion mr:JP_香川県観音寺市新田町 ;
+    mo:SubRegion mr:JP_香川県観音寺市瀬戸町 ;
+    mo:SubRegion mr:JP_香川県観音寺市高屋町 ;
+    mo:SubRegion mr:JP_香川県観音寺市天神町 ;
+    mo:SubRegion mr:JP_香川県観音寺市豊浜町姫浜 ;
+    mo:SubRegion mr:JP_香川県観音寺市豊浜町箕浦 ;
+    mo:SubRegion mr:JP_香川県観音寺市豊浜町和田 ;
+    mo:SubRegion mr:JP_香川県観音寺市豊浜町和田浜 ;
+    mo:SubRegion mr:JP_香川県観音寺市中田井町 ;
+    mo:SubRegion mr:JP_香川県観音寺市流岡町 ;
+    mo:SubRegion mr:JP_香川県観音寺市凪瀬町 ;
+    mo:SubRegion mr:JP_香川県観音寺市西本町 ;
+    mo:SubRegion mr:JP_香川県観音寺市原町 ;
+    mo:SubRegion mr:JP_香川県観音寺市古川町 ;
+    mo:SubRegion mr:JP_香川県観音寺市港町 ;
+    mo:SubRegion mr:JP_香川県観音寺市南町 ;
+    mo:SubRegion mr:JP_香川県観音寺市村黒町 ;
+    mo:SubRegion mr:JP_香川県観音寺市室本町 ;
+    mo:SubRegion mr:JP_香川県観音寺市本大町 ;
+    mo:SubRegion mr:JP_香川県観音寺市八幡町 ;
+    mo:SubRegion mr:JP_香川県観音寺市吉岡町 ;
+a mo:GeoEntity .
+
+mr:JP_香川県観音寺市有明町
+    rdfs:label "有明町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市粟井町
+    rdfs:label "粟井町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市池之尻町
+    rdfs:label "池之尻町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市伊吹町
+    rdfs:label "伊吹町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市植田町
+    rdfs:label "植田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町青岡
+    rdfs:label "大野原町青岡"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町有木
+    rdfs:label "大野原町有木"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町井関
+    rdfs:label "大野原町井関"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町内野々
+    rdfs:label "大野原町内野々"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町海老済
+    rdfs:label "大野原町海老済"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町大野原
+    rdfs:label "大野原町大野原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町田野々
+    rdfs:label "大野原町田野々"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町中姫
+    rdfs:label "大野原町中姫"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町萩原
+    rdfs:label "大野原町萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町花稲
+    rdfs:label "大野原町花稲"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町福田原
+    rdfs:label "大野原町福田原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市大野原町丸井
+    rdfs:label "大野原町丸井"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市観音寺町
+    rdfs:label "観音寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市木之郷町
+    rdfs:label "木之郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市柞田町
+    rdfs:label "柞田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市琴浪町
+    rdfs:label "琴浪町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市坂本町
+    rdfs:label "坂本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市三本松町
+    rdfs:label "三本松町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市茂木町
+    rdfs:label "茂木町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市茂西町
+    rdfs:label "茂西町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市出作町
+    rdfs:label "出作町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市新田町
+    rdfs:label "新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市瀬戸町
+    rdfs:label "瀬戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市高屋町
+    rdfs:label "高屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市豊浜町姫浜
+    rdfs:label "豊浜町姫浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市豊浜町箕浦
+    rdfs:label "豊浜町箕浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市豊浜町和田
+    rdfs:label "豊浜町和田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市豊浜町和田浜
+    rdfs:label "豊浜町和田浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市中田井町
+    rdfs:label "中田井町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市流岡町
+    rdfs:label "流岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市凪瀬町
+    rdfs:label "凪瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市西本町
+    rdfs:label "西本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市古川町
+    rdfs:label "古川町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市村黒町
+    rdfs:label "村黒町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市室本町
+    rdfs:label "室本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市本大町
+    rdfs:label "本大町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県観音寺市吉岡町
+    rdfs:label "吉岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市
+    rdfs:label "さぬき市"@ja ;
+    mo:AreaCode "37206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県さぬき市大川町田面 ;
+    mo:SubRegion mr:JP_香川県さぬき市大川町富田中 ;
+    mo:SubRegion mr:JP_香川県さぬき市大川町富田西 ;
+    mo:SubRegion mr:JP_香川県さぬき市大川町富田東 ;
+    mo:SubRegion mr:JP_香川県さぬき市大川町南川 ;
+    mo:SubRegion mr:JP_香川県さぬき市小田 ;
+    mo:SubRegion mr:JP_香川県さぬき市鴨部 ;
+    mo:SubRegion mr:JP_香川県さぬき市鴨庄 ;
+    mo:SubRegion mr:JP_香川県さぬき市寒川町石田西 ;
+    mo:SubRegion mr:JP_香川県さぬき市寒川町石田東 ;
+    mo:SubRegion mr:JP_香川県さぬき市寒川町神前 ;
+    mo:SubRegion mr:JP_香川県さぬき市志度 ;
+    mo:SubRegion mr:JP_香川県さぬき市昭和 ;
+    mo:SubRegion mr:JP_香川県さぬき市末 ;
+    mo:SubRegion mr:JP_香川県さぬき市造田 ;
+    mo:SubRegion mr:JP_香川県さぬき市造田乙井 ;
+    mo:SubRegion mr:JP_香川県さぬき市造田是弘 ;
+    mo:SubRegion mr:JP_香川県さぬき市造田野間田 ;
+    mo:SubRegion mr:JP_香川県さぬき市造田宮西 ;
+    mo:SubRegion mr:JP_香川県さぬき市多和 ;
+    mo:SubRegion mr:JP_香川県さぬき市津田町津田 ;
+    mo:SubRegion mr:JP_香川県さぬき市津田町鶴羽 ;
+    mo:SubRegion mr:JP_香川県さぬき市長尾西 ;
+    mo:SubRegion mr:JP_香川県さぬき市長尾東 ;
+    mo:SubRegion mr:JP_香川県さぬき市長尾名 ;
+    mo:SubRegion mr:JP_香川県さぬき市前山 ;
+a mo:GeoEntity .
+
+mr:JP_香川県さぬき市大川町田面
+    rdfs:label "大川町田面"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市大川町富田中
+    rdfs:label "大川町富田中"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市大川町富田西
+    rdfs:label "大川町富田西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市大川町富田東
+    rdfs:label "大川町富田東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市大川町南川
+    rdfs:label "大川町南川"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市小田
+    rdfs:label "小田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市鴨部
+    rdfs:label "鴨部"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市鴨庄
+    rdfs:label "鴨庄"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市寒川町石田西
+    rdfs:label "寒川町石田西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市寒川町石田東
+    rdfs:label "寒川町石田東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市寒川町神前
+    rdfs:label "寒川町神前"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市志度
+    rdfs:label "志度"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市昭和
+    rdfs:label "昭和"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市末
+    rdfs:label "末"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市造田
+    rdfs:label "造田"@ja ;
+    mo:SubRegion mr:JP_香川県さぬき市造田オレンジタウン ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市造田オレンジタウン
+    rdfs:label "オレンジタウン"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市造田乙井
+    rdfs:label "造田乙井"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市造田是弘
+    rdfs:label "造田是弘"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市造田野間田
+    rdfs:label "造田野間田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市造田宮西
+    rdfs:label "造田宮西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市多和
+    rdfs:label "多和"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市津田町津田
+    rdfs:label "津田町津田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市津田町鶴羽
+    rdfs:label "津田町鶴羽"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市長尾西
+    rdfs:label "長尾西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市長尾東
+    rdfs:label "長尾東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市長尾名
+    rdfs:label "長尾名"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県さぬき市前山
+    rdfs:label "前山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市
+    rdfs:label "東かがわ市"@ja ;
+    mo:AreaCode "37207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県東かがわ市伊座 ;
+    mo:SubRegion mr:JP_香川県東かがわ市馬篠 ;
+    mo:SubRegion mr:JP_香川県東かがわ市馬宿 ;
+    mo:SubRegion mr:JP_香川県東かがわ市小海 ;
+    mo:SubRegion mr:JP_香川県東かがわ市大谷 ;
+    mo:SubRegion mr:JP_香川県東かがわ市大内 ;
+    mo:SubRegion mr:JP_香川県東かがわ市落合 ;
+    mo:SubRegion mr:JP_香川県東かがわ市川東 ;
+    mo:SubRegion mr:JP_香川県東かがわ市川股 ;
+    mo:SubRegion mr:JP_香川県東かがわ市帰来 ;
+    mo:SubRegion mr:JP_香川県東かがわ市黒羽 ;
+    mo:SubRegion mr:JP_香川県東かがわ市小磯 ;
+    mo:SubRegion mr:JP_香川県東かがわ市小砂 ;
+    mo:SubRegion mr:JP_香川県東かがわ市五名 ;
+    mo:SubRegion mr:JP_香川県東かがわ市坂元 ;
+    mo:SubRegion mr:JP_香川県東かがわ市三本松 ;
+    mo:SubRegion mr:JP_香川県東かがわ市白鳥 ;
+    mo:SubRegion mr:JP_香川県東かがわ市土居 ;
+    mo:SubRegion mr:JP_香川県東かがわ市中筋 ;
+    mo:SubRegion mr:JP_香川県東かがわ市中山 ;
+    mo:SubRegion mr:JP_香川県東かがわ市西村 ;
+    mo:SubRegion mr:JP_香川県東かがわ市西山 ;
+    mo:SubRegion mr:JP_香川県東かがわ市入野山 ;
+    mo:SubRegion mr:JP_香川県東かがわ市東山 ;
+    mo:SubRegion mr:JP_香川県東かがわ市引田 ;
+    mo:SubRegion mr:JP_香川県東かがわ市町田 ;
+    mo:SubRegion mr:JP_香川県東かがわ市松崎 ;
+    mo:SubRegion mr:JP_香川県東かがわ市松原 ;
+    mo:SubRegion mr:JP_香川県東かがわ市水主 ;
+    mo:SubRegion mr:JP_香川県東かがわ市三殿 ;
+    mo:SubRegion mr:JP_香川県東かがわ市湊 ;
+    mo:SubRegion mr:JP_香川県東かがわ市南野 ;
+    mo:SubRegion mr:JP_香川県東かがわ市横内 ;
+    mo:SubRegion mr:JP_香川県東かがわ市吉田 ;
+    mo:SubRegion mr:JP_香川県東かがわ市与田山 ;
+a mo:GeoEntity .
+
+mr:JP_香川県東かがわ市伊座
+    rdfs:label "伊座"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市馬篠
+    rdfs:label "馬篠"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市馬宿
+    rdfs:label "馬宿"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市小海
+    rdfs:label "小海"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市大谷
+    rdfs:label "大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市大内
+    rdfs:label "大内"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市落合
+    rdfs:label "落合"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市川東
+    rdfs:label "川東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市川股
+    rdfs:label "川股"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市帰来
+    rdfs:label "帰来"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市黒羽
+    rdfs:label "黒羽"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市小磯
+    rdfs:label "小磯"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市小砂
+    rdfs:label "小砂"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市五名
+    rdfs:label "五名"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市坂元
+    rdfs:label "坂元"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市三本松
+    rdfs:label "三本松"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市白鳥
+    rdfs:label "白鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市土居
+    rdfs:label "土居"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市中筋
+    rdfs:label "中筋"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市西村
+    rdfs:label "西村"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市西山
+    rdfs:label "西山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市入野山
+    rdfs:label "入野山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市東山
+    rdfs:label "東山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市引田
+    rdfs:label "引田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市町田
+    rdfs:label "町田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市松崎
+    rdfs:label "松崎"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市水主
+    rdfs:label "水主"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市三殿
+    rdfs:label "三殿"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市湊
+    rdfs:label "湊"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市南野
+    rdfs:label "南野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市横内
+    rdfs:label "横内"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県東かがわ市与田山
+    rdfs:label "与田山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市
+    rdfs:label "三豊市"@ja ;
+    mo:AreaCode "37208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県三豊市財田町財田上 ;
+    mo:SubRegion mr:JP_香川県三豊市財田町財田中 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町上麻 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町上勝間 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町上高瀬 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町佐股 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町下麻 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町下勝間 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町新名 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町羽方 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町比地 ;
+    mo:SubRegion mr:JP_香川県三豊市高瀬町比地中 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町粟島 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町大浜 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町香田 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町志々島 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町詫間 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町積 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町生里 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町箱 ;
+    mo:SubRegion mr:JP_香川県三豊市詫間町松崎 ;
+    mo:SubRegion mr:JP_香川県三豊市豊中町岡本 ;
+    mo:SubRegion mr:JP_香川県三豊市豊中町笠田笠岡 ;
+    mo:SubRegion mr:JP_香川県三豊市豊中町笠田竹田 ;
+    mo:SubRegion mr:JP_香川県三豊市豊中町上高野 ;
+    mo:SubRegion mr:JP_香川県三豊市豊中町下高野 ;
+    mo:SubRegion mr:JP_香川県三豊市豊中町比地大 ;
+    mo:SubRegion mr:JP_香川県三豊市豊中町本山乙 ;
+    mo:SubRegion mr:JP_香川県三豊市豊中町本山甲 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町家の浦 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町仁尾乙 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町仁尾己 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町仁尾甲 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町仁尾庚 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町仁尾辛 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町仁尾丁 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町仁尾丙 ;
+    mo:SubRegion mr:JP_香川県三豊市仁尾町仁尾戊 ;
+    mo:SubRegion mr:JP_香川県三豊市三野町大見 ;
+    mo:SubRegion mr:JP_香川県三豊市三野町下高瀬 ;
+    mo:SubRegion mr:JP_香川県三豊市三野町吉津 ;
+    mo:SubRegion mr:JP_香川県三豊市山本町大野 ;
+    mo:SubRegion mr:JP_香川県三豊市山本町神田 ;
+    mo:SubRegion mr:JP_香川県三豊市山本町河内 ;
+    mo:SubRegion mr:JP_香川県三豊市山本町財田西 ;
+    mo:SubRegion mr:JP_香川県三豊市山本町辻 ;
+a mo:GeoEntity .
+
+mr:JP_香川県三豊市財田町財田上
+    rdfs:label "財田町財田上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市財田町財田中
+    rdfs:label "財田町財田中"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町上麻
+    rdfs:label "高瀬町上麻"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町上勝間
+    rdfs:label "高瀬町上勝間"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町上高瀬
+    rdfs:label "高瀬町上高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町佐股
+    rdfs:label "高瀬町佐股"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町下麻
+    rdfs:label "高瀬町下麻"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町下勝間
+    rdfs:label "高瀬町下勝間"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町新名
+    rdfs:label "高瀬町新名"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町羽方
+    rdfs:label "高瀬町羽方"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町比地
+    rdfs:label "高瀬町比地"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市高瀬町比地中
+    rdfs:label "高瀬町比地中"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町粟島
+    rdfs:label "詫間町粟島"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町大浜
+    rdfs:label "詫間町大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町香田
+    rdfs:label "詫間町香田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町志々島
+    rdfs:label "詫間町志々島"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町詫間
+    rdfs:label "詫間町詫間"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町積
+    rdfs:label "詫間町積"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町生里
+    rdfs:label "詫間町生里"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町箱
+    rdfs:label "詫間町箱"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市詫間町松崎
+    rdfs:label "詫間町松崎"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市豊中町岡本
+    rdfs:label "豊中町岡本"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市豊中町笠田笠岡
+    rdfs:label "豊中町笠田笠岡"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市豊中町笠田竹田
+    rdfs:label "豊中町笠田竹田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市豊中町上高野
+    rdfs:label "豊中町上高野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市豊中町下高野
+    rdfs:label "豊中町下高野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市豊中町比地大
+    rdfs:label "豊中町比地大"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市豊中町本山乙
+    rdfs:label "豊中町本山乙"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市豊中町本山甲
+    rdfs:label "豊中町本山甲"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町家の浦
+    rdfs:label "仁尾町家の浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町仁尾乙
+    rdfs:label "仁尾町仁尾乙"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町仁尾己
+    rdfs:label "仁尾町仁尾己"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町仁尾甲
+    rdfs:label "仁尾町仁尾甲"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町仁尾庚
+    rdfs:label "仁尾町仁尾庚"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町仁尾辛
+    rdfs:label "仁尾町仁尾辛"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町仁尾丁
+    rdfs:label "仁尾町仁尾丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町仁尾丙
+    rdfs:label "仁尾町仁尾丙"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市仁尾町仁尾戊
+    rdfs:label "仁尾町仁尾戊"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市三野町大見
+    rdfs:label "三野町大見"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市三野町下高瀬
+    rdfs:label "三野町下高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市三野町吉津
+    rdfs:label "三野町吉津"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市山本町大野
+    rdfs:label "山本町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市山本町神田
+    rdfs:label "山本町神田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市山本町河内
+    rdfs:label "山本町河内"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市山本町財田西
+    rdfs:label "山本町財田西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県三豊市山本町辻
+    rdfs:label "山本町辻"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町
+    rdfs:label "小豆郡土庄町"@ja ;
+    mo:AreaCode "37322" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町伊喜末 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町馬越 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町小江 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町大部 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町小海 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町笠滝 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町上庄 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町黒岩 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町小馬越 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町小部 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町滝宮 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町豊島家浦 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町豊島唐櫃 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町豊島甲生 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町長浜 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町肥土山 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町渕崎 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町見目 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町屋形崎 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙 ;
+a mo:GeoEntity .
+
+mr:JP_香川県小豆郡土庄町伊喜末
+    rdfs:label "伊喜末"@ja ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町伊喜末小豊島 ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町伊喜末小豊島
+    rdfs:label "小豊島"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町馬越
+    rdfs:label "馬越"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町小江
+    rdfs:label "小江"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町大部
+    rdfs:label "大部"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町小海
+    rdfs:label "小海"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町笠滝
+    rdfs:label "笠滝"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町上庄
+    rdfs:label "上庄"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町黒岩
+    rdfs:label "黒岩"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町小馬越
+    rdfs:label "小馬越"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町小部
+    rdfs:label "小部"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町滝宮
+    rdfs:label "滝宮"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町豊島家浦
+    rdfs:label "豊島家浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町豊島唐櫃
+    rdfs:label "豊島唐櫃"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町豊島甲生
+    rdfs:label "豊島甲生"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町長浜
+    rdfs:label "長浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町肥土山
+    rdfs:label "肥土山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町渕崎
+    rdfs:label "渕崎"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町見目
+    rdfs:label "見目"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町屋形崎
+    rdfs:label "屋形崎"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙
+    rdfs:label "甲、乙"@ja ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙大木戸 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙鹿島 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙小瀬 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙千軒 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙西本町 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙東港 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙本町 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙港新町 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙柳 ;
+    mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙吉ケ浦 ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙大木戸
+    rdfs:label "大木戸"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙鹿島
+    rdfs:label "鹿島"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙小瀬
+    rdfs:label "小瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙千軒
+    rdfs:label "千軒"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙西本町
+    rdfs:label "西本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙東港
+    rdfs:label "東港"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙港新町
+    rdfs:label "港新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙柳
+    rdfs:label "柳"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡土庄町甲、乙吉ケ浦
+    rdfs:label "吉ケ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町
+    rdfs:label "小豆郡小豆島町"@ja ;
+    mo:AreaCode "37324" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町当浜 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町池田 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町岩谷 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町馬木 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町片城 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町蒲野 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町蒲生 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町神懸通 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町木庄 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町草壁本町 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町神浦 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町坂手 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町橘 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町田浦 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町中山 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町西村 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町苗羽 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町福田 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町二面 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町古江 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町堀越 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町室生 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町安田 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町吉田 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町吉野 ;
+a mo:GeoEntity .
+
+mr:JP_香川県小豆郡小豆島町当浜
+    rdfs:label "当浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町池田
+    rdfs:label "池田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町岩谷
+    rdfs:label "岩谷"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町馬木
+    rdfs:label "馬木"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町片城
+    rdfs:label "片城"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町蒲野
+    rdfs:label "蒲野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町蒲生
+    rdfs:label "蒲生"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町神懸通
+    rdfs:label "神懸通"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町木庄
+    rdfs:label "木庄"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町草壁本町
+    rdfs:label "草壁本町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町神浦
+    rdfs:label "神浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町坂手
+    rdfs:label "坂手"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町橘
+    rdfs:label "橘"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町田浦
+    rdfs:label "田浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町中山
+    rdfs:label "中山"@ja ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町中山美しの原高原 ;
+    mo:SubRegion mr:JP_香川県小豆郡小豆島町中山蛙子鳴滝 ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町中山美しの原高原
+    rdfs:label "美しの原高原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町中山蛙子鳴滝
+    rdfs:label "蛙子鳴滝"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町西村
+    rdfs:label "西村"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町苗羽
+    rdfs:label "苗羽"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町福田
+    rdfs:label "福田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町二面
+    rdfs:label "二面"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町古江
+    rdfs:label "古江"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町堀越
+    rdfs:label "堀越"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町室生
+    rdfs:label "室生"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町安田
+    rdfs:label "安田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県小豆郡小豆島町吉野
+    rdfs:label "吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町
+    rdfs:label "木田郡三木町"@ja ;
+    mo:AreaCode "37341" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町朝倉 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町池戸 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町井戸 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町井上 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町奥山 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町鹿庭 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町上高岡 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町小蓑 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町鹿伏 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町下高岡 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町田中 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町氷上 ;
+    mo:SubRegion mr:JP_香川県木田郡三木町平木 ;
+a mo:GeoEntity .
+
+mr:JP_香川県木田郡三木町朝倉
+    rdfs:label "朝倉"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町池戸
+    rdfs:label "池戸"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町井戸
+    rdfs:label "井戸"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町井上
+    rdfs:label "井上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町奥山
+    rdfs:label "奥山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町鹿庭
+    rdfs:label "鹿庭"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町上高岡
+    rdfs:label "上高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町小蓑
+    rdfs:label "小蓑"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町鹿伏
+    rdfs:label "鹿伏"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町下高岡
+    rdfs:label "下高岡"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町田中
+    rdfs:label "田中"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町氷上
+    rdfs:label "氷上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県木田郡三木町平木
+    rdfs:label "平木"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県香川郡直島町
+    rdfs:label "香川郡直島町"@ja ;
+    mo:AreaCode "37364" ;
+    a mo:町_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_香川県綾歌郡宇多津町
+    rdfs:label "綾歌郡宇多津町"@ja ;
+    mo:AreaCode "37386" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町岩屋 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町大橋 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町坂下 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町新開 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町新町 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町十楽寺 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町沼ノ池 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜一番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜二番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜三番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜四番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜五番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜六番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜七番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜八番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町浜九番丁 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町東分 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町平山 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町向山 ;
+    mo:SubRegion mr:JP_香川県綾歌郡宇多津町吉田 ;
+a mo:GeoEntity .
+
+mr:JP_香川県綾歌郡宇多津町岩屋
+    rdfs:label "岩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町大橋
+    rdfs:label "大橋"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町坂下
+    rdfs:label "坂下"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町新開
+    rdfs:label "新開"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町十楽寺
+    rdfs:label "十楽寺"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町沼ノ池
+    rdfs:label "沼ノ池"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜一番丁
+    rdfs:label "浜一番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜二番丁
+    rdfs:label "浜二番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜三番丁
+    rdfs:label "浜三番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜四番丁
+    rdfs:label "浜四番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜五番丁
+    rdfs:label "浜五番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜六番丁
+    rdfs:label "浜六番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜七番丁
+    rdfs:label "浜七番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜八番丁
+    rdfs:label "浜八番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町浜九番丁
+    rdfs:label "浜九番丁"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町東分
+    rdfs:label "東分"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町平山
+    rdfs:label "平山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町向山
+    rdfs:label "向山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡宇多津町吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町
+    rdfs:label "綾歌郡綾川町"@ja ;
+    mo:AreaCode "37387" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町牛川 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町小野 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町萱原 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町北 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町陶 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町千疋 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町枌所西 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町枌所東 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町滝宮 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町西分 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町畑田 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町羽床上 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町羽床下 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町東分 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町山田上 ;
+    mo:SubRegion mr:JP_香川県綾歌郡綾川町山田下 ;
+a mo:GeoEntity .
+
+mr:JP_香川県綾歌郡綾川町牛川
+    rdfs:label "牛川"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町萱原
+    rdfs:label "萱原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町北
+    rdfs:label "北"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町陶
+    rdfs:label "陶"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町千疋
+    rdfs:label "千疋"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町枌所西
+    rdfs:label "枌所西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町枌所東
+    rdfs:label "枌所東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町滝宮
+    rdfs:label "滝宮"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町西分
+    rdfs:label "西分"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町畑田
+    rdfs:label "畑田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町羽床上
+    rdfs:label "羽床上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町羽床下
+    rdfs:label "羽床下"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町東分
+    rdfs:label "東分"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町山田上
+    rdfs:label "山田上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県綾歌郡綾川町山田下
+    rdfs:label "山田下"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡琴平町
+    rdfs:label "仲多度郡琴平町"@ja ;
+    mo:AreaCode "37403" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県仲多度郡琴平町榎井 ;
+    mo:SubRegion mr:JP_香川県仲多度郡琴平町上櫛梨 ;
+    mo:SubRegion mr:JP_香川県仲多度郡琴平町五條 ;
+    mo:SubRegion mr:JP_香川県仲多度郡琴平町下櫛梨 ;
+    mo:SubRegion mr:JP_香川県仲多度郡琴平町苗田 ;
+a mo:GeoEntity .
+
+mr:JP_香川県仲多度郡琴平町榎井
+    rdfs:label "榎井"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡琴平町上櫛梨
+    rdfs:label "上櫛梨"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡琴平町五條
+    rdfs:label "五條"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡琴平町下櫛梨
+    rdfs:label "下櫛梨"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡琴平町苗田
+    rdfs:label "苗田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町
+    rdfs:label "仲多度郡多度津町"@ja ;
+    mo:AreaCode "37404" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町青木 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町大通り ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町奥白方 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町葛原 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町家中 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町北鴨 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町京町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町寿町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町幸町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町栄町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町桜川 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町佐柳 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町庄 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町高見 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町道福寺 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町仲ノ町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町西白方 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町西浜 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町西港町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町東白方 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町東新町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町東浜 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町東港町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町日の出町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町堀江 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町本通 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町三井 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町見立 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町南鴨 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町元町 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町山階 ;
+    mo:SubRegion mr:JP_香川県仲多度郡多度津町若葉町 ;
+a mo:GeoEntity .
+
+mr:JP_香川県仲多度郡多度津町青木
+    rdfs:label "青木"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町大通り
+    rdfs:label "大通り"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町奥白方
+    rdfs:label "奥白方"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町葛原
+    rdfs:label "葛原"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町家中
+    rdfs:label "家中"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町北鴨
+    rdfs:label "北鴨"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町桜川
+    rdfs:label "桜川"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町佐柳
+    rdfs:label "佐柳"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町庄
+    rdfs:label "庄"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町高見
+    rdfs:label "高見"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町道福寺
+    rdfs:label "道福寺"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町仲ノ町
+    rdfs:label "仲ノ町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町西白方
+    rdfs:label "西白方"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町西浜
+    rdfs:label "西浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町西港町
+    rdfs:label "西港町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町東白方
+    rdfs:label "東白方"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町東新町
+    rdfs:label "東新町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町東浜
+    rdfs:label "東浜"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町東港町
+    rdfs:label "東港町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町日の出町
+    rdfs:label "日の出町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町堀江
+    rdfs:label "堀江"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町本通
+    rdfs:label "本通"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町三井
+    rdfs:label "三井"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町見立
+    rdfs:label "見立"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町南鴨
+    rdfs:label "南鴨"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町山階
+    rdfs:label "山階"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡多度津町若葉町
+    rdfs:label "若葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町
+    rdfs:label "仲多度郡まんのう町"@ja ;
+    mo:AreaCode "37406" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町生間 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町後山 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町追上 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町大口 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町買田 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町勝浦 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町川東 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町神野 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町岸上 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町公文 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町五條 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町佐文 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町塩入 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町四條 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町七箇 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町新目 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町炭所西 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町炭所東 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町造田 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町長尾 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町中通 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町西高篠 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町羽間 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町東高篠 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町帆山 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町真野 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町宮田 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町山脇 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町吉野 ;
+    mo:SubRegion mr:JP_香川県仲多度郡まんのう町吉野下 ;
+a mo:GeoEntity .
+
+mr:JP_香川県仲多度郡まんのう町生間
+    rdfs:label "生間"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町後山
+    rdfs:label "後山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町追上
+    rdfs:label "追上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町大口
+    rdfs:label "大口"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町買田
+    rdfs:label "買田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町勝浦
+    rdfs:label "勝浦"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町川東
+    rdfs:label "川東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町神野
+    rdfs:label "神野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町岸上
+    rdfs:label "岸上"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町公文
+    rdfs:label "公文"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町五條
+    rdfs:label "五條"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町佐文
+    rdfs:label "佐文"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町塩入
+    rdfs:label "塩入"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町四條
+    rdfs:label "四條"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町七箇
+    rdfs:label "七箇"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町新目
+    rdfs:label "新目"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町炭所西
+    rdfs:label "炭所西"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町炭所東
+    rdfs:label "炭所東"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町造田
+    rdfs:label "造田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町長尾
+    rdfs:label "長尾"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町中通
+    rdfs:label "中通"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町西高篠
+    rdfs:label "西高篠"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町羽間
+    rdfs:label "羽間"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町東高篠
+    rdfs:label "東高篠"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町帆山
+    rdfs:label "帆山"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町真野
+    rdfs:label "真野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町宮田
+    rdfs:label "宮田"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町山脇
+    rdfs:label "山脇"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町吉野
+    rdfs:label "吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_香川県仲多度郡まんのう町吉野下
+    rdfs:label "吉野下"@ja ;
+    a mo:町域 .
+

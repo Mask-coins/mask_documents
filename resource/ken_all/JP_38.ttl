@@ -1,0 +1,8886 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_愛媛県
+    a mo:都道府県 ;
+    rdfs:label "愛媛県"@ja ;
+    mo:AreaCode "38" ;
+    mo:SubRegion mr:JP_愛媛県松山市 ;
+    mo:SubRegion mr:JP_愛媛県今治市 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市 ;
+    mo:SubRegion mr:JP_愛媛県西条市 ;
+    mo:SubRegion mr:JP_愛媛県大洲市 ;
+    mo:SubRegion mr:JP_愛媛県伊予市 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市 ;
+    mo:SubRegion mr:JP_愛媛県西予市 ;
+    mo:SubRegion mr:JP_愛媛県東温市 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町 ;
+    a mo:GeoEntity .
+
+mr:JP_愛媛県松山市
+    rdfs:label "松山市"@ja ;
+    mo:AreaCode "38201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県松山市愛光町 ;
+    mo:SubRegion mr:JP_愛媛県松山市安居島 ;
+    mo:SubRegion mr:JP_愛媛県松山市会津町 ;
+    mo:SubRegion mr:JP_愛媛県松山市青波町 ;
+    mo:SubRegion mr:JP_愛媛県松山市青葉台 ;
+    mo:SubRegion mr:JP_愛媛県松山市浅海原 ;
+    mo:SubRegion mr:JP_愛媛県松山市浅海本谷 ;
+    mo:SubRegion mr:JP_愛媛県松山市朝日ケ丘 ;
+    mo:SubRegion mr:JP_愛媛県松山市旭町 ;
+    mo:SubRegion mr:JP_愛媛県松山市朝美 ;
+    mo:SubRegion mr:JP_愛媛県松山市朝生田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市天山 ;
+    mo:SubRegion mr:JP_愛媛県松山市天山町 ;
+    mo:SubRegion mr:JP_愛媛県松山市粟井河原 ;
+    mo:SubRegion mr:JP_愛媛県松山市安城寺町 ;
+    mo:SubRegion mr:JP_愛媛県松山市居相 ;
+    mo:SubRegion mr:JP_愛媛県松山市生石町 ;
+    mo:SubRegion mr:JP_愛媛県松山市石手 ;
+    mo:SubRegion mr:JP_愛媛県松山市石手白石 ;
+    mo:SubRegion mr:JP_愛媛県松山市石風呂町 ;
+    mo:SubRegion mr:JP_愛媛県松山市泉町 ;
+    mo:SubRegion mr:JP_愛媛県松山市和泉南 ;
+    mo:SubRegion mr:JP_愛媛県松山市磯河内 ;
+    mo:SubRegion mr:JP_愛媛県松山市和泉北 ;
+    mo:SubRegion mr:JP_愛媛県松山市市坪西町 ;
+    mo:SubRegion mr:JP_愛媛県松山市市坪南 ;
+    mo:SubRegion mr:JP_愛媛県松山市市坪北 ;
+    mo:SubRegion mr:JP_愛媛県松山市一番町 ;
+    mo:SubRegion mr:JP_愛媛県松山市井門町 ;
+    mo:SubRegion mr:JP_愛媛県松山市猪木 ;
+    mo:SubRegion mr:JP_愛媛県松山市今在家 ;
+    mo:SubRegion mr:JP_愛媛県松山市今在家町 ;
+    mo:SubRegion mr:JP_愛媛県松山市祝谷 ;
+    mo:SubRegion mr:JP_愛媛県松山市祝谷東町 ;
+    mo:SubRegion mr:JP_愛媛県松山市祝谷西町 ;
+    mo:SubRegion mr:JP_愛媛県松山市祝谷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市岩崎町 ;
+    mo:SubRegion mr:JP_愛媛県松山市院内 ;
+    mo:SubRegion mr:JP_愛媛県松山市上野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市牛谷 ;
+    mo:SubRegion mr:JP_愛媛県松山市内浜町 ;
+    mo:SubRegion mr:JP_愛媛県松山市内宮町 ;
+    mo:SubRegion mr:JP_愛媛県松山市馬木町 ;
+    mo:SubRegion mr:JP_愛媛県松山市梅木町 ;
+    mo:SubRegion mr:JP_愛媛県松山市梅田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市宇和間 ;
+    mo:SubRegion mr:JP_愛媛県松山市永代町 ;
+    mo:SubRegion mr:JP_愛媛県松山市枝松 ;
+    mo:SubRegion mr:JP_愛媛県松山市恵原町 ;
+    mo:SubRegion mr:JP_愛媛県松山市大井野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市大浦 ;
+    mo:SubRegion mr:JP_愛媛県松山市大街道 ;
+    mo:SubRegion mr:JP_愛媛県松山市大可賀 ;
+    mo:SubRegion mr:JP_愛媛県松山市大手町 ;
+    mo:SubRegion mr:JP_愛媛県松山市大西谷 ;
+    mo:SubRegion mr:JP_愛媛県松山市大橋町 ;
+    mo:SubRegion mr:JP_愛媛県松山市小川 ;
+    mo:SubRegion mr:JP_愛媛県松山市尾儀原 ;
+    mo:SubRegion mr:JP_愛媛県松山市小栗 ;
+    mo:SubRegion mr:JP_愛媛県松山市小栗町 ;
+    mo:SubRegion mr:JP_愛媛県松山市越智 ;
+    mo:SubRegion mr:JP_愛媛県松山市小野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市小浜 ;
+    mo:SubRegion mr:JP_愛媛県松山市小山田 ;
+    mo:SubRegion mr:JP_愛媛県松山市恩地町 ;
+    mo:SubRegion mr:JP_愛媛県松山市海岸通 ;
+    mo:SubRegion mr:JP_愛媛県松山市春日町 ;
+    mo:SubRegion mr:JP_愛媛県松山市上総町 ;
+    mo:SubRegion mr:JP_愛媛県松山市片山 ;
+    mo:SubRegion mr:JP_愛媛県松山市歩行町 ;
+    mo:SubRegion mr:JP_愛媛県松山市勝岡町 ;
+    mo:SubRegion mr:JP_愛媛県松山市勝山町 ;
+    mo:SubRegion mr:JP_愛媛県松山市門田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市鹿峰 ;
+    mo:SubRegion mr:JP_愛媛県松山市上伊台町 ;
+    mo:SubRegion mr:JP_愛媛県松山市上市 ;
+    mo:SubRegion mr:JP_愛媛県松山市上川原町 ;
+    mo:SubRegion mr:JP_愛媛県松山市上高野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市上難波 ;
+    mo:SubRegion mr:JP_愛媛県松山市上怒和 ;
+    mo:SubRegion mr:JP_愛媛県松山市鴨川 ;
+    mo:SubRegion mr:JP_愛媛県松山市鴨之池 ;
+    mo:SubRegion mr:JP_愛媛県松山市萱町 ;
+    mo:SubRegion mr:JP_愛媛県松山市河中町 ;
+    mo:SubRegion mr:JP_愛媛県松山市川の郷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市河原町 ;
+    mo:SubRegion mr:JP_愛媛県松山市神田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市祇園町 ;
+    mo:SubRegion mr:JP_愛媛県松山市儀式 ;
+    mo:SubRegion mr:JP_愛媛県松山市来住町 ;
+    mo:SubRegion mr:JP_愛媛県松山市北井門 ;
+    mo:SubRegion mr:JP_愛媛県松山市北梅本町 ;
+    mo:SubRegion mr:JP_愛媛県松山市北久米町 ;
+    mo:SubRegion mr:JP_愛媛県松山市北斎院町 ;
+    mo:SubRegion mr:JP_愛媛県松山市北立花町 ;
+    mo:SubRegion mr:JP_愛媛県松山市北土居 ;
+    mo:SubRegion mr:JP_愛媛県松山市北藤原町 ;
+    mo:SubRegion mr:JP_愛媛県松山市北持田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市北吉田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市衣山 ;
+    mo:SubRegion mr:JP_愛媛県松山市客 ;
+    mo:SubRegion mr:JP_愛媛県松山市木屋町 ;
+    mo:SubRegion mr:JP_愛媛県松山市清住 ;
+    mo:SubRegion mr:JP_愛媛県松山市喜与町 ;
+    mo:SubRegion mr:JP_愛媛県松山市空港通 ;
+    mo:SubRegion mr:JP_愛媛県松山市九川 ;
+    mo:SubRegion mr:JP_愛媛県松山市久谷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市久保 ;
+    mo:SubRegion mr:JP_愛媛県松山市久保田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市窪野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市熊田 ;
+    mo:SubRegion mr:JP_愛媛県松山市久万ノ台 ;
+    mo:SubRegion mr:JP_愛媛県松山市久米窪田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市桑原 ;
+    mo:SubRegion mr:JP_愛媛県松山市河野高山 ;
+    mo:SubRegion mr:JP_愛媛県松山市河野中須賀 ;
+    mo:SubRegion mr:JP_愛媛県松山市河野別府 ;
+    mo:SubRegion mr:JP_愛媛県松山市神浦 ;
+    mo:SubRegion mr:JP_愛媛県松山市光洋台 ;
+    mo:SubRegion mr:JP_愛媛県松山市小川谷 ;
+    mo:SubRegion mr:JP_愛媛県松山市小坂 ;
+    mo:SubRegion mr:JP_愛媛県松山市此花町 ;
+    mo:SubRegion mr:JP_愛媛県松山市小村町 ;
+    mo:SubRegion mr:JP_愛媛県松山市米野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市小屋町 ;
+    mo:SubRegion mr:JP_愛媛県松山市権現町 ;
+    mo:SubRegion mr:JP_愛媛県松山市才之原 ;
+    mo:SubRegion mr:JP_愛媛県松山市桜ケ丘 ;
+    mo:SubRegion mr:JP_愛媛県松山市桜谷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市佐古 ;
+    mo:SubRegion mr:JP_愛媛県松山市猿川 ;
+    mo:SubRegion mr:JP_愛媛県松山市猿川原 ;
+    mo:SubRegion mr:JP_愛媛県松山市三町 ;
+    mo:SubRegion mr:JP_愛媛県松山市三番町 ;
+    mo:SubRegion mr:JP_愛媛県松山市食場町 ;
+    mo:SubRegion mr:JP_愛媛県松山市志津川町 ;
+    mo:SubRegion mr:JP_愛媛県松山市東雲町 ;
+    mo:SubRegion mr:JP_愛媛県松山市清水町 ;
+    mo:SubRegion mr:JP_愛媛県松山市下伊台町 ;
+    mo:SubRegion mr:JP_愛媛県松山市下難波 ;
+    mo:SubRegion mr:JP_愛媛県松山市宿野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市庄 ;
+    mo:SubRegion mr:JP_愛媛県松山市正円寺 ;
+    mo:SubRegion mr:JP_愛媛県松山市常光寺町 ;
+    mo:SubRegion mr:JP_愛媛県松山市城山町 ;
+    mo:SubRegion mr:JP_愛媛県松山市庄府 ;
+    mo:SubRegion mr:JP_愛媛県松山市常保免 ;
+    mo:SubRegion mr:JP_愛媛県松山市浄瑠璃町 ;
+    mo:SubRegion mr:JP_愛媛県松山市昭和町 ;
+    mo:SubRegion mr:JP_愛媛県松山市新石手 ;
+    mo:SubRegion mr:JP_愛媛県松山市神次郎町 ;
+    mo:SubRegion mr:JP_愛媛県松山市新立町 ;
+    mo:SubRegion mr:JP_愛媛県松山市新浜町 ;
+    mo:SubRegion mr:JP_愛媛県松山市末広町 ;
+    mo:SubRegion mr:JP_愛媛県松山市末町 ;
+    mo:SubRegion mr:JP_愛媛県松山市須賀町 ;
+    mo:SubRegion mr:JP_愛媛県松山市杉立町 ;
+    mo:SubRegion mr:JP_愛媛県松山市菅沢町 ;
+    mo:SubRegion mr:JP_愛媛県松山市苞木 ;
+    mo:SubRegion mr:JP_愛媛県松山市住吉 ;
+    mo:SubRegion mr:JP_愛媛県松山市善応寺 ;
+    mo:SubRegion mr:JP_愛媛県松山市太山寺町 ;
+    mo:SubRegion mr:JP_愛媛県松山市高井町 ;
+    mo:SubRegion mr:JP_愛媛県松山市高岡町 ;
+    mo:SubRegion mr:JP_愛媛県松山市高木町 ;
+    mo:SubRegion mr:JP_愛媛県松山市高砂町 ;
+    mo:SubRegion mr:JP_愛媛県松山市高田 ;
+    mo:SubRegion mr:JP_愛媛県松山市鷹子町 ;
+    mo:SubRegion mr:JP_愛媛県松山市高野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市高浜町 ;
+    mo:SubRegion mr:JP_愛媛県松山市高山町 ;
+    mo:SubRegion mr:JP_愛媛県松山市滝本 ;
+    mo:SubRegion mr:JP_愛媛県松山市拓川町 ;
+    mo:SubRegion mr:JP_愛媛県松山市竹原 ;
+    mo:SubRegion mr:JP_愛媛県松山市竹原町 ;
+    mo:SubRegion mr:JP_愛媛県松山市立花 ;
+    mo:SubRegion mr:JP_愛媛県松山市辰巳町 ;
+    mo:SubRegion mr:JP_愛媛県松山市立岩米之野 ;
+    mo:SubRegion mr:JP_愛媛県松山市立岩中村 ;
+    mo:SubRegion mr:JP_愛媛県松山市谷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市玉谷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市樽味 ;
+    mo:SubRegion mr:JP_愛媛県松山市千舟町 ;
+    mo:SubRegion mr:JP_愛媛県松山市中央 ;
+    mo:SubRegion mr:JP_愛媛県松山市束本 ;
+    mo:SubRegion mr:JP_愛媛県松山市築山町 ;
+    mo:SubRegion mr:JP_愛媛県松山市辻町 ;
+    mo:SubRegion mr:JP_愛媛県松山市常竹 ;
+    mo:SubRegion mr:JP_愛媛県松山市津吉町 ;
+    mo:SubRegion mr:JP_愛媛県松山市津和地 ;
+    mo:SubRegion mr:JP_愛媛県松山市出合 ;
+    mo:SubRegion mr:JP_愛媛県松山市鉄砲町 ;
+    mo:SubRegion mr:JP_愛媛県松山市土居田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市土居町 ;
+    mo:SubRegion mr:JP_愛媛県松山市問屋町 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後一万 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後今市 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後北代 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後喜多町 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後公園 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後鷺谷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後多幸町 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後樋又 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後姫塚 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後緑台 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後湯月町 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後湯之町 ;
+    mo:SubRegion mr:JP_愛媛県松山市土手内 ;
+    mo:SubRegion mr:JP_愛媛県松山市道後町 ;
+    mo:SubRegion mr:JP_愛媛県松山市土橋町 ;
+    mo:SubRegion mr:JP_愛媛県松山市泊町 ;
+    mo:SubRegion mr:JP_愛媛県松山市富久町 ;
+    mo:SubRegion mr:JP_愛媛県松山市中一万町 ;
+    mo:SubRegion mr:JP_愛媛県松山市中須賀 ;
+    mo:SubRegion mr:JP_愛媛県松山市中野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市中村 ;
+    mo:SubRegion mr:JP_愛媛県松山市永木町 ;
+    mo:SubRegion mr:JP_愛媛県松山市長師 ;
+    mo:SubRegion mr:JP_愛媛県松山市中島粟井 ;
+    mo:SubRegion mr:JP_愛媛県松山市中島大浦 ;
+    mo:SubRegion mr:JP_愛媛県松山市中通 ;
+    mo:SubRegion mr:JP_愛媛県松山市中西内 ;
+    mo:SubRegion mr:JP_愛媛県松山市中西外 ;
+    mo:SubRegion mr:JP_愛媛県松山市夏目 ;
+    mo:SubRegion mr:JP_愛媛県松山市西石井 ;
+    mo:SubRegion mr:JP_愛媛県松山市西一万町 ;
+    mo:SubRegion mr:JP_愛媛県松山市錦町 ;
+    mo:SubRegion mr:JP_愛媛県松山市西谷 ;
+    mo:SubRegion mr:JP_愛媛県松山市西長戸町 ;
+    mo:SubRegion mr:JP_愛媛県松山市西野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市西垣生町 ;
+    mo:SubRegion mr:JP_愛媛県松山市二番町 ;
+    mo:SubRegion mr:JP_愛媛県松山市饒 ;
+    mo:SubRegion mr:JP_愛媛県松山市野忽那 ;
+    mo:SubRegion mr:JP_愛媛県松山市梅津寺町 ;
+    mo:SubRegion mr:JP_愛媛県松山市萩原 ;
+    mo:SubRegion mr:JP_愛媛県松山市白水台 ;
+    mo:SubRegion mr:JP_愛媛県松山市畑寺 ;
+    mo:SubRegion mr:JP_愛媛県松山市畑寺町 ;
+    mo:SubRegion mr:JP_愛媛県松山市畑里 ;
+    mo:SubRegion mr:JP_愛媛県松山市八反地 ;
+    mo:SubRegion mr:JP_愛媛県松山市花園町 ;
+    mo:SubRegion mr:JP_愛媛県松山市祓川 ;
+    mo:SubRegion mr:JP_愛媛県松山市針田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市春美町 ;
+    mo:SubRegion mr:JP_愛媛県松山市東石井 ;
+    mo:SubRegion mr:JP_愛媛県松山市東一万町 ;
+    mo:SubRegion mr:JP_愛媛県松山市東大栗町 ;
+    mo:SubRegion mr:JP_愛媛県松山市東方町 ;
+    mo:SubRegion mr:JP_愛媛県松山市東川町 ;
+    mo:SubRegion mr:JP_愛媛県松山市東長戸 ;
+    mo:SubRegion mr:JP_愛媛県松山市東野 ;
+    mo:SubRegion mr:JP_愛媛県松山市東垣生町 ;
+    mo:SubRegion mr:JP_愛媛県松山市東山町 ;
+    mo:SubRegion mr:JP_愛媛県松山市日の出町 ;
+    mo:SubRegion mr:JP_愛媛県松山市ひばりケ丘 ;
+    mo:SubRegion mr:JP_愛媛県松山市姫原 ;
+    mo:SubRegion mr:JP_愛媛県松山市平井町 ;
+    mo:SubRegion mr:JP_愛媛県松山市平田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市平林 ;
+    mo:SubRegion mr:JP_愛媛県松山市福音寺町 ;
+    mo:SubRegion mr:JP_愛媛県松山市福角町 ;
+    mo:SubRegion mr:JP_愛媛県松山市福見川町 ;
+    mo:SubRegion mr:JP_愛媛県松山市藤野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市藤原 ;
+    mo:SubRegion mr:JP_愛媛県松山市藤原町 ;
+    mo:SubRegion mr:JP_愛媛県松山市二神 ;
+    mo:SubRegion mr:JP_愛媛県松山市府中 ;
+    mo:SubRegion mr:JP_愛媛県松山市船ケ谷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市麓 ;
+    mo:SubRegion mr:JP_愛媛県松山市古川町 ;
+    mo:SubRegion mr:JP_愛媛県松山市古川西 ;
+    mo:SubRegion mr:JP_愛媛県松山市古川南 ;
+    mo:SubRegion mr:JP_愛媛県松山市古川北 ;
+    mo:SubRegion mr:JP_愛媛県松山市古三津 ;
+    mo:SubRegion mr:JP_愛媛県松山市古三津町 ;
+    mo:SubRegion mr:JP_愛媛県松山市文京町 ;
+    mo:SubRegion mr:JP_愛媛県松山市平和通 ;
+    mo:SubRegion mr:JP_愛媛県松山市別府町 ;
+    mo:SubRegion mr:JP_愛媛県松山市北条 ;
+    mo:SubRegion mr:JP_愛媛県松山市北条辻 ;
+    mo:SubRegion mr:JP_愛媛県松山市保免上 ;
+    mo:SubRegion mr:JP_愛媛県松山市保免中 ;
+    mo:SubRegion mr:JP_愛媛県松山市保免西 ;
+    mo:SubRegion mr:JP_愛媛県松山市星岡 ;
+    mo:SubRegion mr:JP_愛媛県松山市星岡町 ;
+    mo:SubRegion mr:JP_愛媛県松山市堀江町 ;
+    mo:SubRegion mr:JP_愛媛県松山市堀之内 ;
+    mo:SubRegion mr:JP_愛媛県松山市本谷 ;
+    mo:SubRegion mr:JP_愛媛県松山市本町 ;
+    mo:SubRegion mr:JP_愛媛県松山市正岡神田 ;
+    mo:SubRegion mr:JP_愛媛県松山市松前町 ;
+    mo:SubRegion mr:JP_愛媛県松山市真砂町 ;
+    mo:SubRegion mr:JP_愛媛県松山市松江町 ;
+    mo:SubRegion mr:JP_愛媛県松山市松末 ;
+    mo:SubRegion mr:JP_愛媛県松山市松ノ木 ;
+    mo:SubRegion mr:JP_愛媛県松山市丸之内 ;
+    mo:SubRegion mr:JP_愛媛県松山市味酒町 ;
+    mo:SubRegion mr:JP_愛媛県松山市美沢 ;
+    mo:SubRegion mr:JP_愛媛県松山市三杉町 ;
+    mo:SubRegion mr:JP_愛媛県松山市溝辺町 ;
+    mo:SubRegion mr:JP_愛媛県松山市御宝町 ;
+    mo:SubRegion mr:JP_愛媛県松山市三津 ;
+    mo:SubRegion mr:JP_愛媛県松山市三津ふ頭 ;
+    mo:SubRegion mr:JP_愛媛県松山市みどりケ丘 ;
+    mo:SubRegion mr:JP_愛媛県松山市緑町 ;
+    mo:SubRegion mr:JP_愛媛県松山市水泥町 ;
+    mo:SubRegion mr:JP_愛媛県松山市水口町 ;
+    mo:SubRegion mr:JP_愛媛県松山市湊町 ;
+    mo:SubRegion mr:JP_愛媛県松山市港山町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南梅本町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南江戸 ;
+    mo:SubRegion mr:JP_愛媛県松山市南江戸町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南久米町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南斎院町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南高井町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南土居町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南白水 ;
+    mo:SubRegion mr:JP_愛媛県松山市南堀端町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南持田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市南吉田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市宮内 ;
+    mo:SubRegion mr:JP_愛媛県松山市宮田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市宮西 ;
+    mo:SubRegion mr:JP_愛媛県松山市宮野 ;
+    mo:SubRegion mr:JP_愛媛県松山市御幸 ;
+    mo:SubRegion mr:JP_愛媛県松山市明神丘 ;
+    mo:SubRegion mr:JP_愛媛県松山市睦月 ;
+    mo:SubRegion mr:JP_愛媛県松山市室町 ;
+    mo:SubRegion mr:JP_愛媛県松山市持田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市元怒和 ;
+    mo:SubRegion mr:JP_愛媛県松山市元町 ;
+    mo:SubRegion mr:JP_愛媛県松山市紅葉町 ;
+    mo:SubRegion mr:JP_愛媛県松山市森松町 ;
+    mo:SubRegion mr:JP_愛媛県松山市安岡 ;
+    mo:SubRegion mr:JP_愛媛県松山市柳谷町 ;
+    mo:SubRegion mr:JP_愛媛県松山市柳井町 ;
+    mo:SubRegion mr:JP_愛媛県松山市柳原 ;
+    mo:SubRegion mr:JP_愛媛県松山市山越 ;
+    mo:SubRegion mr:JP_愛媛県松山市山越町 ;
+    mo:SubRegion mr:JP_愛媛県松山市山田町 ;
+    mo:SubRegion mr:JP_愛媛県松山市山西町 ;
+    mo:SubRegion mr:JP_愛媛県松山市雄郡 ;
+    mo:SubRegion mr:JP_愛媛県松山市湯の山 ;
+    mo:SubRegion mr:JP_愛媛県松山市湯の山東 ;
+    mo:SubRegion mr:JP_愛媛県松山市湯山柳 ;
+    mo:SubRegion mr:JP_愛媛県松山市由良町 ;
+    mo:SubRegion mr:JP_愛媛県松山市湯渡町 ;
+    mo:SubRegion mr:JP_愛媛県松山市余戸中 ;
+    mo:SubRegion mr:JP_愛媛県松山市余戸東 ;
+    mo:SubRegion mr:JP_愛媛県松山市余戸西 ;
+    mo:SubRegion mr:JP_愛媛県松山市余戸南 ;
+    mo:SubRegion mr:JP_愛媛県松山市横谷 ;
+    mo:SubRegion mr:JP_愛媛県松山市吉木 ;
+    mo:SubRegion mr:JP_愛媛県松山市吉野町 ;
+    mo:SubRegion mr:JP_愛媛県松山市吉藤 ;
+    mo:SubRegion mr:JP_愛媛県松山市六軒家町 ;
+    mo:SubRegion mr:JP_愛媛県松山市若草町 ;
+    mo:SubRegion mr:JP_愛媛県松山市若葉町 ;
+    mo:SubRegion mr:JP_愛媛県松山市和気町 ;
+    mo:SubRegion mr:JP_愛媛県松山市和田 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県松山市愛光町
+    rdfs:label "愛光町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市安居島
+    rdfs:label "安居島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市会津町
+    rdfs:label "会津町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市青波町
+    rdfs:label "青波町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市青葉台
+    rdfs:label "青葉台"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市浅海原
+    rdfs:label "浅海原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市浅海本谷
+    rdfs:label "浅海本谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市朝日ケ丘
+    rdfs:label "朝日ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市朝美
+    rdfs:label "朝美"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市朝生田町
+    rdfs:label "朝生田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市天山
+    rdfs:label "天山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市天山町
+    rdfs:label "天山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市粟井河原
+    rdfs:label "粟井河原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市安城寺町
+    rdfs:label "安城寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市居相
+    rdfs:label "居相"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市生石町
+    rdfs:label "生石町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市石手
+    rdfs:label "石手"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市石手白石
+    rdfs:label "石手白石"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市石風呂町
+    rdfs:label "石風呂町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市和泉南
+    rdfs:label "和泉南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市磯河内
+    rdfs:label "磯河内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市和泉北
+    rdfs:label "和泉北"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市市坪西町
+    rdfs:label "市坪西町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市市坪南
+    rdfs:label "市坪南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市市坪北
+    rdfs:label "市坪北"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市一番町
+    rdfs:label "一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市井門町
+    rdfs:label "井門町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市猪木
+    rdfs:label "猪木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市今在家
+    rdfs:label "今在家"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市今在家町
+    rdfs:label "今在家町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市祝谷
+    rdfs:label "祝谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市祝谷東町
+    rdfs:label "祝谷東町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市祝谷西町
+    rdfs:label "祝谷西町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市祝谷町
+    rdfs:label "祝谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市岩崎町
+    rdfs:label "岩崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市院内
+    rdfs:label "院内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市上野町
+    rdfs:label "上野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市牛谷
+    rdfs:label "牛谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市内浜町
+    rdfs:label "内浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市内宮町
+    rdfs:label "内宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市馬木町
+    rdfs:label "馬木町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市梅木町
+    rdfs:label "梅木町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市梅田町
+    rdfs:label "梅田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市宇和間
+    rdfs:label "宇和間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市永代町
+    rdfs:label "永代町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市枝松
+    rdfs:label "枝松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市恵原町
+    rdfs:label "恵原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市大井野町
+    rdfs:label "大井野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市大浦
+    rdfs:label "大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市大街道
+    rdfs:label "大街道"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市大可賀
+    rdfs:label "大可賀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市大手町
+    rdfs:label "大手町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市大西谷
+    rdfs:label "大西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市大橋町
+    rdfs:label "大橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市尾儀原
+    rdfs:label "尾儀原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小栗
+    rdfs:label "小栗"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小栗町
+    rdfs:label "小栗町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市越智
+    rdfs:label "越智"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小野町
+    rdfs:label "小野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小浜
+    rdfs:label "小浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小山田
+    rdfs:label "小山田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市恩地町
+    rdfs:label "恩地町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市海岸通
+    rdfs:label "海岸通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市上総町
+    rdfs:label "上総町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市片山
+    rdfs:label "片山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市歩行町
+    rdfs:label "歩行町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市勝岡町
+    rdfs:label "勝岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市勝山町
+    rdfs:label "勝山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市門田町
+    rdfs:label "門田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市鹿峰
+    rdfs:label "鹿峰"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市上伊台町
+    rdfs:label "上伊台町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市上市
+    rdfs:label "上市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市上川原町
+    rdfs:label "上川原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市上高野町
+    rdfs:label "上高野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市上難波
+    rdfs:label "上難波"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市上怒和
+    rdfs:label "上怒和"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市鴨川
+    rdfs:label "鴨川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市鴨之池
+    rdfs:label "鴨之池"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市萱町
+    rdfs:label "萱町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市河中町
+    rdfs:label "河中町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市川の郷町
+    rdfs:label "川の郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市河原町
+    rdfs:label "河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市神田町
+    rdfs:label "神田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市祇園町
+    rdfs:label "祇園町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市儀式
+    rdfs:label "儀式"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市来住町
+    rdfs:label "来住町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北井門
+    rdfs:label "北井門"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北梅本町
+    rdfs:label "北梅本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北久米町
+    rdfs:label "北久米町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北斎院町
+    rdfs:label "北斎院町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北立花町
+    rdfs:label "北立花町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北土居
+    rdfs:label "北土居"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北藤原町
+    rdfs:label "北藤原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北持田町
+    rdfs:label "北持田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北吉田町
+    rdfs:label "北吉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市衣山
+    rdfs:label "衣山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市客
+    rdfs:label "客"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市木屋町
+    rdfs:label "木屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市清住
+    rdfs:label "清住"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市喜与町
+    rdfs:label "喜与町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市空港通
+    rdfs:label "空港通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市九川
+    rdfs:label "九川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市久谷町
+    rdfs:label "久谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市久保
+    rdfs:label "久保"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市久保田町
+    rdfs:label "久保田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市窪野町
+    rdfs:label "窪野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市熊田
+    rdfs:label "熊田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市久万ノ台
+    rdfs:label "久万ノ台"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市久米窪田町
+    rdfs:label "久米窪田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市桑原
+    rdfs:label "桑原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市河野高山
+    rdfs:label "河野高山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市河野中須賀
+    rdfs:label "河野中須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市河野別府
+    rdfs:label "河野別府"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市神浦
+    rdfs:label "神浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市光洋台
+    rdfs:label "光洋台"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小川谷
+    rdfs:label "小川谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小坂
+    rdfs:label "小坂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市此花町
+    rdfs:label "此花町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小村町
+    rdfs:label "小村町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市米野町
+    rdfs:label "米野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市小屋町
+    rdfs:label "小屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市権現町
+    rdfs:label "権現町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市才之原
+    rdfs:label "才之原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市桜ケ丘
+    rdfs:label "桜ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市桜谷町
+    rdfs:label "桜谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市佐古
+    rdfs:label "佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市猿川
+    rdfs:label "猿川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市猿川原
+    rdfs:label "猿川原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市三町
+    rdfs:label "三町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市三番町
+    rdfs:label "三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市食場町
+    rdfs:label "食場町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市志津川町
+    rdfs:label "志津川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東雲町
+    rdfs:label "東雲町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市下伊台町
+    rdfs:label "下伊台町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市下難波
+    rdfs:label "下難波"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市宿野町
+    rdfs:label "宿野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市庄
+    rdfs:label "庄"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市正円寺
+    rdfs:label "正円寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市常光寺町
+    rdfs:label "常光寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市城山町
+    rdfs:label "城山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市庄府
+    rdfs:label "庄府"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市常保免
+    rdfs:label "常保免"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市浄瑠璃町
+    rdfs:label "浄瑠璃町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市新石手
+    rdfs:label "新石手"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市神次郎町
+    rdfs:label "神次郎町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市新立町
+    rdfs:label "新立町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市新浜町
+    rdfs:label "新浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市末町
+    rdfs:label "末町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市須賀町
+    rdfs:label "須賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市杉立町
+    rdfs:label "杉立町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市菅沢町
+    rdfs:label "菅沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市苞木
+    rdfs:label "苞木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市住吉
+    rdfs:label "住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市善応寺
+    rdfs:label "善応寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市太山寺町
+    rdfs:label "太山寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市高井町
+    rdfs:label "高井町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市高岡町
+    rdfs:label "高岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市高木町
+    rdfs:label "高木町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市高砂町
+    rdfs:label "高砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市高田
+    rdfs:label "高田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市鷹子町
+    rdfs:label "鷹子町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市高野町
+    rdfs:label "高野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市高浜町
+    rdfs:label "高浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市高山町
+    rdfs:label "高山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市滝本
+    rdfs:label "滝本"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市拓川町
+    rdfs:label "拓川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市竹原
+    rdfs:label "竹原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市竹原町
+    rdfs:label "竹原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市立花
+    rdfs:label "立花"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市辰巳町
+    rdfs:label "辰巳町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市立岩米之野
+    rdfs:label "立岩米之野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市立岩中村
+    rdfs:label "立岩中村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市谷町
+    rdfs:label "谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市玉谷町
+    rdfs:label "玉谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市樽味
+    rdfs:label "樽味"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市千舟町
+    rdfs:label "千舟町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市束本
+    rdfs:label "束本"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市築山町
+    rdfs:label "築山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市辻町
+    rdfs:label "辻町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市常竹
+    rdfs:label "常竹"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市津吉町
+    rdfs:label "津吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市津和地
+    rdfs:label "津和地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市出合
+    rdfs:label "出合"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市鉄砲町
+    rdfs:label "鉄砲町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市土居田町
+    rdfs:label "土居田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市土居町
+    rdfs:label "土居町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市問屋町
+    rdfs:label "問屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後一万
+    rdfs:label "道後一万"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後今市
+    rdfs:label "道後今市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後北代
+    rdfs:label "道後北代"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後喜多町
+    rdfs:label "道後喜多町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後公園
+    rdfs:label "道後公園"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後鷺谷町
+    rdfs:label "道後鷺谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後多幸町
+    rdfs:label "道後多幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後樋又
+    rdfs:label "道後樋又"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後姫塚
+    rdfs:label "道後姫塚"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後緑台
+    rdfs:label "道後緑台"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後湯月町
+    rdfs:label "道後湯月町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後湯之町
+    rdfs:label "道後湯之町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市土手内
+    rdfs:label "土手内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市道後町
+    rdfs:label "道後町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市土橋町
+    rdfs:label "土橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市泊町
+    rdfs:label "泊町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市富久町
+    rdfs:label "富久町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中一万町
+    rdfs:label "中一万町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中須賀
+    rdfs:label "中須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中野町
+    rdfs:label "中野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市永木町
+    rdfs:label "永木町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市長師
+    rdfs:label "長師"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中島粟井
+    rdfs:label "中島粟井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中島大浦
+    rdfs:label "中島大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中通
+    rdfs:label "中通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中西内
+    rdfs:label "中西内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市中西外
+    rdfs:label "中西外"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市夏目
+    rdfs:label "夏目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市西石井
+    rdfs:label "西石井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市西一万町
+    rdfs:label "西一万町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市西谷
+    rdfs:label "西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市西長戸町
+    rdfs:label "西長戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市西野町
+    rdfs:label "西野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市西垣生町
+    rdfs:label "西垣生町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市二番町
+    rdfs:label "二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市饒
+    rdfs:label "饒"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市野忽那
+    rdfs:label "野忽那"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市梅津寺町
+    rdfs:label "梅津寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市萩原
+    rdfs:label "萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市白水台
+    rdfs:label "白水台"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市畑寺
+    rdfs:label "畑寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市畑寺町
+    rdfs:label "畑寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市畑里
+    rdfs:label "畑里"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市八反地
+    rdfs:label "八反地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市祓川
+    rdfs:label "祓川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市針田町
+    rdfs:label "針田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市春美町
+    rdfs:label "春美町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東石井
+    rdfs:label "東石井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東一万町
+    rdfs:label "東一万町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東大栗町
+    rdfs:label "東大栗町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東方町
+    rdfs:label "東方町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東川町
+    rdfs:label "東川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東長戸
+    rdfs:label "東長戸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東野
+    rdfs:label "東野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東垣生町
+    rdfs:label "東垣生町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市東山町
+    rdfs:label "東山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市日の出町
+    rdfs:label "日の出町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市ひばりケ丘
+    rdfs:label "ひばりケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市姫原
+    rdfs:label "姫原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市平井町
+    rdfs:label "平井町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市平田町
+    rdfs:label "平田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市平林
+    rdfs:label "平林"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市福音寺町
+    rdfs:label "福音寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市福角町
+    rdfs:label "福角町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市福見川町
+    rdfs:label "福見川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市藤野町
+    rdfs:label "藤野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市藤原
+    rdfs:label "藤原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市藤原町
+    rdfs:label "藤原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市二神
+    rdfs:label "二神"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市府中
+    rdfs:label "府中"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市船ケ谷町
+    rdfs:label "船ケ谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市麓
+    rdfs:label "麓"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市古川町
+    rdfs:label "古川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市古川西
+    rdfs:label "古川西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市古川南
+    rdfs:label "古川南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市古川北
+    rdfs:label "古川北"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市古三津
+    rdfs:label "古三津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市古三津町
+    rdfs:label "古三津町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市文京町
+    rdfs:label "文京町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市平和通
+    rdfs:label "平和通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市別府町
+    rdfs:label "別府町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北条
+    rdfs:label "北条"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市北条辻
+    rdfs:label "北条辻"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市保免上
+    rdfs:label "保免上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市保免中
+    rdfs:label "保免中"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市保免西
+    rdfs:label "保免西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市星岡
+    rdfs:label "星岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市星岡町
+    rdfs:label "星岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市堀江町
+    rdfs:label "堀江町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市堀之内
+    rdfs:label "堀之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市本谷
+    rdfs:label "本谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市正岡神田
+    rdfs:label "正岡神田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市松前町
+    rdfs:label "松前町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市真砂町
+    rdfs:label "真砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市松江町
+    rdfs:label "松江町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市松末
+    rdfs:label "松末"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市松ノ木
+    rdfs:label "松ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市丸之内
+    rdfs:label "丸之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市味酒町
+    rdfs:label "味酒町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市美沢
+    rdfs:label "美沢"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市三杉町
+    rdfs:label "三杉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市溝辺町
+    rdfs:label "溝辺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市御宝町
+    rdfs:label "御宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市三津
+    rdfs:label "三津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市三津ふ頭
+    rdfs:label "三津ふ頭"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市みどりケ丘
+    rdfs:label "みどりケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市水泥町
+    rdfs:label "水泥町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市水口町
+    rdfs:label "水口町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市湊町
+    rdfs:label "湊町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市港山町
+    rdfs:label "港山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南梅本町
+    rdfs:label "南梅本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南江戸
+    rdfs:label "南江戸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南江戸町
+    rdfs:label "南江戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南久米町
+    rdfs:label "南久米町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南斎院町
+    rdfs:label "南斎院町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南高井町
+    rdfs:label "南高井町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南土居町
+    rdfs:label "南土居町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南白水
+    rdfs:label "南白水"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南堀端町
+    rdfs:label "南堀端町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南持田町
+    rdfs:label "南持田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市南吉田町
+    rdfs:label "南吉田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市宮内
+    rdfs:label "宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市宮田町
+    rdfs:label "宮田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市宮西
+    rdfs:label "宮西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市宮野
+    rdfs:label "宮野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市御幸
+    rdfs:label "御幸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市明神丘
+    rdfs:label "明神丘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市睦月
+    rdfs:label "睦月"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市室町
+    rdfs:label "室町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市持田町
+    rdfs:label "持田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市元怒和
+    rdfs:label "元怒和"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市紅葉町
+    rdfs:label "紅葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市森松町
+    rdfs:label "森松町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市安岡
+    rdfs:label "安岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市柳谷町
+    rdfs:label "柳谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市柳井町
+    rdfs:label "柳井町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市柳原
+    rdfs:label "柳原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市山越
+    rdfs:label "山越"@ja ;
+    mo:SubRegion mr:JP_愛媛県松山市山越丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市山越丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市山越町
+    rdfs:label "山越町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市山田町
+    rdfs:label "山田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市山西町
+    rdfs:label "山西町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市雄郡
+    rdfs:label "雄郡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市湯の山
+    rdfs:label "湯の山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市湯の山東
+    rdfs:label "湯の山東"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市湯山柳
+    rdfs:label "湯山柳"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市由良町
+    rdfs:label "由良町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市湯渡町
+    rdfs:label "湯渡町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市余戸中
+    rdfs:label "余戸中"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市余戸東
+    rdfs:label "余戸東"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市余戸西
+    rdfs:label "余戸西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市余戸南
+    rdfs:label "余戸南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市横谷
+    rdfs:label "横谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市吉木
+    rdfs:label "吉木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市吉野町
+    rdfs:label "吉野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市吉藤
+    rdfs:label "吉藤"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市六軒家町
+    rdfs:label "六軒家町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市若草町
+    rdfs:label "若草町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市若葉町
+    rdfs:label "若葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市和気町
+    rdfs:label "和気町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県松山市和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市
+    rdfs:label "今治市"@ja ;
+    mo:AreaCode "38202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県今治市阿方 ;
+    mo:SubRegion mr:JP_愛媛県今治市朝倉上 ;
+    mo:SubRegion mr:JP_愛媛県今治市朝倉北 ;
+    mo:SubRegion mr:JP_愛媛県今治市朝倉下 ;
+    mo:SubRegion mr:JP_愛媛県今治市朝倉南乙 ;
+    mo:SubRegion mr:JP_愛媛県今治市朝倉南甲 ;
+    mo:SubRegion mr:JP_愛媛県今治市朝倉南丙 ;
+    mo:SubRegion mr:JP_愛媛県今治市旭町 ;
+    mo:SubRegion mr:JP_愛媛県今治市五十嵐 ;
+    mo:SubRegion mr:JP_愛媛県今治市いこいの丘 ;
+    mo:SubRegion mr:JP_愛媛県今治市石井町 ;
+    mo:SubRegion mr:JP_愛媛県今治市石橋町 ;
+    mo:SubRegion mr:JP_愛媛県今治市泉川町 ;
+    mo:SubRegion mr:JP_愛媛県今治市今治村 ;
+    mo:SubRegion mr:JP_愛媛県今治市内堀 ;
+    mo:SubRegion mr:JP_愛媛県今治市馬越町 ;
+    mo:SubRegion mr:JP_愛媛県今治市馬越二番耕地 ;
+    mo:SubRegion mr:JP_愛媛県今治市馬島 ;
+    mo:SubRegion mr:JP_愛媛県今治市枝堀町 ;
+    mo:SubRegion mr:JP_愛媛県今治市恵美須町 ;
+    mo:SubRegion mr:JP_愛媛県今治市延喜 ;
+    mo:SubRegion mr:JP_愛媛県今治市大新田町 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町大井浜 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町九王 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町紺原 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町新町 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町別府 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町星浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町宮脇 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町山之内 ;
+    mo:SubRegion mr:JP_愛媛県今治市大西町脇 ;
+    mo:SubRegion mr:JP_愛媛県今治市大浜町 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町明日 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町台 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町浦戸 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町大見 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町口総 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町野々江 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町肥海 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町宮浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市大三島町宗方 ;
+    mo:SubRegion mr:JP_愛媛県今治市風早町 ;
+    mo:SubRegion mr:JP_愛媛県今治市片原町 ;
+    mo:SubRegion mr:JP_愛媛県今治市片山 ;
+    mo:SubRegion mr:JP_愛媛県今治市河南町 ;
+    mo:SubRegion mr:JP_愛媛県今治市鐘場町 ;
+    mo:SubRegion mr:JP_愛媛県今治市上浦町甘崎 ;
+    mo:SubRegion mr:JP_愛媛県今治市上浦町井口 ;
+    mo:SubRegion mr:JP_愛媛県今治市上浦町盛 ;
+    mo:SubRegion mr:JP_愛媛県今治市上浦町瀬戸 ;
+    mo:SubRegion mr:JP_愛媛県今治市上徳 ;
+    mo:SubRegion mr:JP_愛媛県今治市唐子台東 ;
+    mo:SubRegion mr:JP_愛媛県今治市唐子台西 ;
+    mo:SubRegion mr:JP_愛媛県今治市神宮 ;
+    mo:SubRegion mr:JP_愛媛県今治市祇園町 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町池原 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町川上 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町河之内 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町高田 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町佐方 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町種 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町田之尻 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町長坂 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町中川 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町西山 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町浜 ;
+    mo:SubRegion mr:JP_愛媛県今治市菊間町松尾 ;
+    mo:SubRegion mr:JP_愛媛県今治市北高下町 ;
+    mo:SubRegion mr:JP_愛媛県今治市北鳥生町 ;
+    mo:SubRegion mr:JP_愛媛県今治市北浜町 ;
+    mo:SubRegion mr:JP_愛媛県今治市北日吉町 ;
+    mo:SubRegion mr:JP_愛媛県今治市北宝来町 ;
+    mo:SubRegion mr:JP_愛媛県今治市喜田村 ;
+    mo:SubRegion mr:JP_愛媛県今治市衣干町 ;
+    mo:SubRegion mr:JP_愛媛県今治市共栄町 ;
+    mo:SubRegion mr:JP_愛媛県今治市蔵敷町 ;
+    mo:SubRegion mr:JP_愛媛県今治市クリエイティブヒルズ ;
+    mo:SubRegion mr:JP_愛媛県今治市来島 ;
+    mo:SubRegion mr:JP_愛媛県今治市鯉池町 ;
+    mo:SubRegion mr:JP_愛媛県今治市小泉 ;
+    mo:SubRegion mr:JP_愛媛県今治市郷新屋敷町 ;
+    mo:SubRegion mr:JP_愛媛県今治市郷本町 ;
+    mo:SubRegion mr:JP_愛媛県今治市郷六ケ内町 ;
+    mo:SubRegion mr:JP_愛媛県今治市郷桜井 ;
+    mo:SubRegion mr:JP_愛媛県今治市広紹寺町 ;
+    mo:SubRegion mr:JP_愛媛県今治市高地町 ;
+    mo:SubRegion mr:JP_愛媛県今治市小浦町 ;
+    mo:SubRegion mr:JP_愛媛県今治市黄金町 ;
+    mo:SubRegion mr:JP_愛媛県今治市国分 ;
+    mo:SubRegion mr:JP_愛媛県今治市米屋町 ;
+    mo:SubRegion mr:JP_愛媛県今治市古谷 ;
+    mo:SubRegion mr:JP_愛媛県今治市栄町 ;
+    mo:SubRegion mr:JP_愛媛県今治市桜井 ;
+    mo:SubRegion mr:JP_愛媛県今治市桜井団地 ;
+    mo:SubRegion mr:JP_愛媛県今治市地堀 ;
+    mo:SubRegion mr:JP_愛媛県今治市しまなみの杜 ;
+    mo:SubRegion mr:JP_愛媛県今治市しまなみヒルズ ;
+    mo:SubRegion mr:JP_愛媛県今治市末広町 ;
+    mo:SubRegion mr:JP_愛媛県今治市砂場町 ;
+    mo:SubRegion mr:JP_愛媛県今治市関前大下 ;
+    mo:SubRegion mr:JP_愛媛県今治市関前岡村 ;
+    mo:SubRegion mr:JP_愛媛県今治市関前小大下 ;
+    mo:SubRegion mr:JP_愛媛県今治市蒼社町 ;
+    mo:SubRegion mr:JP_愛媛県今治市杣田 ;
+    mo:SubRegion mr:JP_愛媛県今治市大正町 ;
+    mo:SubRegion mr:JP_愛媛県今治市高市 ;
+    mo:SubRegion mr:JP_愛媛県今治市高橋 ;
+    mo:SubRegion mr:JP_愛媛県今治市高橋ふれあいの丘 ;
+    mo:SubRegion mr:JP_愛媛県今治市高部 ;
+    mo:SubRegion mr:JP_愛媛県今治市宅間 ;
+    mo:SubRegion mr:JP_愛媛県今治市立花町 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町大野 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町鬼原 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町葛谷 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町桂 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町木地 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町高野 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町小鴨部 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町三反地 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町摺木 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町長谷 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町中村 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町鍋地 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町鈍川 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町畑寺 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町別所 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町法界寺 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町御厩 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町八幡 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町與和木 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町龍岡上 ;
+    mo:SubRegion mr:JP_愛媛県今治市玉川町龍岡下 ;
+    mo:SubRegion mr:JP_愛媛県今治市旦 ;
+    mo:SubRegion mr:JP_愛媛県今治市近見町 ;
+    mo:SubRegion mr:JP_愛媛県今治市辻堂 ;
+    mo:SubRegion mr:JP_愛媛県今治市土橋町 ;
+    mo:SubRegion mr:JP_愛媛県今治市天保山町 ;
+    mo:SubRegion mr:JP_愛媛県今治市通町 ;
+    mo:SubRegion mr:JP_愛媛県今治市常盤町 ;
+    mo:SubRegion mr:JP_愛媛県今治市徳重 ;
+    mo:SubRegion mr:JP_愛媛県今治市富田新港 ;
+    mo:SubRegion mr:JP_愛媛県今治市長沢 ;
+    mo:SubRegion mr:JP_愛媛県今治市中寺 ;
+    mo:SubRegion mr:JP_愛媛県今治市中浜町 ;
+    mo:SubRegion mr:JP_愛媛県今治市中日吉町 ;
+    mo:SubRegion mr:JP_愛媛県今治市中堀 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町大浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町岡 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町小部 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町郷 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町波方 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町西浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町樋口 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町馬刀潟 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町宮崎 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町森上 ;
+    mo:SubRegion mr:JP_愛媛県今治市波方町養老 ;
+    mo:SubRegion mr:JP_愛媛県今治市にぎわい広場 ;
+    mo:SubRegion mr:JP_愛媛県今治市新谷 ;
+    mo:SubRegion mr:JP_愛媛県今治市登畑 ;
+    mo:SubRegion mr:JP_愛媛県今治市野間 ;
+    mo:SubRegion mr:JP_愛媛県今治市拝志 ;
+    mo:SubRegion mr:JP_愛媛県今治市伯方町有津 ;
+    mo:SubRegion mr:JP_愛媛県今治市伯方町伊方 ;
+    mo:SubRegion mr:JP_愛媛県今治市伯方町叶浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市伯方町北浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市伯方町木浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市波止浜 ;
+    mo:SubRegion mr:JP_愛媛県今治市八町東 ;
+    mo:SubRegion mr:JP_愛媛県今治市八町西 ;
+    mo:SubRegion mr:JP_愛媛県今治市東鳥生町 ;
+    mo:SubRegion mr:JP_愛媛県今治市東村 ;
+    mo:SubRegion mr:JP_愛媛県今治市東村南 ;
+    mo:SubRegion mr:JP_愛媛県今治市東門町 ;
+    mo:SubRegion mr:JP_愛媛県今治市古国分 ;
+    mo:SubRegion mr:JP_愛媛県今治市別宮町 ;
+    mo:SubRegion mr:JP_愛媛県今治市別名 ;
+    mo:SubRegion mr:JP_愛媛県今治市本町 ;
+    mo:SubRegion mr:JP_愛媛県今治市孫兵衛作 ;
+    mo:SubRegion mr:JP_愛媛県今治市町谷 ;
+    mo:SubRegion mr:JP_愛媛県今治市松木 ;
+    mo:SubRegion mr:JP_愛媛県今治市松本町 ;
+    mo:SubRegion mr:JP_愛媛県今治市美須賀町 ;
+    mo:SubRegion mr:JP_愛媛県今治市湊町 ;
+    mo:SubRegion mr:JP_愛媛県今治市南高下町 ;
+    mo:SubRegion mr:JP_愛媛県今治市南大門町 ;
+    mo:SubRegion mr:JP_愛媛県今治市南鳥生町 ;
+    mo:SubRegion mr:JP_愛媛県今治市南日吉町 ;
+    mo:SubRegion mr:JP_愛媛県今治市南宝来町 ;
+    mo:SubRegion mr:JP_愛媛県今治市美保町 ;
+    mo:SubRegion mr:JP_愛媛県今治市宮ヶ崎 ;
+    mo:SubRegion mr:JP_愛媛県今治市宮窪町四阪島 ;
+    mo:SubRegion mr:JP_愛媛県今治市宮窪町友浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市宮窪町早川 ;
+    mo:SubRegion mr:JP_愛媛県今治市宮窪町宮窪 ;
+    mo:SubRegion mr:JP_愛媛県今治市宮窪町余所国 ;
+    mo:SubRegion mr:JP_愛媛県今治市宮下町 ;
+    mo:SubRegion mr:JP_愛媛県今治市室屋町 ;
+    mo:SubRegion mr:JP_愛媛県今治市矢田 ;
+    mo:SubRegion mr:JP_愛媛県今治市山方町 ;
+    mo:SubRegion mr:JP_愛媛県今治市山口 ;
+    mo:SubRegion mr:JP_愛媛県今治市山路 ;
+    mo:SubRegion mr:JP_愛媛県今治市山路町 ;
+    mo:SubRegion mr:JP_愛媛県今治市湯ノ浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市横田町 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町幸新田 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町正味 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町田浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町津島 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町泊 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町名駒 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町仁江 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町福田 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町臥間 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町本庄 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町南浦 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町名 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町椋名 ;
+    mo:SubRegion mr:JP_愛媛県今治市吉海町八幡 ;
+    mo:SubRegion mr:JP_愛媛県今治市四村 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県今治市阿方
+    rdfs:label "阿方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市朝倉上
+    rdfs:label "朝倉上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市朝倉北
+    rdfs:label "朝倉北"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市朝倉下
+    rdfs:label "朝倉下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市朝倉南乙
+    rdfs:label "朝倉南乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市朝倉南甲
+    rdfs:label "朝倉南甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市朝倉南丙
+    rdfs:label "朝倉南丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市五十嵐
+    rdfs:label "五十嵐"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市いこいの丘
+    rdfs:label "いこいの丘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市石井町
+    rdfs:label "石井町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市石橋町
+    rdfs:label "石橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市泉川町
+    rdfs:label "泉川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市今治村
+    rdfs:label "今治村"@ja ;
+    mo:SubRegion mr:JP_愛媛県今治市今治村比岐島 ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市今治村比岐島
+    rdfs:label "比岐島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市内堀
+    rdfs:label "内堀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市馬越町
+    rdfs:label "馬越町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市馬越二番耕地
+    rdfs:label "馬越二番耕地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市馬島
+    rdfs:label "馬島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市枝堀町
+    rdfs:label "枝堀町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市恵美須町
+    rdfs:label "恵美須町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市延喜
+    rdfs:label "延喜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大新田町
+    rdfs:label "大新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町大井浜
+    rdfs:label "大西町大井浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町九王
+    rdfs:label "大西町九王"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町紺原
+    rdfs:label "大西町紺原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町新町
+    rdfs:label "大西町新町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町別府
+    rdfs:label "大西町別府"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町星浦
+    rdfs:label "大西町星浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町宮脇
+    rdfs:label "大西町宮脇"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町山之内
+    rdfs:label "大西町山之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大西町脇
+    rdfs:label "大西町脇"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大浜町
+    rdfs:label "大浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町明日
+    rdfs:label "大三島町明日"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町台
+    rdfs:label "大三島町台"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町浦戸
+    rdfs:label "大三島町浦戸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町大見
+    rdfs:label "大三島町大見"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町口総
+    rdfs:label "大三島町口総"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町野々江
+    rdfs:label "大三島町野々江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町肥海
+    rdfs:label "大三島町肥海"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町宮浦
+    rdfs:label "大三島町宮浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大三島町宗方
+    rdfs:label "大三島町宗方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市風早町
+    rdfs:label "風早町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市片原町
+    rdfs:label "片原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市片山
+    rdfs:label "片山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市河南町
+    rdfs:label "河南町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市鐘場町
+    rdfs:label "鐘場町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市上浦町甘崎
+    rdfs:label "上浦町甘崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市上浦町井口
+    rdfs:label "上浦町井口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市上浦町盛
+    rdfs:label "上浦町盛"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市上浦町瀬戸
+    rdfs:label "上浦町瀬戸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市上徳
+    rdfs:label "上徳"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市唐子台東
+    rdfs:label "唐子台東"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市唐子台西
+    rdfs:label "唐子台西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市神宮
+    rdfs:label "神宮"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市祇園町
+    rdfs:label "祇園町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町池原
+    rdfs:label "菊間町池原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町川上
+    rdfs:label "菊間町川上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町河之内
+    rdfs:label "菊間町河之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町高田
+    rdfs:label "菊間町高田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町佐方
+    rdfs:label "菊間町佐方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町種
+    rdfs:label "菊間町種"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町田之尻
+    rdfs:label "菊間町田之尻"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町長坂
+    rdfs:label "菊間町長坂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町中川
+    rdfs:label "菊間町中川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町西山
+    rdfs:label "菊間町西山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町浜
+    rdfs:label "菊間町浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市菊間町松尾
+    rdfs:label "菊間町松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市北高下町
+    rdfs:label "北高下町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市北鳥生町
+    rdfs:label "北鳥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市北浜町
+    rdfs:label "北浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市北日吉町
+    rdfs:label "北日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市北宝来町
+    rdfs:label "北宝来町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市喜田村
+    rdfs:label "喜田村"@ja ;
+    mo:SubRegion mr:JP_愛媛県今治市喜田村丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市喜田村丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市衣干町
+    rdfs:label "衣干町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市共栄町
+    rdfs:label "共栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市蔵敷町
+    rdfs:label "蔵敷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市クリエイティブヒルズ
+    rdfs:label "クリエイティブヒルズ"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市来島
+    rdfs:label "来島"@ja ;
+    mo:SubRegion mr:JP_愛媛県今治市来島小島 ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市来島小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市鯉池町
+    rdfs:label "鯉池町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市小泉
+    rdfs:label "小泉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市郷新屋敷町
+    rdfs:label "郷新屋敷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市郷本町
+    rdfs:label "郷本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市郷六ケ内町
+    rdfs:label "郷六ケ内町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市郷桜井
+    rdfs:label "郷桜井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市広紹寺町
+    rdfs:label "広紹寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市高地町
+    rdfs:label "高地町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市小浦町
+    rdfs:label "小浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市黄金町
+    rdfs:label "黄金町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市国分
+    rdfs:label "国分"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市米屋町
+    rdfs:label "米屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市古谷
+    rdfs:label "古谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市桜井
+    rdfs:label "桜井"@ja ;
+    mo:SubRegion mr:JP_愛媛県今治市桜井丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市桜井丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市桜井団地
+    rdfs:label "桜井団地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市地堀
+    rdfs:label "地堀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市しまなみの杜
+    rdfs:label "しまなみの杜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市しまなみヒルズ
+    rdfs:label "しまなみヒルズ"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市砂場町
+    rdfs:label "砂場町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市関前大下
+    rdfs:label "関前大下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市関前岡村
+    rdfs:label "関前岡村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市関前小大下
+    rdfs:label "関前小大下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市蒼社町
+    rdfs:label "蒼社町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市杣田
+    rdfs:label "杣田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市大正町
+    rdfs:label "大正町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市高市
+    rdfs:label "高市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市高橋
+    rdfs:label "高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市高橋ふれあいの丘
+    rdfs:label "高橋ふれあいの丘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市高部
+    rdfs:label "高部"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市宅間
+    rdfs:label "宅間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市立花町
+    rdfs:label "立花町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町大野
+    rdfs:label "玉川町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町鬼原
+    rdfs:label "玉川町鬼原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町葛谷
+    rdfs:label "玉川町葛谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町桂
+    rdfs:label "玉川町桂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町木地
+    rdfs:label "玉川町木地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町高野
+    rdfs:label "玉川町高野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町小鴨部
+    rdfs:label "玉川町小鴨部"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町三反地
+    rdfs:label "玉川町三反地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町摺木
+    rdfs:label "玉川町摺木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町長谷
+    rdfs:label "玉川町長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町中村
+    rdfs:label "玉川町中村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町鍋地
+    rdfs:label "玉川町鍋地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町鈍川
+    rdfs:label "玉川町鈍川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町畑寺
+    rdfs:label "玉川町畑寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町別所
+    rdfs:label "玉川町別所"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町法界寺
+    rdfs:label "玉川町法界寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町御厩
+    rdfs:label "玉川町御厩"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町八幡
+    rdfs:label "玉川町八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町與和木
+    rdfs:label "玉川町與和木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町龍岡上
+    rdfs:label "玉川町龍岡上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市玉川町龍岡下
+    rdfs:label "玉川町龍岡下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市旦
+    rdfs:label "旦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市近見町
+    rdfs:label "近見町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市辻堂
+    rdfs:label "辻堂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市土橋町
+    rdfs:label "土橋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市天保山町
+    rdfs:label "天保山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市通町
+    rdfs:label "通町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市常盤町
+    rdfs:label "常盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市徳重
+    rdfs:label "徳重"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市富田新港
+    rdfs:label "富田新港"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市長沢
+    rdfs:label "長沢"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市中寺
+    rdfs:label "中寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市中浜町
+    rdfs:label "中浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市中日吉町
+    rdfs:label "中日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市中堀
+    rdfs:label "中堀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町大浦
+    rdfs:label "波方町大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町岡
+    rdfs:label "波方町岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町小部
+    rdfs:label "波方町小部"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町郷
+    rdfs:label "波方町郷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町波方
+    rdfs:label "波方町波方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町西浦
+    rdfs:label "波方町西浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町樋口
+    rdfs:label "波方町樋口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町馬刀潟
+    rdfs:label "波方町馬刀潟"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町宮崎
+    rdfs:label "波方町宮崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町森上
+    rdfs:label "波方町森上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波方町養老
+    rdfs:label "波方町養老"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市にぎわい広場
+    rdfs:label "にぎわい広場"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市新谷
+    rdfs:label "新谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市登畑
+    rdfs:label "登畑"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市野間
+    rdfs:label "野間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市拝志
+    rdfs:label "拝志"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市伯方町有津
+    rdfs:label "伯方町有津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市伯方町伊方
+    rdfs:label "伯方町伊方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市伯方町叶浦
+    rdfs:label "伯方町叶浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市伯方町北浦
+    rdfs:label "伯方町北浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市伯方町木浦
+    rdfs:label "伯方町木浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波止浜
+    rdfs:label "波止浜"@ja ;
+    mo:SubRegion mr:JP_愛媛県今治市波止浜丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市波止浜丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市八町東
+    rdfs:label "八町東"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市八町西
+    rdfs:label "八町西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市東鳥生町
+    rdfs:label "東鳥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市東村
+    rdfs:label "東村"@ja ;
+    mo:SubRegion mr:JP_愛媛県今治市東村丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市東村丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市東村南
+    rdfs:label "東村南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市東門町
+    rdfs:label "東門町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市古国分
+    rdfs:label "古国分"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市別宮町
+    rdfs:label "別宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市別名
+    rdfs:label "別名"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市孫兵衛作
+    rdfs:label "孫兵衛作"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市町谷
+    rdfs:label "町谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市松木
+    rdfs:label "松木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市松本町
+    rdfs:label "松本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市美須賀町
+    rdfs:label "美須賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市湊町
+    rdfs:label "湊町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市南高下町
+    rdfs:label "南高下町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市南大門町
+    rdfs:label "南大門町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市南鳥生町
+    rdfs:label "南鳥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市南日吉町
+    rdfs:label "南日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市南宝来町
+    rdfs:label "南宝来町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市美保町
+    rdfs:label "美保町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市宮ヶ崎
+    rdfs:label "宮ヶ崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市宮窪町四阪島
+    rdfs:label "宮窪町四阪島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市宮窪町友浦
+    rdfs:label "宮窪町友浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市宮窪町早川
+    rdfs:label "宮窪町早川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市宮窪町宮窪
+    rdfs:label "宮窪町宮窪"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市宮窪町余所国
+    rdfs:label "宮窪町余所国"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市宮下町
+    rdfs:label "宮下町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市室屋町
+    rdfs:label "室屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市矢田
+    rdfs:label "矢田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市山方町
+    rdfs:label "山方町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市山口
+    rdfs:label "山口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市山路
+    rdfs:label "山路"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市山路町
+    rdfs:label "山路町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市湯ノ浦
+    rdfs:label "湯ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市横田町
+    rdfs:label "横田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町幸新田
+    rdfs:label "吉海町幸新田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町正味
+    rdfs:label "吉海町正味"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町田浦
+    rdfs:label "吉海町田浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町津島
+    rdfs:label "吉海町津島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町泊
+    rdfs:label "吉海町泊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町名駒
+    rdfs:label "吉海町名駒"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町仁江
+    rdfs:label "吉海町仁江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町福田
+    rdfs:label "吉海町福田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町臥間
+    rdfs:label "吉海町臥間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町本庄
+    rdfs:label "吉海町本庄"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町南浦
+    rdfs:label "吉海町南浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町名
+    rdfs:label "吉海町名"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町椋名
+    rdfs:label "吉海町椋名"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市吉海町八幡
+    rdfs:label "吉海町八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県今治市四村
+    rdfs:label "四村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市
+    rdfs:label "宇和島市"@ja ;
+    mo:AreaCode "38203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市曙町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市朝日町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市愛宕町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市泉町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市伊吹町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市祝森 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市宇和津町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市恵美須町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市大浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市大宮町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市御徒町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市柿原 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市賀古町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市川内 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市北新町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市京町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市小池 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市石応 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市御殿町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市寿町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市小浜 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市蒋渕 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市佐伯町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市栄町港 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市坂下津 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市桜町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市笹町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市下波 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市白浜 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市神田川原 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市新田町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市新町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市須賀通 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市住吉町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市大超寺奥 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市高串 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市中央町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市築地町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町嵐 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町岩渕 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町岩松 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町後 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町浦知 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町塩定 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町大浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町柿之浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町上畑地 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町北灘乙 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町北灘甲 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町北灘丙 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町北灘丁 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町山財 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町下畑地乙 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町下畑地 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町須下 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町曽根 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町田颪 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町高田 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町竹ケ島 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町田之浜 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町近家 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町坪井 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町泥目水 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町成 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町鼡鳴 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町針木 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町平井 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町曲烏 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町槇川 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町増穂 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町御内 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町弓立 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町横浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町漁家 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町脇 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市鶴島町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市天赦公園 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市天神町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市戸島 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市中沢町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市長堀 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市夏目町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市並松 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市錦町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市野川 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市蛤 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市日振島 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市百之浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市平浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市広小路 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市藤江 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市文京町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市別当 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市弁天町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市保手 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市堀端町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市本九島 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市本町追手 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市桝形町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市丸穂町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市丸穂 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市丸之内 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三浦東 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三浦西 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市光満 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町大内 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町大藤 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町音地 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町金銅 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町兼近 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町川之内 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町北増穂 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町黒井地 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町黒川 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町小沢川 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町古藤田 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町是延 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町是能 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町則 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町曽根 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町田川 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町土居垣内 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町土居中 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町戸雁 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町中野中 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町波岡 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町成家 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町迫目 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町増田 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町三間中間 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町宮野下 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町務田 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市三間町元宗 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市宮下 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市御幸町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市妙典寺前 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市明倫町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市元結掛 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市保田 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市山際 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市遊子 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町浅川 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町魚棚 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町裡町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町沖村 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町奥浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町河内 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町北小路 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町白浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町立間 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町立間尻 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町知永 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町鶴間 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町南君 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町西小路 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町東小路 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町深浦 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町法花津 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町本町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市寄松 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市蕨 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市和霊公園 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市和霊中町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市和霊東町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市和霊元町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市和霊町 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県宇和島市曙町
+    rdfs:label "曙町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市愛宕町
+    rdfs:label "愛宕町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市伊吹町
+    rdfs:label "伊吹町"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市伊吹町北宇和島町 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市伊吹町北通 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市伊吹町東通 ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市伊吹町北宇和島町
+    rdfs:label "北宇和島町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市伊吹町北通
+    rdfs:label "北通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市伊吹町東通
+    rdfs:label "東通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市祝森
+    rdfs:label "祝森"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市宇和津町
+    rdfs:label "宇和津町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市恵美須町
+    rdfs:label "恵美須町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市大浦
+    rdfs:label "大浦"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市大浦赤松 ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市大浦赤松
+    rdfs:label "赤松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市大宮町
+    rdfs:label "大宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市御徒町
+    rdfs:label "御徒町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市柿原
+    rdfs:label "柿原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市賀古町
+    rdfs:label "賀古町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市川内
+    rdfs:label "川内"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市川内薬師谷 ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市川内薬師谷
+    rdfs:label "薬師谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市北新町
+    rdfs:label "北新町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市京町
+    rdfs:label "京町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市小池
+    rdfs:label "小池"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市石応
+    rdfs:label "石応"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市御殿町
+    rdfs:label "御殿町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市小浜
+    rdfs:label "小浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市蒋渕
+    rdfs:label "蒋渕"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市佐伯町
+    rdfs:label "佐伯町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市栄町港
+    rdfs:label "栄町港"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市坂下津
+    rdfs:label "坂下津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市笹町
+    rdfs:label "笹町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市下波
+    rdfs:label "下波"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市白浜
+    rdfs:label "白浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市神田川原
+    rdfs:label "神田川原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市新田町
+    rdfs:label "新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市須賀通
+    rdfs:label "須賀通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市大超寺奥
+    rdfs:label "大超寺奥"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市高串
+    rdfs:label "高串"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市築地町
+    rdfs:label "築地町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町嵐
+    rdfs:label "津島町嵐"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町岩渕
+    rdfs:label "津島町岩渕"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町岩松
+    rdfs:label "津島町岩松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町後
+    rdfs:label "津島町後"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町浦知
+    rdfs:label "津島町浦知"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町塩定
+    rdfs:label "津島町塩定"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町大浦
+    rdfs:label "津島町大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町柿之浦
+    rdfs:label "津島町柿之浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町上畑地
+    rdfs:label "津島町上畑地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町北灘乙
+    rdfs:label "津島町北灘乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町北灘甲
+    rdfs:label "津島町北灘甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町北灘丙
+    rdfs:label "津島町北灘丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町北灘丁
+    rdfs:label "津島町北灘丁"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町北灘丁大日提 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町北灘丁小日提 ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町北灘丁大日提
+    rdfs:label "大日提"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町北灘丁小日提
+    rdfs:label "小日提"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町山財
+    rdfs:label "津島町山財"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町下畑地乙
+    rdfs:label "津島町下畑地乙"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町下畑地乙上槇 ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町下畑地乙上槇
+    rdfs:label "上槇"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町下畑地
+    rdfs:label "津島町下畑地"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市津島町下畑地乙を除く ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町下畑地乙を除く
+    rdfs:label "乙を除く"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町須下
+    rdfs:label "津島町須下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町曽根
+    rdfs:label "津島町曽根"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町田颪
+    rdfs:label "津島町田颪"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町高田
+    rdfs:label "津島町高田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町竹ケ島
+    rdfs:label "津島町竹ケ島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町田之浜
+    rdfs:label "津島町田之浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町近家
+    rdfs:label "津島町近家"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町坪井
+    rdfs:label "津島町坪井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町泥目水
+    rdfs:label "津島町泥目水"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町成
+    rdfs:label "津島町成"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町鼡鳴
+    rdfs:label "津島町鼡鳴"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町針木
+    rdfs:label "津島町針木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町平井
+    rdfs:label "津島町平井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町曲烏
+    rdfs:label "津島町曲烏"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町槇川
+    rdfs:label "津島町槇川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町増穂
+    rdfs:label "津島町増穂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町御内
+    rdfs:label "津島町御内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町弓立
+    rdfs:label "津島町弓立"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町横浦
+    rdfs:label "津島町横浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町漁家
+    rdfs:label "津島町漁家"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市津島町脇
+    rdfs:label "津島町脇"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市鶴島町
+    rdfs:label "鶴島町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市天赦公園
+    rdfs:label "天赦公園"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市戸島
+    rdfs:label "戸島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市中沢町
+    rdfs:label "中沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市長堀
+    rdfs:label "長堀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市夏目町
+    rdfs:label "夏目町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市並松
+    rdfs:label "並松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市野川
+    rdfs:label "野川"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市野川滑床 ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市野川滑床
+    rdfs:label "滑床"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市蛤
+    rdfs:label "蛤"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市日振島
+    rdfs:label "日振島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市百之浦
+    rdfs:label "百之浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市平浦
+    rdfs:label "平浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市広小路
+    rdfs:label "広小路"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市藤江
+    rdfs:label "藤江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市文京町
+    rdfs:label "文京町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市別当
+    rdfs:label "別当"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市弁天町
+    rdfs:label "弁天町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市保手
+    rdfs:label "保手"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市堀端町
+    rdfs:label "堀端町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市本九島
+    rdfs:label "本九島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市本町追手
+    rdfs:label "本町追手"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市桝形町
+    rdfs:label "桝形町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市丸穂町
+    rdfs:label "丸穂町"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市丸穂町丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市丸穂町丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市丸穂
+    rdfs:label "丸穂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市丸之内
+    rdfs:label "丸之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三浦東
+    rdfs:label "三浦東"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三浦西
+    rdfs:label "三浦西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市光満
+    rdfs:label "光満"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町大内
+    rdfs:label "三間町大内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町大藤
+    rdfs:label "三間町大藤"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町音地
+    rdfs:label "三間町音地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町金銅
+    rdfs:label "三間町金銅"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町兼近
+    rdfs:label "三間町兼近"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町川之内
+    rdfs:label "三間町川之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町北増穂
+    rdfs:label "三間町北増穂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町黒井地
+    rdfs:label "三間町黒井地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町黒川
+    rdfs:label "三間町黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町小沢川
+    rdfs:label "三間町小沢川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町古藤田
+    rdfs:label "三間町古藤田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町是延
+    rdfs:label "三間町是延"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町是能
+    rdfs:label "三間町是能"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町則
+    rdfs:label "三間町則"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町曽根
+    rdfs:label "三間町曽根"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町田川
+    rdfs:label "三間町田川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町土居垣内
+    rdfs:label "三間町土居垣内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町土居中
+    rdfs:label "三間町土居中"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町戸雁
+    rdfs:label "三間町戸雁"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町中野中
+    rdfs:label "三間町中野中"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町波岡
+    rdfs:label "三間町波岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町成家
+    rdfs:label "三間町成家"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町迫目
+    rdfs:label "三間町迫目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町増田
+    rdfs:label "三間町増田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町三間中間
+    rdfs:label "三間町三間中間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町宮野下
+    rdfs:label "三間町宮野下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町務田
+    rdfs:label "三間町務田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市三間町元宗
+    rdfs:label "三間町元宗"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市宮下
+    rdfs:label "宮下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市御幸町
+    rdfs:label "御幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市妙典寺前
+    rdfs:label "妙典寺前"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市明倫町
+    rdfs:label "明倫町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市元結掛
+    rdfs:label "元結掛"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市保田
+    rdfs:label "保田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市山際
+    rdfs:label "山際"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市遊子
+    rdfs:label "遊子"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町浅川
+    rdfs:label "吉田町浅川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町魚棚
+    rdfs:label "吉田町魚棚"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町裡町
+    rdfs:label "吉田町裡町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町沖村
+    rdfs:label "吉田町沖村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町奥浦
+    rdfs:label "吉田町奥浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町河内
+    rdfs:label "吉田町河内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町北小路
+    rdfs:label "吉田町北小路"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町白浦
+    rdfs:label "吉田町白浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町立間
+    rdfs:label "吉田町立間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町立間尻
+    rdfs:label "吉田町立間尻"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町知永
+    rdfs:label "吉田町知永"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町鶴間
+    rdfs:label "吉田町鶴間"@ja ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町鶴間御殿内 ;
+    mo:SubRegion mr:JP_愛媛県宇和島市吉田町鶴間鶴間団地 ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町鶴間御殿内
+    rdfs:label "御殿内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町鶴間鶴間団地
+    rdfs:label "鶴間団地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町南君
+    rdfs:label "吉田町南君"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町西小路
+    rdfs:label "吉田町西小路"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町東小路
+    rdfs:label "吉田町東小路"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町深浦
+    rdfs:label "吉田町深浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町法花津
+    rdfs:label "吉田町法花津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市吉田町本町
+    rdfs:label "吉田町本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市寄松
+    rdfs:label "寄松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市蕨
+    rdfs:label "蕨"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市和霊公園
+    rdfs:label "和霊公園"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市和霊中町
+    rdfs:label "和霊中町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市和霊東町
+    rdfs:label "和霊東町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市和霊元町
+    rdfs:label "和霊元町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県宇和島市和霊町
+    rdfs:label "和霊町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市
+    rdfs:label "八幡浜市"@ja ;
+    mo:AreaCode "38204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市朝潮橋 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市旭町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市愛宕 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市愛宕山団地 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市穴井 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市駅前 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市江戸岡 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市海老崎 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市戎町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市大島 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市大谷口 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市大平 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市沖新田 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市海望園 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市片山町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市釜倉 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市川上町上泊 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市川上町川名津 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市川上町白石 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市川之内 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市北大黒町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市北浜 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市木多町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市喜多町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市旧港 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市旧役場前通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市国木 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市栗野浦 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市郷 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市合田 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市五反田 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市琴平町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市裁判所通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市幸町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市産業通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市舌間 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市下道 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市清水町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市清水町花小路 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市昭和通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市白浜通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市新栄町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市新川 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市神宮 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市神宮通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市神宮前 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市新町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市新港 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市新港戎町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市新和田町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市須崎 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市船場通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市大黒町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市大正町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市大門 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市高野地 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市谷 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市中央 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市千代田町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市出島 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市天神通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市中津川 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市仲之町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市西近江屋町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市西近江屋町浜通 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市花小路 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市浜田町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市浜之町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市東近江屋町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市東新川 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市東矢野町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市日土町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市桧谷 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市広瀬 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市布喜川 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市古町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市保内町磯崎 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市保内町川之石 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市保内町喜木 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市保内町喜木津 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市保内町須川 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市保内町広早 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市保内町宮内 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市本町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市真網代 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市松蔭町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市松柏 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市松本町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市港町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市南柏 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市南大黒町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市向灘 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市元城団地 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市八代 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市矢野町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市山越 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市横平 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市横町 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市若山 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県八幡浜市朝潮橋
+    rdfs:label "朝潮橋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市愛宕
+    rdfs:label "愛宕"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市愛宕山団地
+    rdfs:label "愛宕山団地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市穴井
+    rdfs:label "穴井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市駅前
+    rdfs:label "駅前"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市江戸岡
+    rdfs:label "江戸岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市海老崎
+    rdfs:label "海老崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市戎町
+    rdfs:label "戎町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市大谷口
+    rdfs:label "大谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市大平
+    rdfs:label "大平"@ja ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市大平津羽井 ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市大平花園町 ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市大平津羽井
+    rdfs:label "津羽井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市大平花園町
+    rdfs:label "花園町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市沖新田
+    rdfs:label "沖新田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市海望園
+    rdfs:label "海望園"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市片山町
+    rdfs:label "片山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市釜倉
+    rdfs:label "釜倉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市川上町上泊
+    rdfs:label "川上町上泊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市川上町川名津
+    rdfs:label "川上町川名津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市川上町白石
+    rdfs:label "川上町白石"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市川之内
+    rdfs:label "川之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市北大黒町
+    rdfs:label "北大黒町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市北浜
+    rdfs:label "北浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市木多町
+    rdfs:label "木多町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市喜多町
+    rdfs:label "喜多町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市旧港
+    rdfs:label "旧港"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市旧役場前通
+    rdfs:label "旧役場前通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市国木
+    rdfs:label "国木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市栗野浦
+    rdfs:label "栗野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市郷
+    rdfs:label "郷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市合田
+    rdfs:label "合田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市五反田
+    rdfs:label "五反田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市琴平町
+    rdfs:label "琴平町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市裁判所通
+    rdfs:label "裁判所通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市産業通
+    rdfs:label "産業通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市舌間
+    rdfs:label "舌間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市下道
+    rdfs:label "下道"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市清水町花小路
+    rdfs:label "清水町花小路"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市昭和通
+    rdfs:label "昭和通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市白浜通
+    rdfs:label "白浜通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市新栄町
+    rdfs:label "新栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市新川
+    rdfs:label "新川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市神宮
+    rdfs:label "神宮"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市神宮通
+    rdfs:label "神宮通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市神宮前
+    rdfs:label "神宮前"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市新港
+    rdfs:label "新港"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市新港戎町
+    rdfs:label "新港戎町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市新和田町
+    rdfs:label "新和田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市須崎
+    rdfs:label "須崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市船場通
+    rdfs:label "船場通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市大黒町
+    rdfs:label "大黒町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市大正町
+    rdfs:label "大正町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市大門
+    rdfs:label "大門"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市高野地
+    rdfs:label "高野地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市谷
+    rdfs:label "谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市千代田町
+    rdfs:label "千代田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市出島
+    rdfs:label "出島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市天神通
+    rdfs:label "天神通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市中津川
+    rdfs:label "中津川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市仲之町
+    rdfs:label "仲之町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市西近江屋町
+    rdfs:label "西近江屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市西近江屋町浜通
+    rdfs:label "西近江屋町浜通"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市花小路
+    rdfs:label "花小路"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市浜田町
+    rdfs:label "浜田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市浜之町
+    rdfs:label "浜之町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市東近江屋町
+    rdfs:label "東近江屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市東新川
+    rdfs:label "東新川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市東矢野町
+    rdfs:label "東矢野町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市日土町
+    rdfs:label "日土町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市桧谷
+    rdfs:label "桧谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市広瀬
+    rdfs:label "広瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市布喜川
+    rdfs:label "布喜川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市古町
+    rdfs:label "古町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市保内町磯崎
+    rdfs:label "保内町磯崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市保内町川之石
+    rdfs:label "保内町川之石"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市保内町喜木
+    rdfs:label "保内町喜木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市保内町喜木津
+    rdfs:label "保内町喜木津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市保内町須川
+    rdfs:label "保内町須川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市保内町広早
+    rdfs:label "保内町広早"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市保内町宮内
+    rdfs:label "保内町宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市真網代
+    rdfs:label "真網代"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市松蔭町
+    rdfs:label "松蔭町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市松柏
+    rdfs:label "松柏"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市松本町
+    rdfs:label "松本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市南柏
+    rdfs:label "南柏"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市南大黒町
+    rdfs:label "南大黒町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市向灘
+    rdfs:label "向灘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市元城団地
+    rdfs:label "元城団地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市八代
+    rdfs:label "八代"@ja ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市八代丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市八代丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市矢野町
+    rdfs:label "矢野町"@ja ;
+    mo:SubRegion mr:JP_愛媛県八幡浜市矢野町徳雲坊 ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市矢野町徳雲坊
+    rdfs:label "徳雲坊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市山越
+    rdfs:label "山越"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市横平
+    rdfs:label "横平"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市横町
+    rdfs:label "横町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県八幡浜市若山
+    rdfs:label "若山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市
+    rdfs:label "新居浜市"@ja ;
+    mo:AreaCode "38205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市阿島乙 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市阿島 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市泉池町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市泉宮町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市磯浦町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市一宮町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市宇高町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市上原 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市江口町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市王子町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市大江町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市大島 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市大生院 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市御蔵町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市落神町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市金子丙 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市上泉町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市観音原町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市菊本町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市喜光地町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市岸の上町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市北内町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市北新町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市清住町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市楠崎 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市久保田町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市黒島 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市神郷 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市河内町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市光明寺 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市国領 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市寿町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市郷 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市郷乙 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市西連寺町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市坂井町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市桜木町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市沢津町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市繁本町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市七宝台町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市東雲町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市篠場町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市清水町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市下泉町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市庄内町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市城下町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市新須賀町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市新田町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市角野 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市角野新田町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市瀬戸町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市惣開町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市大永山 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市高木町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市高田 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市高津町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市滝の宮町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市多喜浜 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市立川町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市田所町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市種子川町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市種子川山 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市田の上 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市土橋 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市東田 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市徳常町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市外山町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市中須賀町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市中筋町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市中西町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市中萩町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市中村 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市中村松木 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市長岩町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市新居浜乙 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市西泉町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市西喜光地町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市西の土居町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市西原町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市西町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市荷内町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市萩生 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市八幡 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市垣生 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市平形町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市船木 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市別子山 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市星越町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市星原町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市本郷 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市前田町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市政枝町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市又野 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市松木町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市松の木町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市松原町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市松神子 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市港町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市南小松原町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市宮西町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市宮原町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市八雲町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市山田町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市山根町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市横水町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市吉岡町 ;
+    mo:SubRegion mr:JP_愛媛県新居浜市若水町 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県新居浜市阿島乙
+    rdfs:label "阿島乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市阿島
+    rdfs:label "阿島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市泉池町
+    rdfs:label "泉池町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市泉宮町
+    rdfs:label "泉宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市磯浦町
+    rdfs:label "磯浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市一宮町
+    rdfs:label "一宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市宇高町
+    rdfs:label "宇高町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市上原
+    rdfs:label "上原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市江口町
+    rdfs:label "江口町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市王子町
+    rdfs:label "王子町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市大江町
+    rdfs:label "大江町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市大生院
+    rdfs:label "大生院"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市御蔵町
+    rdfs:label "御蔵町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市落神町
+    rdfs:label "落神町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市金子丙
+    rdfs:label "金子丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市上泉町
+    rdfs:label "上泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市観音原町
+    rdfs:label "観音原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市菊本町
+    rdfs:label "菊本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市喜光地町
+    rdfs:label "喜光地町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市岸の上町
+    rdfs:label "岸の上町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市北内町
+    rdfs:label "北内町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市北新町
+    rdfs:label "北新町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市清住町
+    rdfs:label "清住町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市楠崎
+    rdfs:label "楠崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市久保田町
+    rdfs:label "久保田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市黒島
+    rdfs:label "黒島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市神郷
+    rdfs:label "神郷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市河内町
+    rdfs:label "河内町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市光明寺
+    rdfs:label "光明寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市国領
+    rdfs:label "国領"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市郷
+    rdfs:label "郷"@ja ;
+    mo:SubRegion mr:JP_愛媛県新居浜市郷丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市郷丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市郷乙
+    rdfs:label "郷乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市西連寺町
+    rdfs:label "西連寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市坂井町
+    rdfs:label "坂井町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市桜木町
+    rdfs:label "桜木町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市沢津町
+    rdfs:label "沢津町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市繁本町
+    rdfs:label "繁本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市七宝台町
+    rdfs:label "七宝台町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市東雲町
+    rdfs:label "東雲町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市篠場町
+    rdfs:label "篠場町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市下泉町
+    rdfs:label "下泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市庄内町
+    rdfs:label "庄内町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市城下町
+    rdfs:label "城下町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市新須賀町
+    rdfs:label "新須賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市新田町
+    rdfs:label "新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市角野
+    rdfs:label "角野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市角野新田町
+    rdfs:label "角野新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市瀬戸町
+    rdfs:label "瀬戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市惣開町
+    rdfs:label "惣開町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市大永山
+    rdfs:label "大永山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市高木町
+    rdfs:label "高木町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市高田
+    rdfs:label "高田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市高津町
+    rdfs:label "高津町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市滝の宮町
+    rdfs:label "滝の宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市多喜浜
+    rdfs:label "多喜浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市立川町
+    rdfs:label "立川町"@ja ;
+    mo:SubRegion mr:JP_愛媛県新居浜市立川町立川山を含む ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市立川町立川山を含む
+    rdfs:label "立川山を含む"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市田所町
+    rdfs:label "田所町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市種子川町
+    rdfs:label "種子川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市種子川山
+    rdfs:label "種子川山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市田の上
+    rdfs:label "田の上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市土橋
+    rdfs:label "土橋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市東田
+    rdfs:label "東田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市徳常町
+    rdfs:label "徳常町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市外山町
+    rdfs:label "外山町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市中須賀町
+    rdfs:label "中須賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市中筋町
+    rdfs:label "中筋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市中西町
+    rdfs:label "中西町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市中萩町
+    rdfs:label "中萩町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市中村松木
+    rdfs:label "中村松木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市長岩町
+    rdfs:label "長岩町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市新居浜乙
+    rdfs:label "新居浜乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市西泉町
+    rdfs:label "西泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市西喜光地町
+    rdfs:label "西喜光地町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市西の土居町
+    rdfs:label "西の土居町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市西原町
+    rdfs:label "西原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市荷内町
+    rdfs:label "荷内町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市萩生
+    rdfs:label "萩生"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市垣生
+    rdfs:label "垣生"@ja ;
+    mo:SubRegion mr:JP_愛媛県新居浜市垣生丁目 ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市垣生丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市平形町
+    rdfs:label "平形町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市船木
+    rdfs:label "船木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市別子山
+    rdfs:label "別子山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市星越町
+    rdfs:label "星越町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市星原町
+    rdfs:label "星原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市本郷
+    rdfs:label "本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市前田町
+    rdfs:label "前田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市政枝町
+    rdfs:label "政枝町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市又野
+    rdfs:label "又野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市松木町
+    rdfs:label "松木町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市松の木町
+    rdfs:label "松の木町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市松神子
+    rdfs:label "松神子"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市南小松原町
+    rdfs:label "南小松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市宮西町
+    rdfs:label "宮西町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市宮原町
+    rdfs:label "宮原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市八雲町
+    rdfs:label "八雲町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市山田町
+    rdfs:label "山田町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市山根町
+    rdfs:label "山根町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市横水町
+    rdfs:label "横水町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市吉岡町
+    rdfs:label "吉岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県新居浜市若水町
+    rdfs:label "若水町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市
+    rdfs:label "西条市"@ja ;
+    mo:AreaCode "38206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県西条市明理川 ;
+    mo:SubRegion mr:JP_愛媛県西条市明屋敷 ;
+    mo:SubRegion mr:JP_愛媛県西条市荒川 ;
+    mo:SubRegion mr:JP_愛媛県西条市安知生 ;
+    mo:SubRegion mr:JP_愛媛県西条市飯岡 ;
+    mo:SubRegion mr:JP_愛媛県西条市石田 ;
+    mo:SubRegion mr:JP_愛媛県西条市石延 ;
+    mo:SubRegion mr:JP_愛媛県西条市市之川 ;
+    mo:SubRegion mr:JP_愛媛県西条市今在家 ;
+    mo:SubRegion mr:JP_愛媛県西条市円海寺 ;
+    mo:SubRegion mr:JP_愛媛県西条市大新田 ;
+    mo:SubRegion mr:JP_愛媛県西条市大野 ;
+    mo:SubRegion mr:JP_愛媛県西条市大浜 ;
+    mo:SubRegion mr:JP_愛媛県西条市大保木 ;
+    mo:SubRegion mr:JP_愛媛県西条市大町 ;
+    mo:SubRegion mr:JP_愛媛県西条市上市 ;
+    mo:SubRegion mr:JP_愛媛県西条市河之内 ;
+    mo:SubRegion mr:JP_愛媛県西条市河原津 ;
+    mo:SubRegion mr:JP_愛媛県西条市河原津新田 ;
+    mo:SubRegion mr:JP_愛媛県西条市神拝甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市神拝乙 ;
+    mo:SubRegion mr:JP_愛媛県西条市喜多川 ;
+    mo:SubRegion mr:JP_愛媛県西条市喜多台 ;
+    mo:SubRegion mr:JP_愛媛県西条市楠 ;
+    mo:SubRegion mr:JP_愛媛県西条市国安 ;
+    mo:SubRegion mr:JP_愛媛県西条市黒瀬 ;
+    mo:SubRegion mr:JP_愛媛県西条市黒谷 ;
+    mo:SubRegion mr:JP_愛媛県西条市桑村 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町明穂 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町石鎚 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町大郷 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町大頭 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町北川 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町新屋敷 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町南川 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町妙口 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町安井 ;
+    mo:SubRegion mr:JP_愛媛県西条市栄町 ;
+    mo:SubRegion mr:JP_愛媛県西条市坂元甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市実報寺 ;
+    mo:SubRegion mr:JP_愛媛県西条市下島山甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市下島山乙 ;
+    mo:SubRegion mr:JP_愛媛県西条市周布 ;
+    mo:SubRegion mr:JP_愛媛県西条市新市 ;
+    mo:SubRegion mr:JP_愛媛県西条市新田 ;
+    mo:SubRegion mr:JP_愛媛県西条市新町 ;
+    mo:SubRegion mr:JP_愛媛県西条市洲之内甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市千町 ;
+    mo:SubRegion mr:JP_愛媛県西条市大師町 ;
+    mo:SubRegion mr:JP_愛媛県西条市高田 ;
+    mo:SubRegion mr:JP_愛媛県西条市玉津 ;
+    mo:SubRegion mr:JP_愛媛県西条市玉之江 ;
+    mo:SubRegion mr:JP_愛媛県西条市旦之上 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町明穂 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町池田 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町石経 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町今井 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町臼坂 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町川根 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町願連寺 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町北田野 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町楠窪 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町久妙寺 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町鞍瀬 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町来見 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町高知 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町古田 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町志川 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町関屋 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町高松 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町田滝 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町田野上方 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町丹原 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町千原 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町寺尾 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町徳能 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町徳能出作 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町長野 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町明河 ;
+    mo:SubRegion mr:JP_愛媛県西条市丹原町湯谷口 ;
+    mo:SubRegion mr:JP_愛媛県西条市朔日市 ;
+    mo:SubRegion mr:JP_愛媛県西条市津越 ;
+    mo:SubRegion mr:JP_愛媛県西条市禎瑞 ;
+    mo:SubRegion mr:JP_愛媛県西条市天神 ;
+    mo:SubRegion mr:JP_愛媛県西条市兎之山 ;
+    mo:SubRegion mr:JP_愛媛県西条市中奥 ;
+    mo:SubRegion mr:JP_愛媛県西条市中西 ;
+    mo:SubRegion mr:JP_愛媛県西条市中野甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市中野乙 ;
+    mo:SubRegion mr:JP_愛媛県西条市中野丙 ;
+    mo:SubRegion mr:JP_愛媛県西条市楢木 ;
+    mo:SubRegion mr:JP_愛媛県西条市西泉甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市西泉乙 ;
+    mo:SubRegion mr:JP_愛媛県西条市西田甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市西之川 ;
+    mo:SubRegion mr:JP_愛媛県西条市壬生川 ;
+    mo:SubRegion mr:JP_愛媛県西条市野々市 ;
+    mo:SubRegion mr:JP_愛媛県西条市早川 ;
+    mo:SubRegion mr:JP_愛媛県西条市ひうち ;
+    mo:SubRegion mr:JP_愛媛県西条市東之川 ;
+    mo:SubRegion mr:JP_愛媛県西条市東町 ;
+    mo:SubRegion mr:JP_愛媛県西条市樋之口 ;
+    mo:SubRegion mr:JP_愛媛県西条市氷見甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市氷見乙 ;
+    mo:SubRegion mr:JP_愛媛県西条市氷見丙 ;
+    mo:SubRegion mr:JP_愛媛県西条市氷見丁 ;
+    mo:SubRegion mr:JP_愛媛県西条市氷見戊 ;
+    mo:SubRegion mr:JP_愛媛県西条市広江 ;
+    mo:SubRegion mr:JP_愛媛県西条市広岡 ;
+    mo:SubRegion mr:JP_愛媛県西条市福成寺 ;
+    mo:SubRegion mr:JP_愛媛県西条市福武甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市福武乙 ;
+    mo:SubRegion mr:JP_愛媛県西条市藤之石 ;
+    mo:SubRegion mr:JP_愛媛県西条市船屋甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市船屋乙 ;
+    mo:SubRegion mr:JP_愛媛県西条市古川甲 ;
+    mo:SubRegion mr:JP_愛媛県西条市古川乙 ;
+    mo:SubRegion mr:JP_愛媛県西条市北条 ;
+    mo:SubRegion mr:JP_愛媛県西条市保野 ;
+    mo:SubRegion mr:JP_愛媛県西条市本町 ;
+    mo:SubRegion mr:JP_愛媛県西条市丸野 ;
+    mo:SubRegion mr:JP_愛媛県西条市三津屋 ;
+    mo:SubRegion mr:JP_愛媛県西条市三津屋東 ;
+    mo:SubRegion mr:JP_愛媛県西条市三津屋南 ;
+    mo:SubRegion mr:JP_愛媛県西条市港 ;
+    mo:SubRegion mr:JP_愛媛県西条市宮之内 ;
+    mo:SubRegion mr:JP_愛媛県西条市明神木 ;
+    mo:SubRegion mr:JP_愛媛県西条市三芳 ;
+    mo:SubRegion mr:JP_愛媛県西条市安用 ;
+    mo:SubRegion mr:JP_愛媛県西条市安用出作 ;
+    mo:SubRegion mr:JP_愛媛県西条市吉田 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県西条市明理川
+    rdfs:label "明理川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市明屋敷
+    rdfs:label "明屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市荒川
+    rdfs:label "荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市安知生
+    rdfs:label "安知生"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市飯岡
+    rdfs:label "飯岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市石田
+    rdfs:label "石田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市石延
+    rdfs:label "石延"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市市之川
+    rdfs:label "市之川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市今在家
+    rdfs:label "今在家"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市円海寺
+    rdfs:label "円海寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市大新田
+    rdfs:label "大新田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市大浜
+    rdfs:label "大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市大保木
+    rdfs:label "大保木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市大町
+    rdfs:label "大町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市上市
+    rdfs:label "上市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市河之内
+    rdfs:label "河之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市河原津
+    rdfs:label "河原津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市河原津新田
+    rdfs:label "河原津新田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市神拝甲
+    rdfs:label "神拝甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市神拝乙
+    rdfs:label "神拝乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市喜多川
+    rdfs:label "喜多川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市喜多台
+    rdfs:label "喜多台"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市楠
+    rdfs:label "楠"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市国安
+    rdfs:label "国安"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市黒瀬
+    rdfs:label "黒瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市黒谷
+    rdfs:label "黒谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市桑村
+    rdfs:label "桑村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町明穂
+    rdfs:label "小松町明穂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町石鎚
+    rdfs:label "小松町石鎚"@ja ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町石鎚上戸石 ;
+    mo:SubRegion mr:JP_愛媛県西条市小松町石鎚湯浪 ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町石鎚上戸石
+    rdfs:label "上戸石"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町石鎚湯浪
+    rdfs:label "湯浪"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町大郷
+    rdfs:label "小松町大郷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町大頭
+    rdfs:label "小松町大頭"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町北川
+    rdfs:label "小松町北川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町新屋敷
+    rdfs:label "小松町新屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町南川
+    rdfs:label "小松町南川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町妙口
+    rdfs:label "小松町妙口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市小松町安井
+    rdfs:label "小松町安井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市坂元甲
+    rdfs:label "坂元甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市実報寺
+    rdfs:label "実報寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市下島山甲
+    rdfs:label "下島山甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市下島山乙
+    rdfs:label "下島山乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市周布
+    rdfs:label "周布"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市新市
+    rdfs:label "新市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市洲之内甲
+    rdfs:label "洲之内甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市千町
+    rdfs:label "千町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市大師町
+    rdfs:label "大師町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市高田
+    rdfs:label "高田"@ja ;
+    mo:SubRegion mr:JP_愛媛県西条市高田正法寺 ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市高田正法寺
+    rdfs:label "正法寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市玉津
+    rdfs:label "玉津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市玉之江
+    rdfs:label "玉之江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市旦之上
+    rdfs:label "旦之上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町明穂
+    rdfs:label "丹原町明穂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町池田
+    rdfs:label "丹原町池田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町石経
+    rdfs:label "丹原町石経"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町今井
+    rdfs:label "丹原町今井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町臼坂
+    rdfs:label "丹原町臼坂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町川根
+    rdfs:label "丹原町川根"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町願連寺
+    rdfs:label "丹原町願連寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町北田野
+    rdfs:label "丹原町北田野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町楠窪
+    rdfs:label "丹原町楠窪"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町久妙寺
+    rdfs:label "丹原町久妙寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町鞍瀬
+    rdfs:label "丹原町鞍瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町来見
+    rdfs:label "丹原町来見"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町高知
+    rdfs:label "丹原町高知"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町古田
+    rdfs:label "丹原町古田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町志川
+    rdfs:label "丹原町志川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町関屋
+    rdfs:label "丹原町関屋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町高松
+    rdfs:label "丹原町高松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町田滝
+    rdfs:label "丹原町田滝"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町田野上方
+    rdfs:label "丹原町田野上方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町丹原
+    rdfs:label "丹原町丹原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町千原
+    rdfs:label "丹原町千原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町寺尾
+    rdfs:label "丹原町寺尾"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町徳能
+    rdfs:label "丹原町徳能"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町徳能出作
+    rdfs:label "丹原町徳能出作"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町長野
+    rdfs:label "丹原町長野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町明河
+    rdfs:label "丹原町明河"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丹原町湯谷口
+    rdfs:label "丹原町湯谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市朔日市
+    rdfs:label "朔日市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市津越
+    rdfs:label "津越"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市禎瑞
+    rdfs:label "禎瑞"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市兎之山
+    rdfs:label "兎之山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市中奥
+    rdfs:label "中奥"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市中西
+    rdfs:label "中西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市中野甲
+    rdfs:label "中野甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市中野乙
+    rdfs:label "中野乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市中野丙
+    rdfs:label "中野丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市楢木
+    rdfs:label "楢木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市西泉甲
+    rdfs:label "西泉甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市西泉乙
+    rdfs:label "西泉乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市西田甲
+    rdfs:label "西田甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市西之川
+    rdfs:label "西之川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市壬生川
+    rdfs:label "壬生川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市野々市
+    rdfs:label "野々市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市早川
+    rdfs:label "早川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市ひうち
+    rdfs:label "ひうち"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市東之川
+    rdfs:label "東之川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市樋之口
+    rdfs:label "樋之口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市氷見甲
+    rdfs:label "氷見甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市氷見乙
+    rdfs:label "氷見乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市氷見丙
+    rdfs:label "氷見丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市氷見丁
+    rdfs:label "氷見丁"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市氷見戊
+    rdfs:label "氷見戊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市広江
+    rdfs:label "広江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市広岡
+    rdfs:label "広岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市福成寺
+    rdfs:label "福成寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市福武甲
+    rdfs:label "福武甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市福武乙
+    rdfs:label "福武乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市藤之石
+    rdfs:label "藤之石"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市船屋甲
+    rdfs:label "船屋甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市船屋乙
+    rdfs:label "船屋乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市古川甲
+    rdfs:label "古川甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市古川乙
+    rdfs:label "古川乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市北条
+    rdfs:label "北条"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市保野
+    rdfs:label "保野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市丸野
+    rdfs:label "丸野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市三津屋
+    rdfs:label "三津屋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市三津屋東
+    rdfs:label "三津屋東"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市三津屋南
+    rdfs:label "三津屋南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市港
+    rdfs:label "港"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市宮之内
+    rdfs:label "宮之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市明神木
+    rdfs:label "明神木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市三芳
+    rdfs:label "三芳"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市安用
+    rdfs:label "安用"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市安用出作
+    rdfs:label "安用出作"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西条市吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市
+    rdfs:label "大洲市"@ja ;
+    mo:AreaCode "38207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県大洲市阿蔵 ;
+    mo:SubRegion mr:JP_愛媛県大洲市市木 ;
+    mo:SubRegion mr:JP_愛媛県大洲市稲積 ;
+    mo:SubRegion mr:JP_愛媛県大洲市梅川 ;
+    mo:SubRegion mr:JP_愛媛県大洲市宇和川 ;
+    mo:SubRegion mr:JP_愛媛県大洲市大洲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市戒川甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市上須戒 ;
+    mo:SubRegion mr:JP_愛媛県大洲市河辺町植松 ;
+    mo:SubRegion mr:JP_愛媛県大洲市河辺町川上 ;
+    mo:SubRegion mr:JP_愛媛県大洲市河辺町川崎 ;
+    mo:SubRegion mr:JP_愛媛県大洲市河辺町河都 ;
+    mo:SubRegion mr:JP_愛媛県大洲市河辺町北平 ;
+    mo:SubRegion mr:JP_愛媛県大洲市河辺町三嶋 ;
+    mo:SubRegion mr:JP_愛媛県大洲市河辺町山鳥坂 ;
+    mo:SubRegion mr:JP_愛媛県大洲市河辺町横山 ;
+    mo:SubRegion mr:JP_愛媛県大洲市北裏 ;
+    mo:SubRegion mr:JP_愛媛県大洲市北只 ;
+    mo:SubRegion mr:JP_愛媛県大洲市喜多山 ;
+    mo:SubRegion mr:JP_愛媛県大洲市蔵川 ;
+    mo:SubRegion mr:JP_愛媛県大洲市黒木 ;
+    mo:SubRegion mr:JP_愛媛県大洲市恋木 ;
+    mo:SubRegion mr:JP_愛媛県大洲市五郎 ;
+    mo:SubRegion mr:JP_愛媛県大洲市柴乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市柴甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市白滝甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市菅田町宇津甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市菅田町宇津乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市菅田町大竹 ;
+    mo:SubRegion mr:JP_愛媛県大洲市菅田町菅田甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市菅田町菅田乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市菅田町菅田丙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市高山 ;
+    mo:SubRegion mr:JP_愛媛県大洲市多田 ;
+    mo:SubRegion mr:JP_愛媛県大洲市田処 ;
+    mo:SubRegion mr:JP_愛媛県大洲市田口 ;
+    mo:SubRegion mr:JP_愛媛県大洲市手成 ;
+    mo:SubRegion mr:JP_愛媛県大洲市常磐町 ;
+    mo:SubRegion mr:JP_愛媛県大洲市徳森 ;
+    mo:SubRegion mr:JP_愛媛県大洲市豊茂乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市豊茂甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市豊茂丁 ;
+    mo:SubRegion mr:JP_愛媛県大洲市豊茂丙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長谷 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町青島 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町出海乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町出海甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町大越甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町沖浦乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町沖浦甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町沖浦丙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町櫛生乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町櫛生甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町櫛生丙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町黒田甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町今坊甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町下須戒甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町上老松甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町須沢丙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町拓海 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町仁久甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町晴海 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町穂積甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市長浜町穂積乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市中村 ;
+    mo:SubRegion mr:JP_愛媛県大洲市成能 ;
+    mo:SubRegion mr:JP_愛媛県大洲市新谷 ;
+    mo:SubRegion mr:JP_愛媛県大洲市新谷甲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市新谷乙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市新谷丙 ;
+    mo:SubRegion mr:JP_愛媛県大洲市新谷町 ;
+    mo:SubRegion mr:JP_愛媛県大洲市西大洲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市八多喜町 ;
+    mo:SubRegion mr:JP_愛媛県大洲市春賀 ;
+    mo:SubRegion mr:JP_愛媛県大洲市東宇山 ;
+    mo:SubRegion mr:JP_愛媛県大洲市東大洲 ;
+    mo:SubRegion mr:JP_愛媛県大洲市東若宮 ;
+    mo:SubRegion mr:JP_愛媛県大洲市肱川町宇和川 ;
+    mo:SubRegion mr:JP_愛媛県大洲市肱川町大谷 ;
+    mo:SubRegion mr:JP_愛媛県大洲市肱川町中居谷 ;
+    mo:SubRegion mr:JP_愛媛県大洲市肱川町中津 ;
+    mo:SubRegion mr:JP_愛媛県大洲市肱川町西 ;
+    mo:SubRegion mr:JP_愛媛県大洲市肱川町名荷谷 ;
+    mo:SubRegion mr:JP_愛媛県大洲市肱川町山鳥坂 ;
+    mo:SubRegion mr:JP_愛媛県大洲市肱川町予子林 ;
+    mo:SubRegion mr:JP_愛媛県大洲市平野町野田 ;
+    mo:SubRegion mr:JP_愛媛県大洲市平野町平地 ;
+    mo:SubRegion mr:JP_愛媛県大洲市藤縄 ;
+    mo:SubRegion mr:JP_愛媛県大洲市松尾 ;
+    mo:SubRegion mr:JP_愛媛県大洲市森山 ;
+    mo:SubRegion mr:JP_愛媛県大洲市野佐来 ;
+    mo:SubRegion mr:JP_愛媛県大洲市柳沢 ;
+    mo:SubRegion mr:JP_愛媛県大洲市柚木 ;
+    mo:SubRegion mr:JP_愛媛県大洲市横野 ;
+    mo:SubRegion mr:JP_愛媛県大洲市米津 ;
+    mo:SubRegion mr:JP_愛媛県大洲市若宮 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県大洲市阿蔵
+    rdfs:label "阿蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市市木
+    rdfs:label "市木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市稲積
+    rdfs:label "稲積"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市梅川
+    rdfs:label "梅川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市宇和川
+    rdfs:label "宇和川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市大洲
+    rdfs:label "大洲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市戒川甲
+    rdfs:label "戒川甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市上須戒
+    rdfs:label "上須戒"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市河辺町植松
+    rdfs:label "河辺町植松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市河辺町川上
+    rdfs:label "河辺町川上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市河辺町川崎
+    rdfs:label "河辺町川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市河辺町河都
+    rdfs:label "河辺町河都"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市河辺町北平
+    rdfs:label "河辺町北平"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市河辺町三嶋
+    rdfs:label "河辺町三嶋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市河辺町山鳥坂
+    rdfs:label "河辺町山鳥坂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市河辺町横山
+    rdfs:label "河辺町横山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市北裏
+    rdfs:label "北裏"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市北只
+    rdfs:label "北只"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市喜多山
+    rdfs:label "喜多山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市蔵川
+    rdfs:label "蔵川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市黒木
+    rdfs:label "黒木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市恋木
+    rdfs:label "恋木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市五郎
+    rdfs:label "五郎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市柴乙
+    rdfs:label "柴乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市柴甲
+    rdfs:label "柴甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市白滝甲
+    rdfs:label "白滝甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市菅田町宇津甲
+    rdfs:label "菅田町宇津甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市菅田町宇津乙
+    rdfs:label "菅田町宇津乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市菅田町大竹
+    rdfs:label "菅田町大竹"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市菅田町菅田甲
+    rdfs:label "菅田町菅田甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市菅田町菅田乙
+    rdfs:label "菅田町菅田乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市菅田町菅田丙
+    rdfs:label "菅田町菅田丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市高山
+    rdfs:label "高山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市多田
+    rdfs:label "多田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市田処
+    rdfs:label "田処"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市田口
+    rdfs:label "田口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市手成
+    rdfs:label "手成"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市常磐町
+    rdfs:label "常磐町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市徳森
+    rdfs:label "徳森"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市豊茂乙
+    rdfs:label "豊茂乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市豊茂甲
+    rdfs:label "豊茂甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市豊茂丁
+    rdfs:label "豊茂丁"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市豊茂丙
+    rdfs:label "豊茂丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長谷
+    rdfs:label "長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜乙
+    rdfs:label "長浜乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜甲
+    rdfs:label "長浜甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町青島
+    rdfs:label "長浜町青島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町出海乙
+    rdfs:label "長浜町出海乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町出海甲
+    rdfs:label "長浜町出海甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町大越甲
+    rdfs:label "長浜町大越甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町沖浦乙
+    rdfs:label "長浜町沖浦乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町沖浦甲
+    rdfs:label "長浜町沖浦甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町沖浦丙
+    rdfs:label "長浜町沖浦丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町櫛生乙
+    rdfs:label "長浜町櫛生乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町櫛生甲
+    rdfs:label "長浜町櫛生甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町櫛生丙
+    rdfs:label "長浜町櫛生丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町黒田甲
+    rdfs:label "長浜町黒田甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町今坊甲
+    rdfs:label "長浜町今坊甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町下須戒甲
+    rdfs:label "長浜町下須戒甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町上老松甲
+    rdfs:label "長浜町上老松甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町須沢丙
+    rdfs:label "長浜町須沢丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町拓海
+    rdfs:label "長浜町拓海"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町仁久甲
+    rdfs:label "長浜町仁久甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町晴海
+    rdfs:label "長浜町晴海"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町穂積甲
+    rdfs:label "長浜町穂積甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市長浜町穂積乙
+    rdfs:label "長浜町穂積乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市成能
+    rdfs:label "成能"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市新谷
+    rdfs:label "新谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市新谷甲
+    rdfs:label "新谷甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市新谷乙
+    rdfs:label "新谷乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市新谷丙
+    rdfs:label "新谷丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市新谷町
+    rdfs:label "新谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市西大洲
+    rdfs:label "西大洲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市八多喜町
+    rdfs:label "八多喜町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市春賀
+    rdfs:label "春賀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市東宇山
+    rdfs:label "東宇山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市東大洲
+    rdfs:label "東大洲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市東若宮
+    rdfs:label "東若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市肱川町宇和川
+    rdfs:label "肱川町宇和川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市肱川町大谷
+    rdfs:label "肱川町大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市肱川町中居谷
+    rdfs:label "肱川町中居谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市肱川町中津
+    rdfs:label "肱川町中津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市肱川町西
+    rdfs:label "肱川町西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市肱川町名荷谷
+    rdfs:label "肱川町名荷谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市肱川町山鳥坂
+    rdfs:label "肱川町山鳥坂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市肱川町予子林
+    rdfs:label "肱川町予子林"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市平野町野田
+    rdfs:label "平野町野田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市平野町平地
+    rdfs:label "平野町平地"@ja ;
+    mo:SubRegion mr:JP_愛媛県大洲市平野町平地横野 ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市平野町平地横野
+    rdfs:label "横野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市藤縄
+    rdfs:label "藤縄"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市松尾
+    rdfs:label "松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市森山
+    rdfs:label "森山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市野佐来
+    rdfs:label "野佐来"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市柳沢
+    rdfs:label "柳沢"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市柚木
+    rdfs:label "柚木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市横野
+    rdfs:label "横野"@ja ;
+    mo:SubRegion mr:JP_愛媛県大洲市横野久保 ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市横野久保
+    rdfs:label "久保"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市米津
+    rdfs:label "米津"@ja ;
+    mo:SubRegion mr:JP_愛媛県大洲市米津甲 ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市米津甲
+    rdfs:label "甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県大洲市若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市
+    rdfs:label "伊予市"@ja ;
+    mo:AreaCode "38210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県伊予市市場 ;
+    mo:SubRegion mr:JP_愛媛県伊予市稲荷 ;
+    mo:SubRegion mr:JP_愛媛県伊予市上野 ;
+    mo:SubRegion mr:JP_愛媛県伊予市鵜崎 ;
+    mo:SubRegion mr:JP_愛媛県伊予市大平 ;
+    mo:SubRegion mr:JP_愛媛県伊予市尾崎 ;
+    mo:SubRegion mr:JP_愛媛県伊予市上吾川 ;
+    mo:SubRegion mr:JP_愛媛県伊予市上唐川 ;
+    mo:SubRegion mr:JP_愛媛県伊予市上三谷 ;
+    mo:SubRegion mr:JP_愛媛県伊予市米湊 ;
+    mo:SubRegion mr:JP_愛媛県伊予市下吾川 ;
+    mo:SubRegion mr:JP_愛媛県伊予市下唐川 ;
+    mo:SubRegion mr:JP_愛媛県伊予市下三谷 ;
+    mo:SubRegion mr:JP_愛媛県伊予市中村 ;
+    mo:SubRegion mr:JP_愛媛県伊予市中山町出渕 ;
+    mo:SubRegion mr:JP_愛媛県伊予市中山町栗田 ;
+    mo:SubRegion mr:JP_愛媛県伊予市中山町佐礼谷 ;
+    mo:SubRegion mr:JP_愛媛県伊予市中山町中山 ;
+    mo:SubRegion mr:JP_愛媛県伊予市灘町 ;
+    mo:SubRegion mr:JP_愛媛県伊予市平岡 ;
+    mo:SubRegion mr:JP_愛媛県伊予市双海町大久保 ;
+    mo:SubRegion mr:JP_愛媛県伊予市双海町上灘 ;
+    mo:SubRegion mr:JP_愛媛県伊予市双海町串 ;
+    mo:SubRegion mr:JP_愛媛県伊予市双海町高野川 ;
+    mo:SubRegion mr:JP_愛媛県伊予市双海町高岸 ;
+    mo:SubRegion mr:JP_愛媛県伊予市本郡 ;
+    mo:SubRegion mr:JP_愛媛県伊予市三秋 ;
+    mo:SubRegion mr:JP_愛媛県伊予市三島町 ;
+    mo:SubRegion mr:JP_愛媛県伊予市湊町 ;
+    mo:SubRegion mr:JP_愛媛県伊予市宮下 ;
+    mo:SubRegion mr:JP_愛媛県伊予市森 ;
+    mo:SubRegion mr:JP_愛媛県伊予市八倉 ;
+    mo:SubRegion mr:JP_愛媛県伊予市両沢 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県伊予市市場
+    rdfs:label "市場"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市稲荷
+    rdfs:label "稲荷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市鵜崎
+    rdfs:label "鵜崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市尾崎
+    rdfs:label "尾崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市上吾川
+    rdfs:label "上吾川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市上唐川
+    rdfs:label "上唐川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市上三谷
+    rdfs:label "上三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市米湊
+    rdfs:label "米湊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市下吾川
+    rdfs:label "下吾川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市下唐川
+    rdfs:label "下唐川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市下三谷
+    rdfs:label "下三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市中山町出渕
+    rdfs:label "中山町出渕"@ja ;
+    mo:SubRegion mr:JP_愛媛県伊予市中山町出渕豊岡・東町 ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市中山町出渕豊岡・東町
+    rdfs:label "豊岡・東町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市中山町栗田
+    rdfs:label "中山町栗田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市中山町佐礼谷
+    rdfs:label "中山町佐礼谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市中山町中山
+    rdfs:label "中山町中山"@ja ;
+    mo:SubRegion mr:JP_愛媛県伊予市中山町中山泉町 ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市中山町中山泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市灘町
+    rdfs:label "灘町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市平岡
+    rdfs:label "平岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市双海町大久保
+    rdfs:label "双海町大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市双海町上灘
+    rdfs:label "双海町上灘"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市双海町串
+    rdfs:label "双海町串"@ja ;
+    mo:SubRegion mr:JP_愛媛県伊予市双海町串上浜 ;
+    mo:SubRegion mr:JP_愛媛県伊予市双海町串下浜 ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市双海町串上浜
+    rdfs:label "上浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市双海町串下浜
+    rdfs:label "下浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市双海町高野川
+    rdfs:label "双海町高野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市双海町高岸
+    rdfs:label "双海町高岸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市本郡
+    rdfs:label "本郡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市三秋
+    rdfs:label "三秋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市三島町
+    rdfs:label "三島町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市湊町
+    rdfs:label "湊町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市宮下
+    rdfs:label "宮下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市森
+    rdfs:label "森"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市八倉
+    rdfs:label "八倉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予市両沢
+    rdfs:label "両沢"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市
+    rdfs:label "四国中央市"@ja ;
+    mo:AreaCode "38213" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市金田町金川 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市金田町三角寺 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市金田町半田 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市上柏町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市上分町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市川滝町下山 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市川滝町領家 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市川之江町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市川之江町長須 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市川之江町余木 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市金砂町小川山 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市金砂町平野山 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市金生町下分 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市金生町山田井 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市具定町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市寒川町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市柴生町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市下柏町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市下川町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市新宮町馬立 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市新宮町上山 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市新宮町新宮 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市新宮町新瀬川 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町入野 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町上野 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町浦山 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町蕪崎 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町北野 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町小林 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町津根 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町天満 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町土居 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町中村 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町野田 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町畑野 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市土居町藤原 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市富郷町寒川山 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市富郷町津根山 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市富郷町豊坂 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市豊岡町五良野 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市豊岡町大町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市豊岡町岡銅 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市豊岡町長田 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市豊岡町豊田 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市中曽根町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市中之庄町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市三島朝日 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市三島金子 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市三島紙屋町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市三島中央 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市三島宮川 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市村松町 ;
+    mo:SubRegion mr:JP_愛媛県四国中央市妻鳥町 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県四国中央市金田町金川
+    rdfs:label "金田町金川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市金田町三角寺
+    rdfs:label "金田町三角寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市金田町半田
+    rdfs:label "金田町半田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市上柏町
+    rdfs:label "上柏町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市上分町
+    rdfs:label "上分町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市川滝町下山
+    rdfs:label "川滝町下山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市川滝町領家
+    rdfs:label "川滝町領家"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市川之江町
+    rdfs:label "川之江町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市川之江町長須
+    rdfs:label "川之江町長須"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市川之江町余木
+    rdfs:label "川之江町余木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市金砂町小川山
+    rdfs:label "金砂町小川山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市金砂町平野山
+    rdfs:label "金砂町平野山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市金生町下分
+    rdfs:label "金生町下分"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市金生町山田井
+    rdfs:label "金生町山田井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市具定町
+    rdfs:label "具定町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市寒川町
+    rdfs:label "寒川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市柴生町
+    rdfs:label "柴生町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市下柏町
+    rdfs:label "下柏町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市下川町
+    rdfs:label "下川町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市新宮町馬立
+    rdfs:label "新宮町馬立"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市新宮町上山
+    rdfs:label "新宮町上山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市新宮町新宮
+    rdfs:label "新宮町新宮"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市新宮町新瀬川
+    rdfs:label "新宮町新瀬川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町入野
+    rdfs:label "土居町入野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町上野
+    rdfs:label "土居町上野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町浦山
+    rdfs:label "土居町浦山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町蕪崎
+    rdfs:label "土居町蕪崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町北野
+    rdfs:label "土居町北野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町小林
+    rdfs:label "土居町小林"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町津根
+    rdfs:label "土居町津根"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町天満
+    rdfs:label "土居町天満"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町土居
+    rdfs:label "土居町土居"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町中村
+    rdfs:label "土居町中村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町野田
+    rdfs:label "土居町野田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町畑野
+    rdfs:label "土居町畑野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市土居町藤原
+    rdfs:label "土居町藤原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市富郷町寒川山
+    rdfs:label "富郷町寒川山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市富郷町津根山
+    rdfs:label "富郷町津根山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市富郷町豊坂
+    rdfs:label "富郷町豊坂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市豊岡町五良野
+    rdfs:label "豊岡町五良野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市豊岡町大町
+    rdfs:label "豊岡町大町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市豊岡町岡銅
+    rdfs:label "豊岡町岡銅"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市豊岡町長田
+    rdfs:label "豊岡町長田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市豊岡町豊田
+    rdfs:label "豊岡町豊田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市中曽根町
+    rdfs:label "中曽根町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市中之庄町
+    rdfs:label "中之庄町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市三島朝日
+    rdfs:label "三島朝日"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市三島金子
+    rdfs:label "三島金子"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市三島紙屋町
+    rdfs:label "三島紙屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市三島中央
+    rdfs:label "三島中央"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市三島宮川
+    rdfs:label "三島宮川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市村松町
+    rdfs:label "村松町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県四国中央市妻鳥町
+    rdfs:label "妻鳥町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市
+    rdfs:label "西予市"@ja ;
+    mo:AreaCode "38214" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県西予市明浜町狩浜 ;
+    mo:SubRegion mr:JP_愛媛県西予市明浜町高山 ;
+    mo:SubRegion mr:JP_愛媛県西予市明浜町田之浜 ;
+    mo:SubRegion mr:JP_愛媛県西予市明浜町俵津 ;
+    mo:SubRegion mr:JP_愛媛県西予市明浜町渡江 ;
+    mo:SubRegion mr:JP_愛媛県西予市明浜町宮野浦 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町明間 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町明石 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町伊賀上 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町伊崎 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町稲生 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町伊延 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町岩木 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町卯之町 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町大江 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町岡山 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町小野田 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町小原 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町皆田 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町上松葉 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町加茂 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町河内 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町清沢 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町久保 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町窪 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町郷内 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町坂戸 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町さくら ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町下松葉 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町常定寺 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町新城 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町神領 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町瀬戸 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町田苗真土 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町田野中 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町永長 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町西山田 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町野田 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町信里 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町東多田 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町久枝 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町下川 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町ひまわり ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町平野 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町杢所 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町山田 ;
+    mo:SubRegion mr:JP_愛媛県西予市宇和町れんげ ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町魚成 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町下相 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町男河内 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町嘉喜尾 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町川津南 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町窪野 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町田穂 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町高野子 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町土居 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町野井川 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町古市 ;
+    mo:SubRegion mr:JP_愛媛県西予市城川町遊子谷 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町阿下 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町旭 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町大西 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町大野ケ原 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町片川 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町釜川 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町鎌田 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町河西 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町蔵良 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町栗木 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町小松 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町坂石 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町白髭 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町四郎谷 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町惣川 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町高瀬 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町鳥鹿野 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町富野川 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町長谷 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町中通川 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町西 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町野村 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町平野 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町舟戸 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町松渓 ;
+    mo:SubRegion mr:JP_愛媛県西予市野村町予子林 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町朝立 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町安土 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町有網代 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町有太刀 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町和泉 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町蔵貫 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町蔵貫浦 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町鴫山 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町下泊 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町周木 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町津布理 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町長早 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町二及 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町垣生 ;
+    mo:SubRegion mr:JP_愛媛県西予市三瓶町皆江 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県西予市明浜町狩浜
+    rdfs:label "明浜町狩浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市明浜町高山
+    rdfs:label "明浜町高山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市明浜町田之浜
+    rdfs:label "明浜町田之浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市明浜町俵津
+    rdfs:label "明浜町俵津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市明浜町渡江
+    rdfs:label "明浜町渡江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市明浜町宮野浦
+    rdfs:label "明浜町宮野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町明間
+    rdfs:label "宇和町明間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町明石
+    rdfs:label "宇和町明石"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町伊賀上
+    rdfs:label "宇和町伊賀上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町伊崎
+    rdfs:label "宇和町伊崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町稲生
+    rdfs:label "宇和町稲生"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町伊延
+    rdfs:label "宇和町伊延"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町岩木
+    rdfs:label "宇和町岩木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町卯之町
+    rdfs:label "宇和町卯之町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町大江
+    rdfs:label "宇和町大江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町岡山
+    rdfs:label "宇和町岡山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町小野田
+    rdfs:label "宇和町小野田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町小原
+    rdfs:label "宇和町小原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町皆田
+    rdfs:label "宇和町皆田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町上松葉
+    rdfs:label "宇和町上松葉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町加茂
+    rdfs:label "宇和町加茂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町河内
+    rdfs:label "宇和町河内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町清沢
+    rdfs:label "宇和町清沢"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町久保
+    rdfs:label "宇和町久保"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町窪
+    rdfs:label "宇和町窪"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町郷内
+    rdfs:label "宇和町郷内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町坂戸
+    rdfs:label "宇和町坂戸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町さくら
+    rdfs:label "宇和町さくら"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町下松葉
+    rdfs:label "宇和町下松葉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町常定寺
+    rdfs:label "宇和町常定寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町新城
+    rdfs:label "宇和町新城"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町神領
+    rdfs:label "宇和町神領"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町瀬戸
+    rdfs:label "宇和町瀬戸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町田苗真土
+    rdfs:label "宇和町田苗真土"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町田野中
+    rdfs:label "宇和町田野中"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町永長
+    rdfs:label "宇和町永長"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町西山田
+    rdfs:label "宇和町西山田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町野田
+    rdfs:label "宇和町野田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町信里
+    rdfs:label "宇和町信里"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町東多田
+    rdfs:label "宇和町東多田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町久枝
+    rdfs:label "宇和町久枝"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町下川
+    rdfs:label "宇和町下川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町ひまわり
+    rdfs:label "宇和町ひまわり"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町平野
+    rdfs:label "宇和町平野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町杢所
+    rdfs:label "宇和町杢所"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町山田
+    rdfs:label "宇和町山田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市宇和町れんげ
+    rdfs:label "宇和町れんげ"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町魚成
+    rdfs:label "城川町魚成"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町下相
+    rdfs:label "城川町下相"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町男河内
+    rdfs:label "城川町男河内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町嘉喜尾
+    rdfs:label "城川町嘉喜尾"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町川津南
+    rdfs:label "城川町川津南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町窪野
+    rdfs:label "城川町窪野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町田穂
+    rdfs:label "城川町田穂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町高野子
+    rdfs:label "城川町高野子"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町土居
+    rdfs:label "城川町土居"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町野井川
+    rdfs:label "城川町野井川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町古市
+    rdfs:label "城川町古市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市城川町遊子谷
+    rdfs:label "城川町遊子谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町阿下
+    rdfs:label "野村町阿下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町旭
+    rdfs:label "野村町旭"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町大西
+    rdfs:label "野村町大西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町大野ケ原
+    rdfs:label "野村町大野ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町片川
+    rdfs:label "野村町片川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町釜川
+    rdfs:label "野村町釜川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町鎌田
+    rdfs:label "野村町鎌田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町河西
+    rdfs:label "野村町河西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町蔵良
+    rdfs:label "野村町蔵良"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町栗木
+    rdfs:label "野村町栗木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町小松
+    rdfs:label "野村町小松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町坂石
+    rdfs:label "野村町坂石"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町白髭
+    rdfs:label "野村町白髭"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町四郎谷
+    rdfs:label "野村町四郎谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町惣川
+    rdfs:label "野村町惣川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町高瀬
+    rdfs:label "野村町高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町鳥鹿野
+    rdfs:label "野村町鳥鹿野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町富野川
+    rdfs:label "野村町富野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町長谷
+    rdfs:label "野村町長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町中通川
+    rdfs:label "野村町中通川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町西
+    rdfs:label "野村町西"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町野村
+    rdfs:label "野村町野村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町平野
+    rdfs:label "野村町平野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町舟戸
+    rdfs:label "野村町舟戸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町松渓
+    rdfs:label "野村町松渓"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市野村町予子林
+    rdfs:label "野村町予子林"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町朝立
+    rdfs:label "三瓶町朝立"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町安土
+    rdfs:label "三瓶町安土"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町有網代
+    rdfs:label "三瓶町有網代"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町有太刀
+    rdfs:label "三瓶町有太刀"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町和泉
+    rdfs:label "三瓶町和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町蔵貫
+    rdfs:label "三瓶町蔵貫"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町蔵貫浦
+    rdfs:label "三瓶町蔵貫浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町鴫山
+    rdfs:label "三瓶町鴫山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町下泊
+    rdfs:label "三瓶町下泊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町周木
+    rdfs:label "三瓶町周木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町津布理
+    rdfs:label "三瓶町津布理"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町長早
+    rdfs:label "三瓶町長早"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町二及
+    rdfs:label "三瓶町二及"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町垣生
+    rdfs:label "三瓶町垣生"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西予市三瓶町皆江
+    rdfs:label "三瓶町皆江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市
+    rdfs:label "東温市"@ja ;
+    mo:AreaCode "38215" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県東温市井内 ;
+    mo:SubRegion mr:JP_愛媛県東温市上村 ;
+    mo:SubRegion mr:JP_愛媛県東温市牛渕 ;
+    mo:SubRegion mr:JP_愛媛県東温市上林 ;
+    mo:SubRegion mr:JP_愛媛県東温市河之内 ;
+    mo:SubRegion mr:JP_愛媛県東温市北方 ;
+    mo:SubRegion mr:JP_愛媛県東温市北野田 ;
+    mo:SubRegion mr:JP_愛媛県東温市志津川 ;
+    mo:SubRegion mr:JP_愛媛県東温市志津川南 ;
+    mo:SubRegion mr:JP_愛媛県東温市下林 ;
+    mo:SubRegion mr:JP_愛媛県東温市則之内甲 ;
+    mo:SubRegion mr:JP_愛媛県東温市則之内乙 ;
+    mo:SubRegion mr:JP_愛媛県東温市則之内丙 ;
+    mo:SubRegion mr:JP_愛媛県東温市田窪 ;
+    mo:SubRegion mr:JP_愛媛県東温市滑川 ;
+    mo:SubRegion mr:JP_愛媛県東温市西岡 ;
+    mo:SubRegion mr:JP_愛媛県東温市野田 ;
+    mo:SubRegion mr:JP_愛媛県東温市樋口 ;
+    mo:SubRegion mr:JP_愛媛県東温市松瀬川 ;
+    mo:SubRegion mr:JP_愛媛県東温市南方 ;
+    mo:SubRegion mr:JP_愛媛県東温市南野田 ;
+    mo:SubRegion mr:JP_愛媛県東温市見奈良 ;
+    mo:SubRegion mr:JP_愛媛県東温市明河 ;
+    mo:SubRegion mr:JP_愛媛県東温市山之内 ;
+    mo:SubRegion mr:JP_愛媛県東温市横河原 ;
+    mo:SubRegion mr:JP_愛媛県東温市吉久 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県東温市井内
+    rdfs:label "井内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市上村
+    rdfs:label "上村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市牛渕
+    rdfs:label "牛渕"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市上林
+    rdfs:label "上林"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市河之内
+    rdfs:label "河之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市北方
+    rdfs:label "北方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市北野田
+    rdfs:label "北野田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市志津川
+    rdfs:label "志津川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市志津川南
+    rdfs:label "志津川南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市下林
+    rdfs:label "下林"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市則之内甲
+    rdfs:label "則之内甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市則之内乙
+    rdfs:label "則之内乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市則之内丙
+    rdfs:label "則之内丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市田窪
+    rdfs:label "田窪"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市滑川
+    rdfs:label "滑川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市西岡
+    rdfs:label "西岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市野田
+    rdfs:label "野田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市樋口
+    rdfs:label "樋口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市松瀬川
+    rdfs:label "松瀬川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市南方
+    rdfs:label "南方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市南野田
+    rdfs:label "南野田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市見奈良
+    rdfs:label "見奈良"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市明河
+    rdfs:label "明河"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市山之内
+    rdfs:label "山之内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市横河原
+    rdfs:label "横河原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県東温市吉久
+    rdfs:label "吉久"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町
+    rdfs:label "越智郡上島町"@ja ;
+    mo:AreaCode "38356" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町生名 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町岩城 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町魚島一番耕地 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町魚島二番耕地 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町魚島三番耕地 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削太田 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削大谷 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削鎌田 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削上弓削 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削狩尾 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削久司浦 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削佐島 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削沢津 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削下弓削 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削豊島 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削土生 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削引野 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削日比 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削百貫 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削藤谷 ;
+    mo:SubRegion mr:JP_愛媛県越智郡上島町弓削明神 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県越智郡上島町生名
+    rdfs:label "生名"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町岩城
+    rdfs:label "岩城"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町魚島一番耕地
+    rdfs:label "魚島一番耕地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町魚島二番耕地
+    rdfs:label "魚島二番耕地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町魚島三番耕地
+    rdfs:label "魚島三番耕地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削太田
+    rdfs:label "弓削太田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削大谷
+    rdfs:label "弓削大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削鎌田
+    rdfs:label "弓削鎌田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削上弓削
+    rdfs:label "弓削上弓削"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削狩尾
+    rdfs:label "弓削狩尾"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削久司浦
+    rdfs:label "弓削久司浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削佐島
+    rdfs:label "弓削佐島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削沢津
+    rdfs:label "弓削沢津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削下弓削
+    rdfs:label "弓削下弓削"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削豊島
+    rdfs:label "弓削豊島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削土生
+    rdfs:label "弓削土生"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削引野
+    rdfs:label "弓削引野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削日比
+    rdfs:label "弓削日比"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削百貫
+    rdfs:label "弓削百貫"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削藤谷
+    rdfs:label "弓削藤谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県越智郡上島町弓削明神
+    rdfs:label "弓削明神"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町
+    rdfs:label "上浮穴郡久万高原町"@ja ;
+    mo:AreaCode "38386" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町相の木 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町相の峰 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町有枝 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町入野 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町大川 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町大成 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町笠方 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町上黒岩 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町上野尻 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町上畑野川 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町久万 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町黒藤川 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町河の子 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町沢渡 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町仕出 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町渋草 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町下野尻 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町下畑野川 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町菅生 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町父野川 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町露峰 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町直瀬 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町中組 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町中黒岩 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町中津 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町七鳥 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町西谷 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町西明神 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町二名 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町東川 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町東明神 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町日野浦 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町本組 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町前組 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町柳井川 ;
+    mo:SubRegion mr:JP_愛媛県上浮穴郡久万高原町若山 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県上浮穴郡久万高原町相の木
+    rdfs:label "相の木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町相の峰
+    rdfs:label "相の峰"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町有枝
+    rdfs:label "有枝"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町入野
+    rdfs:label "入野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町大川
+    rdfs:label "大川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町大成
+    rdfs:label "大成"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町笠方
+    rdfs:label "笠方"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町上黒岩
+    rdfs:label "上黒岩"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町上野尻
+    rdfs:label "上野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町上畑野川
+    rdfs:label "上畑野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町久万
+    rdfs:label "久万"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町黒藤川
+    rdfs:label "黒藤川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町河の子
+    rdfs:label "河の子"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町沢渡
+    rdfs:label "沢渡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町仕出
+    rdfs:label "仕出"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町渋草
+    rdfs:label "渋草"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町下野尻
+    rdfs:label "下野尻"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町下畑野川
+    rdfs:label "下畑野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町菅生
+    rdfs:label "菅生"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町父野川
+    rdfs:label "父野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町露峰
+    rdfs:label "露峰"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町直瀬
+    rdfs:label "直瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町中組
+    rdfs:label "中組"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町中黒岩
+    rdfs:label "中黒岩"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町中津
+    rdfs:label "中津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町七鳥
+    rdfs:label "七鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町西谷
+    rdfs:label "西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町西明神
+    rdfs:label "西明神"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町二名
+    rdfs:label "二名"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町東川
+    rdfs:label "東川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町東明神
+    rdfs:label "東明神"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町日野浦
+    rdfs:label "日野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町本組
+    rdfs:label "本組"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町前組
+    rdfs:label "前組"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町柳井川
+    rdfs:label "柳井川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県上浮穴郡久万高原町若山
+    rdfs:label "若山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町
+    rdfs:label "伊予郡松前町"@ja ;
+    mo:AreaCode "38401" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町恵久美 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町大溝 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町上高柳 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町神崎 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町北川原 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町北黒田 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町出作 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町昌農内 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町大間 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町筒井 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町鶴吉 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町徳丸 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町中川原 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町永田 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町西古泉 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町西高柳 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町浜 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町東古泉 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町南黒田 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡松前町横田 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県伊予郡松前町恵久美
+    rdfs:label "恵久美"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町大溝
+    rdfs:label "大溝"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町上高柳
+    rdfs:label "上高柳"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町神崎
+    rdfs:label "神崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町北川原
+    rdfs:label "北川原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町北黒田
+    rdfs:label "北黒田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町出作
+    rdfs:label "出作"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町昌農内
+    rdfs:label "昌農内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町大間
+    rdfs:label "大間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町筒井
+    rdfs:label "筒井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町鶴吉
+    rdfs:label "鶴吉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町徳丸
+    rdfs:label "徳丸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町中川原
+    rdfs:label "中川原"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町永田
+    rdfs:label "永田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町西古泉
+    rdfs:label "西古泉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町西高柳
+    rdfs:label "西高柳"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町浜
+    rdfs:label "浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町東古泉
+    rdfs:label "東古泉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町南黒田
+    rdfs:label "南黒田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡松前町横田
+    rdfs:label "横田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町
+    rdfs:label "伊予郡砥部町"@ja ;
+    mo:AreaCode "38402" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町麻生 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町岩谷 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町岩谷口 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町鵜ノ崎 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町多居谷 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町大角蔵 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町大平 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町大南 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町上原町 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町川井 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町川登 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町北川毛 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町五本松 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町重光 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町拾町 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町千足 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町仙波 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町総津 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町高市 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町高尾田 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町田ノ浦 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町玉谷 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町外山 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町中野川 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町七折 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町原町 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町万年 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町満穂 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町宮内 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町三角 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町八倉 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県伊予郡砥部町麻生
+    rdfs:label "麻生"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町岩谷
+    rdfs:label "岩谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町岩谷口
+    rdfs:label "岩谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町鵜ノ崎
+    rdfs:label "鵜ノ崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町多居谷
+    rdfs:label "多居谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町大角蔵
+    rdfs:label "大角蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町大南
+    rdfs:label "大南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町上原町
+    rdfs:label "上原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町川井
+    rdfs:label "川井"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町川登
+    rdfs:label "川登"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町北川毛
+    rdfs:label "北川毛"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町五本松
+    rdfs:label "五本松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町重光
+    rdfs:label "重光"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町拾町
+    rdfs:label "拾町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町千足
+    rdfs:label "千足"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町仙波
+    rdfs:label "仙波"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町総津
+    rdfs:label "総津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町高市
+    rdfs:label "高市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町高尾田
+    rdfs:label "高尾田"@ja ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町高尾田上野団地 ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町高尾田砥部団地 ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町高尾田上野団地
+    rdfs:label "上野団地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町高尾田砥部団地
+    rdfs:label "砥部団地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町田ノ浦
+    rdfs:label "田ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町玉谷
+    rdfs:label "玉谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町外山
+    rdfs:label "外山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町中野川
+    rdfs:label "中野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町七折
+    rdfs:label "七折"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町万年
+    rdfs:label "万年"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町満穂
+    rdfs:label "満穂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町宮内
+    rdfs:label "宮内"@ja ;
+    mo:SubRegion mr:JP_愛媛県伊予郡砥部町宮内山並 ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町宮内山並
+    rdfs:label "山並"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町三角
+    rdfs:label "三角"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県伊予郡砥部町八倉
+    rdfs:label "八倉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町
+    rdfs:label "喜多郡内子町"@ja ;
+    mo:AreaCode "38422" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町五十崎 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町石畳 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町五百木 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町臼杵 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町内子 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大久喜 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬東 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬南 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬北 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬中央 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大平 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町小田 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町小田深山 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町上川 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町上田渡 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町川中 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町河内 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町北表 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町重松 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町宿間 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町城廻 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町只海 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町立山 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町立石 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町知清 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町寺村 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町中川 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町中田渡 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町日野川 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町平岡 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町福岡 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町袋口 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町本川 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町南山 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町村前 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町山鳥坂 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町吉野川 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町論田 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県喜多郡内子町五十崎
+    rdfs:label "五十崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町石畳
+    rdfs:label "石畳"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町五百木
+    rdfs:label "五百木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町臼杵
+    rdfs:label "臼杵"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町内子
+    rdfs:label "内子"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大久喜
+    rdfs:label "大久喜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬
+    rdfs:label "大瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬東
+    rdfs:label "大瀬東"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬南
+    rdfs:label "大瀬南"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬北
+    rdfs:label "大瀬北"@ja ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬北乙影山 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬北熊の滝 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬北甲影山 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬北程内 ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬北乙影山
+    rdfs:label "乙影山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬北熊の滝
+    rdfs:label "熊の滝"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬北甲影山
+    rdfs:label "甲影山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬北程内
+    rdfs:label "程内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬中央
+    rdfs:label "大瀬中央"@ja ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬中央鵜川 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬中央大久保 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬中央乙成 ;
+    mo:SubRegion mr:JP_愛媛県喜多郡内子町大瀬中央中野 ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬中央鵜川
+    rdfs:label "鵜川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬中央大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬中央乙成
+    rdfs:label "乙成"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大瀬中央中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町小田
+    rdfs:label "小田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町小田深山
+    rdfs:label "小田深山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町上川
+    rdfs:label "上川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町上田渡
+    rdfs:label "上田渡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町川中
+    rdfs:label "川中"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町北表
+    rdfs:label "北表"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町重松
+    rdfs:label "重松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町宿間
+    rdfs:label "宿間"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町城廻
+    rdfs:label "城廻"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町只海
+    rdfs:label "只海"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町立山
+    rdfs:label "立山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町立石
+    rdfs:label "立石"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町知清
+    rdfs:label "知清"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町寺村
+    rdfs:label "寺村"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町中川
+    rdfs:label "中川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町中田渡
+    rdfs:label "中田渡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町日野川
+    rdfs:label "日野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町平岡
+    rdfs:label "平岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町福岡
+    rdfs:label "福岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町袋口
+    rdfs:label "袋口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町本川
+    rdfs:label "本川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町南山
+    rdfs:label "南山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町村前
+    rdfs:label "村前"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町山鳥坂
+    rdfs:label "山鳥坂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町吉野川
+    rdfs:label "吉野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県喜多郡内子町論田
+    rdfs:label "論田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町
+    rdfs:label "西宇和郡伊方町"@ja ;
+    mo:AreaCode "38442" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町足成 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町伊方越 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町井野浦 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町大江 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町大久 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町大佐田 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町大浜 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町釜木 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町亀浦 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町河内 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町川永田 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町川之浜 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町串 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町九町 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町神崎 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町高茂 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町小島 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町小中浦 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町佐田 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町塩成 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町志津 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町正野 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町高浦 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町田部 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町豊之浦 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町中浦 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町中之浜 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町名取 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町仁田之浜 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町平礒 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町二名津 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町二見 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町松 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町三崎 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町三机 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町湊浦 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町明神 ;
+    mo:SubRegion mr:JP_愛媛県西宇和郡伊方町与侈 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県西宇和郡伊方町足成
+    rdfs:label "足成"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町伊方越
+    rdfs:label "伊方越"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町井野浦
+    rdfs:label "井野浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町大江
+    rdfs:label "大江"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町大久
+    rdfs:label "大久"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町大佐田
+    rdfs:label "大佐田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町大浜
+    rdfs:label "大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町釜木
+    rdfs:label "釜木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町亀浦
+    rdfs:label "亀浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町川永田
+    rdfs:label "川永田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町川之浜
+    rdfs:label "川之浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町串
+    rdfs:label "串"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町九町
+    rdfs:label "九町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町神崎
+    rdfs:label "神崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町高茂
+    rdfs:label "高茂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町小中浦
+    rdfs:label "小中浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町佐田
+    rdfs:label "佐田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町塩成
+    rdfs:label "塩成"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町志津
+    rdfs:label "志津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町正野
+    rdfs:label "正野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町高浦
+    rdfs:label "高浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町田部
+    rdfs:label "田部"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町豊之浦
+    rdfs:label "豊之浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町中浦
+    rdfs:label "中浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町中之浜
+    rdfs:label "中之浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町名取
+    rdfs:label "名取"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町仁田之浜
+    rdfs:label "仁田之浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町平礒
+    rdfs:label "平礒"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町二名津
+    rdfs:label "二名津"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町二見
+    rdfs:label "二見"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町松
+    rdfs:label "松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町三崎
+    rdfs:label "三崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町三机
+    rdfs:label "三机"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町湊浦
+    rdfs:label "湊浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町明神
+    rdfs:label "明神"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県西宇和郡伊方町与侈
+    rdfs:label "与侈"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町
+    rdfs:label "北宇和郡松野町"@ja ;
+    mo:AreaCode "38484" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町奥野川 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町上家地 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町富岡 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町豊岡 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町延野々 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町松丸 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町目黒 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町吉野 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡松野町蕨生 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県北宇和郡松野町奥野川
+    rdfs:label "奥野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町上家地
+    rdfs:label "上家地"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町豊岡
+    rdfs:label "豊岡"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町延野々
+    rdfs:label "延野々"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町松丸
+    rdfs:label "松丸"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町目黒
+    rdfs:label "目黒"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町吉野
+    rdfs:label "吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡松野町蕨生
+    rdfs:label "蕨生"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町
+    rdfs:label "北宇和郡鬼北町"@ja ;
+    mo:AreaCode "38488" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町畔屋 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町生田 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町出目 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町岩谷 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町内深田 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町大宿 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町興野々 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町小倉 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町上大野 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町上鍵山 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町上川 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町川上 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町北川 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町清延 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町国遠 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町久保 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町小西野々 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町小松 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町沢松 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町芝 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町下大野 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町下鍵山 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町清水 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町近永 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町父野川上 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町父野川中 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町父野川下 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町永野市 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町中野川 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町奈良 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町成藤 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町西仲 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町西野々 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町延川 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町東仲 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町日向谷 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町広見 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町吉波 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県北宇和郡鬼北町畔屋
+    rdfs:label "畔屋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町生田
+    rdfs:label "生田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町出目
+    rdfs:label "出目"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町岩谷
+    rdfs:label "岩谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町内深田
+    rdfs:label "内深田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町大宿
+    rdfs:label "大宿"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町興野々
+    rdfs:label "興野々"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町小倉
+    rdfs:label "小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町上大野
+    rdfs:label "上大野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町上鍵山
+    rdfs:label "上鍵山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町上川
+    rdfs:label "上川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町北川
+    rdfs:label "北川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町清延
+    rdfs:label "清延"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町国遠
+    rdfs:label "国遠"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町久保
+    rdfs:label "久保"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町小西野々
+    rdfs:label "小西野々"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町小松
+    rdfs:label "小松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町沢松
+    rdfs:label "沢松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町芝
+    rdfs:label "芝"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町下大野
+    rdfs:label "下大野"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町下鍵山
+    rdfs:label "下鍵山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町近永
+    rdfs:label "近永"@ja ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町近永旭町 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町近永栄町 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町近永新町 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町近永本町 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町近永南町 ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町近永旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町近永栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町近永新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町近永本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町近永南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町父野川上
+    rdfs:label "父野川上"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町父野川中
+    rdfs:label "父野川中"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町父野川下
+    rdfs:label "父野川下"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町永野市
+    rdfs:label "永野市"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町中野川
+    rdfs:label "中野川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町奈良
+    rdfs:label "奈良"@ja ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町奈良成川 ;
+    mo:SubRegion mr:JP_愛媛県北宇和郡鬼北町奈良水分 ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町奈良成川
+    rdfs:label "成川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町奈良水分
+    rdfs:label "水分"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町成藤
+    rdfs:label "成藤"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町西仲
+    rdfs:label "西仲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町西野々
+    rdfs:label "西野々"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町延川
+    rdfs:label "延川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町東仲
+    rdfs:label "東仲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町日向谷
+    rdfs:label "日向谷"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町広見
+    rdfs:label "広見"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県北宇和郡鬼北町吉波
+    rdfs:label "吉波"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町
+    rdfs:label "南宇和郡愛南町"@ja ;
+    mo:AreaCode "38506" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町赤水 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町網代 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町敦盛 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町家串 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町一本松 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町鯆越 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町岩水 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町内泊 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町上大道 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町大成川 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町大浜 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町垣内 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町柿ノ浦 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町樫月 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町鹿島 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町柏 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町柏崎 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町高茂 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町小浦 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町越田 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町小成川 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町小山 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町猿鳴 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町下久家 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町城辺甲 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町城辺乙 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町須ノ川 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町僧都 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町外泊 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町高畑 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町樽見 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町中浦 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町中玉 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町中泊 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町中川 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町魚神山 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町久家 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町久良 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町平碆 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町広見 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町深浦 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町福浦 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町船越 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町古月 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町防城成川 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町正木 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町増田 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町御荘菊川 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町御荘長洲 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町御荘長月 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町御荘平城 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町御荘平山 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町御荘深泥 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町御荘和口 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町満倉 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町緑甲 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町緑乙 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町緑丙 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町麦ケ浦 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町武者泊 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町油袋 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町弓立 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町蓮乗寺 ;
+    mo:SubRegion mr:JP_愛媛県南宇和郡愛南町脇本 ;
+a mo:GeoEntity .
+
+mr:JP_愛媛県南宇和郡愛南町赤水
+    rdfs:label "赤水"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町網代
+    rdfs:label "網代"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町敦盛
+    rdfs:label "敦盛"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町家串
+    rdfs:label "家串"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町一本松
+    rdfs:label "一本松"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町鯆越
+    rdfs:label "鯆越"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町岩水
+    rdfs:label "岩水"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町内泊
+    rdfs:label "内泊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町上大道
+    rdfs:label "上大道"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町大成川
+    rdfs:label "大成川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町大浜
+    rdfs:label "大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町垣内
+    rdfs:label "垣内"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町柿ノ浦
+    rdfs:label "柿ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町樫月
+    rdfs:label "樫月"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町鹿島
+    rdfs:label "鹿島"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町柏
+    rdfs:label "柏"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町柏崎
+    rdfs:label "柏崎"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町高茂
+    rdfs:label "高茂"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町小浦
+    rdfs:label "小浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町越田
+    rdfs:label "越田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町小成川
+    rdfs:label "小成川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町小山
+    rdfs:label "小山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町猿鳴
+    rdfs:label "猿鳴"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町下久家
+    rdfs:label "下久家"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町城辺甲
+    rdfs:label "城辺甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町城辺乙
+    rdfs:label "城辺乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町須ノ川
+    rdfs:label "須ノ川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町僧都
+    rdfs:label "僧都"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町外泊
+    rdfs:label "外泊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町高畑
+    rdfs:label "高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町樽見
+    rdfs:label "樽見"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町中浦
+    rdfs:label "中浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町中玉
+    rdfs:label "中玉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町中泊
+    rdfs:label "中泊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町中川
+    rdfs:label "中川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町魚神山
+    rdfs:label "魚神山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町久家
+    rdfs:label "久家"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町久良
+    rdfs:label "久良"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町平碆
+    rdfs:label "平碆"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町広見
+    rdfs:label "広見"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町深浦
+    rdfs:label "深浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町福浦
+    rdfs:label "福浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町船越
+    rdfs:label "船越"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町古月
+    rdfs:label "古月"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町防城成川
+    rdfs:label "防城成川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町正木
+    rdfs:label "正木"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町増田
+    rdfs:label "増田"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町御荘菊川
+    rdfs:label "御荘菊川"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町御荘長洲
+    rdfs:label "御荘長洲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町御荘長月
+    rdfs:label "御荘長月"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町御荘平城
+    rdfs:label "御荘平城"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町御荘平山
+    rdfs:label "御荘平山"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町御荘深泥
+    rdfs:label "御荘深泥"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町御荘和口
+    rdfs:label "御荘和口"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町満倉
+    rdfs:label "満倉"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町緑甲
+    rdfs:label "緑甲"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町緑乙
+    rdfs:label "緑乙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町緑丙
+    rdfs:label "緑丙"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町麦ケ浦
+    rdfs:label "麦ケ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町武者泊
+    rdfs:label "武者泊"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町油袋
+    rdfs:label "油袋"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町弓立
+    rdfs:label "弓立"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町蓮乗寺
+    rdfs:label "蓮乗寺"@ja ;
+    a mo:町域 .
+
+mr:JP_愛媛県南宇和郡愛南町脇本
+    rdfs:label "脇本"@ja ;
+    a mo:町域 .
+

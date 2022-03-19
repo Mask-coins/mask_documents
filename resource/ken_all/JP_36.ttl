@@ -1,0 +1,8894 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_徳島県
+    a mo:都道府県 ;
+    rdfs:label "徳島県"@ja ;
+    mo:AreaCode "36" ;
+    mo:SubRegion mr:JP_徳島県徳島市 ;
+    mo:SubRegion mr:JP_徳島県鳴門市 ;
+    mo:SubRegion mr:JP_徳島県小松島市 ;
+    mo:SubRegion mr:JP_徳島県阿南市 ;
+    mo:SubRegion mr:JP_徳島県吉野川市 ;
+    mo:SubRegion mr:JP_徳島県阿波市 ;
+    mo:SubRegion mr:JP_徳島県美馬市 ;
+    mo:SubRegion mr:JP_徳島県三好市 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡上勝町 ;
+    mo:SubRegion mr:JP_徳島県名東郡佐那河内村 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町 ;
+    mo:SubRegion mr:JP_徳島県板野郡北島町 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町 ;
+    a mo:GeoEntity .
+
+mr:JP_徳島県徳島市
+    rdfs:label "徳島市"@ja ;
+    mo:AreaCode "36201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県徳島市藍場町 ;
+    mo:SubRegion mr:JP_徳島県徳島市秋田町 ;
+    mo:SubRegion mr:JP_徳島県徳島市鮎喰町 ;
+    mo:SubRegion mr:JP_徳島県徳島市安宅 ;
+    mo:SubRegion mr:JP_徳島県徳島市飯谷町 ;
+    mo:SubRegion mr:JP_徳島県徳島市伊賀町 ;
+    mo:SubRegion mr:JP_徳島県徳島市一宮町 ;
+    mo:SubRegion mr:JP_徳島県徳島市一番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市伊月町 ;
+    mo:SubRegion mr:JP_徳島県徳島市応神町応神産業団地 ;
+    mo:SubRegion mr:JP_徳島県徳島市応神町中原 ;
+    mo:SubRegion mr:JP_徳島県徳島市応神町東貞方 ;
+    mo:SubRegion mr:JP_徳島県徳島市応神町西貞方 ;
+    mo:SubRegion mr:JP_徳島県徳島市応神町古川 ;
+    mo:SubRegion mr:JP_徳島県徳島市応神町吉成 ;
+    mo:SubRegion mr:JP_徳島県徳島市大谷町 ;
+    mo:SubRegion mr:JP_徳島県徳島市大原町 ;
+    mo:SubRegion mr:JP_徳島県徳島市大松町 ;
+    mo:SubRegion mr:JP_徳島県徳島市大道 ;
+    mo:SubRegion mr:JP_徳島県徳島市沖浜 ;
+    mo:SubRegion mr:JP_徳島県徳島市沖浜町 ;
+    mo:SubRegion mr:JP_徳島県徳島市沖浜東 ;
+    mo:SubRegion mr:JP_徳島県徳島市籠屋町 ;
+    mo:SubRegion mr:JP_徳島県徳島市春日 ;
+    mo:SubRegion mr:JP_徳島県徳島市春日町 ;
+    mo:SubRegion mr:JP_徳島県徳島市方上町 ;
+    mo:SubRegion mr:JP_徳島県徳島市かちどき橋 ;
+    mo:SubRegion mr:JP_徳島県徳島市勝占町 ;
+    mo:SubRegion mr:JP_徳島県徳島市金沢 ;
+    mo:SubRegion mr:JP_徳島県徳島市上助任町 ;
+    mo:SubRegion mr:JP_徳島県徳島市上八万町西山 ;
+    mo:SubRegion mr:JP_徳島県徳島市上八万町 ;
+    mo:SubRegion mr:JP_徳島県徳島市上吉野町 ;
+    mo:SubRegion mr:JP_徳島県徳島市加茂名町 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町 ;
+    mo:SubRegion mr:JP_徳島県徳島市北沖洲 ;
+    mo:SubRegion mr:JP_徳島県徳島市北佐古一番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市北佐古二番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市北島田町 ;
+    mo:SubRegion mr:JP_徳島県徳島市北常三島町 ;
+    mo:SubRegion mr:JP_徳島県徳島市北田宮 ;
+    mo:SubRegion mr:JP_徳島県徳島市北出来島町 ;
+    mo:SubRegion mr:JP_徳島県徳島市北前川町 ;
+    mo:SubRegion mr:JP_徳島県徳島市北矢三町 ;
+    mo:SubRegion mr:JP_徳島県徳島市北山町 ;
+    mo:SubRegion mr:JP_徳島県徳島市銀座 ;
+    mo:SubRegion mr:JP_徳島県徳島市蔵本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市蔵本元町 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町池尻 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町井戸 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町延命 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町川原田 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町観音寺 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町府中 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町桜間 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町佐野塚 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町敷地 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町芝原 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町中 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町西矢野 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町花園 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町早淵 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町日開 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町東黒田 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町西黒田 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町南岩延 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町北岩延 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町東高輪 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町西高輪 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町矢野 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町竜王 ;
+    mo:SubRegion mr:JP_徳島県徳島市国府町和田 ;
+    mo:SubRegion mr:JP_徳島県徳島市紺屋町 ;
+    mo:SubRegion mr:JP_徳島県徳島市雑賀町 ;
+    mo:SubRegion mr:JP_徳島県徳島市幸町 ;
+    mo:SubRegion mr:JP_徳島県徳島市栄町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古一番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古二番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古三番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古四番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古五番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古六番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古七番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古八番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市佐古山町 ;
+    mo:SubRegion mr:JP_徳島県徳島市三軒屋町 ;
+    mo:SubRegion mr:JP_徳島県徳島市渋野町 ;
+    mo:SubRegion mr:JP_徳島県徳島市下助任町 ;
+    mo:SubRegion mr:JP_徳島県徳島市下町 ;
+    mo:SubRegion mr:JP_徳島県徳島市城東町 ;
+    mo:SubRegion mr:JP_徳島県徳島市城南町 ;
+    mo:SubRegion mr:JP_徳島県徳島市庄町 ;
+    mo:SubRegion mr:JP_徳島県徳島市丈六町 ;
+    mo:SubRegion mr:JP_徳島県徳島市昭和町 ;
+    mo:SubRegion mr:JP_徳島県徳島市新内町 ;
+    mo:SubRegion mr:JP_徳島県徳島市新蔵町 ;
+    mo:SubRegion mr:JP_徳島県徳島市新浜町 ;
+    mo:SubRegion mr:JP_徳島県徳島市新浜本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市新町橋 ;
+    mo:SubRegion mr:JP_徳島県徳島市新南福島 ;
+    mo:SubRegion mr:JP_徳島県徳島市末広 ;
+    mo:SubRegion mr:JP_徳島県徳島市助任橋 ;
+    mo:SubRegion mr:JP_徳島県徳島市助任本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市住吉 ;
+    mo:SubRegion mr:JP_徳島県徳島市勢見町 ;
+    mo:SubRegion mr:JP_徳島県徳島市鷹匠町 ;
+    mo:SubRegion mr:JP_徳島県徳島市多家良町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中央通 ;
+    mo:SubRegion mr:JP_徳島県徳島市津田海岸町 ;
+    mo:SubRegion mr:JP_徳島県徳島市津田西町 ;
+    mo:SubRegion mr:JP_徳島県徳島市津田浜之町 ;
+    mo:SubRegion mr:JP_徳島県徳島市津田本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市津田町 ;
+    mo:SubRegion mr:JP_徳島県徳島市出来島本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市寺島本町東 ;
+    mo:SubRegion mr:JP_徳島県徳島市寺島本町西 ;
+    mo:SubRegion mr:JP_徳島県徳島市寺町 ;
+    mo:SubRegion mr:JP_徳島県徳島市問屋町 ;
+    mo:SubRegion mr:JP_徳島県徳島市通町 ;
+    mo:SubRegion mr:JP_徳島県徳島市徳島町 ;
+    mo:SubRegion mr:JP_徳島県徳島市徳島町城内 ;
+    mo:SubRegion mr:JP_徳島県徳島市徳島本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市富田浜 ;
+    mo:SubRegion mr:JP_徳島県徳島市富田橋 ;
+    mo:SubRegion mr:JP_徳島県徳島市富田町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中島田町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中昭和町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中常三島町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中洲町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中通町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中徳島町 ;
+    mo:SubRegion mr:JP_徳島県徳島市仲之町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中前川町 ;
+    mo:SubRegion mr:JP_徳島県徳島市中吉野町 ;
+    mo:SubRegion mr:JP_徳島県徳島市二軒屋町 ;
+    mo:SubRegion mr:JP_徳島県徳島市西新浜町 ;
+    mo:SubRegion mr:JP_徳島県徳島市西新町 ;
+    mo:SubRegion mr:JP_徳島県徳島市西須賀町 ;
+    mo:SubRegion mr:JP_徳島県徳島市西船場町 ;
+    mo:SubRegion mr:JP_徳島県徳島市西大工町 ;
+    mo:SubRegion mr:JP_徳島県徳島市西富田町 ;
+    mo:SubRegion mr:JP_徳島県徳島市西二軒屋町 ;
+    mo:SubRegion mr:JP_徳島県徳島市西山手町 ;
+    mo:SubRegion mr:JP_徳島県徳島市入田町 ;
+    mo:SubRegion mr:JP_徳島県徳島市幟町 ;
+    mo:SubRegion mr:JP_徳島県徳島市八多町 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町 ;
+    mo:SubRegion mr:JP_徳島県徳島市万代町 ;
+    mo:SubRegion mr:JP_徳島県徳島市東沖洲 ;
+    mo:SubRegion mr:JP_徳島県徳島市東新町 ;
+    mo:SubRegion mr:JP_徳島県徳島市東船場町 ;
+    mo:SubRegion mr:JP_徳島県徳島市東大工町 ;
+    mo:SubRegion mr:JP_徳島県徳島市東出来島町 ;
+    mo:SubRegion mr:JP_徳島県徳島市東山手町 ;
+    mo:SubRegion mr:JP_徳島県徳島市東吉野町 ;
+    mo:SubRegion mr:JP_徳島県徳島市眉山町 ;
+    mo:SubRegion mr:JP_徳島県徳島市福島 ;
+    mo:SubRegion mr:JP_徳島県徳島市不動東町 ;
+    mo:SubRegion mr:JP_徳島県徳島市不動西町 ;
+    mo:SubRegion mr:JP_徳島県徳島市不動北町 ;
+    mo:SubRegion mr:JP_徳島県徳島市不動本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南内町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南沖洲 ;
+    mo:SubRegion mr:JP_徳島県徳島市南蔵本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南佐古一番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南佐古二番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南佐古三番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南佐古四番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南佐古五番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南佐古六番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南佐古七番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南佐古八番町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南島田町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南庄町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南昭和町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南新町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南常三島町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南末広町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南田宮 ;
+    mo:SubRegion mr:JP_徳島県徳島市南出来島町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南仲之町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南二軒屋町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南前川町 ;
+    mo:SubRegion mr:JP_徳島県徳島市南矢三町 ;
+    mo:SubRegion mr:JP_徳島県徳島市明神町 ;
+    mo:SubRegion mr:JP_徳島県徳島市名東町 ;
+    mo:SubRegion mr:JP_徳島県徳島市元町 ;
+    mo:SubRegion mr:JP_徳島県徳島市八百屋町 ;
+    mo:SubRegion mr:JP_徳島県徳島市山城町 ;
+    mo:SubRegion mr:JP_徳島県徳島市山城西 ;
+    mo:SubRegion mr:JP_徳島県徳島市大和町 ;
+    mo:SubRegion mr:JP_徳島県徳島市弓町 ;
+    mo:SubRegion mr:JP_徳島県徳島市吉野本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市両国橋 ;
+    mo:SubRegion mr:JP_徳島県徳島市両国本町 ;
+    mo:SubRegion mr:JP_徳島県徳島市論田町 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県徳島市藍場町
+    rdfs:label "藍場町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市秋田町
+    rdfs:label "秋田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市鮎喰町
+    rdfs:label "鮎喰町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市安宅
+    rdfs:label "安宅"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市飯谷町
+    rdfs:label "飯谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市伊賀町
+    rdfs:label "伊賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市一宮町
+    rdfs:label "一宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市一番町
+    rdfs:label "一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市伊月町
+    rdfs:label "伊月町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市応神町応神産業団地
+    rdfs:label "応神町応神産業団地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市応神町中原
+    rdfs:label "応神町中原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市応神町東貞方
+    rdfs:label "応神町東貞方"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市応神町西貞方
+    rdfs:label "応神町西貞方"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市応神町古川
+    rdfs:label "応神町古川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市応神町吉成
+    rdfs:label "応神町吉成"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市大谷町
+    rdfs:label "大谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市大原町
+    rdfs:label "大原町"@ja ;
+    mo:SubRegion mr:JP_徳島県徳島市大原町小神子 ;
+    mo:SubRegion mr:JP_徳島県徳島市大原町小神子山 ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市大原町小神子
+    rdfs:label "小神子"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市大原町小神子山
+    rdfs:label "小神子山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市大松町
+    rdfs:label "大松町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市大道
+    rdfs:label "大道"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市沖浜
+    rdfs:label "沖浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市沖浜町
+    rdfs:label "沖浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市沖浜東
+    rdfs:label "沖浜東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市籠屋町
+    rdfs:label "籠屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市春日
+    rdfs:label "春日"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市方上町
+    rdfs:label "方上町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市かちどき橋
+    rdfs:label "かちどき橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市勝占町
+    rdfs:label "勝占町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市金沢
+    rdfs:label "金沢"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市上助任町
+    rdfs:label "上助任町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市上八万町西山
+    rdfs:label "上八万町西山"@ja ;
+    mo:SubRegion mr:JP_徳島県徳島市上八万町西山しらさぎ台 ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市上八万町西山しらさぎ台
+    rdfs:label "しらさぎ台"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市上八万町
+    rdfs:label "上八万町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市上吉野町
+    rdfs:label "上吉野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市加茂名町
+    rdfs:label "加茂名町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町
+    rdfs:label "川内町"@ja ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町旭野 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町榎瀬 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町大松 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町沖島 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町加賀須野 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町金岡 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町上別宮東 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町上別宮南 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町上別宮北 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町北原 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町小松東 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町小松西 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町小松北 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町下別宮東 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町下別宮西 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町鈴江東 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町鈴江西 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町鈴江南 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町鈴江北 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町竹須賀 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町鶴島 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町富久 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町富吉 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町中島 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町平石夷野 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町平石夷野番外 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町平石古田 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町平石住吉 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町平石流通団地 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町平石若松 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町平石若宮 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町松岡 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町宮島錦野 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町宮島浜 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町宮島本浦 ;
+    mo:SubRegion mr:JP_徳島県徳島市川内町米津 ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町旭野
+    rdfs:label "旭野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町榎瀬
+    rdfs:label "榎瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町大松
+    rdfs:label "大松"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町沖島
+    rdfs:label "沖島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町加賀須野
+    rdfs:label "加賀須野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町金岡
+    rdfs:label "金岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町上別宮東
+    rdfs:label "上別宮東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町上別宮南
+    rdfs:label "上別宮南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町上別宮北
+    rdfs:label "上別宮北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町北原
+    rdfs:label "北原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町小松東
+    rdfs:label "小松東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町小松西
+    rdfs:label "小松西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町小松北
+    rdfs:label "小松北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町下別宮東
+    rdfs:label "下別宮東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町下別宮西
+    rdfs:label "下別宮西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町鈴江東
+    rdfs:label "鈴江東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町鈴江西
+    rdfs:label "鈴江西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町鈴江南
+    rdfs:label "鈴江南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町鈴江北
+    rdfs:label "鈴江北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町竹須賀
+    rdfs:label "竹須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町鶴島
+    rdfs:label "鶴島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町富久
+    rdfs:label "富久"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町富吉
+    rdfs:label "富吉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町中島
+    rdfs:label "中島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町平石夷野
+    rdfs:label "平石夷野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町平石夷野番外
+    rdfs:label "平石夷野番外"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町平石古田
+    rdfs:label "平石古田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町平石住吉
+    rdfs:label "平石住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町平石流通団地
+    rdfs:label "平石流通団地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町平石若松
+    rdfs:label "平石若松"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町平石若宮
+    rdfs:label "平石若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町松岡
+    rdfs:label "松岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町宮島錦野
+    rdfs:label "宮島錦野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町宮島浜
+    rdfs:label "宮島浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町宮島本浦
+    rdfs:label "宮島本浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市川内町米津
+    rdfs:label "米津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北沖洲
+    rdfs:label "北沖洲"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北佐古一番町
+    rdfs:label "北佐古一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北佐古二番町
+    rdfs:label "北佐古二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北島田町
+    rdfs:label "北島田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北常三島町
+    rdfs:label "北常三島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北田宮
+    rdfs:label "北田宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北出来島町
+    rdfs:label "北出来島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北前川町
+    rdfs:label "北前川町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北矢三町
+    rdfs:label "北矢三町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市北山町
+    rdfs:label "北山町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市銀座
+    rdfs:label "銀座"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市蔵本町
+    rdfs:label "蔵本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市蔵本元町
+    rdfs:label "蔵本元町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町池尻
+    rdfs:label "国府町池尻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町井戸
+    rdfs:label "国府町井戸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町延命
+    rdfs:label "国府町延命"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町川原田
+    rdfs:label "国府町川原田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町観音寺
+    rdfs:label "国府町観音寺"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町府中
+    rdfs:label "国府町府中"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町桜間
+    rdfs:label "国府町桜間"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町佐野塚
+    rdfs:label "国府町佐野塚"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町敷地
+    rdfs:label "国府町敷地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町芝原
+    rdfs:label "国府町芝原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町中
+    rdfs:label "国府町中"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町西矢野
+    rdfs:label "国府町西矢野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町花園
+    rdfs:label "国府町花園"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町早淵
+    rdfs:label "国府町早淵"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町日開
+    rdfs:label "国府町日開"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町東黒田
+    rdfs:label "国府町東黒田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町西黒田
+    rdfs:label "国府町西黒田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町南岩延
+    rdfs:label "国府町南岩延"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町北岩延
+    rdfs:label "国府町北岩延"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町東高輪
+    rdfs:label "国府町東高輪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町西高輪
+    rdfs:label "国府町西高輪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町矢野
+    rdfs:label "国府町矢野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町竜王
+    rdfs:label "国府町竜王"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市国府町和田
+    rdfs:label "国府町和田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市紺屋町
+    rdfs:label "紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市雑賀町
+    rdfs:label "雑賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古一番町
+    rdfs:label "佐古一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古二番町
+    rdfs:label "佐古二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古三番町
+    rdfs:label "佐古三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古四番町
+    rdfs:label "佐古四番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古五番町
+    rdfs:label "佐古五番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古六番町
+    rdfs:label "佐古六番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古七番町
+    rdfs:label "佐古七番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古八番町
+    rdfs:label "佐古八番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市佐古山町
+    rdfs:label "佐古山町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市三軒屋町
+    rdfs:label "三軒屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市渋野町
+    rdfs:label "渋野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市下助任町
+    rdfs:label "下助任町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市下町
+    rdfs:label "下町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市城東町
+    rdfs:label "城東町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市城南町
+    rdfs:label "城南町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市庄町
+    rdfs:label "庄町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市丈六町
+    rdfs:label "丈六町"@ja ;
+    mo:SubRegion mr:JP_徳島県徳島市丈六町丈領 ;
+    mo:SubRegion mr:JP_徳島県徳島市丈六町長尾 ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市丈六町丈領
+    rdfs:label "丈領"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市丈六町長尾
+    rdfs:label "長尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市新内町
+    rdfs:label "新内町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市新蔵町
+    rdfs:label "新蔵町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市新浜町
+    rdfs:label "新浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市新浜本町
+    rdfs:label "新浜本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市新町橋
+    rdfs:label "新町橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市新南福島
+    rdfs:label "新南福島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市末広
+    rdfs:label "末広"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市助任橋
+    rdfs:label "助任橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市助任本町
+    rdfs:label "助任本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市住吉
+    rdfs:label "住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市勢見町
+    rdfs:label "勢見町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市鷹匠町
+    rdfs:label "鷹匠町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市多家良町
+    rdfs:label "多家良町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中央通
+    rdfs:label "中央通"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市津田海岸町
+    rdfs:label "津田海岸町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市津田西町
+    rdfs:label "津田西町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市津田浜之町
+    rdfs:label "津田浜之町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市津田本町
+    rdfs:label "津田本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市津田町
+    rdfs:label "津田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市出来島本町
+    rdfs:label "出来島本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市寺島本町東
+    rdfs:label "寺島本町東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市寺島本町西
+    rdfs:label "寺島本町西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市寺町
+    rdfs:label "寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市問屋町
+    rdfs:label "問屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市通町
+    rdfs:label "通町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市徳島町
+    rdfs:label "徳島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市徳島町城内
+    rdfs:label "徳島町城内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市徳島本町
+    rdfs:label "徳島本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市富田浜
+    rdfs:label "富田浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市富田橋
+    rdfs:label "富田橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市富田町
+    rdfs:label "富田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中島田町
+    rdfs:label "中島田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中昭和町
+    rdfs:label "中昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中常三島町
+    rdfs:label "中常三島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中洲町
+    rdfs:label "中洲町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中通町
+    rdfs:label "中通町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中徳島町
+    rdfs:label "中徳島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市仲之町
+    rdfs:label "仲之町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中前川町
+    rdfs:label "中前川町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市中吉野町
+    rdfs:label "中吉野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市二軒屋町
+    rdfs:label "二軒屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市西新浜町
+    rdfs:label "西新浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市西新町
+    rdfs:label "西新町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市西須賀町
+    rdfs:label "西須賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市西船場町
+    rdfs:label "西船場町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市西大工町
+    rdfs:label "西大工町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市西富田町
+    rdfs:label "西富田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市西二軒屋町
+    rdfs:label "西二軒屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市西山手町
+    rdfs:label "西山手町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市入田町
+    rdfs:label "入田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市幟町
+    rdfs:label "幟町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八多町
+    rdfs:label "八多町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町
+    rdfs:label "八万町"@ja ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町内浜 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町夷山 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町大坪 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町上福万 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町下福万 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町川南 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町千鳥 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町中津浦 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町中津山 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町弐丈 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町橋本 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町法花 ;
+    mo:SubRegion mr:JP_徳島県徳島市八万町法花谷 ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町内浜
+    rdfs:label "内浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町夷山
+    rdfs:label "夷山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町大坪
+    rdfs:label "大坪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町上福万
+    rdfs:label "上福万"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町下福万
+    rdfs:label "下福万"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町川南
+    rdfs:label "川南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町千鳥
+    rdfs:label "千鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町中津浦
+    rdfs:label "中津浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町中津山
+    rdfs:label "中津山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町弐丈
+    rdfs:label "弐丈"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町橋本
+    rdfs:label "橋本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町法花
+    rdfs:label "法花"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八万町法花谷
+    rdfs:label "法花谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市万代町
+    rdfs:label "万代町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市東沖洲
+    rdfs:label "東沖洲"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市東新町
+    rdfs:label "東新町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市東船場町
+    rdfs:label "東船場町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市東大工町
+    rdfs:label "東大工町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市東出来島町
+    rdfs:label "東出来島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市東山手町
+    rdfs:label "東山手町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市東吉野町
+    rdfs:label "東吉野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市眉山町
+    rdfs:label "眉山町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市福島
+    rdfs:label "福島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市不動東町
+    rdfs:label "不動東町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市不動西町
+    rdfs:label "不動西町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市不動北町
+    rdfs:label "不動北町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市不動本町
+    rdfs:label "不動本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南内町
+    rdfs:label "南内町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南沖洲
+    rdfs:label "南沖洲"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南蔵本町
+    rdfs:label "南蔵本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南佐古一番町
+    rdfs:label "南佐古一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南佐古二番町
+    rdfs:label "南佐古二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南佐古三番町
+    rdfs:label "南佐古三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南佐古四番町
+    rdfs:label "南佐古四番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南佐古五番町
+    rdfs:label "南佐古五番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南佐古六番町
+    rdfs:label "南佐古六番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南佐古七番町
+    rdfs:label "南佐古七番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南佐古八番町
+    rdfs:label "南佐古八番町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南島田町
+    rdfs:label "南島田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南庄町
+    rdfs:label "南庄町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南昭和町
+    rdfs:label "南昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南新町
+    rdfs:label "南新町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南常三島町
+    rdfs:label "南常三島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南末広町
+    rdfs:label "南末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南田宮
+    rdfs:label "南田宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南出来島町
+    rdfs:label "南出来島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南仲之町
+    rdfs:label "南仲之町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南二軒屋町
+    rdfs:label "南二軒屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南前川町
+    rdfs:label "南前川町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市南矢三町
+    rdfs:label "南矢三町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市明神町
+    rdfs:label "明神町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市名東町
+    rdfs:label "名東町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市八百屋町
+    rdfs:label "八百屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市山城町
+    rdfs:label "山城町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市山城西
+    rdfs:label "山城西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市大和町
+    rdfs:label "大和町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市弓町
+    rdfs:label "弓町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市吉野本町
+    rdfs:label "吉野本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市両国橋
+    rdfs:label "両国橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市両国本町
+    rdfs:label "両国本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県徳島市論田町
+    rdfs:label "論田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市
+    rdfs:label "鳴門市"@ja ;
+    mo:AreaCode "36202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町池谷 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町市場 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町牛屋島 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町大谷 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町川崎 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町高畑 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町津慈 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町中馬詰 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町西馬詰 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町萩原 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町東馬詰 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町檜 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町姫田 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町松村 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町三俣 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町大代 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町木津野 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町大幸 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町段関 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町徳長 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町長江 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町備前島 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町矢倉 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大津町吉永 ;
+    mo:SubRegion mr:JP_徳島県鳴門市北灘町粟田 ;
+    mo:SubRegion mr:JP_徳島県鳴門市北灘町大浦 ;
+    mo:SubRegion mr:JP_徳島県鳴門市北灘町大須 ;
+    mo:SubRegion mr:JP_徳島県鳴門市北灘町折野 ;
+    mo:SubRegion mr:JP_徳島県鳴門市北灘町櫛木 ;
+    mo:SubRegion mr:JP_徳島県鳴門市北灘町碁浦 ;
+    mo:SubRegion mr:JP_徳島県鳴門市北灘町宿毛谷 ;
+    mo:SubRegion mr:JP_徳島県鳴門市北灘町鳥ケ丸 ;
+    mo:SubRegion mr:JP_徳島県鳴門市里浦町粟津 ;
+    mo:SubRegion mr:JP_徳島県鳴門市里浦町里浦 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町明神 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町北泊 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町大島田 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町中島田 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町小島田 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町堂浦 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町湊谷 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町撫佐 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町室 ;
+    mo:SubRegion mr:JP_徳島県鳴門市鳴門町高島 ;
+    mo:SubRegion mr:JP_徳島県鳴門市鳴門町土佐泊浦 ;
+    mo:SubRegion mr:JP_徳島県鳴門市鳴門町三ツ石 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町大桑島 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町小桑島 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町岡崎 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町木津 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町黒崎 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町斎田 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町立岩 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町林崎 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町弁財天 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町南浜 ;
+    mo:SubRegion mr:JP_徳島県鳴門市撫養町北浜 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県鳴門市大麻町池谷
+    rdfs:label "大麻町池谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町市場
+    rdfs:label "大麻町市場"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町牛屋島
+    rdfs:label "大麻町牛屋島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町大谷
+    rdfs:label "大麻町大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町川崎
+    rdfs:label "大麻町川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町高畑
+    rdfs:label "大麻町高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町津慈
+    rdfs:label "大麻町津慈"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町中馬詰
+    rdfs:label "大麻町中馬詰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町西馬詰
+    rdfs:label "大麻町西馬詰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町萩原
+    rdfs:label "大麻町萩原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東
+    rdfs:label "大麻町板東"@ja ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東采女 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東大林 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東辻見堂 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東永井 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東東山田 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東西山田 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東北条 ;
+    mo:SubRegion mr:JP_徳島県鳴門市大麻町板東宝蔵 ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東采女
+    rdfs:label "采女"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東大林
+    rdfs:label "大林"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東辻見堂
+    rdfs:label "辻見堂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東永井
+    rdfs:label "永井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東東山田
+    rdfs:label "東山田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東西山田
+    rdfs:label "西山田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東北条
+    rdfs:label "北条"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町板東宝蔵
+    rdfs:label "宝蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町東馬詰
+    rdfs:label "大麻町東馬詰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町檜
+    rdfs:label "大麻町檜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町姫田
+    rdfs:label "大麻町姫田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町松村
+    rdfs:label "大麻町松村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大麻町三俣
+    rdfs:label "大麻町三俣"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町大代
+    rdfs:label "大津町大代"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町木津野
+    rdfs:label "大津町木津野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町大幸
+    rdfs:label "大津町大幸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町段関
+    rdfs:label "大津町段関"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町徳長
+    rdfs:label "大津町徳長"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町長江
+    rdfs:label "大津町長江"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町備前島
+    rdfs:label "大津町備前島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町矢倉
+    rdfs:label "大津町矢倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市大津町吉永
+    rdfs:label "大津町吉永"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市北灘町粟田
+    rdfs:label "北灘町粟田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市北灘町大浦
+    rdfs:label "北灘町大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市北灘町大須
+    rdfs:label "北灘町大須"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市北灘町折野
+    rdfs:label "北灘町折野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市北灘町櫛木
+    rdfs:label "北灘町櫛木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市北灘町碁浦
+    rdfs:label "北灘町碁浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市北灘町宿毛谷
+    rdfs:label "北灘町宿毛谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市北灘町鳥ケ丸
+    rdfs:label "北灘町鳥ケ丸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市里浦町粟津
+    rdfs:label "里浦町粟津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市里浦町里浦
+    rdfs:label "里浦町里浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町明神
+    rdfs:label "瀬戸町明神"@ja ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町明神楠谷 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町明神弐軒家 ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町明神水汲谷 ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町明神楠谷
+    rdfs:label "楠谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町明神弐軒家
+    rdfs:label "弐軒家"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町明神水汲谷
+    rdfs:label "水汲谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町北泊
+    rdfs:label "瀬戸町北泊"@ja ;
+    mo:SubRegion mr:JP_徳島県鳴門市瀬戸町北泊小海 ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町北泊小海
+    rdfs:label "小海"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町大島田
+    rdfs:label "瀬戸町大島田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町中島田
+    rdfs:label "瀬戸町中島田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町小島田
+    rdfs:label "瀬戸町小島田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町堂浦
+    rdfs:label "瀬戸町堂浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町湊谷
+    rdfs:label "瀬戸町湊谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町撫佐
+    rdfs:label "瀬戸町撫佐"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市瀬戸町室
+    rdfs:label "瀬戸町室"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市鳴門町高島
+    rdfs:label "鳴門町高島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市鳴門町土佐泊浦
+    rdfs:label "鳴門町土佐泊浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市鳴門町三ツ石
+    rdfs:label "鳴門町三ツ石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町大桑島
+    rdfs:label "撫養町大桑島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町小桑島
+    rdfs:label "撫養町小桑島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町岡崎
+    rdfs:label "撫養町岡崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町木津
+    rdfs:label "撫養町木津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町黒崎
+    rdfs:label "撫養町黒崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町斎田
+    rdfs:label "撫養町斎田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町立岩
+    rdfs:label "撫養町立岩"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町林崎
+    rdfs:label "撫養町林崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町弁財天
+    rdfs:label "撫養町弁財天"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町南浜
+    rdfs:label "撫養町南浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県鳴門市撫養町北浜
+    rdfs:label "撫養町北浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市
+    rdfs:label "小松島市"@ja ;
+    mo:AreaCode "36203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県小松島市間新田町 ;
+    mo:SubRegion mr:JP_徳島県小松島市赤石町 ;
+    mo:SubRegion mr:JP_徳島県小松島市江田町 ;
+    mo:SubRegion mr:JP_徳島県小松島市大林町 ;
+    mo:SubRegion mr:JP_徳島県小松島市金磯町 ;
+    mo:SubRegion mr:JP_徳島県小松島市神田瀬町 ;
+    mo:SubRegion mr:JP_徳島県小松島市櫛淵町 ;
+    mo:SubRegion mr:JP_徳島県小松島市小松島町 ;
+    mo:SubRegion mr:JP_徳島県小松島市坂野町 ;
+    mo:SubRegion mr:JP_徳島県小松島市芝生町 ;
+    mo:SubRegion mr:JP_徳島県小松島市田浦町 ;
+    mo:SubRegion mr:JP_徳島県小松島市立江町 ;
+    mo:SubRegion mr:JP_徳島県小松島市田野町 ;
+    mo:SubRegion mr:JP_徳島県小松島市中田町 ;
+    mo:SubRegion mr:JP_徳島県小松島市豊浦町 ;
+    mo:SubRegion mr:JP_徳島県小松島市中郷町 ;
+    mo:SubRegion mr:JP_徳島県小松島市新居見町 ;
+    mo:SubRegion mr:JP_徳島県小松島市日開野町 ;
+    mo:SubRegion mr:JP_徳島県小松島市堀川町 ;
+    mo:SubRegion mr:JP_徳島県小松島市前原町 ;
+    mo:SubRegion mr:JP_徳島県小松島市松島町 ;
+    mo:SubRegion mr:JP_徳島県小松島市南小松島町 ;
+    mo:SubRegion mr:JP_徳島県小松島市横須町 ;
+    mo:SubRegion mr:JP_徳島県小松島市和田島町 ;
+    mo:SubRegion mr:JP_徳島県小松島市和田津開町 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県小松島市間新田町
+    rdfs:label "間新田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市赤石町
+    rdfs:label "赤石町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市江田町
+    rdfs:label "江田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市大林町
+    rdfs:label "大林町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市金磯町
+    rdfs:label "金磯町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市神田瀬町
+    rdfs:label "神田瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市櫛淵町
+    rdfs:label "櫛淵町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市小松島町
+    rdfs:label "小松島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市坂野町
+    rdfs:label "坂野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市芝生町
+    rdfs:label "芝生町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市田浦町
+    rdfs:label "田浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市立江町
+    rdfs:label "立江町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市田野町
+    rdfs:label "田野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市中田町
+    rdfs:label "中田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市豊浦町
+    rdfs:label "豊浦町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市中郷町
+    rdfs:label "中郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市新居見町
+    rdfs:label "新居見町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市日開野町
+    rdfs:label "日開野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市堀川町
+    rdfs:label "堀川町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市前原町
+    rdfs:label "前原町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市松島町
+    rdfs:label "松島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市南小松島町
+    rdfs:label "南小松島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市横須町
+    rdfs:label "横須町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市和田島町
+    rdfs:label "和田島町"@ja ;
+    mo:SubRegion mr:JP_徳島県小松島市和田島町松田新田 ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市和田島町松田新田
+    rdfs:label "松田新田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県小松島市和田津開町
+    rdfs:label "和田津開町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市
+    rdfs:label "阿南市"@ja ;
+    mo:AreaCode "36204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県阿南市阿瀬比町 ;
+    mo:SubRegion mr:JP_徳島県阿南市新野町 ;
+    mo:SubRegion mr:JP_徳島県阿南市伊島町 ;
+    mo:SubRegion mr:JP_徳島県阿南市内原町 ;
+    mo:SubRegion mr:JP_徳島県阿南市大井町 ;
+    mo:SubRegion mr:JP_徳島県阿南市大潟町 ;
+    mo:SubRegion mr:JP_徳島県阿南市大田井町 ;
+    mo:SubRegion mr:JP_徳島県阿南市学原町 ;
+    mo:SubRegion mr:JP_徳島県阿南市上大野町 ;
+    mo:SubRegion mr:JP_徳島県阿南市上中町 ;
+    mo:SubRegion mr:JP_徳島県阿南市加茂町 ;
+    mo:SubRegion mr:JP_徳島県阿南市楠根町 ;
+    mo:SubRegion mr:JP_徳島県阿南市熊谷町 ;
+    mo:SubRegion mr:JP_徳島県阿南市黒津地町 ;
+    mo:SubRegion mr:JP_徳島県阿南市桑野町 ;
+    mo:SubRegion mr:JP_徳島県阿南市才見町 ;
+    mo:SubRegion mr:JP_徳島県阿南市西路見町 ;
+    mo:SubRegion mr:JP_徳島県阿南市十八女町 ;
+    mo:SubRegion mr:JP_徳島県阿南市下大野町 ;
+    mo:SubRegion mr:JP_徳島県阿南市水井町 ;
+    mo:SubRegion mr:JP_徳島県阿南市住吉町 ;
+    mo:SubRegion mr:JP_徳島県阿南市宝田町 ;
+    mo:SubRegion mr:JP_徳島県阿南市橘町 ;
+    mo:SubRegion mr:JP_徳島県阿南市辰巳町 ;
+    mo:SubRegion mr:JP_徳島県阿南市津乃峰町 ;
+    mo:SubRegion mr:JP_徳島県阿南市椿町 ;
+    mo:SubRegion mr:JP_徳島県阿南市椿泊町 ;
+    mo:SubRegion mr:JP_徳島県阿南市出来町 ;
+    mo:SubRegion mr:JP_徳島県阿南市富岡町 ;
+    mo:SubRegion mr:JP_徳島県阿南市豊益町 ;
+    mo:SubRegion mr:JP_徳島県阿南市長生町 ;
+    mo:SubRegion mr:JP_徳島県阿南市中大野町 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町赤池 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町今津浦 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町色ケ島 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町江野島 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町上福井 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町苅屋 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町北中島 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町黒地 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町小延 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町敷地 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町島尻 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町大京原 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町工地 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町手島 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町中島 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町西原 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町原 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町日向 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町古津 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町芳崎 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町三栗 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町みどり台 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町八幡 ;
+    mo:SubRegion mr:JP_徳島県阿南市那賀川町豊香野 ;
+    mo:SubRegion mr:JP_徳島県阿南市中林町 ;
+    mo:SubRegion mr:JP_徳島県阿南市七見町 ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町岩脇 ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町春日野 ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町古毛 ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町中庄 ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町西春日野 ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町古庄 ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町宮倉 ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町明見 ;
+    mo:SubRegion mr:JP_徳島県阿南市原ケ崎町 ;
+    mo:SubRegion mr:JP_徳島県阿南市畭町 ;
+    mo:SubRegion mr:JP_徳島県阿南市日開野町 ;
+    mo:SubRegion mr:JP_徳島県阿南市深瀬町 ;
+    mo:SubRegion mr:JP_徳島県阿南市福井町 ;
+    mo:SubRegion mr:JP_徳島県阿南市福村町 ;
+    mo:SubRegion mr:JP_徳島県阿南市細野町 ;
+    mo:SubRegion mr:JP_徳島県阿南市見能林町 ;
+    mo:SubRegion mr:JP_徳島県阿南市向原町 ;
+    mo:SubRegion mr:JP_徳島県阿南市柳島町 ;
+    mo:SubRegion mr:JP_徳島県阿南市山口町 ;
+    mo:SubRegion mr:JP_徳島県阿南市横見町 ;
+    mo:SubRegion mr:JP_徳島県阿南市吉井町 ;
+    mo:SubRegion mr:JP_徳島県阿南市領家町 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県阿南市阿瀬比町
+    rdfs:label "阿瀬比町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市新野町
+    rdfs:label "新野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市伊島町
+    rdfs:label "伊島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市内原町
+    rdfs:label "内原町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市大井町
+    rdfs:label "大井町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市大潟町
+    rdfs:label "大潟町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市大田井町
+    rdfs:label "大田井町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市学原町
+    rdfs:label "学原町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市上大野町
+    rdfs:label "上大野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市上中町
+    rdfs:label "上中町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市加茂町
+    rdfs:label "加茂町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市楠根町
+    rdfs:label "楠根町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市熊谷町
+    rdfs:label "熊谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市黒津地町
+    rdfs:label "黒津地町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市桑野町
+    rdfs:label "桑野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市才見町
+    rdfs:label "才見町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市西路見町
+    rdfs:label "西路見町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市十八女町
+    rdfs:label "十八女町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市下大野町
+    rdfs:label "下大野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市水井町
+    rdfs:label "水井町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市宝田町
+    rdfs:label "宝田町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市橘町
+    rdfs:label "橘町"@ja ;
+    mo:SubRegion mr:JP_徳島県阿南市橘町小勝 ;
+    mo:SubRegion mr:JP_徳島県阿南市橘町タテアジロ ;
+    mo:SubRegion mr:JP_徳島県阿南市橘町袴 ;
+    mo:SubRegion mr:JP_徳島県阿南市橘町袴傍示 ;
+    mo:SubRegion mr:JP_徳島県阿南市橘町棒面 ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市橘町小勝
+    rdfs:label "小勝"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市橘町タテアジロ
+    rdfs:label "タテアジロ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市橘町袴
+    rdfs:label "袴"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市橘町袴傍示
+    rdfs:label "袴傍示"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市橘町棒面
+    rdfs:label "棒面"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市辰巳町
+    rdfs:label "辰巳町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市津乃峰町
+    rdfs:label "津乃峰町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市椿町
+    rdfs:label "椿町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市椿泊町
+    rdfs:label "椿泊町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市出来町
+    rdfs:label "出来町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市富岡町
+    rdfs:label "富岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市豊益町
+    rdfs:label "豊益町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市長生町
+    rdfs:label "長生町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市中大野町
+    rdfs:label "中大野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町赤池
+    rdfs:label "那賀川町赤池"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町今津浦
+    rdfs:label "那賀川町今津浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町色ケ島
+    rdfs:label "那賀川町色ケ島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町江野島
+    rdfs:label "那賀川町江野島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町上福井
+    rdfs:label "那賀川町上福井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町苅屋
+    rdfs:label "那賀川町苅屋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町北中島
+    rdfs:label "那賀川町北中島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町黒地
+    rdfs:label "那賀川町黒地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町小延
+    rdfs:label "那賀川町小延"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町敷地
+    rdfs:label "那賀川町敷地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町島尻
+    rdfs:label "那賀川町島尻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町大京原
+    rdfs:label "那賀川町大京原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町工地
+    rdfs:label "那賀川町工地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町手島
+    rdfs:label "那賀川町手島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町中島
+    rdfs:label "那賀川町中島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町西原
+    rdfs:label "那賀川町西原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町原
+    rdfs:label "那賀川町原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町日向
+    rdfs:label "那賀川町日向"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町古津
+    rdfs:label "那賀川町古津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町芳崎
+    rdfs:label "那賀川町芳崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町三栗
+    rdfs:label "那賀川町三栗"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町みどり台
+    rdfs:label "那賀川町みどり台"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町八幡
+    rdfs:label "那賀川町八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市那賀川町豊香野
+    rdfs:label "那賀川町豊香野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市中林町
+    rdfs:label "中林町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市七見町
+    rdfs:label "七見町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町岩脇
+    rdfs:label "羽ノ浦町岩脇"@ja ;
+    mo:SubRegion mr:JP_徳島県阿南市羽ノ浦町岩脇奥ノ谷 ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町岩脇奥ノ谷
+    rdfs:label "奥ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町春日野
+    rdfs:label "羽ノ浦町春日野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町古毛
+    rdfs:label "羽ノ浦町古毛"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町中庄
+    rdfs:label "羽ノ浦町中庄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町西春日野
+    rdfs:label "羽ノ浦町西春日野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町古庄
+    rdfs:label "羽ノ浦町古庄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町宮倉
+    rdfs:label "羽ノ浦町宮倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市羽ノ浦町明見
+    rdfs:label "羽ノ浦町明見"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市原ケ崎町
+    rdfs:label "原ケ崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市畭町
+    rdfs:label "畭町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市日開野町
+    rdfs:label "日開野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市深瀬町
+    rdfs:label "深瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市福井町
+    rdfs:label "福井町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市福村町
+    rdfs:label "福村町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市細野町
+    rdfs:label "細野町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市見能林町
+    rdfs:label "見能林町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市向原町
+    rdfs:label "向原町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市柳島町
+    rdfs:label "柳島町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市山口町
+    rdfs:label "山口町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市横見町
+    rdfs:label "横見町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市吉井町
+    rdfs:label "吉井町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿南市領家町
+    rdfs:label "領家町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市
+    rdfs:label "吉野川市"@ja ;
+    mo:AreaCode "36205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町粟島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町飯尾 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町牛島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町内原 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町麻植塚 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町上浦 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町鴨島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町鴨島甲 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町鴨島乙 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町喜来 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町喜来甲 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町喜来乙 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町呉郷団地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町山路 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町敷地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町上下島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町知恵島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町中島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町西麻植 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町樋山地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市鴨島町森藤 ;
+    mo:SubRegion mr:JP_徳島県吉野川市川島町学 ;
+    mo:SubRegion mr:JP_徳島県吉野川市川島町川島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市川島町桑村 ;
+    mo:SubRegion mr:JP_徳島県吉野川市川島町児島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市川島町三ツ島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市川島町宮島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市川島町山田 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷愛後 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷穴地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷一野山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷恵美子 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷大神 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷大岸 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷大佐古 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷大鹿 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷大野 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷大平 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷奥分 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷奥丸 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷柿谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷樫平 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷上谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷川俣 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷川向 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷岸宗 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷倉羅 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷栗木 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷来見坂 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷暮石 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷毛無 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷古井 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷小竹 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷古土地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷木屋浦 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷山王 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷重野尾 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷品野 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷下浦 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷下城戸 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷下畠 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷下林 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷上戸峯 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷菅草 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷平 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷高野尾 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷滝ケ山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷竹屋敷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷田平 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷立石 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷谷向 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷月野 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷照尾 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷土井ノ奥 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷峠 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷栩谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷殿河 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷土用地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷中筋 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷中谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷中畠 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷中分 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷中村中筋 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷西條 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷西谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷西畠 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷西槇山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷刷石 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷花地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷張 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷張峯 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷日浦 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷東 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷東條 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷東槇山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷東山峠 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷槇山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷松尾 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷丸山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷宮倉 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷宗田 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷矢ノ丸 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷湯下 ;
+    mo:SubRegion mr:JP_徳島県吉野川市美郷湯殿 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町青木 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町赤岩 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町赤刎 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町朝日 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町安楽寺 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町石堂 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町伊端穂 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町市久保 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町一里塚 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町井上 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町井傍 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町忌部 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町忌部山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町岩戸 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町牛ノ子尾 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町浦山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町恵下 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町榎谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町大内 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町大須賀 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町大塚 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町大藤谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町大峰 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町大室 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町麻掛 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町翁喜台 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町奥川田 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町奥野井 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町奥原 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町皆瀬 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町槻原 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町柿木谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町楮本 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町春日 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町片岸 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町川田 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町川田市 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町川田天神 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町川田八幡 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町川東 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町祗園 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町北島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町北須賀 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町木戸口 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町楠根地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町雲宮 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町黒岩 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町桑内 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町桑ノ峰 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町高頭 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町御饌免 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町御旅館 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町権現谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町境谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町坂口 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町坂田 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町貞田 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町小路 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町新田谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町季邦 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町住吉 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町諏訪 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町瀬津 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町建石 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町田ノ浦 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町塚穴 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町土仏西向 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町鼓山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町津由谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町堤外 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町堤内 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町天神 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町天神佐古 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町天王原 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町土橋 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町土橋ノ上 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町中須賀 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町中ノ郷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町流 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町鍋倉 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町西久保 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町西ノ原 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町西野峰 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町西麓 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町野宮谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町旗見 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町八ケ久保 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町八幡 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町榛木原 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町東麓 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町東麦原 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町引地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町久宗 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町日知利子 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町一ツ石 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町平山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町日鷲谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町藤生 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町舟戸 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町古城 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町前川 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町町 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町馬見尾 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町丸山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町三島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町宮北 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町宮地 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町宮島 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町宮谷 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町迎坂 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町麦原 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町向坂 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町村雲 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町茂草 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町矢落 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町山路 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町山ノ神 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町木綿麻山 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町湯立 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町横走 ;
+    mo:SubRegion mr:JP_徳島県吉野川市山川町若宮 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県吉野川市鴨島町粟島
+    rdfs:label "鴨島町粟島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町飯尾
+    rdfs:label "鴨島町飯尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町牛島
+    rdfs:label "鴨島町牛島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町内原
+    rdfs:label "鴨島町内原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町麻植塚
+    rdfs:label "鴨島町麻植塚"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町上浦
+    rdfs:label "鴨島町上浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町鴨島
+    rdfs:label "鴨島町鴨島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町鴨島甲
+    rdfs:label "鴨島町鴨島甲"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町鴨島乙
+    rdfs:label "鴨島町鴨島乙"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町喜来
+    rdfs:label "鴨島町喜来"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町喜来甲
+    rdfs:label "鴨島町喜来甲"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町喜来乙
+    rdfs:label "鴨島町喜来乙"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町呉郷団地
+    rdfs:label "鴨島町呉郷団地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町山路
+    rdfs:label "鴨島町山路"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町敷地
+    rdfs:label "鴨島町敷地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町上下島
+    rdfs:label "鴨島町上下島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町知恵島
+    rdfs:label "鴨島町知恵島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町中島
+    rdfs:label "鴨島町中島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町西麻植
+    rdfs:label "鴨島町西麻植"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町樋山地
+    rdfs:label "鴨島町樋山地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市鴨島町森藤
+    rdfs:label "鴨島町森藤"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市川島町学
+    rdfs:label "川島町学"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市川島町川島
+    rdfs:label "川島町川島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市川島町桑村
+    rdfs:label "川島町桑村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市川島町児島
+    rdfs:label "川島町児島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市川島町三ツ島
+    rdfs:label "川島町三ツ島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市川島町宮島
+    rdfs:label "川島町宮島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市川島町山田
+    rdfs:label "川島町山田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷愛後
+    rdfs:label "美郷愛後"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷穴地
+    rdfs:label "美郷穴地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷一野山
+    rdfs:label "美郷一野山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷恵美子
+    rdfs:label "美郷恵美子"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷大神
+    rdfs:label "美郷大神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷大岸
+    rdfs:label "美郷大岸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷大佐古
+    rdfs:label "美郷大佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷大鹿
+    rdfs:label "美郷大鹿"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷大野
+    rdfs:label "美郷大野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷大平
+    rdfs:label "美郷大平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷奥分
+    rdfs:label "美郷奥分"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷奥丸
+    rdfs:label "美郷奥丸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷柿谷
+    rdfs:label "美郷柿谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷樫平
+    rdfs:label "美郷樫平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷上谷
+    rdfs:label "美郷上谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷川俣
+    rdfs:label "美郷川俣"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷川向
+    rdfs:label "美郷川向"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷岸宗
+    rdfs:label "美郷岸宗"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷倉羅
+    rdfs:label "美郷倉羅"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷栗木
+    rdfs:label "美郷栗木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷来見坂
+    rdfs:label "美郷来見坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷暮石
+    rdfs:label "美郷暮石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷毛無
+    rdfs:label "美郷毛無"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷古井
+    rdfs:label "美郷古井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷小竹
+    rdfs:label "美郷小竹"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷古土地
+    rdfs:label "美郷古土地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷木屋浦
+    rdfs:label "美郷木屋浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷山王
+    rdfs:label "美郷山王"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷重野尾
+    rdfs:label "美郷重野尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷品野
+    rdfs:label "美郷品野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷下浦
+    rdfs:label "美郷下浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷下城戸
+    rdfs:label "美郷下城戸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷下畠
+    rdfs:label "美郷下畠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷下林
+    rdfs:label "美郷下林"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷上戸峯
+    rdfs:label "美郷上戸峯"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷菅草
+    rdfs:label "美郷菅草"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷平
+    rdfs:label "美郷平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷高野尾
+    rdfs:label "美郷高野尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷滝ケ山
+    rdfs:label "美郷滝ケ山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷竹屋敷
+    rdfs:label "美郷竹屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷田平
+    rdfs:label "美郷田平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷立石
+    rdfs:label "美郷立石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷谷向
+    rdfs:label "美郷谷向"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷月野
+    rdfs:label "美郷月野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷照尾
+    rdfs:label "美郷照尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷土井ノ奥
+    rdfs:label "美郷土井ノ奥"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷峠
+    rdfs:label "美郷峠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷栩谷
+    rdfs:label "美郷栩谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷殿河
+    rdfs:label "美郷殿河"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷土用地
+    rdfs:label "美郷土用地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷中筋
+    rdfs:label "美郷中筋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷中谷
+    rdfs:label "美郷中谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷中畠
+    rdfs:label "美郷中畠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷中分
+    rdfs:label "美郷中分"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷中村中筋
+    rdfs:label "美郷中村中筋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷西條
+    rdfs:label "美郷西條"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷西谷
+    rdfs:label "美郷西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷西畠
+    rdfs:label "美郷西畠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷西槇山
+    rdfs:label "美郷西槇山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷刷石
+    rdfs:label "美郷刷石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷花地
+    rdfs:label "美郷花地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷張
+    rdfs:label "美郷張"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷張峯
+    rdfs:label "美郷張峯"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷日浦
+    rdfs:label "美郷日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷東
+    rdfs:label "美郷東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷東條
+    rdfs:label "美郷東條"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷東槇山
+    rdfs:label "美郷東槇山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷東山峠
+    rdfs:label "美郷東山峠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷槇山
+    rdfs:label "美郷槇山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷松尾
+    rdfs:label "美郷松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷丸山
+    rdfs:label "美郷丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷宮倉
+    rdfs:label "美郷宮倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷宗田
+    rdfs:label "美郷宗田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷矢ノ丸
+    rdfs:label "美郷矢ノ丸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷湯下
+    rdfs:label "美郷湯下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市美郷湯殿
+    rdfs:label "美郷湯殿"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町青木
+    rdfs:label "山川町青木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町赤岩
+    rdfs:label "山川町赤岩"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町赤刎
+    rdfs:label "山川町赤刎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町朝日
+    rdfs:label "山川町朝日"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町安楽寺
+    rdfs:label "山川町安楽寺"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町石堂
+    rdfs:label "山川町石堂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町伊端穂
+    rdfs:label "山川町伊端穂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町市久保
+    rdfs:label "山川町市久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町一里塚
+    rdfs:label "山川町一里塚"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町井上
+    rdfs:label "山川町井上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町井傍
+    rdfs:label "山川町井傍"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町忌部
+    rdfs:label "山川町忌部"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町忌部山
+    rdfs:label "山川町忌部山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町岩戸
+    rdfs:label "山川町岩戸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町牛ノ子尾
+    rdfs:label "山川町牛ノ子尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町浦山
+    rdfs:label "山川町浦山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町恵下
+    rdfs:label "山川町恵下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町榎谷
+    rdfs:label "山川町榎谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町大内
+    rdfs:label "山川町大内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町大須賀
+    rdfs:label "山川町大須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町大塚
+    rdfs:label "山川町大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町大藤谷
+    rdfs:label "山川町大藤谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町大峰
+    rdfs:label "山川町大峰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町大室
+    rdfs:label "山川町大室"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町麻掛
+    rdfs:label "山川町麻掛"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町翁喜台
+    rdfs:label "山川町翁喜台"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町奥川田
+    rdfs:label "山川町奥川田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町奥野井
+    rdfs:label "山川町奥野井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町奥原
+    rdfs:label "山川町奥原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町皆瀬
+    rdfs:label "山川町皆瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町槻原
+    rdfs:label "山川町槻原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町柿木谷
+    rdfs:label "山川町柿木谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町楮本
+    rdfs:label "山川町楮本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町春日
+    rdfs:label "山川町春日"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町片岸
+    rdfs:label "山川町片岸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町川田
+    rdfs:label "山川町川田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町川田市
+    rdfs:label "山川町川田市"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町川田天神
+    rdfs:label "山川町川田天神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町川田八幡
+    rdfs:label "山川町川田八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町川東
+    rdfs:label "山川町川東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町祗園
+    rdfs:label "山川町祗園"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町北島
+    rdfs:label "山川町北島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町北須賀
+    rdfs:label "山川町北須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町木戸口
+    rdfs:label "山川町木戸口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町楠根地
+    rdfs:label "山川町楠根地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町雲宮
+    rdfs:label "山川町雲宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町黒岩
+    rdfs:label "山川町黒岩"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町桑内
+    rdfs:label "山川町桑内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町桑ノ峰
+    rdfs:label "山川町桑ノ峰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町高頭
+    rdfs:label "山川町高頭"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町御饌免
+    rdfs:label "山川町御饌免"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町御旅館
+    rdfs:label "山川町御旅館"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町権現谷
+    rdfs:label "山川町権現谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町境谷
+    rdfs:label "山川町境谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町坂口
+    rdfs:label "山川町坂口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町坂田
+    rdfs:label "山川町坂田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町貞田
+    rdfs:label "山川町貞田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町小路
+    rdfs:label "山川町小路"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町新田谷
+    rdfs:label "山川町新田谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町季邦
+    rdfs:label "山川町季邦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町住吉
+    rdfs:label "山川町住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町諏訪
+    rdfs:label "山川町諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町瀬津
+    rdfs:label "山川町瀬津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町建石
+    rdfs:label "山川町建石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町田ノ浦
+    rdfs:label "山川町田ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町塚穴
+    rdfs:label "山川町塚穴"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町土仏西向
+    rdfs:label "山川町土仏西向"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町鼓山
+    rdfs:label "山川町鼓山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町津由谷
+    rdfs:label "山川町津由谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町堤外
+    rdfs:label "山川町堤外"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町堤内
+    rdfs:label "山川町堤内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町天神
+    rdfs:label "山川町天神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町天神佐古
+    rdfs:label "山川町天神佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町天王原
+    rdfs:label "山川町天王原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町土橋
+    rdfs:label "山川町土橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町土橋ノ上
+    rdfs:label "山川町土橋ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町中須賀
+    rdfs:label "山川町中須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町中ノ郷
+    rdfs:label "山川町中ノ郷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町流
+    rdfs:label "山川町流"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町鍋倉
+    rdfs:label "山川町鍋倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町西久保
+    rdfs:label "山川町西久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町西ノ原
+    rdfs:label "山川町西ノ原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町西野峰
+    rdfs:label "山川町西野峰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町西麓
+    rdfs:label "山川町西麓"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町野宮谷
+    rdfs:label "山川町野宮谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町旗見
+    rdfs:label "山川町旗見"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町八ケ久保
+    rdfs:label "山川町八ケ久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町八幡
+    rdfs:label "山川町八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町榛木原
+    rdfs:label "山川町榛木原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町東麓
+    rdfs:label "山川町東麓"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町東麦原
+    rdfs:label "山川町東麦原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町引地
+    rdfs:label "山川町引地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町久宗
+    rdfs:label "山川町久宗"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町日知利子
+    rdfs:label "山川町日知利子"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町一ツ石
+    rdfs:label "山川町一ツ石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町平山
+    rdfs:label "山川町平山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町日鷲谷
+    rdfs:label "山川町日鷲谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町藤生
+    rdfs:label "山川町藤生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町舟戸
+    rdfs:label "山川町舟戸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町古城
+    rdfs:label "山川町古城"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町前川
+    rdfs:label "山川町前川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町町
+    rdfs:label "山川町町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町馬見尾
+    rdfs:label "山川町馬見尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町丸山
+    rdfs:label "山川町丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町三島
+    rdfs:label "山川町三島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町宮北
+    rdfs:label "山川町宮北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町宮地
+    rdfs:label "山川町宮地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町宮島
+    rdfs:label "山川町宮島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町宮谷
+    rdfs:label "山川町宮谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町迎坂
+    rdfs:label "山川町迎坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町麦原
+    rdfs:label "山川町麦原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町向坂
+    rdfs:label "山川町向坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町村雲
+    rdfs:label "山川町村雲"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町茂草
+    rdfs:label "山川町茂草"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町矢落
+    rdfs:label "山川町矢落"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町山路
+    rdfs:label "山川町山路"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町山ノ神
+    rdfs:label "山川町山ノ神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町木綿麻山
+    rdfs:label "山川町木綿麻山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町湯立
+    rdfs:label "山川町湯立"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町横走
+    rdfs:label "山川町横走"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県吉野川市山川町若宮
+    rdfs:label "山川町若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市
+    rdfs:label "阿波市"@ja ;
+    mo:AreaCode "36206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町赤坂 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町医王寺 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町伊沢市 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町伊沢田 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町伊沢谷東縁 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町伊勢 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町井出口 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町糸下 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町稲荷 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町芋場 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町居屋敷 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町岩津 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町植桜 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町梅川内 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町梅ノ木原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町梅ノ東 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町王地 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町王子川 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町王地南 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町大久保 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町大坪 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町大原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町大道北 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町大道南 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町岡地 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町小倉 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町乙岩津 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町柏谷左右 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町勝命 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町勝命北 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町亀底 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町川久保 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町川添 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北岡 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北久保 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北五味知 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北柴生 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北整理 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北西谷 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北ノ名 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北正広 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町北山 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町庚申原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町五明 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町桜ノ岡 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町寒風 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町山王 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町三本柳 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町四歩一 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町下喜来 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町下喜来南 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町下原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町十善地 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町新開 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町真福寺 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町清原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町善地 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町大次郎 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町高垣 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町立割 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町谷口 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町谷島 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町谷島北 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町綱懸 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町寺サコ ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町天西山 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東条 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町栩ケ窪 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町中川原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町中坪 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町中長峰 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町中原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西柴生 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西島 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西清原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西整理 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西長峰 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西ノ岡 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西林 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町西正広 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町野神 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町八丁原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町馬場 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東川原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東柴生 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東島 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東整理 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東長峰 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東正広 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町東村 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町引地 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町久原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町日吉谷 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町広野 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町平川原北 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町平川原南 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町本町 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町本安 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町前島 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町真重 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町松川内 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町丸山 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町南川原 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町南五味知 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町南柴生 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町南整理 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町南谷島 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町南西谷 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町元町 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町森沢 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町安政 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町山尻 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町山ノ神 ;
+    mo:SubRegion mr:JP_徳島県阿波市阿波町早田 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町市場 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町伊月 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町犬墓 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町大影 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町大野島 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町大俣 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町尾開 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町香美 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町上喜来 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町切幡 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町興崎 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町日開谷 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町山野上 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町八幡 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町秋月 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町浦池 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町郡 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町高尾 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町土成 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町成当 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町水田 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町宮川内 ;
+    mo:SubRegion mr:JP_徳島県阿波市土成町吉田 ;
+    mo:SubRegion mr:JP_徳島県阿波市吉野町柿原 ;
+    mo:SubRegion mr:JP_徳島県阿波市吉野町五条 ;
+    mo:SubRegion mr:JP_徳島県阿波市吉野町西条 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県阿波市阿波町赤坂
+    rdfs:label "阿波町赤坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町医王寺
+    rdfs:label "阿波町医王寺"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町伊沢市
+    rdfs:label "阿波町伊沢市"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町伊沢田
+    rdfs:label "阿波町伊沢田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町伊沢谷東縁
+    rdfs:label "阿波町伊沢谷東縁"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町伊勢
+    rdfs:label "阿波町伊勢"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町井出口
+    rdfs:label "阿波町井出口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町糸下
+    rdfs:label "阿波町糸下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町稲荷
+    rdfs:label "阿波町稲荷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町芋場
+    rdfs:label "阿波町芋場"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町居屋敷
+    rdfs:label "阿波町居屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町岩津
+    rdfs:label "阿波町岩津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町植桜
+    rdfs:label "阿波町植桜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町梅川内
+    rdfs:label "阿波町梅川内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町梅ノ木原
+    rdfs:label "阿波町梅ノ木原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町梅ノ東
+    rdfs:label "阿波町梅ノ東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町王地
+    rdfs:label "阿波町王地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町王子川
+    rdfs:label "阿波町王子川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町王地南
+    rdfs:label "阿波町王地南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町大久保
+    rdfs:label "阿波町大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町大坪
+    rdfs:label "阿波町大坪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町大原
+    rdfs:label "阿波町大原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町大道北
+    rdfs:label "阿波町大道北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町大道南
+    rdfs:label "阿波町大道南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町岡地
+    rdfs:label "阿波町岡地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町小倉
+    rdfs:label "阿波町小倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町乙岩津
+    rdfs:label "阿波町乙岩津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町柏谷左右
+    rdfs:label "阿波町柏谷左右"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町勝命
+    rdfs:label "阿波町勝命"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町勝命北
+    rdfs:label "阿波町勝命北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町亀底
+    rdfs:label "阿波町亀底"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町川久保
+    rdfs:label "阿波町川久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町川添
+    rdfs:label "阿波町川添"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北岡
+    rdfs:label "阿波町北岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北久保
+    rdfs:label "阿波町北久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北五味知
+    rdfs:label "阿波町北五味知"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北柴生
+    rdfs:label "阿波町北柴生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北整理
+    rdfs:label "阿波町北整理"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北西谷
+    rdfs:label "阿波町北西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北ノ名
+    rdfs:label "阿波町北ノ名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北原
+    rdfs:label "阿波町北原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北正広
+    rdfs:label "阿波町北正広"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町北山
+    rdfs:label "阿波町北山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町庚申原
+    rdfs:label "阿波町庚申原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町五明
+    rdfs:label "阿波町五明"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町桜ノ岡
+    rdfs:label "阿波町桜ノ岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町寒風
+    rdfs:label "阿波町寒風"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町山王
+    rdfs:label "阿波町山王"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町三本柳
+    rdfs:label "阿波町三本柳"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町四歩一
+    rdfs:label "阿波町四歩一"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町下喜来
+    rdfs:label "阿波町下喜来"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町下喜来南
+    rdfs:label "阿波町下喜来南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町下原
+    rdfs:label "阿波町下原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町十善地
+    rdfs:label "阿波町十善地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町新開
+    rdfs:label "阿波町新開"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町真福寺
+    rdfs:label "阿波町真福寺"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町清原
+    rdfs:label "阿波町清原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町善地
+    rdfs:label "阿波町善地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町大次郎
+    rdfs:label "阿波町大次郎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町高垣
+    rdfs:label "阿波町高垣"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町立割
+    rdfs:label "阿波町立割"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町谷口
+    rdfs:label "阿波町谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町谷島
+    rdfs:label "阿波町谷島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町谷島北
+    rdfs:label "阿波町谷島北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町綱懸
+    rdfs:label "阿波町綱懸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町寺サコ
+    rdfs:label "阿波町寺サコ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町天西山
+    rdfs:label "阿波町天西山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東条
+    rdfs:label "阿波町東条"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町栩ケ窪
+    rdfs:label "阿波町栩ケ窪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町中川原
+    rdfs:label "阿波町中川原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町中坪
+    rdfs:label "阿波町中坪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町中長峰
+    rdfs:label "阿波町中長峰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町中原
+    rdfs:label "阿波町中原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西柴生
+    rdfs:label "阿波町西柴生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西島
+    rdfs:label "阿波町西島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西清原
+    rdfs:label "阿波町西清原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西整理
+    rdfs:label "阿波町西整理"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西長峰
+    rdfs:label "阿波町西長峰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西ノ岡
+    rdfs:label "阿波町西ノ岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西林
+    rdfs:label "阿波町西林"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西原
+    rdfs:label "阿波町西原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町西正広
+    rdfs:label "阿波町西正広"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町野神
+    rdfs:label "阿波町野神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町八丁原
+    rdfs:label "阿波町八丁原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町馬場
+    rdfs:label "阿波町馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東川原
+    rdfs:label "阿波町東川原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東柴生
+    rdfs:label "阿波町東柴生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東島
+    rdfs:label "阿波町東島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東整理
+    rdfs:label "阿波町東整理"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東長峰
+    rdfs:label "阿波町東長峰"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東原
+    rdfs:label "阿波町東原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東正広
+    rdfs:label "阿波町東正広"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町東村
+    rdfs:label "阿波町東村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町引地
+    rdfs:label "阿波町引地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町久原
+    rdfs:label "阿波町久原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町日吉谷
+    rdfs:label "阿波町日吉谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町広野
+    rdfs:label "阿波町広野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町平川原北
+    rdfs:label "阿波町平川原北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町平川原南
+    rdfs:label "阿波町平川原南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町本町
+    rdfs:label "阿波町本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町本安
+    rdfs:label "阿波町本安"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町前島
+    rdfs:label "阿波町前島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町真重
+    rdfs:label "阿波町真重"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町松川内
+    rdfs:label "阿波町松川内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町丸山
+    rdfs:label "阿波町丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町南川原
+    rdfs:label "阿波町南川原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町南五味知
+    rdfs:label "阿波町南五味知"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町南柴生
+    rdfs:label "阿波町南柴生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町南整理
+    rdfs:label "阿波町南整理"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町南谷島
+    rdfs:label "阿波町南谷島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町南西谷
+    rdfs:label "阿波町南西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町元町
+    rdfs:label "阿波町元町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町森沢
+    rdfs:label "阿波町森沢"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町安政
+    rdfs:label "阿波町安政"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町山尻
+    rdfs:label "阿波町山尻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町山ノ神
+    rdfs:label "阿波町山ノ神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市阿波町早田
+    rdfs:label "阿波町早田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町市場
+    rdfs:label "市場町市場"@ja ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町市場上野段 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町市場岸ノ下 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町市場興崎 ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町市場町筋 ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町市場上野段
+    rdfs:label "上野段"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町市場岸ノ下
+    rdfs:label "岸ノ下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町市場興崎
+    rdfs:label "興崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町市場町筋
+    rdfs:label "町筋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町伊月
+    rdfs:label "市場町伊月"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町犬墓
+    rdfs:label "市場町犬墓"@ja ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町犬墓小竹 ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町犬墓小竹
+    rdfs:label "小竹"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町大影
+    rdfs:label "市場町大影"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町大野島
+    rdfs:label "市場町大野島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町大俣
+    rdfs:label "市場町大俣"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町尾開
+    rdfs:label "市場町尾開"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町香美
+    rdfs:label "市場町香美"@ja ;
+    mo:SubRegion mr:JP_徳島県阿波市市場町香美北香美 ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町香美北香美
+    rdfs:label "北香美"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町上喜来
+    rdfs:label "市場町上喜来"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町切幡
+    rdfs:label "市場町切幡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町興崎
+    rdfs:label "市場町興崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町日開谷
+    rdfs:label "市場町日開谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町山野上
+    rdfs:label "市場町山野上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市市場町八幡
+    rdfs:label "市場町八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町秋月
+    rdfs:label "土成町秋月"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町浦池
+    rdfs:label "土成町浦池"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町郡
+    rdfs:label "土成町郡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町高尾
+    rdfs:label "土成町高尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町土成
+    rdfs:label "土成町土成"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町成当
+    rdfs:label "土成町成当"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町水田
+    rdfs:label "土成町水田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町宮川内
+    rdfs:label "土成町宮川内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市土成町吉田
+    rdfs:label "土成町吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市吉野町柿原
+    rdfs:label "吉野町柿原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市吉野町五条
+    rdfs:label "吉野町五条"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県阿波市吉野町西条
+    rdfs:label "吉野町西条"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市
+    rdfs:label "美馬市"@ja ;
+    mo:AreaCode "36207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県美馬市穴吹町穴吹 ;
+    mo:SubRegion mr:JP_徳島県美馬市穴吹町口山 ;
+    mo:SubRegion mr:JP_徳島県美馬市穴吹町古宮 ;
+    mo:SubRegion mr:JP_徳島県美馬市穴吹町三島 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町猪尻 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町岩倉 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町上ノ原 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町馬木 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町脇町 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町川原町 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町木ノ内 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町新町 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町助松 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町田上 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町野村 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町別所 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県美馬市穴吹町穴吹
+    rdfs:label "穴吹町穴吹"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市穴吹町口山
+    rdfs:label "穴吹町口山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市穴吹町古宮
+    rdfs:label "穴吹町古宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市穴吹町三島
+    rdfs:label "穴吹町三島"@ja ;
+    mo:SubRegion mr:JP_徳島県美馬市穴吹町三島大重 ;
+    mo:SubRegion mr:JP_徳島県美馬市穴吹町三島小島 ;
+    mo:SubRegion mr:JP_徳島県美馬市穴吹町三島舞中島 ;
+    mo:SubRegion mr:JP_徳島県美馬市穴吹町三島三谷 ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市穴吹町三島大重
+    rdfs:label "大重"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市穴吹町三島小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市穴吹町三島舞中島
+    rdfs:label "舞中島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市穴吹町三島三谷
+    rdfs:label "三谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平
+    rdfs:label "木屋平"@ja ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平麻衣 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平大北 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平川井 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平下名 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平竹尾 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平櫟木 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平市初 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平今丸 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平尾山 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平カゴミ ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平樫原 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平木中 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平桑柄 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平ケヤキヒラ ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平小日浦 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平地神滝 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平菅蔵 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平杖谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平葛尾 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平ハジコノ ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平ビヤガイチ ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平二戸 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平三ツ木 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平貢 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平南張 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平向樫原 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平川上 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平川上カケ ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平太合 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平太合カケ ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平谷口 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平谷口カケ ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平森遠 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平八幡 ;
+    mo:SubRegion mr:JP_徳島県美馬市木屋平弓道 ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平麻衣
+    rdfs:label "麻衣"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平大北
+    rdfs:label "大北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平川井
+    rdfs:label "川井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平下名
+    rdfs:label "下名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平竹尾
+    rdfs:label "竹尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平櫟木
+    rdfs:label "櫟木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平市初
+    rdfs:label "市初"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平今丸
+    rdfs:label "今丸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平尾山
+    rdfs:label "尾山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平カゴミ
+    rdfs:label "カゴミ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平樫原
+    rdfs:label "樫原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平木中
+    rdfs:label "木中"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平桑柄
+    rdfs:label "桑柄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平ケヤキヒラ
+    rdfs:label "ケヤキヒラ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平小日浦
+    rdfs:label "小日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平地神滝
+    rdfs:label "地神滝"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平菅蔵
+    rdfs:label "菅蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平杖谷
+    rdfs:label "杖谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平葛尾
+    rdfs:label "葛尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平ハジコノ
+    rdfs:label "ハジコノ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平ビヤガイチ
+    rdfs:label "ビヤガイチ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平二戸
+    rdfs:label "二戸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平三ツ木
+    rdfs:label "三ツ木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平貢
+    rdfs:label "貢"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平南張
+    rdfs:label "南張"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平向樫原
+    rdfs:label "向樫原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平川上カケ
+    rdfs:label "川上カケ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平太合
+    rdfs:label "太合"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平太合カケ
+    rdfs:label "太合カケ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平谷口
+    rdfs:label "谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平谷口カケ
+    rdfs:label "谷口カケ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平森遠
+    rdfs:label "森遠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市木屋平弓道
+    rdfs:label "弓道"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町
+    rdfs:label "美馬町"@ja ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町雨下 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町上野 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町小原 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町境目 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町里西屋敷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町下ノ段 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町城 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町滝下 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町竹ノ内 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町田辺 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町谷口 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町栂尾 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町突落 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中尾 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中耕地 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中筋 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中通 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中西 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中山 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町長畑 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町夏蕨 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町西宮ノ上 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町東宮ノ上 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町細野 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町前田 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町松ノ花 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町松ノ本 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町宮前 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町宮北 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町八幡 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町山夏蕨 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町吉水 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町荒川 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町井出縁 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町井ノ神 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町大泉 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町大宮西 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町上突出 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町岸ノ下 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町北東原 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町喜来市 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町里平野 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町下突出 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町谷ヨリ西 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町乳ノ木 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町寺ノ下 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町天神 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町天神北 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中東原 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町西荒川 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町沼田島 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町東荒川 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町南荒川 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町南東原 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町妙見 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町山嫁坂 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町家ノ前 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町大池 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町大上 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町大北 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町大佐古 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町大前 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町岡ノ内 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町押上 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町茅原 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町川ノ上 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町観音 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町栗林 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町黒砂 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町狙ケ内 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町猿坂 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町下白地 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町白地 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町炭釜 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町芹佐古 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町惣後 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町惣田 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町外墓 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町滝ノ上 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町立見山 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町田ノ岡 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町狙坂 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中岡 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中野田ノ井 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中横尾 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町長地 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町西浦 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町西ノ谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町野田ノ井 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町橋谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町場シ所 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町東筋 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町平尾 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町平野 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町藤宇 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町前坂 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町水ノ岡 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町味噌ケ久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町道ノ上 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町宮ノ岡 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町南畠 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町薬師ケ久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町山西屋敷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町山橋谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町横尾 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町池ノ浦 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町銀杏木 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町梅ケ久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町駅 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町蛭子 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町柿木 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町鍵掛 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町願勝寺 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町北土ケ久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町喜入道 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町滝宮 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町土ケ久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町西段 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町宮東 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町宮西 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町宮南 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町養泉 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町一ノ宮 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町後谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町倉尾 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町三頭山 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町下後谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町高惣 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町谷尻 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町露口 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中沼田 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中野 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町夏弥喜 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町ナロヲ ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町西大久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町西沼田 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町沼田 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町八ノ坪 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町坊ケ谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町水久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町宗ノ分 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町屋内 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町入倉 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町大久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町切久保 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町正部 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町丈寄 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町清田 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町鵜飼口 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町岡 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町小長谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町小長谷端 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町笠仏 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町川縁 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町荒神 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町助松 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町高畑 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町辰角 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町谷頭 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町玉振前 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町チゲジ ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町天神東 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町轟 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中黒 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中須 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中道北 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町中道南 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町ノツゴ ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町ノリコヘ ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町橋本 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町東岸ノ下 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町東段 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町東宗重 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町坊僧 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町丸山 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町南原 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町明神原 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町宗重 ;
+    mo:SubRegion mr:JP_徳島県美馬市美馬町薬師 ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町雨下
+    rdfs:label "雨下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町小原
+    rdfs:label "小原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町境目
+    rdfs:label "境目"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町里西屋敷
+    rdfs:label "里西屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町下ノ段
+    rdfs:label "下ノ段"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町城
+    rdfs:label "城"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町滝下
+    rdfs:label "滝下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町竹ノ内
+    rdfs:label "竹ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町田辺
+    rdfs:label "田辺"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町谷口
+    rdfs:label "谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町栂尾
+    rdfs:label "栂尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町突落
+    rdfs:label "突落"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中尾
+    rdfs:label "中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中耕地
+    rdfs:label "中耕地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中筋
+    rdfs:label "中筋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中通
+    rdfs:label "中通"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中西
+    rdfs:label "中西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町長畑
+    rdfs:label "長畑"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町夏蕨
+    rdfs:label "夏蕨"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町西宮ノ上
+    rdfs:label "西宮ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町東宮ノ上
+    rdfs:label "東宮ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町細野
+    rdfs:label "細野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町前田
+    rdfs:label "前田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町松ノ花
+    rdfs:label "松ノ花"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町松ノ本
+    rdfs:label "松ノ本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町宮前
+    rdfs:label "宮前"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町宮北
+    rdfs:label "宮北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町八幡
+    rdfs:label "八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町山夏蕨
+    rdfs:label "山夏蕨"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町吉水
+    rdfs:label "吉水"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町荒川
+    rdfs:label "荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町井出縁
+    rdfs:label "井出縁"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町井ノ神
+    rdfs:label "井ノ神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町大泉
+    rdfs:label "大泉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町大宮西
+    rdfs:label "大宮西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町上突出
+    rdfs:label "上突出"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町岸ノ下
+    rdfs:label "岸ノ下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町北東原
+    rdfs:label "北東原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町喜来市
+    rdfs:label "喜来市"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町里平野
+    rdfs:label "里平野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町下突出
+    rdfs:label "下突出"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町谷ヨリ西
+    rdfs:label "谷ヨリ西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町乳ノ木
+    rdfs:label "乳ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町寺ノ下
+    rdfs:label "寺ノ下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町天神北
+    rdfs:label "天神北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中東原
+    rdfs:label "中東原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町西荒川
+    rdfs:label "西荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町沼田島
+    rdfs:label "沼田島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町東荒川
+    rdfs:label "東荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町南荒川
+    rdfs:label "南荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町南東原
+    rdfs:label "南東原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町妙見
+    rdfs:label "妙見"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町山嫁坂
+    rdfs:label "山嫁坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町家ノ前
+    rdfs:label "家ノ前"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町大池
+    rdfs:label "大池"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町大上
+    rdfs:label "大上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町大北
+    rdfs:label "大北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町大佐古
+    rdfs:label "大佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町大前
+    rdfs:label "大前"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町岡ノ内
+    rdfs:label "岡ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町押上
+    rdfs:label "押上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町茅原
+    rdfs:label "茅原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町川ノ上
+    rdfs:label "川ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町観音
+    rdfs:label "観音"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町栗林
+    rdfs:label "栗林"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町黒砂
+    rdfs:label "黒砂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町狙ケ内
+    rdfs:label "狙ケ内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町猿坂
+    rdfs:label "猿坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町下白地
+    rdfs:label "下白地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町白地
+    rdfs:label "白地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町炭釜
+    rdfs:label "炭釜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町芹佐古
+    rdfs:label "芹佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町惣後
+    rdfs:label "惣後"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町惣田
+    rdfs:label "惣田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町外墓
+    rdfs:label "外墓"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町滝ノ上
+    rdfs:label "滝ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町立見山
+    rdfs:label "立見山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町田ノ岡
+    rdfs:label "田ノ岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町狙坂
+    rdfs:label "狙坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中岡
+    rdfs:label "中岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中野田ノ井
+    rdfs:label "中野田ノ井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中横尾
+    rdfs:label "中横尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町長地
+    rdfs:label "長地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町西浦
+    rdfs:label "西浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町西ノ谷
+    rdfs:label "西ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町野田ノ井
+    rdfs:label "野田ノ井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町橋谷
+    rdfs:label "橋谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町場シ所
+    rdfs:label "場シ所"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町東筋
+    rdfs:label "東筋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町平尾
+    rdfs:label "平尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町藤宇
+    rdfs:label "藤宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町前坂
+    rdfs:label "前坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町水ノ岡
+    rdfs:label "水ノ岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町味噌ケ久保
+    rdfs:label "味噌ケ久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町道ノ上
+    rdfs:label "道ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町宮ノ岡
+    rdfs:label "宮ノ岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町南畠
+    rdfs:label "南畠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町薬師ケ久保
+    rdfs:label "薬師ケ久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町山西屋敷
+    rdfs:label "山西屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町山橋谷
+    rdfs:label "山橋谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町横尾
+    rdfs:label "横尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町池ノ浦
+    rdfs:label "池ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町銀杏木
+    rdfs:label "銀杏木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町梅ケ久保
+    rdfs:label "梅ケ久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町駅
+    rdfs:label "駅"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町蛭子
+    rdfs:label "蛭子"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町柿木
+    rdfs:label "柿木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町鍵掛
+    rdfs:label "鍵掛"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町願勝寺
+    rdfs:label "願勝寺"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町北土ケ久保
+    rdfs:label "北土ケ久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町喜入道
+    rdfs:label "喜入道"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町滝宮
+    rdfs:label "滝宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町土ケ久保
+    rdfs:label "土ケ久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町西段
+    rdfs:label "西段"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町宮東
+    rdfs:label "宮東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町宮西
+    rdfs:label "宮西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町宮南
+    rdfs:label "宮南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町養泉
+    rdfs:label "養泉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町一ノ宮
+    rdfs:label "一ノ宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町後谷
+    rdfs:label "後谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町倉尾
+    rdfs:label "倉尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町三頭山
+    rdfs:label "三頭山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町下後谷
+    rdfs:label "下後谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町高惣
+    rdfs:label "高惣"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町谷尻
+    rdfs:label "谷尻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町露口
+    rdfs:label "露口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中沼田
+    rdfs:label "中沼田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町夏弥喜
+    rdfs:label "夏弥喜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町ナロヲ
+    rdfs:label "ナロヲ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町西大久保
+    rdfs:label "西大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町西沼田
+    rdfs:label "西沼田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町沼田
+    rdfs:label "沼田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町八ノ坪
+    rdfs:label "八ノ坪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町坊ケ谷
+    rdfs:label "坊ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町水久保
+    rdfs:label "水久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町宗ノ分
+    rdfs:label "宗ノ分"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町屋内
+    rdfs:label "屋内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町入倉
+    rdfs:label "入倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町切久保
+    rdfs:label "切久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町正部
+    rdfs:label "正部"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町丈寄
+    rdfs:label "丈寄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町清田
+    rdfs:label "清田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町鵜飼口
+    rdfs:label "鵜飼口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町岡
+    rdfs:label "岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町小長谷
+    rdfs:label "小長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町小長谷端
+    rdfs:label "小長谷端"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町笠仏
+    rdfs:label "笠仏"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町川縁
+    rdfs:label "川縁"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町荒神
+    rdfs:label "荒神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町助松
+    rdfs:label "助松"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町高畑
+    rdfs:label "高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町辰角
+    rdfs:label "辰角"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町谷頭
+    rdfs:label "谷頭"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町玉振前
+    rdfs:label "玉振前"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町チゲジ
+    rdfs:label "チゲジ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町天神東
+    rdfs:label "天神東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町轟
+    rdfs:label "轟"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中黒
+    rdfs:label "中黒"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中須
+    rdfs:label "中須"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中道北
+    rdfs:label "中道北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町中道南
+    rdfs:label "中道南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町ノツゴ
+    rdfs:label "ノツゴ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町ノリコヘ
+    rdfs:label "ノリコヘ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町橋本
+    rdfs:label "橋本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町東岸ノ下
+    rdfs:label "東岸ノ下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町東段
+    rdfs:label "東段"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町東宗重
+    rdfs:label "東宗重"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町坊僧
+    rdfs:label "坊僧"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町丸山
+    rdfs:label "丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町南原
+    rdfs:label "南原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町明神原
+    rdfs:label "明神原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町宗重
+    rdfs:label "宗重"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市美馬町薬師
+    rdfs:label "薬師"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町猪尻
+    rdfs:label "脇町猪尻"@ja ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町猪尻古作 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町猪尻庄 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町猪尻土井 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町猪尻西上野 ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町猪尻古作
+    rdfs:label "古作"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町猪尻庄
+    rdfs:label "庄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町猪尻土井
+    rdfs:label "土井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町猪尻西上野
+    rdfs:label "西上野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町岩倉
+    rdfs:label "脇町岩倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町上ノ原
+    rdfs:label "脇町上ノ原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町馬木
+    rdfs:label "脇町馬木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町脇町
+    rdfs:label "脇町脇町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町川原町
+    rdfs:label "脇町川原町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町木ノ内
+    rdfs:label "脇町木ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町新町
+    rdfs:label "脇町新町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町助松
+    rdfs:label "脇町助松"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町田上
+    rdfs:label "脇町田上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町野村
+    rdfs:label "脇町野村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町別所
+    rdfs:label "脇町別所"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町
+    rdfs:label "脇町"@ja ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町井口 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町井口東 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町上ノ原 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町芋穴 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町中八 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町芋尻 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町小丸 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町白木 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町段 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町段名 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町中段 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町羽出床 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町神楽田 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町西大谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町東大谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町上中野 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町下中野 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町平帽子 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町舟木 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町川原柴 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町暮畑 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町梨子木 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町横倉 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町北庄 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町北星 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町小星 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町新山 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町曽江名 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町西赤谷 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町西俣名 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町拝原 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町東赤谷名 ;
+    mo:SubRegion mr:JP_徳島県美馬市脇町東俣名 ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町井口
+    rdfs:label "井口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町井口東
+    rdfs:label "井口東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町上ノ原
+    rdfs:label "上ノ原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町芋穴
+    rdfs:label "芋穴"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町中八
+    rdfs:label "中八"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町芋尻
+    rdfs:label "芋尻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町小丸
+    rdfs:label "小丸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町白木
+    rdfs:label "白木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町段
+    rdfs:label "段"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町段名
+    rdfs:label "段名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町中段
+    rdfs:label "中段"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町羽出床
+    rdfs:label "羽出床"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町神楽田
+    rdfs:label "神楽田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町西大谷
+    rdfs:label "西大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町東大谷
+    rdfs:label "東大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町上中野
+    rdfs:label "上中野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町下中野
+    rdfs:label "下中野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町平帽子
+    rdfs:label "平帽子"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町舟木
+    rdfs:label "舟木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町川原柴
+    rdfs:label "川原柴"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町暮畑
+    rdfs:label "暮畑"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町梨子木
+    rdfs:label "梨子木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町横倉
+    rdfs:label "横倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町北庄
+    rdfs:label "北庄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町北星
+    rdfs:label "北星"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町小星
+    rdfs:label "小星"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町新山
+    rdfs:label "新山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町曽江名
+    rdfs:label "曽江名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町西赤谷
+    rdfs:label "西赤谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町西俣名
+    rdfs:label "西俣名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町拝原
+    rdfs:label "拝原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町東赤谷名
+    rdfs:label "東赤谷名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬市脇町東俣名
+    rdfs:label "東俣名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市
+    rdfs:label "三好市"@ja ;
+    mo:AreaCode "36208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町旭町 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町井内西 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町井内東 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町井関 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町大佐古 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町岡野前 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町片山 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町御領田 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町才長谷 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町里川 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町島 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町新町 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町タクミ田 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町田中 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町辻 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町中岡 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町仲ノ町 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町中村西 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町中村東 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町中村南 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町流堂 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町西井川 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町野津後 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町野津後流 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町八幡 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町浜西 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町浜東 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町本町 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町向坂 ;
+    mo:SubRegion mr:JP_徳島県三好市井川町吉岡 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町イケミナミ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町イタノ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町ウエノ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町ウエマツ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町馬路 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町大利 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町川崎 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町クヤウジ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町佐野 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町サラダ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町漆川 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町シマ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町州津 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町シンマチ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町シンヤマ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町トウゲ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町中津川 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町中西 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町白地 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町ハヤシ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町マチ ;
+    mo:SubRegion mr:JP_徳島県三好市池田町松尾 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町ヤサン ;
+    mo:SubRegion mr:JP_徳島県三好市池田町ヤマダ ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村吾橋 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村有瀬 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村一宇 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村今久保 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村後山 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村後山西 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村後山向 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村榎 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村尾井ノ内 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村小祖谷 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村上吾橋 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村閑定 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村坂瀬 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村重末 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村下吾橋 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村下名 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村善徳 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村田ノ内 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村土日浦 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村徳善 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村徳善北 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村徳善西 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村戸ノ谷 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村中尾 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村西岡 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村眠谷 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村東西岡 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村東山 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村南山 ;
+    mo:SubRegion mr:JP_徳島県三好市西祖谷山村冥地 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷阿佐 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷今井 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷大枝 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷大西 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷小川 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷奥の井 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷小島 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷落合 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷樫尾 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷釜ケ谷 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷京上 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷九鬼 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷久保 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷栗枝渡 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷古味 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷佐野 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷下瀬 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷菅生 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷高野 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷釣井 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷中上 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷新居屋 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷西山 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷林 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷見ノ越 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷麦生土 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷元井 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷若林 ;
+    mo:SubRegion mr:JP_徳島県三好市東祖谷和田 ;
+    mo:SubRegion mr:JP_徳島県三好市三野町加茂野宮 ;
+    mo:SubRegion mr:JP_徳島県三好市三野町芝生 ;
+    mo:SubRegion mr:JP_徳島県三好市三野町清水 ;
+    mo:SubRegion mr:JP_徳島県三好市三野町勢力 ;
+    mo:SubRegion mr:JP_徳島県三好市三野町太刀野 ;
+    mo:SubRegion mr:JP_徳島県三好市三野町太刀野山 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町相川 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町赤谷 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町粟山 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町岩戸 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町大川持 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町大谷 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町大月 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町大野 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町小川谷 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町尾又 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町上名 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町川口 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町国政 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町黒川 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町佐連 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町重実 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町柴川 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町下川 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町下名 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町白川 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町末貞 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町瀬貝 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町平野 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町寺野 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町中野 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町中ノ瀬 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町西宇 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町信正 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町八千坊 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町引地 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町仏子 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町政友 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町光兼 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町茂地 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町大和川 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町頼広 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町若山 ;
+    mo:SubRegion mr:JP_徳島県三好市山城町脇 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県三好市井川町旭町
+    rdfs:label "井川町旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町井内西
+    rdfs:label "井川町井内西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町井内東
+    rdfs:label "井川町井内東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町井関
+    rdfs:label "井川町井関"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町大佐古
+    rdfs:label "井川町大佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町岡野前
+    rdfs:label "井川町岡野前"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町片山
+    rdfs:label "井川町片山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町御領田
+    rdfs:label "井川町御領田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町才長谷
+    rdfs:label "井川町才長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町里川
+    rdfs:label "井川町里川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町島
+    rdfs:label "井川町島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町新町
+    rdfs:label "井川町新町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町タクミ田
+    rdfs:label "井川町タクミ田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町田中
+    rdfs:label "井川町田中"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町辻
+    rdfs:label "井川町辻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町中岡
+    rdfs:label "井川町中岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町仲ノ町
+    rdfs:label "井川町仲ノ町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町中村西
+    rdfs:label "井川町中村西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町中村東
+    rdfs:label "井川町中村東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町中村南
+    rdfs:label "井川町中村南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町流堂
+    rdfs:label "井川町流堂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町西井川
+    rdfs:label "井川町西井川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町野津後
+    rdfs:label "井川町野津後"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町野津後流
+    rdfs:label "井川町野津後流"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町八幡
+    rdfs:label "井川町八幡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町浜西
+    rdfs:label "井川町浜西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町浜東
+    rdfs:label "井川町浜東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町本町
+    rdfs:label "井川町本町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町向坂
+    rdfs:label "井川町向坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市井川町吉岡
+    rdfs:label "井川町吉岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町イケミナミ
+    rdfs:label "池田町イケミナミ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町イタノ
+    rdfs:label "池田町イタノ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町ウエノ
+    rdfs:label "池田町ウエノ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町ウエマツ
+    rdfs:label "池田町ウエマツ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町馬路
+    rdfs:label "池田町馬路"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町大利
+    rdfs:label "池田町大利"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町川崎
+    rdfs:label "池田町川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町クヤウジ
+    rdfs:label "池田町クヤウジ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町佐野
+    rdfs:label "池田町佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町サラダ
+    rdfs:label "池田町サラダ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町漆川
+    rdfs:label "池田町漆川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町シマ
+    rdfs:label "池田町シマ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町州津
+    rdfs:label "池田町州津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町シンマチ
+    rdfs:label "池田町シンマチ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町シンヤマ
+    rdfs:label "池田町シンヤマ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町トウゲ
+    rdfs:label "池田町トウゲ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町中津川
+    rdfs:label "池田町中津川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町中西
+    rdfs:label "池田町中西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山
+    rdfs:label "池田町西山"@ja ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山上久保 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山落 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山蔭 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山樫ノ下 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山上中尾 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山岸ノ上 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山込野 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山下ノ浦 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山谷浦 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山乳ノ木 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山乳ノ木道北 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山津寺 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山坪尻 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山中尾 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山中塚 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山西谷 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山西ノ岡 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山登リ尾 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山船原 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山宮ノ西 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山宮ノ東 ;
+    mo:SubRegion mr:JP_徳島県三好市池田町西山横佐古 ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山上久保
+    rdfs:label "上久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山落
+    rdfs:label "落"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山蔭
+    rdfs:label "蔭"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山樫ノ下
+    rdfs:label "樫ノ下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山上中尾
+    rdfs:label "上中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山岸ノ上
+    rdfs:label "岸ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山込野
+    rdfs:label "込野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山下ノ浦
+    rdfs:label "下ノ浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山谷浦
+    rdfs:label "谷浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山乳ノ木
+    rdfs:label "乳ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山乳ノ木道北
+    rdfs:label "乳ノ木道北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山津寺
+    rdfs:label "津寺"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山坪尻
+    rdfs:label "坪尻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山中尾
+    rdfs:label "中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山中塚
+    rdfs:label "中塚"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山西谷
+    rdfs:label "西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山西ノ岡
+    rdfs:label "西ノ岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山登リ尾
+    rdfs:label "登リ尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山船原
+    rdfs:label "船原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山宮ノ西
+    rdfs:label "宮ノ西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山宮ノ東
+    rdfs:label "宮ノ東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町西山横佐古
+    rdfs:label "横佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町白地
+    rdfs:label "池田町白地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町ハヤシ
+    rdfs:label "池田町ハヤシ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町マチ
+    rdfs:label "池田町マチ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町松尾
+    rdfs:label "池田町松尾"@ja ;
+    mo:SubRegion mr:JP_徳島県三好市池田町松尾祖谷温泉 ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町松尾祖谷温泉
+    rdfs:label "祖谷温泉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町ヤサン
+    rdfs:label "池田町ヤサン"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市池田町ヤマダ
+    rdfs:label "池田町ヤマダ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村吾橋
+    rdfs:label "西祖谷山村吾橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村有瀬
+    rdfs:label "西祖谷山村有瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村一宇
+    rdfs:label "西祖谷山村一宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村今久保
+    rdfs:label "西祖谷山村今久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村後山
+    rdfs:label "西祖谷山村後山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村後山西
+    rdfs:label "西祖谷山村後山西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村後山向
+    rdfs:label "西祖谷山村後山向"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村榎
+    rdfs:label "西祖谷山村榎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村尾井ノ内
+    rdfs:label "西祖谷山村尾井ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村小祖谷
+    rdfs:label "西祖谷山村小祖谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村上吾橋
+    rdfs:label "西祖谷山村上吾橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村閑定
+    rdfs:label "西祖谷山村閑定"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村坂瀬
+    rdfs:label "西祖谷山村坂瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村重末
+    rdfs:label "西祖谷山村重末"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村下吾橋
+    rdfs:label "西祖谷山村下吾橋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村下名
+    rdfs:label "西祖谷山村下名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村善徳
+    rdfs:label "西祖谷山村善徳"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村田ノ内
+    rdfs:label "西祖谷山村田ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村土日浦
+    rdfs:label "西祖谷山村土日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村徳善
+    rdfs:label "西祖谷山村徳善"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村徳善北
+    rdfs:label "西祖谷山村徳善北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村徳善西
+    rdfs:label "西祖谷山村徳善西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村戸ノ谷
+    rdfs:label "西祖谷山村戸ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村中尾
+    rdfs:label "西祖谷山村中尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村西岡
+    rdfs:label "西祖谷山村西岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村眠谷
+    rdfs:label "西祖谷山村眠谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村東西岡
+    rdfs:label "西祖谷山村東西岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村東山
+    rdfs:label "西祖谷山村東山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村南山
+    rdfs:label "西祖谷山村南山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市西祖谷山村冥地
+    rdfs:label "西祖谷山村冥地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷阿佐
+    rdfs:label "東祖谷阿佐"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷今井
+    rdfs:label "東祖谷今井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷大枝
+    rdfs:label "東祖谷大枝"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷大西
+    rdfs:label "東祖谷大西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷小川
+    rdfs:label "東祖谷小川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷奥の井
+    rdfs:label "東祖谷奥の井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷小島
+    rdfs:label "東祖谷小島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷落合
+    rdfs:label "東祖谷落合"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷樫尾
+    rdfs:label "東祖谷樫尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷釜ケ谷
+    rdfs:label "東祖谷釜ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷京上
+    rdfs:label "東祖谷京上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷九鬼
+    rdfs:label "東祖谷九鬼"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷久保
+    rdfs:label "東祖谷久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷栗枝渡
+    rdfs:label "東祖谷栗枝渡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷古味
+    rdfs:label "東祖谷古味"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷佐野
+    rdfs:label "東祖谷佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷下瀬
+    rdfs:label "東祖谷下瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷菅生
+    rdfs:label "東祖谷菅生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷高野
+    rdfs:label "東祖谷高野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷釣井
+    rdfs:label "東祖谷釣井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷中上
+    rdfs:label "東祖谷中上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷新居屋
+    rdfs:label "東祖谷新居屋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷西山
+    rdfs:label "東祖谷西山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷林
+    rdfs:label "東祖谷林"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷見ノ越
+    rdfs:label "東祖谷見ノ越"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷麦生土
+    rdfs:label "東祖谷麦生土"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷元井
+    rdfs:label "東祖谷元井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷若林
+    rdfs:label "東祖谷若林"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市東祖谷和田
+    rdfs:label "東祖谷和田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市三野町加茂野宮
+    rdfs:label "三野町加茂野宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市三野町芝生
+    rdfs:label "三野町芝生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市三野町清水
+    rdfs:label "三野町清水"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市三野町勢力
+    rdfs:label "三野町勢力"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市三野町太刀野
+    rdfs:label "三野町太刀野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市三野町太刀野山
+    rdfs:label "三野町太刀野山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町相川
+    rdfs:label "山城町相川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町赤谷
+    rdfs:label "山城町赤谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町粟山
+    rdfs:label "山城町粟山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町岩戸
+    rdfs:label "山城町岩戸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町大川持
+    rdfs:label "山城町大川持"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町大谷
+    rdfs:label "山城町大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町大月
+    rdfs:label "山城町大月"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町大野
+    rdfs:label "山城町大野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町小川谷
+    rdfs:label "山城町小川谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町尾又
+    rdfs:label "山城町尾又"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町上名
+    rdfs:label "山城町上名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町川口
+    rdfs:label "山城町川口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町国政
+    rdfs:label "山城町国政"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町黒川
+    rdfs:label "山城町黒川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町佐連
+    rdfs:label "山城町佐連"@ja ;
+    mo:SubRegion mr:JP_徳島県三好市山城町佐連ミネ畑 ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町佐連ミネ畑
+    rdfs:label "ミネ畑"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町重実
+    rdfs:label "山城町重実"@ja ;
+    mo:SubRegion mr:JP_徳島県三好市山城町重実殿野 ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町重実殿野
+    rdfs:label "殿野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町柴川
+    rdfs:label "山城町柴川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町下川
+    rdfs:label "山城町下川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町下名
+    rdfs:label "山城町下名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町白川
+    rdfs:label "山城町白川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町末貞
+    rdfs:label "山城町末貞"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町瀬貝
+    rdfs:label "山城町瀬貝"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町平野
+    rdfs:label "山城町平野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町寺野
+    rdfs:label "山城町寺野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町中野
+    rdfs:label "山城町中野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町中ノ瀬
+    rdfs:label "山城町中ノ瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町西宇
+    rdfs:label "山城町西宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町信正
+    rdfs:label "山城町信正"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町八千坊
+    rdfs:label "山城町八千坊"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町引地
+    rdfs:label "山城町引地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町仏子
+    rdfs:label "山城町仏子"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町政友
+    rdfs:label "山城町政友"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町光兼
+    rdfs:label "山城町光兼"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町茂地
+    rdfs:label "山城町茂地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町大和川
+    rdfs:label "山城町大和川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町頼広
+    rdfs:label "山城町頼広"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町若山
+    rdfs:label "山城町若山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好市山城町脇
+    rdfs:label "山城町脇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡勝浦町
+    rdfs:label "勝浦郡勝浦町"@ja ;
+    mo:AreaCode "36301" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町生名 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町坂本 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町棚野 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町中角 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町沼江 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町久国 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町星谷 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡勝浦町三渓 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県勝浦郡勝浦町生名
+    rdfs:label "生名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡勝浦町坂本
+    rdfs:label "坂本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡勝浦町棚野
+    rdfs:label "棚野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡勝浦町中角
+    rdfs:label "中角"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡勝浦町沼江
+    rdfs:label "沼江"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡勝浦町久国
+    rdfs:label "久国"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡勝浦町星谷
+    rdfs:label "星谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡勝浦町三渓
+    rdfs:label "三渓"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡上勝町
+    rdfs:label "勝浦郡上勝町"@ja ;
+    mo:AreaCode "36302" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡上勝町旭 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡上勝町生実 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡上勝町福原 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡上勝町傍示 ;
+    mo:SubRegion mr:JP_徳島県勝浦郡上勝町正木 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県勝浦郡上勝町旭
+    rdfs:label "旭"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡上勝町生実
+    rdfs:label "生実"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡上勝町福原
+    rdfs:label "福原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡上勝町傍示
+    rdfs:label "傍示"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県勝浦郡上勝町正木
+    rdfs:label "正木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名東郡佐那河内村
+    rdfs:label "名東郡佐那河内村"@ja ;
+    mo:AreaCode "36321" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県名東郡佐那河内村上 ;
+    mo:SubRegion mr:JP_徳島県名東郡佐那河内村下 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県名東郡佐那河内村上
+    rdfs:label "上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名東郡佐那河内村下
+    rdfs:label "下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町
+    rdfs:label "名西郡石井町"@ja ;
+    mo:AreaCode "36341" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町藍畑 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町石井 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町浦庄 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高川原 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県名西郡石井町藍畑
+    rdfs:label "藍畑"@ja ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町藍畑高畑 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町藍畑第十 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町藍畑東覚円 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町藍畑西覚円 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町藍畑竜王 ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町藍畑高畑
+    rdfs:label "高畑"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町藍畑第十
+    rdfs:label "第十"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町藍畑東覚円
+    rdfs:label "東覚円"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町藍畑西覚円
+    rdfs:label "西覚円"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町藍畑竜王
+    rdfs:label "竜王"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町石井
+    rdfs:label "石井"@ja ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町石井石井 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町石井内谷 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町石井重松 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町石井白鳥 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町石井城の内 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町石井尼寺 ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町石井石井
+    rdfs:label "石井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町石井内谷
+    rdfs:label "内谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町石井重松
+    rdfs:label "重松"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町石井白鳥
+    rdfs:label "白鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町石井城の内
+    rdfs:label "城の内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町石井尼寺
+    rdfs:label "尼寺"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町浦庄
+    rdfs:label "浦庄"@ja ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町浦庄上浦 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町浦庄国実 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町浦庄下浦 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町浦庄諏訪 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町浦庄大万 ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町浦庄上浦
+    rdfs:label "上浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町浦庄国実
+    rdfs:label "国実"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町浦庄下浦
+    rdfs:label "下浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町浦庄諏訪
+    rdfs:label "諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町浦庄大万
+    rdfs:label "大万"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高川原
+    rdfs:label "高川原"@ja ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高川原市楽 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高川原加茂野 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高川原桜間 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高川原高川原 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高川原天神 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高川原南島 ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高川原市楽
+    rdfs:label "市楽"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高川原加茂野
+    rdfs:label "加茂野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高川原桜間
+    rdfs:label "桜間"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高川原高川原
+    rdfs:label "高川原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高川原天神
+    rdfs:label "天神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高川原南島
+    rdfs:label "南島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原
+    rdfs:label "高原"@ja ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原池北 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原桑島 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原関 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原中島 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原中須 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原東高原 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原西高原 ;
+    mo:SubRegion mr:JP_徳島県名西郡石井町高原平島 ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原池北
+    rdfs:label "池北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原桑島
+    rdfs:label "桑島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原関
+    rdfs:label "関"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原中島
+    rdfs:label "中島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原中須
+    rdfs:label "中須"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原東高原
+    rdfs:label "東高原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原西高原
+    rdfs:label "西高原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡石井町高原平島
+    rdfs:label "平島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町
+    rdfs:label "名西郡神山町"@ja ;
+    mo:AreaCode "36342" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町鬼籠野 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町上分 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町下分 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町神領 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県名西郡神山町阿野
+    rdfs:label "阿野"@ja ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野石堂 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野井ノ谷 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野宇度木 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野上河内 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野川平 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野黒木 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野駒坂 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野地ノ平 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野神木 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野須賀 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野長瀬 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野長代 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野二ノ宮 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野日浦 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野東代次 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野広石 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野福原 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野府中 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野船底 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野本名 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野松尾 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野宮分 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野屋那瀬 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町阿野代次 ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野石堂
+    rdfs:label "石堂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野井ノ谷
+    rdfs:label "井ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野宇度木
+    rdfs:label "宇度木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野上河内
+    rdfs:label "上河内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野川平
+    rdfs:label "川平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野黒木
+    rdfs:label "黒木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野駒坂
+    rdfs:label "駒坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野地ノ平
+    rdfs:label "地ノ平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野神木
+    rdfs:label "神木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野須賀
+    rdfs:label "須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野長瀬
+    rdfs:label "長瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野長代
+    rdfs:label "長代"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野二ノ宮
+    rdfs:label "二ノ宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野日浦
+    rdfs:label "日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野東代次
+    rdfs:label "東代次"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野広石
+    rdfs:label "広石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野福原
+    rdfs:label "福原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野府中
+    rdfs:label "府中"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野船底
+    rdfs:label "船底"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野本名
+    rdfs:label "本名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野松尾
+    rdfs:label "松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野宮分
+    rdfs:label "宮分"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野屋那瀬
+    rdfs:label "屋那瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町阿野代次
+    rdfs:label "代次"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町鬼籠野
+    rdfs:label "鬼籠野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町上分
+    rdfs:label "上分"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町下分
+    rdfs:label "下分"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町神領
+    rdfs:label "神領"@ja ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町神領石堂 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町神領川北 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町神領北 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町神領谷 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町神領東野間 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町神領西野間 ;
+    mo:SubRegion mr:JP_徳島県名西郡神山町神領本野間 ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町神領石堂
+    rdfs:label "石堂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町神領川北
+    rdfs:label "川北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町神領北
+    rdfs:label "北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町神領谷
+    rdfs:label "谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町神領東野間
+    rdfs:label "東野間"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町神領西野間
+    rdfs:label "西野間"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県名西郡神山町神領本野間
+    rdfs:label "本野間"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町
+    rdfs:label "那賀郡那賀町"@ja ;
+    mo:AreaCode "36368" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町阿井 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町鮎川 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町相名 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町朝生 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町阿津江 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町出羽 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町井ノ谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町入野 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町岩倉 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町請ノ谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町牛輪 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町臼ケ谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町内山 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町馬路 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町榎谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町大久保 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町大戸 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町大殿 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町小畠 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町音谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町雄 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町海川 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町蔭谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町掛盤 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町川成 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町川俣 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭出原 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭折宇 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭北川 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭助 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭西宇 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭南宇 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭和無田 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町木頭名 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町小泉 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町御所谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町小仁宇 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町小計 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町小浜 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町坂州 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町桜谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町沢谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町丈ケ谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町菖蒲 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町白石 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町高野 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町竹ケ谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町谷内 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町寺内 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町当山 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町土佐 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町長安 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町中山 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町成瀬 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町仁宇 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町西納 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町延野 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町拝宮 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町鉢 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町花瀬 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町日浦 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町東尾 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町桧曽根 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町日真 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町平谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町平野 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町深森 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町府殿 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町古屋 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町朴野 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町水崎 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町百合 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町百合谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町簗ノ上 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町横石 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町横谷 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町吉野 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町和食 ;
+    mo:SubRegion mr:JP_徳島県那賀郡那賀町和食郷 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県那賀郡那賀町阿井
+    rdfs:label "阿井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町鮎川
+    rdfs:label "鮎川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町相名
+    rdfs:label "相名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町朝生
+    rdfs:label "朝生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町阿津江
+    rdfs:label "阿津江"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町出羽
+    rdfs:label "出羽"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町井ノ谷
+    rdfs:label "井ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町入野
+    rdfs:label "入野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町岩倉
+    rdfs:label "岩倉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町請ノ谷
+    rdfs:label "請ノ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町牛輪
+    rdfs:label "牛輪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町臼ケ谷
+    rdfs:label "臼ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町内山
+    rdfs:label "内山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町馬路
+    rdfs:label "馬路"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町榎谷
+    rdfs:label "榎谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町大戸
+    rdfs:label "大戸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町大殿
+    rdfs:label "大殿"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町小畠
+    rdfs:label "小畠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町音谷
+    rdfs:label "音谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町雄
+    rdfs:label "雄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町海川
+    rdfs:label "海川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町蔭谷
+    rdfs:label "蔭谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町掛盤
+    rdfs:label "掛盤"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町川成
+    rdfs:label "川成"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町川俣
+    rdfs:label "川俣"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭
+    rdfs:label "木頭"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭出原
+    rdfs:label "木頭出原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭折宇
+    rdfs:label "木頭折宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭北川
+    rdfs:label "木頭北川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭助
+    rdfs:label "木頭助"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭西宇
+    rdfs:label "木頭西宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭南宇
+    rdfs:label "木頭南宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭和無田
+    rdfs:label "木頭和無田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町木頭名
+    rdfs:label "木頭名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町小泉
+    rdfs:label "小泉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町御所谷
+    rdfs:label "御所谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町小仁宇
+    rdfs:label "小仁宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町小計
+    rdfs:label "小計"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町小浜
+    rdfs:label "小浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町坂州
+    rdfs:label "坂州"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町桜谷
+    rdfs:label "桜谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町沢谷
+    rdfs:label "沢谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町丈ケ谷
+    rdfs:label "丈ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町菖蒲
+    rdfs:label "菖蒲"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町白石
+    rdfs:label "白石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町高野
+    rdfs:label "高野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町竹ケ谷
+    rdfs:label "竹ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町谷内
+    rdfs:label "谷内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町寺内
+    rdfs:label "寺内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町当山
+    rdfs:label "当山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町土佐
+    rdfs:label "土佐"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町長安
+    rdfs:label "長安"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町成瀬
+    rdfs:label "成瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町仁宇
+    rdfs:label "仁宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町西納
+    rdfs:label "西納"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町延野
+    rdfs:label "延野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町拝宮
+    rdfs:label "拝宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町鉢
+    rdfs:label "鉢"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町花瀬
+    rdfs:label "花瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町日浦
+    rdfs:label "日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町東尾
+    rdfs:label "東尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町桧曽根
+    rdfs:label "桧曽根"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町日真
+    rdfs:label "日真"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町平谷
+    rdfs:label "平谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町深森
+    rdfs:label "深森"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町府殿
+    rdfs:label "府殿"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町古屋
+    rdfs:label "古屋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町朴野
+    rdfs:label "朴野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町水崎
+    rdfs:label "水崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町百合
+    rdfs:label "百合"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町百合谷
+    rdfs:label "百合谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町簗ノ上
+    rdfs:label "簗ノ上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町横石
+    rdfs:label "横石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町横谷
+    rdfs:label "横谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町吉野
+    rdfs:label "吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町和食
+    rdfs:label "和食"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県那賀郡那賀町和食郷
+    rdfs:label "和食郷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町
+    rdfs:label "海部郡牟岐町"@ja ;
+    mo:AreaCode "36383" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町内妻 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町川長 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町河内 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町橘 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町中村 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町灘 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町辺川 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町牟岐浦 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県海部郡牟岐町内妻
+    rdfs:label "内妻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町川長
+    rdfs:label "川長"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町橘
+    rdfs:label "橘"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町灘
+    rdfs:label "灘"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町辺川
+    rdfs:label "辺川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町牟岐浦
+    rdfs:label "牟岐浦"@ja ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町牟岐浦出羽島 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町牟岐浦浜崎 ;
+    mo:SubRegion mr:JP_徳島県海部郡牟岐町牟岐浦宮ノ本 ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町牟岐浦出羽島
+    rdfs:label "出羽島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町牟岐浦浜崎
+    rdfs:label "浜崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡牟岐町牟岐浦宮ノ本
+    rdfs:label "宮ノ本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町
+    rdfs:label "海部郡美波町"@ja ;
+    mo:AreaCode "36387" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町赤松 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町阿部 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町伊座利 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町恵比須浜 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町奥河内 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町木岐 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町北河内 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町志和岐 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町田井 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町西河内 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町西の地 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町西由岐 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町東由岐 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町日和佐浦 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町港町 ;
+    mo:SubRegion mr:JP_徳島県海部郡美波町山河内 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県海部郡美波町赤松
+    rdfs:label "赤松"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町阿部
+    rdfs:label "阿部"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町伊座利
+    rdfs:label "伊座利"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町恵比須浜
+    rdfs:label "恵比須浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町奥河内
+    rdfs:label "奥河内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町木岐
+    rdfs:label "木岐"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町北河内
+    rdfs:label "北河内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町志和岐
+    rdfs:label "志和岐"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町田井
+    rdfs:label "田井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町西河内
+    rdfs:label "西河内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町西の地
+    rdfs:label "西の地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町西由岐
+    rdfs:label "西由岐"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町東由岐
+    rdfs:label "東由岐"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町日和佐浦
+    rdfs:label "日和佐浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡美波町山河内
+    rdfs:label "山河内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町
+    rdfs:label "海部郡海陽町"@ja ;
+    mo:AreaCode "36388" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町相川 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町浅川 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町大井 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町大里 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町小川 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町奥浦 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町尾崎 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町角坂 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町久尾 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町芥附 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町櫛川 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町久保 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町神野 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町小谷 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町塩深 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町宍喰浦 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町芝 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町四方原 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町熟田 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町高園 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町多良 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町富田 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町鞆浦 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町中山 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町野江 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町日比原 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町平井 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町広岡 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町船津 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町吉田 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町吉野 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町若松 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県海部郡海陽町相川
+    rdfs:label "相川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町浅川
+    rdfs:label "浅川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町大井
+    rdfs:label "大井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町大里
+    rdfs:label "大里"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町奥浦
+    rdfs:label "奥浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町尾崎
+    rdfs:label "尾崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町角坂
+    rdfs:label "角坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町久尾
+    rdfs:label "久尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町芥附
+    rdfs:label "芥附"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町櫛川
+    rdfs:label "櫛川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町久保
+    rdfs:label "久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町神野
+    rdfs:label "神野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町小谷
+    rdfs:label "小谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町塩深
+    rdfs:label "塩深"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町宍喰浦
+    rdfs:label "宍喰浦"@ja ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町宍喰浦竹ケ島 ;
+    mo:SubRegion mr:JP_徳島県海部郡海陽町宍喰浦那佐 ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町宍喰浦竹ケ島
+    rdfs:label "竹ケ島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町宍喰浦那佐
+    rdfs:label "那佐"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町芝
+    rdfs:label "芝"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町四方原
+    rdfs:label "四方原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町熟田
+    rdfs:label "熟田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町高園
+    rdfs:label "高園"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町多良
+    rdfs:label "多良"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町富田
+    rdfs:label "富田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町鞆浦
+    rdfs:label "鞆浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町野江
+    rdfs:label "野江"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町日比原
+    rdfs:label "日比原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町平井
+    rdfs:label "平井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町広岡
+    rdfs:label "広岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町船津
+    rdfs:label "船津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町吉田
+    rdfs:label "吉田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町吉野
+    rdfs:label "吉野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県海部郡海陽町若松
+    rdfs:label "若松"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町
+    rdfs:label "板野郡松茂町"@ja ;
+    mo:AreaCode "36401" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町笹木野 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町住吉 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町豊岡 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町豊中 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町豊久 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町中喜来 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町長岸 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町長原 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町広島 ;
+    mo:SubRegion mr:JP_徳島県板野郡松茂町満穂 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県板野郡松茂町笹木野
+    rdfs:label "笹木野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町住吉
+    rdfs:label "住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町豊岡
+    rdfs:label "豊岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町豊中
+    rdfs:label "豊中"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町豊久
+    rdfs:label "豊久"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町中喜来
+    rdfs:label "中喜来"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町長岸
+    rdfs:label "長岸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町長原
+    rdfs:label "長原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町広島
+    rdfs:label "広島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡松茂町満穂
+    rdfs:label "満穂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡北島町
+    rdfs:label "板野郡北島町"@ja ;
+    mo:AreaCode "36402" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県板野郡北島町江尻 ;
+    mo:SubRegion mr:JP_徳島県板野郡北島町北村 ;
+    mo:SubRegion mr:JP_徳島県板野郡北島町新喜来 ;
+    mo:SubRegion mr:JP_徳島県板野郡北島町鯛浜 ;
+    mo:SubRegion mr:JP_徳島県板野郡北島町高房 ;
+    mo:SubRegion mr:JP_徳島県板野郡北島町太郎八須 ;
+    mo:SubRegion mr:JP_徳島県板野郡北島町中村 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県板野郡北島町江尻
+    rdfs:label "江尻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡北島町北村
+    rdfs:label "北村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡北島町新喜来
+    rdfs:label "新喜来"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡北島町鯛浜
+    rdfs:label "鯛浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡北島町高房
+    rdfs:label "高房"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡北島町太郎八須
+    rdfs:label "太郎八須"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡北島町中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町
+    rdfs:label "板野郡藍住町"@ja ;
+    mo:AreaCode "36403" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町奥野 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町乙瀬 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町笠木 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町勝瑞 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町住吉 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町徳命 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町富吉 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町矢上 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県板野郡藍住町奥野
+    rdfs:label "奥野"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町奥野猪熊 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町奥野東中須 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町奥野前川 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町奥野矢上前 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町奥野和田 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町奥野猪熊
+    rdfs:label "猪熊"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町奥野東中須
+    rdfs:label "東中須"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町奥野前川
+    rdfs:label "前川"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町奥野矢上前
+    rdfs:label "矢上前"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町奥野和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町乙瀬
+    rdfs:label "乙瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町笠木
+    rdfs:label "笠木"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町笠木中野 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町笠木東野 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町笠木西野 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町笠木中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町笠木東野
+    rdfs:label "東野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町笠木西野
+    rdfs:label "西野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町勝瑞
+    rdfs:label "勝瑞"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町勝瑞幸島 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町勝瑞正喜地 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町勝瑞成長 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町勝瑞東勝地 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町勝瑞幸島
+    rdfs:label "幸島"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町勝瑞正喜地
+    rdfs:label "正喜地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町勝瑞成長
+    rdfs:label "成長"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町勝瑞東勝地
+    rdfs:label "東勝地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町住吉
+    rdfs:label "住吉"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町住吉乾 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町住吉江端 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町住吉逆藤 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町住吉神蔵 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町住吉千鳥ケ浜 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町住吉藤ノ木 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町住吉若宮 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町住吉乾
+    rdfs:label "乾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町住吉江端
+    rdfs:label "江端"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町住吉逆藤
+    rdfs:label "逆藤"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町住吉神蔵
+    rdfs:label "神蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町住吉千鳥ケ浜
+    rdfs:label "千鳥ケ浜"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町住吉藤ノ木
+    rdfs:label "藤ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町住吉若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町徳命
+    rdfs:label "徳命"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町徳命前須東 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町徳命前須西 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町徳命元村 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町徳命元村東 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町徳命前須東
+    rdfs:label "前須東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町徳命前須西
+    rdfs:label "前須西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町徳命元村
+    rdfs:label "元村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町徳命元村東
+    rdfs:label "元村東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町富吉
+    rdfs:label "富吉"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町富吉地神 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町富吉須崎 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町富吉富吉 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町富吉豊吉 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町富吉穂実 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町富吉地神
+    rdfs:label "地神"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町富吉須崎
+    rdfs:label "須崎"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町富吉富吉
+    rdfs:label "富吉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町富吉豊吉
+    rdfs:label "豊吉"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町富吉穂実
+    rdfs:label "穂実"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富
+    rdfs:label "東中富"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富大塚傍示 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富北傍示 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富慶長 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富敷地傍示 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富貞享 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富天王傍示 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富長江傍示 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富東安永 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富西安永 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町東中富鑓場傍示 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富大塚傍示
+    rdfs:label "大塚傍示"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富北傍示
+    rdfs:label "北傍示"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富慶長
+    rdfs:label "慶長"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富敷地傍示
+    rdfs:label "敷地傍示"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富貞享
+    rdfs:label "貞享"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富天王傍示
+    rdfs:label "天王傍示"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富長江傍示
+    rdfs:label "長江傍示"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富東安永
+    rdfs:label "東安永"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富西安永
+    rdfs:label "西安永"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町東中富鑓場傍示
+    rdfs:label "鑓場傍示"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町矢上
+    rdfs:label "矢上"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町矢上江ノ口 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町矢上春日 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町矢上北分 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町矢上西 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町矢上原 ;
+    mo:SubRegion mr:JP_徳島県板野郡藍住町矢上安任 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町矢上江ノ口
+    rdfs:label "江ノ口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町矢上春日
+    rdfs:label "春日"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町矢上北分
+    rdfs:label "北分"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町矢上西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町矢上原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡藍住町矢上安任
+    rdfs:label "安任"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町
+    rdfs:label "板野郡板野町"@ja ;
+    mo:AreaCode "36404" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町犬伏 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町大坂 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町大寺 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町川端 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町黒谷 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町下庄 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町唐園 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町中久保 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町那東 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町西中富 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町吹田 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町古城 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町松谷 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町矢武 ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町羅漢 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県板野郡板野町犬伏
+    rdfs:label "犬伏"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町大坂
+    rdfs:label "大坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町大寺
+    rdfs:label "大寺"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町大寺岡ノ宮 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町大寺岡ノ宮
+    rdfs:label "岡ノ宮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町川端
+    rdfs:label "川端"@ja ;
+    mo:SubRegion mr:JP_徳島県板野郡板野町川端新田 ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町川端新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町黒谷
+    rdfs:label "黒谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町下庄
+    rdfs:label "下庄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町唐園
+    rdfs:label "唐園"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町中久保
+    rdfs:label "中久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町那東
+    rdfs:label "那東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町西中富
+    rdfs:label "西中富"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町吹田
+    rdfs:label "吹田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町古城
+    rdfs:label "古城"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町松谷
+    rdfs:label "松谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町矢武
+    rdfs:label "矢武"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡板野町羅漢
+    rdfs:label "羅漢"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町
+    rdfs:label "板野郡上板町"@ja ;
+    mo:AreaCode "36405" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町泉谷 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町鍛冶屋原 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町上六條 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町神宅 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町佐藤塚 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町椎本 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町七條 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町下六條 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町瀬部 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町第十新田 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町高磯 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町高瀬 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町西分 ;
+    mo:SubRegion mr:JP_徳島県板野郡上板町引野 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県板野郡上板町泉谷
+    rdfs:label "泉谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町鍛冶屋原
+    rdfs:label "鍛冶屋原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町上六條
+    rdfs:label "上六條"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町神宅
+    rdfs:label "神宅"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町佐藤塚
+    rdfs:label "佐藤塚"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町椎本
+    rdfs:label "椎本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町七條
+    rdfs:label "七條"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町下六條
+    rdfs:label "下六條"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町瀬部
+    rdfs:label "瀬部"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町第十新田
+    rdfs:label "第十新田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町高磯
+    rdfs:label "高磯"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町高瀬
+    rdfs:label "高瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町西分
+    rdfs:label "西分"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県板野郡上板町引野
+    rdfs:label "引野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町
+    rdfs:label "美馬郡つるぎ町"@ja ;
+    mo:AreaCode "36468" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県美馬郡つるぎ町一宇
+    rdfs:label "一宇"@ja ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇赤松 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇寺地 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇出羽 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇臼木 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇漆日浦 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇大屋内 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇白井 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇平 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇明谷 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇一宇 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇蔭 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇樫地 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇剪宇 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇太刀之本 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇伊良原 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇大野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇九藤中 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇子安 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇久藪 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇漆野瀬 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇河内 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇桑平 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇葛籠 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇平井 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇廣澤 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇法正 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇大佐古 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇奥大野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇川又 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇實平 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇中野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇大横 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇木地屋 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇切越 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇十家 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町一宇中横 ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇赤松
+    rdfs:label "赤松"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇寺地
+    rdfs:label "寺地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇出羽
+    rdfs:label "出羽"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇臼木
+    rdfs:label "臼木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇漆日浦
+    rdfs:label "漆日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇大屋内
+    rdfs:label "大屋内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇白井
+    rdfs:label "白井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇平
+    rdfs:label "平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇明谷
+    rdfs:label "明谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇一宇
+    rdfs:label "一宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇蔭
+    rdfs:label "蔭"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇樫地
+    rdfs:label "樫地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇剪宇
+    rdfs:label "剪宇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇太刀之本
+    rdfs:label "太刀之本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇伊良原
+    rdfs:label "伊良原"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇大野
+    rdfs:label "大野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇九藤中
+    rdfs:label "九藤中"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇子安
+    rdfs:label "子安"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇久藪
+    rdfs:label "久藪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇漆野瀬
+    rdfs:label "漆野瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇桑平
+    rdfs:label "桑平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇葛籠
+    rdfs:label "葛籠"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇平井
+    rdfs:label "平井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇廣澤
+    rdfs:label "廣澤"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇法正
+    rdfs:label "法正"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇大佐古
+    rdfs:label "大佐古"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇奥大野
+    rdfs:label "奥大野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇川又
+    rdfs:label "川又"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇實平
+    rdfs:label "實平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇大横
+    rdfs:label "大横"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇木地屋
+    rdfs:label "木地屋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇切越
+    rdfs:label "切越"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇十家
+    rdfs:label "十家"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町一宇中横
+    rdfs:label "中横"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光
+    rdfs:label "貞光"@ja ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光馬出 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光大須賀 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光中須賀 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光西浦 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光東浦 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光町 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光宮下 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光浦山 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光乙部 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光皆瀬 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光竹屋敷 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光長谷 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光西丸井 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光引地 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光宅熊 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光江ノ脇 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光岡 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光せせらぎ ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光宮内 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光大久保 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光皆瀬川向 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光捨子谷南 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光捨子谷北 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光谷向 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光中山 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光西谷 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光白村 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光太田西 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光太田東 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光太田東山 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光小長谷 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光小山北 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光柴内 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光柴山 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光僧地 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光僧山 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光川見 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光川見津 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光川見西 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光長瀬 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光日浦川向 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光東丸井 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光三木枋 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光森ノ本 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光吉良 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光木屋 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光猿飼 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光成谷 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光日浦 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光宮平 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光横野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光家賀道上 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光家賀道下 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光平野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光長木 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光長木影 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光広谷 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光広谷影 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光広谷東 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光大坊 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光辻 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光西山 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光野口 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光平石 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光別所 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町貞光前田 ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光馬出
+    rdfs:label "馬出"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光大須賀
+    rdfs:label "大須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光中須賀
+    rdfs:label "中須賀"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光西浦
+    rdfs:label "西浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光東浦
+    rdfs:label "東浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光町
+    rdfs:label "町"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光宮下
+    rdfs:label "宮下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光浦山
+    rdfs:label "浦山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光乙部
+    rdfs:label "乙部"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光皆瀬
+    rdfs:label "皆瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光竹屋敷
+    rdfs:label "竹屋敷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光長谷
+    rdfs:label "長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光西丸井
+    rdfs:label "西丸井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光引地
+    rdfs:label "引地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光宅熊
+    rdfs:label "宅熊"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光江ノ脇
+    rdfs:label "江ノ脇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光岡
+    rdfs:label "岡"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光せせらぎ
+    rdfs:label "せせらぎ"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光宮内
+    rdfs:label "宮内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光皆瀬川向
+    rdfs:label "皆瀬川向"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光捨子谷南
+    rdfs:label "捨子谷南"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光捨子谷北
+    rdfs:label "捨子谷北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光谷向
+    rdfs:label "谷向"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光西谷
+    rdfs:label "西谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光白村
+    rdfs:label "白村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光太田西
+    rdfs:label "太田西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光太田東
+    rdfs:label "太田東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光太田東山
+    rdfs:label "太田東山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光小長谷
+    rdfs:label "小長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光小山北
+    rdfs:label "小山北"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光柴内
+    rdfs:label "柴内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光柴山
+    rdfs:label "柴山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光僧地
+    rdfs:label "僧地"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光僧山
+    rdfs:label "僧山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光川見
+    rdfs:label "川見"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光川見津
+    rdfs:label "川見津"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光川見西
+    rdfs:label "川見西"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光長瀬
+    rdfs:label "長瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光日浦川向
+    rdfs:label "日浦川向"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光東丸井
+    rdfs:label "東丸井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光三木枋
+    rdfs:label "三木枋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光森ノ本
+    rdfs:label "森ノ本"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光吉良
+    rdfs:label "吉良"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光木屋
+    rdfs:label "木屋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光猿飼
+    rdfs:label "猿飼"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光成谷
+    rdfs:label "成谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光日浦
+    rdfs:label "日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光宮平
+    rdfs:label "宮平"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光横野
+    rdfs:label "横野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光家賀道上
+    rdfs:label "家賀道上"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光家賀道下
+    rdfs:label "家賀道下"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光長木
+    rdfs:label "長木"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光長木影
+    rdfs:label "長木影"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光広谷
+    rdfs:label "広谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光広谷影
+    rdfs:label "広谷影"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光広谷東
+    rdfs:label "広谷東"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光大坊
+    rdfs:label "大坊"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光辻
+    rdfs:label "辻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光西山
+    rdfs:label "西山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光野口
+    rdfs:label "野口"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光平石
+    rdfs:label "平石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光別所
+    rdfs:label "別所"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町貞光前田
+    rdfs:label "前田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田
+    rdfs:label "半田"@ja ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田青野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田折坂 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田小井野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田高清 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田坂根 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田下尾尻 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田下竹 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田上蓮 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田日谷尾 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田上蔭 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田蔭名 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田田井 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田日浦 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田逢坂 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田小野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田天皇 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田中藪 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田松生 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田樫尾 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田紙屋 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田小谷 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田佐古戸 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田下喜来 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田葛城 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田上喜来 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田中熊 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田長野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田日開野 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田木ノ内 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田京都 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田猿飼 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田白石 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田西久保 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田東久保 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田平良石 ;
+    mo:SubRegion mr:JP_徳島県美馬郡つるぎ町半田東毛田 ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田青野
+    rdfs:label "青野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田折坂
+    rdfs:label "折坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田小井野
+    rdfs:label "小井野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田高清
+    rdfs:label "高清"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田坂根
+    rdfs:label "坂根"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田下尾尻
+    rdfs:label "下尾尻"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田下竹
+    rdfs:label "下竹"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田上蓮
+    rdfs:label "上蓮"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田日谷尾
+    rdfs:label "日谷尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田上蔭
+    rdfs:label "上蔭"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田蔭名
+    rdfs:label "蔭名"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田田井
+    rdfs:label "田井"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田日浦
+    rdfs:label "日浦"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田逢坂
+    rdfs:label "逢坂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田小野
+    rdfs:label "小野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田天皇
+    rdfs:label "天皇"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田中藪
+    rdfs:label "中藪"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田松生
+    rdfs:label "松生"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田樫尾
+    rdfs:label "樫尾"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田紙屋
+    rdfs:label "紙屋"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田小谷
+    rdfs:label "小谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田佐古戸
+    rdfs:label "佐古戸"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田下喜来
+    rdfs:label "下喜来"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田葛城
+    rdfs:label "葛城"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田上喜来
+    rdfs:label "上喜来"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田中熊
+    rdfs:label "中熊"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田長野
+    rdfs:label "長野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田日開野
+    rdfs:label "日開野"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田木ノ内
+    rdfs:label "木ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田京都
+    rdfs:label "京都"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田猿飼
+    rdfs:label "猿飼"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田白石
+    rdfs:label "白石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田西久保
+    rdfs:label "西久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田東久保
+    rdfs:label "東久保"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田平良石
+    rdfs:label "平良石"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県美馬郡つるぎ町半田東毛田
+    rdfs:label "東毛田"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町
+    rdfs:label "三好郡東みよし町"@ja ;
+    mo:AreaCode "36489" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町足代 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町加茂 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町毛田 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町中庄 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町西庄 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町東山 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町昼間 ;
+a mo:GeoEntity .
+
+mr:JP_徳島県三好郡東みよし町足代
+    rdfs:label "足代"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町加茂
+    rdfs:label "加茂"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町毛田
+    rdfs:label "毛田"@ja ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町毛田大藤 ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町毛田黒長谷 ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町毛田大藤
+    rdfs:label "大藤"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町毛田黒長谷
+    rdfs:label "黒長谷"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町中庄
+    rdfs:label "中庄"@ja ;
+    mo:SubRegion mr:JP_徳島県三好郡東みよし町中庄奥村 ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町中庄奥村
+    rdfs:label "奥村"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町西庄
+    rdfs:label "西庄"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町東山
+    rdfs:label "東山"@ja ;
+    a mo:町域 .
+
+mr:JP_徳島県三好郡東みよし町昼間
+    rdfs:label "昼間"@ja ;
+    a mo:町域 .
+
