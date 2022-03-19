@@ -117,4 +117,34 @@ mc:Region.J.9
     rdfs:label "地域情報：奄美・沖縄県地方"@ja ;
     rdfs:comment "奄美・沖縄県地方についてのカテゴリ"@ja .
 
+mc:Region.J.9.奄美
+    a mo:Category ;
+    rdfs:label "地域情報：奄美地方"@ja ;
+    rdfs:comment "奄美地方についてのカテゴリ"@ja .
+
+mc:Region.J.9.沖縄
+    a mo:Category ;
+    rdfs:label "地域情報：沖縄諸島"@ja ;
+    rdfs:comment "沖縄諸島についてのカテゴリ"@ja .
+
+mc:Region.J.9.宮古
+    a mo:Category ;
+    rdfs:label "地域情報：宮古列島"@ja ;
+    rdfs:comment "宮古列島についてのカテゴリ"@ja .
+
+mc:Region.J.9.八重山
+    a mo:Category ;
+    rdfs:label "地域情報：八重山列島"@ja ;
+    rdfs:comment "八重山列島についてのカテゴリ"@ja .
+
+mc:Region.J.9.尖閣
+    a mo:Category ;
+    rdfs:label "地域情報：尖閣諸島"@ja ;
+    rdfs:comment "尖閣諸島についてのカテゴリ"@ja .
+
+mc:Region.J.9.大東
+    a mo:Category ;
+    rdfs:label "地域情報：大東諸島"@ja ;
+    rdfs:comment "大東諸島についてのカテゴリ"@ja .
+
 
