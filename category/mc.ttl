@@ -7,8 +7,13 @@
 
 mc:Math
     a mo:Category ;
-    rdfs:label "数学カテゴリ"@ja ;
-    rdfs:comment "数学に関するカテゴリ"@ja .
+    rdfs:label "数学分野カテゴリ"@ja ;
+    rdfs:comment "数学分野に関するカテゴリ"@ja .
+
+mc:Info
+    a mo:Category ;
+    rdfs:label "情報分野カテゴリ"@ja ;
+    rdfs:comment "情報分野に関するカテゴリ"@ja .
 
 mc:Region
     a mo:Category ;
