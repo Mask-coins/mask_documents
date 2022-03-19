@@ -1,0 +1,8680 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_東京都
+    a mo:都道府県 ;
+    rdfs:label "東京都"@ja ;
+    mo:AreaCode "13" ;
+    mo:SubRegion mr:JP_東京都千代田区 ;
+    mo:SubRegion mr:JP_東京都中央区 ;
+    mo:SubRegion mr:JP_東京都港区 ;
+    mo:SubRegion mr:JP_東京都新宿区 ;
+    mo:SubRegion mr:JP_東京都文京区 ;
+    mo:SubRegion mr:JP_東京都台東区 ;
+    mo:SubRegion mr:JP_東京都墨田区 ;
+    mo:SubRegion mr:JP_東京都江東区 ;
+    mo:SubRegion mr:JP_東京都品川区 ;
+    mo:SubRegion mr:JP_東京都目黒区 ;
+    mo:SubRegion mr:JP_東京都大田区 ;
+    mo:SubRegion mr:JP_東京都世田谷区 ;
+    mo:SubRegion mr:JP_東京都渋谷区 ;
+    mo:SubRegion mr:JP_東京都中野区 ;
+    mo:SubRegion mr:JP_東京都杉並区 ;
+    mo:SubRegion mr:JP_東京都豊島区 ;
+    mo:SubRegion mr:JP_東京都北区 ;
+    mo:SubRegion mr:JP_東京都荒川区 ;
+    mo:SubRegion mr:JP_東京都板橋区 ;
+    mo:SubRegion mr:JP_東京都練馬区 ;
+    mo:SubRegion mr:JP_東京都足立区 ;
+    mo:SubRegion mr:JP_東京都葛飾区 ;
+    mo:SubRegion mr:JP_東京都江戸川区 ;
+    mo:SubRegion mr:JP_東京都八王子市 ;
+    mo:SubRegion mr:JP_東京都立川市 ;
+    mo:SubRegion mr:JP_東京都武蔵野市 ;
+    mo:SubRegion mr:JP_東京都三鷹市 ;
+    mo:SubRegion mr:JP_東京都青梅市 ;
+    mo:SubRegion mr:JP_東京都府中市 ;
+    mo:SubRegion mr:JP_東京都昭島市 ;
+    mo:SubRegion mr:JP_東京都調布市 ;
+    mo:SubRegion mr:JP_東京都町田市 ;
+    mo:SubRegion mr:JP_東京都小金井市 ;
+    mo:SubRegion mr:JP_東京都小平市 ;
+    mo:SubRegion mr:JP_東京都日野市 ;
+    mo:SubRegion mr:JP_東京都東村山市 ;
+    mo:SubRegion mr:JP_東京都国分寺市 ;
+    mo:SubRegion mr:JP_東京都国立市 ;
+    mo:SubRegion mr:JP_東京都福生市 ;
+    mo:SubRegion mr:JP_東京都狛江市 ;
+    mo:SubRegion mr:JP_東京都東大和市 ;
+    mo:SubRegion mr:JP_東京都清瀬市 ;
+    mo:SubRegion mr:JP_東京都東久留米市 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市 ;
+    mo:SubRegion mr:JP_東京都多摩市 ;
+    mo:SubRegion mr:JP_東京都稲城市 ;
+    mo:SubRegion mr:JP_東京都羽村市 ;
+    mo:SubRegion mr:JP_東京都あきる野市 ;
+    mo:SubRegion mr:JP_東京都西東京市 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町 ;
+    mo:SubRegion mr:JP_東京都西多摩郡日の出町 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町 ;
+    mo:SubRegion mr:JP_東京都大島町 ;
+    mo:SubRegion mr:JP_東京都利島村 ;
+    mo:SubRegion mr:JP_東京都新島村 ;
+    mo:SubRegion mr:JP_東京都神津島村 ;
+    mo:SubRegion mr:JP_東京都三宅島三宅村 ;
+    mo:SubRegion mr:JP_東京都御蔵島村 ;
+    mo:SubRegion mr:JP_東京都八丈島八丈町 ;
+    mo:SubRegion mr:JP_東京都青ヶ島村 ;
+    mo:SubRegion mr:JP_東京都小笠原村 ;
+    a mo:GeoEntity .
+
+mr:JP_東京都千代田区
+    rdfs:label "千代田区"@ja ;
+    mo:AreaCode "13101" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都千代田区飯田橋 ;
+    mo:SubRegion mr:JP_東京都千代田区一番町 ;
+    mo:SubRegion mr:JP_東京都千代田区岩本町 ;
+    mo:SubRegion mr:JP_東京都千代田区内神田 ;
+    mo:SubRegion mr:JP_東京都千代田区内幸町 ;
+    mo:SubRegion mr:JP_東京都千代田区大手町 ;
+    mo:SubRegion mr:JP_東京都千代田区鍛冶町 ;
+    mo:SubRegion mr:JP_東京都千代田区霞が関 ;
+    mo:SubRegion mr:JP_東京都千代田区神田相生町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田淡路町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田和泉町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田岩本町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田小川町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田鍛冶町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田北乗物町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田紺屋町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田佐久間河岸 ;
+    mo:SubRegion mr:JP_東京都千代田区神田佐久間町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田猿楽町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田神保町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田須田町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田駿河台 ;
+    mo:SubRegion mr:JP_東京都千代田区神田多町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田司町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田富山町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田錦町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田西福田町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田練塀町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田花岡町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田東紺屋町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田東松下町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田平河町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田松永町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田美倉町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田三崎町 ;
+    mo:SubRegion mr:JP_東京都千代田区神田美土代町 ;
+    mo:SubRegion mr:JP_東京都千代田区紀尾井町 ;
+    mo:SubRegion mr:JP_東京都千代田区北の丸公園 ;
+    mo:SubRegion mr:JP_東京都千代田区九段南 ;
+    mo:SubRegion mr:JP_東京都千代田区九段北 ;
+    mo:SubRegion mr:JP_東京都千代田区皇居外苑 ;
+    mo:SubRegion mr:JP_東京都千代田区麹町 ;
+    mo:SubRegion mr:JP_東京都千代田区五番町 ;
+    mo:SubRegion mr:JP_東京都千代田区三番町 ;
+    mo:SubRegion mr:JP_東京都千代田区外神田 ;
+    mo:SubRegion mr:JP_東京都千代田区千代田 ;
+    mo:SubRegion mr:JP_東京都千代田区永田町 ;
+    mo:SubRegion mr:JP_東京都千代田区西神田 ;
+    mo:SubRegion mr:JP_東京都千代田区二番町 ;
+    mo:SubRegion mr:JP_東京都千代田区隼町 ;
+    mo:SubRegion mr:JP_東京都千代田区東神田 ;
+    mo:SubRegion mr:JP_東京都千代田区一ツ橋 ;
+    mo:SubRegion mr:JP_東京都千代田区日比谷公園 ;
+    mo:SubRegion mr:JP_東京都千代田区平河町 ;
+    mo:SubRegion mr:JP_東京都千代田区富士見 ;
+    mo:SubRegion mr:JP_東京都千代田区丸の内 ;
+    mo:SubRegion mr:JP_東京都千代田区有楽町 ;
+    mo:SubRegion mr:JP_東京都千代田区四番町 ;
+    mo:SubRegion mr:JP_東京都千代田区六番町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都千代田区飯田橋
+    rdfs:label "飯田橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区一番町
+    rdfs:label "一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区岩本町
+    rdfs:label "岩本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区内神田
+    rdfs:label "内神田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区内幸町
+    rdfs:label "内幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区大手町
+    rdfs:label "大手町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区鍛冶町
+    rdfs:label "鍛冶町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区霞が関
+    rdfs:label "霞が関"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田相生町
+    rdfs:label "神田相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田淡路町
+    rdfs:label "神田淡路町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田和泉町
+    rdfs:label "神田和泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田岩本町
+    rdfs:label "神田岩本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田小川町
+    rdfs:label "神田小川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田鍛冶町
+    rdfs:label "神田鍛冶町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田北乗物町
+    rdfs:label "神田北乗物町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田紺屋町
+    rdfs:label "神田紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田佐久間河岸
+    rdfs:label "神田佐久間河岸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田佐久間町
+    rdfs:label "神田佐久間町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田猿楽町
+    rdfs:label "神田猿楽町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田神保町
+    rdfs:label "神田神保町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田須田町
+    rdfs:label "神田須田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田駿河台
+    rdfs:label "神田駿河台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田多町
+    rdfs:label "神田多町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田司町
+    rdfs:label "神田司町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田富山町
+    rdfs:label "神田富山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田錦町
+    rdfs:label "神田錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田西福田町
+    rdfs:label "神田西福田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田練塀町
+    rdfs:label "神田練塀町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田花岡町
+    rdfs:label "神田花岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田東紺屋町
+    rdfs:label "神田東紺屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田東松下町
+    rdfs:label "神田東松下町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田平河町
+    rdfs:label "神田平河町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田松永町
+    rdfs:label "神田松永町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田美倉町
+    rdfs:label "神田美倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田三崎町
+    rdfs:label "神田三崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区神田美土代町
+    rdfs:label "神田美土代町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区紀尾井町
+    rdfs:label "紀尾井町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区北の丸公園
+    rdfs:label "北の丸公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区九段南
+    rdfs:label "九段南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区九段北
+    rdfs:label "九段北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区皇居外苑
+    rdfs:label "皇居外苑"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区麹町
+    rdfs:label "麹町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区五番町
+    rdfs:label "五番町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区三番町
+    rdfs:label "三番町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区外神田
+    rdfs:label "外神田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区千代田
+    rdfs:label "千代田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区永田町
+    rdfs:label "永田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区西神田
+    rdfs:label "西神田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区二番町
+    rdfs:label "二番町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区隼町
+    rdfs:label "隼町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区東神田
+    rdfs:label "東神田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区一ツ橋
+    rdfs:label "一ツ橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区日比谷公園
+    rdfs:label "日比谷公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区平河町
+    rdfs:label "平河町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区富士見
+    rdfs:label "富士見"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区丸の内
+    rdfs:label "丸の内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区有楽町
+    rdfs:label "有楽町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区四番町
+    rdfs:label "四番町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都千代田区六番町
+    rdfs:label "六番町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区
+    rdfs:label "中央区"@ja ;
+    mo:AreaCode "13102" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都中央区明石町 ;
+    mo:SubRegion mr:JP_東京都中央区入船 ;
+    mo:SubRegion mr:JP_東京都中央区勝どき ;
+    mo:SubRegion mr:JP_東京都中央区京橋 ;
+    mo:SubRegion mr:JP_東京都中央区銀座 ;
+    mo:SubRegion mr:JP_東京都中央区新川 ;
+    mo:SubRegion mr:JP_東京都中央区新富 ;
+    mo:SubRegion mr:JP_東京都中央区月島 ;
+    mo:SubRegion mr:JP_東京都中央区築地 ;
+    mo:SubRegion mr:JP_東京都中央区佃 ;
+    mo:SubRegion mr:JP_東京都中央区豊海町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋大伝馬町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋蛎殻町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋兜町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋茅場町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋小網町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋小伝馬町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋小舟町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋富沢町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋中洲 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋人形町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋箱崎町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋浜町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋馬喰町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋久松町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋堀留町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋本石町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋本町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋室町 ;
+    mo:SubRegion mr:JP_東京都中央区日本橋横山町 ;
+    mo:SubRegion mr:JP_東京都中央区八丁堀 ;
+    mo:SubRegion mr:JP_東京都中央区浜離宮庭園 ;
+    mo:SubRegion mr:JP_東京都中央区晴海 ;
+    mo:SubRegion mr:JP_東京都中央区東日本橋 ;
+    mo:SubRegion mr:JP_東京都中央区湊 ;
+    mo:SubRegion mr:JP_東京都中央区八重洲 ;
+a mo:GeoEntity .
+
+mr:JP_東京都中央区明石町
+    rdfs:label "明石町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区入船
+    rdfs:label "入船"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区勝どき
+    rdfs:label "勝どき"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区京橋
+    rdfs:label "京橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区銀座
+    rdfs:label "銀座"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区新川
+    rdfs:label "新川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区新富
+    rdfs:label "新富"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区月島
+    rdfs:label "月島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区築地
+    rdfs:label "築地"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区佃
+    rdfs:label "佃"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区豊海町
+    rdfs:label "豊海町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋
+    rdfs:label "日本橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋大伝馬町
+    rdfs:label "日本橋大伝馬町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋蛎殻町
+    rdfs:label "日本橋蛎殻町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋兜町
+    rdfs:label "日本橋兜町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋茅場町
+    rdfs:label "日本橋茅場町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋小網町
+    rdfs:label "日本橋小網町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋小伝馬町
+    rdfs:label "日本橋小伝馬町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋小舟町
+    rdfs:label "日本橋小舟町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋富沢町
+    rdfs:label "日本橋富沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋中洲
+    rdfs:label "日本橋中洲"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋人形町
+    rdfs:label "日本橋人形町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋箱崎町
+    rdfs:label "日本橋箱崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋浜町
+    rdfs:label "日本橋浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋馬喰町
+    rdfs:label "日本橋馬喰町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋久松町
+    rdfs:label "日本橋久松町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋堀留町
+    rdfs:label "日本橋堀留町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋本石町
+    rdfs:label "日本橋本石町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋本町
+    rdfs:label "日本橋本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋室町
+    rdfs:label "日本橋室町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区日本橋横山町
+    rdfs:label "日本橋横山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区八丁堀
+    rdfs:label "八丁堀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区浜離宮庭園
+    rdfs:label "浜離宮庭園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区晴海
+    rdfs:label "晴海"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区東日本橋
+    rdfs:label "東日本橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区湊
+    rdfs:label "湊"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中央区八重洲
+    rdfs:label "八重洲"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区
+    rdfs:label "港区"@ja ;
+    mo:AreaCode "13103" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都港区赤坂 ;
+    mo:SubRegion mr:JP_東京都港区麻布十番 ;
+    mo:SubRegion mr:JP_東京都港区麻布台 ;
+    mo:SubRegion mr:JP_東京都港区麻布永坂町 ;
+    mo:SubRegion mr:JP_東京都港区麻布狸穴町 ;
+    mo:SubRegion mr:JP_東京都港区愛宕 ;
+    mo:SubRegion mr:JP_東京都港区海岸 ;
+    mo:SubRegion mr:JP_東京都港区北青山 ;
+    mo:SubRegion mr:JP_東京都港区港南 ;
+    mo:SubRegion mr:JP_東京都港区芝 ;
+    mo:SubRegion mr:JP_東京都港区芝浦 ;
+    mo:SubRegion mr:JP_東京都港区芝公園 ;
+    mo:SubRegion mr:JP_東京都港区芝大門 ;
+    mo:SubRegion mr:JP_東京都港区白金 ;
+    mo:SubRegion mr:JP_東京都港区白金台 ;
+    mo:SubRegion mr:JP_東京都港区新橋 ;
+    mo:SubRegion mr:JP_東京都港区台場 ;
+    mo:SubRegion mr:JP_東京都港区高輪 ;
+    mo:SubRegion mr:JP_東京都港区虎ノ門 ;
+    mo:SubRegion mr:JP_東京都港区西麻布 ;
+    mo:SubRegion mr:JP_東京都港区西新橋 ;
+    mo:SubRegion mr:JP_東京都港区浜松町 ;
+    mo:SubRegion mr:JP_東京都港区東麻布 ;
+    mo:SubRegion mr:JP_東京都港区東新橋 ;
+    mo:SubRegion mr:JP_東京都港区三田 ;
+    mo:SubRegion mr:JP_東京都港区南青山 ;
+    mo:SubRegion mr:JP_東京都港区南麻布 ;
+    mo:SubRegion mr:JP_東京都港区元赤坂 ;
+    mo:SubRegion mr:JP_東京都港区元麻布 ;
+    mo:SubRegion mr:JP_東京都港区六本木 ;
+a mo:GeoEntity .
+
+mr:JP_東京都港区赤坂
+    rdfs:label "赤坂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区麻布十番
+    rdfs:label "麻布十番"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区麻布台
+    rdfs:label "麻布台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区麻布永坂町
+    rdfs:label "麻布永坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区麻布狸穴町
+    rdfs:label "麻布狸穴町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区愛宕
+    rdfs:label "愛宕"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区海岸
+    rdfs:label "海岸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区北青山
+    rdfs:label "北青山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区港南
+    rdfs:label "港南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区芝
+    rdfs:label "芝"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区芝浦
+    rdfs:label "芝浦"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区芝公園
+    rdfs:label "芝公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区芝大門
+    rdfs:label "芝大門"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区白金
+    rdfs:label "白金"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区白金台
+    rdfs:label "白金台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区新橋
+    rdfs:label "新橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区台場
+    rdfs:label "台場"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区高輪
+    rdfs:label "高輪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区虎ノ門
+    rdfs:label "虎ノ門"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区西麻布
+    rdfs:label "西麻布"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区西新橋
+    rdfs:label "西新橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区浜松町
+    rdfs:label "浜松町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区東麻布
+    rdfs:label "東麻布"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区東新橋
+    rdfs:label "東新橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区三田
+    rdfs:label "三田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区南青山
+    rdfs:label "南青山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区南麻布
+    rdfs:label "南麻布"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区元赤坂
+    rdfs:label "元赤坂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区元麻布
+    rdfs:label "元麻布"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都港区六本木
+    rdfs:label "六本木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区
+    rdfs:label "新宿区"@ja ;
+    mo:AreaCode "13104" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都新宿区愛住町 ;
+    mo:SubRegion mr:JP_東京都新宿区赤城下町 ;
+    mo:SubRegion mr:JP_東京都新宿区赤城元町 ;
+    mo:SubRegion mr:JP_東京都新宿区揚場町 ;
+    mo:SubRegion mr:JP_東京都新宿区荒木町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷加賀町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷甲良町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷砂土原町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷左内町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷鷹匠町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷田町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷台町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷長延寺町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷仲之町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷八幡町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷船河原町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷本村町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷薬王寺町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷柳町 ;
+    mo:SubRegion mr:JP_東京都新宿区市谷山伏町 ;
+    mo:SubRegion mr:JP_東京都新宿区岩戸町 ;
+    mo:SubRegion mr:JP_東京都新宿区榎町 ;
+    mo:SubRegion mr:JP_東京都新宿区大久保 ;
+    mo:SubRegion mr:JP_東京都新宿区改代町 ;
+    mo:SubRegion mr:JP_東京都新宿区神楽河岸 ;
+    mo:SubRegion mr:JP_東京都新宿区神楽坂 ;
+    mo:SubRegion mr:JP_東京都新宿区霞ケ丘町 ;
+    mo:SubRegion mr:JP_東京都新宿区片町 ;
+    mo:SubRegion mr:JP_東京都新宿区歌舞伎町 ;
+    mo:SubRegion mr:JP_東京都新宿区上落合 ;
+    mo:SubRegion mr:JP_東京都新宿区河田町 ;
+    mo:SubRegion mr:JP_東京都新宿区喜久井町 ;
+    mo:SubRegion mr:JP_東京都新宿区北新宿 ;
+    mo:SubRegion mr:JP_東京都新宿区北町 ;
+    mo:SubRegion mr:JP_東京都新宿区北山伏町 ;
+    mo:SubRegion mr:JP_東京都新宿区細工町 ;
+    mo:SubRegion mr:JP_東京都新宿区左門町 ;
+    mo:SubRegion mr:JP_東京都新宿区信濃町 ;
+    mo:SubRegion mr:JP_東京都新宿区下落合 ;
+    mo:SubRegion mr:JP_東京都新宿区下宮比町 ;
+    mo:SubRegion mr:JP_東京都新宿区白銀町 ;
+    mo:SubRegion mr:JP_東京都新宿区新小川町 ;
+    mo:SubRegion mr:JP_東京都新宿区新宿 ;
+    mo:SubRegion mr:JP_東京都新宿区水道町 ;
+    mo:SubRegion mr:JP_東京都新宿区須賀町 ;
+    mo:SubRegion mr:JP_東京都新宿区住吉町 ;
+    mo:SubRegion mr:JP_東京都新宿区大京町 ;
+    mo:SubRegion mr:JP_東京都新宿区高田馬場 ;
+    mo:SubRegion mr:JP_東京都新宿区箪笥町 ;
+    mo:SubRegion mr:JP_東京都新宿区築地町 ;
+    mo:SubRegion mr:JP_東京都新宿区津久戸町 ;
+    mo:SubRegion mr:JP_東京都新宿区筑土八幡町 ;
+    mo:SubRegion mr:JP_東京都新宿区天神町 ;
+    mo:SubRegion mr:JP_東京都新宿区戸塚町 ;
+    mo:SubRegion mr:JP_東京都新宿区富久町 ;
+    mo:SubRegion mr:JP_東京都新宿区戸山 ;
+    mo:SubRegion mr:JP_東京都新宿区内藤町 ;
+    mo:SubRegion mr:JP_東京都新宿区中井 ;
+    mo:SubRegion mr:JP_東京都新宿区中落合 ;
+    mo:SubRegion mr:JP_東京都新宿区中里町 ;
+    mo:SubRegion mr:JP_東京都新宿区中町 ;
+    mo:SubRegion mr:JP_東京都新宿区納戸町 ;
+    mo:SubRegion mr:JP_東京都新宿区西落合 ;
+    mo:SubRegion mr:JP_東京都新宿区西五軒町 ;
+    mo:SubRegion mr:JP_東京都新宿区西新宿 ;
+    mo:SubRegion mr:JP_東京都新宿区二十騎町 ;
+    mo:SubRegion mr:JP_東京都新宿区西早稲田 ;
+    mo:SubRegion mr:JP_東京都新宿区馬場下町 ;
+    mo:SubRegion mr:JP_東京都新宿区払方町 ;
+    mo:SubRegion mr:JP_東京都新宿区原町 ;
+    mo:SubRegion mr:JP_東京都新宿区東榎町 ;
+    mo:SubRegion mr:JP_東京都新宿区東五軒町 ;
+    mo:SubRegion mr:JP_東京都新宿区百人町 ;
+    mo:SubRegion mr:JP_東京都新宿区袋町 ;
+    mo:SubRegion mr:JP_東京都新宿区舟町 ;
+    mo:SubRegion mr:JP_東京都新宿区弁天町 ;
+    mo:SubRegion mr:JP_東京都新宿区南榎町 ;
+    mo:SubRegion mr:JP_東京都新宿区南町 ;
+    mo:SubRegion mr:JP_東京都新宿区南元町 ;
+    mo:SubRegion mr:JP_東京都新宿区南山伏町 ;
+    mo:SubRegion mr:JP_東京都新宿区山吹町 ;
+    mo:SubRegion mr:JP_東京都新宿区矢来町 ;
+    mo:SubRegion mr:JP_東京都新宿区横寺町 ;
+    mo:SubRegion mr:JP_東京都新宿区余丁町 ;
+    mo:SubRegion mr:JP_東京都新宿区四谷 ;
+    mo:SubRegion mr:JP_東京都新宿区四谷坂町 ;
+    mo:SubRegion mr:JP_東京都新宿区四谷三栄町 ;
+    mo:SubRegion mr:JP_東京都新宿区四谷本塩町 ;
+    mo:SubRegion mr:JP_東京都新宿区若葉 ;
+    mo:SubRegion mr:JP_東京都新宿区若松町 ;
+    mo:SubRegion mr:JP_東京都新宿区若宮町 ;
+    mo:SubRegion mr:JP_東京都新宿区早稲田鶴巻町 ;
+    mo:SubRegion mr:JP_東京都新宿区早稲田南町 ;
+    mo:SubRegion mr:JP_東京都新宿区早稲田町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都新宿区愛住町
+    rdfs:label "愛住町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区赤城下町
+    rdfs:label "赤城下町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区赤城元町
+    rdfs:label "赤城元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区揚場町
+    rdfs:label "揚場町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区荒木町
+    rdfs:label "荒木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷加賀町
+    rdfs:label "市谷加賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷甲良町
+    rdfs:label "市谷甲良町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷砂土原町
+    rdfs:label "市谷砂土原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷左内町
+    rdfs:label "市谷左内町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷鷹匠町
+    rdfs:label "市谷鷹匠町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷田町
+    rdfs:label "市谷田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷台町
+    rdfs:label "市谷台町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷長延寺町
+    rdfs:label "市谷長延寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷仲之町
+    rdfs:label "市谷仲之町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷八幡町
+    rdfs:label "市谷八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷船河原町
+    rdfs:label "市谷船河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷本村町
+    rdfs:label "市谷本村町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷薬王寺町
+    rdfs:label "市谷薬王寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷柳町
+    rdfs:label "市谷柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区市谷山伏町
+    rdfs:label "市谷山伏町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区岩戸町
+    rdfs:label "岩戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区榎町
+    rdfs:label "榎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区大久保
+    rdfs:label "大久保"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区改代町
+    rdfs:label "改代町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区神楽河岸
+    rdfs:label "神楽河岸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区神楽坂
+    rdfs:label "神楽坂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区霞ケ丘町
+    rdfs:label "霞ケ丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区片町
+    rdfs:label "片町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区歌舞伎町
+    rdfs:label "歌舞伎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区上落合
+    rdfs:label "上落合"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区河田町
+    rdfs:label "河田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区喜久井町
+    rdfs:label "喜久井町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区北新宿
+    rdfs:label "北新宿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区北町
+    rdfs:label "北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区北山伏町
+    rdfs:label "北山伏町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区細工町
+    rdfs:label "細工町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区左門町
+    rdfs:label "左門町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区信濃町
+    rdfs:label "信濃町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区下落合
+    rdfs:label "下落合"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区下宮比町
+    rdfs:label "下宮比町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区白銀町
+    rdfs:label "白銀町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区新小川町
+    rdfs:label "新小川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区新宿
+    rdfs:label "新宿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区水道町
+    rdfs:label "水道町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区須賀町
+    rdfs:label "須賀町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区大京町
+    rdfs:label "大京町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区高田馬場
+    rdfs:label "高田馬場"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区箪笥町
+    rdfs:label "箪笥町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区築地町
+    rdfs:label "築地町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区津久戸町
+    rdfs:label "津久戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区筑土八幡町
+    rdfs:label "筑土八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区戸塚町
+    rdfs:label "戸塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区富久町
+    rdfs:label "富久町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区戸山
+    rdfs:label "戸山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区内藤町
+    rdfs:label "内藤町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区中井
+    rdfs:label "中井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区中落合
+    rdfs:label "中落合"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区中里町
+    rdfs:label "中里町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区納戸町
+    rdfs:label "納戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区西落合
+    rdfs:label "西落合"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区西五軒町
+    rdfs:label "西五軒町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区西新宿
+    rdfs:label "西新宿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区二十騎町
+    rdfs:label "二十騎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区西早稲田
+    rdfs:label "西早稲田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区馬場下町
+    rdfs:label "馬場下町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区払方町
+    rdfs:label "払方町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区東榎町
+    rdfs:label "東榎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区東五軒町
+    rdfs:label "東五軒町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区百人町
+    rdfs:label "百人町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区袋町
+    rdfs:label "袋町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区舟町
+    rdfs:label "舟町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区弁天町
+    rdfs:label "弁天町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区南榎町
+    rdfs:label "南榎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区南元町
+    rdfs:label "南元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区南山伏町
+    rdfs:label "南山伏町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区山吹町
+    rdfs:label "山吹町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区矢来町
+    rdfs:label "矢来町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区横寺町
+    rdfs:label "横寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区余丁町
+    rdfs:label "余丁町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区四谷
+    rdfs:label "四谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区四谷坂町
+    rdfs:label "四谷坂町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区四谷三栄町
+    rdfs:label "四谷三栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区四谷本塩町
+    rdfs:label "四谷本塩町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区若葉
+    rdfs:label "若葉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区若松町
+    rdfs:label "若松町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区若宮町
+    rdfs:label "若宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区早稲田鶴巻町
+    rdfs:label "早稲田鶴巻町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区早稲田南町
+    rdfs:label "早稲田南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新宿区早稲田町
+    rdfs:label "早稲田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区
+    rdfs:label "文京区"@ja ;
+    mo:AreaCode "13105" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都文京区大塚 ;
+    mo:SubRegion mr:JP_東京都文京区音羽 ;
+    mo:SubRegion mr:JP_東京都文京区春日 ;
+    mo:SubRegion mr:JP_東京都文京区小石川 ;
+    mo:SubRegion mr:JP_東京都文京区後楽 ;
+    mo:SubRegion mr:JP_東京都文京区小日向 ;
+    mo:SubRegion mr:JP_東京都文京区水道 ;
+    mo:SubRegion mr:JP_東京都文京区関口 ;
+    mo:SubRegion mr:JP_東京都文京区千石 ;
+    mo:SubRegion mr:JP_東京都文京区千駄木 ;
+    mo:SubRegion mr:JP_東京都文京区西片 ;
+    mo:SubRegion mr:JP_東京都文京区根津 ;
+    mo:SubRegion mr:JP_東京都文京区白山 ;
+    mo:SubRegion mr:JP_東京都文京区本駒込 ;
+    mo:SubRegion mr:JP_東京都文京区本郷 ;
+    mo:SubRegion mr:JP_東京都文京区向丘 ;
+    mo:SubRegion mr:JP_東京都文京区目白台 ;
+    mo:SubRegion mr:JP_東京都文京区弥生 ;
+    mo:SubRegion mr:JP_東京都文京区湯島 ;
+a mo:GeoEntity .
+
+mr:JP_東京都文京区大塚
+    rdfs:label "大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区音羽
+    rdfs:label "音羽"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区春日
+    rdfs:label "春日"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区小石川
+    rdfs:label "小石川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区後楽
+    rdfs:label "後楽"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区小日向
+    rdfs:label "小日向"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区水道
+    rdfs:label "水道"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区関口
+    rdfs:label "関口"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区千石
+    rdfs:label "千石"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区千駄木
+    rdfs:label "千駄木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区西片
+    rdfs:label "西片"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区根津
+    rdfs:label "根津"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区白山
+    rdfs:label "白山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区本駒込
+    rdfs:label "本駒込"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区本郷
+    rdfs:label "本郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区向丘
+    rdfs:label "向丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区目白台
+    rdfs:label "目白台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区弥生
+    rdfs:label "弥生"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都文京区湯島
+    rdfs:label "湯島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区
+    rdfs:label "台東区"@ja ;
+    mo:AreaCode "13106" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都台東区秋葉原 ;
+    mo:SubRegion mr:JP_東京都台東区浅草 ;
+    mo:SubRegion mr:JP_東京都台東区浅草橋 ;
+    mo:SubRegion mr:JP_東京都台東区池之端 ;
+    mo:SubRegion mr:JP_東京都台東区今戸 ;
+    mo:SubRegion mr:JP_東京都台東区入谷 ;
+    mo:SubRegion mr:JP_東京都台東区上野 ;
+    mo:SubRegion mr:JP_東京都台東区上野公園 ;
+    mo:SubRegion mr:JP_東京都台東区上野桜木 ;
+    mo:SubRegion mr:JP_東京都台東区雷門 ;
+    mo:SubRegion mr:JP_東京都台東区北上野 ;
+    mo:SubRegion mr:JP_東京都台東区清川 ;
+    mo:SubRegion mr:JP_東京都台東区蔵前 ;
+    mo:SubRegion mr:JP_東京都台東区小島 ;
+    mo:SubRegion mr:JP_東京都台東区寿 ;
+    mo:SubRegion mr:JP_東京都台東区駒形 ;
+    mo:SubRegion mr:JP_東京都台東区下谷 ;
+    mo:SubRegion mr:JP_東京都台東区千束 ;
+    mo:SubRegion mr:JP_東京都台東区台東 ;
+    mo:SubRegion mr:JP_東京都台東区鳥越 ;
+    mo:SubRegion mr:JP_東京都台東区西浅草 ;
+    mo:SubRegion mr:JP_東京都台東区日本堤 ;
+    mo:SubRegion mr:JP_東京都台東区根岸 ;
+    mo:SubRegion mr:JP_東京都台東区橋場 ;
+    mo:SubRegion mr:JP_東京都台東区花川戸 ;
+    mo:SubRegion mr:JP_東京都台東区東浅草 ;
+    mo:SubRegion mr:JP_東京都台東区東上野 ;
+    mo:SubRegion mr:JP_東京都台東区松が谷 ;
+    mo:SubRegion mr:JP_東京都台東区三筋 ;
+    mo:SubRegion mr:JP_東京都台東区三ノ輪 ;
+    mo:SubRegion mr:JP_東京都台東区元浅草 ;
+    mo:SubRegion mr:JP_東京都台東区谷中 ;
+    mo:SubRegion mr:JP_東京都台東区柳橋 ;
+    mo:SubRegion mr:JP_東京都台東区竜泉 ;
+a mo:GeoEntity .
+
+mr:JP_東京都台東区秋葉原
+    rdfs:label "秋葉原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区浅草
+    rdfs:label "浅草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区浅草橋
+    rdfs:label "浅草橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区池之端
+    rdfs:label "池之端"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区今戸
+    rdfs:label "今戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区入谷
+    rdfs:label "入谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区上野
+    rdfs:label "上野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区上野公園
+    rdfs:label "上野公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区上野桜木
+    rdfs:label "上野桜木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区雷門
+    rdfs:label "雷門"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区北上野
+    rdfs:label "北上野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区清川
+    rdfs:label "清川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区蔵前
+    rdfs:label "蔵前"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区小島
+    rdfs:label "小島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区寿
+    rdfs:label "寿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区駒形
+    rdfs:label "駒形"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区下谷
+    rdfs:label "下谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区千束
+    rdfs:label "千束"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区台東
+    rdfs:label "台東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区鳥越
+    rdfs:label "鳥越"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区西浅草
+    rdfs:label "西浅草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区日本堤
+    rdfs:label "日本堤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区根岸
+    rdfs:label "根岸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区橋場
+    rdfs:label "橋場"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区花川戸
+    rdfs:label "花川戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区東浅草
+    rdfs:label "東浅草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区東上野
+    rdfs:label "東上野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区松が谷
+    rdfs:label "松が谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区三筋
+    rdfs:label "三筋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区三ノ輪
+    rdfs:label "三ノ輪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区元浅草
+    rdfs:label "元浅草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区谷中
+    rdfs:label "谷中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区柳橋
+    rdfs:label "柳橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都台東区竜泉
+    rdfs:label "竜泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区
+    rdfs:label "墨田区"@ja ;
+    mo:AreaCode "13107" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都墨田区吾妻橋 ;
+    mo:SubRegion mr:JP_東京都墨田区石原 ;
+    mo:SubRegion mr:JP_東京都墨田区押上 ;
+    mo:SubRegion mr:JP_東京都墨田区亀沢 ;
+    mo:SubRegion mr:JP_東京都墨田区菊川 ;
+    mo:SubRegion mr:JP_東京都墨田区京島 ;
+    mo:SubRegion mr:JP_東京都墨田区錦糸 ;
+    mo:SubRegion mr:JP_東京都墨田区江東橋 ;
+    mo:SubRegion mr:JP_東京都墨田区墨田 ;
+    mo:SubRegion mr:JP_東京都墨田区太平 ;
+    mo:SubRegion mr:JP_東京都墨田区立花 ;
+    mo:SubRegion mr:JP_東京都墨田区立川 ;
+    mo:SubRegion mr:JP_東京都墨田区千歳 ;
+    mo:SubRegion mr:JP_東京都墨田区堤通 ;
+    mo:SubRegion mr:JP_東京都墨田区業平 ;
+    mo:SubRegion mr:JP_東京都墨田区東駒形 ;
+    mo:SubRegion mr:JP_東京都墨田区東墨田 ;
+    mo:SubRegion mr:JP_東京都墨田区東向島 ;
+    mo:SubRegion mr:JP_東京都墨田区文花 ;
+    mo:SubRegion mr:JP_東京都墨田区本所 ;
+    mo:SubRegion mr:JP_東京都墨田区緑 ;
+    mo:SubRegion mr:JP_東京都墨田区向島 ;
+    mo:SubRegion mr:JP_東京都墨田区八広 ;
+    mo:SubRegion mr:JP_東京都墨田区横網 ;
+    mo:SubRegion mr:JP_東京都墨田区横川 ;
+    mo:SubRegion mr:JP_東京都墨田区両国 ;
+a mo:GeoEntity .
+
+mr:JP_東京都墨田区吾妻橋
+    rdfs:label "吾妻橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区石原
+    rdfs:label "石原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区押上
+    rdfs:label "押上"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区亀沢
+    rdfs:label "亀沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区菊川
+    rdfs:label "菊川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区京島
+    rdfs:label "京島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区錦糸
+    rdfs:label "錦糸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区江東橋
+    rdfs:label "江東橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区墨田
+    rdfs:label "墨田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区太平
+    rdfs:label "太平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区立花
+    rdfs:label "立花"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区立川
+    rdfs:label "立川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区千歳
+    rdfs:label "千歳"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区堤通
+    rdfs:label "堤通"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区業平
+    rdfs:label "業平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区東駒形
+    rdfs:label "東駒形"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区東墨田
+    rdfs:label "東墨田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区東向島
+    rdfs:label "東向島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区文花
+    rdfs:label "文花"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区本所
+    rdfs:label "本所"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区緑
+    rdfs:label "緑"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区向島
+    rdfs:label "向島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区八広
+    rdfs:label "八広"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区横網
+    rdfs:label "横網"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区横川
+    rdfs:label "横川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都墨田区両国
+    rdfs:label "両国"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区
+    rdfs:label "江東区"@ja ;
+    mo:AreaCode "13108" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都江東区青海 ;
+    mo:SubRegion mr:JP_東京都江東区有明 ;
+    mo:SubRegion mr:JP_東京都江東区石島 ;
+    mo:SubRegion mr:JP_東京都江東区海の森 ;
+    mo:SubRegion mr:JP_東京都江東区海辺 ;
+    mo:SubRegion mr:JP_東京都江東区永代 ;
+    mo:SubRegion mr:JP_東京都江東区枝川 ;
+    mo:SubRegion mr:JP_東京都江東区越中島 ;
+    mo:SubRegion mr:JP_東京都江東区扇橋 ;
+    mo:SubRegion mr:JP_東京都江東区大島 ;
+    mo:SubRegion mr:JP_東京都江東区亀戸 ;
+    mo:SubRegion mr:JP_東京都江東区北砂 ;
+    mo:SubRegion mr:JP_東京都江東区木場 ;
+    mo:SubRegion mr:JP_東京都江東区清澄 ;
+    mo:SubRegion mr:JP_東京都江東区佐賀 ;
+    mo:SubRegion mr:JP_東京都江東区猿江 ;
+    mo:SubRegion mr:JP_東京都江東区塩浜 ;
+    mo:SubRegion mr:JP_東京都江東区潮見 ;
+    mo:SubRegion mr:JP_東京都江東区東雲 ;
+    mo:SubRegion mr:JP_東京都江東区白河 ;
+    mo:SubRegion mr:JP_東京都江東区新大橋 ;
+    mo:SubRegion mr:JP_東京都江東区新木場 ;
+    mo:SubRegion mr:JP_東京都江東区新砂 ;
+    mo:SubRegion mr:JP_東京都江東区住吉 ;
+    mo:SubRegion mr:JP_東京都江東区千石 ;
+    mo:SubRegion mr:JP_東京都江東区千田 ;
+    mo:SubRegion mr:JP_東京都江東区高橋 ;
+    mo:SubRegion mr:JP_東京都江東区辰巳 ;
+    mo:SubRegion mr:JP_東京都江東区中央防波堤 ;
+    mo:SubRegion mr:JP_東京都江東区東陽 ;
+    mo:SubRegion mr:JP_東京都江東区常盤 ;
+    mo:SubRegion mr:JP_東京都江東区富岡 ;
+    mo:SubRegion mr:JP_東京都江東区豊洲 ;
+    mo:SubRegion mr:JP_東京都江東区東砂 ;
+    mo:SubRegion mr:JP_東京都江東区平野 ;
+    mo:SubRegion mr:JP_東京都江東区深川 ;
+    mo:SubRegion mr:JP_東京都江東区福住 ;
+    mo:SubRegion mr:JP_東京都江東区冬木 ;
+    mo:SubRegion mr:JP_東京都江東区古石場 ;
+    mo:SubRegion mr:JP_東京都江東区牡丹 ;
+    mo:SubRegion mr:JP_東京都江東区南砂 ;
+    mo:SubRegion mr:JP_東京都江東区三好 ;
+    mo:SubRegion mr:JP_東京都江東区毛利 ;
+    mo:SubRegion mr:JP_東京都江東区森下 ;
+    mo:SubRegion mr:JP_東京都江東区門前仲町 ;
+    mo:SubRegion mr:JP_東京都江東区夢の島 ;
+    mo:SubRegion mr:JP_東京都江東区若洲 ;
+a mo:GeoEntity .
+
+mr:JP_東京都江東区青海
+    rdfs:label "青海"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区有明
+    rdfs:label "有明"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区石島
+    rdfs:label "石島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区海の森
+    rdfs:label "海の森"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区海辺
+    rdfs:label "海辺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区永代
+    rdfs:label "永代"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区枝川
+    rdfs:label "枝川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区越中島
+    rdfs:label "越中島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区扇橋
+    rdfs:label "扇橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区大島
+    rdfs:label "大島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区亀戸
+    rdfs:label "亀戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区北砂
+    rdfs:label "北砂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区木場
+    rdfs:label "木場"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区清澄
+    rdfs:label "清澄"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区佐賀
+    rdfs:label "佐賀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区猿江
+    rdfs:label "猿江"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区塩浜
+    rdfs:label "塩浜"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区潮見
+    rdfs:label "潮見"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区東雲
+    rdfs:label "東雲"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区白河
+    rdfs:label "白河"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区新大橋
+    rdfs:label "新大橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区新木場
+    rdfs:label "新木場"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区新砂
+    rdfs:label "新砂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区住吉
+    rdfs:label "住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区千石
+    rdfs:label "千石"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区千田
+    rdfs:label "千田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区高橋
+    rdfs:label "高橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区辰巳
+    rdfs:label "辰巳"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区中央防波堤
+    rdfs:label "中央防波堤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区東陽
+    rdfs:label "東陽"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区常盤
+    rdfs:label "常盤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区豊洲
+    rdfs:label "豊洲"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区東砂
+    rdfs:label "東砂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区深川
+    rdfs:label "深川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区福住
+    rdfs:label "福住"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区冬木
+    rdfs:label "冬木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区古石場
+    rdfs:label "古石場"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区牡丹
+    rdfs:label "牡丹"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区南砂
+    rdfs:label "南砂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区三好
+    rdfs:label "三好"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区毛利
+    rdfs:label "毛利"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区森下
+    rdfs:label "森下"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区門前仲町
+    rdfs:label "門前仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区夢の島
+    rdfs:label "夢の島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江東区若洲
+    rdfs:label "若洲"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区
+    rdfs:label "品川区"@ja ;
+    mo:AreaCode "13109" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都品川区荏原 ;
+    mo:SubRegion mr:JP_東京都品川区大井 ;
+    mo:SubRegion mr:JP_東京都品川区大崎 ;
+    mo:SubRegion mr:JP_東京都品川区勝島 ;
+    mo:SubRegion mr:JP_東京都品川区上大崎 ;
+    mo:SubRegion mr:JP_東京都品川区北品川 ;
+    mo:SubRegion mr:JP_東京都品川区小山 ;
+    mo:SubRegion mr:JP_東京都品川区小山台 ;
+    mo:SubRegion mr:JP_東京都品川区戸越 ;
+    mo:SubRegion mr:JP_東京都品川区中延 ;
+    mo:SubRegion mr:JP_東京都品川区西大井 ;
+    mo:SubRegion mr:JP_東京都品川区西五反田 ;
+    mo:SubRegion mr:JP_東京都品川区西品川 ;
+    mo:SubRegion mr:JP_東京都品川区西中延 ;
+    mo:SubRegion mr:JP_東京都品川区旗の台 ;
+    mo:SubRegion mr:JP_東京都品川区東大井 ;
+    mo:SubRegion mr:JP_東京都品川区東五反田 ;
+    mo:SubRegion mr:JP_東京都品川区東品川 ;
+    mo:SubRegion mr:JP_東京都品川区東中延 ;
+    mo:SubRegion mr:JP_東京都品川区東八潮 ;
+    mo:SubRegion mr:JP_東京都品川区平塚 ;
+    mo:SubRegion mr:JP_東京都品川区広町 ;
+    mo:SubRegion mr:JP_東京都品川区二葉 ;
+    mo:SubRegion mr:JP_東京都品川区南大井 ;
+    mo:SubRegion mr:JP_東京都品川区南品川 ;
+    mo:SubRegion mr:JP_東京都品川区八潮 ;
+    mo:SubRegion mr:JP_東京都品川区豊町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都品川区荏原
+    rdfs:label "荏原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区大井
+    rdfs:label "大井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区大崎
+    rdfs:label "大崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区勝島
+    rdfs:label "勝島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区上大崎
+    rdfs:label "上大崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区北品川
+    rdfs:label "北品川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区小山
+    rdfs:label "小山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区小山台
+    rdfs:label "小山台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区戸越
+    rdfs:label "戸越"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区中延
+    rdfs:label "中延"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区西大井
+    rdfs:label "西大井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区西五反田
+    rdfs:label "西五反田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区西品川
+    rdfs:label "西品川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区西中延
+    rdfs:label "西中延"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区旗の台
+    rdfs:label "旗の台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区東大井
+    rdfs:label "東大井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区東五反田
+    rdfs:label "東五反田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区東品川
+    rdfs:label "東品川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区東中延
+    rdfs:label "東中延"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区東八潮
+    rdfs:label "東八潮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区平塚
+    rdfs:label "平塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区広町
+    rdfs:label "広町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区二葉
+    rdfs:label "二葉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区南大井
+    rdfs:label "南大井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区南品川
+    rdfs:label "南品川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区八潮
+    rdfs:label "八潮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都品川区豊町
+    rdfs:label "豊町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区
+    rdfs:label "目黒区"@ja ;
+    mo:AreaCode "13110" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都目黒区青葉台 ;
+    mo:SubRegion mr:JP_東京都目黒区大岡山 ;
+    mo:SubRegion mr:JP_東京都目黒区大橋 ;
+    mo:SubRegion mr:JP_東京都目黒区柿の木坂 ;
+    mo:SubRegion mr:JP_東京都目黒区上目黒 ;
+    mo:SubRegion mr:JP_東京都目黒区五本木 ;
+    mo:SubRegion mr:JP_東京都目黒区駒場 ;
+    mo:SubRegion mr:JP_東京都目黒区下目黒 ;
+    mo:SubRegion mr:JP_東京都目黒区自由が丘 ;
+    mo:SubRegion mr:JP_東京都目黒区洗足 ;
+    mo:SubRegion mr:JP_東京都目黒区平町 ;
+    mo:SubRegion mr:JP_東京都目黒区鷹番 ;
+    mo:SubRegion mr:JP_東京都目黒区中央町 ;
+    mo:SubRegion mr:JP_東京都目黒区中町 ;
+    mo:SubRegion mr:JP_東京都目黒区中根 ;
+    mo:SubRegion mr:JP_東京都目黒区中目黒 ;
+    mo:SubRegion mr:JP_東京都目黒区原町 ;
+    mo:SubRegion mr:JP_東京都目黒区東が丘 ;
+    mo:SubRegion mr:JP_東京都目黒区東山 ;
+    mo:SubRegion mr:JP_東京都目黒区碑文谷 ;
+    mo:SubRegion mr:JP_東京都目黒区三田 ;
+    mo:SubRegion mr:JP_東京都目黒区緑が丘 ;
+    mo:SubRegion mr:JP_東京都目黒区南 ;
+    mo:SubRegion mr:JP_東京都目黒区目黒 ;
+    mo:SubRegion mr:JP_東京都目黒区目黒本町 ;
+    mo:SubRegion mr:JP_東京都目黒区八雲 ;
+    mo:SubRegion mr:JP_東京都目黒区祐天寺 ;
+a mo:GeoEntity .
+
+mr:JP_東京都目黒区青葉台
+    rdfs:label "青葉台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区大岡山
+    rdfs:label "大岡山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区大橋
+    rdfs:label "大橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区柿の木坂
+    rdfs:label "柿の木坂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区上目黒
+    rdfs:label "上目黒"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区五本木
+    rdfs:label "五本木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区駒場
+    rdfs:label "駒場"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区下目黒
+    rdfs:label "下目黒"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区自由が丘
+    rdfs:label "自由が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区洗足
+    rdfs:label "洗足"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区平町
+    rdfs:label "平町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区鷹番
+    rdfs:label "鷹番"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区中根
+    rdfs:label "中根"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区中目黒
+    rdfs:label "中目黒"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区原町
+    rdfs:label "原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区東が丘
+    rdfs:label "東が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区東山
+    rdfs:label "東山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区碑文谷
+    rdfs:label "碑文谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区三田
+    rdfs:label "三田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区緑が丘
+    rdfs:label "緑が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区南
+    rdfs:label "南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区目黒
+    rdfs:label "目黒"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区目黒本町
+    rdfs:label "目黒本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区八雲
+    rdfs:label "八雲"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都目黒区祐天寺
+    rdfs:label "祐天寺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区
+    rdfs:label "大田区"@ja ;
+    mo:AreaCode "13111" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都大田区池上 ;
+    mo:SubRegion mr:JP_東京都大田区石川町 ;
+    mo:SubRegion mr:JP_東京都大田区鵜の木 ;
+    mo:SubRegion mr:JP_東京都大田区大森中 ;
+    mo:SubRegion mr:JP_東京都大田区大森本町 ;
+    mo:SubRegion mr:JP_東京都大田区大森東 ;
+    mo:SubRegion mr:JP_東京都大田区大森西 ;
+    mo:SubRegion mr:JP_東京都大田区大森南 ;
+    mo:SubRegion mr:JP_東京都大田区大森北 ;
+    mo:SubRegion mr:JP_東京都大田区蒲田 ;
+    mo:SubRegion mr:JP_東京都大田区蒲田本町 ;
+    mo:SubRegion mr:JP_東京都大田区上池台 ;
+    mo:SubRegion mr:JP_東京都大田区北糀谷 ;
+    mo:SubRegion mr:JP_東京都大田区北千束 ;
+    mo:SubRegion mr:JP_東京都大田区北馬込 ;
+    mo:SubRegion mr:JP_東京都大田区北嶺町 ;
+    mo:SubRegion mr:JP_東京都大田区久が原 ;
+    mo:SubRegion mr:JP_東京都大田区京浜島 ;
+    mo:SubRegion mr:JP_東京都大田区山王 ;
+    mo:SubRegion mr:JP_東京都大田区下丸子 ;
+    mo:SubRegion mr:JP_東京都大田区城南島 ;
+    mo:SubRegion mr:JP_東京都大田区昭和島 ;
+    mo:SubRegion mr:JP_東京都大田区新蒲田 ;
+    mo:SubRegion mr:JP_東京都大田区多摩川 ;
+    mo:SubRegion mr:JP_東京都大田区千鳥 ;
+    mo:SubRegion mr:JP_東京都大田区中央 ;
+    mo:SubRegion mr:JP_東京都大田区田園調布 ;
+    mo:SubRegion mr:JP_東京都大田区田園調布本町 ;
+    mo:SubRegion mr:JP_東京都大田区田園調布南 ;
+    mo:SubRegion mr:JP_東京都大田区東海 ;
+    mo:SubRegion mr:JP_東京都大田区仲池上 ;
+    mo:SubRegion mr:JP_東京都大田区中馬込 ;
+    mo:SubRegion mr:JP_東京都大田区仲六郷 ;
+    mo:SubRegion mr:JP_東京都大田区西蒲田 ;
+    mo:SubRegion mr:JP_東京都大田区西糀谷 ;
+    mo:SubRegion mr:JP_東京都大田区西馬込 ;
+    mo:SubRegion mr:JP_東京都大田区西嶺町 ;
+    mo:SubRegion mr:JP_東京都大田区西六郷 ;
+    mo:SubRegion mr:JP_東京都大田区萩中 ;
+    mo:SubRegion mr:JP_東京都大田区羽田 ;
+    mo:SubRegion mr:JP_東京都大田区羽田旭町 ;
+    mo:SubRegion mr:JP_東京都大田区羽田空港 ;
+    mo:SubRegion mr:JP_東京都大田区東蒲田 ;
+    mo:SubRegion mr:JP_東京都大田区東糀谷 ;
+    mo:SubRegion mr:JP_東京都大田区東馬込 ;
+    mo:SubRegion mr:JP_東京都大田区東嶺町 ;
+    mo:SubRegion mr:JP_東京都大田区東矢口 ;
+    mo:SubRegion mr:JP_東京都大田区東雪谷 ;
+    mo:SubRegion mr:JP_東京都大田区東六郷 ;
+    mo:SubRegion mr:JP_東京都大田区ふるさとの浜辺公園 ;
+    mo:SubRegion mr:JP_東京都大田区平和島 ;
+    mo:SubRegion mr:JP_東京都大田区平和の森公園 ;
+    mo:SubRegion mr:JP_東京都大田区本羽田 ;
+    mo:SubRegion mr:JP_東京都大田区南蒲田 ;
+    mo:SubRegion mr:JP_東京都大田区南久が原 ;
+    mo:SubRegion mr:JP_東京都大田区南千束 ;
+    mo:SubRegion mr:JP_東京都大田区南馬込 ;
+    mo:SubRegion mr:JP_東京都大田区南雪谷 ;
+    mo:SubRegion mr:JP_東京都大田区南六郷 ;
+    mo:SubRegion mr:JP_東京都大田区矢口 ;
+    mo:SubRegion mr:JP_東京都大田区雪谷大塚町 ;
+    mo:SubRegion mr:JP_東京都大田区令和島 ;
+a mo:GeoEntity .
+
+mr:JP_東京都大田区池上
+    rdfs:label "池上"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区石川町
+    rdfs:label "石川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区鵜の木
+    rdfs:label "鵜の木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区大森中
+    rdfs:label "大森中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区大森本町
+    rdfs:label "大森本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区大森東
+    rdfs:label "大森東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区大森西
+    rdfs:label "大森西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区大森南
+    rdfs:label "大森南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区大森北
+    rdfs:label "大森北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区蒲田
+    rdfs:label "蒲田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区蒲田本町
+    rdfs:label "蒲田本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区上池台
+    rdfs:label "上池台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区北糀谷
+    rdfs:label "北糀谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区北千束
+    rdfs:label "北千束"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区北馬込
+    rdfs:label "北馬込"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区北嶺町
+    rdfs:label "北嶺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区久が原
+    rdfs:label "久が原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区京浜島
+    rdfs:label "京浜島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区山王
+    rdfs:label "山王"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区下丸子
+    rdfs:label "下丸子"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区城南島
+    rdfs:label "城南島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区昭和島
+    rdfs:label "昭和島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区新蒲田
+    rdfs:label "新蒲田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区多摩川
+    rdfs:label "多摩川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区千鳥
+    rdfs:label "千鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区田園調布
+    rdfs:label "田園調布"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区田園調布本町
+    rdfs:label "田園調布本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区田園調布南
+    rdfs:label "田園調布南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区東海
+    rdfs:label "東海"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区仲池上
+    rdfs:label "仲池上"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区中馬込
+    rdfs:label "中馬込"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区仲六郷
+    rdfs:label "仲六郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区西蒲田
+    rdfs:label "西蒲田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区西糀谷
+    rdfs:label "西糀谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区西馬込
+    rdfs:label "西馬込"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区西嶺町
+    rdfs:label "西嶺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区西六郷
+    rdfs:label "西六郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区萩中
+    rdfs:label "萩中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区羽田
+    rdfs:label "羽田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区羽田旭町
+    rdfs:label "羽田旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区羽田空港
+    rdfs:label "羽田空港"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区東蒲田
+    rdfs:label "東蒲田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区東糀谷
+    rdfs:label "東糀谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区東馬込
+    rdfs:label "東馬込"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区東嶺町
+    rdfs:label "東嶺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区東矢口
+    rdfs:label "東矢口"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区東雪谷
+    rdfs:label "東雪谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区東六郷
+    rdfs:label "東六郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区ふるさとの浜辺公園
+    rdfs:label "ふるさとの浜辺公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区平和島
+    rdfs:label "平和島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区平和の森公園
+    rdfs:label "平和の森公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区本羽田
+    rdfs:label "本羽田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区南蒲田
+    rdfs:label "南蒲田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区南久が原
+    rdfs:label "南久が原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区南千束
+    rdfs:label "南千束"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区南馬込
+    rdfs:label "南馬込"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区南雪谷
+    rdfs:label "南雪谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区南六郷
+    rdfs:label "南六郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区矢口
+    rdfs:label "矢口"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区雪谷大塚町
+    rdfs:label "雪谷大塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大田区令和島
+    rdfs:label "令和島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区
+    rdfs:label "世田谷区"@ja ;
+    mo:AreaCode "13112" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都世田谷区赤堤 ;
+    mo:SubRegion mr:JP_東京都世田谷区池尻 ;
+    mo:SubRegion mr:JP_東京都世田谷区宇奈根 ;
+    mo:SubRegion mr:JP_東京都世田谷区梅丘 ;
+    mo:SubRegion mr:JP_東京都世田谷区大蔵 ;
+    mo:SubRegion mr:JP_東京都世田谷区大原 ;
+    mo:SubRegion mr:JP_東京都世田谷区岡本 ;
+    mo:SubRegion mr:JP_東京都世田谷区奥沢 ;
+    mo:SubRegion mr:JP_東京都世田谷区尾山台 ;
+    mo:SubRegion mr:JP_東京都世田谷区粕谷 ;
+    mo:SubRegion mr:JP_東京都世田谷区鎌田 ;
+    mo:SubRegion mr:JP_東京都世田谷区上馬 ;
+    mo:SubRegion mr:JP_東京都世田谷区上北沢 ;
+    mo:SubRegion mr:JP_東京都世田谷区上祖師谷 ;
+    mo:SubRegion mr:JP_東京都世田谷区上野毛 ;
+    mo:SubRegion mr:JP_東京都世田谷区上用賀 ;
+    mo:SubRegion mr:JP_東京都世田谷区北烏山 ;
+    mo:SubRegion mr:JP_東京都世田谷区北沢 ;
+    mo:SubRegion mr:JP_東京都世田谷区喜多見 ;
+    mo:SubRegion mr:JP_東京都世田谷区砧 ;
+    mo:SubRegion mr:JP_東京都世田谷区砧公園 ;
+    mo:SubRegion mr:JP_東京都世田谷区給田 ;
+    mo:SubRegion mr:JP_東京都世田谷区経堂 ;
+    mo:SubRegion mr:JP_東京都世田谷区豪徳寺 ;
+    mo:SubRegion mr:JP_東京都世田谷区駒沢 ;
+    mo:SubRegion mr:JP_東京都世田谷区駒沢公園 ;
+    mo:SubRegion mr:JP_東京都世田谷区桜 ;
+    mo:SubRegion mr:JP_東京都世田谷区桜丘 ;
+    mo:SubRegion mr:JP_東京都世田谷区桜新町 ;
+    mo:SubRegion mr:JP_東京都世田谷区桜上水 ;
+    mo:SubRegion mr:JP_東京都世田谷区三軒茶屋 ;
+    mo:SubRegion mr:JP_東京都世田谷区下馬 ;
+    mo:SubRegion mr:JP_東京都世田谷区新町 ;
+    mo:SubRegion mr:JP_東京都世田谷区成城 ;
+    mo:SubRegion mr:JP_東京都世田谷区瀬田 ;
+    mo:SubRegion mr:JP_東京都世田谷区世田谷 ;
+    mo:SubRegion mr:JP_東京都世田谷区祖師谷 ;
+    mo:SubRegion mr:JP_東京都世田谷区太子堂 ;
+    mo:SubRegion mr:JP_東京都世田谷区代沢 ;
+    mo:SubRegion mr:JP_東京都世田谷区代田 ;
+    mo:SubRegion mr:JP_東京都世田谷区玉川 ;
+    mo:SubRegion mr:JP_東京都世田谷区玉川台 ;
+    mo:SubRegion mr:JP_東京都世田谷区玉川田園調布 ;
+    mo:SubRegion mr:JP_東京都世田谷区玉堤 ;
+    mo:SubRegion mr:JP_東京都世田谷区千歳台 ;
+    mo:SubRegion mr:JP_東京都世田谷区弦巻 ;
+    mo:SubRegion mr:JP_東京都世田谷区等々力 ;
+    mo:SubRegion mr:JP_東京都世田谷区中町 ;
+    mo:SubRegion mr:JP_東京都世田谷区野毛 ;
+    mo:SubRegion mr:JP_東京都世田谷区野沢 ;
+    mo:SubRegion mr:JP_東京都世田谷区八幡山 ;
+    mo:SubRegion mr:JP_東京都世田谷区羽根木 ;
+    mo:SubRegion mr:JP_東京都世田谷区東玉川 ;
+    mo:SubRegion mr:JP_東京都世田谷区深沢 ;
+    mo:SubRegion mr:JP_東京都世田谷区船橋 ;
+    mo:SubRegion mr:JP_東京都世田谷区松原 ;
+    mo:SubRegion mr:JP_東京都世田谷区三宿 ;
+    mo:SubRegion mr:JP_東京都世田谷区南烏山 ;
+    mo:SubRegion mr:JP_東京都世田谷区宮坂 ;
+    mo:SubRegion mr:JP_東京都世田谷区用賀 ;
+    mo:SubRegion mr:JP_東京都世田谷区若林 ;
+a mo:GeoEntity .
+
+mr:JP_東京都世田谷区赤堤
+    rdfs:label "赤堤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区池尻
+    rdfs:label "池尻"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区宇奈根
+    rdfs:label "宇奈根"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区梅丘
+    rdfs:label "梅丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区大蔵
+    rdfs:label "大蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区大原
+    rdfs:label "大原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区岡本
+    rdfs:label "岡本"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区奥沢
+    rdfs:label "奥沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区尾山台
+    rdfs:label "尾山台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区粕谷
+    rdfs:label "粕谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区鎌田
+    rdfs:label "鎌田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区上馬
+    rdfs:label "上馬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区上北沢
+    rdfs:label "上北沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区上祖師谷
+    rdfs:label "上祖師谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区上野毛
+    rdfs:label "上野毛"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区上用賀
+    rdfs:label "上用賀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区北烏山
+    rdfs:label "北烏山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区北沢
+    rdfs:label "北沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区喜多見
+    rdfs:label "喜多見"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区砧
+    rdfs:label "砧"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区砧公園
+    rdfs:label "砧公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区給田
+    rdfs:label "給田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区経堂
+    rdfs:label "経堂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区豪徳寺
+    rdfs:label "豪徳寺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区駒沢
+    rdfs:label "駒沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区駒沢公園
+    rdfs:label "駒沢公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区桜
+    rdfs:label "桜"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区桜丘
+    rdfs:label "桜丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区桜新町
+    rdfs:label "桜新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区桜上水
+    rdfs:label "桜上水"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区三軒茶屋
+    rdfs:label "三軒茶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区下馬
+    rdfs:label "下馬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区成城
+    rdfs:label "成城"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区瀬田
+    rdfs:label "瀬田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区世田谷
+    rdfs:label "世田谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区祖師谷
+    rdfs:label "祖師谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区太子堂
+    rdfs:label "太子堂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区代沢
+    rdfs:label "代沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区代田
+    rdfs:label "代田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区玉川
+    rdfs:label "玉川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区玉川台
+    rdfs:label "玉川台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区玉川田園調布
+    rdfs:label "玉川田園調布"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区玉堤
+    rdfs:label "玉堤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区千歳台
+    rdfs:label "千歳台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区弦巻
+    rdfs:label "弦巻"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区等々力
+    rdfs:label "等々力"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区野毛
+    rdfs:label "野毛"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区野沢
+    rdfs:label "野沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区八幡山
+    rdfs:label "八幡山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区羽根木
+    rdfs:label "羽根木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区東玉川
+    rdfs:label "東玉川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区深沢
+    rdfs:label "深沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区船橋
+    rdfs:label "船橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区松原
+    rdfs:label "松原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区三宿
+    rdfs:label "三宿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区南烏山
+    rdfs:label "南烏山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区宮坂
+    rdfs:label "宮坂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区用賀
+    rdfs:label "用賀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都世田谷区若林
+    rdfs:label "若林"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区
+    rdfs:label "渋谷区"@ja ;
+    mo:AreaCode "13113" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都渋谷区上原 ;
+    mo:SubRegion mr:JP_東京都渋谷区鶯谷町 ;
+    mo:SubRegion mr:JP_東京都渋谷区宇田川町 ;
+    mo:SubRegion mr:JP_東京都渋谷区恵比寿 ;
+    mo:SubRegion mr:JP_東京都渋谷区恵比寿西 ;
+    mo:SubRegion mr:JP_東京都渋谷区恵比寿南 ;
+    mo:SubRegion mr:JP_東京都渋谷区大山町 ;
+    mo:SubRegion mr:JP_東京都渋谷区神山町 ;
+    mo:SubRegion mr:JP_東京都渋谷区桜丘町 ;
+    mo:SubRegion mr:JP_東京都渋谷区笹塚 ;
+    mo:SubRegion mr:JP_東京都渋谷区猿楽町 ;
+    mo:SubRegion mr:JP_東京都渋谷区渋谷 ;
+    mo:SubRegion mr:JP_東京都渋谷区松濤 ;
+    mo:SubRegion mr:JP_東京都渋谷区神宮前 ;
+    mo:SubRegion mr:JP_東京都渋谷区神泉町 ;
+    mo:SubRegion mr:JP_東京都渋谷区神南 ;
+    mo:SubRegion mr:JP_東京都渋谷区千駄ヶ谷 ;
+    mo:SubRegion mr:JP_東京都渋谷区代官山町 ;
+    mo:SubRegion mr:JP_東京都渋谷区道玄坂 ;
+    mo:SubRegion mr:JP_東京都渋谷区富ヶ谷 ;
+    mo:SubRegion mr:JP_東京都渋谷区南平台町 ;
+    mo:SubRegion mr:JP_東京都渋谷区西原 ;
+    mo:SubRegion mr:JP_東京都渋谷区幡ヶ谷 ;
+    mo:SubRegion mr:JP_東京都渋谷区鉢山町 ;
+    mo:SubRegion mr:JP_東京都渋谷区初台 ;
+    mo:SubRegion mr:JP_東京都渋谷区東 ;
+    mo:SubRegion mr:JP_東京都渋谷区広尾 ;
+    mo:SubRegion mr:JP_東京都渋谷区本町 ;
+    mo:SubRegion mr:JP_東京都渋谷区円山町 ;
+    mo:SubRegion mr:JP_東京都渋谷区元代々木町 ;
+    mo:SubRegion mr:JP_東京都渋谷区代々木 ;
+    mo:SubRegion mr:JP_東京都渋谷区代々木神園町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都渋谷区上原
+    rdfs:label "上原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区鶯谷町
+    rdfs:label "鶯谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区宇田川町
+    rdfs:label "宇田川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区恵比寿
+    rdfs:label "恵比寿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区恵比寿西
+    rdfs:label "恵比寿西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区恵比寿南
+    rdfs:label "恵比寿南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区大山町
+    rdfs:label "大山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区神山町
+    rdfs:label "神山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区桜丘町
+    rdfs:label "桜丘町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区笹塚
+    rdfs:label "笹塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区猿楽町
+    rdfs:label "猿楽町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区渋谷
+    rdfs:label "渋谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区松濤
+    rdfs:label "松濤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区神宮前
+    rdfs:label "神宮前"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区神泉町
+    rdfs:label "神泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区神南
+    rdfs:label "神南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区千駄ヶ谷
+    rdfs:label "千駄ヶ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区代官山町
+    rdfs:label "代官山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区道玄坂
+    rdfs:label "道玄坂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区富ヶ谷
+    rdfs:label "富ヶ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区南平台町
+    rdfs:label "南平台町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区幡ヶ谷
+    rdfs:label "幡ヶ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区鉢山町
+    rdfs:label "鉢山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区初台
+    rdfs:label "初台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区東
+    rdfs:label "東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区広尾
+    rdfs:label "広尾"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区円山町
+    rdfs:label "円山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区元代々木町
+    rdfs:label "元代々木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区代々木
+    rdfs:label "代々木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都渋谷区代々木神園町
+    rdfs:label "代々木神園町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区
+    rdfs:label "中野区"@ja ;
+    mo:AreaCode "13114" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都中野区新井 ;
+    mo:SubRegion mr:JP_東京都中野区江古田 ;
+    mo:SubRegion mr:JP_東京都中野区江原町 ;
+    mo:SubRegion mr:JP_東京都中野区上鷺宮 ;
+    mo:SubRegion mr:JP_東京都中野区上高田 ;
+    mo:SubRegion mr:JP_東京都中野区鷺宮 ;
+    mo:SubRegion mr:JP_東京都中野区白鷺 ;
+    mo:SubRegion mr:JP_東京都中野区中央 ;
+    mo:SubRegion mr:JP_東京都中野区中野 ;
+    mo:SubRegion mr:JP_東京都中野区沼袋 ;
+    mo:SubRegion mr:JP_東京都中野区野方 ;
+    mo:SubRegion mr:JP_東京都中野区東中野 ;
+    mo:SubRegion mr:JP_東京都中野区本町 ;
+    mo:SubRegion mr:JP_東京都中野区松が丘 ;
+    mo:SubRegion mr:JP_東京都中野区丸山 ;
+    mo:SubRegion mr:JP_東京都中野区南台 ;
+    mo:SubRegion mr:JP_東京都中野区大和町 ;
+    mo:SubRegion mr:JP_東京都中野区弥生町 ;
+    mo:SubRegion mr:JP_東京都中野区若宮 ;
+a mo:GeoEntity .
+
+mr:JP_東京都中野区新井
+    rdfs:label "新井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区江古田
+    rdfs:label "江古田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区江原町
+    rdfs:label "江原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区上鷺宮
+    rdfs:label "上鷺宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区上高田
+    rdfs:label "上高田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区鷺宮
+    rdfs:label "鷺宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区白鷺
+    rdfs:label "白鷺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区沼袋
+    rdfs:label "沼袋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区野方
+    rdfs:label "野方"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区東中野
+    rdfs:label "東中野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区松が丘
+    rdfs:label "松が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区丸山
+    rdfs:label "丸山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区南台
+    rdfs:label "南台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区大和町
+    rdfs:label "大和町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都中野区若宮
+    rdfs:label "若宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区
+    rdfs:label "杉並区"@ja ;
+    mo:AreaCode "13115" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都杉並区阿佐谷南 ;
+    mo:SubRegion mr:JP_東京都杉並区阿佐谷北 ;
+    mo:SubRegion mr:JP_東京都杉並区天沼 ;
+    mo:SubRegion mr:JP_東京都杉並区井草 ;
+    mo:SubRegion mr:JP_東京都杉並区和泉 ;
+    mo:SubRegion mr:JP_東京都杉並区今川 ;
+    mo:SubRegion mr:JP_東京都杉並区梅里 ;
+    mo:SubRegion mr:JP_東京都杉並区永福 ;
+    mo:SubRegion mr:JP_東京都杉並区大宮 ;
+    mo:SubRegion mr:JP_東京都杉並区荻窪 ;
+    mo:SubRegion mr:JP_東京都杉並区上井草 ;
+    mo:SubRegion mr:JP_東京都杉並区上荻 ;
+    mo:SubRegion mr:JP_東京都杉並区上高井戸 ;
+    mo:SubRegion mr:JP_東京都杉並区久我山 ;
+    mo:SubRegion mr:JP_東京都杉並区高円寺南 ;
+    mo:SubRegion mr:JP_東京都杉並区高円寺北 ;
+    mo:SubRegion mr:JP_東京都杉並区清水 ;
+    mo:SubRegion mr:JP_東京都杉並区下井草 ;
+    mo:SubRegion mr:JP_東京都杉並区下高井戸 ;
+    mo:SubRegion mr:JP_東京都杉並区松庵 ;
+    mo:SubRegion mr:JP_東京都杉並区善福寺 ;
+    mo:SubRegion mr:JP_東京都杉並区高井戸東 ;
+    mo:SubRegion mr:JP_東京都杉並区高井戸西 ;
+    mo:SubRegion mr:JP_東京都杉並区成田東 ;
+    mo:SubRegion mr:JP_東京都杉並区成田西 ;
+    mo:SubRegion mr:JP_東京都杉並区西荻南 ;
+    mo:SubRegion mr:JP_東京都杉並区西荻北 ;
+    mo:SubRegion mr:JP_東京都杉並区浜田山 ;
+    mo:SubRegion mr:JP_東京都杉並区方南 ;
+    mo:SubRegion mr:JP_東京都杉並区堀ノ内 ;
+    mo:SubRegion mr:JP_東京都杉並区本天沼 ;
+    mo:SubRegion mr:JP_東京都杉並区松ノ木 ;
+    mo:SubRegion mr:JP_東京都杉並区南荻窪 ;
+    mo:SubRegion mr:JP_東京都杉並区宮前 ;
+    mo:SubRegion mr:JP_東京都杉並区桃井 ;
+    mo:SubRegion mr:JP_東京都杉並区和田 ;
+a mo:GeoEntity .
+
+mr:JP_東京都杉並区阿佐谷南
+    rdfs:label "阿佐谷南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区阿佐谷北
+    rdfs:label "阿佐谷北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区天沼
+    rdfs:label "天沼"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区井草
+    rdfs:label "井草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区和泉
+    rdfs:label "和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区今川
+    rdfs:label "今川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区梅里
+    rdfs:label "梅里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区永福
+    rdfs:label "永福"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区大宮
+    rdfs:label "大宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区荻窪
+    rdfs:label "荻窪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区上井草
+    rdfs:label "上井草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区上荻
+    rdfs:label "上荻"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区上高井戸
+    rdfs:label "上高井戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区久我山
+    rdfs:label "久我山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区高円寺南
+    rdfs:label "高円寺南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区高円寺北
+    rdfs:label "高円寺北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区下井草
+    rdfs:label "下井草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区下高井戸
+    rdfs:label "下高井戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区松庵
+    rdfs:label "松庵"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区善福寺
+    rdfs:label "善福寺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区高井戸東
+    rdfs:label "高井戸東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区高井戸西
+    rdfs:label "高井戸西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区成田東
+    rdfs:label "成田東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区成田西
+    rdfs:label "成田西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区西荻南
+    rdfs:label "西荻南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区西荻北
+    rdfs:label "西荻北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区浜田山
+    rdfs:label "浜田山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区方南
+    rdfs:label "方南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区堀ノ内
+    rdfs:label "堀ノ内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区本天沼
+    rdfs:label "本天沼"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区松ノ木
+    rdfs:label "松ノ木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区南荻窪
+    rdfs:label "南荻窪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区宮前
+    rdfs:label "宮前"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区桃井
+    rdfs:label "桃井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都杉並区和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区
+    rdfs:label "豊島区"@ja ;
+    mo:AreaCode "13116" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都豊島区池袋 ;
+    mo:SubRegion mr:JP_東京都豊島区池袋本町 ;
+    mo:SubRegion mr:JP_東京都豊島区要町 ;
+    mo:SubRegion mr:JP_東京都豊島区上池袋 ;
+    mo:SubRegion mr:JP_東京都豊島区北大塚 ;
+    mo:SubRegion mr:JP_東京都豊島区駒込 ;
+    mo:SubRegion mr:JP_東京都豊島区巣鴨 ;
+    mo:SubRegion mr:JP_東京都豊島区千川 ;
+    mo:SubRegion mr:JP_東京都豊島区雑司が谷 ;
+    mo:SubRegion mr:JP_東京都豊島区高田 ;
+    mo:SubRegion mr:JP_東京都豊島区高松 ;
+    mo:SubRegion mr:JP_東京都豊島区千早 ;
+    mo:SubRegion mr:JP_東京都豊島区長崎 ;
+    mo:SubRegion mr:JP_東京都豊島区西池袋 ;
+    mo:SubRegion mr:JP_東京都豊島区西巣鴨 ;
+    mo:SubRegion mr:JP_東京都豊島区東池袋 ;
+    mo:SubRegion mr:JP_東京都豊島区南池袋 ;
+    mo:SubRegion mr:JP_東京都豊島区南大塚 ;
+    mo:SubRegion mr:JP_東京都豊島区南長崎 ;
+    mo:SubRegion mr:JP_東京都豊島区目白 ;
+a mo:GeoEntity .
+
+mr:JP_東京都豊島区池袋
+    rdfs:label "池袋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区池袋本町
+    rdfs:label "池袋本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区要町
+    rdfs:label "要町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区上池袋
+    rdfs:label "上池袋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区北大塚
+    rdfs:label "北大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区駒込
+    rdfs:label "駒込"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区巣鴨
+    rdfs:label "巣鴨"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区千川
+    rdfs:label "千川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区雑司が谷
+    rdfs:label "雑司が谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区高田
+    rdfs:label "高田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区高松
+    rdfs:label "高松"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区千早
+    rdfs:label "千早"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区長崎
+    rdfs:label "長崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区西池袋
+    rdfs:label "西池袋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区西巣鴨
+    rdfs:label "西巣鴨"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区東池袋
+    rdfs:label "東池袋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区南池袋
+    rdfs:label "南池袋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区南大塚
+    rdfs:label "南大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区南長崎
+    rdfs:label "南長崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都豊島区目白
+    rdfs:label "目白"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区
+    rdfs:label "北区"@ja ;
+    mo:AreaCode "13117" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都北区赤羽 ;
+    mo:SubRegion mr:JP_東京都北区赤羽台 ;
+    mo:SubRegion mr:JP_東京都北区赤羽西 ;
+    mo:SubRegion mr:JP_東京都北区赤羽南 ;
+    mo:SubRegion mr:JP_東京都北区赤羽北 ;
+    mo:SubRegion mr:JP_東京都北区岩淵町 ;
+    mo:SubRegion mr:JP_東京都北区浮間 ;
+    mo:SubRegion mr:JP_東京都北区王子 ;
+    mo:SubRegion mr:JP_東京都北区王子本町 ;
+    mo:SubRegion mr:JP_東京都北区上十条 ;
+    mo:SubRegion mr:JP_東京都北区上中里 ;
+    mo:SubRegion mr:JP_東京都北区神谷 ;
+    mo:SubRegion mr:JP_東京都北区岸町 ;
+    mo:SubRegion mr:JP_東京都北区桐ケ丘 ;
+    mo:SubRegion mr:JP_東京都北区栄町 ;
+    mo:SubRegion mr:JP_東京都北区志茂 ;
+    mo:SubRegion mr:JP_東京都北区十条台 ;
+    mo:SubRegion mr:JP_東京都北区十条仲原 ;
+    mo:SubRegion mr:JP_東京都北区昭和町 ;
+    mo:SubRegion mr:JP_東京都北区滝野川 ;
+    mo:SubRegion mr:JP_東京都北区田端 ;
+    mo:SubRegion mr:JP_東京都北区田端新町 ;
+    mo:SubRegion mr:JP_東京都北区豊島 ;
+    mo:SubRegion mr:JP_東京都北区中里 ;
+    mo:SubRegion mr:JP_東京都北区中十条 ;
+    mo:SubRegion mr:JP_東京都北区西が丘 ;
+    mo:SubRegion mr:JP_東京都北区西ケ原 ;
+    mo:SubRegion mr:JP_東京都北区東十条 ;
+    mo:SubRegion mr:JP_東京都北区東田端 ;
+    mo:SubRegion mr:JP_東京都北区堀船 ;
+a mo:GeoEntity .
+
+mr:JP_東京都北区赤羽
+    rdfs:label "赤羽"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区赤羽台
+    rdfs:label "赤羽台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区赤羽西
+    rdfs:label "赤羽西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区赤羽南
+    rdfs:label "赤羽南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区赤羽北
+    rdfs:label "赤羽北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区岩淵町
+    rdfs:label "岩淵町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区浮間
+    rdfs:label "浮間"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区王子
+    rdfs:label "王子"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区王子本町
+    rdfs:label "王子本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区上十条
+    rdfs:label "上十条"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区上中里
+    rdfs:label "上中里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区神谷
+    rdfs:label "神谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区岸町
+    rdfs:label "岸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区桐ケ丘
+    rdfs:label "桐ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区志茂
+    rdfs:label "志茂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区十条台
+    rdfs:label "十条台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区十条仲原
+    rdfs:label "十条仲原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区滝野川
+    rdfs:label "滝野川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区田端
+    rdfs:label "田端"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区田端新町
+    rdfs:label "田端新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区豊島
+    rdfs:label "豊島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区中里
+    rdfs:label "中里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区中十条
+    rdfs:label "中十条"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区西が丘
+    rdfs:label "西が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区西ケ原
+    rdfs:label "西ケ原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区東十条
+    rdfs:label "東十条"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区東田端
+    rdfs:label "東田端"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都北区堀船
+    rdfs:label "堀船"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都荒川区
+    rdfs:label "荒川区"@ja ;
+    mo:AreaCode "13118" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都荒川区荒川 ;
+    mo:SubRegion mr:JP_東京都荒川区西尾久 ;
+    mo:SubRegion mr:JP_東京都荒川区西日暮里 ;
+    mo:SubRegion mr:JP_東京都荒川区東尾久 ;
+    mo:SubRegion mr:JP_東京都荒川区東日暮里 ;
+    mo:SubRegion mr:JP_東京都荒川区町屋 ;
+    mo:SubRegion mr:JP_東京都荒川区南千住 ;
+a mo:GeoEntity .
+
+mr:JP_東京都荒川区荒川
+    rdfs:label "荒川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都荒川区西尾久
+    rdfs:label "西尾久"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都荒川区西日暮里
+    rdfs:label "西日暮里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都荒川区東尾久
+    rdfs:label "東尾久"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都荒川区東日暮里
+    rdfs:label "東日暮里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都荒川区町屋
+    rdfs:label "町屋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都荒川区南千住
+    rdfs:label "南千住"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区
+    rdfs:label "板橋区"@ja ;
+    mo:AreaCode "13119" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都板橋区相生町 ;
+    mo:SubRegion mr:JP_東京都板橋区赤塚 ;
+    mo:SubRegion mr:JP_東京都板橋区赤塚新町 ;
+    mo:SubRegion mr:JP_東京都板橋区小豆沢 ;
+    mo:SubRegion mr:JP_東京都板橋区泉町 ;
+    mo:SubRegion mr:JP_東京都板橋区板橋 ;
+    mo:SubRegion mr:JP_東京都板橋区稲荷台 ;
+    mo:SubRegion mr:JP_東京都板橋区大原町 ;
+    mo:SubRegion mr:JP_東京都板橋区大谷口 ;
+    mo:SubRegion mr:JP_東京都板橋区大谷口上町 ;
+    mo:SubRegion mr:JP_東京都板橋区大谷口北町 ;
+    mo:SubRegion mr:JP_東京都板橋区大山金井町 ;
+    mo:SubRegion mr:JP_東京都板橋区大山東町 ;
+    mo:SubRegion mr:JP_東京都板橋区大山西町 ;
+    mo:SubRegion mr:JP_東京都板橋区大山町 ;
+    mo:SubRegion mr:JP_東京都板橋区加賀 ;
+    mo:SubRegion mr:JP_東京都板橋区上板橋 ;
+    mo:SubRegion mr:JP_東京都板橋区熊野町 ;
+    mo:SubRegion mr:JP_東京都板橋区小茂根 ;
+    mo:SubRegion mr:JP_東京都板橋区幸町 ;
+    mo:SubRegion mr:JP_東京都板橋区栄町 ;
+    mo:SubRegion mr:JP_東京都板橋区坂下 ;
+    mo:SubRegion mr:JP_東京都板橋区桜川 ;
+    mo:SubRegion mr:JP_東京都板橋区清水町 ;
+    mo:SubRegion mr:JP_東京都板橋区志村 ;
+    mo:SubRegion mr:JP_東京都板橋区新河岸 ;
+    mo:SubRegion mr:JP_東京都板橋区大門 ;
+    mo:SubRegion mr:JP_東京都板橋区高島平 ;
+    mo:SubRegion mr:JP_東京都板橋区東新町 ;
+    mo:SubRegion mr:JP_東京都板橋区常盤台 ;
+    mo:SubRegion mr:JP_東京都板橋区徳丸 ;
+    mo:SubRegion mr:JP_東京都板橋区中板橋 ;
+    mo:SubRegion mr:JP_東京都板橋区仲宿 ;
+    mo:SubRegion mr:JP_東京都板橋区中台 ;
+    mo:SubRegion mr:JP_東京都板橋区仲町 ;
+    mo:SubRegion mr:JP_東京都板橋区中丸町 ;
+    mo:SubRegion mr:JP_東京都板橋区成増 ;
+    mo:SubRegion mr:JP_東京都板橋区西台 ;
+    mo:SubRegion mr:JP_東京都板橋区蓮沼町 ;
+    mo:SubRegion mr:JP_東京都板橋区蓮根 ;
+    mo:SubRegion mr:JP_東京都板橋区氷川町 ;
+    mo:SubRegion mr:JP_東京都板橋区東坂下 ;
+    mo:SubRegion mr:JP_東京都板橋区東山町 ;
+    mo:SubRegion mr:JP_東京都板橋区富士見町 ;
+    mo:SubRegion mr:JP_東京都板橋区双葉町 ;
+    mo:SubRegion mr:JP_東京都板橋区舟渡 ;
+    mo:SubRegion mr:JP_東京都板橋区本町 ;
+    mo:SubRegion mr:JP_東京都板橋区前野町 ;
+    mo:SubRegion mr:JP_東京都板橋区三園 ;
+    mo:SubRegion mr:JP_東京都板橋区南町 ;
+    mo:SubRegion mr:JP_東京都板橋区南常盤台 ;
+    mo:SubRegion mr:JP_東京都板橋区宮本町 ;
+    mo:SubRegion mr:JP_東京都板橋区向原 ;
+    mo:SubRegion mr:JP_東京都板橋区大和町 ;
+    mo:SubRegion mr:JP_東京都板橋区弥生町 ;
+    mo:SubRegion mr:JP_東京都板橋区四葉 ;
+    mo:SubRegion mr:JP_東京都板橋区若木 ;
+a mo:GeoEntity .
+
+mr:JP_東京都板橋区相生町
+    rdfs:label "相生町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区赤塚
+    rdfs:label "赤塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区赤塚新町
+    rdfs:label "赤塚新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区小豆沢
+    rdfs:label "小豆沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区板橋
+    rdfs:label "板橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区稲荷台
+    rdfs:label "稲荷台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大原町
+    rdfs:label "大原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大谷口
+    rdfs:label "大谷口"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大谷口上町
+    rdfs:label "大谷口上町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大谷口北町
+    rdfs:label "大谷口北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大山金井町
+    rdfs:label "大山金井町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大山東町
+    rdfs:label "大山東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大山西町
+    rdfs:label "大山西町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大山町
+    rdfs:label "大山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区加賀
+    rdfs:label "加賀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区上板橋
+    rdfs:label "上板橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区熊野町
+    rdfs:label "熊野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区小茂根
+    rdfs:label "小茂根"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区坂下
+    rdfs:label "坂下"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区桜川
+    rdfs:label "桜川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区清水町
+    rdfs:label "清水町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区志村
+    rdfs:label "志村"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区新河岸
+    rdfs:label "新河岸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大門
+    rdfs:label "大門"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区高島平
+    rdfs:label "高島平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区東新町
+    rdfs:label "東新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区常盤台
+    rdfs:label "常盤台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区徳丸
+    rdfs:label "徳丸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区中板橋
+    rdfs:label "中板橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区仲宿
+    rdfs:label "仲宿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区中台
+    rdfs:label "中台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区仲町
+    rdfs:label "仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区中丸町
+    rdfs:label "中丸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区成増
+    rdfs:label "成増"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区西台
+    rdfs:label "西台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区蓮沼町
+    rdfs:label "蓮沼町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区蓮根
+    rdfs:label "蓮根"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区氷川町
+    rdfs:label "氷川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区東坂下
+    rdfs:label "東坂下"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区東山町
+    rdfs:label "東山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区双葉町
+    rdfs:label "双葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区舟渡
+    rdfs:label "舟渡"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区前野町
+    rdfs:label "前野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区三園
+    rdfs:label "三園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区南常盤台
+    rdfs:label "南常盤台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区宮本町
+    rdfs:label "宮本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区向原
+    rdfs:label "向原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区大和町
+    rdfs:label "大和町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区弥生町
+    rdfs:label "弥生町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区四葉
+    rdfs:label "四葉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都板橋区若木
+    rdfs:label "若木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区
+    rdfs:label "練馬区"@ja ;
+    mo:AreaCode "13120" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都練馬区旭丘 ;
+    mo:SubRegion mr:JP_東京都練馬区旭町 ;
+    mo:SubRegion mr:JP_東京都練馬区大泉学園町 ;
+    mo:SubRegion mr:JP_東京都練馬区大泉町 ;
+    mo:SubRegion mr:JP_東京都練馬区春日町 ;
+    mo:SubRegion mr:JP_東京都練馬区上石神井 ;
+    mo:SubRegion mr:JP_東京都練馬区上石神井南町 ;
+    mo:SubRegion mr:JP_東京都練馬区北町 ;
+    mo:SubRegion mr:JP_東京都練馬区向山 ;
+    mo:SubRegion mr:JP_東京都練馬区小竹町 ;
+    mo:SubRegion mr:JP_東京都練馬区栄町 ;
+    mo:SubRegion mr:JP_東京都練馬区桜台 ;
+    mo:SubRegion mr:JP_東京都練馬区下石神井 ;
+    mo:SubRegion mr:JP_東京都練馬区石神井台 ;
+    mo:SubRegion mr:JP_東京都練馬区石神井町 ;
+    mo:SubRegion mr:JP_東京都練馬区関町東 ;
+    mo:SubRegion mr:JP_東京都練馬区関町南 ;
+    mo:SubRegion mr:JP_東京都練馬区関町北 ;
+    mo:SubRegion mr:JP_東京都練馬区高野台 ;
+    mo:SubRegion mr:JP_東京都練馬区高松 ;
+    mo:SubRegion mr:JP_東京都練馬区田柄 ;
+    mo:SubRegion mr:JP_東京都練馬区立野町 ;
+    mo:SubRegion mr:JP_東京都練馬区土支田 ;
+    mo:SubRegion mr:JP_東京都練馬区豊玉上 ;
+    mo:SubRegion mr:JP_東京都練馬区豊玉中 ;
+    mo:SubRegion mr:JP_東京都練馬区豊玉南 ;
+    mo:SubRegion mr:JP_東京都練馬区豊玉北 ;
+    mo:SubRegion mr:JP_東京都練馬区中村 ;
+    mo:SubRegion mr:JP_東京都練馬区中村南 ;
+    mo:SubRegion mr:JP_東京都練馬区中村北 ;
+    mo:SubRegion mr:JP_東京都練馬区西大泉 ;
+    mo:SubRegion mr:JP_東京都練馬区西大泉町 ;
+    mo:SubRegion mr:JP_東京都練馬区錦 ;
+    mo:SubRegion mr:JP_東京都練馬区貫井 ;
+    mo:SubRegion mr:JP_東京都練馬区練馬 ;
+    mo:SubRegion mr:JP_東京都練馬区羽沢 ;
+    mo:SubRegion mr:JP_東京都練馬区早宮 ;
+    mo:SubRegion mr:JP_東京都練馬区光が丘 ;
+    mo:SubRegion mr:JP_東京都練馬区氷川台 ;
+    mo:SubRegion mr:JP_東京都練馬区東大泉 ;
+    mo:SubRegion mr:JP_東京都練馬区富士見台 ;
+    mo:SubRegion mr:JP_東京都練馬区平和台 ;
+    mo:SubRegion mr:JP_東京都練馬区南大泉 ;
+    mo:SubRegion mr:JP_東京都練馬区南田中 ;
+    mo:SubRegion mr:JP_東京都練馬区三原台 ;
+    mo:SubRegion mr:JP_東京都練馬区谷原 ;
+a mo:GeoEntity .
+
+mr:JP_東京都練馬区旭丘
+    rdfs:label "旭丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区大泉学園町
+    rdfs:label "大泉学園町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区大泉町
+    rdfs:label "大泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区春日町
+    rdfs:label "春日町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区上石神井
+    rdfs:label "上石神井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区上石神井南町
+    rdfs:label "上石神井南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区北町
+    rdfs:label "北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区向山
+    rdfs:label "向山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区小竹町
+    rdfs:label "小竹町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区桜台
+    rdfs:label "桜台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区下石神井
+    rdfs:label "下石神井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区石神井台
+    rdfs:label "石神井台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区石神井町
+    rdfs:label "石神井町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区関町東
+    rdfs:label "関町東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区関町南
+    rdfs:label "関町南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区関町北
+    rdfs:label "関町北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区高野台
+    rdfs:label "高野台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区高松
+    rdfs:label "高松"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区田柄
+    rdfs:label "田柄"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区立野町
+    rdfs:label "立野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区土支田
+    rdfs:label "土支田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区豊玉上
+    rdfs:label "豊玉上"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区豊玉中
+    rdfs:label "豊玉中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区豊玉南
+    rdfs:label "豊玉南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区豊玉北
+    rdfs:label "豊玉北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区中村
+    rdfs:label "中村"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区中村南
+    rdfs:label "中村南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区中村北
+    rdfs:label "中村北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区西大泉
+    rdfs:label "西大泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区西大泉町
+    rdfs:label "西大泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区錦
+    rdfs:label "錦"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区貫井
+    rdfs:label "貫井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区練馬
+    rdfs:label "練馬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区羽沢
+    rdfs:label "羽沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区早宮
+    rdfs:label "早宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区光が丘
+    rdfs:label "光が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区氷川台
+    rdfs:label "氷川台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区東大泉
+    rdfs:label "東大泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区富士見台
+    rdfs:label "富士見台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区平和台
+    rdfs:label "平和台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区南大泉
+    rdfs:label "南大泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区南田中
+    rdfs:label "南田中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区三原台
+    rdfs:label "三原台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都練馬区谷原
+    rdfs:label "谷原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区
+    rdfs:label "足立区"@ja ;
+    mo:AreaCode "13121" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都足立区青井 ;
+    mo:SubRegion mr:JP_東京都足立区足立 ;
+    mo:SubRegion mr:JP_東京都足立区綾瀬 ;
+    mo:SubRegion mr:JP_東京都足立区伊興 ;
+    mo:SubRegion mr:JP_東京都足立区伊興本町 ;
+    mo:SubRegion mr:JP_東京都足立区入谷 ;
+    mo:SubRegion mr:JP_東京都足立区入谷町 ;
+    mo:SubRegion mr:JP_東京都足立区梅島 ;
+    mo:SubRegion mr:JP_東京都足立区梅田 ;
+    mo:SubRegion mr:JP_東京都足立区扇 ;
+    mo:SubRegion mr:JP_東京都足立区大谷田 ;
+    mo:SubRegion mr:JP_東京都足立区興野 ;
+    mo:SubRegion mr:JP_東京都足立区小台 ;
+    mo:SubRegion mr:JP_東京都足立区加賀 ;
+    mo:SubRegion mr:JP_東京都足立区加平 ;
+    mo:SubRegion mr:JP_東京都足立区北加平町 ;
+    mo:SubRegion mr:JP_東京都足立区栗原 ;
+    mo:SubRegion mr:JP_東京都足立区弘道 ;
+    mo:SubRegion mr:JP_東京都足立区江北 ;
+    mo:SubRegion mr:JP_東京都足立区古千谷 ;
+    mo:SubRegion mr:JP_東京都足立区古千谷本町 ;
+    mo:SubRegion mr:JP_東京都足立区佐野 ;
+    mo:SubRegion mr:JP_東京都足立区皿沼 ;
+    mo:SubRegion mr:JP_東京都足立区鹿浜 ;
+    mo:SubRegion mr:JP_東京都足立区島根 ;
+    mo:SubRegion mr:JP_東京都足立区新田 ;
+    mo:SubRegion mr:JP_東京都足立区神明 ;
+    mo:SubRegion mr:JP_東京都足立区神明南 ;
+    mo:SubRegion mr:JP_東京都足立区関原 ;
+    mo:SubRegion mr:JP_東京都足立区千住 ;
+    mo:SubRegion mr:JP_東京都足立区千住曙町 ;
+    mo:SubRegion mr:JP_東京都足立区千住旭町 ;
+    mo:SubRegion mr:JP_東京都足立区千住東 ;
+    mo:SubRegion mr:JP_東京都足立区千住大川町 ;
+    mo:SubRegion mr:JP_東京都足立区千住河原町 ;
+    mo:SubRegion mr:JP_東京都足立区千住寿町 ;
+    mo:SubRegion mr:JP_東京都足立区千住桜木 ;
+    mo:SubRegion mr:JP_東京都足立区千住関屋町 ;
+    mo:SubRegion mr:JP_東京都足立区千住龍田町 ;
+    mo:SubRegion mr:JP_東京都足立区千住中居町 ;
+    mo:SubRegion mr:JP_東京都足立区千住仲町 ;
+    mo:SubRegion mr:JP_東京都足立区千住橋戸町 ;
+    mo:SubRegion mr:JP_東京都足立区千住緑町 ;
+    mo:SubRegion mr:JP_東京都足立区千住宮元町 ;
+    mo:SubRegion mr:JP_東京都足立区千住元町 ;
+    mo:SubRegion mr:JP_東京都足立区千住柳町 ;
+    mo:SubRegion mr:JP_東京都足立区竹の塚 ;
+    mo:SubRegion mr:JP_東京都足立区辰沼 ;
+    mo:SubRegion mr:JP_東京都足立区中央本町 ;
+    mo:SubRegion mr:JP_東京都足立区椿 ;
+    mo:SubRegion mr:JP_東京都足立区東和 ;
+    mo:SubRegion mr:JP_東京都足立区舎人 ;
+    mo:SubRegion mr:JP_東京都足立区舎人公園 ;
+    mo:SubRegion mr:JP_東京都足立区舎人町 ;
+    mo:SubRegion mr:JP_東京都足立区中川 ;
+    mo:SubRegion mr:JP_東京都足立区西綾瀬 ;
+    mo:SubRegion mr:JP_東京都足立区西新井 ;
+    mo:SubRegion mr:JP_東京都足立区西新井栄町 ;
+    mo:SubRegion mr:JP_東京都足立区西新井本町 ;
+    mo:SubRegion mr:JP_東京都足立区西伊興 ;
+    mo:SubRegion mr:JP_東京都足立区西伊興町 ;
+    mo:SubRegion mr:JP_東京都足立区西加平 ;
+    mo:SubRegion mr:JP_東京都足立区西竹の塚 ;
+    mo:SubRegion mr:JP_東京都足立区西保木間 ;
+    mo:SubRegion mr:JP_東京都足立区花畑 ;
+    mo:SubRegion mr:JP_東京都足立区東綾瀬 ;
+    mo:SubRegion mr:JP_東京都足立区東伊興 ;
+    mo:SubRegion mr:JP_東京都足立区東保木間 ;
+    mo:SubRegion mr:JP_東京都足立区東六月町 ;
+    mo:SubRegion mr:JP_東京都足立区一ツ家 ;
+    mo:SubRegion mr:JP_東京都足立区日ノ出町 ;
+    mo:SubRegion mr:JP_東京都足立区平野 ;
+    mo:SubRegion mr:JP_東京都足立区保木間 ;
+    mo:SubRegion mr:JP_東京都足立区保塚町 ;
+    mo:SubRegion mr:JP_東京都足立区堀之内 ;
+    mo:SubRegion mr:JP_東京都足立区南花畑 ;
+    mo:SubRegion mr:JP_東京都足立区宮城 ;
+    mo:SubRegion mr:JP_東京都足立区六木 ;
+    mo:SubRegion mr:JP_東京都足立区本木 ;
+    mo:SubRegion mr:JP_東京都足立区本木東町 ;
+    mo:SubRegion mr:JP_東京都足立区本木西町 ;
+    mo:SubRegion mr:JP_東京都足立区本木南町 ;
+    mo:SubRegion mr:JP_東京都足立区本木北町 ;
+    mo:SubRegion mr:JP_東京都足立区谷在家 ;
+    mo:SubRegion mr:JP_東京都足立区谷中 ;
+    mo:SubRegion mr:JP_東京都足立区柳原 ;
+    mo:SubRegion mr:JP_東京都足立区六月 ;
+    mo:SubRegion mr:JP_東京都足立区六町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都足立区青井
+    rdfs:label "青井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区足立
+    rdfs:label "足立"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区綾瀬
+    rdfs:label "綾瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区伊興
+    rdfs:label "伊興"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区伊興本町
+    rdfs:label "伊興本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区入谷
+    rdfs:label "入谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区入谷町
+    rdfs:label "入谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区梅島
+    rdfs:label "梅島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区梅田
+    rdfs:label "梅田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区扇
+    rdfs:label "扇"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区大谷田
+    rdfs:label "大谷田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区興野
+    rdfs:label "興野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区小台
+    rdfs:label "小台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区加賀
+    rdfs:label "加賀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区加平
+    rdfs:label "加平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区北加平町
+    rdfs:label "北加平町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区栗原
+    rdfs:label "栗原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区弘道
+    rdfs:label "弘道"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区江北
+    rdfs:label "江北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区古千谷
+    rdfs:label "古千谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区古千谷本町
+    rdfs:label "古千谷本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区佐野
+    rdfs:label "佐野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区皿沼
+    rdfs:label "皿沼"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区鹿浜
+    rdfs:label "鹿浜"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区島根
+    rdfs:label "島根"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区新田
+    rdfs:label "新田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区神明
+    rdfs:label "神明"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区神明南
+    rdfs:label "神明南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区関原
+    rdfs:label "関原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住
+    rdfs:label "千住"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住曙町
+    rdfs:label "千住曙町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住旭町
+    rdfs:label "千住旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住東
+    rdfs:label "千住東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住大川町
+    rdfs:label "千住大川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住河原町
+    rdfs:label "千住河原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住寿町
+    rdfs:label "千住寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住桜木
+    rdfs:label "千住桜木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住関屋町
+    rdfs:label "千住関屋町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住龍田町
+    rdfs:label "千住龍田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住中居町
+    rdfs:label "千住中居町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住仲町
+    rdfs:label "千住仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住橋戸町
+    rdfs:label "千住橋戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住緑町
+    rdfs:label "千住緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住宮元町
+    rdfs:label "千住宮元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住元町
+    rdfs:label "千住元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区千住柳町
+    rdfs:label "千住柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区竹の塚
+    rdfs:label "竹の塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区辰沼
+    rdfs:label "辰沼"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区中央本町
+    rdfs:label "中央本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区椿
+    rdfs:label "椿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区東和
+    rdfs:label "東和"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区舎人
+    rdfs:label "舎人"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区舎人公園
+    rdfs:label "舎人公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区舎人町
+    rdfs:label "舎人町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区中川
+    rdfs:label "中川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西綾瀬
+    rdfs:label "西綾瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西新井
+    rdfs:label "西新井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西新井栄町
+    rdfs:label "西新井栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西新井本町
+    rdfs:label "西新井本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西伊興
+    rdfs:label "西伊興"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西伊興町
+    rdfs:label "西伊興町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西加平
+    rdfs:label "西加平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西竹の塚
+    rdfs:label "西竹の塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区西保木間
+    rdfs:label "西保木間"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区花畑
+    rdfs:label "花畑"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区東綾瀬
+    rdfs:label "東綾瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区東伊興
+    rdfs:label "東伊興"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区東保木間
+    rdfs:label "東保木間"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区東六月町
+    rdfs:label "東六月町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区一ツ家
+    rdfs:label "一ツ家"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区日ノ出町
+    rdfs:label "日ノ出町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区平野
+    rdfs:label "平野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区保木間
+    rdfs:label "保木間"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区保塚町
+    rdfs:label "保塚町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区堀之内
+    rdfs:label "堀之内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区南花畑
+    rdfs:label "南花畑"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区宮城
+    rdfs:label "宮城"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区六木
+    rdfs:label "六木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区本木
+    rdfs:label "本木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区本木東町
+    rdfs:label "本木東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区本木西町
+    rdfs:label "本木西町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区本木南町
+    rdfs:label "本木南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区本木北町
+    rdfs:label "本木北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区谷在家
+    rdfs:label "谷在家"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区谷中
+    rdfs:label "谷中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区柳原
+    rdfs:label "柳原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区六月
+    rdfs:label "六月"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都足立区六町
+    rdfs:label "六町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区
+    rdfs:label "葛飾区"@ja ;
+    mo:AreaCode "13122" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都葛飾区青戸 ;
+    mo:SubRegion mr:JP_東京都葛飾区奥戸 ;
+    mo:SubRegion mr:JP_東京都葛飾区お花茶屋 ;
+    mo:SubRegion mr:JP_東京都葛飾区金町 ;
+    mo:SubRegion mr:JP_東京都葛飾区金町浄水場 ;
+    mo:SubRegion mr:JP_東京都葛飾区鎌倉 ;
+    mo:SubRegion mr:JP_東京都葛飾区亀有 ;
+    mo:SubRegion mr:JP_東京都葛飾区小菅 ;
+    mo:SubRegion mr:JP_東京都葛飾区柴又 ;
+    mo:SubRegion mr:JP_東京都葛飾区白鳥 ;
+    mo:SubRegion mr:JP_東京都葛飾区新小岩 ;
+    mo:SubRegion mr:JP_東京都葛飾区高砂 ;
+    mo:SubRegion mr:JP_東京都葛飾区宝町 ;
+    mo:SubRegion mr:JP_東京都葛飾区立石 ;
+    mo:SubRegion mr:JP_東京都葛飾区新宿 ;
+    mo:SubRegion mr:JP_東京都葛飾区西亀有 ;
+    mo:SubRegion mr:JP_東京都葛飾区西新小岩 ;
+    mo:SubRegion mr:JP_東京都葛飾区西水元 ;
+    mo:SubRegion mr:JP_東京都葛飾区東金町 ;
+    mo:SubRegion mr:JP_東京都葛飾区東新小岩 ;
+    mo:SubRegion mr:JP_東京都葛飾区東立石 ;
+    mo:SubRegion mr:JP_東京都葛飾区東堀切 ;
+    mo:SubRegion mr:JP_東京都葛飾区東水元 ;
+    mo:SubRegion mr:JP_東京都葛飾区東四つ木 ;
+    mo:SubRegion mr:JP_東京都葛飾区細田 ;
+    mo:SubRegion mr:JP_東京都葛飾区堀切 ;
+    mo:SubRegion mr:JP_東京都葛飾区水元 ;
+    mo:SubRegion mr:JP_東京都葛飾区水元公園 ;
+    mo:SubRegion mr:JP_東京都葛飾区南水元 ;
+    mo:SubRegion mr:JP_東京都葛飾区四つ木 ;
+a mo:GeoEntity .
+
+mr:JP_東京都葛飾区青戸
+    rdfs:label "青戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区奥戸
+    rdfs:label "奥戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区お花茶屋
+    rdfs:label "お花茶屋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区金町
+    rdfs:label "金町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区金町浄水場
+    rdfs:label "金町浄水場"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区鎌倉
+    rdfs:label "鎌倉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区亀有
+    rdfs:label "亀有"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区小菅
+    rdfs:label "小菅"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区柴又
+    rdfs:label "柴又"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区白鳥
+    rdfs:label "白鳥"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区新小岩
+    rdfs:label "新小岩"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区高砂
+    rdfs:label "高砂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区宝町
+    rdfs:label "宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区立石
+    rdfs:label "立石"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区新宿
+    rdfs:label "新宿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区西亀有
+    rdfs:label "西亀有"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区西新小岩
+    rdfs:label "西新小岩"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区西水元
+    rdfs:label "西水元"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区東金町
+    rdfs:label "東金町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区東新小岩
+    rdfs:label "東新小岩"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区東立石
+    rdfs:label "東立石"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区東堀切
+    rdfs:label "東堀切"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区東水元
+    rdfs:label "東水元"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区東四つ木
+    rdfs:label "東四つ木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区細田
+    rdfs:label "細田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区堀切
+    rdfs:label "堀切"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区水元
+    rdfs:label "水元"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区水元公園
+    rdfs:label "水元公園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区南水元
+    rdfs:label "南水元"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都葛飾区四つ木
+    rdfs:label "四つ木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区
+    rdfs:label "江戸川区"@ja ;
+    mo:AreaCode "13123" ;
+    a mo:特別区 ;
+    mo:SubRegion mr:JP_東京都江戸川区一之江 ;
+    mo:SubRegion mr:JP_東京都江戸川区一之江町 ;
+    mo:SubRegion mr:JP_東京都江戸川区宇喜田町 ;
+    mo:SubRegion mr:JP_東京都江戸川区江戸川 ;
+    mo:SubRegion mr:JP_東京都江戸川区大杉 ;
+    mo:SubRegion mr:JP_東京都江戸川区興宮町 ;
+    mo:SubRegion mr:JP_東京都江戸川区上一色 ;
+    mo:SubRegion mr:JP_東京都江戸川区上篠崎 ;
+    mo:SubRegion mr:JP_東京都江戸川区北葛西 ;
+    mo:SubRegion mr:JP_東京都江戸川区北小岩 ;
+    mo:SubRegion mr:JP_東京都江戸川区北篠崎 ;
+    mo:SubRegion mr:JP_東京都江戸川区小松川 ;
+    mo:SubRegion mr:JP_東京都江戸川区鹿骨 ;
+    mo:SubRegion mr:JP_東京都江戸川区鹿骨町 ;
+    mo:SubRegion mr:JP_東京都江戸川区篠崎町 ;
+    mo:SubRegion mr:JP_東京都江戸川区下篠崎町 ;
+    mo:SubRegion mr:JP_東京都江戸川区清新町 ;
+    mo:SubRegion mr:JP_東京都江戸川区中央 ;
+    mo:SubRegion mr:JP_東京都江戸川区中葛西 ;
+    mo:SubRegion mr:JP_東京都江戸川区新堀 ;
+    mo:SubRegion mr:JP_東京都江戸川区西一之江 ;
+    mo:SubRegion mr:JP_東京都江戸川区西葛西 ;
+    mo:SubRegion mr:JP_東京都江戸川区西小岩 ;
+    mo:SubRegion mr:JP_東京都江戸川区西小松川町 ;
+    mo:SubRegion mr:JP_東京都江戸川区西篠崎 ;
+    mo:SubRegion mr:JP_東京都江戸川区西瑞江 ;
+    mo:SubRegion mr:JP_東京都江戸川区二之江町 ;
+    mo:SubRegion mr:JP_東京都江戸川区春江町 ;
+    mo:SubRegion mr:JP_東京都江戸川区東葛西 ;
+    mo:SubRegion mr:JP_東京都江戸川区東小岩 ;
+    mo:SubRegion mr:JP_東京都江戸川区東小松川 ;
+    mo:SubRegion mr:JP_東京都江戸川区東篠崎 ;
+    mo:SubRegion mr:JP_東京都江戸川区東篠崎町 ;
+    mo:SubRegion mr:JP_東京都江戸川区東松本 ;
+    mo:SubRegion mr:JP_東京都江戸川区東瑞江 ;
+    mo:SubRegion mr:JP_東京都江戸川区平井 ;
+    mo:SubRegion mr:JP_東京都江戸川区船堀 ;
+    mo:SubRegion mr:JP_東京都江戸川区本一色 ;
+    mo:SubRegion mr:JP_東京都江戸川区松江 ;
+    mo:SubRegion mr:JP_東京都江戸川区松島 ;
+    mo:SubRegion mr:JP_東京都江戸川区松本 ;
+    mo:SubRegion mr:JP_東京都江戸川区瑞江 ;
+    mo:SubRegion mr:JP_東京都江戸川区南葛西 ;
+    mo:SubRegion mr:JP_東京都江戸川区南小岩 ;
+    mo:SubRegion mr:JP_東京都江戸川区南篠崎町 ;
+    mo:SubRegion mr:JP_東京都江戸川区谷河内 ;
+    mo:SubRegion mr:JP_東京都江戸川区臨海町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都江戸川区一之江
+    rdfs:label "一之江"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区一之江町
+    rdfs:label "一之江町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区宇喜田町
+    rdfs:label "宇喜田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区江戸川
+    rdfs:label "江戸川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区大杉
+    rdfs:label "大杉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区興宮町
+    rdfs:label "興宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区上一色
+    rdfs:label "上一色"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区上篠崎
+    rdfs:label "上篠崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区北葛西
+    rdfs:label "北葛西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区北小岩
+    rdfs:label "北小岩"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区北篠崎
+    rdfs:label "北篠崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区小松川
+    rdfs:label "小松川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区鹿骨
+    rdfs:label "鹿骨"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区鹿骨町
+    rdfs:label "鹿骨町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区篠崎町
+    rdfs:label "篠崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区下篠崎町
+    rdfs:label "下篠崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区清新町
+    rdfs:label "清新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区中葛西
+    rdfs:label "中葛西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区新堀
+    rdfs:label "新堀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区西一之江
+    rdfs:label "西一之江"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区西葛西
+    rdfs:label "西葛西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区西小岩
+    rdfs:label "西小岩"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区西小松川町
+    rdfs:label "西小松川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区西篠崎
+    rdfs:label "西篠崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区西瑞江
+    rdfs:label "西瑞江"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区二之江町
+    rdfs:label "二之江町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区春江町
+    rdfs:label "春江町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区東葛西
+    rdfs:label "東葛西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区東小岩
+    rdfs:label "東小岩"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区東小松川
+    rdfs:label "東小松川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区東篠崎
+    rdfs:label "東篠崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区東篠崎町
+    rdfs:label "東篠崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区東松本
+    rdfs:label "東松本"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区東瑞江
+    rdfs:label "東瑞江"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区平井
+    rdfs:label "平井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区船堀
+    rdfs:label "船堀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区本一色
+    rdfs:label "本一色"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区松江
+    rdfs:label "松江"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区松島
+    rdfs:label "松島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区松本
+    rdfs:label "松本"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区瑞江
+    rdfs:label "瑞江"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区南葛西
+    rdfs:label "南葛西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区南小岩
+    rdfs:label "南小岩"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区南篠崎町
+    rdfs:label "南篠崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区谷河内
+    rdfs:label "谷河内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都江戸川区臨海町
+    rdfs:label "臨海町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市
+    rdfs:label "八王子市"@ja ;
+    mo:AreaCode "13201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都八王子市暁町 ;
+    mo:SubRegion mr:JP_東京都八王子市旭町 ;
+    mo:SubRegion mr:JP_東京都八王子市東町 ;
+    mo:SubRegion mr:JP_東京都八王子市石川町 ;
+    mo:SubRegion mr:JP_東京都八王子市泉町 ;
+    mo:SubRegion mr:JP_東京都八王子市犬目町 ;
+    mo:SubRegion mr:JP_東京都八王子市上野町 ;
+    mo:SubRegion mr:JP_東京都八王子市打越町 ;
+    mo:SubRegion mr:JP_東京都八王子市宇津木町 ;
+    mo:SubRegion mr:JP_東京都八王子市宇津貫町 ;
+    mo:SubRegion mr:JP_東京都八王子市梅坪町 ;
+    mo:SubRegion mr:JP_東京都八王子市裏高尾町 ;
+    mo:SubRegion mr:JP_東京都八王子市追分町 ;
+    mo:SubRegion mr:JP_東京都八王子市大塚 ;
+    mo:SubRegion mr:JP_東京都八王子市大船町 ;
+    mo:SubRegion mr:JP_東京都八王子市大谷町 ;
+    mo:SubRegion mr:JP_東京都八王子市大横町 ;
+    mo:SubRegion mr:JP_東京都八王子市大和田町 ;
+    mo:SubRegion mr:JP_東京都八王子市小門町 ;
+    mo:SubRegion mr:JP_東京都八王子市尾崎町 ;
+    mo:SubRegion mr:JP_東京都八王子市小津町 ;
+    mo:SubRegion mr:JP_東京都八王子市鹿島 ;
+    mo:SubRegion mr:JP_東京都八王子市加住町 ;
+    mo:SubRegion mr:JP_東京都八王子市片倉町 ;
+    mo:SubRegion mr:JP_東京都八王子市叶谷町 ;
+    mo:SubRegion mr:JP_東京都八王子市上壱分方町 ;
+    mo:SubRegion mr:JP_東京都八王子市上恩方町 ;
+    mo:SubRegion mr:JP_東京都八王子市上川町 ;
+    mo:SubRegion mr:JP_東京都八王子市上柚木 ;
+    mo:SubRegion mr:JP_東京都八王子市川口町 ;
+    mo:SubRegion mr:JP_東京都八王子市川町 ;
+    mo:SubRegion mr:JP_東京都八王子市北野台 ;
+    mo:SubRegion mr:JP_東京都八王子市北野町 ;
+    mo:SubRegion mr:JP_東京都八王子市絹ケ丘 ;
+    mo:SubRegion mr:JP_東京都八王子市清川町 ;
+    mo:SubRegion mr:JP_東京都八王子市椚田町 ;
+    mo:SubRegion mr:JP_東京都八王子市久保山町 ;
+    mo:SubRegion mr:JP_東京都八王子市越野 ;
+    mo:SubRegion mr:JP_東京都八王子市小比企町 ;
+    mo:SubRegion mr:JP_東京都八王子市小宮町 ;
+    mo:SubRegion mr:JP_東京都八王子市子安町 ;
+    mo:SubRegion mr:JP_東京都八王子市左入町 ;
+    mo:SubRegion mr:JP_東京都八王子市散田町 ;
+    mo:SubRegion mr:JP_東京都八王子市下恩方町 ;
+    mo:SubRegion mr:JP_東京都八王子市下柚木 ;
+    mo:SubRegion mr:JP_東京都八王子市城山手 ;
+    mo:SubRegion mr:JP_東京都八王子市新町 ;
+    mo:SubRegion mr:JP_東京都八王子市諏訪町 ;
+    mo:SubRegion mr:JP_東京都八王子市千人町 ;
+    mo:SubRegion mr:JP_東京都八王子市台町 ;
+    mo:SubRegion mr:JP_東京都八王子市大楽寺町 ;
+    mo:SubRegion mr:JP_東京都八王子市平町 ;
+    mo:SubRegion mr:JP_東京都八王子市高尾町 ;
+    mo:SubRegion mr:JP_東京都八王子市高倉町 ;
+    mo:SubRegion mr:JP_東京都八王子市高月町 ;
+    mo:SubRegion mr:JP_東京都八王子市滝山町 ;
+    mo:SubRegion mr:JP_東京都八王子市館町 ;
+    mo:SubRegion mr:JP_東京都八王子市田町 ;
+    mo:SubRegion mr:JP_東京都八王子市丹木町 ;
+    mo:SubRegion mr:JP_東京都八王子市寺田町 ;
+    mo:SubRegion mr:JP_東京都八王子市寺町 ;
+    mo:SubRegion mr:JP_東京都八王子市天神町 ;
+    mo:SubRegion mr:JP_東京都八王子市廿里町 ;
+    mo:SubRegion mr:JP_東京都八王子市戸吹町 ;
+    mo:SubRegion mr:JP_東京都八王子市中町 ;
+    mo:SubRegion mr:JP_東京都八王子市中野上町 ;
+    mo:SubRegion mr:JP_東京都八王子市中野山王 ;
+    mo:SubRegion mr:JP_東京都八王子市中野町 ;
+    mo:SubRegion mr:JP_東京都八王子市中山 ;
+    mo:SubRegion mr:JP_東京都八王子市長沼町 ;
+    mo:SubRegion mr:JP_東京都八王子市長房町 ;
+    mo:SubRegion mr:JP_東京都八王子市七国 ;
+    mo:SubRegion mr:JP_東京都八王子市並木町 ;
+    mo:SubRegion mr:JP_東京都八王子市楢原町 ;
+    mo:SubRegion mr:JP_東京都八王子市南陽台 ;
+    mo:SubRegion mr:JP_東京都八王子市西浅川町 ;
+    mo:SubRegion mr:JP_東京都八王子市西片倉 ;
+    mo:SubRegion mr:JP_東京都八王子市西寺方町 ;
+    mo:SubRegion mr:JP_東京都八王子市弐分方町 ;
+    mo:SubRegion mr:JP_東京都八王子市狭間町 ;
+    mo:SubRegion mr:JP_東京都八王子市八幡町 ;
+    mo:SubRegion mr:JP_東京都八王子市初沢町 ;
+    mo:SubRegion mr:JP_東京都八王子市東浅川町 ;
+    mo:SubRegion mr:JP_東京都八王子市東中野 ;
+    mo:SubRegion mr:JP_東京都八王子市兵衛 ;
+    mo:SubRegion mr:JP_東京都八王子市日吉町 ;
+    mo:SubRegion mr:JP_東京都八王子市平岡町 ;
+    mo:SubRegion mr:JP_東京都八王子市富士見町 ;
+    mo:SubRegion mr:JP_東京都八王子市別所 ;
+    mo:SubRegion mr:JP_東京都八王子市堀之内 ;
+    mo:SubRegion mr:JP_東京都八王子市本郷町 ;
+    mo:SubRegion mr:JP_東京都八王子市本町 ;
+    mo:SubRegion mr:JP_東京都八王子市松が谷 ;
+    mo:SubRegion mr:JP_東京都八王子市松木 ;
+    mo:SubRegion mr:JP_東京都八王子市丸山町 ;
+    mo:SubRegion mr:JP_東京都八王子市三崎町 ;
+    mo:SubRegion mr:JP_東京都八王子市みつい台 ;
+    mo:SubRegion mr:JP_東京都八王子市緑町 ;
+    mo:SubRegion mr:JP_東京都八王子市南浅川町 ;
+    mo:SubRegion mr:JP_東京都八王子市南大沢 ;
+    mo:SubRegion mr:JP_東京都八王子市南新町 ;
+    mo:SubRegion mr:JP_東京都八王子市南町 ;
+    mo:SubRegion mr:JP_東京都八王子市みなみ野 ;
+    mo:SubRegion mr:JP_東京都八王子市宮下町 ;
+    mo:SubRegion mr:JP_東京都八王子市美山町 ;
+    mo:SubRegion mr:JP_東京都八王子市明神町 ;
+    mo:SubRegion mr:JP_東京都八王子市めじろ台 ;
+    mo:SubRegion mr:JP_東京都八王子市元八王子町 ;
+    mo:SubRegion mr:JP_東京都八王子市元本郷町 ;
+    mo:SubRegion mr:JP_東京都八王子市元横山町 ;
+    mo:SubRegion mr:JP_東京都八王子市八木町 ;
+    mo:SubRegion mr:JP_東京都八王子市谷野町 ;
+    mo:SubRegion mr:JP_東京都八王子市山田町 ;
+    mo:SubRegion mr:JP_東京都八王子市鑓水 ;
+    mo:SubRegion mr:JP_東京都八王子市八日町 ;
+    mo:SubRegion mr:JP_東京都八王子市横川町 ;
+    mo:SubRegion mr:JP_東京都八王子市横山町 ;
+    mo:SubRegion mr:JP_東京都八王子市四谷町 ;
+    mo:SubRegion mr:JP_東京都八王子市万町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都八王子市暁町
+    rdfs:label "暁町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市石川町
+    rdfs:label "石川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市犬目町
+    rdfs:label "犬目町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市上野町
+    rdfs:label "上野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市打越町
+    rdfs:label "打越町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市宇津木町
+    rdfs:label "宇津木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市宇津貫町
+    rdfs:label "宇津貫町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市梅坪町
+    rdfs:label "梅坪町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市裏高尾町
+    rdfs:label "裏高尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市追分町
+    rdfs:label "追分町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市大塚
+    rdfs:label "大塚"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市大船町
+    rdfs:label "大船町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市大谷町
+    rdfs:label "大谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市大横町
+    rdfs:label "大横町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市大和田町
+    rdfs:label "大和田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市小門町
+    rdfs:label "小門町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市尾崎町
+    rdfs:label "尾崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市小津町
+    rdfs:label "小津町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市鹿島
+    rdfs:label "鹿島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市加住町
+    rdfs:label "加住町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市片倉町
+    rdfs:label "片倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市叶谷町
+    rdfs:label "叶谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市上壱分方町
+    rdfs:label "上壱分方町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市上恩方町
+    rdfs:label "上恩方町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市上川町
+    rdfs:label "上川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市上柚木
+    rdfs:label "上柚木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市川口町
+    rdfs:label "川口町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市川町
+    rdfs:label "川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市北野台
+    rdfs:label "北野台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市北野町
+    rdfs:label "北野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市絹ケ丘
+    rdfs:label "絹ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市清川町
+    rdfs:label "清川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市椚田町
+    rdfs:label "椚田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市久保山町
+    rdfs:label "久保山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市越野
+    rdfs:label "越野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市小比企町
+    rdfs:label "小比企町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市小宮町
+    rdfs:label "小宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市子安町
+    rdfs:label "子安町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市左入町
+    rdfs:label "左入町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市散田町
+    rdfs:label "散田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市下恩方町
+    rdfs:label "下恩方町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市下柚木
+    rdfs:label "下柚木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市城山手
+    rdfs:label "城山手"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市諏訪町
+    rdfs:label "諏訪町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市千人町
+    rdfs:label "千人町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市台町
+    rdfs:label "台町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市大楽寺町
+    rdfs:label "大楽寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市平町
+    rdfs:label "平町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市高尾町
+    rdfs:label "高尾町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市高倉町
+    rdfs:label "高倉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市高月町
+    rdfs:label "高月町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市滝山町
+    rdfs:label "滝山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市館町
+    rdfs:label "館町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市田町
+    rdfs:label "田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市丹木町
+    rdfs:label "丹木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市寺田町
+    rdfs:label "寺田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市寺町
+    rdfs:label "寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市廿里町
+    rdfs:label "廿里町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市戸吹町
+    rdfs:label "戸吹町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市中野上町
+    rdfs:label "中野上町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市中野山王
+    rdfs:label "中野山王"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市中野町
+    rdfs:label "中野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市長沼町
+    rdfs:label "長沼町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市長房町
+    rdfs:label "長房町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市七国
+    rdfs:label "七国"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市並木町
+    rdfs:label "並木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市楢原町
+    rdfs:label "楢原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市南陽台
+    rdfs:label "南陽台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市西浅川町
+    rdfs:label "西浅川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市西片倉
+    rdfs:label "西片倉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市西寺方町
+    rdfs:label "西寺方町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市弐分方町
+    rdfs:label "弐分方町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市狭間町
+    rdfs:label "狭間町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市初沢町
+    rdfs:label "初沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市東浅川町
+    rdfs:label "東浅川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市東中野
+    rdfs:label "東中野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市兵衛
+    rdfs:label "兵衛"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市日吉町
+    rdfs:label "日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市平岡町
+    rdfs:label "平岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市別所
+    rdfs:label "別所"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市堀之内
+    rdfs:label "堀之内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市本郷町
+    rdfs:label "本郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市松が谷
+    rdfs:label "松が谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市松木
+    rdfs:label "松木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市丸山町
+    rdfs:label "丸山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市三崎町
+    rdfs:label "三崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市みつい台
+    rdfs:label "みつい台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市南浅川町
+    rdfs:label "南浅川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市南大沢
+    rdfs:label "南大沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市南新町
+    rdfs:label "南新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市みなみ野
+    rdfs:label "みなみ野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市宮下町
+    rdfs:label "宮下町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市美山町
+    rdfs:label "美山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市明神町
+    rdfs:label "明神町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市めじろ台
+    rdfs:label "めじろ台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市元八王子町
+    rdfs:label "元八王子町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市元本郷町
+    rdfs:label "元本郷町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市元横山町
+    rdfs:label "元横山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市八木町
+    rdfs:label "八木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市谷野町
+    rdfs:label "谷野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市山田町
+    rdfs:label "山田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市鑓水
+    rdfs:label "鑓水"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市八日町
+    rdfs:label "八日町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市横川町
+    rdfs:label "横川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市横山町
+    rdfs:label "横山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市四谷町
+    rdfs:label "四谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八王子市万町
+    rdfs:label "万町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市
+    rdfs:label "立川市"@ja ;
+    mo:AreaCode "13202" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都立川市曙町 ;
+    mo:SubRegion mr:JP_東京都立川市泉町 ;
+    mo:SubRegion mr:JP_東京都立川市一番町 ;
+    mo:SubRegion mr:JP_東京都立川市柏町 ;
+    mo:SubRegion mr:JP_東京都立川市上砂町 ;
+    mo:SubRegion mr:JP_東京都立川市幸町 ;
+    mo:SubRegion mr:JP_東京都立川市栄町 ;
+    mo:SubRegion mr:JP_東京都立川市柴崎町 ;
+    mo:SubRegion mr:JP_東京都立川市砂川町 ;
+    mo:SubRegion mr:JP_東京都立川市高松町 ;
+    mo:SubRegion mr:JP_東京都立川市錦町 ;
+    mo:SubRegion mr:JP_東京都立川市西砂町 ;
+    mo:SubRegion mr:JP_東京都立川市羽衣町 ;
+    mo:SubRegion mr:JP_東京都立川市富士見町 ;
+    mo:SubRegion mr:JP_東京都立川市緑町 ;
+    mo:SubRegion mr:JP_東京都立川市若葉町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都立川市曙町
+    rdfs:label "曙町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市一番町
+    rdfs:label "一番町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市柏町
+    rdfs:label "柏町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市上砂町
+    rdfs:label "上砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市柴崎町
+    rdfs:label "柴崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市砂川町
+    rdfs:label "砂川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市高松町
+    rdfs:label "高松町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市錦町
+    rdfs:label "錦町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市西砂町
+    rdfs:label "西砂町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市羽衣町
+    rdfs:label "羽衣町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都立川市若葉町
+    rdfs:label "若葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市
+    rdfs:label "武蔵野市"@ja ;
+    mo:AreaCode "13203" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都武蔵野市吉祥寺本町 ;
+    mo:SubRegion mr:JP_東京都武蔵野市吉祥寺東町 ;
+    mo:SubRegion mr:JP_東京都武蔵野市吉祥寺南町 ;
+    mo:SubRegion mr:JP_東京都武蔵野市吉祥寺北町 ;
+    mo:SubRegion mr:JP_東京都武蔵野市境南町 ;
+    mo:SubRegion mr:JP_東京都武蔵野市御殿山 ;
+    mo:SubRegion mr:JP_東京都武蔵野市境 ;
+    mo:SubRegion mr:JP_東京都武蔵野市桜堤 ;
+    mo:SubRegion mr:JP_東京都武蔵野市関前 ;
+    mo:SubRegion mr:JP_東京都武蔵野市中町 ;
+    mo:SubRegion mr:JP_東京都武蔵野市西久保 ;
+    mo:SubRegion mr:JP_東京都武蔵野市緑町 ;
+    mo:SubRegion mr:JP_東京都武蔵野市八幡町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都武蔵野市吉祥寺本町
+    rdfs:label "吉祥寺本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市吉祥寺東町
+    rdfs:label "吉祥寺東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市吉祥寺南町
+    rdfs:label "吉祥寺南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市吉祥寺北町
+    rdfs:label "吉祥寺北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市境南町
+    rdfs:label "境南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市御殿山
+    rdfs:label "御殿山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市境
+    rdfs:label "境"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市桜堤
+    rdfs:label "桜堤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市関前
+    rdfs:label "関前"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市西久保
+    rdfs:label "西久保"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵野市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市
+    rdfs:label "三鷹市"@ja ;
+    mo:AreaCode "13204" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都三鷹市井口 ;
+    mo:SubRegion mr:JP_東京都三鷹市井の頭 ;
+    mo:SubRegion mr:JP_東京都三鷹市大沢 ;
+    mo:SubRegion mr:JP_東京都三鷹市上連雀 ;
+    mo:SubRegion mr:JP_東京都三鷹市北野 ;
+    mo:SubRegion mr:JP_東京都三鷹市下連雀 ;
+    mo:SubRegion mr:JP_東京都三鷹市新川 ;
+    mo:SubRegion mr:JP_東京都三鷹市深大寺 ;
+    mo:SubRegion mr:JP_東京都三鷹市中原 ;
+    mo:SubRegion mr:JP_東京都三鷹市野崎 ;
+    mo:SubRegion mr:JP_東京都三鷹市牟礼 ;
+a mo:GeoEntity .
+
+mr:JP_東京都三鷹市井口
+    rdfs:label "井口"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市井の頭
+    rdfs:label "井の頭"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市大沢
+    rdfs:label "大沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市上連雀
+    rdfs:label "上連雀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市北野
+    rdfs:label "北野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市下連雀
+    rdfs:label "下連雀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市新川
+    rdfs:label "新川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市深大寺
+    rdfs:label "深大寺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市野崎
+    rdfs:label "野崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三鷹市牟礼
+    rdfs:label "牟礼"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市
+    rdfs:label "青梅市"@ja ;
+    mo:AreaCode "13205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都青梅市天ケ瀬町 ;
+    mo:SubRegion mr:JP_東京都青梅市今井 ;
+    mo:SubRegion mr:JP_東京都青梅市今寺 ;
+    mo:SubRegion mr:JP_東京都青梅市裏宿町 ;
+    mo:SubRegion mr:JP_東京都青梅市大柳町 ;
+    mo:SubRegion mr:JP_東京都青梅市小曾木 ;
+    mo:SubRegion mr:JP_東京都青梅市勝沼 ;
+    mo:SubRegion mr:JP_東京都青梅市河辺町 ;
+    mo:SubRegion mr:JP_東京都青梅市上町 ;
+    mo:SubRegion mr:JP_東京都青梅市木野下 ;
+    mo:SubRegion mr:JP_東京都青梅市黒沢 ;
+    mo:SubRegion mr:JP_東京都青梅市駒木町 ;
+    mo:SubRegion mr:JP_東京都青梅市沢井 ;
+    mo:SubRegion mr:JP_東京都青梅市塩船 ;
+    mo:SubRegion mr:JP_東京都青梅市新町 ;
+    mo:SubRegion mr:JP_東京都青梅市末広町 ;
+    mo:SubRegion mr:JP_東京都青梅市住江町 ;
+    mo:SubRegion mr:JP_東京都青梅市大門 ;
+    mo:SubRegion mr:JP_東京都青梅市滝ノ上町 ;
+    mo:SubRegion mr:JP_東京都青梅市千ケ瀬町 ;
+    mo:SubRegion mr:JP_東京都青梅市富岡 ;
+    mo:SubRegion mr:JP_東京都青梅市友田町 ;
+    mo:SubRegion mr:JP_東京都青梅市仲町 ;
+    mo:SubRegion mr:JP_東京都青梅市長淵 ;
+    mo:SubRegion mr:JP_東京都青梅市成木 ;
+    mo:SubRegion mr:JP_東京都青梅市西分町 ;
+    mo:SubRegion mr:JP_東京都青梅市根ケ布 ;
+    mo:SubRegion mr:JP_東京都青梅市野上町 ;
+    mo:SubRegion mr:JP_東京都青梅市梅郷 ;
+    mo:SubRegion mr:JP_東京都青梅市畑中 ;
+    mo:SubRegion mr:JP_東京都青梅市東青梅 ;
+    mo:SubRegion mr:JP_東京都青梅市日向和田 ;
+    mo:SubRegion mr:JP_東京都青梅市吹上 ;
+    mo:SubRegion mr:JP_東京都青梅市藤橋 ;
+    mo:SubRegion mr:JP_東京都青梅市二俣尾 ;
+    mo:SubRegion mr:JP_東京都青梅市本町 ;
+    mo:SubRegion mr:JP_東京都青梅市御岳 ;
+    mo:SubRegion mr:JP_東京都青梅市御岳山 ;
+    mo:SubRegion mr:JP_東京都青梅市御岳本町 ;
+    mo:SubRegion mr:JP_東京都青梅市森下町 ;
+    mo:SubRegion mr:JP_東京都青梅市師岡町 ;
+    mo:SubRegion mr:JP_東京都青梅市谷野 ;
+    mo:SubRegion mr:JP_東京都青梅市柚木町 ;
+    mo:SubRegion mr:JP_東京都青梅市和田町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都青梅市天ケ瀬町
+    rdfs:label "天ケ瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市今井
+    rdfs:label "今井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市今寺
+    rdfs:label "今寺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市裏宿町
+    rdfs:label "裏宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市大柳町
+    rdfs:label "大柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市小曾木
+    rdfs:label "小曾木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市勝沼
+    rdfs:label "勝沼"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市河辺町
+    rdfs:label "河辺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市上町
+    rdfs:label "上町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市木野下
+    rdfs:label "木野下"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市黒沢
+    rdfs:label "黒沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市駒木町
+    rdfs:label "駒木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市沢井
+    rdfs:label "沢井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市塩船
+    rdfs:label "塩船"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市末広町
+    rdfs:label "末広町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市住江町
+    rdfs:label "住江町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市大門
+    rdfs:label "大門"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市滝ノ上町
+    rdfs:label "滝ノ上町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市千ケ瀬町
+    rdfs:label "千ケ瀬町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市富岡
+    rdfs:label "富岡"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市友田町
+    rdfs:label "友田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市仲町
+    rdfs:label "仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市長淵
+    rdfs:label "長淵"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市成木
+    rdfs:label "成木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市西分町
+    rdfs:label "西分町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市根ケ布
+    rdfs:label "根ケ布"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市野上町
+    rdfs:label "野上町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市梅郷
+    rdfs:label "梅郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市畑中
+    rdfs:label "畑中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市東青梅
+    rdfs:label "東青梅"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市日向和田
+    rdfs:label "日向和田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市吹上
+    rdfs:label "吹上"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市藤橋
+    rdfs:label "藤橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市二俣尾
+    rdfs:label "二俣尾"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市御岳
+    rdfs:label "御岳"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市御岳山
+    rdfs:label "御岳山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市御岳本町
+    rdfs:label "御岳本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市森下町
+    rdfs:label "森下町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市師岡町
+    rdfs:label "師岡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市谷野
+    rdfs:label "谷野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市柚木町
+    rdfs:label "柚木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青梅市和田町
+    rdfs:label "和田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市
+    rdfs:label "府中市"@ja ;
+    mo:AreaCode "13206" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都府中市朝日町 ;
+    mo:SubRegion mr:JP_東京都府中市押立町 ;
+    mo:SubRegion mr:JP_東京都府中市片町 ;
+    mo:SubRegion mr:JP_東京都府中市北山町 ;
+    mo:SubRegion mr:JP_東京都府中市寿町 ;
+    mo:SubRegion mr:JP_東京都府中市小柳町 ;
+    mo:SubRegion mr:JP_東京都府中市是政 ;
+    mo:SubRegion mr:JP_東京都府中市幸町 ;
+    mo:SubRegion mr:JP_東京都府中市栄町 ;
+    mo:SubRegion mr:JP_東京都府中市清水が丘 ;
+    mo:SubRegion mr:JP_東京都府中市白糸台 ;
+    mo:SubRegion mr:JP_東京都府中市新町 ;
+    mo:SubRegion mr:JP_東京都府中市住吉町 ;
+    mo:SubRegion mr:JP_東京都府中市浅間町 ;
+    mo:SubRegion mr:JP_東京都府中市多磨町 ;
+    mo:SubRegion mr:JP_東京都府中市天神町 ;
+    mo:SubRegion mr:JP_東京都府中市東芝町 ;
+    mo:SubRegion mr:JP_東京都府中市西原町 ;
+    mo:SubRegion mr:JP_東京都府中市西府町 ;
+    mo:SubRegion mr:JP_東京都府中市日鋼町 ;
+    mo:SubRegion mr:JP_東京都府中市日新町 ;
+    mo:SubRegion mr:JP_東京都府中市八幡町 ;
+    mo:SubRegion mr:JP_東京都府中市晴見町 ;
+    mo:SubRegion mr:JP_東京都府中市日吉町 ;
+    mo:SubRegion mr:JP_東京都府中市府中町 ;
+    mo:SubRegion mr:JP_東京都府中市分梅町 ;
+    mo:SubRegion mr:JP_東京都府中市本宿町 ;
+    mo:SubRegion mr:JP_東京都府中市本町 ;
+    mo:SubRegion mr:JP_東京都府中市緑町 ;
+    mo:SubRegion mr:JP_東京都府中市南町 ;
+    mo:SubRegion mr:JP_東京都府中市宮西町 ;
+    mo:SubRegion mr:JP_東京都府中市宮町 ;
+    mo:SubRegion mr:JP_東京都府中市美好町 ;
+    mo:SubRegion mr:JP_東京都府中市武蔵台 ;
+    mo:SubRegion mr:JP_東京都府中市紅葉丘 ;
+    mo:SubRegion mr:JP_東京都府中市矢崎町 ;
+    mo:SubRegion mr:JP_東京都府中市四谷 ;
+    mo:SubRegion mr:JP_東京都府中市若松町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都府中市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市押立町
+    rdfs:label "押立町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市片町
+    rdfs:label "片町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市北山町
+    rdfs:label "北山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市寿町
+    rdfs:label "寿町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市小柳町
+    rdfs:label "小柳町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市是政
+    rdfs:label "是政"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市清水が丘
+    rdfs:label "清水が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市白糸台
+    rdfs:label "白糸台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市浅間町
+    rdfs:label "浅間町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市多磨町
+    rdfs:label "多磨町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市東芝町
+    rdfs:label "東芝町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市西原町
+    rdfs:label "西原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市西府町
+    rdfs:label "西府町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市日鋼町
+    rdfs:label "日鋼町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市日新町
+    rdfs:label "日新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市晴見町
+    rdfs:label "晴見町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市日吉町
+    rdfs:label "日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市府中町
+    rdfs:label "府中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市分梅町
+    rdfs:label "分梅町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市本宿町
+    rdfs:label "本宿町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市宮西町
+    rdfs:label "宮西町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市宮町
+    rdfs:label "宮町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市美好町
+    rdfs:label "美好町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市武蔵台
+    rdfs:label "武蔵台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市紅葉丘
+    rdfs:label "紅葉丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市矢崎町
+    rdfs:label "矢崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市四谷
+    rdfs:label "四谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都府中市若松町
+    rdfs:label "若松町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市
+    rdfs:label "昭島市"@ja ;
+    mo:AreaCode "13207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都昭島市朝日町 ;
+    mo:SubRegion mr:JP_東京都昭島市東町 ;
+    mo:SubRegion mr:JP_東京都昭島市大神町 ;
+    mo:SubRegion mr:JP_東京都昭島市郷地町 ;
+    mo:SubRegion mr:JP_東京都昭島市上川原町 ;
+    mo:SubRegion mr:JP_東京都昭島市昭和町 ;
+    mo:SubRegion mr:JP_東京都昭島市田中町 ;
+    mo:SubRegion mr:JP_東京都昭島市玉川町 ;
+    mo:SubRegion mr:JP_東京都昭島市築地町 ;
+    mo:SubRegion mr:JP_東京都昭島市つつじが丘 ;
+    mo:SubRegion mr:JP_東京都昭島市中神町 ;
+    mo:SubRegion mr:JP_東京都昭島市拝島町 ;
+    mo:SubRegion mr:JP_東京都昭島市福島町 ;
+    mo:SubRegion mr:JP_東京都昭島市松原町 ;
+    mo:SubRegion mr:JP_東京都昭島市緑町 ;
+    mo:SubRegion mr:JP_東京都昭島市美堀町 ;
+    mo:SubRegion mr:JP_東京都昭島市宮沢町 ;
+    mo:SubRegion mr:JP_東京都昭島市武蔵野 ;
+    mo:SubRegion mr:JP_東京都昭島市もくせいの杜 ;
+a mo:GeoEntity .
+
+mr:JP_東京都昭島市朝日町
+    rdfs:label "朝日町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市大神町
+    rdfs:label "大神町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市郷地町
+    rdfs:label "郷地町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市上川原町
+    rdfs:label "上川原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市昭和町
+    rdfs:label "昭和町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市田中町
+    rdfs:label "田中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市玉川町
+    rdfs:label "玉川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市築地町
+    rdfs:label "築地町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市つつじが丘
+    rdfs:label "つつじが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市中神町
+    rdfs:label "中神町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市拝島町
+    rdfs:label "拝島町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市福島町
+    rdfs:label "福島町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市松原町
+    rdfs:label "松原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市美堀町
+    rdfs:label "美堀町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市宮沢町
+    rdfs:label "宮沢町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市武蔵野
+    rdfs:label "武蔵野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都昭島市もくせいの杜
+    rdfs:label "もくせいの杜"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市
+    rdfs:label "調布市"@ja ;
+    mo:AreaCode "13208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都調布市入間町 ;
+    mo:SubRegion mr:JP_東京都調布市上石原 ;
+    mo:SubRegion mr:JP_東京都調布市菊野台 ;
+    mo:SubRegion mr:JP_東京都調布市国領町 ;
+    mo:SubRegion mr:JP_東京都調布市小島町 ;
+    mo:SubRegion mr:JP_東京都調布市佐須町 ;
+    mo:SubRegion mr:JP_東京都調布市柴崎 ;
+    mo:SubRegion mr:JP_東京都調布市下石原 ;
+    mo:SubRegion mr:JP_東京都調布市深大寺東町 ;
+    mo:SubRegion mr:JP_東京都調布市深大寺南町 ;
+    mo:SubRegion mr:JP_東京都調布市深大寺北町 ;
+    mo:SubRegion mr:JP_東京都調布市深大寺元町 ;
+    mo:SubRegion mr:JP_東京都調布市仙川町 ;
+    mo:SubRegion mr:JP_東京都調布市染地 ;
+    mo:SubRegion mr:JP_東京都調布市多摩川 ;
+    mo:SubRegion mr:JP_東京都調布市調布ケ丘 ;
+    mo:SubRegion mr:JP_東京都調布市飛田給 ;
+    mo:SubRegion mr:JP_東京都調布市西つつじケ丘 ;
+    mo:SubRegion mr:JP_東京都調布市西町 ;
+    mo:SubRegion mr:JP_東京都調布市野水 ;
+    mo:SubRegion mr:JP_東京都調布市東つつじケ丘 ;
+    mo:SubRegion mr:JP_東京都調布市富士見町 ;
+    mo:SubRegion mr:JP_東京都調布市布田 ;
+    mo:SubRegion mr:JP_東京都調布市緑ケ丘 ;
+    mo:SubRegion mr:JP_東京都調布市八雲台 ;
+    mo:SubRegion mr:JP_東京都調布市若葉町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都調布市入間町
+    rdfs:label "入間町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市上石原
+    rdfs:label "上石原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市菊野台
+    rdfs:label "菊野台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市国領町
+    rdfs:label "国領町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市小島町
+    rdfs:label "小島町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市佐須町
+    rdfs:label "佐須町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市柴崎
+    rdfs:label "柴崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市下石原
+    rdfs:label "下石原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市深大寺東町
+    rdfs:label "深大寺東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市深大寺南町
+    rdfs:label "深大寺南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市深大寺北町
+    rdfs:label "深大寺北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市深大寺元町
+    rdfs:label "深大寺元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市仙川町
+    rdfs:label "仙川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市染地
+    rdfs:label "染地"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市多摩川
+    rdfs:label "多摩川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市調布ケ丘
+    rdfs:label "調布ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市飛田給
+    rdfs:label "飛田給"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市西つつじケ丘
+    rdfs:label "西つつじケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市野水
+    rdfs:label "野水"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市東つつじケ丘
+    rdfs:label "東つつじケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市布田
+    rdfs:label "布田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市八雲台
+    rdfs:label "八雲台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都調布市若葉町
+    rdfs:label "若葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市
+    rdfs:label "町田市"@ja ;
+    mo:AreaCode "13209" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都町田市相原町 ;
+    mo:SubRegion mr:JP_東京都町田市旭町 ;
+    mo:SubRegion mr:JP_東京都町田市大蔵町 ;
+    mo:SubRegion mr:JP_東京都町田市小川 ;
+    mo:SubRegion mr:JP_東京都町田市小野路町 ;
+    mo:SubRegion mr:JP_東京都町田市小山ヶ丘 ;
+    mo:SubRegion mr:JP_東京都町田市小山田桜台 ;
+    mo:SubRegion mr:JP_東京都町田市小山町 ;
+    mo:SubRegion mr:JP_東京都町田市金井 ;
+    mo:SubRegion mr:JP_東京都町田市金井ヶ丘 ;
+    mo:SubRegion mr:JP_東京都町田市金井町 ;
+    mo:SubRegion mr:JP_東京都町田市金森 ;
+    mo:SubRegion mr:JP_東京都町田市金森東 ;
+    mo:SubRegion mr:JP_東京都町田市上小山田町 ;
+    mo:SubRegion mr:JP_東京都町田市木曽西 ;
+    mo:SubRegion mr:JP_東京都町田市木曽東 ;
+    mo:SubRegion mr:JP_東京都町田市木曽町 ;
+    mo:SubRegion mr:JP_東京都町田市高ヶ坂 ;
+    mo:SubRegion mr:JP_東京都町田市下小山田町 ;
+    mo:SubRegion mr:JP_東京都町田市真光寺 ;
+    mo:SubRegion mr:JP_東京都町田市真光寺町 ;
+    mo:SubRegion mr:JP_東京都町田市図師町 ;
+    mo:SubRegion mr:JP_東京都町田市忠生 ;
+    mo:SubRegion mr:JP_東京都町田市玉川学園 ;
+    mo:SubRegion mr:JP_東京都町田市つくし野 ;
+    mo:SubRegion mr:JP_東京都町田市鶴川 ;
+    mo:SubRegion mr:JP_東京都町田市鶴間 ;
+    mo:SubRegion mr:JP_東京都町田市常盤町 ;
+    mo:SubRegion mr:JP_東京都町田市中町 ;
+    mo:SubRegion mr:JP_東京都町田市成瀬 ;
+    mo:SubRegion mr:JP_東京都町田市成瀬が丘 ;
+    mo:SubRegion mr:JP_東京都町田市成瀬台 ;
+    mo:SubRegion mr:JP_東京都町田市西成瀬 ;
+    mo:SubRegion mr:JP_東京都町田市根岸 ;
+    mo:SubRegion mr:JP_東京都町田市根岸町 ;
+    mo:SubRegion mr:JP_東京都町田市能ヶ谷 ;
+    mo:SubRegion mr:JP_東京都町田市野津田町 ;
+    mo:SubRegion mr:JP_東京都町田市原町田 ;
+    mo:SubRegion mr:JP_東京都町田市東玉川学園 ;
+    mo:SubRegion mr:JP_東京都町田市広袴 ;
+    mo:SubRegion mr:JP_東京都町田市広袴町 ;
+    mo:SubRegion mr:JP_東京都町田市藤の台 ;
+    mo:SubRegion mr:JP_東京都町田市本町田 ;
+    mo:SubRegion mr:JP_東京都町田市南大谷 ;
+    mo:SubRegion mr:JP_東京都町田市南つくし野 ;
+    mo:SubRegion mr:JP_東京都町田市南成瀬 ;
+    mo:SubRegion mr:JP_東京都町田市南町田 ;
+    mo:SubRegion mr:JP_東京都町田市三輪町 ;
+    mo:SubRegion mr:JP_東京都町田市三輪緑山 ;
+    mo:SubRegion mr:JP_東京都町田市森野 ;
+    mo:SubRegion mr:JP_東京都町田市薬師台 ;
+    mo:SubRegion mr:JP_東京都町田市矢部町 ;
+    mo:SubRegion mr:JP_東京都町田市山崎 ;
+    mo:SubRegion mr:JP_東京都町田市山崎町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都町田市相原町
+    rdfs:label "相原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市大蔵町
+    rdfs:label "大蔵町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市小野路町
+    rdfs:label "小野路町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市小山ヶ丘
+    rdfs:label "小山ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市小山田桜台
+    rdfs:label "小山田桜台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市小山町
+    rdfs:label "小山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市金井
+    rdfs:label "金井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市金井ヶ丘
+    rdfs:label "金井ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市金井町
+    rdfs:label "金井町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市金森
+    rdfs:label "金森"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市金森東
+    rdfs:label "金森東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市上小山田町
+    rdfs:label "上小山田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市木曽西
+    rdfs:label "木曽西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市木曽東
+    rdfs:label "木曽東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市木曽町
+    rdfs:label "木曽町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市高ヶ坂
+    rdfs:label "高ヶ坂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市下小山田町
+    rdfs:label "下小山田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市真光寺
+    rdfs:label "真光寺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市真光寺町
+    rdfs:label "真光寺町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市図師町
+    rdfs:label "図師町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市忠生
+    rdfs:label "忠生"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市玉川学園
+    rdfs:label "玉川学園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市つくし野
+    rdfs:label "つくし野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市鶴川
+    rdfs:label "鶴川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市鶴間
+    rdfs:label "鶴間"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市常盤町
+    rdfs:label "常盤町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市成瀬
+    rdfs:label "成瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市成瀬が丘
+    rdfs:label "成瀬が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市成瀬台
+    rdfs:label "成瀬台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市西成瀬
+    rdfs:label "西成瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市根岸
+    rdfs:label "根岸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市根岸町
+    rdfs:label "根岸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市能ヶ谷
+    rdfs:label "能ヶ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市野津田町
+    rdfs:label "野津田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市原町田
+    rdfs:label "原町田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市東玉川学園
+    rdfs:label "東玉川学園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市広袴
+    rdfs:label "広袴"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市広袴町
+    rdfs:label "広袴町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市藤の台
+    rdfs:label "藤の台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市本町田
+    rdfs:label "本町田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市南大谷
+    rdfs:label "南大谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市南つくし野
+    rdfs:label "南つくし野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市南成瀬
+    rdfs:label "南成瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市南町田
+    rdfs:label "南町田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市三輪町
+    rdfs:label "三輪町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市三輪緑山
+    rdfs:label "三輪緑山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市森野
+    rdfs:label "森野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市薬師台
+    rdfs:label "薬師台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市矢部町
+    rdfs:label "矢部町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市山崎
+    rdfs:label "山崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都町田市山崎町
+    rdfs:label "山崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市
+    rdfs:label "小金井市"@ja ;
+    mo:AreaCode "13210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都小金井市梶野町 ;
+    mo:SubRegion mr:JP_東京都小金井市桜町 ;
+    mo:SubRegion mr:JP_東京都小金井市関野町 ;
+    mo:SubRegion mr:JP_東京都小金井市中町 ;
+    mo:SubRegion mr:JP_東京都小金井市貫井南町 ;
+    mo:SubRegion mr:JP_東京都小金井市貫井北町 ;
+    mo:SubRegion mr:JP_東京都小金井市東町 ;
+    mo:SubRegion mr:JP_東京都小金井市本町 ;
+    mo:SubRegion mr:JP_東京都小金井市前原町 ;
+    mo:SubRegion mr:JP_東京都小金井市緑町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都小金井市梶野町
+    rdfs:label "梶野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市桜町
+    rdfs:label "桜町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市関野町
+    rdfs:label "関野町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市貫井南町
+    rdfs:label "貫井南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市貫井北町
+    rdfs:label "貫井北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市前原町
+    rdfs:label "前原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小金井市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市
+    rdfs:label "小平市"@ja ;
+    mo:AreaCode "13211" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都小平市大沼町 ;
+    mo:SubRegion mr:JP_東京都小平市小川東町 ;
+    mo:SubRegion mr:JP_東京都小平市小川西町 ;
+    mo:SubRegion mr:JP_東京都小平市小川町 ;
+    mo:SubRegion mr:JP_東京都小平市学園東町 ;
+    mo:SubRegion mr:JP_東京都小平市学園西町 ;
+    mo:SubRegion mr:JP_東京都小平市喜平町 ;
+    mo:SubRegion mr:JP_東京都小平市栄町 ;
+    mo:SubRegion mr:JP_東京都小平市上水新町 ;
+    mo:SubRegion mr:JP_東京都小平市上水本町 ;
+    mo:SubRegion mr:JP_東京都小平市上水南町 ;
+    mo:SubRegion mr:JP_東京都小平市鈴木町 ;
+    mo:SubRegion mr:JP_東京都小平市たかの台 ;
+    mo:SubRegion mr:JP_東京都小平市津田町 ;
+    mo:SubRegion mr:JP_東京都小平市天神町 ;
+    mo:SubRegion mr:JP_東京都小平市中島町 ;
+    mo:SubRegion mr:JP_東京都小平市仲町 ;
+    mo:SubRegion mr:JP_東京都小平市花小金井 ;
+    mo:SubRegion mr:JP_東京都小平市花小金井南町 ;
+    mo:SubRegion mr:JP_東京都小平市美園町 ;
+    mo:SubRegion mr:JP_東京都小平市御幸町 ;
+    mo:SubRegion mr:JP_東京都小平市回田町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都小平市大沼町
+    rdfs:label "大沼町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市小川東町
+    rdfs:label "小川東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市小川西町
+    rdfs:label "小川西町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市小川町
+    rdfs:label "小川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市学園東町
+    rdfs:label "学園東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市学園西町
+    rdfs:label "学園西町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市喜平町
+    rdfs:label "喜平町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市上水新町
+    rdfs:label "上水新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市上水本町
+    rdfs:label "上水本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市上水南町
+    rdfs:label "上水南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市鈴木町
+    rdfs:label "鈴木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市たかの台
+    rdfs:label "たかの台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市津田町
+    rdfs:label "津田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市天神町
+    rdfs:label "天神町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市中島町
+    rdfs:label "中島町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市仲町
+    rdfs:label "仲町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市花小金井
+    rdfs:label "花小金井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市花小金井南町
+    rdfs:label "花小金井南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市美園町
+    rdfs:label "美園町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市御幸町
+    rdfs:label "御幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小平市回田町
+    rdfs:label "回田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市
+    rdfs:label "日野市"@ja ;
+    mo:AreaCode "13212" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都日野市旭が丘 ;
+    mo:SubRegion mr:JP_東京都日野市新井 ;
+    mo:SubRegion mr:JP_東京都日野市石田 ;
+    mo:SubRegion mr:JP_東京都日野市大坂上 ;
+    mo:SubRegion mr:JP_東京都日野市落川 ;
+    mo:SubRegion mr:JP_東京都日野市上田 ;
+    mo:SubRegion mr:JP_東京都日野市川辺堀之内 ;
+    mo:SubRegion mr:JP_東京都日野市栄町 ;
+    mo:SubRegion mr:JP_東京都日野市さくら町 ;
+    mo:SubRegion mr:JP_東京都日野市下田 ;
+    mo:SubRegion mr:JP_東京都日野市新町 ;
+    mo:SubRegion mr:JP_東京都日野市神明 ;
+    mo:SubRegion mr:JP_東京都日野市高幡 ;
+    mo:SubRegion mr:JP_東京都日野市多摩平 ;
+    mo:SubRegion mr:JP_東京都日野市豊田 ;
+    mo:SubRegion mr:JP_東京都日野市西平山 ;
+    mo:SubRegion mr:JP_東京都日野市東豊田 ;
+    mo:SubRegion mr:JP_東京都日野市東平山 ;
+    mo:SubRegion mr:JP_東京都日野市日野 ;
+    mo:SubRegion mr:JP_東京都日野市日野台 ;
+    mo:SubRegion mr:JP_東京都日野市日野本町 ;
+    mo:SubRegion mr:JP_東京都日野市平山 ;
+    mo:SubRegion mr:JP_東京都日野市富士町 ;
+    mo:SubRegion mr:JP_東京都日野市程久保 ;
+    mo:SubRegion mr:JP_東京都日野市万願寺 ;
+    mo:SubRegion mr:JP_東京都日野市三沢 ;
+    mo:SubRegion mr:JP_東京都日野市南平 ;
+    mo:SubRegion mr:JP_東京都日野市宮 ;
+    mo:SubRegion mr:JP_東京都日野市百草 ;
+a mo:GeoEntity .
+
+mr:JP_東京都日野市旭が丘
+    rdfs:label "旭が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市新井
+    rdfs:label "新井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市石田
+    rdfs:label "石田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市大坂上
+    rdfs:label "大坂上"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市落川
+    rdfs:label "落川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市上田
+    rdfs:label "上田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市川辺堀之内
+    rdfs:label "川辺堀之内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市さくら町
+    rdfs:label "さくら町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市下田
+    rdfs:label "下田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市神明
+    rdfs:label "神明"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市高幡
+    rdfs:label "高幡"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市多摩平
+    rdfs:label "多摩平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市豊田
+    rdfs:label "豊田"@ja ;
+    mo:SubRegion mr:JP_東京都日野市豊田大字 ;
+    mo:SubRegion mr:JP_東京都日野市豊田丁目 ;
+    a mo:町域 .
+
+mr:JP_東京都日野市豊田大字
+    rdfs:label "大字"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市豊田丁目
+    rdfs:label "丁目"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市西平山
+    rdfs:label "西平山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市東豊田
+    rdfs:label "東豊田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市東平山
+    rdfs:label "東平山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市日野
+    rdfs:label "日野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市日野台
+    rdfs:label "日野台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市日野本町
+    rdfs:label "日野本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市平山
+    rdfs:label "平山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市富士町
+    rdfs:label "富士町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市程久保
+    rdfs:label "程久保"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市万願寺
+    rdfs:label "万願寺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市三沢
+    rdfs:label "三沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市南平
+    rdfs:label "南平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市宮
+    rdfs:label "宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都日野市百草
+    rdfs:label "百草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市
+    rdfs:label "東村山市"@ja ;
+    mo:AreaCode "13213" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都東村山市青葉町 ;
+    mo:SubRegion mr:JP_東京都東村山市秋津町 ;
+    mo:SubRegion mr:JP_東京都東村山市恩多町 ;
+    mo:SubRegion mr:JP_東京都東村山市久米川町 ;
+    mo:SubRegion mr:JP_東京都東村山市栄町 ;
+    mo:SubRegion mr:JP_東京都東村山市諏訪町 ;
+    mo:SubRegion mr:JP_東京都東村山市多摩湖町 ;
+    mo:SubRegion mr:JP_東京都東村山市野口町 ;
+    mo:SubRegion mr:JP_東京都東村山市萩山町 ;
+    mo:SubRegion mr:JP_東京都東村山市富士見町 ;
+    mo:SubRegion mr:JP_東京都東村山市本町 ;
+    mo:SubRegion mr:JP_東京都東村山市美住町 ;
+    mo:SubRegion mr:JP_東京都東村山市廻田町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都東村山市青葉町
+    rdfs:label "青葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市秋津町
+    rdfs:label "秋津町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市恩多町
+    rdfs:label "恩多町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市久米川町
+    rdfs:label "久米川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市諏訪町
+    rdfs:label "諏訪町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市多摩湖町
+    rdfs:label "多摩湖町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市野口町
+    rdfs:label "野口町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市萩山町
+    rdfs:label "萩山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市富士見町
+    rdfs:label "富士見町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市美住町
+    rdfs:label "美住町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東村山市廻田町
+    rdfs:label "廻田町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市
+    rdfs:label "国分寺市"@ja ;
+    mo:AreaCode "13214" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都国分寺市泉町 ;
+    mo:SubRegion mr:JP_東京都国分寺市北町 ;
+    mo:SubRegion mr:JP_東京都国分寺市新町 ;
+    mo:SubRegion mr:JP_東京都国分寺市高木町 ;
+    mo:SubRegion mr:JP_東京都国分寺市戸倉 ;
+    mo:SubRegion mr:JP_東京都国分寺市内藤 ;
+    mo:SubRegion mr:JP_東京都国分寺市並木町 ;
+    mo:SubRegion mr:JP_東京都国分寺市西恋ケ窪 ;
+    mo:SubRegion mr:JP_東京都国分寺市西町 ;
+    mo:SubRegion mr:JP_東京都国分寺市西元町 ;
+    mo:SubRegion mr:JP_東京都国分寺市光町 ;
+    mo:SubRegion mr:JP_東京都国分寺市東恋ケ窪 ;
+    mo:SubRegion mr:JP_東京都国分寺市東戸倉 ;
+    mo:SubRegion mr:JP_東京都国分寺市東元町 ;
+    mo:SubRegion mr:JP_東京都国分寺市日吉町 ;
+    mo:SubRegion mr:JP_東京都国分寺市富士本 ;
+    mo:SubRegion mr:JP_東京都国分寺市本多 ;
+    mo:SubRegion mr:JP_東京都国分寺市本町 ;
+    mo:SubRegion mr:JP_東京都国分寺市南町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都国分寺市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市北町
+    rdfs:label "北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市高木町
+    rdfs:label "高木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市戸倉
+    rdfs:label "戸倉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市内藤
+    rdfs:label "内藤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市並木町
+    rdfs:label "並木町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市西恋ケ窪
+    rdfs:label "西恋ケ窪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市西町
+    rdfs:label "西町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市西元町
+    rdfs:label "西元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市光町
+    rdfs:label "光町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市東恋ケ窪
+    rdfs:label "東恋ケ窪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市東戸倉
+    rdfs:label "東戸倉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市東元町
+    rdfs:label "東元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市日吉町
+    rdfs:label "日吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市富士本
+    rdfs:label "富士本"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市本多
+    rdfs:label "本多"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国分寺市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市
+    rdfs:label "国立市"@ja ;
+    mo:AreaCode "13215" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都国立市青柳 ;
+    mo:SubRegion mr:JP_東京都国立市石田 ;
+    mo:SubRegion mr:JP_東京都国立市泉 ;
+    mo:SubRegion mr:JP_東京都国立市北 ;
+    mo:SubRegion mr:JP_東京都国立市中 ;
+    mo:SubRegion mr:JP_東京都国立市西 ;
+    mo:SubRegion mr:JP_東京都国立市東 ;
+    mo:SubRegion mr:JP_東京都国立市富士見台 ;
+    mo:SubRegion mr:JP_東京都国立市矢川 ;
+    mo:SubRegion mr:JP_東京都国立市谷保 ;
+a mo:GeoEntity .
+
+mr:JP_東京都国立市青柳
+    rdfs:label "青柳"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市石田
+    rdfs:label "石田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市泉
+    rdfs:label "泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市北
+    rdfs:label "北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市中
+    rdfs:label "中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市東
+    rdfs:label "東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市富士見台
+    rdfs:label "富士見台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市矢川
+    rdfs:label "矢川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都国立市谷保
+    rdfs:label "谷保"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市
+    rdfs:label "福生市"@ja ;
+    mo:AreaCode "13218" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都福生市牛浜 ;
+    mo:SubRegion mr:JP_東京都福生市加美平 ;
+    mo:SubRegion mr:JP_東京都福生市北田園 ;
+    mo:SubRegion mr:JP_東京都福生市熊川 ;
+    mo:SubRegion mr:JP_東京都福生市熊川二宮 ;
+    mo:SubRegion mr:JP_東京都福生市志茂 ;
+    mo:SubRegion mr:JP_東京都福生市東町 ;
+    mo:SubRegion mr:JP_東京都福生市福生 ;
+    mo:SubRegion mr:JP_東京都福生市福生二宮 ;
+    mo:SubRegion mr:JP_東京都福生市本町 ;
+    mo:SubRegion mr:JP_東京都福生市南田園 ;
+    mo:SubRegion mr:JP_東京都福生市武蔵野台 ;
+    mo:SubRegion mr:JP_東京都福生市横田基地内 ;
+a mo:GeoEntity .
+
+mr:JP_東京都福生市牛浜
+    rdfs:label "牛浜"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市加美平
+    rdfs:label "加美平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市北田園
+    rdfs:label "北田園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市熊川
+    rdfs:label "熊川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市熊川二宮
+    rdfs:label "熊川二宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市志茂
+    rdfs:label "志茂"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市福生
+    rdfs:label "福生"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市福生二宮
+    rdfs:label "福生二宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市南田園
+    rdfs:label "南田園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市武蔵野台
+    rdfs:label "武蔵野台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都福生市横田基地内
+    rdfs:label "横田基地内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市
+    rdfs:label "狛江市"@ja ;
+    mo:AreaCode "13219" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都狛江市和泉本町 ;
+    mo:SubRegion mr:JP_東京都狛江市猪方 ;
+    mo:SubRegion mr:JP_東京都狛江市岩戸南 ;
+    mo:SubRegion mr:JP_東京都狛江市岩戸北 ;
+    mo:SubRegion mr:JP_東京都狛江市駒井町 ;
+    mo:SubRegion mr:JP_東京都狛江市中和泉 ;
+    mo:SubRegion mr:JP_東京都狛江市西和泉 ;
+    mo:SubRegion mr:JP_東京都狛江市西野川 ;
+    mo:SubRegion mr:JP_東京都狛江市東和泉 ;
+    mo:SubRegion mr:JP_東京都狛江市東野川 ;
+    mo:SubRegion mr:JP_東京都狛江市元和泉 ;
+a mo:GeoEntity .
+
+mr:JP_東京都狛江市和泉本町
+    rdfs:label "和泉本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市猪方
+    rdfs:label "猪方"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市岩戸南
+    rdfs:label "岩戸南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市岩戸北
+    rdfs:label "岩戸北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市駒井町
+    rdfs:label "駒井町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市中和泉
+    rdfs:label "中和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市西和泉
+    rdfs:label "西和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市西野川
+    rdfs:label "西野川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市東和泉
+    rdfs:label "東和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市東野川
+    rdfs:label "東野川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都狛江市元和泉
+    rdfs:label "元和泉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市
+    rdfs:label "東大和市"@ja ;
+    mo:AreaCode "13220" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都東大和市芋窪 ;
+    mo:SubRegion mr:JP_東京都東大和市上北台 ;
+    mo:SubRegion mr:JP_東京都東大和市清原 ;
+    mo:SubRegion mr:JP_東京都東大和市湖畔 ;
+    mo:SubRegion mr:JP_東京都東大和市桜が丘 ;
+    mo:SubRegion mr:JP_東京都東大和市狭山 ;
+    mo:SubRegion mr:JP_東京都東大和市清水 ;
+    mo:SubRegion mr:JP_東京都東大和市新堀 ;
+    mo:SubRegion mr:JP_東京都東大和市蔵敷 ;
+    mo:SubRegion mr:JP_東京都東大和市高木 ;
+    mo:SubRegion mr:JP_東京都東大和市立野 ;
+    mo:SubRegion mr:JP_東京都東大和市多摩湖 ;
+    mo:SubRegion mr:JP_東京都東大和市中央 ;
+    mo:SubRegion mr:JP_東京都東大和市仲原 ;
+    mo:SubRegion mr:JP_東京都東大和市奈良橋 ;
+    mo:SubRegion mr:JP_東京都東大和市南街 ;
+    mo:SubRegion mr:JP_東京都東大和市向原 ;
+a mo:GeoEntity .
+
+mr:JP_東京都東大和市芋窪
+    rdfs:label "芋窪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市上北台
+    rdfs:label "上北台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市清原
+    rdfs:label "清原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市湖畔
+    rdfs:label "湖畔"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市桜が丘
+    rdfs:label "桜が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市狭山
+    rdfs:label "狭山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市清水
+    rdfs:label "清水"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市新堀
+    rdfs:label "新堀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市蔵敷
+    rdfs:label "蔵敷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市高木
+    rdfs:label "高木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市立野
+    rdfs:label "立野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市多摩湖
+    rdfs:label "多摩湖"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市仲原
+    rdfs:label "仲原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市奈良橋
+    rdfs:label "奈良橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市南街
+    rdfs:label "南街"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東大和市向原
+    rdfs:label "向原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市
+    rdfs:label "清瀬市"@ja ;
+    mo:AreaCode "13221" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都清瀬市旭が丘 ;
+    mo:SubRegion mr:JP_東京都清瀬市梅園 ;
+    mo:SubRegion mr:JP_東京都清瀬市上清戸 ;
+    mo:SubRegion mr:JP_東京都清瀬市下宿 ;
+    mo:SubRegion mr:JP_東京都清瀬市下清戸 ;
+    mo:SubRegion mr:JP_東京都清瀬市竹丘 ;
+    mo:SubRegion mr:JP_東京都清瀬市中清戸 ;
+    mo:SubRegion mr:JP_東京都清瀬市中里 ;
+    mo:SubRegion mr:JP_東京都清瀬市野塩 ;
+    mo:SubRegion mr:JP_東京都清瀬市松山 ;
+    mo:SubRegion mr:JP_東京都清瀬市元町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都清瀬市旭が丘
+    rdfs:label "旭が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市梅園
+    rdfs:label "梅園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市上清戸
+    rdfs:label "上清戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市下宿
+    rdfs:label "下宿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市下清戸
+    rdfs:label "下清戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市竹丘
+    rdfs:label "竹丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市中清戸
+    rdfs:label "中清戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市中里
+    rdfs:label "中里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市野塩
+    rdfs:label "野塩"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市松山
+    rdfs:label "松山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都清瀬市元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市
+    rdfs:label "東久留米市"@ja ;
+    mo:AreaCode "13222" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都東久留米市上の原 ;
+    mo:SubRegion mr:JP_東京都東久留米市学園町 ;
+    mo:SubRegion mr:JP_東京都東久留米市金山町 ;
+    mo:SubRegion mr:JP_東京都東久留米市小山 ;
+    mo:SubRegion mr:JP_東京都東久留米市幸町 ;
+    mo:SubRegion mr:JP_東京都東久留米市下里 ;
+    mo:SubRegion mr:JP_東京都東久留米市新川町 ;
+    mo:SubRegion mr:JP_東京都東久留米市神宝町 ;
+    mo:SubRegion mr:JP_東京都東久留米市浅間町 ;
+    mo:SubRegion mr:JP_東京都東久留米市大門町 ;
+    mo:SubRegion mr:JP_東京都東久留米市滝山 ;
+    mo:SubRegion mr:JP_東京都東久留米市中央町 ;
+    mo:SubRegion mr:JP_東京都東久留米市野火止 ;
+    mo:SubRegion mr:JP_東京都東久留米市八幡町 ;
+    mo:SubRegion mr:JP_東京都東久留米市氷川台 ;
+    mo:SubRegion mr:JP_東京都東久留米市東本町 ;
+    mo:SubRegion mr:JP_東京都東久留米市ひばりが丘団地 ;
+    mo:SubRegion mr:JP_東京都東久留米市本町 ;
+    mo:SubRegion mr:JP_東京都東久留米市前沢 ;
+    mo:SubRegion mr:JP_東京都東久留米市南沢 ;
+    mo:SubRegion mr:JP_東京都東久留米市南町 ;
+    mo:SubRegion mr:JP_東京都東久留米市柳窪 ;
+    mo:SubRegion mr:JP_東京都東久留米市弥生 ;
+a mo:GeoEntity .
+
+mr:JP_東京都東久留米市上の原
+    rdfs:label "上の原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市学園町
+    rdfs:label "学園町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市金山町
+    rdfs:label "金山町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市小山
+    rdfs:label "小山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市幸町
+    rdfs:label "幸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市下里
+    rdfs:label "下里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市新川町
+    rdfs:label "新川町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市神宝町
+    rdfs:label "神宝町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市浅間町
+    rdfs:label "浅間町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市大門町
+    rdfs:label "大門町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市滝山
+    rdfs:label "滝山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市中央町
+    rdfs:label "中央町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市野火止
+    rdfs:label "野火止"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市八幡町
+    rdfs:label "八幡町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市氷川台
+    rdfs:label "氷川台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市東本町
+    rdfs:label "東本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市ひばりが丘団地
+    rdfs:label "ひばりが丘団地"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市前沢
+    rdfs:label "前沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市南沢
+    rdfs:label "南沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市柳窪
+    rdfs:label "柳窪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都東久留米市弥生
+    rdfs:label "弥生"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市
+    rdfs:label "武蔵村山市"@ja ;
+    mo:AreaCode "13223" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市伊奈平 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市榎 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市大南 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市学園 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市岸 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市残堀 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市神明 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市中央 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市中藤 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市中原 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市本町 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市三ツ木 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市三ツ藤 ;
+    mo:SubRegion mr:JP_東京都武蔵村山市緑が丘 ;
+a mo:GeoEntity .
+
+mr:JP_東京都武蔵村山市伊奈平
+    rdfs:label "伊奈平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市榎
+    rdfs:label "榎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市大南
+    rdfs:label "大南"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市学園
+    rdfs:label "学園"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市岸
+    rdfs:label "岸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市残堀
+    rdfs:label "残堀"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市神明
+    rdfs:label "神明"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市中藤
+    rdfs:label "中藤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市中原
+    rdfs:label "中原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市本町
+    rdfs:label "本町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市三ツ木
+    rdfs:label "三ツ木"@ja ;
+    mo:SubRegion mr:JP_東京都武蔵村山市三ツ木大字 ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市三ツ木大字
+    rdfs:label "大字"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市三ツ藤
+    rdfs:label "三ツ藤"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都武蔵村山市緑が丘
+    rdfs:label "緑が丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市
+    rdfs:label "多摩市"@ja ;
+    mo:AreaCode "13224" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都多摩市愛宕 ;
+    mo:SubRegion mr:JP_東京都多摩市一ノ宮 ;
+    mo:SubRegion mr:JP_東京都多摩市落合 ;
+    mo:SubRegion mr:JP_東京都多摩市落川 ;
+    mo:SubRegion mr:JP_東京都多摩市貝取 ;
+    mo:SubRegion mr:JP_東京都多摩市唐木田 ;
+    mo:SubRegion mr:JP_東京都多摩市乞田 ;
+    mo:SubRegion mr:JP_東京都多摩市桜ヶ丘 ;
+    mo:SubRegion mr:JP_東京都多摩市山王下 ;
+    mo:SubRegion mr:JP_東京都多摩市諏訪 ;
+    mo:SubRegion mr:JP_東京都多摩市関戸 ;
+    mo:SubRegion mr:JP_東京都多摩市鶴牧 ;
+    mo:SubRegion mr:JP_東京都多摩市豊ヶ丘 ;
+    mo:SubRegion mr:JP_東京都多摩市中沢 ;
+    mo:SubRegion mr:JP_東京都多摩市永山 ;
+    mo:SubRegion mr:JP_東京都多摩市東寺方 ;
+    mo:SubRegion mr:JP_東京都多摩市聖ヶ丘 ;
+    mo:SubRegion mr:JP_東京都多摩市馬引沢 ;
+    mo:SubRegion mr:JP_東京都多摩市南野 ;
+    mo:SubRegion mr:JP_東京都多摩市百草 ;
+    mo:SubRegion mr:JP_東京都多摩市連光寺 ;
+    mo:SubRegion mr:JP_東京都多摩市和田 ;
+a mo:GeoEntity .
+
+mr:JP_東京都多摩市愛宕
+    rdfs:label "愛宕"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市一ノ宮
+    rdfs:label "一ノ宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市落合
+    rdfs:label "落合"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市落川
+    rdfs:label "落川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市貝取
+    rdfs:label "貝取"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市唐木田
+    rdfs:label "唐木田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市乞田
+    rdfs:label "乞田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市桜ヶ丘
+    rdfs:label "桜ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市山王下
+    rdfs:label "山王下"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市諏訪
+    rdfs:label "諏訪"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市関戸
+    rdfs:label "関戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市鶴牧
+    rdfs:label "鶴牧"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市豊ヶ丘
+    rdfs:label "豊ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市中沢
+    rdfs:label "中沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市永山
+    rdfs:label "永山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市東寺方
+    rdfs:label "東寺方"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市聖ヶ丘
+    rdfs:label "聖ヶ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市馬引沢
+    rdfs:label "馬引沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市南野
+    rdfs:label "南野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市百草
+    rdfs:label "百草"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市連光寺
+    rdfs:label "連光寺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都多摩市和田
+    rdfs:label "和田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市
+    rdfs:label "稲城市"@ja ;
+    mo:AreaCode "13225" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都稲城市大丸 ;
+    mo:SubRegion mr:JP_東京都稲城市押立 ;
+    mo:SubRegion mr:JP_東京都稲城市向陽台 ;
+    mo:SubRegion mr:JP_東京都稲城市坂浜 ;
+    mo:SubRegion mr:JP_東京都稲城市長峰 ;
+    mo:SubRegion mr:JP_東京都稲城市東長沼 ;
+    mo:SubRegion mr:JP_東京都稲城市平尾 ;
+    mo:SubRegion mr:JP_東京都稲城市百村 ;
+    mo:SubRegion mr:JP_東京都稲城市矢野口 ;
+    mo:SubRegion mr:JP_東京都稲城市若葉台 ;
+a mo:GeoEntity .
+
+mr:JP_東京都稲城市大丸
+    rdfs:label "大丸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市押立
+    rdfs:label "押立"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市向陽台
+    rdfs:label "向陽台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市坂浜
+    rdfs:label "坂浜"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市長峰
+    rdfs:label "長峰"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市東長沼
+    rdfs:label "東長沼"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市平尾
+    rdfs:label "平尾"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市百村
+    rdfs:label "百村"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市矢野口
+    rdfs:label "矢野口"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都稲城市若葉台
+    rdfs:label "若葉台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市
+    rdfs:label "羽村市"@ja ;
+    mo:AreaCode "13227" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都羽村市小作台 ;
+    mo:SubRegion mr:JP_東京都羽村市川崎 ;
+    mo:SubRegion mr:JP_東京都羽村市五ノ神 ;
+    mo:SubRegion mr:JP_東京都羽村市栄町 ;
+    mo:SubRegion mr:JP_東京都羽村市神明台 ;
+    mo:SubRegion mr:JP_東京都羽村市玉川 ;
+    mo:SubRegion mr:JP_東京都羽村市羽 ;
+    mo:SubRegion mr:JP_東京都羽村市羽加美 ;
+    mo:SubRegion mr:JP_東京都羽村市羽中 ;
+    mo:SubRegion mr:JP_東京都羽村市羽東 ;
+    mo:SubRegion mr:JP_東京都羽村市羽西 ;
+    mo:SubRegion mr:JP_東京都羽村市富士見平 ;
+    mo:SubRegion mr:JP_東京都羽村市双葉町 ;
+    mo:SubRegion mr:JP_東京都羽村市緑ケ丘 ;
+a mo:GeoEntity .
+
+mr:JP_東京都羽村市小作台
+    rdfs:label "小作台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市川崎
+    rdfs:label "川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市五ノ神
+    rdfs:label "五ノ神"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市神明台
+    rdfs:label "神明台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市玉川
+    rdfs:label "玉川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市羽
+    rdfs:label "羽"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市羽加美
+    rdfs:label "羽加美"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市羽中
+    rdfs:label "羽中"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市羽東
+    rdfs:label "羽東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市羽西
+    rdfs:label "羽西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市富士見平
+    rdfs:label "富士見平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市双葉町
+    rdfs:label "双葉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都羽村市緑ケ丘
+    rdfs:label "緑ケ丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市
+    rdfs:label "あきる野市"@ja ;
+    mo:AreaCode "13228" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都あきる野市秋川 ;
+    mo:SubRegion mr:JP_東京都あきる野市秋留 ;
+    mo:SubRegion mr:JP_東京都あきる野市網代 ;
+    mo:SubRegion mr:JP_東京都あきる野市油平 ;
+    mo:SubRegion mr:JP_東京都あきる野市雨間 ;
+    mo:SubRegion mr:JP_東京都あきる野市五日市 ;
+    mo:SubRegion mr:JP_東京都あきる野市伊奈 ;
+    mo:SubRegion mr:JP_東京都あきる野市入野 ;
+    mo:SubRegion mr:JP_東京都あきる野市上ノ台 ;
+    mo:SubRegion mr:JP_東京都あきる野市牛沼 ;
+    mo:SubRegion mr:JP_東京都あきる野市小川 ;
+    mo:SubRegion mr:JP_東京都あきる野市小川東 ;
+    mo:SubRegion mr:JP_東京都あきる野市乙津 ;
+    mo:SubRegion mr:JP_東京都あきる野市上代継 ;
+    mo:SubRegion mr:JP_東京都あきる野市切欠 ;
+    mo:SubRegion mr:JP_東京都あきる野市草花 ;
+    mo:SubRegion mr:JP_東京都あきる野市小中野 ;
+    mo:SubRegion mr:JP_東京都あきる野市小峰台 ;
+    mo:SubRegion mr:JP_東京都あきる野市小和田 ;
+    mo:SubRegion mr:JP_東京都あきる野市三内 ;
+    mo:SubRegion mr:JP_東京都あきる野市下代継 ;
+    mo:SubRegion mr:JP_東京都あきる野市菅生 ;
+    mo:SubRegion mr:JP_東京都あきる野市瀬戸岡 ;
+    mo:SubRegion mr:JP_東京都あきる野市高尾 ;
+    mo:SubRegion mr:JP_東京都あきる野市舘谷 ;
+    mo:SubRegion mr:JP_東京都あきる野市舘谷台 ;
+    mo:SubRegion mr:JP_東京都あきる野市戸倉 ;
+    mo:SubRegion mr:JP_東京都あきる野市留原 ;
+    mo:SubRegion mr:JP_東京都あきる野市二宮 ;
+    mo:SubRegion mr:JP_東京都あきる野市二宮東 ;
+    mo:SubRegion mr:JP_東京都あきる野市野辺 ;
+    mo:SubRegion mr:JP_東京都あきる野市原小宮 ;
+    mo:SubRegion mr:JP_東京都あきる野市引田 ;
+    mo:SubRegion mr:JP_東京都あきる野市平沢 ;
+    mo:SubRegion mr:JP_東京都あきる野市平沢西 ;
+    mo:SubRegion mr:JP_東京都あきる野市平沢東 ;
+    mo:SubRegion mr:JP_東京都あきる野市深沢 ;
+    mo:SubRegion mr:JP_東京都あきる野市渕上 ;
+    mo:SubRegion mr:JP_東京都あきる野市山田 ;
+    mo:SubRegion mr:JP_東京都あきる野市養沢 ;
+    mo:SubRegion mr:JP_東京都あきる野市横沢 ;
+a mo:GeoEntity .
+
+mr:JP_東京都あきる野市秋川
+    rdfs:label "秋川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市秋留
+    rdfs:label "秋留"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市網代
+    rdfs:label "網代"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市油平
+    rdfs:label "油平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市雨間
+    rdfs:label "雨間"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市五日市
+    rdfs:label "五日市"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市伊奈
+    rdfs:label "伊奈"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市入野
+    rdfs:label "入野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市上ノ台
+    rdfs:label "上ノ台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市牛沼
+    rdfs:label "牛沼"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市小川
+    rdfs:label "小川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市小川東
+    rdfs:label "小川東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市乙津
+    rdfs:label "乙津"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市上代継
+    rdfs:label "上代継"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市切欠
+    rdfs:label "切欠"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市草花
+    rdfs:label "草花"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市小中野
+    rdfs:label "小中野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市小峰台
+    rdfs:label "小峰台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市小和田
+    rdfs:label "小和田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市三内
+    rdfs:label "三内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市下代継
+    rdfs:label "下代継"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市菅生
+    rdfs:label "菅生"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市瀬戸岡
+    rdfs:label "瀬戸岡"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市高尾
+    rdfs:label "高尾"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市舘谷
+    rdfs:label "舘谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市舘谷台
+    rdfs:label "舘谷台"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市戸倉
+    rdfs:label "戸倉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市留原
+    rdfs:label "留原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市二宮
+    rdfs:label "二宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市二宮東
+    rdfs:label "二宮東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市野辺
+    rdfs:label "野辺"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市原小宮
+    rdfs:label "原小宮"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市引田
+    rdfs:label "引田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市平沢
+    rdfs:label "平沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市平沢西
+    rdfs:label "平沢西"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市平沢東
+    rdfs:label "平沢東"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市深沢
+    rdfs:label "深沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市渕上
+    rdfs:label "渕上"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市養沢
+    rdfs:label "養沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都あきる野市横沢
+    rdfs:label "横沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市
+    rdfs:label "西東京市"@ja ;
+    mo:AreaCode "13229" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都西東京市泉町 ;
+    mo:SubRegion mr:JP_東京都西東京市北原町 ;
+    mo:SubRegion mr:JP_東京都西東京市北町 ;
+    mo:SubRegion mr:JP_東京都西東京市栄町 ;
+    mo:SubRegion mr:JP_東京都西東京市芝久保町 ;
+    mo:SubRegion mr:JP_東京都西東京市下保谷 ;
+    mo:SubRegion mr:JP_東京都西東京市新町 ;
+    mo:SubRegion mr:JP_東京都西東京市住吉町 ;
+    mo:SubRegion mr:JP_東京都西東京市田無町 ;
+    mo:SubRegion mr:JP_東京都西東京市中町 ;
+    mo:SubRegion mr:JP_東京都西東京市西原町 ;
+    mo:SubRegion mr:JP_東京都西東京市東町 ;
+    mo:SubRegion mr:JP_東京都西東京市東伏見 ;
+    mo:SubRegion mr:JP_東京都西東京市ひばりが丘 ;
+    mo:SubRegion mr:JP_東京都西東京市ひばりが丘北 ;
+    mo:SubRegion mr:JP_東京都西東京市富士町 ;
+    mo:SubRegion mr:JP_東京都西東京市保谷町 ;
+    mo:SubRegion mr:JP_東京都西東京市緑町 ;
+    mo:SubRegion mr:JP_東京都西東京市南町 ;
+    mo:SubRegion mr:JP_東京都西東京市向台町 ;
+    mo:SubRegion mr:JP_東京都西東京市柳沢 ;
+    mo:SubRegion mr:JP_東京都西東京市谷戸町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都西東京市泉町
+    rdfs:label "泉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市北原町
+    rdfs:label "北原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市北町
+    rdfs:label "北町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市栄町
+    rdfs:label "栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市芝久保町
+    rdfs:label "芝久保町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市下保谷
+    rdfs:label "下保谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市新町
+    rdfs:label "新町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市田無町
+    rdfs:label "田無町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市中町
+    rdfs:label "中町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市西原町
+    rdfs:label "西原町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市東伏見
+    rdfs:label "東伏見"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市ひばりが丘
+    rdfs:label "ひばりが丘"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市ひばりが丘北
+    rdfs:label "ひばりが丘北"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市富士町
+    rdfs:label "富士町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市保谷町
+    rdfs:label "保谷町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市緑町
+    rdfs:label "緑町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市南町
+    rdfs:label "南町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市向台町
+    rdfs:label "向台町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市柳沢
+    rdfs:label "柳沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西東京市谷戸町
+    rdfs:label "谷戸町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町
+    rdfs:label "西多摩郡瑞穂町"@ja ;
+    mo:AreaCode "13303" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町石畑 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町駒形富士山 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町高根 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町殿ケ谷 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町長岡 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町長岡下師岡 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町長岡長谷部 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町長岡藤橋 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町二本木 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町箱根ケ崎 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町箱根ケ崎東松原 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町箱根ケ崎西松原 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町富士山栗原新田 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町南平 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町武蔵 ;
+    mo:SubRegion mr:JP_東京都西多摩郡瑞穂町むさし野 ;
+a mo:GeoEntity .
+
+mr:JP_東京都西多摩郡瑞穂町石畑
+    rdfs:label "石畑"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町駒形富士山
+    rdfs:label "駒形富士山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町高根
+    rdfs:label "高根"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町殿ケ谷
+    rdfs:label "殿ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町長岡
+    rdfs:label "長岡"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町長岡下師岡
+    rdfs:label "長岡下師岡"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町長岡長谷部
+    rdfs:label "長岡長谷部"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町長岡藤橋
+    rdfs:label "長岡藤橋"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町二本木
+    rdfs:label "二本木"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町箱根ケ崎
+    rdfs:label "箱根ケ崎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町箱根ケ崎東松原
+    rdfs:label "箱根ケ崎東松原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町箱根ケ崎西松原
+    rdfs:label "箱根ケ崎西松原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町富士山栗原新田
+    rdfs:label "富士山栗原新田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町南平
+    rdfs:label "南平"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町武蔵
+    rdfs:label "武蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡瑞穂町むさし野
+    rdfs:label "むさし野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡日の出町
+    rdfs:label "西多摩郡日の出町"@ja ;
+    mo:AreaCode "13305" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都西多摩郡日の出町大久野 ;
+    mo:SubRegion mr:JP_東京都西多摩郡日の出町平井 ;
+a mo:GeoEntity .
+
+mr:JP_東京都西多摩郡日の出町大久野
+    rdfs:label "大久野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡日の出町平井
+    rdfs:label "平井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村
+    rdfs:label "西多摩郡檜原村"@ja ;
+    mo:AreaCode "13307" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村小沢 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村数馬 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村神戸 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村上元郷 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村倉掛 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村下元郷 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村南郷 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村樋里 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村藤原 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村人里 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村三都郷 ;
+    mo:SubRegion mr:JP_東京都西多摩郡檜原村本宿 ;
+a mo:GeoEntity .
+
+mr:JP_東京都西多摩郡檜原村小沢
+    rdfs:label "小沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村数馬
+    rdfs:label "数馬"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村神戸
+    rdfs:label "神戸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村上元郷
+    rdfs:label "上元郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村倉掛
+    rdfs:label "倉掛"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村下元郷
+    rdfs:label "下元郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村南郷
+    rdfs:label "南郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村樋里
+    rdfs:label "樋里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村藤原
+    rdfs:label "藤原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村人里
+    rdfs:label "人里"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村三都郷
+    rdfs:label "三都郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡檜原村本宿
+    rdfs:label "本宿"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町
+    rdfs:label "西多摩郡奥多摩町"@ja ;
+    mo:AreaCode "13308" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町海沢 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町梅沢 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町大丹波 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町川井 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町川野 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町河内 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町小丹波 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町境 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町白丸 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町棚沢 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町丹三郎 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町留浦 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町日原 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町原 ;
+    mo:SubRegion mr:JP_東京都西多摩郡奥多摩町氷川 ;
+a mo:GeoEntity .
+
+mr:JP_東京都西多摩郡奥多摩町海沢
+    rdfs:label "海沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町梅沢
+    rdfs:label "梅沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町大丹波
+    rdfs:label "大丹波"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町川井
+    rdfs:label "川井"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町川野
+    rdfs:label "川野"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町河内
+    rdfs:label "河内"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町小丹波
+    rdfs:label "小丹波"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町境
+    rdfs:label "境"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町白丸
+    rdfs:label "白丸"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町棚沢
+    rdfs:label "棚沢"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町丹三郎
+    rdfs:label "丹三郎"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町留浦
+    rdfs:label "留浦"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町日原
+    rdfs:label "日原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町原
+    rdfs:label "原"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都西多摩郡奥多摩町氷川
+    rdfs:label "氷川"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大島町
+    rdfs:label "大島町"@ja ;
+    mo:AreaCode "13361" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都大島町岡田 ;
+    mo:SubRegion mr:JP_東京都大島町差木地 ;
+    mo:SubRegion mr:JP_東京都大島町泉津 ;
+    mo:SubRegion mr:JP_東京都大島町野増 ;
+    mo:SubRegion mr:JP_東京都大島町波浮港 ;
+    mo:SubRegion mr:JP_東京都大島町元町 ;
+a mo:GeoEntity .
+
+mr:JP_東京都大島町岡田
+    rdfs:label "岡田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大島町差木地
+    rdfs:label "差木地"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大島町泉津
+    rdfs:label "泉津"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大島町野増
+    rdfs:label "野増"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大島町波浮港
+    rdfs:label "波浮港"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都大島町元町
+    rdfs:label "元町"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都利島村
+    rdfs:label "利島村"@ja ;
+    mo:AreaCode "13362" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_東京都新島村
+    rdfs:label "新島村"@ja ;
+    mo:AreaCode "13363" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都新島村式根島 ;
+    mo:SubRegion mr:JP_東京都新島村本村 ;
+    mo:SubRegion mr:JP_東京都新島村若郷 ;
+a mo:GeoEntity .
+
+mr:JP_東京都新島村式根島
+    rdfs:label "式根島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新島村本村
+    rdfs:label "本村"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都新島村若郷
+    rdfs:label "若郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都神津島村
+    rdfs:label "神津島村"@ja ;
+    mo:AreaCode "13364" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_東京都三宅島三宅村
+    rdfs:label "三宅島三宅村"@ja ;
+    mo:AreaCode "13381" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都三宅島三宅村阿古 ;
+    mo:SubRegion mr:JP_東京都三宅島三宅村伊ケ谷 ;
+    mo:SubRegion mr:JP_東京都三宅島三宅村伊豆 ;
+    mo:SubRegion mr:JP_東京都三宅島三宅村雄山 ;
+    mo:SubRegion mr:JP_東京都三宅島三宅村神着 ;
+    mo:SubRegion mr:JP_東京都三宅島三宅村坪田 ;
+a mo:GeoEntity .
+
+mr:JP_東京都三宅島三宅村阿古
+    rdfs:label "阿古"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三宅島三宅村伊ケ谷
+    rdfs:label "伊ケ谷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三宅島三宅村伊豆
+    rdfs:label "伊豆"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三宅島三宅村雄山
+    rdfs:label "雄山"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三宅島三宅村神着
+    rdfs:label "神着"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都三宅島三宅村坪田
+    rdfs:label "坪田"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都御蔵島村
+    rdfs:label "御蔵島村"@ja ;
+    mo:AreaCode "13382" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_東京都八丈島八丈町
+    rdfs:label "八丈島八丈町"@ja ;
+    mo:AreaCode "13401" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都八丈島八丈町大賀郷 ;
+    mo:SubRegion mr:JP_東京都八丈島八丈町樫立 ;
+    mo:SubRegion mr:JP_東京都八丈島八丈町末吉 ;
+    mo:SubRegion mr:JP_東京都八丈島八丈町中之郷 ;
+    mo:SubRegion mr:JP_東京都八丈島八丈町三根 ;
+a mo:GeoEntity .
+
+mr:JP_東京都八丈島八丈町大賀郷
+    rdfs:label "大賀郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八丈島八丈町樫立
+    rdfs:label "樫立"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八丈島八丈町末吉
+    rdfs:label "末吉"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八丈島八丈町中之郷
+    rdfs:label "中之郷"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都八丈島八丈町三根
+    rdfs:label "三根"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都青ヶ島村
+    rdfs:label "青ヶ島村"@ja ;
+    mo:AreaCode "13402" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_東京都小笠原村
+    rdfs:label "小笠原村"@ja ;
+    mo:AreaCode "13421" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_東京都小笠原村父島 ;
+    mo:SubRegion mr:JP_東京都小笠原村母島 ;
+a mo:GeoEntity .
+
+mr:JP_東京都小笠原村父島
+    rdfs:label "父島"@ja ;
+    a mo:町域 .
+
+mr:JP_東京都小笠原村母島
+    rdfs:label "母島"@ja ;
+    a mo:町域 .
+
