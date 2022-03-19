@@ -1,0 +1,4113 @@
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JP_沖縄県
+    a mo:都道府県 ;
+    rdfs:label "沖縄県"@ja ;
+    mo:AreaCode "47" ;
+    mo:SubRegion mr:JP_沖縄県那覇市 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市 ;
+    mo:SubRegion mr:JP_沖縄県石垣市 ;
+    mo:SubRegion mr:JP_沖縄県浦添市 ;
+    mo:SubRegion mr:JP_沖縄県名護市 ;
+    mo:SubRegion mr:JP_沖縄県糸満市 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市 ;
+    mo:SubRegion mr:JP_沖縄県うるま市 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市 ;
+    mo:SubRegion mr:JP_沖縄県南城市 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡東村 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡宜野座村 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡金武町 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡伊江村 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡嘉手納町 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡与那原町 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡渡嘉敷村 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡座間味村 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡粟国村 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡渡名喜村 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南大東村 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡北大東村 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊平屋村 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊是名村 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町 ;
+    mo:SubRegion mr:JP_沖縄県宮古郡多良間村 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡与那国町 ;
+    a mo:GeoEntity .
+
+mr:JP_沖縄県那覇市
+    rdfs:label "那覇市"@ja ;
+    mo:AreaCode "47201" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県那覇市赤嶺 ;
+    mo:SubRegion mr:JP_沖縄県那覇市曙 ;
+    mo:SubRegion mr:JP_沖縄県那覇市安里 ;
+    mo:SubRegion mr:JP_沖縄県那覇市旭町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市安次嶺 ;
+    mo:SubRegion mr:JP_沖縄県那覇市安謝 ;
+    mo:SubRegion mr:JP_沖縄県那覇市天久 ;
+    mo:SubRegion mr:JP_沖縄県那覇市泉崎 ;
+    mo:SubRegion mr:JP_沖縄県那覇市上之屋 ;
+    mo:SubRegion mr:JP_沖縄県那覇市宇栄原 ;
+    mo:SubRegion mr:JP_沖縄県那覇市上間 ;
+    mo:SubRegion mr:JP_沖縄県那覇市奥武山町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市大嶺 ;
+    mo:SubRegion mr:JP_沖縄県那覇市おもろまち ;
+    mo:SubRegion mr:JP_沖縄県那覇市小禄 ;
+    mo:SubRegion mr:JP_沖縄県那覇市鏡水 ;
+    mo:SubRegion mr:JP_沖縄県那覇市垣花町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市金城 ;
+    mo:SubRegion mr:JP_沖縄県那覇市鏡原町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市具志 ;
+    mo:SubRegion mr:JP_沖縄県那覇市久米 ;
+    mo:SubRegion mr:JP_沖縄県那覇市久茂地 ;
+    mo:SubRegion mr:JP_沖縄県那覇市国場 ;
+    mo:SubRegion mr:JP_沖縄県那覇市古波蔵 ;
+    mo:SubRegion mr:JP_沖縄県那覇市識名 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里赤田町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里赤平町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里池端町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里石嶺町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里大中町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里大名町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里金城町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里儀保町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里久場川町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里崎山町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里寒川町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里末吉町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里平良町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里汀良町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里当蔵町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里桃原町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里鳥堀町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里真和志町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市首里山川町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市住吉町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市楚辺 ;
+    mo:SubRegion mr:JP_沖縄県那覇市大道 ;
+    mo:SubRegion mr:JP_沖縄県那覇市高良 ;
+    mo:SubRegion mr:JP_沖縄県那覇市田原 ;
+    mo:SubRegion mr:JP_沖縄県那覇市辻 ;
+    mo:SubRegion mr:JP_沖縄県那覇市壺川 ;
+    mo:SubRegion mr:JP_沖縄県那覇市壺屋 ;
+    mo:SubRegion mr:JP_沖縄県那覇市当間 ;
+    mo:SubRegion mr:JP_沖縄県那覇市泊 ;
+    mo:SubRegion mr:JP_沖縄県那覇市通堂町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市仲井真 ;
+    mo:SubRegion mr:JP_沖縄県那覇市長田 ;
+    mo:SubRegion mr:JP_沖縄県那覇市西 ;
+    mo:SubRegion mr:JP_沖縄県那覇市繁多川 ;
+    mo:SubRegion mr:JP_沖縄県那覇市東町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市樋川 ;
+    mo:SubRegion mr:JP_沖縄県那覇市古島 ;
+    mo:SubRegion mr:JP_沖縄県那覇市真地 ;
+    mo:SubRegion mr:JP_沖縄県那覇市前島 ;
+    mo:SubRegion mr:JP_沖縄県那覇市真嘉比 ;
+    mo:SubRegion mr:JP_沖縄県那覇市牧志 ;
+    mo:SubRegion mr:JP_沖縄県那覇市松尾 ;
+    mo:SubRegion mr:JP_沖縄県那覇市松川 ;
+    mo:SubRegion mr:JP_沖縄県那覇市松島 ;
+    mo:SubRegion mr:JP_沖縄県那覇市松山 ;
+    mo:SubRegion mr:JP_沖縄県那覇市港町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市三原 ;
+    mo:SubRegion mr:JP_沖縄県那覇市宮城 ;
+    mo:SubRegion mr:JP_沖縄県那覇市銘苅 ;
+    mo:SubRegion mr:JP_沖縄県那覇市山下町 ;
+    mo:SubRegion mr:JP_沖縄県那覇市与儀 ;
+    mo:SubRegion mr:JP_沖縄県那覇市寄宮 ;
+    mo:SubRegion mr:JP_沖縄県那覇市若狭 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県那覇市赤嶺
+    rdfs:label "赤嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市曙
+    rdfs:label "曙"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市安里
+    rdfs:label "安里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市旭町
+    rdfs:label "旭町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市安次嶺
+    rdfs:label "安次嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市安謝
+    rdfs:label "安謝"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市天久
+    rdfs:label "天久"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市泉崎
+    rdfs:label "泉崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市上之屋
+    rdfs:label "上之屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市宇栄原
+    rdfs:label "宇栄原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市上間
+    rdfs:label "上間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市奥武山町
+    rdfs:label "奥武山町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市大嶺
+    rdfs:label "大嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市おもろまち
+    rdfs:label "おもろまち"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市小禄
+    rdfs:label "小禄"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市鏡水
+    rdfs:label "鏡水"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市垣花町
+    rdfs:label "垣花町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市金城
+    rdfs:label "金城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市鏡原町
+    rdfs:label "鏡原町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市具志
+    rdfs:label "具志"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市久米
+    rdfs:label "久米"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市久茂地
+    rdfs:label "久茂地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市国場
+    rdfs:label "国場"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市古波蔵
+    rdfs:label "古波蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市識名
+    rdfs:label "識名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里赤田町
+    rdfs:label "首里赤田町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里赤平町
+    rdfs:label "首里赤平町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里池端町
+    rdfs:label "首里池端町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里石嶺町
+    rdfs:label "首里石嶺町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里大中町
+    rdfs:label "首里大中町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里大名町
+    rdfs:label "首里大名町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里金城町
+    rdfs:label "首里金城町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里儀保町
+    rdfs:label "首里儀保町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里久場川町
+    rdfs:label "首里久場川町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里崎山町
+    rdfs:label "首里崎山町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里寒川町
+    rdfs:label "首里寒川町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里末吉町
+    rdfs:label "首里末吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里平良町
+    rdfs:label "首里平良町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里汀良町
+    rdfs:label "首里汀良町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里当蔵町
+    rdfs:label "首里当蔵町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里桃原町
+    rdfs:label "首里桃原町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里鳥堀町
+    rdfs:label "首里鳥堀町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里真和志町
+    rdfs:label "首里真和志町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市首里山川町
+    rdfs:label "首里山川町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市住吉町
+    rdfs:label "住吉町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市楚辺
+    rdfs:label "楚辺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市大道
+    rdfs:label "大道"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市高良
+    rdfs:label "高良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市田原
+    rdfs:label "田原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市辻
+    rdfs:label "辻"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市壺川
+    rdfs:label "壺川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市壺屋
+    rdfs:label "壺屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市当間
+    rdfs:label "当間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市泊
+    rdfs:label "泊"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市通堂町
+    rdfs:label "通堂町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市仲井真
+    rdfs:label "仲井真"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市長田
+    rdfs:label "長田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市繁多川
+    rdfs:label "繁多川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市東町
+    rdfs:label "東町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市樋川
+    rdfs:label "樋川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市古島
+    rdfs:label "古島"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市真地
+    rdfs:label "真地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市前島
+    rdfs:label "前島"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市真嘉比
+    rdfs:label "真嘉比"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市牧志
+    rdfs:label "牧志"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市松尾
+    rdfs:label "松尾"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市松川
+    rdfs:label "松川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市松島
+    rdfs:label "松島"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市松山
+    rdfs:label "松山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市港町
+    rdfs:label "港町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市三原
+    rdfs:label "三原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市宮城
+    rdfs:label "宮城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市銘苅
+    rdfs:label "銘苅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市山下町
+    rdfs:label "山下町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市与儀
+    rdfs:label "与儀"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市寄宮
+    rdfs:label "寄宮"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県那覇市若狭
+    rdfs:label "若狭"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市
+    rdfs:label "宜野湾市"@ja ;
+    mo:AreaCode "47205" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市愛知 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市赤道 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市新城 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市伊佐 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市上原 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市宇地泊 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市大謝名 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市大山 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市嘉数 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市我如古 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市神山 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市宜野湾 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市喜友名 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市佐真下 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市志真志 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市長田 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市野嵩 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市普天間 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市真栄原 ;
+    mo:SubRegion mr:JP_沖縄県宜野湾市真志喜 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県宜野湾市愛知
+    rdfs:label "愛知"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市赤道
+    rdfs:label "赤道"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市新城
+    rdfs:label "新城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市伊佐
+    rdfs:label "伊佐"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市上原
+    rdfs:label "上原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市宇地泊
+    rdfs:label "宇地泊"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市大謝名
+    rdfs:label "大謝名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市大山
+    rdfs:label "大山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市嘉数
+    rdfs:label "嘉数"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市我如古
+    rdfs:label "我如古"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市神山
+    rdfs:label "神山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市宜野湾
+    rdfs:label "宜野湾"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市喜友名
+    rdfs:label "喜友名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市佐真下
+    rdfs:label "佐真下"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市志真志
+    rdfs:label "志真志"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市長田
+    rdfs:label "長田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市野嵩
+    rdfs:label "野嵩"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市普天間
+    rdfs:label "普天間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市真栄原
+    rdfs:label "真栄原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宜野湾市真志喜
+    rdfs:label "真志喜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市
+    rdfs:label "石垣市"@ja ;
+    mo:AreaCode "47207" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県石垣市新川 ;
+    mo:SubRegion mr:JP_沖縄県石垣市石垣 ;
+    mo:SubRegion mr:JP_沖縄県石垣市伊原間 ;
+    mo:SubRegion mr:JP_沖縄県石垣市大川 ;
+    mo:SubRegion mr:JP_沖縄県石垣市大浜 ;
+    mo:SubRegion mr:JP_沖縄県石垣市川平 ;
+    mo:SubRegion mr:JP_沖縄県石垣市崎枝 ;
+    mo:SubRegion mr:JP_沖縄県石垣市白保 ;
+    mo:SubRegion mr:JP_沖縄県石垣市新栄町 ;
+    mo:SubRegion mr:JP_沖縄県石垣市桃里 ;
+    mo:SubRegion mr:JP_沖縄県石垣市登野城 ;
+    mo:SubRegion mr:JP_沖縄県石垣市登野城尖閣 ;
+    mo:SubRegion mr:JP_沖縄県石垣市名蔵 ;
+    mo:SubRegion mr:JP_沖縄県石垣市野底 ;
+    mo:SubRegion mr:JP_沖縄県石垣市南ぬ浜町 ;
+    mo:SubRegion mr:JP_沖縄県石垣市浜崎町 ;
+    mo:SubRegion mr:JP_沖縄県石垣市平得 ;
+    mo:SubRegion mr:JP_沖縄県石垣市平久保 ;
+    mo:SubRegion mr:JP_沖縄県石垣市桴海 ;
+    mo:SubRegion mr:JP_沖縄県石垣市真栄里 ;
+    mo:SubRegion mr:JP_沖縄県石垣市美崎町 ;
+    mo:SubRegion mr:JP_沖縄県石垣市宮良 ;
+    mo:SubRegion mr:JP_沖縄県石垣市盛山 ;
+    mo:SubRegion mr:JP_沖縄県石垣市八島町 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県石垣市新川
+    rdfs:label "新川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市石垣
+    rdfs:label "石垣"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市伊原間
+    rdfs:label "伊原間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市大川
+    rdfs:label "大川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市大浜
+    rdfs:label "大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市川平
+    rdfs:label "川平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市崎枝
+    rdfs:label "崎枝"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市白保
+    rdfs:label "白保"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市新栄町
+    rdfs:label "新栄町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市桃里
+    rdfs:label "桃里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市登野城
+    rdfs:label "登野城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市登野城尖閣
+    rdfs:label "登野城尖閣"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市名蔵
+    rdfs:label "名蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市野底
+    rdfs:label "野底"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市南ぬ浜町
+    rdfs:label "南ぬ浜町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市浜崎町
+    rdfs:label "浜崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市平得
+    rdfs:label "平得"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市平久保
+    rdfs:label "平久保"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市桴海
+    rdfs:label "桴海"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市真栄里
+    rdfs:label "真栄里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市美崎町
+    rdfs:label "美崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市宮良
+    rdfs:label "宮良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市盛山
+    rdfs:label "盛山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県石垣市八島町
+    rdfs:label "八島町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市
+    rdfs:label "浦添市"@ja ;
+    mo:AreaCode "47208" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県浦添市安波茶 ;
+    mo:SubRegion mr:JP_沖縄県浦添市伊祖 ;
+    mo:SubRegion mr:JP_沖縄県浦添市伊奈武瀬 ;
+    mo:SubRegion mr:JP_沖縄県浦添市西洲 ;
+    mo:SubRegion mr:JP_沖縄県浦添市内間 ;
+    mo:SubRegion mr:JP_沖縄県浦添市大平 ;
+    mo:SubRegion mr:JP_沖縄県浦添市経塚 ;
+    mo:SubRegion mr:JP_沖縄県浦添市城間 ;
+    mo:SubRegion mr:JP_沖縄県浦添市小湾 ;
+    mo:SubRegion mr:JP_沖縄県浦添市勢理客 ;
+    mo:SubRegion mr:JP_沖縄県浦添市沢岻 ;
+    mo:SubRegion mr:JP_沖縄県浦添市当山 ;
+    mo:SubRegion mr:JP_沖縄県浦添市仲間 ;
+    mo:SubRegion mr:JP_沖縄県浦添市仲西 ;
+    mo:SubRegion mr:JP_沖縄県浦添市西原 ;
+    mo:SubRegion mr:JP_沖縄県浦添市前田 ;
+    mo:SubRegion mr:JP_沖縄県浦添市牧港 ;
+    mo:SubRegion mr:JP_沖縄県浦添市港川 ;
+    mo:SubRegion mr:JP_沖縄県浦添市宮城 ;
+    mo:SubRegion mr:JP_沖縄県浦添市屋富祖 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県浦添市安波茶
+    rdfs:label "安波茶"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市伊祖
+    rdfs:label "伊祖"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市伊奈武瀬
+    rdfs:label "伊奈武瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市西洲
+    rdfs:label "西洲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市内間
+    rdfs:label "内間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市大平
+    rdfs:label "大平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市経塚
+    rdfs:label "経塚"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市城間
+    rdfs:label "城間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市小湾
+    rdfs:label "小湾"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市勢理客
+    rdfs:label "勢理客"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市沢岻
+    rdfs:label "沢岻"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市当山
+    rdfs:label "当山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市仲間
+    rdfs:label "仲間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市仲西
+    rdfs:label "仲西"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市前田
+    rdfs:label "前田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市牧港
+    rdfs:label "牧港"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市港川
+    rdfs:label "港川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市宮城
+    rdfs:label "宮城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県浦添市屋富祖
+    rdfs:label "屋富祖"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市
+    rdfs:label "名護市"@ja ;
+    mo:AreaCode "47209" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県名護市東江 ;
+    mo:SubRegion mr:JP_沖縄県名護市旭川 ;
+    mo:SubRegion mr:JP_沖縄県名護市安部 ;
+    mo:SubRegion mr:JP_沖縄県名護市安和 ;
+    mo:SubRegion mr:JP_沖縄県名護市伊差川 ;
+    mo:SubRegion mr:JP_沖縄県名護市稲嶺 ;
+    mo:SubRegion mr:JP_沖縄県名護市宇茂佐 ;
+    mo:SubRegion mr:JP_沖縄県名護市宇茂佐の森 ;
+    mo:SubRegion mr:JP_沖縄県名護市運天原 ;
+    mo:SubRegion mr:JP_沖縄県名護市大浦 ;
+    mo:SubRegion mr:JP_沖縄県名護市大川 ;
+    mo:SubRegion mr:JP_沖縄県名護市大北 ;
+    mo:SubRegion mr:JP_沖縄県名護市大中 ;
+    mo:SubRegion mr:JP_沖縄県名護市大西 ;
+    mo:SubRegion mr:JP_沖縄県名護市大東 ;
+    mo:SubRegion mr:JP_沖縄県名護市大南 ;
+    mo:SubRegion mr:JP_沖縄県名護市親川 ;
+    mo:SubRegion mr:JP_沖縄県名護市勝山 ;
+    mo:SubRegion mr:JP_沖縄県名護市我部 ;
+    mo:SubRegion mr:JP_沖縄県名護市我部祖河 ;
+    mo:SubRegion mr:JP_沖縄県名護市嘉陽 ;
+    mo:SubRegion mr:JP_沖縄県名護市川上 ;
+    mo:SubRegion mr:JP_沖縄県名護市喜瀬 ;
+    mo:SubRegion mr:JP_沖縄県名護市許田 ;
+    mo:SubRegion mr:JP_沖縄県名護市久志 ;
+    mo:SubRegion mr:JP_沖縄県名護市城 ;
+    mo:SubRegion mr:JP_沖縄県名護市源河 ;
+    mo:SubRegion mr:JP_沖縄県名護市幸喜 ;
+    mo:SubRegion mr:JP_沖縄県名護市呉我 ;
+    mo:SubRegion mr:JP_沖縄県名護市古我知 ;
+    mo:SubRegion mr:JP_沖縄県名護市数久田 ;
+    mo:SubRegion mr:JP_沖縄県名護市済井出 ;
+    mo:SubRegion mr:JP_沖縄県名護市瀬嵩 ;
+    mo:SubRegion mr:JP_沖縄県名護市田井等 ;
+    mo:SubRegion mr:JP_沖縄県名護市汀間 ;
+    mo:SubRegion mr:JP_沖縄県名護市天仁屋 ;
+    mo:SubRegion mr:JP_沖縄県名護市豊原 ;
+    mo:SubRegion mr:JP_沖縄県名護市仲尾 ;
+    mo:SubRegion mr:JP_沖縄県名護市仲尾次 ;
+    mo:SubRegion mr:JP_沖縄県名護市中山 ;
+    mo:SubRegion mr:JP_沖縄県名護市名護 ;
+    mo:SubRegion mr:JP_沖縄県名護市為又 ;
+    mo:SubRegion mr:JP_沖縄県名護市二見 ;
+    mo:SubRegion mr:JP_沖縄県名護市振慶名 ;
+    mo:SubRegion mr:JP_沖縄県名護市辺野古 ;
+    mo:SubRegion mr:JP_沖縄県名護市真喜屋 ;
+    mo:SubRegion mr:JP_沖縄県名護市港 ;
+    mo:SubRegion mr:JP_沖縄県名護市三原 ;
+    mo:SubRegion mr:JP_沖縄県名護市宮里 ;
+    mo:SubRegion mr:JP_沖縄県名護市屋我 ;
+    mo:SubRegion mr:JP_沖縄県名護市屋部 ;
+    mo:SubRegion mr:JP_沖縄県名護市山入端 ;
+    mo:SubRegion mr:JP_沖縄県名護市世冨慶 ;
+    mo:SubRegion mr:JP_沖縄県名護市饒平名 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県名護市東江
+    rdfs:label "東江"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市旭川
+    rdfs:label "旭川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市安部
+    rdfs:label "安部"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市安和
+    rdfs:label "安和"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市伊差川
+    rdfs:label "伊差川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市稲嶺
+    rdfs:label "稲嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市宇茂佐
+    rdfs:label "宇茂佐"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市宇茂佐の森
+    rdfs:label "宇茂佐の森"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市運天原
+    rdfs:label "運天原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市大浦
+    rdfs:label "大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市大川
+    rdfs:label "大川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市大北
+    rdfs:label "大北"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市大中
+    rdfs:label "大中"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市大西
+    rdfs:label "大西"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市大東
+    rdfs:label "大東"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市大南
+    rdfs:label "大南"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市親川
+    rdfs:label "親川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市勝山
+    rdfs:label "勝山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市我部
+    rdfs:label "我部"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市我部祖河
+    rdfs:label "我部祖河"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市嘉陽
+    rdfs:label "嘉陽"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市川上
+    rdfs:label "川上"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市喜瀬
+    rdfs:label "喜瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市許田
+    rdfs:label "許田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市久志
+    rdfs:label "久志"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市城
+    rdfs:label "城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市源河
+    rdfs:label "源河"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市幸喜
+    rdfs:label "幸喜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市呉我
+    rdfs:label "呉我"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市古我知
+    rdfs:label "古我知"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市数久田
+    rdfs:label "数久田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市済井出
+    rdfs:label "済井出"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市瀬嵩
+    rdfs:label "瀬嵩"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市田井等
+    rdfs:label "田井等"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市汀間
+    rdfs:label "汀間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市天仁屋
+    rdfs:label "天仁屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市豊原
+    rdfs:label "豊原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市仲尾
+    rdfs:label "仲尾"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市仲尾次
+    rdfs:label "仲尾次"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市中山
+    rdfs:label "中山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市名護
+    rdfs:label "名護"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市為又
+    rdfs:label "為又"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市二見
+    rdfs:label "二見"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市振慶名
+    rdfs:label "振慶名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市辺野古
+    rdfs:label "辺野古"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市真喜屋
+    rdfs:label "真喜屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市港
+    rdfs:label "港"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市三原
+    rdfs:label "三原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市宮里
+    rdfs:label "宮里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市屋我
+    rdfs:label "屋我"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市屋部
+    rdfs:label "屋部"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市山入端
+    rdfs:label "山入端"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市世冨慶
+    rdfs:label "世冨慶"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県名護市饒平名
+    rdfs:label "饒平名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市
+    rdfs:label "糸満市"@ja ;
+    mo:AreaCode "47210" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県糸満市阿波根 ;
+    mo:SubRegion mr:JP_沖縄県糸満市新垣 ;
+    mo:SubRegion mr:JP_沖縄県糸満市伊敷 ;
+    mo:SubRegion mr:JP_沖縄県糸満市糸洲 ;
+    mo:SubRegion mr:JP_沖縄県糸満市糸満 ;
+    mo:SubRegion mr:JP_沖縄県糸満市伊原 ;
+    mo:SubRegion mr:JP_沖縄県糸満市宇江城 ;
+    mo:SubRegion mr:JP_沖縄県糸満市大里 ;
+    mo:SubRegion mr:JP_沖縄県糸満市大度 ;
+    mo:SubRegion mr:JP_沖縄県糸満市賀数 ;
+    mo:SubRegion mr:JP_沖縄県糸満市兼城 ;
+    mo:SubRegion mr:JP_沖縄県糸満市北波平 ;
+    mo:SubRegion mr:JP_沖縄県糸満市喜屋武 ;
+    mo:SubRegion mr:JP_沖縄県糸満市国吉 ;
+    mo:SubRegion mr:JP_沖縄県糸満市小波蔵 ;
+    mo:SubRegion mr:JP_沖縄県糸満市米須 ;
+    mo:SubRegion mr:JP_沖縄県糸満市座波 ;
+    mo:SubRegion mr:JP_沖縄県糸満市潮崎町 ;
+    mo:SubRegion mr:JP_沖縄県糸満市潮平 ;
+    mo:SubRegion mr:JP_沖縄県糸満市武富 ;
+    mo:SubRegion mr:JP_沖縄県糸満市束里 ;
+    mo:SubRegion mr:JP_沖縄県糸満市照屋 ;
+    mo:SubRegion mr:JP_沖縄県糸満市豊原 ;
+    mo:SubRegion mr:JP_沖縄県糸満市名城 ;
+    mo:SubRegion mr:JP_沖縄県糸満市西川町 ;
+    mo:SubRegion mr:JP_沖縄県糸満市西崎 ;
+    mo:SubRegion mr:JP_沖縄県糸満市西崎町 ;
+    mo:SubRegion mr:JP_沖縄県糸満市福地 ;
+    mo:SubRegion mr:JP_沖縄県糸満市真栄里 ;
+    mo:SubRegion mr:JP_沖縄県糸満市真栄平 ;
+    mo:SubRegion mr:JP_沖縄県糸満市真壁 ;
+    mo:SubRegion mr:JP_沖縄県糸満市摩文仁 ;
+    mo:SubRegion mr:JP_沖縄県糸満市南波平 ;
+    mo:SubRegion mr:JP_沖縄県糸満市山城 ;
+    mo:SubRegion mr:JP_沖縄県糸満市与座 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県糸満市阿波根
+    rdfs:label "阿波根"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市新垣
+    rdfs:label "新垣"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市伊敷
+    rdfs:label "伊敷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市糸洲
+    rdfs:label "糸洲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市糸満
+    rdfs:label "糸満"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市伊原
+    rdfs:label "伊原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市宇江城
+    rdfs:label "宇江城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市大里
+    rdfs:label "大里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市大度
+    rdfs:label "大度"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市賀数
+    rdfs:label "賀数"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市兼城
+    rdfs:label "兼城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市北波平
+    rdfs:label "北波平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市喜屋武
+    rdfs:label "喜屋武"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市国吉
+    rdfs:label "国吉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市小波蔵
+    rdfs:label "小波蔵"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市米須
+    rdfs:label "米須"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市座波
+    rdfs:label "座波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市潮崎町
+    rdfs:label "潮崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市潮平
+    rdfs:label "潮平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市武富
+    rdfs:label "武富"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市束里
+    rdfs:label "束里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市照屋
+    rdfs:label "照屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市豊原
+    rdfs:label "豊原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市名城
+    rdfs:label "名城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市西川町
+    rdfs:label "西川町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市西崎
+    rdfs:label "西崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市西崎町
+    rdfs:label "西崎町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市福地
+    rdfs:label "福地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市真栄里
+    rdfs:label "真栄里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市真栄平
+    rdfs:label "真栄平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市真壁
+    rdfs:label "真壁"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市摩文仁
+    rdfs:label "摩文仁"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市南波平
+    rdfs:label "南波平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市山城
+    rdfs:label "山城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県糸満市与座
+    rdfs:label "与座"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市
+    rdfs:label "沖縄市"@ja ;
+    mo:AreaCode "47211" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市明道 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市安慶田 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市泡瀬 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市池原 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市上地 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市大里 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市海邦 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市海邦町 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市嘉間良 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市久保田 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市倉敷 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市古謝 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市古謝津嘉山町 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市越来 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市胡屋 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市潮乃森 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市白川 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市城前町 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市住吉 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市園田 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市高原 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市知花 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市中央 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市照屋 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市桃原 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市仲宗根町 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市登川 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市東 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市比屋根 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市松本 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市美里 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市美里仲原町 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市南桃原 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市美原 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市宮里 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市室川 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市諸見里 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市八重島 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市山内 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市山里 ;
+    mo:SubRegion mr:JP_沖縄県沖縄市与儀 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県沖縄市明道
+    rdfs:label "明道"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市安慶田
+    rdfs:label "安慶田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市泡瀬
+    rdfs:label "泡瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市池原
+    rdfs:label "池原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市上地
+    rdfs:label "上地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市大里
+    rdfs:label "大里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市海邦
+    rdfs:label "海邦"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市海邦町
+    rdfs:label "海邦町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市嘉間良
+    rdfs:label "嘉間良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市久保田
+    rdfs:label "久保田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市倉敷
+    rdfs:label "倉敷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市古謝
+    rdfs:label "古謝"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市古謝津嘉山町
+    rdfs:label "古謝津嘉山町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市越来
+    rdfs:label "越来"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市胡屋
+    rdfs:label "胡屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市潮乃森
+    rdfs:label "潮乃森"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市白川
+    rdfs:label "白川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市城前町
+    rdfs:label "城前町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市住吉
+    rdfs:label "住吉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市園田
+    rdfs:label "園田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市高原
+    rdfs:label "高原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市知花
+    rdfs:label "知花"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市中央
+    rdfs:label "中央"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市照屋
+    rdfs:label "照屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市桃原
+    rdfs:label "桃原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市仲宗根町
+    rdfs:label "仲宗根町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市登川
+    rdfs:label "登川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市東
+    rdfs:label "東"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市比屋根
+    rdfs:label "比屋根"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市松本
+    rdfs:label "松本"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市美里
+    rdfs:label "美里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市美里仲原町
+    rdfs:label "美里仲原町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市南桃原
+    rdfs:label "南桃原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市美原
+    rdfs:label "美原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市宮里
+    rdfs:label "宮里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市室川
+    rdfs:label "室川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市諸見里
+    rdfs:label "諸見里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市八重島
+    rdfs:label "八重島"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市山内
+    rdfs:label "山内"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市山里
+    rdfs:label "山里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県沖縄市与儀
+    rdfs:label "与儀"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市
+    rdfs:label "豊見城市"@ja ;
+    mo:AreaCode "47212" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市伊良波 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市上田 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市翁長 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市嘉数 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市我那覇 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市金良 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市宜保 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市座安 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市瀬長 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市平良 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市高嶺 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市高安 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市田頭 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市渡嘉敷 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市渡橋名 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市豊見城 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市豊崎 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市名嘉地 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市長堂 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市根差部 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市饒波 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市保栄茂 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市真玉橋 ;
+    mo:SubRegion mr:JP_沖縄県豊見城市与根 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県豊見城市伊良波
+    rdfs:label "伊良波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市上田
+    rdfs:label "上田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市翁長
+    rdfs:label "翁長"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市嘉数
+    rdfs:label "嘉数"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市我那覇
+    rdfs:label "我那覇"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市金良
+    rdfs:label "金良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市宜保
+    rdfs:label "宜保"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市座安
+    rdfs:label "座安"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市瀬長
+    rdfs:label "瀬長"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市平良
+    rdfs:label "平良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市高嶺
+    rdfs:label "高嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市高安
+    rdfs:label "高安"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市田頭
+    rdfs:label "田頭"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市渡嘉敷
+    rdfs:label "渡嘉敷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市渡橋名
+    rdfs:label "渡橋名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市豊見城
+    rdfs:label "豊見城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市豊崎
+    rdfs:label "豊崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市名嘉地
+    rdfs:label "名嘉地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市長堂
+    rdfs:label "長堂"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市根差部
+    rdfs:label "根差部"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市饒波
+    rdfs:label "饒波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市保栄茂
+    rdfs:label "保栄茂"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市真玉橋
+    rdfs:label "真玉橋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県豊見城市与根
+    rdfs:label "与根"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市
+    rdfs:label "うるま市"@ja ;
+    mo:AreaCode "47213" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県うるま市赤野 ;
+    mo:SubRegion mr:JP_沖縄県うるま市赤道 ;
+    mo:SubRegion mr:JP_沖縄県うるま市安慶名 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川赤崎 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川東山 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川東山本町 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川曙 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川石崎 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川伊波 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川嘉手苅 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川白浜 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川楚南 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川東恩納 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川東恩納崎 ;
+    mo:SubRegion mr:JP_沖縄県うるま市石川山城 ;
+    mo:SubRegion mr:JP_沖縄県うるま市西原 ;
+    mo:SubRegion mr:JP_沖縄県うるま市上江洲 ;
+    mo:SubRegion mr:JP_沖縄県うるま市宇堅 ;
+    mo:SubRegion mr:JP_沖縄県うるま市江洲 ;
+    mo:SubRegion mr:JP_沖縄県うるま市栄野比 ;
+    mo:SubRegion mr:JP_沖縄県うるま市大田 ;
+    mo:SubRegion mr:JP_沖縄県うるま市勝連内間 ;
+    mo:SubRegion mr:JP_沖縄県うるま市勝連津堅 ;
+    mo:SubRegion mr:JP_沖縄県うるま市勝連南風原 ;
+    mo:SubRegion mr:JP_沖縄県うるま市勝連浜 ;
+    mo:SubRegion mr:JP_沖縄県うるま市勝連比嘉 ;
+    mo:SubRegion mr:JP_沖縄県うるま市勝連平敷屋 ;
+    mo:SubRegion mr:JP_沖縄県うるま市勝連平安名 ;
+    mo:SubRegion mr:JP_沖縄県うるま市兼箇段 ;
+    mo:SubRegion mr:JP_沖縄県うるま市川崎 ;
+    mo:SubRegion mr:JP_沖縄県うるま市川田 ;
+    mo:SubRegion mr:JP_沖縄県うるま市喜仲 ;
+    mo:SubRegion mr:JP_沖縄県うるま市喜屋武 ;
+    mo:SubRegion mr:JP_沖縄県うるま市具志川 ;
+    mo:SubRegion mr:JP_沖縄県うるま市昆布 ;
+    mo:SubRegion mr:JP_沖縄県うるま市塩屋 ;
+    mo:SubRegion mr:JP_沖縄県うるま市州崎 ;
+    mo:SubRegion mr:JP_沖縄県うるま市平良川 ;
+    mo:SubRegion mr:JP_沖縄県うるま市高江洲 ;
+    mo:SubRegion mr:JP_沖縄県うるま市田場 ;
+    mo:SubRegion mr:JP_沖縄県うるま市天願 ;
+    mo:SubRegion mr:JP_沖縄県うるま市豊原 ;
+    mo:SubRegion mr:JP_沖縄県うるま市仲嶺 ;
+    mo:SubRegion mr:JP_沖縄県うるま市前原 ;
+    mo:SubRegion mr:JP_沖縄県うるま市みどり町 ;
+    mo:SubRegion mr:JP_沖縄県うるま市宮里 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城安勢理 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城伊計 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城池味 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城上原 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城中央 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城照間 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城桃原 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城西原 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城饒辺 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城平宮 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城平安座 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城宮城 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城屋慶名 ;
+    mo:SubRegion mr:JP_沖縄県うるま市与那城屋平 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県うるま市赤野
+    rdfs:label "赤野"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市赤道
+    rdfs:label "赤道"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市安慶名
+    rdfs:label "安慶名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川
+    rdfs:label "石川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川赤崎
+    rdfs:label "石川赤崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川東山
+    rdfs:label "石川東山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川東山本町
+    rdfs:label "石川東山本町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川曙
+    rdfs:label "石川曙"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川石崎
+    rdfs:label "石川石崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川伊波
+    rdfs:label "石川伊波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川嘉手苅
+    rdfs:label "石川嘉手苅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川白浜
+    rdfs:label "石川白浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川楚南
+    rdfs:label "石川楚南"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川東恩納
+    rdfs:label "石川東恩納"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川東恩納崎
+    rdfs:label "石川東恩納崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市石川山城
+    rdfs:label "石川山城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市西原
+    rdfs:label "西原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市上江洲
+    rdfs:label "上江洲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市宇堅
+    rdfs:label "宇堅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市江洲
+    rdfs:label "江洲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市栄野比
+    rdfs:label "栄野比"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市大田
+    rdfs:label "大田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市勝連内間
+    rdfs:label "勝連内間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市勝連津堅
+    rdfs:label "勝連津堅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市勝連南風原
+    rdfs:label "勝連南風原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市勝連浜
+    rdfs:label "勝連浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市勝連比嘉
+    rdfs:label "勝連比嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市勝連平敷屋
+    rdfs:label "勝連平敷屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市勝連平安名
+    rdfs:label "勝連平安名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市兼箇段
+    rdfs:label "兼箇段"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市川崎
+    rdfs:label "川崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市川田
+    rdfs:label "川田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市喜仲
+    rdfs:label "喜仲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市喜屋武
+    rdfs:label "喜屋武"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市具志川
+    rdfs:label "具志川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市昆布
+    rdfs:label "昆布"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市塩屋
+    rdfs:label "塩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市州崎
+    rdfs:label "州崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市平良川
+    rdfs:label "平良川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市高江洲
+    rdfs:label "高江洲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市田場
+    rdfs:label "田場"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市天願
+    rdfs:label "天願"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市豊原
+    rdfs:label "豊原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市仲嶺
+    rdfs:label "仲嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市前原
+    rdfs:label "前原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市みどり町
+    rdfs:label "みどり町"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市宮里
+    rdfs:label "宮里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城
+    rdfs:label "与那城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城安勢理
+    rdfs:label "与那城安勢理"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城伊計
+    rdfs:label "与那城伊計"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城池味
+    rdfs:label "与那城池味"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城上原
+    rdfs:label "与那城上原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城中央
+    rdfs:label "与那城中央"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城照間
+    rdfs:label "与那城照間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城桃原
+    rdfs:label "与那城桃原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城西原
+    rdfs:label "与那城西原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城饒辺
+    rdfs:label "与那城饒辺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城平宮
+    rdfs:label "与那城平宮"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城平安座
+    rdfs:label "与那城平安座"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城宮城
+    rdfs:label "与那城宮城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城屋慶名
+    rdfs:label "与那城屋慶名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県うるま市与那城屋平
+    rdfs:label "与那城屋平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市
+    rdfs:label "宮古島市"@ja ;
+    mo:AreaCode "47214" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市伊良部池間添 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市伊良部伊良部 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市伊良部国仲 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市伊良部佐和田 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市伊良部仲地 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市伊良部長浜 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市伊良部前里添 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市上野上野 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市上野新里 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市上野野原 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市上野宮国 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺新城 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺砂川 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺下里添 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺友利 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺長間 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺西里添 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺比嘉 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺福里 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市城辺保良 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市下地上地 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市下地嘉手苅 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市下地川満 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市下地来間 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市下地洲鎌 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市下地与那覇 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良池間 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良大浦 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良大神 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良狩俣 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良久貝 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良島尻 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良下里 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良荷川取 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良西里 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良西仲宗根 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良西原 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良東仲宗根 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良東仲宗根添 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良前里 ;
+    mo:SubRegion mr:JP_沖縄県宮古島市平良松原 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県宮古島市伊良部池間添
+    rdfs:label "伊良部池間添"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市伊良部伊良部
+    rdfs:label "伊良部伊良部"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市伊良部国仲
+    rdfs:label "伊良部国仲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市伊良部佐和田
+    rdfs:label "伊良部佐和田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市伊良部仲地
+    rdfs:label "伊良部仲地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市伊良部長浜
+    rdfs:label "伊良部長浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市伊良部前里添
+    rdfs:label "伊良部前里添"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市上野上野
+    rdfs:label "上野上野"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市上野新里
+    rdfs:label "上野新里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市上野野原
+    rdfs:label "上野野原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市上野宮国
+    rdfs:label "上野宮国"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺新城
+    rdfs:label "城辺新城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺砂川
+    rdfs:label "城辺砂川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺下里添
+    rdfs:label "城辺下里添"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺友利
+    rdfs:label "城辺友利"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺長間
+    rdfs:label "城辺長間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺西里添
+    rdfs:label "城辺西里添"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺比嘉
+    rdfs:label "城辺比嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺福里
+    rdfs:label "城辺福里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市城辺保良
+    rdfs:label "城辺保良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市下地上地
+    rdfs:label "下地上地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市下地嘉手苅
+    rdfs:label "下地嘉手苅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市下地川満
+    rdfs:label "下地川満"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市下地来間
+    rdfs:label "下地来間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市下地洲鎌
+    rdfs:label "下地洲鎌"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市下地与那覇
+    rdfs:label "下地与那覇"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良池間
+    rdfs:label "平良池間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良大浦
+    rdfs:label "平良大浦"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良大神
+    rdfs:label "平良大神"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良狩俣
+    rdfs:label "平良狩俣"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良久貝
+    rdfs:label "平良久貝"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良島尻
+    rdfs:label "平良島尻"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良下里
+    rdfs:label "平良下里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良荷川取
+    rdfs:label "平良荷川取"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良西里
+    rdfs:label "平良西里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良西仲宗根
+    rdfs:label "平良西仲宗根"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良西原
+    rdfs:label "平良西原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良東仲宗根
+    rdfs:label "平良東仲宗根"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良東仲宗根添
+    rdfs:label "平良東仲宗根添"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良前里
+    rdfs:label "平良前里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古島市平良松原
+    rdfs:label "平良松原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市
+    rdfs:label "南城市"@ja ;
+    mo:AreaCode "47215" ;
+    a mo:市_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県南城市大里稲嶺 ;
+    mo:SubRegion mr:JP_沖縄県南城市大里大里 ;
+    mo:SubRegion mr:JP_沖縄県南城市大里大城 ;
+    mo:SubRegion mr:JP_沖縄県南城市大里平良 ;
+    mo:SubRegion mr:JP_沖縄県南城市大里高平 ;
+    mo:SubRegion mr:JP_沖縄県南城市大里仲間 ;
+    mo:SubRegion mr:JP_沖縄県南城市大里古堅 ;
+    mo:SubRegion mr:JP_沖縄県南城市大里嶺井 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷伊原 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷小谷 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷兼久 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷佐敷 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷新開 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷新里 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷津波古 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷手登根 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷仲伊保 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷冨祖崎 ;
+    mo:SubRegion mr:JP_沖縄県南城市佐敷屋比久 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城愛地 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城糸数 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城奥武 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城親慶原 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城垣花 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城喜良原 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城志堅原 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城玉城 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城當山 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城中山 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城仲村渠 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城百名 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城富里 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城船越 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城堀川 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城前川 ;
+    mo:SubRegion mr:JP_沖縄県南城市玉城屋嘉部 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念安座真 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念海野 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念具志堅 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念久高 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念久手堅 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念久原 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念志喜屋 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念知名 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念知念 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念山里 ;
+    mo:SubRegion mr:JP_沖縄県南城市知念吉富 ;
+    mo:SubRegion mr:JP_沖縄県南城市つきしろ ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県南城市大里稲嶺
+    rdfs:label "大里稲嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市大里大里
+    rdfs:label "大里大里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市大里大城
+    rdfs:label "大里大城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市大里平良
+    rdfs:label "大里平良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市大里高平
+    rdfs:label "大里高平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市大里仲間
+    rdfs:label "大里仲間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市大里古堅
+    rdfs:label "大里古堅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市大里嶺井
+    rdfs:label "大里嶺井"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷伊原
+    rdfs:label "佐敷伊原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷小谷
+    rdfs:label "佐敷小谷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷兼久
+    rdfs:label "佐敷兼久"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷佐敷
+    rdfs:label "佐敷佐敷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷新開
+    rdfs:label "佐敷新開"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷新里
+    rdfs:label "佐敷新里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷津波古
+    rdfs:label "佐敷津波古"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷手登根
+    rdfs:label "佐敷手登根"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷仲伊保
+    rdfs:label "佐敷仲伊保"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷冨祖崎
+    rdfs:label "佐敷冨祖崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市佐敷屋比久
+    rdfs:label "佐敷屋比久"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城愛地
+    rdfs:label "玉城愛地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城糸数
+    rdfs:label "玉城糸数"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城奥武
+    rdfs:label "玉城奥武"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城親慶原
+    rdfs:label "玉城親慶原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城垣花
+    rdfs:label "玉城垣花"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城喜良原
+    rdfs:label "玉城喜良原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城志堅原
+    rdfs:label "玉城志堅原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城玉城
+    rdfs:label "玉城玉城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城當山
+    rdfs:label "玉城當山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城中山
+    rdfs:label "玉城中山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城仲村渠
+    rdfs:label "玉城仲村渠"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城百名
+    rdfs:label "玉城百名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城富里
+    rdfs:label "玉城富里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城船越
+    rdfs:label "玉城船越"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城堀川
+    rdfs:label "玉城堀川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城前川
+    rdfs:label "玉城前川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市玉城屋嘉部
+    rdfs:label "玉城屋嘉部"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念安座真
+    rdfs:label "知念安座真"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念海野
+    rdfs:label "知念海野"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念具志堅
+    rdfs:label "知念具志堅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念久高
+    rdfs:label "知念久高"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念久手堅
+    rdfs:label "知念久手堅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念久原
+    rdfs:label "知念久原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念志喜屋
+    rdfs:label "知念志喜屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念知名
+    rdfs:label "知念知名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念知念
+    rdfs:label "知念知念"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念山里
+    rdfs:label "知念山里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市知念吉富
+    rdfs:label "知念吉富"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県南城市つきしろ
+    rdfs:label "つきしろ"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村
+    rdfs:label "国頭郡国頭村"@ja ;
+    mo:AreaCode "47301" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村安田 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村安波 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村伊地 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村宇嘉 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村宇良 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村奥 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村奥間 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村鏡地 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村宜名真 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村佐手 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村謝敷 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村楚洲 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村桃原 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村浜 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村半地 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村比地 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村辺戸 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村辺野喜 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村辺土名 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡国頭村与那 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡国頭村安田
+    rdfs:label "安田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村安波
+    rdfs:label "安波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村伊地
+    rdfs:label "伊地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村宇嘉
+    rdfs:label "宇嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村宇良
+    rdfs:label "宇良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村奥
+    rdfs:label "奥"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村奥間
+    rdfs:label "奥間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村鏡地
+    rdfs:label "鏡地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村宜名真
+    rdfs:label "宜名真"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村佐手
+    rdfs:label "佐手"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村謝敷
+    rdfs:label "謝敷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村楚洲
+    rdfs:label "楚洲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村桃原
+    rdfs:label "桃原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村浜
+    rdfs:label "浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村半地
+    rdfs:label "半地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村比地
+    rdfs:label "比地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村辺戸
+    rdfs:label "辺戸"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村辺野喜
+    rdfs:label "辺野喜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村辺土名
+    rdfs:label "辺土名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡国頭村与那
+    rdfs:label "与那"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村
+    rdfs:label "国頭郡大宜味村"@ja ;
+    mo:AreaCode "47302" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村上原 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村江洲 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村大兼久 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村大宜味 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村押川 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村喜如嘉 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村塩屋 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村謝名城 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村白浜 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村大保 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村田嘉里 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村田港 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村津波 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村饒波 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村根路銘 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村宮城 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡大宜味村屋古 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡大宜味村上原
+    rdfs:label "上原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村江洲
+    rdfs:label "江洲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村大兼久
+    rdfs:label "大兼久"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村大宜味
+    rdfs:label "大宜味"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村押川
+    rdfs:label "押川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村喜如嘉
+    rdfs:label "喜如嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村塩屋
+    rdfs:label "塩屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村謝名城
+    rdfs:label "謝名城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村白浜
+    rdfs:label "白浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村大保
+    rdfs:label "大保"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村田嘉里
+    rdfs:label "田嘉里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村田港
+    rdfs:label "田港"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村津波
+    rdfs:label "津波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村饒波
+    rdfs:label "饒波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村根路銘
+    rdfs:label "根路銘"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村宮城
+    rdfs:label "宮城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡大宜味村屋古
+    rdfs:label "屋古"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡東村
+    rdfs:label "国頭郡東村"@ja ;
+    mo:AreaCode "47303" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡東村有銘 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡東村川田 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡東村慶佐次 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡東村平良 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡東村高江 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡東村宮城 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡東村有銘
+    rdfs:label "有銘"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡東村川田
+    rdfs:label "川田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡東村慶佐次
+    rdfs:label "慶佐次"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡東村平良
+    rdfs:label "平良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡東村高江
+    rdfs:label "高江"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡東村宮城
+    rdfs:label "宮城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村
+    rdfs:label "国頭郡今帰仁村"@ja ;
+    mo:AreaCode "47306" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村天底 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村今泊 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村運天 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村兼次 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村上運天 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村古宇利 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村越地 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村呉我山 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村崎山 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村謝名 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村諸志 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村勢理客 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村玉城 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村渡喜仁 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村仲尾次 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村仲宗根 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村平敷 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村与那嶺 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡今帰仁村湧川 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡今帰仁村天底
+    rdfs:label "天底"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村今泊
+    rdfs:label "今泊"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村運天
+    rdfs:label "運天"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村兼次
+    rdfs:label "兼次"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村上運天
+    rdfs:label "上運天"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村古宇利
+    rdfs:label "古宇利"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村越地
+    rdfs:label "越地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村呉我山
+    rdfs:label "呉我山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村崎山
+    rdfs:label "崎山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村謝名
+    rdfs:label "謝名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村諸志
+    rdfs:label "諸志"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村勢理客
+    rdfs:label "勢理客"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村玉城
+    rdfs:label "玉城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村渡喜仁
+    rdfs:label "渡喜仁"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村仲尾次
+    rdfs:label "仲尾次"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村仲宗根
+    rdfs:label "仲宗根"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村平敷
+    rdfs:label "平敷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村与那嶺
+    rdfs:label "与那嶺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡今帰仁村湧川
+    rdfs:label "湧川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町
+    rdfs:label "国頭郡本部町"@ja ;
+    mo:AreaCode "47308" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町石川 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町伊豆味 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町伊野波 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町大堂 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町浦崎 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町大嘉陽 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町大浜 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町嘉津宇 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町北里 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町具志堅 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町健堅 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町崎本部 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町謝花 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町新里 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町瀬底 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町谷茶 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町渡久地 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町豊原 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町並里 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町野原 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町浜元 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町東 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町備瀬 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町古島 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町辺名地 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町山川 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡本部町山里 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡本部町石川
+    rdfs:label "石川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町伊豆味
+    rdfs:label "伊豆味"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町伊野波
+    rdfs:label "伊野波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町大堂
+    rdfs:label "大堂"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町浦崎
+    rdfs:label "浦崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町大嘉陽
+    rdfs:label "大嘉陽"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町大浜
+    rdfs:label "大浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町嘉津宇
+    rdfs:label "嘉津宇"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町北里
+    rdfs:label "北里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町具志堅
+    rdfs:label "具志堅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町健堅
+    rdfs:label "健堅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町崎本部
+    rdfs:label "崎本部"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町謝花
+    rdfs:label "謝花"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町新里
+    rdfs:label "新里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町瀬底
+    rdfs:label "瀬底"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町谷茶
+    rdfs:label "谷茶"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町渡久地
+    rdfs:label "渡久地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町豊原
+    rdfs:label "豊原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町並里
+    rdfs:label "並里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町野原
+    rdfs:label "野原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町浜元
+    rdfs:label "浜元"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町東
+    rdfs:label "東"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町備瀬
+    rdfs:label "備瀬"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町古島
+    rdfs:label "古島"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町辺名地
+    rdfs:label "辺名地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町山川
+    rdfs:label "山川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡本部町山里
+    rdfs:label "山里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村
+    rdfs:label "国頭郡恩納村"@ja ;
+    mo:AreaCode "47311" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村安富祖 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村恩納 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村喜瀬武原 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村瀬良垣 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村谷茶 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村仲泊 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村名嘉真 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村冨着 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村前兼久 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村真栄田 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡恩納村山田 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡恩納村安富祖
+    rdfs:label "安富祖"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村恩納
+    rdfs:label "恩納"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村喜瀬武原
+    rdfs:label "喜瀬武原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村瀬良垣
+    rdfs:label "瀬良垣"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村谷茶
+    rdfs:label "谷茶"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村仲泊
+    rdfs:label "仲泊"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村名嘉真
+    rdfs:label "名嘉真"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村冨着
+    rdfs:label "冨着"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村前兼久
+    rdfs:label "前兼久"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村真栄田
+    rdfs:label "真栄田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡恩納村山田
+    rdfs:label "山田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡宜野座村
+    rdfs:label "国頭郡宜野座村"@ja ;
+    mo:AreaCode "47313" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡宜野座村漢那 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡宜野座村宜野座 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡宜野座村惣慶 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡宜野座村松田 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡宜野座村漢那
+    rdfs:label "漢那"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡宜野座村宜野座
+    rdfs:label "宜野座"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡宜野座村惣慶
+    rdfs:label "惣慶"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡宜野座村松田
+    rdfs:label "松田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡金武町
+    rdfs:label "国頭郡金武町"@ja ;
+    mo:AreaCode "47314" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡金武町伊芸 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡金武町金武 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡金武町屋嘉 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡金武町伊芸
+    rdfs:label "伊芸"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡金武町金武
+    rdfs:label "金武"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡金武町屋嘉
+    rdfs:label "屋嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡伊江村
+    rdfs:label "国頭郡伊江村"@ja ;
+    mo:AreaCode "47315" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡伊江村川平 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡伊江村西江上 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡伊江村西江前 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡伊江村東江上 ;
+    mo:SubRegion mr:JP_沖縄県国頭郡伊江村東江前 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県国頭郡伊江村川平
+    rdfs:label "川平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡伊江村西江上
+    rdfs:label "西江上"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡伊江村西江前
+    rdfs:label "西江前"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡伊江村東江上
+    rdfs:label "東江上"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県国頭郡伊江村東江前
+    rdfs:label "東江前"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村
+    rdfs:label "中頭郡読谷村"@ja ;
+    mo:AreaCode "47324" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村伊良皆 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村上地 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村宇座 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村大木 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村大湾 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村喜名 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村儀間 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村座喜味 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村瀬名波 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村楚辺 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村高志保 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村渡具知 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村渡慶次 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村都屋 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村長浜 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村波平 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村比謝 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村比謝矼 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡読谷村古堅 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県中頭郡読谷村伊良皆
+    rdfs:label "伊良皆"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村上地
+    rdfs:label "上地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村宇座
+    rdfs:label "宇座"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村大木
+    rdfs:label "大木"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村大湾
+    rdfs:label "大湾"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村喜名
+    rdfs:label "喜名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村儀間
+    rdfs:label "儀間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村座喜味
+    rdfs:label "座喜味"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村瀬名波
+    rdfs:label "瀬名波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村楚辺
+    rdfs:label "楚辺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村高志保
+    rdfs:label "高志保"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村渡具知
+    rdfs:label "渡具知"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村渡慶次
+    rdfs:label "渡慶次"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村都屋
+    rdfs:label "都屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村長浜
+    rdfs:label "長浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村波平
+    rdfs:label "波平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村比謝
+    rdfs:label "比謝"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村比謝矼
+    rdfs:label "比謝矼"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡読谷村古堅
+    rdfs:label "古堅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡嘉手納町
+    rdfs:label "中頭郡嘉手納町"@ja ;
+    mo:AreaCode "47325" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡嘉手納町嘉手納 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡嘉手納町兼久 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡嘉手納町久得 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡嘉手納町水釜 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡嘉手納町屋良 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県中頭郡嘉手納町嘉手納
+    rdfs:label "嘉手納"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡嘉手納町兼久
+    rdfs:label "兼久"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡嘉手納町久得
+    rdfs:label "久得"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡嘉手納町水釜
+    rdfs:label "水釜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡嘉手納町屋良
+    rdfs:label "屋良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町
+    rdfs:label "中頭郡北谷町"@ja ;
+    mo:AreaCode "47326" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町伊平 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町大村 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町上勢頭 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町北前 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町桑江 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町砂辺 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町玉上 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町北谷 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町桃原 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町浜川 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町港 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町美浜 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町宮城 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北谷町吉原 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県中頭郡北谷町伊平
+    rdfs:label "伊平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町大村
+    rdfs:label "大村"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町上勢頭
+    rdfs:label "上勢頭"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町北前
+    rdfs:label "北前"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町桑江
+    rdfs:label "桑江"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町砂辺
+    rdfs:label "砂辺"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町玉上
+    rdfs:label "玉上"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町北谷
+    rdfs:label "北谷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町桃原
+    rdfs:label "桃原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町浜川
+    rdfs:label "浜川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町港
+    rdfs:label "港"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町美浜
+    rdfs:label "美浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町宮城
+    rdfs:label "宮城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北谷町吉原
+    rdfs:label "吉原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村
+    rdfs:label "中頭郡北中城村"@ja ;
+    mo:AreaCode "47327" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村安谷屋 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村熱田 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村大城 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村荻道 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村喜舎場 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村島袋 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村瑞慶覧 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村仲順 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村渡口 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村比嘉 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村美崎 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村屋宜原 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村ライカム ;
+    mo:SubRegion mr:JP_沖縄県中頭郡北中城村和仁屋 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県中頭郡北中城村安谷屋
+    rdfs:label "安谷屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村熱田
+    rdfs:label "熱田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村大城
+    rdfs:label "大城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村荻道
+    rdfs:label "荻道"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村喜舎場
+    rdfs:label "喜舎場"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村島袋
+    rdfs:label "島袋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村瑞慶覧
+    rdfs:label "瑞慶覧"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村仲順
+    rdfs:label "仲順"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村渡口
+    rdfs:label "渡口"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村比嘉
+    rdfs:label "比嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村美崎
+    rdfs:label "美崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村屋宜原
+    rdfs:label "屋宜原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村ライカム
+    rdfs:label "ライカム"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡北中城村和仁屋
+    rdfs:label "和仁屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村
+    rdfs:label "中頭郡中城村"@ja ;
+    mo:AreaCode "47328" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村安里 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村新垣 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村伊舎堂 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村伊集 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村奥間 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村北上原 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村北浜 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村久場 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村添石 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村津覇 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村当間 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村泊 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村登又 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村浜 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村南上原 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村南浜 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村屋宜 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡中城村和宇慶 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県中頭郡中城村安里
+    rdfs:label "安里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村新垣
+    rdfs:label "新垣"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村伊舎堂
+    rdfs:label "伊舎堂"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村伊集
+    rdfs:label "伊集"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村奥間
+    rdfs:label "奥間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村北上原
+    rdfs:label "北上原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村北浜
+    rdfs:label "北浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村久場
+    rdfs:label "久場"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村添石
+    rdfs:label "添石"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村津覇
+    rdfs:label "津覇"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村当間
+    rdfs:label "当間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村泊
+    rdfs:label "泊"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村登又
+    rdfs:label "登又"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村浜
+    rdfs:label "浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村南上原
+    rdfs:label "南上原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村南浜
+    rdfs:label "南浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村屋宜
+    rdfs:label "屋宜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡中城村和宇慶
+    rdfs:label "和宇慶"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町
+    rdfs:label "中頭郡西原町"@ja ;
+    mo:AreaCode "47329" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町東崎 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町安室 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町池田 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町上原 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町内間 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町翁長 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町小那覇 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町掛保久 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町我謝 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町嘉手苅 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町兼久 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町幸地 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町小橋川 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町小波津 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町呉屋 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町千原 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町棚原 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町津花波 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町桃原 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町徳佐田 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町森川 ;
+    mo:SubRegion mr:JP_沖縄県中頭郡西原町与那城 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県中頭郡西原町東崎
+    rdfs:label "東崎"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町安室
+    rdfs:label "安室"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町池田
+    rdfs:label "池田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町上原
+    rdfs:label "上原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町内間
+    rdfs:label "内間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町翁長
+    rdfs:label "翁長"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町小那覇
+    rdfs:label "小那覇"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町掛保久
+    rdfs:label "掛保久"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町我謝
+    rdfs:label "我謝"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町嘉手苅
+    rdfs:label "嘉手苅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町兼久
+    rdfs:label "兼久"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町幸地
+    rdfs:label "幸地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町小橋川
+    rdfs:label "小橋川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町小波津
+    rdfs:label "小波津"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町呉屋
+    rdfs:label "呉屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町千原
+    rdfs:label "千原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町棚原
+    rdfs:label "棚原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町津花波
+    rdfs:label "津花波"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町桃原
+    rdfs:label "桃原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町徳佐田
+    rdfs:label "徳佐田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町森川
+    rdfs:label "森川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県中頭郡西原町与那城
+    rdfs:label "与那城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡与那原町
+    rdfs:label "島尻郡与那原町"@ja ;
+    mo:AreaCode "47348" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡与那原町東浜 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡与那原町板良敷 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡与那原町上与那原 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡与那原町与那原 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡与那原町東浜
+    rdfs:label "東浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡与那原町板良敷
+    rdfs:label "板良敷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡与那原町上与那原
+    rdfs:label "上与那原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡与那原町与那原
+    rdfs:label "与那原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町
+    rdfs:label "島尻郡南風原町"@ja ;
+    mo:AreaCode "47350" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町新川 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町大名 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町兼城 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町神里 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町喜屋武 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町津嘉山 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町照屋 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町宮城 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町宮平 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町本部 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町山川 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南風原町与那覇 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡南風原町新川
+    rdfs:label "新川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町大名
+    rdfs:label "大名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町兼城
+    rdfs:label "兼城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町神里
+    rdfs:label "神里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町喜屋武
+    rdfs:label "喜屋武"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町津嘉山
+    rdfs:label "津嘉山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町照屋
+    rdfs:label "照屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町宮城
+    rdfs:label "宮城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町宮平
+    rdfs:label "宮平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町本部
+    rdfs:label "本部"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町山川
+    rdfs:label "山川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南風原町与那覇
+    rdfs:label "与那覇"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡渡嘉敷村
+    rdfs:label "島尻郡渡嘉敷村"@ja ;
+    mo:AreaCode "47353" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡渡嘉敷村阿波連 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡渡嘉敷村渡嘉敷 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡渡嘉敷村阿波連
+    rdfs:label "阿波連"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡渡嘉敷村渡嘉敷
+    rdfs:label "渡嘉敷"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡座間味村
+    rdfs:label "島尻郡座間味村"@ja ;
+    mo:AreaCode "47354" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡座間味村阿嘉 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡座間味村阿佐 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡座間味村阿真 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡座間味村慶留間 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡座間味村座間味 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡座間味村阿嘉
+    rdfs:label "阿嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡座間味村阿佐
+    rdfs:label "阿佐"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡座間味村阿真
+    rdfs:label "阿真"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡座間味村慶留間
+    rdfs:label "慶留間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡座間味村座間味
+    rdfs:label "座間味"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡粟国村
+    rdfs:label "島尻郡粟国村"@ja ;
+    mo:AreaCode "47355" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡粟国村西 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡粟国村浜 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡粟国村東 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡粟国村西
+    rdfs:label "西"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡粟国村浜
+    rdfs:label "浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡粟国村東
+    rdfs:label "東"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡渡名喜村
+    rdfs:label "島尻郡渡名喜村"@ja ;
+    mo:AreaCode "47356" ;
+    a mo:村_地方自治法体 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡南大東村
+    rdfs:label "島尻郡南大東村"@ja ;
+    mo:AreaCode "47357" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南大東村池之沢 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南大東村北 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南大東村旧東 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南大東村在所 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南大東村新東 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡南大東村南 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡南大東村池之沢
+    rdfs:label "池之沢"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南大東村北
+    rdfs:label "北"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南大東村旧東
+    rdfs:label "旧東"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南大東村在所
+    rdfs:label "在所"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南大東村新東
+    rdfs:label "新東"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡南大東村南
+    rdfs:label "南"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡北大東村
+    rdfs:label "島尻郡北大東村"@ja ;
+    mo:AreaCode "47358" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡北大東村中野 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡北大東村港 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡北大東村南 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡北大東村中野
+    rdfs:label "中野"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡北大東村港
+    rdfs:label "港"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡北大東村南
+    rdfs:label "南"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊平屋村
+    rdfs:label "島尻郡伊平屋村"@ja ;
+    mo:AreaCode "47359" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊平屋村我喜屋 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊平屋村島尻 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊平屋村田名 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊平屋村野甫 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊平屋村前泊 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡伊平屋村我喜屋
+    rdfs:label "我喜屋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊平屋村島尻
+    rdfs:label "島尻"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊平屋村田名
+    rdfs:label "田名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊平屋村野甫
+    rdfs:label "野甫"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊平屋村前泊
+    rdfs:label "前泊"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊是名村
+    rdfs:label "島尻郡伊是名村"@ja ;
+    mo:AreaCode "47360" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊是名村伊是名 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊是名村内花 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊是名村諸見 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊是名村勢理客 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡伊是名村仲田 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡伊是名村伊是名
+    rdfs:label "伊是名"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊是名村内花
+    rdfs:label "内花"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊是名村諸見
+    rdfs:label "諸見"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊是名村勢理客
+    rdfs:label "勢理客"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡伊是名村仲田
+    rdfs:label "仲田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町
+    rdfs:label "島尻郡久米島町"@ja ;
+    mo:AreaCode "47361" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町阿嘉 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町宇江城 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町上江洲 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町宇根 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町奥武 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町大田 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町大原 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町嘉手苅 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町兼城 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町北原 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町儀間 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町具志川 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町島尻 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町謝名堂 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町銭田 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町鳥島 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町仲地 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町仲泊 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町仲村渠 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町西銘 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町比嘉 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町比屋定 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町真我里 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町真謝 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町山城 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡久米島町山里 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡久米島町阿嘉
+    rdfs:label "阿嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町宇江城
+    rdfs:label "宇江城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町上江洲
+    rdfs:label "上江洲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町宇根
+    rdfs:label "宇根"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町奥武
+    rdfs:label "奥武"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町大田
+    rdfs:label "大田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町大原
+    rdfs:label "大原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町嘉手苅
+    rdfs:label "嘉手苅"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町兼城
+    rdfs:label "兼城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町北原
+    rdfs:label "北原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町儀間
+    rdfs:label "儀間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町具志川
+    rdfs:label "具志川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町島尻
+    rdfs:label "島尻"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町謝名堂
+    rdfs:label "謝名堂"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町銭田
+    rdfs:label "銭田"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町鳥島
+    rdfs:label "鳥島"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町仲地
+    rdfs:label "仲地"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町仲泊
+    rdfs:label "仲泊"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町仲村渠
+    rdfs:label "仲村渠"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町西銘
+    rdfs:label "西銘"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町比嘉
+    rdfs:label "比嘉"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町比屋定
+    rdfs:label "比屋定"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町真我里
+    rdfs:label "真我里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町真謝
+    rdfs:label "真謝"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町山城
+    rdfs:label "山城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡久米島町山里
+    rdfs:label "山里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町
+    rdfs:label "島尻郡八重瀬町"@ja ;
+    mo:AreaCode "47362" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町安里 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町新城 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町伊覇 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町上田原 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町大頓 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町宜次 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町具志頭 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町小城 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町後原 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町東風平 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町志多伯 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町高良 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町当銘 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町友寄 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町富盛 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町仲座 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町長毛 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町玻名城 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町外間 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町港川 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町屋宜原 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町与座 ;
+    mo:SubRegion mr:JP_沖縄県島尻郡八重瀬町世名城 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県島尻郡八重瀬町安里
+    rdfs:label "安里"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町新城
+    rdfs:label "新城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町伊覇
+    rdfs:label "伊覇"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町上田原
+    rdfs:label "上田原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町大頓
+    rdfs:label "大頓"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町宜次
+    rdfs:label "宜次"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町具志頭
+    rdfs:label "具志頭"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町小城
+    rdfs:label "小城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町後原
+    rdfs:label "後原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町東風平
+    rdfs:label "東風平"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町志多伯
+    rdfs:label "志多伯"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町高良
+    rdfs:label "高良"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町当銘
+    rdfs:label "当銘"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町友寄
+    rdfs:label "友寄"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町富盛
+    rdfs:label "富盛"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町仲座
+    rdfs:label "仲座"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町長毛
+    rdfs:label "長毛"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町玻名城
+    rdfs:label "玻名城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町外間
+    rdfs:label "外間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町港川
+    rdfs:label "港川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町屋宜原
+    rdfs:label "屋宜原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町与座
+    rdfs:label "与座"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県島尻郡八重瀬町世名城
+    rdfs:label "世名城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古郡多良間村
+    rdfs:label "宮古郡多良間村"@ja ;
+    mo:AreaCode "47375" ;
+    a mo:村_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県宮古郡多良間村塩川 ;
+    mo:SubRegion mr:JP_沖縄県宮古郡多良間村仲筋 ;
+    mo:SubRegion mr:JP_沖縄県宮古郡多良間村水納 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県宮古郡多良間村塩川
+    rdfs:label "塩川"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古郡多良間村仲筋
+    rdfs:label "仲筋"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県宮古郡多良間村水納
+    rdfs:label "水納"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町
+    rdfs:label "八重山郡竹富町"@ja ;
+    mo:AreaCode "47381" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町新城 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町西表 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町上原 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町黒島 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町小浜 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町古見 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町崎山 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町高那 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町竹富 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町南風見 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町南風見仲 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町波照間 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡竹富町鳩間 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県八重山郡竹富町新城
+    rdfs:label "新城"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町西表
+    rdfs:label "西表"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町上原
+    rdfs:label "上原"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町黒島
+    rdfs:label "黒島"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町小浜
+    rdfs:label "小浜"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町古見
+    rdfs:label "古見"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町崎山
+    rdfs:label "崎山"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町高那
+    rdfs:label "高那"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町竹富
+    rdfs:label "竹富"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町南風見
+    rdfs:label "南風見"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町南風見仲
+    rdfs:label "南風見仲"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町波照間
+    rdfs:label "波照間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡竹富町鳩間
+    rdfs:label "鳩間"@ja ;
+    a mo:町域 .
+
+mr:JP_沖縄県八重山郡与那国町
+    rdfs:label "八重山郡与那国町"@ja ;
+    mo:AreaCode "47382" ;
+    a mo:町_地方自治法体 ;
+    mo:SubRegion mr:JP_沖縄県八重山郡与那国町与那国 ;
+a mo:GeoEntity .
+
+mr:JP_沖縄県八重山郡与那国町与那国
+    rdfs:label "与那国"@ja ;
+    a mo:町域 .
+
