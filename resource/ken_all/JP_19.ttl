@@ -176,516 +176,772 @@ mr:JP_山梨県甲府市
 a mo:GeoEntity .
 
 mr:JP_山梨県甲府市相生
+    a mo:町域 ;
     rdfs:label "相生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000858" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市青沼
+    a mo:町域 ;
     rdfs:label "青沼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000867" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市青葉町
+    a mo:町域 ;
     rdfs:label "青葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000828" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市朝気
+    a mo:町域 ;
     rdfs:label "朝気"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000862" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市朝日
+    a mo:町域 ;
     rdfs:label "朝日"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000025" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市愛宕町
+    a mo:町域 ;
     rdfs:label "愛宕町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市荒川
+    a mo:町域 ;
     rdfs:label "荒川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000061" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市飯田
+    a mo:町域 ;
     rdfs:label "飯田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000035" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市猪狩町
+    a mo:町域 ;
     rdfs:label "猪狩町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001217" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000062" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市伊勢
+    a mo:町域 ;
     rdfs:label "伊勢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000856" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市岩窪町
+    a mo:町域 ;
     rdfs:label "岩窪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市後屋町
+    a mo:町域 ;
     rdfs:label "後屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000045" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市右左口町
+    a mo:町域 ;
     rdfs:label "右左口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001504" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市大里町
+    a mo:町域 ;
     rdfs:label "大里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000053" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市太田町
+    a mo:町域 ;
     rdfs:label "太田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000865" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市大津町
+    a mo:町域 ;
     rdfs:label "大津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000055" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市大手
+    a mo:町域 ;
     rdfs:label "大手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市落合町
+    a mo:町域 ;
     rdfs:label "落合町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000834" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市音羽町
+    a mo:町域 ;
     rdfs:label "音羽町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000028" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市小曲町
+    a mo:町域 ;
     rdfs:label "小曲町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000841" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市梯町
+    a mo:町域 ;
     rdfs:label "梯町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093711" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市金竹町
+    a mo:町域 ;
     rdfs:label "金竹町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000063" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上阿原町
+    a mo:町域 ;
     rdfs:label "上阿原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000814" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上石田
+    a mo:町域 ;
     rdfs:label "上石田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000041" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上今井町
+    a mo:町域 ;
     rdfs:label "上今井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000845" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上帯那町
+    a mo:町域 ;
     rdfs:label "上帯那町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000081" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上小河原町
+    a mo:町域 ;
     rdfs:label "上小河原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000044" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上条新居町
+    a mo:町域 ;
     rdfs:label "上条新居町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000052" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上積翠寺町
+    a mo:町域 ;
     rdfs:label "上積翠寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上曽根町
+    a mo:町域 ;
     rdfs:label "上曽根町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001501" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上町
+    a mo:町域 ;
     rdfs:label "上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000831" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市上向山町
+    a mo:町域 ;
     rdfs:label "上向山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001506" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市川窪町
+    a mo:町域 ;
     rdfs:label "川窪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001213" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市川田町
+    a mo:町域 ;
     rdfs:label "川田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000811" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市北口
+    a mo:町域 ;
     rdfs:label "北口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000024" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市北新
+    a mo:町域 ;
     rdfs:label "北新"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000005" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市貢川
+    a mo:町域 ;
     rdfs:label "貢川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000065" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市貢川本町
+    a mo:町域 ;
     rdfs:label "貢川本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000048" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市国玉町
+    a mo:町域 ;
     rdfs:label "国玉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000815" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市黒平町
+    a mo:町域 ;
     rdfs:label "黒平町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001211" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市国母
+    a mo:町域 ;
     rdfs:label "国母"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000043" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市小瀬町
+    a mo:町域 ;
     rdfs:label "小瀬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000836" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市寿町
+    a mo:町域 ;
     rdfs:label "寿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000033" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市古府中町
+    a mo:町域 ;
     rdfs:label "古府中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市小松町
+    a mo:町域 ;
     rdfs:label "小松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000857" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市酒折
+    a mo:町域 ;
     rdfs:label "酒折"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000805" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市酒折町
+    a mo:町域 ;
     rdfs:label "酒折町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000804" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市桜井町
+    a mo:町域 ;
     rdfs:label "桜井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000803" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市里吉
+    a mo:町域 ;
     rdfs:label "里吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000822" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市里吉町
+    a mo:町域 ;
     rdfs:label "里吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000823" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市塩部
+    a mo:町域 ;
     rdfs:label "塩部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000026" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下飯田
+    a mo:町域 ;
     rdfs:label "下飯田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000064" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下石田
+    a mo:町域 ;
     rdfs:label "下石田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000046" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下今井町
+    a mo:町域 ;
     rdfs:label "下今井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000842" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下帯那町
+    a mo:町域 ;
     rdfs:label "下帯那町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000082" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下鍛冶屋町
+    a mo:町域 ;
     rdfs:label "下鍛冶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000835" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下河原町
+    a mo:町域 ;
     rdfs:label "下河原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000068" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下小河原町
+    a mo:町域 ;
     rdfs:label "下小河原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000853" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下積翠寺町
+    a mo:町域 ;
     rdfs:label "下積翠寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下曽根町
+    a mo:町域 ;
     rdfs:label "下曽根町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001508" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市下向山町
+    a mo:町域 ;
     rdfs:label "下向山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001507" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市城東
+    a mo:町域 ;
     rdfs:label "城東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000861" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市白井町
+    a mo:町域 ;
     rdfs:label "白井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001502" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市心経寺町
+    a mo:町域 ;
     rdfs:label "心経寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001503" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市新田町
+    a mo:町域 ;
     rdfs:label "新田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000066" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市砂田町
+    a mo:町域 ;
     rdfs:label "砂田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000821" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市住吉
+    a mo:町域 ;
     rdfs:label "住吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000851" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市住吉本町
+    a mo:町域 ;
     rdfs:label "住吉本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000852" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市善光寺
+    a mo:町域 ;
     rdfs:label "善光寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000806" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市善光寺町
+    a mo:町域 ;
     rdfs:label "善光寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000801" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市草鹿沢町
+    a mo:町域 ;
     rdfs:label "草鹿沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001219" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市大和町
+    a mo:町域 ;
     rdfs:label "大和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000072" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市高成町
+    a mo:町域 ;
     rdfs:label "高成町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001214" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市高畑
+    a mo:町域 ;
     rdfs:label "高畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000042" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市高町
+    a mo:町域 ;
     rdfs:label "高町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001212" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市高室町
+    a mo:町域 ;
     rdfs:label "高室町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000057" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市宝
+    a mo:町域 ;
     rdfs:label "宝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000034" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市武田
+    a mo:町域 ;
     rdfs:label "武田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000016" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市竹日向町
+    a mo:町域 ;
     rdfs:label "竹日向町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001215" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市千塚
+    a mo:町域 ;
     rdfs:label "千塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000074" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市中央
+    a mo:町域 ;
     rdfs:label "中央"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000032" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市長松寺町
+    a mo:町域 ;
     rdfs:label "長松寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000067" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市塚原町
+    a mo:町域 ;
     rdfs:label "塚原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000006" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市塔岩町
+    a mo:町域 ;
     rdfs:label "塔岩町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001216" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市東光寺
+    a mo:町域 ;
     rdfs:label "東光寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000807" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市東光寺町
+    a mo:町域 ;
     rdfs:label "東光寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000808" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市徳行
+    a mo:町域 ;
     rdfs:label "徳行"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000047" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市富竹
+    a mo:町域 ;
     rdfs:label "富竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000049" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市中小河原
+    a mo:町域 ;
     rdfs:label "中小河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000855" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市中小河原町
+    a mo:町域 ;
     rdfs:label "中小河原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000854" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市中町
+    a mo:町域 ;
     rdfs:label "中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000844" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市中畑町
+    a mo:町域 ;
     rdfs:label "中畑町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001505" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市中村町
+    a mo:町域 ;
     rdfs:label "中村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000069" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市七沢町
+    a mo:町域 ;
     rdfs:label "七沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000825" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市西油川町
+    a mo:町域 ;
     rdfs:label "西油川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000833" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市西下条町
+    a mo:町域 ;
     rdfs:label "西下条町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000054" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市西高橋町
+    a mo:町域 ;
     rdfs:label "西高橋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000826" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市西田町
+    a mo:町域 ;
     rdfs:label "西田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市羽黒町
+    a mo:町域 ;
     rdfs:label "羽黒町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000071" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市東下条町
+    a mo:町域 ;
     rdfs:label "東下条町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000843" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市平瀬町
+    a mo:町域 ;
     rdfs:label "平瀬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000083" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市富士見
+    a mo:町域 ;
     rdfs:label "富士見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000027" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市古上条町
+    a mo:町域 ;
     rdfs:label "古上条町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000051" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市古関町
+    a mo:町域 ;
     rdfs:label "古関町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093712" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市堀之内町
+    a mo:町域 ;
     rdfs:label "堀之内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000056" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市増坪町
+    a mo:町域 ;
     rdfs:label "増坪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000832" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市丸の内
+    a mo:町域 ;
     rdfs:label "丸の内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000031" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市美咲
+    a mo:町域 ;
     rdfs:label "美咲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000007" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市御岳町
+    a mo:町域 ;
     rdfs:label "御岳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001218" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市緑が丘
+    a mo:町域 ;
     rdfs:label "緑が丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000008" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市南口町
+    a mo:町域 ;
     rdfs:label "南口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000863" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市宮原町
+    a mo:町域 ;
     rdfs:label "宮原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000058" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市宮前町
+    a mo:町域 ;
     rdfs:label "宮前町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市向町
+    a mo:町域 ;
     rdfs:label "向町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000813" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市元紺屋町
+    a mo:町域 ;
     rdfs:label "元紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市屋形
+    a mo:町域 ;
     rdfs:label "屋形"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000017" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市山宮町
+    a mo:町域 ;
     rdfs:label "山宮町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000075" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市湯田
+    a mo:町域 ;
     rdfs:label "湯田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000864" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市湯村
+    a mo:町域 ;
     rdfs:label "湯村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000073" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市横根町
+    a mo:町域 ;
     rdfs:label "横根町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000802" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市蓬沢
+    a mo:町域 ;
     rdfs:label "蓬沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000827" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市蓬沢町
+    a mo:町域 ;
     rdfs:label "蓬沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000824" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市若松町
+    a mo:町域 ;
     rdfs:label "若松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000866" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市和田町
+    a mo:町域 ;
     rdfs:label "和田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲府市和戸町
+    a mo:町域 ;
     rdfs:label "和戸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000812" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市
     rdfs:label "富士吉田市"@ja ;
@@ -714,84 +970,124 @@ mr:JP_山梨県富士吉田市
 a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市旭
+    a mo:町域 ;
     rdfs:label "旭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市浅間
+    a mo:町域 ;
     rdfs:label "浅間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030031" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市新倉
+    a mo:町域 ;
     rdfs:label "新倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市新屋
+    a mo:町域 ;
     rdfs:label "新屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030006" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市大明見
+    a mo:町域 ;
     rdfs:label "大明見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市上暮地
+    a mo:町域 ;
     rdfs:label "上暮地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市上吉田
+    a mo:町域 ;
     rdfs:label "上吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030005" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市上吉田東
+    a mo:町域 ;
     rdfs:label "上吉田東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030032" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市小明見
+    a mo:町域 ;
     rdfs:label "小明見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市下吉田
+    a mo:町域 ;
     rdfs:label "下吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市下吉田東
+    a mo:町域 ;
     rdfs:label "下吉田東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030008" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市新西原
+    a mo:町域 ;
     rdfs:label "新西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030017" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030019" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市竜ケ丘
+    a mo:町域 ;
     rdfs:label "竜ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市ときわ台
+    a mo:町域 ;
     rdfs:label "ときわ台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市中曽根
+    a mo:町域 ;
     rdfs:label "中曽根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030007" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市富士見
+    a mo:町域 ;
     rdfs:label "富士見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030009" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市松山
+    a mo:町域 ;
     rdfs:label "松山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030016" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市緑ケ丘
+    a mo:町域 ;
     rdfs:label "緑ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県富士吉田市向原
+    a mo:町域 ;
     rdfs:label "向原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030018" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市
     rdfs:label "都留市"@ja ;
@@ -833,136 +1129,202 @@ mr:JP_山梨県都留市
 a mo:GeoEntity .
 
 mr:JP_山梨県都留市朝日曽雌
+    a mo:町域 ;
     rdfs:label "朝日曽雌"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市朝日馬場
+    a mo:町域 ;
     rdfs:label "朝日馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市厚原
+    a mo:町域 ;
     rdfs:label "厚原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020042" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市井倉
+    a mo:町域 ;
     rdfs:label "井倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市大野
+    a mo:町域 ;
     rdfs:label "大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市大幡
+    a mo:町域 ;
     rdfs:label "大幡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020045" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市大原
+    a mo:町域 ;
     rdfs:label "大原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市小形山
+    a mo:町域 ;
     rdfs:label "小形山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020006" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市小野
+    a mo:町域 ;
     rdfs:label "小野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020024" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市桂町
+    a mo:町域 ;
     rdfs:label "桂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020034" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市金井
+    a mo:町域 ;
     rdfs:label "金井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020041" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市加畑
+    a mo:町域 ;
     rdfs:label "加畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020044" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市上谷
+    a mo:町域 ;
     rdfs:label "上谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020053" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市川棚
+    a mo:町域 ;
     rdfs:label "川棚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020055" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市川茂
+    a mo:町域 ;
     rdfs:label "川茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市境
+    a mo:町域 ;
     rdfs:label "境"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020033" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市鹿留
+    a mo:町域 ;
     rdfs:label "鹿留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020032" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市下谷
+    a mo:町域 ;
     rdfs:label "下谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020051" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市田野倉
+    a mo:町域 ;
     rdfs:label "田野倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市田原
+    a mo:町域 ;
     rdfs:label "田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020054" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市玉川
+    a mo:町域 ;
     rdfs:label "玉川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市中央
+    a mo:町域 ;
     rdfs:label "中央"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020052" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市つる
+    a mo:町域 ;
     rdfs:label "つる"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020056" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市十日市場
+    a mo:町域 ;
     rdfs:label "十日市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020031" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市戸沢
+    a mo:町域 ;
     rdfs:label "戸沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市中津森
+    a mo:町域 ;
     rdfs:label "中津森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020046" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市夏狩
+    a mo:町域 ;
     rdfs:label "夏狩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020035" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市平栗
+    a mo:町域 ;
     rdfs:label "平栗"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020043" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市古川渡
+    a mo:町域 ;
     rdfs:label "古川渡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市法能
+    a mo:町域 ;
     rdfs:label "法能"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020025" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市盛里
+    a mo:町域 ;
     rdfs:label "盛里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市四日市場
+    a mo:町域 ;
     rdfs:label "四日市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020005" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県都留市与縄
+    a mo:町域 ;
     rdfs:label "与縄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市
     rdfs:label "山梨市"@ja ;
@@ -1024,216 +1386,322 @@ mr:JP_山梨県山梨市
 a mo:GeoEntity .
 
 mr:JP_山梨県山梨市市川
+    a mo:町域 ;
     rdfs:label "市川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050044" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市一町田中
+    a mo:町域 ;
     rdfs:label "一町田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050025" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市歌田
+    a mo:町域 ;
     rdfs:label "歌田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050024" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市江曽原
+    a mo:町域 ;
     rdfs:label "江曽原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050043" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市大野
+    a mo:町域 ;
     rdfs:label "大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050016" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市落合
+    a mo:町域 ;
     rdfs:label "落合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050033" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市上石森
+    a mo:町域 ;
     rdfs:label "上石森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市上岩下
+    a mo:町域 ;
     rdfs:label "上岩下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050034" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市上神内川
+    a mo:町域 ;
     rdfs:label "上神内川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050018" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市上栗原
+    a mo:町域 ;
     rdfs:label "上栗原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市上之割
+    a mo:町域 ;
     rdfs:label "上之割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市鴨居寺
+    a mo:町域 ;
     rdfs:label "鴨居寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市北
+    a mo:町域 ;
     rdfs:label "北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050041" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市切差
+    a mo:町域 ;
     rdfs:label "切差"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050048" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市小原東
+    a mo:町域 ;
     rdfs:label "小原東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050005" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市小原西
+    a mo:町域 ;
     rdfs:label "小原西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050006" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市三ケ所
+    a mo:町域 ;
     rdfs:label "三ケ所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市下石森
+    a mo:町域 ;
     rdfs:label "下石森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市下井尻
+    a mo:町域 ;
     rdfs:label "下井尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市下神内川
+    a mo:町域 ;
     rdfs:label "下神内川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050017" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市下栗原
+    a mo:町域 ;
     rdfs:label "下栗原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市正徳寺
+    a mo:町域 ;
     rdfs:label "正徳寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050032" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市大工
+    a mo:町域 ;
     rdfs:label "大工"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050045" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市中村
+    a mo:町域 ;
     rdfs:label "中村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市七日市場
+    a mo:町域 ;
     rdfs:label "七日市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050007" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市西
+    a mo:町域 ;
     rdfs:label "西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市東
+    a mo:町域 ;
     rdfs:label "東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市東後屋敷
+    a mo:町域 ;
     rdfs:label "東後屋敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市堀内
+    a mo:町域 ;
     rdfs:label "堀内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050046" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町北原
+    a mo:町域 ;
     rdfs:label "牧丘町北原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040007" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町窪平
+    a mo:町域 ;
     rdfs:label "牧丘町窪平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町倉科
+    a mo:町域 ;
     rdfs:label "牧丘町倉科"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町城古寺
+    a mo:町域 ;
     rdfs:label "牧丘町城古寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町杣口
+    a mo:町域 ;
     rdfs:label "牧丘町杣口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町千野々宮
+    a mo:町域 ;
     rdfs:label "牧丘町千野々宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040016" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町成沢
+    a mo:町域 ;
     rdfs:label "牧丘町成沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町西保下
+    a mo:町域 ;
     rdfs:label "牧丘町西保下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町西保中
+    a mo:町域 ;
     rdfs:label "牧丘町西保中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040005" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町隼
+    a mo:町域 ;
     rdfs:label "牧丘町隼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町牧平
+    a mo:町域 ;
     rdfs:label "牧丘町牧平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040006" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町室伏
+    a mo:町域 ;
     rdfs:label "牧丘町室伏"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市牧丘町柳平
+    a mo:町域 ;
     rdfs:label "牧丘町柳平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市万力
+    a mo:町域 ;
     rdfs:label "万力"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050031" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市水口
+    a mo:町域 ;
     rdfs:label "水口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050047" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市三富上釜口
+    a mo:町域 ;
     rdfs:label "三富上釜口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040206" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市三富上柚木
+    a mo:町域 ;
     rdfs:label "三富上柚木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040202" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市三富川浦
+    a mo:町域 ;
     rdfs:label "三富川浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040201" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市三富下荻原
+    a mo:町域 ;
     rdfs:label "三富下荻原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040203" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市三富下釜口
+    a mo:町域 ;
     rdfs:label "三富下釜口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040204" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市三富徳和
+    a mo:町域 ;
     rdfs:label "三富徳和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040205" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市南
+    a mo:町域 ;
     rdfs:label "南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050042" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市矢坪
+    a mo:町域 ;
     rdfs:label "矢坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050036" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県山梨市山根
+    a mo:町域 ;
     rdfs:label "山根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050035" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市
     rdfs:label "大月市"@ja ;
@@ -1280,156 +1748,232 @@ mr:JP_山梨県大月市
 a mo:GeoEntity .
 
 mr:JP_山梨県大月市大月
+    a mo:町域 ;
     rdfs:label "大月"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市大月町大月
+    a mo:町域 ;
     rdfs:label "大月町大月"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市大月町花咲
+    a mo:町域 ;
     rdfs:label "大月町花咲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市大月町真木
+    a mo:町域 ;
     rdfs:label "大月町真木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010016" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市駒橋
+    a mo:町域 ;
     rdfs:label "駒橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市笹子町黒野田
+    a mo:町域 ;
     rdfs:label "笹子町黒野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010025" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市笹子町白野
+    a mo:町域 ;
     rdfs:label "笹子町白野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市笹子町吉久保
+    a mo:町域 ;
     rdfs:label "笹子町吉久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010024" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市猿橋町朝日小沢
+    a mo:町域 ;
     rdfs:label "猿橋町朝日小沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090615" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市猿橋町伊良原
+    a mo:町域 ;
     rdfs:label "猿橋町伊良原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090613" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市猿橋町小沢
+    a mo:町域 ;
     rdfs:label "猿橋町小沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090616" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市猿橋町小篠
+    a mo:町域 ;
     rdfs:label "猿橋町小篠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090611" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市猿橋町桂台
+    a mo:町域 ;
     rdfs:label "猿橋町桂台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090618" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市猿橋町猿橋
+    a mo:町域 ;
     rdfs:label "猿橋町猿橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090614" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市猿橋町殿上
+    a mo:町域 ;
     rdfs:label "猿橋町殿上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090617" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市猿橋町藤崎
+    a mo:町域 ;
     rdfs:label "猿橋町藤崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090612" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市富浜町鳥沢
+    a mo:町域 ;
     rdfs:label "富浜町鳥沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090502" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市富浜町宮谷
+    a mo:町域 ;
     rdfs:label "富浜町宮谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090501" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市七保町浅川
+    a mo:町域 ;
     rdfs:label "七保町浅川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090621" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市七保町葛野
+    a mo:町域 ;
     rdfs:label "七保町葛野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090623" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市七保町駒宮
+    a mo:町域 ;
     rdfs:label "七保町駒宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090627" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市七保町下和田
+    a mo:町域 ;
     rdfs:label "七保町下和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090622" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市七保町瀬戸
+    a mo:町域 ;
     rdfs:label "七保町瀬戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090626" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市七保町奈良子
+    a mo:町域 ;
     rdfs:label "七保町奈良子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090625" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市七保町林
+    a mo:町域 ;
     rdfs:label "七保町林"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090624" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市賑岡町浅利
+    a mo:町域 ;
     rdfs:label "賑岡町浅利"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010005" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市賑岡町岩殿
+    a mo:町域 ;
     rdfs:label "賑岡町岩殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市賑岡町奥山
+    a mo:町域 ;
     rdfs:label "賑岡町奥山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010006" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市賑岡町強瀬
+    a mo:町域 ;
     rdfs:label "賑岡町強瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市賑岡町畑倉
+    a mo:町域 ;
     rdfs:label "賑岡町畑倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市賑岡町ゆりケ丘
+    a mo:町域 ;
     rdfs:label "賑岡町ゆりケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市初狩町下初狩
+    a mo:町域 ;
     rdfs:label "初狩町下初狩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市初狩町中初狩
+    a mo:町域 ;
     rdfs:label "初狩町中初狩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市御太刀
+    a mo:町域 ;
     rdfs:label "御太刀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市梁川町新倉
+    a mo:町域 ;
     rdfs:label "梁川町新倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090504" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市梁川町塩瀬
+    a mo:町域 ;
     rdfs:label "梁川町塩瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090505" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市梁川町立野
+    a mo:町域 ;
     rdfs:label "梁川町立野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090506" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県大月市梁川町綱の上
+    a mo:町域 ;
     rdfs:label "梁川町綱の上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090503" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市
     rdfs:label "韮崎市"@ja ;
@@ -1484,188 +2028,280 @@ mr:JP_山梨県韮崎市
 a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市旭町上條中割
+    a mo:町域 ;
     rdfs:label "旭町上條中割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070045" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市旭町上條南割
+    a mo:町域 ;
     rdfs:label "旭町上條南割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070046" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市旭町上條北割
+    a mo:町域 ;
     rdfs:label "旭町上條北割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070044" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市穴山町
+    a mo:町域 ;
     rdfs:label "穴山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070263" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市岩下
+    a mo:町域 ;
     rdfs:label "岩下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市上ノ山
+    a mo:町域 ;
     rdfs:label "上ノ山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市大草町上條東割
+    a mo:町域 ;
     rdfs:label "大草町上條東割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070036" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市大草町下條西割
+    a mo:町域 ;
     rdfs:label "大草町下條西割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070035" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市大草町下條中割
+    a mo:町域 ;
     rdfs:label "大草町下條中割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070034" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市大草町若尾
+    a mo:町域 ;
     rdfs:label "大草町若尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070037" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市上祖母石
+    a mo:町域 ;
     rdfs:label "上祖母石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070007" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市神山町北宮地
+    a mo:町域 ;
     rdfs:label "神山町北宮地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070042" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市神山町武田
+    a mo:町域 ;
     rdfs:label "神山町武田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070041" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市神山町鍋山
+    a mo:町域 ;
     rdfs:label "神山町鍋山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070043" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市栄
+    a mo:町域 ;
     rdfs:label "栄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070025" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市下祖母石
+    a mo:町域 ;
     rdfs:label "下祖母石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070006" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市水神
+    a mo:町域 ;
     rdfs:label "水神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市清哲町青木
+    a mo:町域 ;
     rdfs:label "清哲町青木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070055" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市清哲町折居
+    a mo:町域 ;
     rdfs:label "清哲町折居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070054" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市清哲町樋口
+    a mo:町域 ;
     rdfs:label "清哲町樋口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070057" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市清哲町水上
+    a mo:町域 ;
     rdfs:label "清哲町水上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070058" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市龍岡町下條東割
+    a mo:町域 ;
     rdfs:label "龍岡町下條東割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070032" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市龍岡町下條南割
+    a mo:町域 ;
     rdfs:label "龍岡町下條南割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070033" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市龍岡町若尾新田
+    a mo:町域 ;
     rdfs:label "龍岡町若尾新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070031" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市中央町
+    a mo:町域 ;
     rdfs:label "中央町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市中島
+    a mo:町域 ;
     rdfs:label "中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市中田町小田川
+    a mo:町域 ;
     rdfs:label "中田町小田川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070261" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市中田町中條
+    a mo:町域 ;
     rdfs:label "中田町中條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070262" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市一ツ谷
+    a mo:町域 ;
     rdfs:label "一ツ谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070005" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市藤井町駒井
+    a mo:町域 ;
     rdfs:label "藤井町駒井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市藤井町坂井
+    a mo:町域 ;
     rdfs:label "藤井町坂井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市藤井町南下條
+    a mo:町域 ;
     rdfs:label "藤井町南下條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市藤井町北下條
+    a mo:町域 ;
     rdfs:label "藤井町北下條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市富士見
+    a mo:町域 ;
     rdfs:label "富士見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市富士見ケ丘
+    a mo:町域 ;
     rdfs:label "富士見ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市穂坂町上今井
+    a mo:町域 ;
     rdfs:label "穂坂町上今井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070172" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市穂坂町三之蔵
+    a mo:町域 ;
     rdfs:label "穂坂町三之蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070176" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市穂坂町長久保
+    a mo:町域 ;
     rdfs:label "穂坂町長久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070173" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市穂坂町三ツ沢
+    a mo:町域 ;
     rdfs:label "穂坂町三ツ沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070174" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市穂坂町宮久保
+    a mo:町域 ;
     rdfs:label "穂坂町宮久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070175" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市穂坂町柳平
+    a mo:町域 ;
     rdfs:label "穂坂町柳平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070171" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070024" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市円野町上円井
+    a mo:町域 ;
     rdfs:label "円野町上円井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070051" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市円野町下円井
+    a mo:町域 ;
     rdfs:label "円野町下円井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070052" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市円野町入戸野
+    a mo:町域 ;
     rdfs:label "円野町入戸野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070053" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県韮崎市若宮
+    a mo:町域 ;
     rdfs:label "若宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市
     rdfs:label "南アルプス市"@ja ;
@@ -1738,260 +2374,388 @@ mr:JP_山梨県南アルプス市
 a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市秋山
+    a mo:町域 ;
     rdfs:label "秋山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000424" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市浅原
+    a mo:町域 ;
     rdfs:label "浅原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000333" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市芦安芦倉
+    a mo:町域 ;
     rdfs:label "芦安芦倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000241" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市芦安安通
+    a mo:町域 ;
     rdfs:label "芦安安通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000242" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市あやめが丘
+    a mo:町域 ;
     rdfs:label "あやめが丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000319" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市鮎沢
+    a mo:町域 ;
     rdfs:label "鮎沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000403" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市有野
+    a mo:町域 ;
     rdfs:label "有野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000226" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市飯野
+    a mo:町域 ;
     rdfs:label "飯野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000222" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市飯野新田
+    a mo:町域 ;
     rdfs:label "飯野新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000224" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市和泉
+    a mo:町域 ;
     rdfs:label "和泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000413" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000315" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市上八田
+    a mo:町域 ;
     rdfs:label "上八田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000215" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市榎原
+    a mo:町域 ;
     rdfs:label "榎原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000204" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市江原
+    a mo:町域 ;
     rdfs:label "江原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000401" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市大嵐
+    a mo:町域 ;
     rdfs:label "大嵐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000234" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市小笠原
+    a mo:町域 ;
     rdfs:label "小笠原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000306" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市落合
+    a mo:町域 ;
     rdfs:label "落合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000423" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市加賀美
+    a mo:町域 ;
     rdfs:label "加賀美"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000335" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市鏡中條
+    a mo:町域 ;
     rdfs:label "鏡中條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000332" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市上市之瀬
+    a mo:町域 ;
     rdfs:label "上市之瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000317" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市上今井
+    a mo:町域 ;
     rdfs:label "上今井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000303" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市上今諏訪
+    a mo:町域 ;
     rdfs:label "上今諏訪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000211" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市上高砂
+    a mo:町域 ;
     rdfs:label "上高砂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000201" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市上宮地
+    a mo:町域 ;
     rdfs:label "上宮地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000312" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市川上
+    a mo:町域 ;
     rdfs:label "川上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000421" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市曲輪田
+    a mo:町域 ;
     rdfs:label "曲輪田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000311" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市曲輪田新田
+    a mo:町域 ;
     rdfs:label "曲輪田新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000223" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市駒場
+    a mo:町域 ;
     rdfs:label "駒場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000232" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市在家塚
+    a mo:町域 ;
     rdfs:label "在家塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000221" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市沢登
+    a mo:町域 ;
     rdfs:label "沢登"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000302" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市塩前
+    a mo:町域 ;
     rdfs:label "塩前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000231" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市清水
+    a mo:町域 ;
     rdfs:label "清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000417" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市下市之瀬
+    a mo:町域 ;
     rdfs:label "下市之瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000314" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市下今井
+    a mo:町域 ;
     rdfs:label "下今井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000331" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市下今諏訪
+    a mo:町域 ;
     rdfs:label "下今諏訪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000212" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市下高砂
+    a mo:町域 ;
     rdfs:label "下高砂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000202" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市下宮地
+    a mo:町域 ;
     rdfs:label "下宮地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000405" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市十五所
+    a mo:町域 ;
     rdfs:label "十五所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000305" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市須沢
+    a mo:町域 ;
     rdfs:label "須沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000233" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市大師
+    a mo:町域 ;
     rdfs:label "大師"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000416" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市高尾
+    a mo:町域 ;
     rdfs:label "高尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000318" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市田島
+    a mo:町域 ;
     rdfs:label "田島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000402" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市塚原
+    a mo:町域 ;
     rdfs:label "塚原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000426" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市築山
+    a mo:町域 ;
     rdfs:label "築山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000225" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市寺部
+    a mo:町域 ;
     rdfs:label "寺部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000337" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市藤田
+    a mo:町域 ;
     rdfs:label "藤田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000334" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市百々
+    a mo:町域 ;
     rdfs:label "百々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000214" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市十日市場
+    a mo:町域 ;
     rdfs:label "十日市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000336" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市徳永
+    a mo:町域 ;
     rdfs:label "徳永"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000203" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市戸田
+    a mo:町域 ;
     rdfs:label "戸田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000414" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市中野
+    a mo:町域 ;
     rdfs:label "中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000316" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市西南湖
+    a mo:町域 ;
     rdfs:label "西南湖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000411" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市西野
+    a mo:町域 ;
     rdfs:label "西野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000213" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市荊沢
+    a mo:町域 ;
     rdfs:label "荊沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000422" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市東南湖
+    a mo:町域 ;
     rdfs:label "東南湖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000412" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市平岡
+    a mo:町域 ;
     rdfs:label "平岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000313" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市古市場
+    a mo:町域 ;
     rdfs:label "古市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000404" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市宮沢
+    a mo:町域 ;
     rdfs:label "宮沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000415" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市六科
+    a mo:町域 ;
     rdfs:label "六科"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000206" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市桃園
+    a mo:町域 ;
     rdfs:label "桃園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000301" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市野牛島
+    a mo:町域 ;
     rdfs:label "野牛島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000205" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市山寺
+    a mo:町域 ;
     rdfs:label "山寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000308" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市湯沢
+    a mo:町域 ;
     rdfs:label "湯沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000425" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南アルプス市吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000304" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市
     rdfs:label "北杜市"@ja ;
@@ -2071,288 +2835,430 @@ mr:JP_山梨県北杜市
 a mo:GeoEntity .
 
 mr:JP_山梨県北杜市明野町浅尾
+    a mo:町域 ;
     rdfs:label "明野町浅尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080201" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市明野町浅尾新田
+    a mo:町域 ;
     rdfs:label "明野町浅尾新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080205" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市明野町上手
+    a mo:町域 ;
     rdfs:label "明野町上手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080204" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市明野町小笠原
+    a mo:町域 ;
     rdfs:label "明野町小笠原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080202" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市明野町上神取
+    a mo:町域 ;
     rdfs:label "明野町上神取"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080207" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市明野町三之蔵
+    a mo:町域 ;
     rdfs:label "明野町三之蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080203" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市明野町下神取
+    a mo:町域 ;
     rdfs:label "明野町下神取"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080206" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市大泉町西井出
+    a mo:町域 ;
     rdfs:label "大泉町西井出"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091501" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市大泉町谷戸
+    a mo:町域 ;
     rdfs:label "大泉町谷戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091502" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市小淵沢町
+    a mo:町域 ;
     rdfs:label "小淵沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080044" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市小淵沢町上笹尾
+    a mo:町域 ;
     rdfs:label "小淵沢町上笹尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080041" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市小淵沢町下笹尾
+    a mo:町域 ;
     rdfs:label "小淵沢町下笹尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080043" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市小淵沢町松向
+    a mo:町域 ;
     rdfs:label "小淵沢町松向"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080042" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町穴平
+    a mo:町域 ;
     rdfs:label "須玉町穴平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080111" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町江草
+    a mo:町域 ;
     rdfs:label "須玉町江草"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080103" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町大蔵
+    a mo:町域 ;
     rdfs:label "須玉町大蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080113" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町小尾
+    a mo:町域 ;
     rdfs:label "須玉町小尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080101" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町上津金
+    a mo:町域 ;
     rdfs:label "須玉町上津金"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070321" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町小倉
+    a mo:町域 ;
     rdfs:label "須玉町小倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080104" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町境之澤
+    a mo:町域 ;
     rdfs:label "須玉町境之澤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080116" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町下津金
+    a mo:町域 ;
     rdfs:label "須玉町下津金"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070322" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町藤田
+    a mo:町域 ;
     rdfs:label "須玉町藤田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080114" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町東向
+    a mo:町域 ;
     rdfs:label "須玉町東向"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080105" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町比志
+    a mo:町域 ;
     rdfs:label "須玉町比志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080102" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町大豆生田
+    a mo:町域 ;
     rdfs:label "須玉町大豆生田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080115" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町若神子
+    a mo:町域 ;
     rdfs:label "須玉町若神子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080112" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市須玉町若神子新町
+    a mo:町域 ;
     rdfs:label "須玉町若神子新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080117" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町浅川
+    a mo:町域 ;
     rdfs:label "高根町浅川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070302" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町上黒澤
+    a mo:町域 ;
     rdfs:label "高根町上黒澤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080016" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町清里
+    a mo:町域 ;
     rdfs:label "高根町清里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4070301" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町蔵原
+    a mo:町域 ;
     rdfs:label "高根町蔵原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町小池
+    a mo:町域 ;
     rdfs:label "高根町小池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町五町田
+    a mo:町域 ;
     rdfs:label "高根町五町田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080017" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町下黒澤
+    a mo:町域 ;
     rdfs:label "高根町下黒澤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町堤
+    a mo:町域 ;
     rdfs:label "高根町堤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町長沢
+    a mo:町域 ;
     rdfs:label "高根町長沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町東井出
+    a mo:町域 ;
     rdfs:label "高根町東井出"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町箕輪
+    a mo:町域 ;
     rdfs:label "高根町箕輪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町箕輪新町
+    a mo:町域 ;
     rdfs:label "高根町箕輪新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町村山北割
+    a mo:町域 ;
     rdfs:label "高根町村山北割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町村山西割
+    a mo:町域 ;
     rdfs:label "高根町村山西割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080018" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市高根町村山東割
+    a mo:町域 ;
     rdfs:label "高根町村山東割"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080019" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町大井ケ森
+    a mo:町域 ;
     rdfs:label "長坂町大井ケ森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080032" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町大八田
+    a mo:町域 ;
     rdfs:label "長坂町大八田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080034" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町小荒間
+    a mo:町域 ;
     rdfs:label "長坂町小荒間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080031" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町渋沢
+    a mo:町域 ;
     rdfs:label "長坂町渋沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町白井沢
+    a mo:町域 ;
     rdfs:label "長坂町白井沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080033" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町塚川
+    a mo:町域 ;
     rdfs:label "長坂町塚川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町富岡
+    a mo:町域 ;
     rdfs:label "長坂町富岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080024" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町長坂上条
+    a mo:町域 ;
     rdfs:label "長坂町長坂上条"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町長坂下条
+    a mo:町域 ;
     rdfs:label "長坂町長坂下条"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080025" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町中島
+    a mo:町域 ;
     rdfs:label "長坂町中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080037" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町中丸
+    a mo:町域 ;
     rdfs:label "長坂町中丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080036" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町夏秋
+    a mo:町域 ;
     rdfs:label "長坂町夏秋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080035" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市長坂町日野
+    a mo:町域 ;
     rdfs:label "長坂町日野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080026" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町大武川
+    a mo:町域 ;
     rdfs:label "白州町大武川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080319" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町上教来石
+    a mo:町域 ;
     rdfs:label "白州町上教来石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080318" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町下教来石
+    a mo:町域 ;
     rdfs:label "白州町下教来石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080317" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町白須
+    a mo:町域 ;
     rdfs:label "白州町白須"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080315" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町台ケ原
+    a mo:町域 ;
     rdfs:label "白州町台ケ原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080312" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町大坊
+    a mo:町域 ;
     rdfs:label "白州町大坊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080314" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町鳥原
+    a mo:町域 ;
     rdfs:label "白州町鳥原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080316" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町花水
+    a mo:町域 ;
     rdfs:label "白州町花水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080311" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市白州町横手
+    a mo:町域 ;
     rdfs:label "白州町横手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080313" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市武川町黒澤
+    a mo:町域 ;
     rdfs:label "武川町黒澤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080305" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市武川町新奥
+    a mo:町域 ;
     rdfs:label "武川町新奥"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080304" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市武川町牧原
+    a mo:町域 ;
     rdfs:label "武川町牧原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080302" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市武川町三吹
+    a mo:町域 ;
     rdfs:label "武川町三吹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080301" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市武川町宮脇
+    a mo:町域 ;
     rdfs:label "武川町宮脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080303" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市武川町柳澤
+    a mo:町域 ;
     rdfs:label "武川町柳澤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080307" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北杜市武川町山高
+    a mo:町域 ;
     rdfs:label "武川町山高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4080306" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市
     rdfs:label "甲斐市"@ja ;
@@ -2399,161 +3305,240 @@ mr:JP_山梨県甲斐市
 a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市安寺
+    a mo:町域 ;
     rdfs:label "安寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001126" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市岩森
+    a mo:町域 ;
     rdfs:label "岩森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000106" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市牛句
+    a mo:町域 ;
     rdfs:label "牛句"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000121" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市打返
+    a mo:町域 ;
     rdfs:label "打返"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001114" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市宇津谷
+    a mo:町域 ;
     rdfs:label "宇津谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000108" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市漆戸
+    a mo:町域 ;
     rdfs:label "漆戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001115" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市大久保
+    a mo:町域 ;
     rdfs:label "大久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000128" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市大下条
+    a mo:町域 ;
     rdfs:label "大下条"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000126" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市大垈
+    a mo:町域 ;
     rdfs:label "大垈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000103" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市上芦沢
+    a mo:町域 ;
     rdfs:label "上芦沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001121" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市上菅口
+    a mo:町域 ;
     rdfs:label "上菅口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001117" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市上福沢
+    a mo:町域 ;
     rdfs:label "上福沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001123" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市亀沢
+    a mo:町域 ;
     rdfs:label "亀沢"@ja ;
     mo:SubRegion mr:JP_山梨県甲斐市亀沢大明神 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001113" ;
+    mo:JP_郵便番号 "4001131" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市亀沢大明神
     rdfs:label "大明神"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "4001131" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市吉沢
+    a mo:町域 ;
     rdfs:label "吉沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001112" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市神戸
+    a mo:町域 ;
     rdfs:label "神戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001127" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市境
+    a mo:町域 ;
     rdfs:label "境"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000122" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市獅子平
+    a mo:町域 ;
     rdfs:label "獅子平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001116" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市志田
+    a mo:町域 ;
     rdfs:label "志田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000107" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市篠原
+    a mo:町域 ;
     rdfs:label "篠原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000115" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市島上条
+    a mo:町域 ;
     rdfs:label "島上条"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000123" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市下芦沢
+    a mo:町域 ;
     rdfs:label "下芦沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001122" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市下今井
+    a mo:町域 ;
     rdfs:label "下今井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000105" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市下菅口
+    a mo:町域 ;
     rdfs:label "下菅口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001125" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市下福沢
+    a mo:町域 ;
     rdfs:label "下福沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001124" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市菖蒲沢
+    a mo:町域 ;
     rdfs:label "菖蒲沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000101" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市千田
+    a mo:町域 ;
     rdfs:label "千田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001111" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市玉川
+    a mo:町域 ;
     rdfs:label "玉川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000116" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市団子新居
+    a mo:町域 ;
     rdfs:label "団子新居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000102" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市天狗沢
+    a mo:町域 ;
     rdfs:label "天狗沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000127" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市富竹新田
+    a mo:町域 ;
     rdfs:label "富竹新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000113" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市中下条
+    a mo:町域 ;
     rdfs:label "中下条"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000124" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市長塚
+    a mo:町域 ;
     rdfs:label "長塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000125" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市名取
+    a mo:町域 ;
     rdfs:label "名取"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000112" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市西八幡
+    a mo:町域 ;
     rdfs:label "西八幡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000117" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市万才
+    a mo:町域 ;
     rdfs:label "万才"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000114" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市竜王
+    a mo:町域 ;
     rdfs:label "竜王"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000118" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市竜王新町
+    a mo:町域 ;
     rdfs:label "竜王新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000111" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲斐市龍地
+    a mo:町域 ;
     rdfs:label "龍地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000104" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市
     rdfs:label "笛吹市"@ja ;
@@ -2661,400 +3646,598 @@ mr:JP_山梨県笛吹市
 a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市芦川町新井原
+    a mo:町域 ;
     rdfs:label "芦川町新井原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093702" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市芦川町鶯宿
+    a mo:町域 ;
     rdfs:label "芦川町鶯宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093704" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市芦川町上芦川
+    a mo:町域 ;
     rdfs:label "芦川町上芦川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093701" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市芦川町中芦川
+    a mo:町域 ;
     rdfs:label "芦川町中芦川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093703" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町市部
+    a mo:町域 ;
     rdfs:label "石和町市部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060031" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町井戸
+    a mo:町域 ;
     rdfs:label "石和町井戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060045" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町今井
+    a mo:町域 ;
     rdfs:label "石和町今井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060042" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町駅前
+    a mo:町域 ;
     rdfs:label "石和町駅前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060028" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町上平井
+    a mo:町域 ;
     rdfs:label "石和町上平井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060025" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町唐柏
+    a mo:町域 ;
     rdfs:label "石和町唐柏"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060034" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町川中島
+    a mo:町域 ;
     rdfs:label "石和町川中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060024" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町窪中島
+    a mo:町域 ;
     rdfs:label "石和町窪中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060036" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町小石和
+    a mo:町域 ;
     rdfs:label "石和町小石和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060033" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町河内
+    a mo:町域 ;
     rdfs:label "石和町河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060043" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町下平井
+    a mo:町域 ;
     rdfs:label "石和町下平井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060027" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町砂原
+    a mo:町域 ;
     rdfs:label "石和町砂原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060044" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町中川
+    a mo:町域 ;
     rdfs:label "石和町中川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060026" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町八田
+    a mo:町域 ;
     rdfs:label "石和町八田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町東油川
+    a mo:町域 ;
     rdfs:label "石和町東油川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060046" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町東高橋
+    a mo:町域 ;
     rdfs:label "石和町東高橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060041" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町広瀬
+    a mo:町域 ;
     rdfs:label "石和町広瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060035" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町松本
+    a mo:町域 ;
     rdfs:label "石和町松本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町山崎
+    a mo:町域 ;
     rdfs:label "石和町山崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市石和町四日市場
+    a mo:町域 ;
     rdfs:label "石和町四日市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060032" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町新巻
+    a mo:町域 ;
     rdfs:label "一宮町新巻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050065" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町石
+    a mo:町域 ;
     rdfs:label "一宮町石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050061" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町市之蔵
+    a mo:町域 ;
     rdfs:label "一宮町市之蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050063" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町一ノ宮
+    a mo:町域 ;
     rdfs:label "一宮町一ノ宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050056" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町金沢
+    a mo:町域 ;
     rdfs:label "一宮町金沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050062" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町金田
+    a mo:町域 ;
     rdfs:label "一宮町金田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050079" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町上矢作
+    a mo:町域 ;
     rdfs:label "一宮町上矢作"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050059" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町神沢
+    a mo:町域 ;
     rdfs:label "一宮町神沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050066" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町北野呂
+    a mo:町域 ;
     rdfs:label "一宮町北野呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050051" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町北都塚
+    a mo:町域 ;
     rdfs:label "一宮町北都塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050071" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町狐新居
+    a mo:町域 ;
     rdfs:label "一宮町狐新居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050068" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町国分
+    a mo:町域 ;
     rdfs:label "一宮町国分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050074" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町小城
+    a mo:町域 ;
     rdfs:label "一宮町小城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050058" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町塩田
+    a mo:町域 ;
     rdfs:label "一宮町塩田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050064" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町地蔵堂
+    a mo:町域 ;
     rdfs:label "一宮町地蔵堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050055" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町下矢作
+    a mo:町域 ;
     rdfs:label "一宮町下矢作"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050057" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町末木
+    a mo:町域 ;
     rdfs:label "一宮町末木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050073" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町千米寺
+    a mo:町域 ;
     rdfs:label "一宮町千米寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050054" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町竹原田
+    a mo:町域 ;
     rdfs:label "一宮町竹原田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050076" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町田中
+    a mo:町域 ;
     rdfs:label "一宮町田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050078" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町土塚
+    a mo:町域 ;
     rdfs:label "一宮町土塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050067" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町坪井
+    a mo:町域 ;
     rdfs:label "一宮町坪井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050077" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町中尾
+    a mo:町域 ;
     rdfs:label "一宮町中尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050053" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町橋立
+    a mo:町域 ;
     rdfs:label "一宮町橋立"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050075" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町東新居
+    a mo:町域 ;
     rdfs:label "一宮町東新居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050069" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町東原
+    a mo:町域 ;
     rdfs:label "一宮町東原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050075" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町南野呂
+    a mo:町域 ;
     rdfs:label "一宮町南野呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050052" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市一宮町本都塚
+    a mo:町域 ;
     rdfs:label "一宮町本都塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4050072" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町加茂
+    a mo:町域 ;
     rdfs:label "春日居町加茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060005" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町熊野堂
+    a mo:町域 ;
     rdfs:label "春日居町熊野堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060012" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町桑戸
+    a mo:町域 ;
     rdfs:label "春日居町桑戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060003" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町国府
+    a mo:町域 ;
     rdfs:label "春日居町国府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060014" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町小松
+    a mo:町域 ;
     rdfs:label "春日居町小松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060004" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町鎮目
+    a mo:町域 ;
     rdfs:label "春日居町鎮目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060015" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町下岩下
+    a mo:町域 ;
     rdfs:label "春日居町下岩下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060001" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町寺本
+    a mo:町域 ;
     rdfs:label "春日居町寺本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060013" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町徳条
+    a mo:町域 ;
     rdfs:label "春日居町徳条"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060011" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市春日居町別田
+    a mo:町域 ;
     rdfs:label "春日居町別田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060002" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町石橋
+    a mo:町域 ;
     rdfs:label "境川町石橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060842" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町大窪
+    a mo:町域 ;
     rdfs:label "境川町大窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060855" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町大黒坂
+    a mo:町域 ;
     rdfs:label "境川町大黒坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060852" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町大坪
+    a mo:町域 ;
     rdfs:label "境川町大坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060841" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町小黒坂
+    a mo:町域 ;
     rdfs:label "境川町小黒坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060851" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町小山
+    a mo:町域 ;
     rdfs:label "境川町小山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060844" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町寺尾
+    a mo:町域 ;
     rdfs:label "境川町寺尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060854" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町藤垈
+    a mo:町域 ;
     rdfs:label "境川町藤垈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060853" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町坊ケ峰
+    a mo:町域 ;
     rdfs:label "境川町坊ケ峰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060845" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町前間田
+    a mo:町域 ;
     rdfs:label "境川町前間田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060843" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市境川町三椚
+    a mo:町域 ;
     rdfs:label "境川町三椚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060846" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町井之上
+    a mo:町域 ;
     rdfs:label "御坂町井之上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060803" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町大野寺
+    a mo:町域 ;
     rdfs:label "御坂町大野寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060817" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町尾山
+    a mo:町域 ;
     rdfs:label "御坂町尾山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060815" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町金川原
+    a mo:町域 ;
     rdfs:label "御坂町金川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060802" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町上黒駒
+    a mo:町域 ;
     rdfs:label "御坂町上黒駒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060813" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町栗合
+    a mo:町域 ;
     rdfs:label "御坂町栗合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060805" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町国衙
+    a mo:町域 ;
     rdfs:label "御坂町国衙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060808" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町下黒駒
+    a mo:町域 ;
     rdfs:label "御坂町下黒駒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060812" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町下野原
+    a mo:町域 ;
     rdfs:label "御坂町下野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060811" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町蕎麦塚
+    a mo:町域 ;
     rdfs:label "御坂町蕎麦塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060818" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町竹居
+    a mo:町域 ;
     rdfs:label "御坂町竹居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060816" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町藤野木
+    a mo:町域 ;
     rdfs:label "御坂町藤野木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060814" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町夏目原
+    a mo:町域 ;
     rdfs:label "御坂町夏目原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060804" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町成田
+    a mo:町域 ;
     rdfs:label "御坂町成田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060801" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町二之宮
+    a mo:町域 ;
     rdfs:label "御坂町二之宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060807" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市御坂町八千蔵
+    a mo:町域 ;
     rdfs:label "御坂町八千蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060806" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町大間田
+    a mo:町域 ;
     rdfs:label "八代町大間田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060825" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町岡
+    a mo:町域 ;
     rdfs:label "八代町岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060834" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町北
+    a mo:町域 ;
     rdfs:label "八代町北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060821" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町高家
+    a mo:町域 ;
     rdfs:label "八代町高家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060831" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町竹居
+    a mo:町域 ;
     rdfs:label "八代町竹居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060832" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町永井
+    a mo:町域 ;
     rdfs:label "八代町永井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060823" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町奈良原
+    a mo:町域 ;
     rdfs:label "八代町奈良原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060833" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町増利
+    a mo:町域 ;
     rdfs:label "八代町増利"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060824" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町南
+    a mo:町域 ;
     rdfs:label "八代町南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060822" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県笛吹市八代町米倉
+    a mo:町域 ;
     rdfs:label "八代町米倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4060835" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市
     rdfs:label "上野原市"@ja ;
@@ -3084,88 +4267,130 @@ mr:JP_山梨県上野原市
 a mo:GeoEntity .
 
 mr:JP_山梨県上野原市秋山
+    a mo:町域 ;
     rdfs:label "秋山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010201" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市芦垣
+    a mo:町域 ;
     rdfs:label "芦垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090135" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市新田
+    a mo:町域 ;
     rdfs:label "新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090113" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市犬目
+    a mo:町域 ;
     rdfs:label "犬目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090124" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市上野原
+    a mo:町域 ;
     rdfs:label "上野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090112" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市大椚
+    a mo:町域 ;
     rdfs:label "大椚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090134" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市大倉
+    a mo:町域 ;
     rdfs:label "大倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090138" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市大曽根
+    a mo:町域 ;
     rdfs:label "大曽根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090131" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市大野
+    a mo:町域 ;
     rdfs:label "大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090123" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市川合
+    a mo:町域 ;
     rdfs:label "川合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090122" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市桑久保
+    a mo:町域 ;
     rdfs:label "桑久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090136" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市コモアしおつ
+    a mo:町域 ;
     rdfs:label "コモアしおつ"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090126" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市西原
+    a mo:町域 ;
     rdfs:label "西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090141" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市四方津
+    a mo:町域 ;
     rdfs:label "四方津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090121" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市鶴川
+    a mo:町域 ;
     rdfs:label "鶴川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090132" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市鶴島
+    a mo:町域 ;
     rdfs:label "鶴島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090114" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市野田尻
+    a mo:町域 ;
     rdfs:label "野田尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090125" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市松留
+    a mo:町域 ;
     rdfs:label "松留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090115" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市八ツ沢
+    a mo:町域 ;
     rdfs:label "八ツ沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090133" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市棡原
+    a mo:町域 ;
     rdfs:label "棡原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090111" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県上野原市和見
+    a mo:町域 ;
     rdfs:label "和見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090137" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市
     rdfs:label "甲州市"@ja ;
@@ -3217,211 +4442,316 @@ mr:JP_山梨県甲州市
 a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山赤尾
+    a mo:町域 ;
     rdfs:label "塩山赤尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040033" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山一之瀬高橋
+    a mo:町域 ;
     rdfs:label "塩山一之瀬高橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山牛奥
+    a mo:町域 ;
     rdfs:label "塩山牛奥"@ja ;
     mo:SubRegion mr:JP_山梨県甲州市塩山牛奥奥野田開拓 ;
     mo:SubRegion mr:JP_山梨県甲州市塩山牛奥嵯峨塩開拓 ;
     mo:SubRegion mr:JP_山梨県甲州市塩山牛奥嵯峨塩温泉 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091321" ;
+    mo:JP_郵便番号 "4040034" ;
+    mo:JP_郵便番号 "4091213" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山牛奥奥野田開拓
     rdfs:label "奥野田開拓"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "4091213" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山牛奥嵯峨塩開拓
     rdfs:label "嵯峨塩開拓"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "4091213" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山牛奥嵯峨塩温泉
     rdfs:label "嵯峨塩温泉"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "4091213" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山小屋敷
+    a mo:町域 ;
     rdfs:label "塩山小屋敷"@ja ;
     mo:SubRegion mr:JP_山梨県甲州市塩山小屋敷滑沢 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040211" ;
+    mo:JP_郵便番号 "4040053" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山小屋敷滑沢
     rdfs:label "滑沢"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "4040211" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山上粟生野
+    a mo:町域 ;
     rdfs:label "塩山上粟生野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040031" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山上井尻
+    a mo:町域 ;
     rdfs:label "塩山上井尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040046" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山上於曽
+    a mo:町域 ;
     rdfs:label "塩山上於曽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040042" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山上小田原
+    a mo:町域 ;
     rdfs:label "塩山上小田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040026" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山上塩後
+    a mo:町域 ;
     rdfs:label "塩山上塩後"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040045" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山上萩原
+    a mo:町域 ;
     rdfs:label "塩山上萩原"@ja ;
     mo:SubRegion mr:JP_山梨県甲州市塩山上萩原すずらん荘 ;
     mo:SubRegion mr:JP_山梨県甲州市塩山上萩原東電上部ダム ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091211" ;
+    mo:JP_郵便番号 "4040022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山上萩原すずらん荘
     rdfs:label "すずらん荘"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "4091211" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山上萩原東電上部ダム
     rdfs:label "東電上部ダム"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "4091211" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山西広門田
+    a mo:町域 ;
     rdfs:label "塩山西広門田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040037" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山熊野
+    a mo:町域 ;
     rdfs:label "塩山熊野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040036" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山下粟生野
+    a mo:町域 ;
     rdfs:label "塩山下粟生野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040032" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山下於曽
+    a mo:町域 ;
     rdfs:label "塩山下於曽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040043" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山下小田原
+    a mo:町域 ;
     rdfs:label "塩山下小田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040025" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山下塩後
+    a mo:町域 ;
     rdfs:label "塩山下塩後"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040044" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山下萩原
+    a mo:町域 ;
     rdfs:label "塩山下萩原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040024" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山下柚木
+    a mo:町域 ;
     rdfs:label "塩山下柚木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040055" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山竹森
+    a mo:町域 ;
     rdfs:label "塩山竹森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040051" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山千野
+    a mo:町域 ;
     rdfs:label "塩山千野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040041" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山中萩原
+    a mo:町域 ;
     rdfs:label "塩山中萩原"@ja ;
     mo:SubRegion mr:JP_山梨県甲州市塩山中萩原日川小屋 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091212" ;
+    mo:JP_郵便番号 "4040023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山中萩原日川小屋
     rdfs:label "日川小屋"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "4091212" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山西野原
+    a mo:町域 ;
     rdfs:label "塩山西野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040035" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山平沢
+    a mo:町域 ;
     rdfs:label "塩山平沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040052" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山福生里
+    a mo:町域 ;
     rdfs:label "塩山福生里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040056" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山藤木
+    a mo:町域 ;
     rdfs:label "塩山藤木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040054" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市塩山三日市場
+    a mo:町域 ;
     rdfs:label "塩山三日市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4040047" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町小佐手
+    a mo:町域 ;
     rdfs:label "勝沼町小佐手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091303" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町勝沼
+    a mo:町域 ;
     rdfs:label "勝沼町勝沼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091316" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町上岩崎
+    a mo:町域 ;
     rdfs:label "勝沼町上岩崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091312" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町休息
+    a mo:町域 ;
     rdfs:label "勝沼町休息"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091304" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町下岩崎
+    a mo:町域 ;
     rdfs:label "勝沼町下岩崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091313" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町等々力
+    a mo:町域 ;
     rdfs:label "勝沼町等々力"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091315" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町中原
+    a mo:町域 ;
     rdfs:label "勝沼町中原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091301" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町菱山
+    a mo:町域 ;
     rdfs:label "勝沼町菱山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091302" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町深沢
+    a mo:町域 ;
     rdfs:label "勝沼町深沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091311" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町藤井
+    a mo:町域 ;
     rdfs:label "勝沼町藤井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091314" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町山
+    a mo:町域 ;
     rdfs:label "勝沼町山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091306" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市勝沼町綿塚
+    a mo:町域 ;
     rdfs:label "勝沼町綿塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091305" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市大和町田野
+    a mo:町域 ;
     rdfs:label "大和町田野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091202" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市大和町鶴瀬
+    a mo:町域 ;
     rdfs:label "大和町鶴瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091205" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市大和町木賊
+    a mo:町域 ;
     rdfs:label "大和町木賊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091201" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市大和町初鹿野
+    a mo:町域 ;
     rdfs:label "大和町初鹿野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091203" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県甲州市大和町日影
+    a mo:町域 ;
     rdfs:label "大和町日影"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4091204" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市
     rdfs:label "中央市"@ja ;
@@ -3457,112 +4787,166 @@ mr:JP_山梨県中央市
 a mo:GeoEntity .
 
 mr:JP_山梨県中央市浅利
+    a mo:町域 ;
     rdfs:label "浅利"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001514" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市一町畑
+    a mo:町域 ;
     rdfs:label "一町畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093813" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市井之口
+    a mo:町域 ;
     rdfs:label "井之口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093804" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市今福
+    a mo:町域 ;
     rdfs:label "今福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093834" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市今福新田
+    a mo:町域 ;
     rdfs:label "今福新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093835" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市臼井阿原
+    a mo:町域 ;
     rdfs:label "臼井阿原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093844" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市大田和
+    a mo:町域 ;
     rdfs:label "大田和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093831" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市大鳥居
+    a mo:町域 ;
     rdfs:label "大鳥居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001513" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市乙黒
+    a mo:町域 ;
     rdfs:label "乙黒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093812" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市上三條
+    a mo:町域 ;
     rdfs:label "上三條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093823" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市木原
+    a mo:町域 ;
     rdfs:label "木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001511" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市極楽寺
+    a mo:町域 ;
     rdfs:label "極楽寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093811" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市下河東
+    a mo:町域 ;
     rdfs:label "下河東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093821" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市下三條
+    a mo:町域 ;
     rdfs:label "下三條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093822" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市関原
+    a mo:町域 ;
     rdfs:label "関原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001512" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市高部
+    a mo:町域 ;
     rdfs:label "高部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4001515" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市中楯
+    a mo:町域 ;
     rdfs:label "中楯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093801" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市成島
+    a mo:町域 ;
     rdfs:label "成島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093815" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市西新居
+    a mo:町域 ;
     rdfs:label "西新居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093802" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市西花輪
+    a mo:町域 ;
     rdfs:label "西花輪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093843" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市東花輪
+    a mo:町域 ;
     rdfs:label "東花輪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093842" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市藤巻
+    a mo:町域 ;
     rdfs:label "藤巻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093833" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市布施
+    a mo:町域 ;
     rdfs:label "布施"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093841" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市馬籠
+    a mo:町域 ;
     rdfs:label "馬籠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093832" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市町之田
+    a mo:町域 ;
     rdfs:label "町之田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093814" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市山之神
+    a mo:町域 ;
     rdfs:label "山之神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093845" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中央市若宮
+    a mo:町域 ;
     rdfs:label "若宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093803" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町
     rdfs:label "西八代郡市川三郷町"@ja ;
@@ -3595,100 +4979,148 @@ mr:JP_山梨県西八代郡市川三郷町
 a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町市川大門
+    a mo:町域 ;
     rdfs:label "市川大門"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093601" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町岩下
+    a mo:町域 ;
     rdfs:label "岩下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093234" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町岩間
+    a mo:町域 ;
     rdfs:label "岩間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093244" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町印沢
+    a mo:町域 ;
     rdfs:label "印沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093607" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093612" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町大塚
+    a mo:町域 ;
     rdfs:label "大塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093611" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町落居
+    a mo:町域 ;
     rdfs:label "落居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093231" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町鴨狩津向
+    a mo:町域 ;
     rdfs:label "鴨狩津向"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093243" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町楠甫
+    a mo:町域 ;
     rdfs:label "楠甫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093245" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町黒沢
+    a mo:町域 ;
     rdfs:label "黒沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093603" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町五八
+    a mo:町域 ;
     rdfs:label "五八"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093233" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町三帳
+    a mo:町域 ;
     rdfs:label "三帳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093622" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町下芦川
+    a mo:町域 ;
     rdfs:label "下芦川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093621" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町下大鳥居
+    a mo:町域 ;
     rdfs:label "下大鳥居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093605" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町高田
+    a mo:町域 ;
     rdfs:label "高田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093606" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町高萩
+    a mo:町域 ;
     rdfs:label "高萩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093623" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町葛籠沢
+    a mo:町域 ;
     rdfs:label "葛籠沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093241" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町寺所
+    a mo:町域 ;
     rdfs:label "寺所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093232" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093625" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町垈
+    a mo:町域 ;
     rdfs:label "垈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093624" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町畑熊
+    a mo:町域 ;
     rdfs:label "畑熊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093626" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町八之尻
+    a mo:町域 ;
     rdfs:label "八之尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093604" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町宮原
+    a mo:町域 ;
     rdfs:label "宮原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093242" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県西八代郡市川三郷町山保
+    a mo:町域 ;
     rdfs:label "山保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093602" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町
     rdfs:label "南巨摩郡早川町"@ja ;
@@ -3718,88 +5150,130 @@ mr:JP_山梨県南巨摩郡早川町
 a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町赤沢
+    a mo:町域 ;
     rdfs:label "赤沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092733" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町雨畑
+    a mo:町域 ;
     rdfs:label "雨畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092734" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町新倉
+    a mo:町域 ;
     rdfs:label "新倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092703" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町大島
+    a mo:町域 ;
     rdfs:label "大島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092731" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町大原野
+    a mo:町域 ;
     rdfs:label "大原野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092704" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町京ケ島
+    a mo:町域 ;
     rdfs:label "京ケ島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092715" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町草塩
+    a mo:町域 ;
     rdfs:label "草塩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092714" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町榑坪
+    a mo:町域 ;
     rdfs:label "榑坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092723" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町高住
+    a mo:町域 ;
     rdfs:label "高住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092732" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町小縄
+    a mo:町域 ;
     rdfs:label "小縄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092725" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町笹走
+    a mo:町域 ;
     rdfs:label "笹走"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092722" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町塩之上
+    a mo:町域 ;
     rdfs:label "塩之上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092721" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町千須和
+    a mo:町域 ;
     rdfs:label "千須和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092726" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町黒桂
+    a mo:町域 ;
     rdfs:label "黒桂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092711" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町奈良田
+    a mo:町域 ;
     rdfs:label "奈良田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092701" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町西之宮
+    a mo:町域 ;
     rdfs:label "西之宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092712" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町初鹿島
+    a mo:町域 ;
     rdfs:label "初鹿島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092724" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町早川
+    a mo:町域 ;
     rdfs:label "早川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092705" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町保
+    a mo:町域 ;
     rdfs:label "保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092713" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町薬袋
+    a mo:町域 ;
     rdfs:label "薬袋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092727" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡早川町湯島
+    a mo:町域 ;
     rdfs:label "湯島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092702" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町
     rdfs:label "南巨摩郡身延町"@ja ;
@@ -3889,328 +5363,490 @@ mr:JP_山梨県南巨摩郡身延町
 a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町相又
+    a mo:町域 ;
     rdfs:label "相又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092536" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町粟倉
+    a mo:町域 ;
     rdfs:label "粟倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092521" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町飯富
+    a mo:町域 ;
     rdfs:label "飯富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093423" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町市之瀬
+    a mo:町域 ;
     rdfs:label "市之瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092938" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町一色
+    a mo:町域 ;
     rdfs:label "一色"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092937" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町伊沼
+    a mo:町域 ;
     rdfs:label "伊沼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093424" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町岩欠
+    a mo:町域 ;
     rdfs:label "岩欠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092933" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町上之平
+    a mo:町域 ;
     rdfs:label "上之平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092947" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町梅平
+    a mo:町域 ;
     rdfs:label "梅平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092531" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町江尻窪
+    a mo:町域 ;
     rdfs:label "江尻窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093434" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大炊平
+    a mo:町域 ;
     rdfs:label "大炊平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092934" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大磯小磯
+    a mo:町域 ;
     rdfs:label "大磯小磯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093111" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大崩
+    a mo:町域 ;
     rdfs:label "大崩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092406" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大塩
+    a mo:町域 ;
     rdfs:label "大塩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093311" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大島
+    a mo:町域 ;
     rdfs:label "大島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092415" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大城
+    a mo:町域 ;
     rdfs:label "大城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092537" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大垈
+    a mo:町域 ;
     rdfs:label "大垈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092404" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大野
+    a mo:町域 ;
     rdfs:label "大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092532" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大山
+    a mo:町域 ;
     rdfs:label "大山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093121" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町遅沢
+    a mo:町域 ;
     rdfs:label "遅沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093433" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町小田船原
+    a mo:町域 ;
     rdfs:label "小田船原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092539" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町帯金
+    a mo:町域 ;
     rdfs:label "帯金"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092403" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町折門
+    a mo:町域 ;
     rdfs:label "折門"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093101" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町門野
+    a mo:町域 ;
     rdfs:label "門野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092538" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町釜額
+    a mo:町域 ;
     rdfs:label "釜額"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093105" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町上田原
+    a mo:町域 ;
     rdfs:label "上田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093118" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町上八木沢
+    a mo:町域 ;
     rdfs:label "上八木沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092401" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町川向
+    a mo:町域 ;
     rdfs:label "川向"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092943" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町北川
+    a mo:町域 ;
     rdfs:label "北川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092931" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町清沢
+    a mo:町域 ;
     rdfs:label "清沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092935" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町切石
+    a mo:町域 ;
     rdfs:label "切石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093304" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町切房木
+    a mo:町域 ;
     rdfs:label "切房木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093115" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町久成
+    a mo:町域 ;
     rdfs:label "久成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093312" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町久保
+    a mo:町域 ;
     rdfs:label "久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093122" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町熊沢
+    a mo:町域 ;
     rdfs:label "熊沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093123" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町車田
+    a mo:町域 ;
     rdfs:label "車田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093116" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町芝草
+    a mo:町域 ;
     rdfs:label "芝草"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093112" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町下田原
+    a mo:町域 ;
     rdfs:label "下田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093305" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町下部
+    a mo:町域 ;
     rdfs:label "下部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092942" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町下八木沢
+    a mo:町域 ;
     rdfs:label "下八木沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092402" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町下山
+    a mo:町域 ;
     rdfs:label "下山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092522" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町杉山
+    a mo:町域 ;
     rdfs:label "杉山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092932" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町清子
+    a mo:町域 ;
     rdfs:label "清子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092533" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町瀬戸
+    a mo:町域 ;
     rdfs:label "瀬戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093107" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町大子
+    a mo:町域 ;
     rdfs:label "大子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092946" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町角打
+    a mo:町域 ;
     rdfs:label "角打"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092412" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町椿草里
+    a mo:町域 ;
     rdfs:label "椿草里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092405" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町手打沢
+    a mo:町域 ;
     rdfs:label "手打沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093302" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町寺沢
+    a mo:町域 ;
     rdfs:label "寺沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093303" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町樋田
+    a mo:町域 ;
     rdfs:label "樋田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093124" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町常葉
+    a mo:町域 ;
     rdfs:label "常葉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092936" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町中之倉
+    a mo:町域 ;
     rdfs:label "中之倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093104" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093432" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町梨子
+    a mo:町域 ;
     rdfs:label "梨子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093435" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町西嶋
+    a mo:町域 ;
     rdfs:label "西嶋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093301" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町根子
+    a mo:町域 ;
     rdfs:label "根子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093103" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町波木井
+    a mo:町域 ;
     rdfs:label "波木井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092523" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町波高島
+    a mo:町域 ;
     rdfs:label "波高島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092945" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町八坂
+    a mo:町域 ;
     rdfs:label "八坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093102" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町日向南沢
+    a mo:町域 ;
     rdfs:label "日向南沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093307" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町樋之上
+    a mo:町域 ;
     rdfs:label "樋之上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092414" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町平須
+    a mo:町域 ;
     rdfs:label "平須"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093313" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町福原
+    a mo:町域 ;
     rdfs:label "福原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093436" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町古関
+    a mo:町域 ;
     rdfs:label "古関"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093106" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町古長谷
+    a mo:町域 ;
     rdfs:label "古長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093437" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町丸滝
+    a mo:町域 ;
     rdfs:label "丸滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092411" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町三沢
+    a mo:町域 ;
     rdfs:label "三沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093117" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町水船
+    a mo:町域 ;
     rdfs:label "水船"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093113" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町道
+    a mo:町域 ;
     rdfs:label "道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093114" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町光子沢
+    a mo:町域 ;
     rdfs:label "光子沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092534" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町嶺
+    a mo:町域 ;
     rdfs:label "嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093125" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町身延
+    a mo:町域 ;
     rdfs:label "身延"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092524" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町宮木
+    a mo:町域 ;
     rdfs:label "宮木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093422" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町桃ケ窪
+    a mo:町域 ;
     rdfs:label "桃ケ窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092944" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町矢細工
+    a mo:町域 ;
     rdfs:label "矢細工"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093431" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町山家
+    a mo:町域 ;
     rdfs:label "山家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093126" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町湯之奥
+    a mo:町域 ;
     rdfs:label "湯之奥"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092941" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町八日市場
+    a mo:町域 ;
     rdfs:label "八日市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093421" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町夜子沢
+    a mo:町域 ;
     rdfs:label "夜子沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093306" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町横根中
+    a mo:町域 ;
     rdfs:label "横根中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092535" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡身延町和田
+    a mo:町域 ;
     rdfs:label "和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092413" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町
     rdfs:label "南巨摩郡南部町"@ja ;
@@ -4234,64 +5870,94 @@ mr:JP_山梨県南巨摩郡南部町
 a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町井出
+    a mo:町域 ;
     rdfs:label "井出"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092304" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町内船
+    a mo:町域 ;
     rdfs:label "内船"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092305" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町大和
+    a mo:町域 ;
     rdfs:label "大和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092213" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町楮根
+    a mo:町域 ;
     rdfs:label "楮根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092101" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町上佐野
+    a mo:町域 ;
     rdfs:label "上佐野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092301" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町塩沢
+    a mo:町域 ;
     rdfs:label "塩沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092214" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町下佐野
+    a mo:町域 ;
     rdfs:label "下佐野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092302" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町十島
+    a mo:町域 ;
     rdfs:label "十島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092303" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町中野
+    a mo:町域 ;
     rdfs:label "中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092211" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町成島
+    a mo:町域 ;
     rdfs:label "成島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092216" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町南部
+    a mo:町域 ;
     rdfs:label "南部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092212" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町福士
+    a mo:町域 ;
     rdfs:label "福士"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092102" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町本郷
+    a mo:町域 ;
     rdfs:label "本郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092217" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町万沢
+    a mo:町域 ;
     rdfs:label "万沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092103" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡南部町柳島
+    a mo:町域 ;
     rdfs:label "柳島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4092215" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町
     rdfs:label "南巨摩郡富士川町"@ja ;
@@ -4319,80 +5985,118 @@ mr:JP_山梨県南巨摩郡富士川町
 a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町青柳町
+    a mo:町域 ;
     rdfs:label "青柳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000501" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町駅前通
+    a mo:町域 ;
     rdfs:label "駅前通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000602" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町大椚
+    a mo:町域 ;
     rdfs:label "大椚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000506" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町大久保
+    a mo:町域 ;
     rdfs:label "大久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000511" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町鰍沢
+    a mo:町域 ;
     rdfs:label "鰍沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000601" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町鹿島
+    a mo:町域 ;
     rdfs:label "鹿島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000603" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町小林
+    a mo:町域 ;
     rdfs:label "小林"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000504" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町小室
+    a mo:町域 ;
     rdfs:label "小室"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000512" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町最勝寺
+    a mo:町域 ;
     rdfs:label "最勝寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000502" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町十谷
+    a mo:町域 ;
     rdfs:label "十谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000606" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町高下
+    a mo:町域 ;
     rdfs:label "高下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000513" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町長知沢
+    a mo:町域 ;
     rdfs:label "長知沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000608" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町舂米
+    a mo:町域 ;
     rdfs:label "舂米"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000515" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町天神中條
+    a mo:町域 ;
     rdfs:label "天神中條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000503" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町鳥屋
+    a mo:町域 ;
     rdfs:label "鳥屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000607" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町長澤
+    a mo:町域 ;
     rdfs:label "長澤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000505" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町箱原
+    a mo:町域 ;
     rdfs:label "箱原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000604" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町平林
+    a mo:町域 ;
     rdfs:label "平林"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000514" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南巨摩郡富士川町柳川
+    a mo:町域 ;
     rdfs:label "柳川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4000605" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町
     rdfs:label "中巨摩郡昭和町"@ja ;
@@ -4412,48 +6116,70 @@ mr:JP_山梨県中巨摩郡昭和町
 a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町飯喰
+    a mo:町域 ;
     rdfs:label "飯喰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093852" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町押越
+    a mo:町域 ;
     rdfs:label "押越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093864" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町河西
+    a mo:町域 ;
     rdfs:label "河西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093851" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町河東中島
+    a mo:町域 ;
     rdfs:label "河東中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093863" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町上河東
+    a mo:町域 ;
     rdfs:label "上河東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093862" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町紙漉阿原
+    a mo:町域 ;
     rdfs:label "紙漉阿原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093861" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町西条
+    a mo:町域 ;
     rdfs:label "西条"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093866" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町西条新田
+    a mo:町域 ;
     rdfs:label "西条新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093865" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町清水新居
+    a mo:町域 ;
     rdfs:label "清水新居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093867" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町築地新居
+    a mo:町域 ;
     rdfs:label "築地新居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093853" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県中巨摩郡昭和町築地新田
+    a mo:町域 ;
     rdfs:label "築地新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4093854" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村
     rdfs:label "南都留郡道志村"@ja ;
@@ -4488,108 +6214,160 @@ mr:JP_山梨県南都留郡道志村
 a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村板橋
+    a mo:町域 ;
     rdfs:label "板橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020225" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村大栗
+    a mo:町域 ;
     rdfs:label "大栗"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020207" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村大指
+    a mo:町域 ;
     rdfs:label "大指"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020215" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村大野
+    a mo:町域 ;
     rdfs:label "大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020202" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村大室指
+    a mo:町域 ;
     rdfs:label "大室指"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020204" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村川原畑
+    a mo:町域 ;
     rdfs:label "川原畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020214" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村釜之前
+    a mo:町域 ;
     rdfs:label "釜之前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020216" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村上白井平
+    a mo:町域 ;
     rdfs:label "上白井平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020227" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村上善之木
+    a mo:町域 ;
     rdfs:label "上善之木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020223" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村上中山
+    a mo:町域 ;
     rdfs:label "上中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020221" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村川村
+    a mo:町域 ;
     rdfs:label "川村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020224" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村久保
+    a mo:町域 ;
     rdfs:label "久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020203" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村小善地
+    a mo:町域 ;
     rdfs:label "小善地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020206" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村下白井平
+    a mo:町域 ;
     rdfs:label "下白井平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020226" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村下善之木
+    a mo:町域 ;
     rdfs:label "下善之木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020222" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村下中山
+    a mo:町域 ;
     rdfs:label "下中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020219" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村竹之本
+    a mo:町域 ;
     rdfs:label "竹之本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020209" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村月夜野
+    a mo:町域 ;
     rdfs:label "月夜野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020201" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村椿
+    a mo:町域 ;
     rdfs:label "椿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020205" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村中神地
+    a mo:町域 ;
     rdfs:label "中神地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020218" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村長又
+    a mo:町域 ;
     rdfs:label "長又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020228" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村西和出村
+    a mo:町域 ;
     rdfs:label "西和出村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020212" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村馬場
+    a mo:町域 ;
     rdfs:label "馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020208" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村東神地
+    a mo:町域 ;
     rdfs:label "東神地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020217" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村東和出村
+    a mo:町域 ;
     rdfs:label "東和出村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020211" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡道志村谷相
+    a mo:町域 ;
     rdfs:label "谷相"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4020213" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡西桂町
     rdfs:label "南都留郡西桂町"@ja ;
@@ -4601,16 +6379,22 @@ mr:JP_山梨県南都留郡西桂町
 a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡西桂町小沼
+    a mo:町域 ;
     rdfs:label "小沼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030022" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡西桂町倉見
+    a mo:町域 ;
     rdfs:label "倉見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030023" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡西桂町下暮地
+    a mo:町域 ;
     rdfs:label "下暮地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4030021" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡忍野村
     rdfs:label "南都留郡忍野村"@ja ;
@@ -4621,12 +6405,16 @@ mr:JP_山梨県南都留郡忍野村
 a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡忍野村内野
+    a mo:町域 ;
     rdfs:label "内野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010512" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡忍野村忍草
+    a mo:町域 ;
     rdfs:label "忍草"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010511" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡山中湖村
     rdfs:label "南都留郡山中湖村"@ja ;
@@ -4637,12 +6425,16 @@ mr:JP_山梨県南都留郡山中湖村
 a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡山中湖村平野
+    a mo:町域 ;
     rdfs:label "平野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010502" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡山中湖村山中
+    a mo:町域 ;
     rdfs:label "山中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010501" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡鳴沢村
     rdfs:label "南都留郡鳴沢村"@ja ;
@@ -4671,60 +6463,88 @@ mr:JP_山梨県南都留郡富士河口湖町
 a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町浅川
+    a mo:町域 ;
     rdfs:label "浅川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010303" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町大嵐
+    a mo:町域 ;
     rdfs:label "大嵐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010335" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町大石
+    a mo:町域 ;
     rdfs:label "大石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010305" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町勝山
+    a mo:町域 ;
     rdfs:label "勝山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010310" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町河口
+    a mo:町域 ;
     rdfs:label "河口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010304" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町小立
+    a mo:町域 ;
     rdfs:label "小立"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010302" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町西湖
+    a mo:町域 ;
     rdfs:label "西湖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010332" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町西湖西
+    a mo:町域 ;
     rdfs:label "西湖西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010333" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町西湖南
+    a mo:町域 ;
     rdfs:label "西湖南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010334" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町精進
+    a mo:町域 ;
     rdfs:label "精進"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010336" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町長浜
+    a mo:町域 ;
     rdfs:label "長浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010331" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町富士ケ嶺
+    a mo:町域 ;
     rdfs:label "富士ケ嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010338" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町船津
+    a mo:町域 ;
     rdfs:label "船津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010301" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県南都留郡富士河口湖町本栖
+    a mo:町域 ;
     rdfs:label "本栖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4010337" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡小菅村
     rdfs:label "北都留郡小菅村"@ja ;
@@ -4753,58 +6573,86 @@ mr:JP_山梨県北都留郡丹波山村
 a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村奥秋
+    a mo:町域 ;
     rdfs:label "奥秋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090301" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村押垣外
+    a mo:町域 ;
     rdfs:label "押垣外"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090306" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村御祭
+    a mo:町域 ;
     rdfs:label "御祭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090314" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村親川
+    a mo:町域 ;
     rdfs:label "親川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090313" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村上組
+    a mo:町域 ;
     rdfs:label "上組"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090302" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村鴨沢
+    a mo:町域 ;
     rdfs:label "鴨沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090318" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村小袖
+    a mo:町域 ;
     rdfs:label "小袖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090317" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村下組
+    a mo:町域 ;
     rdfs:label "下組"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090304" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村杉奈久保
+    a mo:町域 ;
     rdfs:label "杉奈久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090315" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村高尾
+    a mo:町域 ;
     rdfs:label "高尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090305" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村高畑
+    a mo:町域 ;
     rdfs:label "高畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090312" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村所畑
+    a mo:町域 ;
     rdfs:label "所畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090316" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村中組
+    a mo:町域 ;
     rdfs:label "中組"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090303" ;
+a mo:GeoEntity .
 
 mr:JP_山梨県北都留郡丹波山村保之瀬
+    a mo:町域 ;
     rdfs:label "保之瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "4090311" ;
+a mo:GeoEntity .
 
