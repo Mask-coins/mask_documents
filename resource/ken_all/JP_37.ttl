@@ -223,759 +223,1140 @@ mr:JP_香川県高松市
 a mo:GeoEntity .
 
 mr:JP_香川県高松市茜町
+    a mo:町域 ;
     rdfs:label "茜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600002" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市朝日新町
+    a mo:町域 ;
     rdfs:label "朝日新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600064" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市朝日町
+    a mo:町域 ;
     rdfs:label "朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600065" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市庵治町
+    a mo:町域 ;
     rdfs:label "庵治町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610130" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市飯田町
+    a mo:町域 ;
     rdfs:label "飯田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618033" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市生島町
+    a mo:町域 ;
     rdfs:label "生島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618002" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市井口町
+    a mo:町域 ;
     rdfs:label "井口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600038" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市池田町
+    a mo:町域 ;
     rdfs:label "池田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610444" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市一宮町
+    a mo:町域 ;
     rdfs:label "一宮町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618084" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市今里町
+    a mo:町域 ;
     rdfs:label "今里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600078" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市今新町
+    a mo:町域 ;
     rdfs:label "今新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600043" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市植松町
+    a mo:町域 ;
     rdfs:label "植松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618005" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市内町
+    a mo:町域 ;
     rdfs:label "内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600034" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市円座町
+    a mo:町域 ;
     rdfs:label "円座町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618044" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市扇町
+    a mo:町域 ;
     rdfs:label "扇町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市太田上町
+    a mo:町域 ;
     rdfs:label "太田上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618074" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市太田下町
+    a mo:町域 ;
     rdfs:label "太田下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618073" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市岡本町
+    a mo:町域 ;
     rdfs:label "岡本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618047" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市男木町
+    a mo:町域 ;
     rdfs:label "男木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600091" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市小村町
+    a mo:町域 ;
     rdfs:label "小村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610431" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香川町浅野
+    a mo:町域 ;
     rdfs:label "香川町浅野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611703" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香川町大野
+    a mo:町域 ;
     rdfs:label "香川町大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611701" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香川町川内原
+    a mo:町域 ;
     rdfs:label "香川町川内原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611704" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香川町川東上
+    a mo:町域 ;
     rdfs:label "香川町川東上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611706" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香川町川東下
+    a mo:町域 ;
     rdfs:label "香川町川東下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611705" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香川町寺井
+    a mo:町域 ;
     rdfs:label "香川町寺井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611702" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香川町東谷
+    a mo:町域 ;
     rdfs:label "香川町東谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611707" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香川町安原下
+    a mo:町域 ;
     rdfs:label "香川町安原下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611708" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鍛冶屋町
+    a mo:町域 ;
     rdfs:label "鍛冶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600028" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市春日町
+    a mo:町域 ;
     rdfs:label "春日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610101" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市片原町
+    a mo:町域 ;
     rdfs:label "片原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600040" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鹿角町
+    a mo:町域 ;
     rdfs:label "鹿角町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618082" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市上天神町
+    a mo:町域 ;
     rdfs:label "上天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618056" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市上之町
+    a mo:町域 ;
     rdfs:label "上之町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618064" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市上林町
+    a mo:町域 ;
     rdfs:label "上林町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610302" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市上福岡町
+    a mo:町域 ;
     rdfs:label "上福岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600077" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市紙町
+    a mo:町域 ;
     rdfs:label "紙町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618055" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市亀井町
+    a mo:町域 ;
     rdfs:label "亀井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600050" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市亀岡町
+    a mo:町域 ;
     rdfs:label "亀岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600006" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市亀田町
+    a mo:町域 ;
     rdfs:label "亀田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610323" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市亀田南町
+    a mo:町域 ;
     rdfs:label "亀田南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610432" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市川島東町
+    a mo:町域 ;
     rdfs:label "川島東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610443" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市川島本町
+    a mo:町域 ;
     rdfs:label "川島本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610442" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市川部町
+    a mo:町域 ;
     rdfs:label "川部町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618046" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市瓦町
+    a mo:町域 ;
     rdfs:label "瓦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600052" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市観光町
+    a mo:町域 ;
     rdfs:label "観光町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600076" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市観光通
+    a mo:町域 ;
     rdfs:label "観光通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600055" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市木太町
+    a mo:町域 ;
     rdfs:label "木太町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600080" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市北浜町
+    a mo:町域 ;
     rdfs:label "北浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600031" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鬼無町鬼無
+    a mo:町域 ;
     rdfs:label "鬼無町鬼無"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618026" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鬼無町是竹
+    a mo:町域 ;
     rdfs:label "鬼無町是竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鬼無町佐藤
+    a mo:町域 ;
     rdfs:label "鬼無町佐藤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618023" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鬼無町佐料
+    a mo:町域 ;
     rdfs:label "鬼無町佐料"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鬼無町藤井
+    a mo:町域 ;
     rdfs:label "鬼無町藤井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618024" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鬼無町山口
+    a mo:町域 ;
     rdfs:label "鬼無町山口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618025" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市楠上町
+    a mo:町域 ;
     rdfs:label "楠上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600075" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香西東町
+    a mo:町域 ;
     rdfs:label "香西東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香西西町
+    a mo:町域 ;
     rdfs:label "香西西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618015" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香西南町
+    a mo:町域 ;
     rdfs:label "香西南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香西北町
+    a mo:町域 ;
     rdfs:label "香西北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香西本町
+    a mo:町域 ;
     rdfs:label "香西本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市郷東町
+    a mo:町域 ;
     rdfs:label "郷東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618031" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香南町池内
+    a mo:町域 ;
     rdfs:label "香南町池内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611405" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香南町岡
+    a mo:町域 ;
     rdfs:label "香南町岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611401" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香南町西庄
+    a mo:町域 ;
     rdfs:label "香南町西庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611406" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香南町由佐
+    a mo:町域 ;
     rdfs:label "香南町由佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611402" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香南町横井
+    a mo:町域 ;
     rdfs:label "香南町横井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611404" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市香南町吉光
+    a mo:町域 ;
     rdfs:label "香南町吉光"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611403" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市国分寺町柏原
+    a mo:町域 ;
     rdfs:label "国分寺町柏原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690105" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市国分寺町国分
+    a mo:町域 ;
     rdfs:label "国分寺町国分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市国分寺町新名
+    a mo:町域 ;
     rdfs:label "国分寺町新名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690104" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市国分寺町新居
+    a mo:町域 ;
     rdfs:label "国分寺町新居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690101" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市国分寺町福家
+    a mo:町域 ;
     rdfs:label "国分寺町福家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690103" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市寿町
+    a mo:町域 ;
     rdfs:label "寿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600023" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市御坊町
+    a mo:町域 ;
     rdfs:label "御坊町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600044" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市紺屋町
+    a mo:町域 ;
     rdfs:label "紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600027" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市西宝町
+    a mo:町域 ;
     rdfs:label "西宝町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600004" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600016" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市桜町
+    a mo:町域 ;
     rdfs:label "桜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600074" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市三条町
+    a mo:町域 ;
     rdfs:label "三条町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618072" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市サンポート
+    a mo:町域 ;
     rdfs:label "サンポート"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600019" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市三名町
+    a mo:町域 ;
     rdfs:label "三名町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618083" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市紫雲町
+    a mo:町域 ;
     rdfs:label "紫雲町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600015" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩上町
+    a mo:町域 ;
     rdfs:label "塩上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600062" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩江町上西乙
+    a mo:町域 ;
     rdfs:label "塩江町上西乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611614" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩江町上西甲
+    a mo:町域 ;
     rdfs:label "塩江町上西甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611613" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩江町安原上
+    a mo:町域 ;
     rdfs:label "塩江町安原上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611611" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩江町安原上東
+    a mo:町域 ;
     rdfs:label "塩江町安原上東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611612" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩江町安原下
+    a mo:町域 ;
     rdfs:label "塩江町安原下"@ja ;
     mo:SubRegion mr:JP_香川県高松市塩江町安原下上小田 ;
     mo:SubRegion mr:JP_香川県高松市塩江町安原下炭谷 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611502" ;
+    mo:JP_郵便番号 "7611503" ;
+    mo:JP_郵便番号 "7611615" ;
+    mo:JP_郵便番号 "7611504" ;
+    mo:JP_郵便番号 "7611501" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩江町安原下上小田
     rdfs:label "上小田"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7611615" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩江町安原下炭谷
     rdfs:label "炭谷"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7611615" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市塩屋町
+    a mo:町域 ;
     rdfs:label "塩屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600047" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市下田井町
+    a mo:町域 ;
     rdfs:label "下田井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610313" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市出作町
+    a mo:町域 ;
     rdfs:label "出作町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618077" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市城東町
+    a mo:町域 ;
     rdfs:label "城東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600036" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市新北町
+    a mo:町域 ;
     rdfs:label "新北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600001" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市神在川窪町
+    a mo:町域 ;
     rdfs:label "神在川窪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市新田町甲
+    a mo:町域 ;
     rdfs:label "新田町甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市新田町乙
+    a mo:町域 ;
     rdfs:label "新田町乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610103" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市末広町
+    a mo:町域 ;
     rdfs:label "末広町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600060" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市菅沢町
+    a mo:町域 ;
     rdfs:label "菅沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7611616" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市瀬戸内町
+    a mo:町域 ;
     rdfs:label "瀬戸内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市十川東町
+    a mo:町域 ;
     rdfs:label "十川東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610434" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市十川西町
+    a mo:町域 ;
     rdfs:label "十川西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610433" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市高松町
+    a mo:町域 ;
     rdfs:label "高松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610104" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市多賀町
+    a mo:町域 ;
     rdfs:label "多賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600063" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市多肥上町
+    a mo:町域 ;
     rdfs:label "多肥上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618076" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市多肥下町
+    a mo:町域 ;
     rdfs:label "多肥下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618075" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市田町
+    a mo:町域 ;
     rdfs:label "田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600053" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市玉藻町
+    a mo:町域 ;
     rdfs:label "玉藻町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600030" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市田村町
+    a mo:町域 ;
     rdfs:label "田村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618057" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市亀水町
+    a mo:町域 ;
     rdfs:label "亀水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618001" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市大工町
+    a mo:町域 ;
     rdfs:label "大工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600042" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市檀紙町
+    a mo:町域 ;
     rdfs:label "檀紙町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618041" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市中央町
+    a mo:町域 ;
     rdfs:label "中央町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600007" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市勅使町
+    a mo:町域 ;
     rdfs:label "勅使町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618058" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市築地町
+    a mo:町域 ;
     rdfs:label "築地町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600061" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鶴市町
+    a mo:町域 ;
     rdfs:label "鶴市町"@ja ;
     mo:SubRegion mr:JP_香川県高松市鶴市町台山 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618032" ;
+    mo:JP_郵便番号 "7600093" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鶴市町台山
     rdfs:label "台山"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7600093" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市鶴屋町
+    a mo:町域 ;
     rdfs:label "鶴屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600035" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市寺井町
+    a mo:町域 ;
     rdfs:label "寺井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618085" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市天神前
+    a mo:町域 ;
     rdfs:label "天神前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600018" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市通町
+    a mo:町域 ;
     rdfs:label "通町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600046" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市常磐町
+    a mo:町域 ;
     rdfs:label "常磐町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600054" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市磨屋町
+    a mo:町域 ;
     rdfs:label "磨屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600026" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市中新町
+    a mo:町域 ;
     rdfs:label "中新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600056" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市中間町
+    a mo:町域 ;
     rdfs:label "中間町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618043" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市中野町
+    a mo:町域 ;
     rdfs:label "中野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600008" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市中山町
+    a mo:町域 ;
     rdfs:label "中山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618004" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市成合町
+    a mo:町域 ;
     rdfs:label "成合町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618081" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市西植田町
+    a mo:町域 ;
     rdfs:label "西植田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610445" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市西内町
+    a mo:町域 ;
     rdfs:label "西内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市西春日町
+    a mo:町域 ;
     rdfs:label "西春日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618051" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市錦町
+    a mo:町域 ;
     rdfs:label "錦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600020" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市西の丸町
+    a mo:町域 ;
     rdfs:label "西の丸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市西ハゼ町
+    a mo:町域 ;
     rdfs:label "西ハゼ町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618053" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市西町
+    a mo:町域 ;
     rdfs:label "西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市西山崎町
+    a mo:町域 ;
     rdfs:label "西山崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618045" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市旅籠町
+    a mo:町域 ;
     rdfs:label "旅籠町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600057" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市花園町
+    a mo:町域 ;
     rdfs:label "花園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600072" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市花ノ宮町
+    a mo:町域 ;
     rdfs:label "花ノ宮町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618063" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市浜ノ町
+    a mo:町域 ;
     rdfs:label "浜ノ町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市林町
+    a mo:町域 ;
     rdfs:label "林町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610301" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市番町
+    a mo:町域 ;
     rdfs:label "番町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600017" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市東植田町
+    a mo:町域 ;
     rdfs:label "東植田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610446" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市東田町
+    a mo:町域 ;
     rdfs:label "東田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600058" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市東ハゼ町
+    a mo:町域 ;
     rdfs:label "東ハゼ町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618054" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市東浜町
+    a mo:町域 ;
     rdfs:label "東浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600037" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市東山崎町
+    a mo:町域 ;
     rdfs:label "東山崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610312" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市百間町
+    a mo:町域 ;
     rdfs:label "百間町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600041" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市兵庫町
+    a mo:町域 ;
     rdfs:label "兵庫町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600024" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市福岡町
+    a mo:町域 ;
     rdfs:label "福岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600066" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市福田町
+    a mo:町域 ;
     rdfs:label "福田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600048" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市藤塚町
+    a mo:町域 ;
     rdfs:label "藤塚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600071" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市伏石町
+    a mo:町域 ;
     rdfs:label "伏石町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618071" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市古新町
+    a mo:町域 ;
     rdfs:label "古新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600025" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市古馬場町
+    a mo:町域 ;
     rdfs:label "古馬場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600045" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市仏生山町甲
+    a mo:町域 ;
     rdfs:label "仏生山町甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618078" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市仏生山町乙
+    a mo:町域 ;
     rdfs:label "仏生山町乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618079" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600032" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市前田東町
+    a mo:町域 ;
     rdfs:label "前田東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610322" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市前田西町
+    a mo:町域 ;
     rdfs:label "前田西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610321" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市松島町
+    a mo:町域 ;
     rdfs:label "松島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600068" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市松並町
+    a mo:町域 ;
     rdfs:label "松並町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618052" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市松縄町
+    a mo:町域 ;
     rdfs:label "松縄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600079" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市松福町
+    a mo:町域 ;
     rdfs:label "松福町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600067" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市丸亀町
+    a mo:町域 ;
     rdfs:label "丸亀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600029" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市丸の内
+    a mo:町域 ;
     rdfs:label "丸の内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600033" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市三谷町
+    a mo:町域 ;
     rdfs:label "三谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610450" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市南新町
+    a mo:町域 ;
     rdfs:label "南新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600051" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市峰山町
+    a mo:町域 ;
     rdfs:label "峰山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600009" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市御厩町
+    a mo:町域 ;
     rdfs:label "御厩町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618042" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市宮脇町
+    a mo:町域 ;
     rdfs:label "宮脇町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600005" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市牟礼町大町
+    a mo:町域 ;
     rdfs:label "牟礼町大町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610122" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市牟礼町原
+    a mo:町域 ;
     rdfs:label "牟礼町原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610123" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市牟礼町牟礼
+    a mo:町域 ;
     rdfs:label "牟礼町牟礼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610121" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市室新町
+    a mo:町域 ;
     rdfs:label "室新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618062" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市室町
+    a mo:町域 ;
     rdfs:label "室町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7618061" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市女木町
+    a mo:町域 ;
     rdfs:label "女木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600092" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市元山町
+    a mo:町域 ;
     rdfs:label "元山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610311" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市八坂町
+    a mo:町域 ;
     rdfs:label "八坂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600049" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市屋島中町
+    a mo:町域 ;
     rdfs:label "屋島中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610112" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市屋島東町
+    a mo:町域 ;
     rdfs:label "屋島東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610111" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市屋島西町
+    a mo:町域 ;
     rdfs:label "屋島西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610113" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市由良町
+    a mo:町域 ;
     rdfs:label "由良町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610441" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市栗林町
+    a mo:町域 ;
     rdfs:label "栗林町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7600073" ;
+a mo:GeoEntity .
 
 mr:JP_香川県高松市六条町
+    a mo:町域 ;
     rdfs:label "六条町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610303" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市
     rdfs:label "丸亀市"@ja ;
@@ -1077,381 +1458,570 @@ mr:JP_香川県丸亀市
 a mo:GeoEntity .
 
 mr:JP_香川県丸亀市綾歌町岡田上
+    a mo:町域 ;
     rdfs:label "綾歌町岡田上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612401" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市綾歌町岡田下
+    a mo:町域 ;
     rdfs:label "綾歌町岡田下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612402" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市綾歌町岡田東
+    a mo:町域 ;
     rdfs:label "綾歌町岡田東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612404" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市綾歌町岡田西
+    a mo:町域 ;
     rdfs:label "綾歌町岡田西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612403" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市綾歌町栗熊東
+    a mo:町域 ;
     rdfs:label "綾歌町栗熊東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612406" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市綾歌町栗熊西
+    a mo:町域 ;
     rdfs:label "綾歌町栗熊西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612405" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市綾歌町富熊
+    a mo:町域 ;
     rdfs:label "綾歌町富熊"@ja ;
     mo:SubRegion mr:JP_香川県丸亀市綾歌町富熊富士見坂 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612407" ;
+    mo:JP_郵便番号 "7612408" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市綾歌町富熊富士見坂
     rdfs:label "富士見坂"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7612408" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯野町東二
+    a mo:町域 ;
     rdfs:label "飯野町東二"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630084" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯野町東分
+    a mo:町域 ;
     rdfs:label "飯野町東分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630085" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯野町西分
+    a mo:町域 ;
     rdfs:label "飯野町西分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630086" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市一番丁
+    a mo:町域 ;
     rdfs:label "一番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630025" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市今津町
+    a mo:町域 ;
     rdfs:label "今津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630051" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市魚屋町
+    a mo:町域 ;
     rdfs:label "魚屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630006" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市牛島
+    a mo:町域 ;
     rdfs:label "牛島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630231" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市大手町
+    a mo:町域 ;
     rdfs:label "大手町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630034" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市金倉町
+    a mo:町域 ;
     rdfs:label "金倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630053" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市葭町
+    a mo:町域 ;
     rdfs:label "葭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市川西町南
+    a mo:町域 ;
     rdfs:label "川西町南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630092" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市川西町北
+    a mo:町域 ;
     rdfs:label "川西町北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630091" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市瓦町
+    a mo:町域 ;
     rdfs:label "瓦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630002" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市北平山町
+    a mo:町域 ;
     rdfs:label "北平山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630015" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市柞原町
+    a mo:町域 ;
     rdfs:label "柞原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630073" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市九番丁
+    a mo:町域 ;
     rdfs:label "九番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630029" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市郡家町
+    a mo:町域 ;
     rdfs:label "郡家町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630093" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市御供所町
+    a mo:町域 ;
     rdfs:label "御供所町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市米屋町
+    a mo:町域 ;
     rdfs:label "米屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630004" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630048" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市三条町
+    a mo:町域 ;
     rdfs:label "三条町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630094" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市塩屋町
+    a mo:町域 ;
     rdfs:label "塩屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630065" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市七番丁
+    a mo:町域 ;
     rdfs:label "七番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630027" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市十番丁
+    a mo:町域 ;
     rdfs:label "十番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630030" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市城東町
+    a mo:町域 ;
     rdfs:label "城東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市城南町
+    a mo:町域 ;
     rdfs:label "城南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630031" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市城西町
+    a mo:町域 ;
     rdfs:label "城西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630032" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630061" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市塩飽町
+    a mo:町域 ;
     rdfs:label "塩飽町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630024" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市新田町
+    a mo:町域 ;
     rdfs:label "新田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630055" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市新浜町
+    a mo:町域 ;
     rdfs:label "新浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630063" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630045" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市宗古町
+    a mo:町域 ;
     rdfs:label "宗古町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630007" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市田村町
+    a mo:町域 ;
     rdfs:label "田村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630071" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市垂水町
+    a mo:町域 ;
     rdfs:label "垂水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630095" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市津森町
+    a mo:町域 ;
     rdfs:label "津森町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630052" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市手島町
+    a mo:町域 ;
     rdfs:label "手島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630111" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市天満町
+    a mo:町域 ;
     rdfs:label "天満町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630066" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市通町
+    a mo:町域 ;
     rdfs:label "通町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630043" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市富屋町
+    a mo:町域 ;
     rdfs:label "富屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市土居町
+    a mo:町域 ;
     rdfs:label "土居町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市土器町東
+    a mo:町域 ;
     rdfs:label "土器町東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630082" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市土器町西
+    a mo:町域 ;
     rdfs:label "土器町西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630081" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市土器町北
+    a mo:町域 ;
     rdfs:label "土器町北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630083" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市中津町
+    a mo:町域 ;
     rdfs:label "中津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630054" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市中府町
+    a mo:町域 ;
     rdfs:label "中府町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630033" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市南条町
+    a mo:町域 ;
     rdfs:label "南条町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630046" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市西平山町
+    a mo:町域 ;
     rdfs:label "西平山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630041" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市西本町
+    a mo:町域 ;
     rdfs:label "西本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630047" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市八番丁
+    a mo:町域 ;
     rdfs:label "八番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630028" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市浜町
+    a mo:町域 ;
     rdfs:label "浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市原田団地
+    a mo:町域 ;
     rdfs:label "原田団地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630075" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市原田町
+    a mo:町域 ;
     rdfs:label "原田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630074" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯山町上法軍寺
+    a mo:町域 ;
     rdfs:label "飯山町上法軍寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620084" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯山町川原
+    a mo:町域 ;
     rdfs:label "飯山町川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620082" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯山町真時
+    a mo:町域 ;
     rdfs:label "飯山町真時"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620086" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯山町下法軍寺
+    a mo:町域 ;
     rdfs:label "飯山町下法軍寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620083" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯山町西坂元
+    a mo:町域 ;
     rdfs:label "飯山町西坂元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620087" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯山町東小川
+    a mo:町域 ;
     rdfs:label "飯山町東小川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620085" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市飯山町東坂元
+    a mo:町域 ;
     rdfs:label "飯山町東坂元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620081" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市広島町青木
+    a mo:町域 ;
     rdfs:label "広島町青木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630105" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市広島町市井
+    a mo:町域 ;
     rdfs:label "広島町市井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630106" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市広島町江の浦
+    a mo:町域 ;
     rdfs:label "広島町江の浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市広島町小手島
+    a mo:町域 ;
     rdfs:label "広島町小手島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630108" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市広島町釜の越
+    a mo:町域 ;
     rdfs:label "広島町釜の越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630103" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市広島町甲路
+    a mo:町域 ;
     rdfs:label "広島町甲路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630104" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市広島町立石
+    a mo:町域 ;
     rdfs:label "広島町立石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630101" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市広島町茂浦
+    a mo:町域 ;
     rdfs:label "広島町茂浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630107" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市福島町
+    a mo:町域 ;
     rdfs:label "福島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630044" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市富士見町
+    a mo:町域 ;
     rdfs:label "富士見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市風袋町
+    a mo:町域 ;
     rdfs:label "風袋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630001" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市蓬莱町
+    a mo:町域 ;
     rdfs:label "蓬莱町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630062" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本島町生ノ浜
+    a mo:町域 ;
     rdfs:label "本島町生ノ浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630225" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本島町大浦
+    a mo:町域 ;
     rdfs:label "本島町大浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630228" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本島町笠島
+    a mo:町域 ;
     rdfs:label "本島町笠島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630221" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本島町甲生
+    a mo:町域 ;
     rdfs:label "本島町甲生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630222" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本島町小阪
+    a mo:町域 ;
     rdfs:label "本島町小阪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630224" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本島町尻浜
+    a mo:町域 ;
     rdfs:label "本島町尻浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630226" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本島町泊
+    a mo:町域 ;
     rdfs:label "本島町泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630223" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本島町福田
+    a mo:町域 ;
     rdfs:label "本島町福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630227" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630023" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市前塩屋町
+    a mo:町域 ;
     rdfs:label "前塩屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630064" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市松屋町
+    a mo:町域 ;
     rdfs:label "松屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630005" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630042" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市山北町
+    a mo:町域 ;
     rdfs:label "山北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630072" ;
+a mo:GeoEntity .
 
 mr:JP_香川県丸亀市六番丁
+    a mo:町域 ;
     rdfs:label "六番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7630026" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市
     rdfs:label "坂出市"@ja ;
@@ -1515,229 +2085,341 @@ mr:JP_香川県坂出市
 a mo:GeoEntity .
 
 mr:JP_香川県坂出市青葉町
+    a mo:町域 ;
     rdfs:label "青葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620037" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市旭町
+    a mo:町域 ;
     rdfs:label "旭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620006" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市池園町
+    a mo:町域 ;
     rdfs:label "池園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620035" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市入船町
+    a mo:町域 ;
     rdfs:label "入船町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620002" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市岩黒
+    a mo:町域 ;
     rdfs:label "岩黒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620072" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市江尻町
+    a mo:町域 ;
     rdfs:label "江尻町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市王越町木沢
+    a mo:町域 ;
     rdfs:label "王越町木沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市王越町乃生
+    a mo:町域 ;
     rdfs:label "王越町乃生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市青海町
+    a mo:町域 ;
     rdfs:label "青海町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620016" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市大池町
+    a mo:町域 ;
     rdfs:label "大池町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620027" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市大屋冨町
+    a mo:町域 ;
     rdfs:label "大屋冨町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620015" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市沖の浜
+    a mo:町域 ;
     rdfs:label "沖の浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620052" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市笠指町
+    a mo:町域 ;
     rdfs:label "笠指町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620038" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市加茂町甲
+    a mo:町域 ;
     rdfs:label "加茂町甲"@ja ;
     mo:SubRegion mr:JP_香川県坂出市加茂町甲氏部 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市加茂町甲氏部
     rdfs:label "氏部"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7620022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市加茂町
+    a mo:町域 ;
     rdfs:label "加茂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620023" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市川崎町
+    a mo:町域 ;
     rdfs:label "川崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620062" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市川津町
+    a mo:町域 ;
     rdfs:label "川津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620025" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市神谷町
+    a mo:町域 ;
     rdfs:label "神谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620018" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市京町
+    a mo:町域 ;
     rdfs:label "京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620001" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市久米町
+    a mo:町域 ;
     rdfs:label "久米町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市寿町
+    a mo:町域 ;
     rdfs:label "寿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620043" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市御供所町
+    a mo:町域 ;
     rdfs:label "御供所町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620051" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市駒止町
+    a mo:町域 ;
     rdfs:label "駒止町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620032" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市小山町
+    a mo:町域 ;
     rdfs:label "小山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620026" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市坂出町
+    a mo:町域 ;
     rdfs:label "坂出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620061" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市沙弥島
+    a mo:町域 ;
     rdfs:label "沙弥島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620066" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620004" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市白金町
+    a mo:町域 ;
     rdfs:label "白金町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620042" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市新浜町
+    a mo:町域 ;
     rdfs:label "新浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620047" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市瀬居町
+    a mo:町域 ;
     rdfs:label "瀬居町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620067" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市高屋町
+    a mo:町域 ;
     rdfs:label "高屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620017" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市谷町
+    a mo:町域 ;
     rdfs:label "谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620033" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市築港町
+    a mo:町域 ;
     rdfs:label "築港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620055" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市中央町
+    a mo:町域 ;
     rdfs:label "中央町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620056" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市常盤町
+    a mo:町域 ;
     rdfs:label "常盤町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620058" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市西大浜南
+    a mo:町域 ;
     rdfs:label "西大浜南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620054" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市西大浜北
+    a mo:町域 ;
     rdfs:label "西大浜北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620053" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市西庄町
+    a mo:町域 ;
     rdfs:label "西庄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市八幡町
+    a mo:町域 ;
     rdfs:label "八幡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620041" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市花町
+    a mo:町域 ;
     rdfs:label "花町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620036" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市林田町
+    a mo:町域 ;
     rdfs:label "林田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市番の州公園
+    a mo:町域 ;
     rdfs:label "番の州公園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620063" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市番の州町
+    a mo:町域 ;
     rdfs:label "番の州町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620064" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市番の州緑町
+    a mo:町域 ;
     rdfs:label "番の州緑町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620065" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市櫃石
+    a mo:町域 ;
     rdfs:label "櫃石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620073" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市福江町
+    a mo:町域 ;
     rdfs:label "福江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620034" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市富士見町
+    a mo:町域 ;
     rdfs:label "富士見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620046" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市府中町
+    a mo:町域 ;
     rdfs:label "府中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620024" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市文京町
+    a mo:町域 ;
     rdfs:label "文京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620031" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620044" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市宮下町
+    a mo:町域 ;
     rdfs:label "宮下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620057" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市室町
+    a mo:町域 ;
     rdfs:label "室町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620007" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市元町
+    a mo:町域 ;
     rdfs:label "元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620045" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市横津町
+    a mo:町域 ;
     rdfs:label "横津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620005" ;
+a mo:GeoEntity .
 
 mr:JP_香川県坂出市与島町
+    a mo:町域 ;
     rdfs:label "与島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7620071" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市
     rdfs:label "善通寺市"@ja ;
@@ -1765,95 +2447,142 @@ mr:JP_香川県善通寺市
 a mo:GeoEntity .
 
 mr:JP_香川県善通寺市生野町
+    a mo:町域 ;
     rdfs:label "生野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650053" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市生野本町
+    a mo:町域 ;
     rdfs:label "生野本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市稲木町
+    a mo:町域 ;
     rdfs:label "稲木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市大麻町
+    a mo:町域 ;
     rdfs:label "大麻町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650052" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市上吉田町
+    a mo:町域 ;
     rdfs:label "上吉田町"@ja ;
     mo:SubRegion mr:JP_香川県善通寺市上吉田町丁目 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650011" ;
+    mo:JP_郵便番号 "7650012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市上吉田町丁目
     rdfs:label "丁目"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7650011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市木徳町
+    a mo:町域 ;
     rdfs:label "木徳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650033" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市櫛梨町
+    a mo:町域 ;
     rdfs:label "櫛梨町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650051" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市金蔵寺町
+    a mo:町域 ;
     rdfs:label "金蔵寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650031" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市下吉田町
+    a mo:町域 ;
     rdfs:label "下吉田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市善通寺町
+    a mo:町域 ;
     rdfs:label "善通寺町"@ja ;
     mo:SubRegion mr:JP_香川県善通寺市善通寺町丁目 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650004" ;
+    mo:JP_郵便番号 "7650003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市善通寺町丁目
     rdfs:label "丁目"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7650003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市仙遊町
+    a mo:町域 ;
     rdfs:label "仙遊町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650001" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市中村町
+    a mo:町域 ;
     rdfs:label "中村町"@ja ;
     mo:SubRegion mr:JP_香川県善通寺市中村町丁目 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650073" ;
+    mo:JP_郵便番号 "7650072" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市中村町丁目
     rdfs:label "丁目"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7650072" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市原田町
+    a mo:町域 ;
     rdfs:label "原田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650032" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市碑殿町
+    a mo:町域 ;
     rdfs:label "碑殿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650062" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市弘田町
+    a mo:町域 ;
     rdfs:label "弘田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650071" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市文京町
+    a mo:町域 ;
     rdfs:label "文京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市南町
+    a mo:町域 ;
     rdfs:label "南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650002" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市与北町
+    a mo:町域 ;
     rdfs:label "与北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650040" ;
+a mo:GeoEntity .
 
 mr:JP_香川県善通寺市吉原町
+    a mo:町域 ;
     rdfs:label "吉原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7650061" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市
     rdfs:label "観音寺市"@ja ;
@@ -1912,204 +2641,304 @@ mr:JP_香川県観音寺市
 a mo:GeoEntity .
 
 mr:JP_香川県観音寺市有明町
+    a mo:町域 ;
     rdfs:label "有明町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680062" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市粟井町
+    a mo:町域 ;
     rdfs:label "粟井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680052" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市池之尻町
+    a mo:町域 ;
     rdfs:label "池之尻町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680031" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市伊吹町
+    a mo:町域 ;
     rdfs:label "伊吹町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680071" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市植田町
+    a mo:町域 ;
     rdfs:label "植田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町青岡
+    a mo:町域 ;
     rdfs:label "大野原町青岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691617" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町有木
+    a mo:町域 ;
     rdfs:label "大野原町有木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691624" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町井関
+    a mo:町域 ;
     rdfs:label "大野原町井関"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691621" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町内野々
+    a mo:町域 ;
     rdfs:label "大野原町内野々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691622" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町海老済
+    a mo:町域 ;
     rdfs:label "大野原町海老済"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691625" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町大野原
+    a mo:町域 ;
     rdfs:label "大野原町大野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691611" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町田野々
+    a mo:町域 ;
     rdfs:label "大野原町田野々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691623" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町中姫
+    a mo:町域 ;
     rdfs:label "大野原町中姫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691612" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町萩原
+    a mo:町域 ;
     rdfs:label "大野原町萩原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691614" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町花稲
+    a mo:町域 ;
     rdfs:label "大野原町花稲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691613" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町福田原
+    a mo:町域 ;
     rdfs:label "大野原町福田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691616" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市大野原町丸井
+    a mo:町域 ;
     rdfs:label "大野原町丸井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691615" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市観音寺町
+    a mo:町域 ;
     rdfs:label "観音寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680060" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市木之郷町
+    a mo:町域 ;
     rdfs:label "木之郷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680051" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市柞田町
+    a mo:町域 ;
     rdfs:label "柞田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680040" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市琴浪町
+    a mo:町域 ;
     rdfs:label "琴浪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680064" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680074" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680072" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市坂本町
+    a mo:町域 ;
     rdfs:label "坂本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680067" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市三本松町
+    a mo:町域 ;
     rdfs:label "三本松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680063" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市茂木町
+    a mo:町域 ;
     rdfs:label "茂木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680069" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市茂西町
+    a mo:町域 ;
     rdfs:label "茂西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680073" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市出作町
+    a mo:町域 ;
     rdfs:label "出作町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680066" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市新田町
+    a mo:町域 ;
     rdfs:label "新田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680033" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市瀬戸町
+    a mo:町域 ;
     rdfs:label "瀬戸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680065" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市高屋町
+    a mo:町域 ;
     rdfs:label "高屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680002" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680068" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市豊浜町姫浜
+    a mo:町域 ;
     rdfs:label "豊浜町姫浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691601" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市豊浜町箕浦
+    a mo:町域 ;
     rdfs:label "豊浜町箕浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691604" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市豊浜町和田
+    a mo:町域 ;
     rdfs:label "豊浜町和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691603" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市豊浜町和田浜
+    a mo:町域 ;
     rdfs:label "豊浜町和田浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691602" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市中田井町
+    a mo:町域 ;
     rdfs:label "中田井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680024" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市流岡町
+    a mo:町域 ;
     rdfs:label "流岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市凪瀬町
+    a mo:町域 ;
     rdfs:label "凪瀬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680077" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市西本町
+    a mo:町域 ;
     rdfs:label "西本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680075" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市原町
+    a mo:町域 ;
     rdfs:label "原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680032" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市古川町
+    a mo:町域 ;
     rdfs:label "古川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680023" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680076" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市南町
+    a mo:町域 ;
     rdfs:label "南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680070" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市村黒町
+    a mo:町域 ;
     rdfs:label "村黒町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市室本町
+    a mo:町域 ;
     rdfs:label "室本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680001" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市本大町
+    a mo:町域 ;
     rdfs:label "本大町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市八幡町
+    a mo:町域 ;
     rdfs:label "八幡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680061" ;
+a mo:GeoEntity .
 
 mr:JP_香川県観音寺市吉岡町
+    a mo:町域 ;
     rdfs:label "吉岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市
     rdfs:label "さぬき市"@ja ;
@@ -2144,113 +2973,167 @@ mr:JP_香川県さぬき市
 a mo:GeoEntity .
 
 mr:JP_香川県さぬき市大川町田面
+    a mo:町域 ;
     rdfs:label "大川町田面"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610904" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市大川町富田中
+    a mo:町域 ;
     rdfs:label "大川町富田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610902" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市大川町富田西
+    a mo:町域 ;
     rdfs:label "大川町富田西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610901" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市大川町富田東
+    a mo:町域 ;
     rdfs:label "大川町富田東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610903" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市大川町南川
+    a mo:町域 ;
     rdfs:label "大川町南川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610905" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市小田
+    a mo:町域 ;
     rdfs:label "小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692103" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市鴨部
+    a mo:町域 ;
     rdfs:label "鴨部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692104" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市鴨庄
+    a mo:町域 ;
     rdfs:label "鴨庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市寒川町石田西
+    a mo:町域 ;
     rdfs:label "寒川町石田西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692322" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市寒川町石田東
+    a mo:町域 ;
     rdfs:label "寒川町石田東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692321" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市寒川町神前
+    a mo:町域 ;
     rdfs:label "寒川町神前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692323" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市志度
+    a mo:町域 ;
     rdfs:label "志度"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692101" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市昭和
+    a mo:町域 ;
     rdfs:label "昭和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692304" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市末
+    a mo:町域 ;
     rdfs:label "末"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692105" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市造田
+    a mo:町域 ;
     rdfs:label "造田"@ja ;
     mo:SubRegion mr:JP_香川県さぬき市造田オレンジタウン ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692315" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市造田オレンジタウン
     rdfs:label "オレンジタウン"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7692315" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市造田乙井
+    a mo:町域 ;
     rdfs:label "造田乙井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692314" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市造田是弘
+    a mo:町域 ;
     rdfs:label "造田是弘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692312" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市造田野間田
+    a mo:町域 ;
     rdfs:label "造田野間田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692313" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市造田宮西
+    a mo:町域 ;
     rdfs:label "造田宮西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692311" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市多和
+    a mo:町域 ;
     rdfs:label "多和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692306" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市津田町津田
+    a mo:町域 ;
     rdfs:label "津田町津田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692401" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市津田町鶴羽
+    a mo:町域 ;
     rdfs:label "津田町鶴羽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692402" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市長尾西
+    a mo:町域 ;
     rdfs:label "長尾西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692302" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市長尾東
+    a mo:町域 ;
     rdfs:label "長尾東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692301" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市長尾名
+    a mo:町域 ;
     rdfs:label "長尾名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692303" ;
+a mo:GeoEntity .
 
 mr:JP_香川県さぬき市前山
+    a mo:町域 ;
     rdfs:label "前山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692305" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市
     rdfs:label "東かがわ市"@ja ;
@@ -2294,144 +3177,214 @@ mr:JP_香川県東かがわ市
 a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市伊座
+    a mo:町域 ;
     rdfs:label "伊座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692703" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市馬篠
+    a mo:町域 ;
     rdfs:label "馬篠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692520" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市馬宿
+    a mo:町域 ;
     rdfs:label "馬宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692902" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市小海
+    a mo:町域 ;
     rdfs:label "小海"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692908" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692513" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市大内
+    a mo:町域 ;
     rdfs:label "大内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692521" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市落合
+    a mo:町域 ;
     rdfs:label "落合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692512" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市川東
+    a mo:町域 ;
     rdfs:label "川東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692602" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市川股
+    a mo:町域 ;
     rdfs:label "川股"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692906" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市帰来
+    a mo:町域 ;
     rdfs:label "帰来"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692704" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市黒羽
+    a mo:町域 ;
     rdfs:label "黒羽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692905" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市小磯
+    a mo:町域 ;
     rdfs:label "小磯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692511" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市小砂
+    a mo:町域 ;
     rdfs:label "小砂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692519" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市五名
+    a mo:町域 ;
     rdfs:label "五名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692715" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市坂元
+    a mo:町域 ;
     rdfs:label "坂元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692904" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市三本松
+    a mo:町域 ;
     rdfs:label "三本松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692601" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市白鳥
+    a mo:町域 ;
     rdfs:label "白鳥"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692705" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市土居
+    a mo:町域 ;
     rdfs:label "土居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692516" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市中筋
+    a mo:町域 ;
     rdfs:label "中筋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692605" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692518" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市西村
+    a mo:町域 ;
     rdfs:label "西村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692604" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市西山
+    a mo:町域 ;
     rdfs:label "西山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692712" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市入野山
+    a mo:町域 ;
     rdfs:label "入野山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692714" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市東山
+    a mo:町域 ;
     rdfs:label "東山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692711" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市引田
+    a mo:町域 ;
     rdfs:label "引田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692901" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市町田
+    a mo:町域 ;
     rdfs:label "町田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692515" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市松崎
+    a mo:町域 ;
     rdfs:label "松崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692514" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市松原
+    a mo:町域 ;
     rdfs:label "松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692702" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市水主
+    a mo:町域 ;
     rdfs:label "水主"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692606" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市三殿
+    a mo:町域 ;
     rdfs:label "三殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692517" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市湊
+    a mo:町域 ;
     rdfs:label "湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692701" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市南野
+    a mo:町域 ;
     rdfs:label "南野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692903" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市横内
+    a mo:町域 ;
     rdfs:label "横内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692603" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692907" ;
+a mo:GeoEntity .
 
 mr:JP_香川県東かがわ市与田山
+    a mo:町域 ;
     rdfs:label "与田山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7692713" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市
     rdfs:label "三豊市"@ja ;
@@ -2486,188 +3439,280 @@ mr:JP_香川県三豊市
 a mo:GeoEntity .
 
 mr:JP_香川県三豊市財田町財田上
+    a mo:町域 ;
     rdfs:label "財田町財田上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690401" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市財田町財田中
+    a mo:町域 ;
     rdfs:label "財田町財田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690402" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町上麻
+    a mo:町域 ;
     rdfs:label "高瀬町上麻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町上勝間
+    a mo:町域 ;
     rdfs:label "高瀬町上勝間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町上高瀬
+    a mo:町域 ;
     rdfs:label "高瀬町上高瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670001" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町佐股
+    a mo:町域 ;
     rdfs:label "高瀬町佐股"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町下麻
+    a mo:町域 ;
     rdfs:label "高瀬町下麻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町下勝間
+    a mo:町域 ;
     rdfs:label "高瀬町下勝間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町新名
+    a mo:町域 ;
     rdfs:label "高瀬町新名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670002" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町羽方
+    a mo:町域 ;
     rdfs:label "高瀬町羽方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町比地
+    a mo:町域 ;
     rdfs:label "高瀬町比地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670004" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市高瀬町比地中
+    a mo:町域 ;
     rdfs:label "高瀬町比地中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町粟島
+    a mo:町域 ;
     rdfs:label "詫間町粟島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691108" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町大浜
+    a mo:町域 ;
     rdfs:label "詫間町大浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691104" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町香田
+    a mo:町域 ;
     rdfs:label "詫間町香田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691103" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町志々島
+    a mo:町域 ;
     rdfs:label "詫間町志々島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691109" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町詫間
+    a mo:町域 ;
     rdfs:label "詫間町詫間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691101" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町積
+    a mo:町域 ;
     rdfs:label "詫間町積"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691105" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町生里
+    a mo:町域 ;
     rdfs:label "詫間町生里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691107" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町箱
+    a mo:町域 ;
     rdfs:label "詫間町箱"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691106" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市詫間町松崎
+    a mo:町域 ;
     rdfs:label "詫間町松崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市豊中町岡本
+    a mo:町域 ;
     rdfs:label "豊中町岡本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691507" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市豊中町笠田笠岡
+    a mo:町域 ;
     rdfs:label "豊中町笠田笠岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691502" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市豊中町笠田竹田
+    a mo:町域 ;
     rdfs:label "豊中町笠田竹田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691503" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市豊中町上高野
+    a mo:町域 ;
     rdfs:label "豊中町上高野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691504" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市豊中町下高野
+    a mo:町域 ;
     rdfs:label "豊中町下高野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691508" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市豊中町比地大
+    a mo:町域 ;
     rdfs:label "豊中町比地大"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691501" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市豊中町本山乙
+    a mo:町域 ;
     rdfs:label "豊中町本山乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691505" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市豊中町本山甲
+    a mo:町域 ;
     rdfs:label "豊中町本山甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691506" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町家の浦
+    a mo:町域 ;
     rdfs:label "仁尾町家の浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691410" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町仁尾乙
+    a mo:町域 ;
     rdfs:label "仁尾町仁尾乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691404" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町仁尾己
+    a mo:町域 ;
     rdfs:label "仁尾町仁尾己"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691401" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町仁尾甲
+    a mo:町域 ;
     rdfs:label "仁尾町仁尾甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691408" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町仁尾庚
+    a mo:町域 ;
     rdfs:label "仁尾町仁尾庚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691405" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町仁尾辛
+    a mo:町域 ;
     rdfs:label "仁尾町仁尾辛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691406" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町仁尾丁
+    a mo:町域 ;
     rdfs:label "仁尾町仁尾丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691407" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町仁尾丙
+    a mo:町域 ;
     rdfs:label "仁尾町仁尾丙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691403" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市仁尾町仁尾戊
+    a mo:町域 ;
     rdfs:label "仁尾町仁尾戊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7691402" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市三野町大見
+    a mo:町域 ;
     rdfs:label "三野町大見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670031" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市三野町下高瀬
+    a mo:町域 ;
     rdfs:label "三野町下高瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670032" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市三野町吉津
+    a mo:町域 ;
     rdfs:label "三野町吉津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7670033" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市山本町大野
+    a mo:町域 ;
     rdfs:label "山本町大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市山本町神田
+    a mo:町域 ;
     rdfs:label "山本町神田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680104" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市山本町河内
+    a mo:町域 ;
     rdfs:label "山本町河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680105" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市山本町財田西
+    a mo:町域 ;
     rdfs:label "山本町財田西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680103" ;
+a mo:GeoEntity .
 
 mr:JP_香川県三豊市山本町辻
+    a mo:町域 ;
     rdfs:label "山本町辻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7680101" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町
     rdfs:label "小豆郡土庄町"@ja ;
@@ -2696,87 +3741,129 @@ mr:JP_香川県小豆郡土庄町
 a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町伊喜末
+    a mo:町域 ;
     rdfs:label "伊喜末"@ja ;
     mo:SubRegion mr:JP_香川県小豆郡土庄町伊喜末小豊島 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614664" ;
+    mo:JP_郵便番号 "7614131" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町伊喜末小豊島
     rdfs:label "小豊島"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614664" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町馬越
+    a mo:町域 ;
     rdfs:label "馬越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614141" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町小江
+    a mo:町域 ;
     rdfs:label "小江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614132" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町大部
+    a mo:町域 ;
     rdfs:label "大部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614145" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町小海
+    a mo:町域 ;
     rdfs:label "小海"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614144" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町笠滝
+    a mo:町域 ;
     rdfs:label "笠滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614154" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町上庄
+    a mo:町域 ;
     rdfs:label "上庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614122" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町黒岩
+    a mo:町域 ;
     rdfs:label "黒岩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614152" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町小馬越
+    a mo:町域 ;
     rdfs:label "小馬越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614153" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町小部
+    a mo:町域 ;
     rdfs:label "小部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614146" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町滝宮
+    a mo:町域 ;
     rdfs:label "滝宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614134" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町豊島家浦
+    a mo:町域 ;
     rdfs:label "豊島家浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614661" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町豊島唐櫃
+    a mo:町域 ;
     rdfs:label "豊島唐櫃"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614662" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町豊島甲生
+    a mo:町域 ;
     rdfs:label "豊島甲生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614663" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町長浜
+    a mo:町域 ;
     rdfs:label "長浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614133" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町肥土山
+    a mo:町域 ;
     rdfs:label "肥土山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614151" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町渕崎
+    a mo:町域 ;
     rdfs:label "渕崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614121" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町見目
+    a mo:町域 ;
     rdfs:label "見目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614143" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町屋形崎
+    a mo:町域 ;
     rdfs:label "屋形崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614142" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙
+    a mo:町域 ;
     rdfs:label "甲、乙"@ja ;
     mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙大木戸 ;
     mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙鹿島 ;
@@ -2788,47 +3875,78 @@ mr:JP_香川県小豆郡土庄町甲、乙
     mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙港新町 ;
     mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙柳 ;
     mo:SubRegion mr:JP_香川県小豆郡土庄町甲、乙吉ケ浦 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614105" ;
+    mo:JP_郵便番号 "7614103" ;
+    mo:JP_郵便番号 "7614112" ;
+    mo:JP_郵便番号 "7614101" ;
+    mo:JP_郵便番号 "7614111" ;
+    mo:JP_郵便番号 "7614115" ;
+    mo:JP_郵便番号 "7614106" ;
+    mo:JP_郵便番号 "7614104" ;
+    mo:JP_郵便番号 "7614113" ;
+    mo:JP_郵便番号 "7614114" ;
+    mo:JP_郵便番号 "7614102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙大木戸
     rdfs:label "大木戸"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614103" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙鹿島
     rdfs:label "鹿島"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614112" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙小瀬
     rdfs:label "小瀬"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614115" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙千軒
     rdfs:label "千軒"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614114" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙西本町
     rdfs:label "西本町"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614105" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙東港
     rdfs:label "東港"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614111" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙本町
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614106" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙港新町
     rdfs:label "港新町"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙柳
     rdfs:label "柳"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614113" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡土庄町甲、乙吉ケ浦
     rdfs:label "吉ケ浦"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614104" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町
     rdfs:label "小豆郡小豆島町"@ja ;
@@ -2862,114 +3980,169 @@ mr:JP_香川県小豆郡小豆島町
 a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町当浜
+    a mo:町域 ;
     rdfs:label "当浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614403" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614301" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町岩谷
+    a mo:町域 ;
     rdfs:label "岩谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614404" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町馬木
+    a mo:町域 ;
     rdfs:label "馬木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614426" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町片城
+    a mo:町域 ;
     rdfs:label "片城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614431" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町蒲野
+    a mo:町域 ;
     rdfs:label "蒲野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614307" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町蒲生
+    a mo:町域 ;
     rdfs:label "蒲生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614302" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町神懸通
+    a mo:町域 ;
     rdfs:label "神懸通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614433" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町木庄
+    a mo:町域 ;
     rdfs:label "木庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614412" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町草壁本町
+    a mo:町域 ;
     rdfs:label "草壁本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614432" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町神浦
+    a mo:町域 ;
     rdfs:label "神浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614308" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町坂手
+    a mo:町域 ;
     rdfs:label "坂手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614425" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町橘
+    a mo:町域 ;
     rdfs:label "橘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614405" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町田浦
+    a mo:町域 ;
     rdfs:label "田浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614424" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
     mo:SubRegion mr:JP_香川県小豆郡小豆島町中山美しの原高原 ;
     mo:SubRegion mr:JP_香川県小豆郡小豆島町中山蛙子鳴滝 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614155" ;
+    mo:JP_郵便番号 "7614303" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町中山美しの原高原
     rdfs:label "美しの原高原"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614155" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町中山蛙子鳴滝
     rdfs:label "蛙子鳴滝"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "7614155" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町西村
+    a mo:町域 ;
     rdfs:label "西村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614434" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町苗羽
+    a mo:町域 ;
     rdfs:label "苗羽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614421" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町福田
+    a mo:町域 ;
     rdfs:label "福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614402" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町二面
+    a mo:町域 ;
     rdfs:label "二面"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614305" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町古江
+    a mo:町域 ;
     rdfs:label "古江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614422" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町堀越
+    a mo:町域 ;
     rdfs:label "堀越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614423" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町室生
+    a mo:町域 ;
     rdfs:label "室生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614304" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町安田
+    a mo:町域 ;
     rdfs:label "安田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614411" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614401" ;
+a mo:GeoEntity .
 
 mr:JP_香川県小豆郡小豆島町吉野
+    a mo:町域 ;
     rdfs:label "吉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7614306" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町
     rdfs:label "木田郡三木町"@ja ;
@@ -2991,56 +4164,82 @@ mr:JP_香川県木田郡三木町
 a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町朝倉
+    a mo:町域 ;
     rdfs:label "朝倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610614" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町池戸
+    a mo:町域 ;
     rdfs:label "池戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610701" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町井戸
+    a mo:町域 ;
     rdfs:label "井戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610823" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町井上
+    a mo:町域 ;
     rdfs:label "井上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610705" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町奥山
+    a mo:町域 ;
     rdfs:label "奥山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610822" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町鹿庭
+    a mo:町域 ;
     rdfs:label "鹿庭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610821" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町上高岡
+    a mo:町域 ;
     rdfs:label "上高岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610613" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町小蓑
+    a mo:町域 ;
     rdfs:label "小蓑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610615" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町鹿伏
+    a mo:町域 ;
     rdfs:label "鹿伏"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610703" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町下高岡
+    a mo:町域 ;
     rdfs:label "下高岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610704" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町田中
+    a mo:町域 ;
     rdfs:label "田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610611" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町氷上
+    a mo:町域 ;
     rdfs:label "氷上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610612" ;
+a mo:GeoEntity .
 
 mr:JP_香川県木田郡三木町平木
+    a mo:町域 ;
     rdfs:label "平木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7610702" ;
+a mo:GeoEntity .
 
 mr:JP_香川県香川郡直島町
     rdfs:label "香川郡直島町"@ja ;
@@ -3075,84 +4274,124 @@ mr:JP_香川県綾歌郡宇多津町
 a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町岩屋
+    a mo:町域 ;
     rdfs:label "岩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690227" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町大橋
+    a mo:町域 ;
     rdfs:label "大橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690222" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町坂下
+    a mo:町域 ;
     rdfs:label "坂下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690226" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町新開
+    a mo:町域 ;
     rdfs:label "新開"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690223" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690225" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町十楽寺
+    a mo:町域 ;
     rdfs:label "十楽寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690211" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町沼ノ池
+    a mo:町域 ;
     rdfs:label "沼ノ池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690212" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜一番丁
+    a mo:町域 ;
     rdfs:label "浜一番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690201" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜二番丁
+    a mo:町域 ;
     rdfs:label "浜二番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690202" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜三番丁
+    a mo:町域 ;
     rdfs:label "浜三番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690203" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜四番丁
+    a mo:町域 ;
     rdfs:label "浜四番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690204" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜五番丁
+    a mo:町域 ;
     rdfs:label "浜五番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690205" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜六番丁
+    a mo:町域 ;
     rdfs:label "浜六番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690206" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜七番丁
+    a mo:町域 ;
     rdfs:label "浜七番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690207" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜八番丁
+    a mo:町域 ;
     rdfs:label "浜八番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690208" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町浜九番丁
+    a mo:町域 ;
     rdfs:label "浜九番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690209" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町東分
+    a mo:町域 ;
     rdfs:label "東分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690213" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町平山
+    a mo:町域 ;
     rdfs:label "平山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690224" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町向山
+    a mo:町域 ;
     rdfs:label "向山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690228" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡宇多津町吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690221" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町
     rdfs:label "綾歌郡綾川町"@ja ;
@@ -3177,68 +4416,100 @@ mr:JP_香川県綾歌郡綾川町
 a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町牛川
+    a mo:町域 ;
     rdfs:label "牛川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612208" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町小野
+    a mo:町域 ;
     rdfs:label "小野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612307" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町萱原
+    a mo:町域 ;
     rdfs:label "萱原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612304" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町北
+    a mo:町域 ;
     rdfs:label "北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612306" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町陶
+    a mo:町域 ;
     rdfs:label "陶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612103" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町千疋
+    a mo:町域 ;
     rdfs:label "千疋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612102" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町枌所西
+    a mo:町域 ;
     rdfs:label "枌所西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612202" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町枌所東
+    a mo:町域 ;
     rdfs:label "枌所東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612201" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町滝宮
+    a mo:町域 ;
     rdfs:label "滝宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612305" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町西分
+    a mo:町域 ;
     rdfs:label "西分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612206" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町畑田
+    a mo:町域 ;
     rdfs:label "畑田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612101" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町羽床上
+    a mo:町域 ;
     rdfs:label "羽床上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612207" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町羽床下
+    a mo:町域 ;
     rdfs:label "羽床下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612308" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町東分
+    a mo:町域 ;
     rdfs:label "東分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612205" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町山田上
+    a mo:町域 ;
     rdfs:label "山田上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612203" ;
+a mo:GeoEntity .
 
 mr:JP_香川県綾歌郡綾川町山田下
+    a mo:町域 ;
     rdfs:label "山田下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7612204" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡琴平町
     rdfs:label "仲多度郡琴平町"@ja ;
@@ -3252,24 +4523,34 @@ mr:JP_香川県仲多度郡琴平町
 a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡琴平町榎井
+    a mo:町域 ;
     rdfs:label "榎井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660004" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡琴平町上櫛梨
+    a mo:町域 ;
     rdfs:label "上櫛梨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660006" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡琴平町五條
+    a mo:町域 ;
     rdfs:label "五條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡琴平町下櫛梨
+    a mo:町域 ;
     rdfs:label "下櫛梨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660007" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡琴平町苗田
+    a mo:町域 ;
     rdfs:label "苗田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660005" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町
     rdfs:label "仲多度郡多度津町"@ja ;
@@ -3310,132 +4591,196 @@ mr:JP_香川県仲多度郡多度津町
 a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町青木
+    a mo:町域 ;
     rdfs:label "青木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640033" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町大通り
+    a mo:町域 ;
     rdfs:label "大通り"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640005" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町奥白方
+    a mo:町域 ;
     rdfs:label "奥白方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640035" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町葛原
+    a mo:町域 ;
     rdfs:label "葛原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640028" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町家中
+    a mo:町域 ;
     rdfs:label "家中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640002" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町北鴨
+    a mo:町域 ;
     rdfs:label "北鴨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640022" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町京町
+    a mo:町域 ;
     rdfs:label "京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町寿町
+    a mo:町域 ;
     rdfs:label "寿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640025" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640024" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町桜川
+    a mo:町域 ;
     rdfs:label "桜川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町佐柳
+    a mo:町域 ;
     rdfs:label "佐柳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640040" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町庄
+    a mo:町域 ;
     rdfs:label "庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640031" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町高見
+    a mo:町域 ;
     rdfs:label "高見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640050" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町道福寺
+    a mo:町域 ;
     rdfs:label "道福寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640027" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町仲ノ町
+    a mo:町域 ;
     rdfs:label "仲ノ町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640004" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町西白方
+    a mo:町域 ;
     rdfs:label "西白方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640037" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町西浜
+    a mo:町域 ;
     rdfs:label "西浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640015" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町西港町
+    a mo:町域 ;
     rdfs:label "西港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640017" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町東白方
+    a mo:町域 ;
     rdfs:label "東白方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640038" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町東新町
+    a mo:町域 ;
     rdfs:label "東新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640001" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町東浜
+    a mo:町域 ;
     rdfs:label "東浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640016" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町東港町
+    a mo:町域 ;
     rdfs:label "東港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640018" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町日の出町
+    a mo:町域 ;
     rdfs:label "日の出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640006" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町堀江
+    a mo:町域 ;
     rdfs:label "堀江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町本通
+    a mo:町域 ;
     rdfs:label "本通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町三井
+    a mo:町域 ;
     rdfs:label "三井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640032" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町見立
+    a mo:町域 ;
     rdfs:label "見立"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640036" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町南鴨
+    a mo:町域 ;
     rdfs:label "南鴨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640026" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町元町
+    a mo:町域 ;
     rdfs:label "元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640003" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町山階
+    a mo:町域 ;
     rdfs:label "山階"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640034" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡多度津町若葉町
+    a mo:町域 ;
     rdfs:label "若葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7640023" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町
     rdfs:label "仲多度郡まんのう町"@ja ;
@@ -3474,122 +4819,182 @@ mr:JP_香川県仲多度郡まんのう町
 a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町生間
+    a mo:町域 ;
     rdfs:label "生間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690313" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町後山
+    a mo:町域 ;
     rdfs:label "後山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690315" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町追上
+    a mo:町域 ;
     rdfs:label "追上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690319" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町大口
+    a mo:町域 ;
     rdfs:label "大口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690316" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町買田
+    a mo:町域 ;
     rdfs:label "買田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690311" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町勝浦
+    a mo:町域 ;
     rdfs:label "勝浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660204" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町川東
+    a mo:町域 ;
     rdfs:label "川東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660203" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町神野
+    a mo:町域 ;
     rdfs:label "神野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660024" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町岸上
+    a mo:町域 ;
     rdfs:label "岸上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660026" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町公文
+    a mo:町域 ;
     rdfs:label "公文"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660011" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町五條
+    a mo:町域 ;
     rdfs:label "五條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660027" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町佐文
+    a mo:町域 ;
     rdfs:label "佐文"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690301" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町塩入
+    a mo:町域 ;
     rdfs:label "塩入"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690302" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町四條
+    a mo:町域 ;
     rdfs:label "四條"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660021" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町七箇
+    a mo:町域 ;
     rdfs:label "七箇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690303" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町新目
+    a mo:町域 ;
     rdfs:label "新目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690317" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町炭所西
+    a mo:町域 ;
     rdfs:label "炭所西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660017" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町炭所東
+    a mo:町域 ;
     rdfs:label "炭所東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660016" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町造田
+    a mo:町域 ;
     rdfs:label "造田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660201" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町長尾
+    a mo:町域 ;
     rdfs:label "長尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660015" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町中通
+    a mo:町域 ;
     rdfs:label "中通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660202" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町西高篠
+    a mo:町域 ;
     rdfs:label "西高篠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660012" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町羽間
+    a mo:町域 ;
     rdfs:label "羽間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660014" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町東高篠
+    a mo:町域 ;
     rdfs:label "東高篠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660013" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町帆山
+    a mo:町域 ;
     rdfs:label "帆山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690314" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町真野
+    a mo:町域 ;
     rdfs:label "真野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660025" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町宮田
+    a mo:町域 ;
     rdfs:label "宮田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690312" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町山脇
+    a mo:町域 ;
     rdfs:label "山脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7690318" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町吉野
+    a mo:町域 ;
     rdfs:label "吉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660023" ;
+a mo:GeoEntity .
 
 mr:JP_香川県仲多度郡まんのう町吉野下
+    a mo:町域 ;
     rdfs:label "吉野下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "7660022" ;
+a mo:GeoEntity .
 

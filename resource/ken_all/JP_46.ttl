@@ -258,785 +258,1187 @@ mr:JP_鹿児島県鹿児島市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市荒田
+    a mo:町域 ;
     rdfs:label "荒田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900054" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市有村町
+    a mo:町域 ;
     rdfs:label "有村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911545" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市有屋田町
+    a mo:町域 ;
     rdfs:label "有屋田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911107" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市池之上町
+    a mo:町域 ;
     rdfs:label "池之上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920806" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市伊敷
+    a mo:町域 ;
     rdfs:label "伊敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900008" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市伊敷台
+    a mo:町域 ;
     rdfs:label "伊敷台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900007" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市伊敷町
+    a mo:町域 ;
     rdfs:label "伊敷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900003" ;
+    mo:JP_郵便番号 "8911203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市石谷町
+    a mo:町域 ;
     rdfs:label "石谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992701" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市泉町
+    a mo:町域 ;
     rdfs:label "泉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920822" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市稲荷町
+    a mo:町域 ;
     rdfs:label "稲荷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920801" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市犬迫町
+    a mo:町域 ;
     rdfs:label "犬迫町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市入佐町
+    a mo:町域 ;
     rdfs:label "入佐町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992706" ;
+    mo:JP_郵便番号 "8993206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市上荒田町
+    a mo:町域 ;
     rdfs:label "上荒田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900055" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市上之園町
+    a mo:町域 ;
     rdfs:label "上之園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900052" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市魚見町
+    a mo:町域 ;
     rdfs:label "魚見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910112" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市宇宿
+    a mo:町域 ;
     rdfs:label "宇宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900073" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市宇宿町
+    a mo:町域 ;
     rdfs:label "宇宿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900074" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市岡之原町
+    a mo:町域 ;
     rdfs:label "岡之原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911201" ;
+    mo:JP_郵便番号 "8920876" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市小川町
+    a mo:町域 ;
     rdfs:label "小川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920817" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市小野
+    a mo:町域 ;
     rdfs:label "小野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900021" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市小野町
+    a mo:町域 ;
     rdfs:label "小野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911222" ;
+    mo:JP_郵便番号 "8900022" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市小原町
+    a mo:町域 ;
     rdfs:label "小原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910111" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市卸本町
+    a mo:町域 ;
     rdfs:label "卸本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910123" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市加治屋町
+    a mo:町域 ;
     rdfs:label "加治屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920846" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市春日町
+    a mo:町域 ;
     rdfs:label "春日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920804" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市上竜尾町
+    a mo:町域 ;
     rdfs:label "上竜尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920851" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市上谷口町
+    a mo:町域 ;
     rdfs:label "上谷口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992703" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市上福元町
+    a mo:町域 ;
     rdfs:label "上福元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910116" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市上本町
+    a mo:町域 ;
     rdfs:label "上本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920818" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市鴨池
+    a mo:町域 ;
     rdfs:label "鴨池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900063" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市鴨池新町
+    a mo:町域 ;
     rdfs:label "鴨池新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900064" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市川上町
+    a mo:町域 ;
     rdfs:label "川上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911275" ;
+    mo:JP_郵便番号 "8920875" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市川田町
+    a mo:町域 ;
     rdfs:label "川田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市喜入瀬々串町
+    a mo:町域 ;
     rdfs:label "喜入瀬々串町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市喜入中名町
+    a mo:町域 ;
     rdfs:label "喜入中名町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市喜入生見町
+    a mo:町域 ;
     rdfs:label "喜入生見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市喜入一倉町
+    a mo:町域 ;
     rdfs:label "喜入一倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市喜入前之浜町
+    a mo:町域 ;
     rdfs:label "喜入前之浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市喜入町
+    a mo:町域 ;
     rdfs:label "喜入町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市希望ケ丘町
+    a mo:町域 ;
     rdfs:label "希望ケ丘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910107" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市錦江台
+    a mo:町域 ;
     rdfs:label "錦江台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910145" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市錦江町
+    a mo:町域 ;
     rdfs:label "錦江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920836" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市金生町
+    a mo:町域 ;
     rdfs:label "金生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920828" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市祇園之洲町
+    a mo:町域 ;
     rdfs:label "祇園之洲町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920803" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市黒神町
+    a mo:町域 ;
     rdfs:label "黒神町"@ja ;
     mo:SubRegion mr:JP_鹿児島県鹿児島市黒神町枦ノ木ケ谷 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911401" ;
+    mo:JP_郵便番号 "8911501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市黒神町枦ノ木ケ谷
     rdfs:label "枦ノ木ケ谷"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8911501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市花野光ケ丘
+    a mo:町域 ;
     rdfs:label "花野光ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市甲突町
+    a mo:町域 ;
     rdfs:label "甲突町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920837" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市皇徳寺台
+    a mo:町域 ;
     rdfs:label "皇徳寺台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市高免町
+    a mo:町域 ;
     rdfs:label "高免町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市向陽
+    a mo:町域 ;
     rdfs:label "向陽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900038" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市高麗町
+    a mo:町域 ;
     rdfs:label "高麗町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900051" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市郡元
+    a mo:町域 ;
     rdfs:label "郡元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900065" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市郡元町
+    a mo:町域 ;
     rdfs:label "郡元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900084" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市郡山岳町
+    a mo:町域 ;
     rdfs:label "郡山岳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911108" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市郡山町
+    a mo:町域 ;
     rdfs:label "郡山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市五ケ別府町
+    a mo:町域 ;
     rdfs:label "五ケ別府町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市呉服町
+    a mo:町域 ;
     rdfs:label "呉服町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920826" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市小松原
+    a mo:町域 ;
     rdfs:label "小松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910114" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市小山田町
+    a mo:町域 ;
     rdfs:label "小山田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992531" ;
+    mo:JP_郵便番号 "8911231" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市坂之上
+    a mo:町域 ;
     rdfs:label "坂之上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910150" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市坂元町
+    a mo:町域 ;
     rdfs:label "坂元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920862" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜ケ丘
+    a mo:町域 ;
     rdfs:label "桜ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900075" ;
+    mo:JP_郵便番号 "8910175" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島赤水町
+    a mo:町域 ;
     rdfs:label "桜島赤水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911420" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島赤生原町
+    a mo:町域 ;
     rdfs:label "桜島赤生原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911417" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島小池町
+    a mo:町域 ;
     rdfs:label "桜島小池町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911418" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島西道町
+    a mo:町域 ;
     rdfs:label "桜島西道町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911414" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島白浜町
+    a mo:町域 ;
     rdfs:label "桜島白浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911411" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島武町
+    a mo:町域 ;
     rdfs:label "桜島武町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911416" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島藤野町
+    a mo:町域 ;
     rdfs:label "桜島藤野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911415" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島二俣町
+    a mo:町域 ;
     rdfs:label "桜島二俣町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911412" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島松浦町
+    a mo:町域 ;
     rdfs:label "桜島松浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911413" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市桜島横山町
+    a mo:町域 ;
     rdfs:label "桜島横山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911419" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市三和町
+    a mo:町域 ;
     rdfs:label "三和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900071" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市慈眼寺町
+    a mo:町域 ;
     rdfs:label "慈眼寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910146" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市清水町
+    a mo:町域 ;
     rdfs:label "清水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920802" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市下荒田
+    a mo:町域 ;
     rdfs:label "下荒田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900056" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市下伊敷
+    a mo:町域 ;
     rdfs:label "下伊敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900005" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市下伊敷町
+    a mo:町域 ;
     rdfs:label "下伊敷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900004" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市下田町
+    a mo:町域 ;
     rdfs:label "下田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920873" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市下竜尾町
+    a mo:町域 ;
     rdfs:label "下竜尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920852" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市下福元町
+    a mo:町域 ;
     rdfs:label "下福元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910144" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市自由ケ丘
+    a mo:町域 ;
     rdfs:label "自由ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910106" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市城西
+    a mo:町域 ;
     rdfs:label "城西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900041" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市城南町
+    a mo:町域 ;
     rdfs:label "城南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920835" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市松陽台町
+    a mo:町域 ;
     rdfs:label "松陽台町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992707" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市城山
+    a mo:町域 ;
     rdfs:label "城山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900013" ;
+    mo:JP_郵便番号 "8920813" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市城山町
+    a mo:町域 ;
     rdfs:label "城山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920853" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市新栄町
+    a mo:町域 ;
     rdfs:label "新栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900072" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市新島町
+    a mo:町域 ;
     rdfs:label "新島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市新照院町
+    a mo:町域 ;
     rdfs:label "新照院町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900016" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920832" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市新屋敷町
+    a mo:町域 ;
     rdfs:label "新屋敷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920838" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市住吉町
+    a mo:町域 ;
     rdfs:label "住吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920823" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西陵
+    a mo:町域 ;
     rdfs:label "西陵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900032" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市清和
+    a mo:町域 ;
     rdfs:label "清和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910109" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市千日町
+    a mo:町域 ;
     rdfs:label "千日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920843" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市千年
+    a mo:町域 ;
     rdfs:label "千年"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900001" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市草牟田
+    a mo:町域 ;
     rdfs:label "草牟田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900014" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市草牟田町
+    a mo:町域 ;
     rdfs:label "草牟田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900015" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市大黒町
+    a mo:町域 ;
     rdfs:label "大黒町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920825" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市大明丘
+    a mo:町域 ;
     rdfs:label "大明丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920872" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市大竜町
+    a mo:町域 ;
     rdfs:label "大竜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920805" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市鷹師
+    a mo:町域 ;
     rdfs:label "鷹師"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900043" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市田上
+    a mo:町域 ;
     rdfs:label "田上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900034" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市田上台
+    a mo:町域 ;
     rdfs:label "田上台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900036" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市田上町
+    a mo:町域 ;
     rdfs:label "田上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900035" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市武
+    a mo:町域 ;
     rdfs:label "武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900045" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市武岡
+    a mo:町域 ;
     rdfs:label "武岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900031" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市谷山港
+    a mo:町域 ;
     rdfs:label "谷山港"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910131" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市谷山中央
+    a mo:町域 ;
     rdfs:label "谷山中央"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910141" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市玉里団地
+    a mo:町域 ;
     rdfs:label "玉里団地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920811" ;
+    mo:JP_郵便番号 "8900011" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市玉里町
+    a mo:町域 ;
     rdfs:label "玉里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900012" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市中央港新町
+    a mo:町域 ;
     rdfs:label "中央港新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900076" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市中央町
+    a mo:町域 ;
     rdfs:label "中央町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900053" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910108" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市中山町
+    a mo:町域 ;
     rdfs:label "中山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市皷川町
+    a mo:町域 ;
     rdfs:label "皷川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920807" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市樋之口町
+    a mo:町域 ;
     rdfs:label "樋之口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920845" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市照国町
+    a mo:町域 ;
     rdfs:label "照国町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920841" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市天保山町
+    a mo:町域 ;
     rdfs:label "天保山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900061" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市東開町
+    a mo:町域 ;
     rdfs:label "東開町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910115" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市常盤
+    a mo:町域 ;
     rdfs:label "常盤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900047" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市常盤町
+    a mo:町域 ;
     rdfs:label "常盤町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900044" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市唐湊
+    a mo:町域 ;
     rdfs:label "唐湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900081" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市直木町
+    a mo:町域 ;
     rdfs:label "直木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992705" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市中町
+    a mo:町域 ;
     rdfs:label "中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920827" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市長田町
+    a mo:町域 ;
     rdfs:label "長田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920854" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市永吉
+    a mo:町域 ;
     rdfs:label "永吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900023" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市七ツ島
+    a mo:町域 ;
     rdfs:label "七ツ島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910132" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市南栄
+    a mo:町域 ;
     rdfs:label "南栄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910122" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市南林寺町
+    a mo:町域 ;
     rdfs:label "南林寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920834" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西伊敷
+    a mo:町域 ;
     rdfs:label "西伊敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900002" ;
+    mo:JP_郵便番号 "8911202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西坂元町
+    a mo:町域 ;
     rdfs:label "西坂元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920863" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西佐多町
+    a mo:町域 ;
     rdfs:label "西佐多町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西千石町
+    a mo:町域 ;
     rdfs:label "西千石町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920847" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西田
+    a mo:町域 ;
     rdfs:label "西田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900046" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西谷山
+    a mo:町域 ;
     rdfs:label "西谷山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910117" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西別府町
+    a mo:町域 ;
     rdfs:label "西別府町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900033" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西俣町
+    a mo:町域 ;
     rdfs:label "西俣町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911106" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市西紫原町
+    a mo:町域 ;
     rdfs:label "西紫原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900083" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市野尻町
+    a mo:町域 ;
     rdfs:label "野尻町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911541" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市花尾町
+    a mo:町域 ;
     rdfs:label "花尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市浜町
+    a mo:町域 ;
     rdfs:label "浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920812" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市原良
+    a mo:町域 ;
     rdfs:label "原良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900026" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市原良町
+    a mo:町域 ;
     rdfs:label "原良町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900025" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市春山町
+    a mo:町域 ;
     rdfs:label "春山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992704" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市東郡元町
+    a mo:町域 ;
     rdfs:label "東郡元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900068" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市東坂元
+    a mo:町域 ;
     rdfs:label "東坂元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920861" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市東桜島町
+    a mo:町域 ;
     rdfs:label "東桜島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911543" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市東佐多町
+    a mo:町域 ;
     rdfs:label "東佐多町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市東千石町
+    a mo:町域 ;
     rdfs:label "東千石町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920842" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市東谷山
+    a mo:町域 ;
     rdfs:label "東谷山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910113" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市東俣町
+    a mo:町域 ;
     rdfs:label "東俣町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市光山
+    a mo:町域 ;
     rdfs:label "光山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910151" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市日之出町
+    a mo:町域 ;
     rdfs:label "日之出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900086" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市冷水町
+    a mo:町域 ;
     rdfs:label "冷水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920855" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市平川町
+    a mo:町域 ;
     rdfs:label "平川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910133" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市平田町
+    a mo:町域 ;
     rdfs:label "平田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992709" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市平之町
+    a mo:町域 ;
     rdfs:label "平之町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920848" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市広木
+    a mo:町域 ;
     rdfs:label "広木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900037" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市福山町
+    a mo:町域 ;
     rdfs:label "福山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992702" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市船津町
+    a mo:町域 ;
     rdfs:label "船津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920831" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市古里町
+    a mo:町域 ;
     rdfs:label "古里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911544" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市星ケ峯
+    a mo:町域 ;
     rdfs:label "星ケ峯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市堀江町
+    a mo:町域 ;
     rdfs:label "堀江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920824" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市本港新町
+    a mo:町域 ;
     rdfs:label "本港新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920814" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市本城町
+    a mo:町域 ;
     rdfs:label "本城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市本名町
+    a mo:町域 ;
     rdfs:label "本名町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市真砂町
+    a mo:町域 ;
     rdfs:label "真砂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900066" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市真砂本町
+    a mo:町域 ;
     rdfs:label "真砂本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900067" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市松原町
+    a mo:町域 ;
     rdfs:label "松原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920833" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市緑ヶ丘町
+    a mo:町域 ;
     rdfs:label "緑ヶ丘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911274" ;
+    mo:JP_郵便番号 "8920874" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市南郡元町
+    a mo:町域 ;
     rdfs:label "南郡元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900069" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市南新町
+    a mo:町域 ;
     rdfs:label "南新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900085" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市皆与志町
+    a mo:町域 ;
     rdfs:label "皆与志町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市宮之浦町
+    a mo:町域 ;
     rdfs:label "宮之浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市紫原
+    a mo:町域 ;
     rdfs:label "紫原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900082" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市牟礼岡
+    a mo:町域 ;
     rdfs:label "牟礼岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911306" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市名山町
+    a mo:町域 ;
     rdfs:label "名山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920821" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市明和
+    a mo:町域 ;
     rdfs:label "明和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900024" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市持木町
+    a mo:町域 ;
     rdfs:label "持木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911542" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市薬師
+    a mo:町域 ;
     rdfs:label "薬師"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900042" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市易居町
+    a mo:町域 ;
     rdfs:label "易居町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920815" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市柳町
+    a mo:町域 ;
     rdfs:label "柳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920819" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市山下町
+    a mo:町域 ;
     rdfs:label "山下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920816" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市山田町
+    a mo:町域 ;
     rdfs:label "山田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市山之口町
+    a mo:町域 ;
     rdfs:label "山之口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920844" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市油須木町
+    a mo:町域 ;
     rdfs:label "油須木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8911104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市吉野
+    a mo:町域 ;
     rdfs:label "吉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920877" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市吉野町
+    a mo:町域 ;
     rdfs:label "吉野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8920871" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市与次郎
+    a mo:町域 ;
     rdfs:label "与次郎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900062" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市四元町
+    a mo:町域 ;
     rdfs:label "四元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992708" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市若葉町
+    a mo:町域 ;
     rdfs:label "若葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900006" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島市和田
+    a mo:町域 ;
     rdfs:label "和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910143" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市
     rdfs:label "鹿屋市"@ja ;
@@ -1122,312 +1524,466 @@ mr:JP_鹿児島県鹿屋市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市吾平町上名
+    a mo:町域 ;
     rdfs:label "吾平町上名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市吾平町下名
+    a mo:町域 ;
     rdfs:label "吾平町下名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市吾平町麓
+    a mo:町域 ;
     rdfs:label "吾平町麓"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市旭原町
+    a mo:町域 ;
     rdfs:label "旭原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930022" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市朝日町
+    a mo:町域 ;
     rdfs:label "朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930004" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市有武町
+    a mo:町域 ;
     rdfs:label "有武町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市飯隈町
+    a mo:町域 ;
     rdfs:label "飯隈町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930035" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市池園町
+    a mo:町域 ;
     rdfs:label "池園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930042" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市今坂町
+    a mo:町域 ;
     rdfs:label "今坂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930057" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市上野町
+    a mo:町域 ;
     rdfs:label "上野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930056" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市打馬
+    a mo:町域 ;
     rdfs:label "打馬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930011" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市王子町
+    a mo:町域 ;
     rdfs:label "王子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930012" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市大姶良町
+    a mo:町域 ;
     rdfs:label "大姶良町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930051" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市大浦町
+    a mo:町域 ;
     rdfs:label "大浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930067" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市大手町
+    a mo:町域 ;
     rdfs:label "大手町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930009" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市小薄町
+    a mo:町域 ;
     rdfs:label "小薄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市小野原町
+    a mo:町域 ;
     rdfs:label "小野原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市海道町
+    a mo:町域 ;
     rdfs:label "海道町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市笠之原町
+    a mo:町域 ;
     rdfs:label "笠之原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930023" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市上高隈町
+    a mo:町域 ;
     rdfs:label "上高隈町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930131" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市上谷町
+    a mo:町域 ;
     rdfs:label "上谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930061" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市上祓川町
+    a mo:町域 ;
     rdfs:label "上祓川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930027" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市川西町
+    a mo:町域 ;
     rdfs:label "川西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930032" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市川東町
+    a mo:町域 ;
     rdfs:label "川東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930031" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市北田町
+    a mo:町域 ;
     rdfs:label "北田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930007" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市輝北町市成
+    a mo:町域 ;
     rdfs:label "輝北町市成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市輝北町上百引
+    a mo:町域 ;
     rdfs:label "輝北町上百引"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市輝北町下百引
+    a mo:町域 ;
     rdfs:label "輝北町下百引"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市輝北町諏訪原
+    a mo:町域 ;
     rdfs:label "輝北町諏訪原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市輝北町平房
+    a mo:町域 ;
     rdfs:label "輝北町平房"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市共栄町
+    a mo:町域 ;
     rdfs:label "共栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930005" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市串良町有里
+    a mo:町域 ;
     rdfs:label "串良町有里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市串良町岡崎
+    a mo:町域 ;
     rdfs:label "串良町岡崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市串良町上小原
+    a mo:町域 ;
     rdfs:label "串良町上小原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931605" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市串良町下小原
+    a mo:町域 ;
     rdfs:label "串良町下小原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931604" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市串良町細山田
+    a mo:町域 ;
     rdfs:label "串良町細山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市郷之原町
+    a mo:町域 ;
     rdfs:label "郷之原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930065" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市古前城町
+    a mo:町域 ;
     rdfs:label "古前城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930001" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市寿
+    a mo:町域 ;
     rdfs:label "寿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930014" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市獅子目町
+    a mo:町域 ;
     rdfs:label "獅子目町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930044" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市下高隈町
+    a mo:町域 ;
     rdfs:label "下高隈町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930132" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市下祓川町
+    a mo:町域 ;
     rdfs:label "下祓川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930024" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市下堀町
+    a mo:町域 ;
     rdfs:label "下堀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930047" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市白崎町
+    a mo:町域 ;
     rdfs:label "白崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930016" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市白水町
+    a mo:町域 ;
     rdfs:label "白水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912311" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市新栄町
+    a mo:町域 ;
     rdfs:label "新栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930063" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市新川町
+    a mo:町域 ;
     rdfs:label "新川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930015" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市新生町
+    a mo:町域 ;
     rdfs:label "新生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930062" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市曽田町
+    a mo:町域 ;
     rdfs:label "曽田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930003" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市高須町
+    a mo:町域 ;
     rdfs:label "高須町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930054" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市高牧町
+    a mo:町域 ;
     rdfs:label "高牧町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930066" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市田崎町
+    a mo:町域 ;
     rdfs:label "田崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930037" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市田淵町
+    a mo:町域 ;
     rdfs:label "田淵町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930045" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912313" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市永小原町
+    a mo:町域 ;
     rdfs:label "永小原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930052" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市永野田町
+    a mo:町域 ;
     rdfs:label "永野田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930033" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市名貫町
+    a mo:町域 ;
     rdfs:label "名貫町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930034" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市西大手町
+    a mo:町域 ;
     rdfs:label "西大手町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930008" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市西原
+    a mo:町域 ;
     rdfs:label "西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930064" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市西祓川町
+    a mo:町域 ;
     rdfs:label "西祓川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930025" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市根木原町
+    a mo:町域 ;
     rdfs:label "根木原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市野里町
+    a mo:町域 ;
     rdfs:label "野里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930055" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市萩塚町
+    a mo:町域 ;
     rdfs:label "萩塚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930036" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市花岡町
+    a mo:町域 ;
     rdfs:label "花岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市花里町
+    a mo:町域 ;
     rdfs:label "花里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912306" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市浜田町
+    a mo:町域 ;
     rdfs:label "浜田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930053" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市祓川町
+    a mo:町域 ;
     rdfs:label "祓川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930026" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市東原町
+    a mo:町域 ;
     rdfs:label "東原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930021" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市札元
+    a mo:町域 ;
     rdfs:label "札元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930013" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市船間町
+    a mo:町域 ;
     rdfs:label "船間町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912314" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市古江町
+    a mo:町域 ;
     rdfs:label "古江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912321" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市古里町
+    a mo:町域 ;
     rdfs:label "古里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912322" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市星塚町
+    a mo:町域 ;
     rdfs:label "星塚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930041" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930002" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市南町
+    a mo:町域 ;
     rdfs:label "南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930043" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市向江町
+    a mo:町域 ;
     rdfs:label "向江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930006" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿屋市横山町
+    a mo:町域 ;
     rdfs:label "横山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8930046" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市
     rdfs:label "枕崎市"@ja ;
@@ -1518,332 +2074,496 @@ mr:JP_鹿児島県枕崎市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市あけぼの町
+    a mo:町域 ;
     rdfs:label "あけぼの町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980080" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市旭町
+    a mo:町域 ;
     rdfs:label "旭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980008" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市泉町
+    a mo:町域 ;
     rdfs:label "泉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980006" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市板敷西町
+    a mo:町域 ;
     rdfs:label "板敷西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980084" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市板敷本町
+    a mo:町域 ;
     rdfs:label "板敷本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980082" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市板敷南町
+    a mo:町域 ;
     rdfs:label "板敷南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980083" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市岩崎町
+    a mo:町域 ;
     rdfs:label "岩崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980052" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市岩戸町
+    a mo:町域 ;
     rdfs:label "岩戸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980058" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市恵比須町
+    a mo:町域 ;
     rdfs:label "恵比須町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980009" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市大塚北町
+    a mo:町域 ;
     rdfs:label "大塚北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980026" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市大塚中町
+    a mo:町域 ;
     rdfs:label "大塚中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980028" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市大塚西町
+    a mo:町域 ;
     rdfs:label "大塚西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980027" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市大塚南町
+    a mo:町域 ;
     rdfs:label "大塚南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980029" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市折口町
+    a mo:町域 ;
     rdfs:label "折口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980003" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市鹿篭麓町
+    a mo:町域 ;
     rdfs:label "鹿篭麓町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980054" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市春日町
+    a mo:町域 ;
     rdfs:label "春日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980044" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市茅野町
+    a mo:町域 ;
     rdfs:label "茅野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980098" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市木原町
+    a mo:町域 ;
     rdfs:label "木原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980057" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市清水町
+    a mo:町域 ;
     rdfs:label "清水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980066" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市金山町
+    a mo:町域 ;
     rdfs:label "金山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980076" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市金山西町
+    a mo:町域 ;
     rdfs:label "金山西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980074" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市国見町
+    a mo:町域 ;
     rdfs:label "国見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980088" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市小塚町
+    a mo:町域 ;
     rdfs:label "小塚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980099" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市寿町
+    a mo:町域 ;
     rdfs:label "寿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980062" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市木場町
+    a mo:町域 ;
     rdfs:label "木場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980053" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市駒水町
+    a mo:町域 ;
     rdfs:label "駒水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980094" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市栄中町
+    a mo:町域 ;
     rdfs:label "栄中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980038" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市栄本町
+    a mo:町域 ;
     rdfs:label "栄本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980037" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市桜木町
+    a mo:町域 ;
     rdfs:label "桜木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980018" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市桜山上町
+    a mo:町域 ;
     rdfs:label "桜山上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980073" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市桜山町
+    a mo:町域 ;
     rdfs:label "桜山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980061" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市桜山西町
+    a mo:町域 ;
     rdfs:label "桜山西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980055" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市桜山東町
+    a mo:町域 ;
     rdfs:label "桜山東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980065" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市桜山本町
+    a mo:町域 ;
     rdfs:label "桜山本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980064" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市里町
+    a mo:町域 ;
     rdfs:label "里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980097" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市汐見町
+    a mo:町域 ;
     rdfs:label "汐見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980002" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市塩屋北町
+    a mo:町域 ;
     rdfs:label "塩屋北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980041" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市塩屋南町
+    a mo:町域 ;
     rdfs:label "塩屋南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980042" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市下松町
+    a mo:町域 ;
     rdfs:label "下松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980095" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市白沢北町
+    a mo:町域 ;
     rdfs:label "白沢北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980089" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市白沢西町
+    a mo:町域 ;
     rdfs:label "白沢西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980092" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市白沢東町
+    a mo:町域 ;
     rdfs:label "白沢東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980091" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980007" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市住吉町
+    a mo:町域 ;
     rdfs:label "住吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980017" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市瀬戸町
+    a mo:町域 ;
     rdfs:label "瀬戸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980087" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市園見西町
+    a mo:町域 ;
     rdfs:label "園見西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980047" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市園見本町
+    a mo:町域 ;
     rdfs:label "園見本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980046" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市高見町
+    a mo:町域 ;
     rdfs:label "高見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980016" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市立神北町
+    a mo:町域 ;
     rdfs:label "立神北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980045" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市立神本町
+    a mo:町域 ;
     rdfs:label "立神本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980025" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市田布川町
+    a mo:町域 ;
     rdfs:label "田布川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980075" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市中央町
+    a mo:町域 ;
     rdfs:label "中央町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980051" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市千代田町
+    a mo:町域 ;
     rdfs:label "千代田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980012" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市豊留町
+    a mo:町域 ;
     rdfs:label "豊留町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980081" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市中町
+    a mo:町域 ;
     rdfs:label "中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980005" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市西鹿篭
+    a mo:町域 ;
     rdfs:label "西鹿篭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980024" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市西本町
+    a mo:町域 ;
     rdfs:label "西本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980015" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市仁田浦町
+    a mo:町域 ;
     rdfs:label "仁田浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980093" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市東鹿篭
+    a mo:町域 ;
     rdfs:label "東鹿篭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980021" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市東本町
+    a mo:町域 ;
     rdfs:label "東本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980014" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市火之神北町
+    a mo:町域 ;
     rdfs:label "火之神北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980043" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市火之神町
+    a mo:町域 ;
     rdfs:label "火之神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980048" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市火之神岬町
+    a mo:町域 ;
     rdfs:label "火之神岬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980049" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市日之出町
+    a mo:町域 ;
     rdfs:label "日之出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980034" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市平田町
+    a mo:町域 ;
     rdfs:label "平田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980035" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市別府
+    a mo:町域 ;
     rdfs:label "別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980032" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市別府西町
+    a mo:町域 ;
     rdfs:label "別府西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980086" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市別府東町
+    a mo:町域 ;
     rdfs:label "別府東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980085" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市まかや町
+    a mo:町域 ;
     rdfs:label "まかや町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980096" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市枕崎
+    a mo:町域 ;
     rdfs:label "枕崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980031" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市松之尾町
+    a mo:町域 ;
     rdfs:label "松之尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980001" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市道野町
+    a mo:町域 ;
     rdfs:label "道野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980072" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市緑町
+    a mo:町域 ;
     rdfs:label "緑町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980011" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980004" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市美原町
+    a mo:町域 ;
     rdfs:label "美原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980056" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市宮田町
+    a mo:町域 ;
     rdfs:label "宮田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980022" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市宮前町
+    a mo:町域 ;
     rdfs:label "宮前町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980033" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市美山町
+    a mo:町域 ;
     rdfs:label "美山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980071" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市妙見町
+    a mo:町域 ;
     rdfs:label "妙見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980063" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市明和町
+    a mo:町域 ;
     rdfs:label "明和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980036" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市山手町
+    a mo:町域 ;
     rdfs:label "山手町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980013" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県枕崎市若葉町
+    a mo:町域 ;
     rdfs:label "若葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980023" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市
     rdfs:label "阿久根市"@ja ;
@@ -1874,92 +2594,136 @@ mr:JP_鹿児島県阿久根市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市赤瀬川
+    a mo:町域 ;
     rdfs:label "赤瀬川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991611" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市大川
+    a mo:町域 ;
     rdfs:label "大川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991741" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市大丸町
+    a mo:町域 ;
     rdfs:label "大丸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991624" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市折口
+    a mo:町域 ;
     rdfs:label "折口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市琴平町
+    a mo:町域 ;
     rdfs:label "琴平町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991615" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991616" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市塩鶴町
+    a mo:町域 ;
     rdfs:label "塩鶴町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991628" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市塩浜町
+    a mo:町域 ;
     rdfs:label "塩浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991629" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991613" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市高松町
+    a mo:町域 ;
     rdfs:label "高松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991622" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市多田
+    a mo:町域 ;
     rdfs:label "多田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市鶴川内
+    a mo:町域 ;
     rdfs:label "鶴川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市鶴見町
+    a mo:町域 ;
     rdfs:label "鶴見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991626" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市西目
+    a mo:町域 ;
     rdfs:label "西目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991627" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市浜町
+    a mo:町域 ;
     rdfs:label "浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991617" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市波留
+    a mo:町域 ;
     rdfs:label "波留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991625" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市晴海町
+    a mo:町域 ;
     rdfs:label "晴海町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991614" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991621" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市丸尾町
+    a mo:町域 ;
     rdfs:label "丸尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991612" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991623" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市山下
+    a mo:町域 ;
     rdfs:label "山下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991604" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県阿久根市脇本
+    a mo:町域 ;
     rdfs:label "脇本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991131" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市
     rdfs:label "出水市"@ja ;
@@ -2008,164 +2772,244 @@ mr:JP_鹿児島県出水市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市今釜町
+    a mo:町域 ;
     rdfs:label "今釜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990137" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市浦田町
+    a mo:町域 ;
     rdfs:label "浦田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990134" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市大野原町
+    a mo:町域 ;
     rdfs:label "大野原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990216" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市上大川内
+    a mo:町域 ;
     rdfs:label "上大川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990341" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市上鯖渕
+    a mo:町域 ;
     rdfs:label "上鯖渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市上知識町
+    a mo:町域 ;
     rdfs:label "上知識町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市黄金町
+    a mo:町域 ;
     rdfs:label "黄金町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990125" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市五万石町
+    a mo:町域 ;
     rdfs:label "五万石町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990214" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市米ノ津町
+    a mo:町域 ;
     rdfs:label "米ノ津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990121" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市境町
+    a mo:町域 ;
     rdfs:label "境町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990122" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市汐見町
+    a mo:町域 ;
     rdfs:label "汐見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990136" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市下大川内
+    a mo:町域 ;
     rdfs:label "下大川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990342" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市下鯖町
+    a mo:町域 ;
     rdfs:label "下鯖町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990123" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市下知識町
+    a mo:町域 ;
     rdfs:label "下知識町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990132" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市荘
+    a mo:町域 ;
     rdfs:label "荘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990435" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市住吉町
+    a mo:町域 ;
     rdfs:label "住吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990138" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市高尾野町江内
+    a mo:町域 ;
     rdfs:label "高尾野町江内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990407" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市高尾野町大久保
+    a mo:町域 ;
     rdfs:label "高尾野町大久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市高尾野町上水流
+    a mo:町域 ;
     rdfs:label "高尾野町上水流"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990406" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市高尾野町唐笠木
+    a mo:町域 ;
     rdfs:label "高尾野町唐笠木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市高尾野町柴引
+    a mo:町域 ;
     rdfs:label "高尾野町柴引"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市高尾野町下水流
+    a mo:町域 ;
     rdfs:label "高尾野町下水流"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990405" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市高尾野町下高尾野
+    a mo:町域 ;
     rdfs:label "高尾野町下高尾野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990404" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市武本
+    a mo:町域 ;
     rdfs:label "武本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990215" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市知識町
+    a mo:町域 ;
     rdfs:label "知識町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市中央町
+    a mo:町域 ;
     rdfs:label "中央町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990207" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市西出水町
+    a mo:町域 ;
     rdfs:label "西出水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990213" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市野田町上名
+    a mo:町域 ;
     rdfs:label "野田町上名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市野田町下名
+    a mo:町域 ;
     rdfs:label "野田町下名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市福ノ江町
+    a mo:町域 ;
     rdfs:label "福ノ江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990133" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市麓町
+    a mo:町域 ;
     rdfs:label "麓町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市文化町
+    a mo:町域 ;
     rdfs:label "文化町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990208" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市平和町
+    a mo:町域 ;
     rdfs:label "平和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990217" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市緑町
+    a mo:町域 ;
     rdfs:label "緑町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市美原町
+    a mo:町域 ;
     rdfs:label "美原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990124" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市明神町
+    a mo:町域 ;
     rdfs:label "明神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990131" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市向江町
+    a mo:町域 ;
     rdfs:label "向江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水市六月田町
+    a mo:町域 ;
     rdfs:label "六月田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8990126" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市
     rdfs:label "指宿市"@ja ;
@@ -2203,120 +3047,180 @@ mr:JP_鹿児島県指宿市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市岩本
+    a mo:町域 ;
     rdfs:label "岩本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910315" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市大牟礼
+    a mo:町域 ;
     rdfs:label "大牟礼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市開聞上野
+    a mo:町域 ;
     rdfs:label "開聞上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市開聞川尻
+    a mo:町域 ;
     rdfs:label "開聞川尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市開聞十町
+    a mo:町域 ;
     rdfs:label "開聞十町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市開聞仙田
+    a mo:町域 ;
     rdfs:label "開聞仙田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910604" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市小牧
+    a mo:町域 ;
     rdfs:label "小牧"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910314" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市十二町
+    a mo:町域 ;
     rdfs:label "十二町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市十町
+    a mo:町域 ;
     rdfs:label "十町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市新西方
+    a mo:町域 ;
     rdfs:label "新西方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910313" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市西方
+    a mo:町域 ;
     rdfs:label "西方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910311" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市東方
+    a mo:町域 ;
     rdfs:label "東方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910404" ;
+    mo:JP_郵便番号 "8910304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市湊
+    a mo:町域 ;
     rdfs:label "湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910405" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川朝日町
+    a mo:町域 ;
     rdfs:label "山川朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川入船町
+    a mo:町域 ;
     rdfs:label "山川入船町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910507" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川大山
+    a mo:町域 ;
     rdfs:label "山川大山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910514" ;
+    mo:JP_郵便番号 "8910614" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川岡児ケ水
+    a mo:町域 ;
     rdfs:label "山川岡児ケ水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910513" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川小川
+    a mo:町域 ;
     rdfs:label "山川小川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910515" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川金生町
+    a mo:町域 ;
     rdfs:label "山川金生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910506" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川潮見町
+    a mo:町域 ;
     rdfs:label "山川潮見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910503" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川新栄町
+    a mo:町域 ;
     rdfs:label "山川新栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川新生町
+    a mo:町域 ;
     rdfs:label "山川新生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910504" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川利永
+    a mo:町域 ;
     rdfs:label "山川利永"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910621" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川成川
+    a mo:町域 ;
     rdfs:label "山川成川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910516" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川浜児ケ水
+    a mo:町域 ;
     rdfs:label "山川浜児ケ水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川福元
+    a mo:町域 ;
     rdfs:label "山川福元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市山川山下町
+    a mo:町域 ;
     rdfs:label "山川山下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910505" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県指宿市湯の浜
+    a mo:町域 ;
     rdfs:label "湯の浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910406" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市
     rdfs:label "西之表市"@ja ;
@@ -2341,68 +3245,101 @@ mr:JP_鹿児島県西之表市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市安城
+    a mo:町域 ;
     rdfs:label "安城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913432" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市安納
+    a mo:町域 ;
     rdfs:label "安納"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913202" ;
+    mo:JP_郵便番号 "8913102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913114" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市伊関
+    a mo:町域 ;
     rdfs:label "伊関"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913221" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市鴨女町
+    a mo:町域 ;
     rdfs:label "鴨女町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913116" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市国上
+    a mo:町域 ;
     rdfs:label "国上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913222" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市現和
+    a mo:町域 ;
     rdfs:label "現和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913112" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市桜が丘
+    a mo:町域 ;
     rdfs:label "桜が丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913117" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市住吉
+    a mo:町域 ;
     rdfs:label "住吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913115" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市西之表
+    a mo:町域 ;
     rdfs:label "西之表"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市西町
+    a mo:町域 ;
     rdfs:label "西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913111" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913113" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市古田
+    a mo:町域 ;
     rdfs:label "古田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913431" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県西之表市馬毛島
+    a mo:町域 ;
     rdfs:label "馬毛島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913118" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市
     rdfs:label "垂水市"@ja ;
@@ -2434,96 +3371,142 @@ mr:JP_鹿児島県垂水市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市旭町
+    a mo:町域 ;
     rdfs:label "旭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912125" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市市木
+    a mo:町域 ;
     rdfs:label "市木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市牛根境
+    a mo:町域 ;
     rdfs:label "牛根境"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994631" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市牛根麓
+    a mo:町域 ;
     rdfs:label "牛根麓"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994632" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市海潟
+    a mo:町域 ;
     rdfs:label "海潟"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市上町
+    a mo:町域 ;
     rdfs:label "上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912122" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市錦江町
+    a mo:町域 ;
     rdfs:label "錦江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912124" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市柊原
+    a mo:町域 ;
     rdfs:label "柊原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912116" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912121" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市潮彩町
+    a mo:町域 ;
     rdfs:label "潮彩町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912117" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市下宮町
+    a mo:町域 ;
     rdfs:label "下宮町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912127" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市新城
+    a mo:町域 ;
     rdfs:label "新城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912114" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市新御堂
+    a mo:町域 ;
     rdfs:label "新御堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912111" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市高城
+    a mo:町域 ;
     rdfs:label "高城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912113" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市田神
+    a mo:町域 ;
     rdfs:label "田神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市中央町
+    a mo:町域 ;
     rdfs:label "中央町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912106" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市中俣
+    a mo:町域 ;
     rdfs:label "中俣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市浜平
+    a mo:町域 ;
     rdfs:label "浜平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912115" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市二川
+    a mo:町域 ;
     rdfs:label "二川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994633" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市本城
+    a mo:町域 ;
     rdfs:label "本城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912112" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912123" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市松原町
+    a mo:町域 ;
     rdfs:label "松原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県垂水市南松原町
+    a mo:町域 ;
     rdfs:label "南松原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8912126" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市
     rdfs:label "薩摩川内市"@ja ;
@@ -2623,373 +3606,559 @@ mr:JP_鹿児島県薩摩川内市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市青山町
+    a mo:町域 ;
     rdfs:label "青山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950044" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市天辰町
+    a mo:町域 ;
     rdfs:label "天辰町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950011" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市入来町浦之名
+    a mo:町域 ;
     rdfs:label "入来町浦之名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市入来町副田
+    a mo:町域 ;
     rdfs:label "入来町副田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市運動公園町
+    a mo:町域 ;
     rdfs:label "運動公園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950214" ;
+    mo:JP_郵便番号 "8950077" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市網津町
+    a mo:町域 ;
     rdfs:label "網津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991925" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市大小路町
+    a mo:町域 ;
     rdfs:label "大小路町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950076" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市尾白江町
+    a mo:町域 ;
     rdfs:label "尾白江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950035" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市鹿島町藺牟田
+    a mo:町域 ;
     rdfs:label "鹿島町藺牟田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市勝目町
+    a mo:町域 ;
     rdfs:label "勝目町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950031" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市上甑町江石
+    a mo:町域 ;
     rdfs:label "上甑町江石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市上甑町小島
+    a mo:町域 ;
     rdfs:label "上甑町小島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市上甑町桑之浦
+    a mo:町域 ;
     rdfs:label "上甑町桑之浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市上甑町瀬上
+    a mo:町域 ;
     rdfs:label "上甑町瀬上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市上甑町平良
+    a mo:町域 ;
     rdfs:label "上甑町平良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961281" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市上甑町中甑
+    a mo:町域 ;
     rdfs:label "上甑町中甑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市上甑町中野
+    a mo:町域 ;
     rdfs:label "上甑町中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市上川内町
+    a mo:町域 ;
     rdfs:label "上川内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950067" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市川永野町
+    a mo:町域 ;
     rdfs:label "川永野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950033" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市神田町
+    a mo:町域 ;
     rdfs:label "神田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950052" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市久住町
+    a mo:町域 ;
     rdfs:label "久住町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950004" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市楠元町
+    a mo:町域 ;
     rdfs:label "楠元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950002" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市隈之城町
+    a mo:町域 ;
     rdfs:label "隈之城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950041" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市久見崎町
+    a mo:町域 ;
     rdfs:label "久見崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950132" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市祁答院町藺牟田
+    a mo:町域 ;
     rdfs:label "祁答院町藺牟田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市祁答院町上手
+    a mo:町域 ;
     rdfs:label "祁答院町上手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951503" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市祁答院町黒木
+    a mo:町域 ;
     rdfs:label "祁答院町黒木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951504" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市祁答院町下手
+    a mo:町域 ;
     rdfs:label "祁答院町下手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市国分寺町
+    a mo:町域 ;
     rdfs:label "国分寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950073" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市小倉町
+    a mo:町域 ;
     rdfs:label "小倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991922" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市五代町
+    a mo:町域 ;
     rdfs:label "五代町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950066" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市木場茶屋町
+    a mo:町域 ;
     rdfs:label "木場茶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950034" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市御陵下町
+    a mo:町域 ;
     rdfs:label "御陵下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950061" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市里町里
+    a mo:町域 ;
     rdfs:label "里町里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市下甑町青瀬
+    a mo:町域 ;
     rdfs:label "下甑町青瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961521" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市下甑町片野浦
+    a mo:町域 ;
     rdfs:label "下甑町片野浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市下甑町瀬々野浦
+    a mo:町域 ;
     rdfs:label "下甑町瀬々野浦"@ja ;
     mo:SubRegion mr:JP_鹿児島県薩摩川内市下甑町瀬々野浦内川内 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961412" ;
+    mo:JP_郵便番号 "8961512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市下甑町瀬々野浦内川内
     rdfs:label "内川内"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8961412" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市下甑町手打
+    a mo:町域 ;
     rdfs:label "下甑町手打"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市下甑町長浜
+    a mo:町域 ;
     rdfs:label "下甑町長浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8961411" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市城上町
+    a mo:町域 ;
     rdfs:label "城上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950213" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市白浜町
+    a mo:町域 ;
     rdfs:label "白浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950001" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市白和町
+    a mo:町域 ;
     rdfs:label "白和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950022" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市大王町
+    a mo:町域 ;
     rdfs:label "大王町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950062" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市田海町
+    a mo:町域 ;
     rdfs:label "田海町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950071" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市高江町
+    a mo:町域 ;
     rdfs:label "高江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950131" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市高城町
+    a mo:町域 ;
     rdfs:label "高城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市田崎町
+    a mo:町域 ;
     rdfs:label "田崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950006" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市中郷
+    a mo:町域 ;
     rdfs:label "中郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950072" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市中郷町
+    a mo:町域 ;
     rdfs:label "中郷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950072" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東郷町斧渕
+    a mo:町域 ;
     rdfs:label "東郷町斧渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951106" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東郷町宍野
+    a mo:町域 ;
     rdfs:label "東郷町宍野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東郷町鳥丸
+    a mo:町域 ;
     rdfs:label "東郷町鳥丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東郷町南瀬
+    a mo:町域 ;
     rdfs:label "東郷町南瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東郷町藤川
+    a mo:町域 ;
     rdfs:label "東郷町藤川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東郷町山田
+    a mo:町域 ;
     rdfs:label "東郷町山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市鳥追町
+    a mo:町域 ;
     rdfs:label "鳥追町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950024" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市永利町
+    a mo:町域 ;
     rdfs:label "永利町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950005" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市中福良町
+    a mo:町域 ;
     rdfs:label "中福良町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950042" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市中村町
+    a mo:町域 ;
     rdfs:label "中村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950003" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市西開聞町
+    a mo:町域 ;
     rdfs:label "西開聞町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950055" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市西方町
+    a mo:町域 ;
     rdfs:label "西方町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991801" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市西向田町
+    a mo:町域 ;
     rdfs:label "西向田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950027" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市花木町
+    a mo:町域 ;
     rdfs:label "花木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950064" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市原田町
+    a mo:町域 ;
     rdfs:label "原田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950074" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東大小路町
+    a mo:町域 ;
     rdfs:label "東大小路町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950075" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東開聞町
+    a mo:町域 ;
     rdfs:label "東開聞町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950051" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市東向田町
+    a mo:町域 ;
     rdfs:label "東向田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950026" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市冷水町
+    a mo:町域 ;
     rdfs:label "冷水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950053" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市平佐
+    a mo:町域 ;
     rdfs:label "平佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950012" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市平佐町
+    a mo:町域 ;
     rdfs:label "平佐町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950012" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市樋脇町市比野
+    a mo:町域 ;
     rdfs:label "樋脇町市比野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市樋脇町倉野
+    a mo:町域 ;
     rdfs:label "樋脇町倉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市樋脇町塔之原
+    a mo:町域 ;
     rdfs:label "樋脇町塔之原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市水引町
+    a mo:町域 ;
     rdfs:label "水引町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991921" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991924" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市宮内町
+    a mo:町域 ;
     rdfs:label "宮内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950065" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市都町
+    a mo:町域 ;
     rdfs:label "都町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950043" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市宮崎町
+    a mo:町域 ;
     rdfs:label "宮崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950013" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市宮里町
+    a mo:町域 ;
     rdfs:label "宮里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950056" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市向田町
+    a mo:町域 ;
     rdfs:label "向田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950025" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市向田本町
+    a mo:町域 ;
     rdfs:label "向田本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950021" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市百次町
+    a mo:町域 ;
     rdfs:label "百次町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950007" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市矢倉町
+    a mo:町域 ;
     rdfs:label "矢倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950036" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市山之口町
+    a mo:町域 ;
     rdfs:label "山之口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950032" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市湯島町
+    a mo:町域 ;
     rdfs:label "湯島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991923" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市湯田町
+    a mo:町域 ;
     rdfs:label "湯田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991802" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市陽成町
+    a mo:町域 ;
     rdfs:label "陽成町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市横馬場町
+    a mo:町域 ;
     rdfs:label "横馬場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950023" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市寄田町
+    a mo:町域 ;
     rdfs:label "寄田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950133" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市若葉町
+    a mo:町域 ;
     rdfs:label "若葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950063" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩川内市若松町
+    a mo:町域 ;
     rdfs:label "若松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8950054" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市
     rdfs:label "日置市"@ja ;
@@ -3041,181 +4210,271 @@ mr:JP_鹿児島県日置市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町飯牟礼
+    a mo:町域 ;
     rdfs:label "伊集院町飯牟礼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992522" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町猪鹿倉
+    a mo:町域 ;
     rdfs:label "伊集院町猪鹿倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992505" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町大田
+    a mo:町域 ;
     rdfs:label "伊集院町大田"@ja ;
     mo:SubRegion mr:JP_鹿児島県日置市伊集院町大田久木野々石塚 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993121" ;
+    mo:JP_郵便番号 "8992521" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町大田久木野々石塚
     rdfs:label "久木野々石塚"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8993121" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町上神殿
+    a mo:町域 ;
     rdfs:label "伊集院町上神殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町清藤
+    a mo:町域 ;
     rdfs:label "伊集院町清藤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992506" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町桑畑
+    a mo:町域 ;
     rdfs:label "伊集院町桑畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992441" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町恋之原
+    a mo:町域 ;
     rdfs:label "伊集院町恋之原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992524" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町郡
+    a mo:町域 ;
     rdfs:label "伊集院町郡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992504" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町下神殿
+    a mo:町域 ;
     rdfs:label "伊集院町下神殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町下谷口
+    a mo:町域 ;
     rdfs:label "伊集院町下谷口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町竹之山
+    a mo:町域 ;
     rdfs:label "伊集院町竹之山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992515" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町土橋
+    a mo:町域 ;
     rdfs:label "伊集院町土橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992516" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町寺脇
+    a mo:町域 ;
     rdfs:label "伊集院町寺脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992443" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町徳重
+    a mo:町域 ;
     rdfs:label "伊集院町徳重"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町中川
+    a mo:町域 ;
     rdfs:label "伊集院町中川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992514" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町野田
+    a mo:町域 ;
     rdfs:label "伊集院町野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992442" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町古城
+    a mo:町域 ;
     rdfs:label "伊集院町古城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992523" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町妙円寺
+    a mo:町域 ;
     rdfs:label "伊集院町妙円寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992503" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市伊集院町麦生田
+    a mo:町域 ;
     rdfs:label "伊集院町麦生田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992513" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町伊作田
+    a mo:町域 ;
     rdfs:label "東市来町伊作田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町神之川
+    a mo:町域 ;
     rdfs:label "東市来町神之川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町寺脇
+    a mo:町域 ;
     rdfs:label "東市来町寺脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992432" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町長里
+    a mo:町域 ;
     rdfs:label "東市来町長里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町南神之川
+    a mo:町域 ;
     rdfs:label "東市来町南神之川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992434" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町宮田
+    a mo:町域 ;
     rdfs:label "東市来町宮田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992433" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町美山
+    a mo:町域 ;
     rdfs:label "東市来町美山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992431" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町湯田
+    a mo:町域 ;
     rdfs:label "東市来町湯田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市東市来町養母
+    a mo:町域 ;
     rdfs:label "東市来町養母"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992311" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市日吉町神之川
+    a mo:町域 ;
     rdfs:label "日吉町神之川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992421" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市日吉町日置
+    a mo:町域 ;
     rdfs:label "日吉町日置"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市日吉町山田
+    a mo:町域 ;
     rdfs:label "日吉町山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市日吉町吉利
+    a mo:町域 ;
     rdfs:label "日吉町吉利"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993203" ;
+    mo:JP_郵便番号 "8993103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町今田
+    a mo:町域 ;
     rdfs:label "吹上町今田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町入来
+    a mo:町域 ;
     rdfs:label "吹上町入来"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町小野
+    a mo:町域 ;
     rdfs:label "吹上町小野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993306" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町花熟里
+    a mo:町域 ;
     rdfs:label "吹上町花熟里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993307" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町田尻
+    a mo:町域 ;
     rdfs:label "吹上町田尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993308" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町中之里
+    a mo:町域 ;
     rdfs:label "吹上町中之里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町中原
+    a mo:町域 ;
     rdfs:label "吹上町中原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町永吉
+    a mo:町域 ;
     rdfs:label "吹上町永吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993221" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町湯之浦
+    a mo:町域 ;
     rdfs:label "吹上町湯之浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町与倉
+    a mo:町域 ;
     rdfs:label "吹上町与倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993309" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県日置市吹上町和田
+    a mo:町域 ;
     rdfs:label "吹上町和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993311" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市
     rdfs:label "曽於市"@ja ;
@@ -3248,69 +4507,101 @@ mr:JP_鹿児島県曽於市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町荒谷
+    a mo:町域 ;
     rdfs:label "大隅町荒谷"@ja ;
     mo:SubRegion mr:JP_鹿児島県曽於市大隅町荒谷荒谷 ;
     mo:SubRegion mr:JP_鹿児島県曽於市大隅町荒谷大迫 ;
     mo:SubRegion mr:JP_鹿児島県曽於市大隅町荒谷中大迫 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998211" ;
+    mo:JP_郵便番号 "8998311" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町荒谷荒谷
     rdfs:label "荒谷"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町荒谷大迫
     rdfs:label "大迫"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町荒谷中大迫
     rdfs:label "中大迫"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町岩川
+    a mo:町域 ;
     rdfs:label "大隅町岩川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町大谷
+    a mo:町域 ;
     rdfs:label "大隅町大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998421" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町境木町
+    a mo:町域 ;
     rdfs:label "大隅町境木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998213" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町坂元
+    a mo:町域 ;
     rdfs:label "大隅町坂元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998422" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町下窪町
+    a mo:町域 ;
     rdfs:label "大隅町下窪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998106" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町須田木
+    a mo:町域 ;
     rdfs:label "大隅町須田木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998423" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町段中町
+    a mo:町域 ;
     rdfs:label "大隅町段中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町月野
+    a mo:町域 ;
     rdfs:label "大隅町月野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町恒吉
+    a mo:町域 ;
     rdfs:label "大隅町恒吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998424" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町中之内
+    a mo:町域 ;
     rdfs:label "大隅町中之内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市大隅町鳴神町
+    a mo:町域 ;
     rdfs:label "大隅町鳴神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町岩崎
+    a mo:町域 ;
     rdfs:label "末吉町岩崎"@ja ;
     mo:SubRegion mr:JP_鹿児島県曽於市末吉町岩崎池原 ;
     mo:SubRegion mr:JP_鹿児島県曽於市末吉町岩崎岩之上 ;
@@ -3319,79 +4610,117 @@ mr:JP_鹿児島県曽於市末吉町岩崎
     mo:SubRegion mr:JP_鹿児島県曽於市末吉町岩崎牧原 ;
     mo:SubRegion mr:JP_鹿児島県曽於市末吉町岩崎道添 ;
     mo:SubRegion mr:JP_鹿児島県曽於市末吉町岩崎宮原 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998101" ;
+    mo:JP_郵便番号 "8998601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町岩崎池原
     rdfs:label "池原"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町岩崎岩之上
     rdfs:label "岩之上"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町岩崎岩南
     rdfs:label "岩南"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町岩崎前田
     rdfs:label "前田"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町岩崎牧原
     rdfs:label "牧原"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町岩崎道添
     rdfs:label "道添"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町岩崎宮原
     rdfs:label "宮原"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町上町
+    a mo:町域 ;
     rdfs:label "末吉町上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998609" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町栄町
+    a mo:町域 ;
     rdfs:label "末吉町栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町新町
+    a mo:町域 ;
     rdfs:label "末吉町新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町諏訪方
+    a mo:町域 ;
     rdfs:label "末吉町諏訪方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998604" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町二之方
+    a mo:町域 ;
     rdfs:label "末吉町二之方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998605" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町深川
+    a mo:町域 ;
     rdfs:label "末吉町深川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998606" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町本町
+    a mo:町域 ;
     rdfs:label "末吉町本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998607" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市末吉町南之郷
+    a mo:町域 ;
     rdfs:label "末吉町南之郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998608" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市財部町北俣
+    a mo:町域 ;
     rdfs:label "財部町北俣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市財部町下財部
+    a mo:町域 ;
     rdfs:label "財部町下財部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於市財部町南俣
+    a mo:町域 ;
     rdfs:label "財部町南俣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市
     rdfs:label "霧島市"@ja ;
@@ -3473,296 +4802,446 @@ mr:JP_鹿児島県霧島市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市霧島大窪
+    a mo:町域 ;
     rdfs:label "霧島大窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市霧島川北
+    a mo:町域 ;
     rdfs:label "霧島川北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市霧島田口
+    a mo:町域 ;
     rdfs:label "霧島田口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市霧島永水
+    a mo:町域 ;
     rdfs:label "霧島永水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分上之段
+    a mo:町域 ;
     rdfs:label "国分上之段"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994461" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分上野原縄文の森
+    a mo:町域 ;
     rdfs:label "国分上野原縄文の森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994318" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分上野原テクノパーク
+    a mo:町域 ;
     rdfs:label "国分上野原テクノパーク"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994317" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分上井
+    a mo:町域 ;
     rdfs:label "国分上井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994313" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分上小川
+    a mo:町域 ;
     rdfs:label "国分上小川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994316" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分川内
+    a mo:町域 ;
     rdfs:label "国分川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994314" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分川原
+    a mo:町域 ;
     rdfs:label "国分川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分清水
+    a mo:町域 ;
     rdfs:label "国分清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分剣之宇都町
+    a mo:町域 ;
     rdfs:label "国分剣之宇都町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994355" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分郡田
+    a mo:町域 ;
     rdfs:label "国分郡田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分敷根
+    a mo:町域 ;
     rdfs:label "国分敷根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994462" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分重久
+    a mo:町域 ;
     rdfs:label "国分重久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分下井
+    a mo:町域 ;
     rdfs:label "国分下井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994463" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分城山町
+    a mo:町域 ;
     rdfs:label "国分城山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994331" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分新町
+    a mo:町域 ;
     rdfs:label "国分新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994351" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分台明寺
+    a mo:町域 ;
     rdfs:label "国分台明寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分中央
+    a mo:町域 ;
     rdfs:label "国分中央"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994332" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分名波町
+    a mo:町域 ;
     rdfs:label "国分名波町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994311" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分野口北
+    a mo:町域 ;
     rdfs:label "国分野口北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994344" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分野口町
+    a mo:町域 ;
     rdfs:label "国分野口町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994342" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分野口西
+    a mo:町域 ;
     rdfs:label "国分野口西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994343" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分野口東
+    a mo:町域 ;
     rdfs:label "国分野口東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994341" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分姫城
+    a mo:町域 ;
     rdfs:label "国分姫城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994354" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分姫城南
+    a mo:町域 ;
     rdfs:label "国分姫城南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994356" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分広瀬
+    a mo:町域 ;
     rdfs:label "国分広瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994321" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分福島
+    a mo:町域 ;
     rdfs:label "国分福島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994322" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分府中
+    a mo:町域 ;
     rdfs:label "国分府中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994345" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分府中町
+    a mo:町域 ;
     rdfs:label "国分府中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994346" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分松木
+    a mo:町域 ;
     rdfs:label "国分松木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994323" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分松木町
+    a mo:町域 ;
     rdfs:label "国分松木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994325" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分松木東
+    a mo:町域 ;
     rdfs:label "国分松木東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994324" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分湊
+    a mo:町域 ;
     rdfs:label "国分湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994315" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分向花
+    a mo:町域 ;
     rdfs:label "国分向花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994352" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分向花町
+    a mo:町域 ;
     rdfs:label "国分向花町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994353" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市国分山下町
+    a mo:町域 ;
     rdfs:label "国分山下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町朝日
+    a mo:町域 ;
     rdfs:label "隼人町朝日"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995118" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町内
+    a mo:町域 ;
     rdfs:label "隼人町内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995116" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町内山田
+    a mo:町域 ;
     rdfs:label "隼人町内山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995106" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町小田
+    a mo:町域 ;
     rdfs:label "隼人町小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町小浜
+    a mo:町域 ;
     rdfs:label "隼人町小浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町嘉例川
+    a mo:町域 ;
     rdfs:label "隼人町嘉例川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995113" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町西光寺
+    a mo:町域 ;
     rdfs:label "隼人町西光寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995114" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町神宮
+    a mo:町域 ;
     rdfs:label "隼人町神宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995121" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町真孝
+    a mo:町域 ;
     rdfs:label "隼人町真孝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町住吉
+    a mo:町域 ;
     rdfs:label "隼人町住吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町東郷
+    a mo:町域 ;
     rdfs:label "隼人町東郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995115" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町野久美田
+    a mo:町域 ;
     rdfs:label "隼人町野久美田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町姫城
+    a mo:町域 ;
     rdfs:label "隼人町姫城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995111" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町松永
+    a mo:町域 ;
     rdfs:label "隼人町松永"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995112" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市隼人町見次
+    a mo:町域 ;
     rdfs:label "隼人町見次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995117" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市福山町佳例川
+    a mo:町域 ;
     rdfs:label "福山町佳例川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994504" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市福山町福沢
+    a mo:町域 ;
     rdfs:label "福山町福沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994503" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市福山町福地
+    a mo:町域 ;
     rdfs:label "福山町福地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市福山町福山
+    a mo:町域 ;
     rdfs:label "福山町福山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8994501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市牧園町上中津川
+    a mo:町域 ;
     rdfs:label "牧園町上中津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996504" ;
+    mo:JP_郵便番号 "8996604" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市牧園町三体堂
+    a mo:町域 ;
     rdfs:label "牧園町三体堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996602" ;
+    mo:JP_郵便番号 "8996502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市牧園町下中津川
+    a mo:町域 ;
     rdfs:label "牧園町下中津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996506" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市牧園町宿窪田
+    a mo:町域 ;
     rdfs:label "牧園町宿窪田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996507" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市牧園町高千穂
+    a mo:町域 ;
     rdfs:label "牧園町高千穂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996503" ;
+    mo:JP_郵便番号 "8996603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市牧園町万膳
+    a mo:町域 ;
     rdfs:label "牧園町万膳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996501" ;
+    mo:JP_郵便番号 "8996601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市牧園町持松
+    a mo:町域 ;
     rdfs:label "牧園町持松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996505" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市溝辺町有川
+    a mo:町域 ;
     rdfs:label "溝辺町有川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市溝辺町崎森
+    a mo:町域 ;
     rdfs:label "溝辺町崎森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996405" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市溝辺町竹子
+    a mo:町域 ;
     rdfs:label "溝辺町竹子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市溝辺町麓
+    a mo:町域 ;
     rdfs:label "溝辺町麓"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996404" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市溝辺町三縄
+    a mo:町域 ;
     rdfs:label "溝辺町三縄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市横川町上ノ
+    a mo:町域 ;
     rdfs:label "横川町上ノ"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市横川町下ノ
+    a mo:町域 ;
     rdfs:label "横川町下ノ"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県霧島市横川町中ノ
+    a mo:町域 ;
     rdfs:label "横川町中ノ"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市
     rdfs:label "いちき串木野市"@ja ;
@@ -3833,252 +5312,376 @@ mr:JP_鹿児島県いちき串木野市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市愛木町
+    a mo:町域 ;
     rdfs:label "愛木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960061" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市曙町
+    a mo:町域 ;
     rdfs:label "曙町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960001" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市旭町
+    a mo:町域 ;
     rdfs:label "旭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960015" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市荒川
+    a mo:町域 ;
     rdfs:label "荒川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960065" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市浦和町
+    a mo:町域 ;
     rdfs:label "浦和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960036" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市恵比須町
+    a mo:町域 ;
     rdfs:label "恵比須町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960027" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市大里
+    a mo:町域 ;
     rdfs:label "大里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市大原町
+    a mo:町域 ;
     rdfs:label "大原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960011" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市御倉町
+    a mo:町域 ;
     rdfs:label "御倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960025" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市海瀬
+    a mo:町域 ;
     rdfs:label "海瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960057" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市春日町
+    a mo:町域 ;
     rdfs:label "春日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960002" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市河内
+    a mo:町域 ;
     rdfs:label "河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960079" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市川上
+    a mo:町域 ;
     rdfs:label "川上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市上名
+    a mo:町域 ;
     rdfs:label "上名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960052" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市冠嶽
+    a mo:町域 ;
     rdfs:label "冠嶽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960051" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市北浜町
+    a mo:町域 ;
     rdfs:label "北浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960041" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市京町
+    a mo:町域 ;
     rdfs:label "京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960003" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市金山
+    a mo:町域 ;
     rdfs:label "金山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960075" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市金山下
+    a mo:町域 ;
     rdfs:label "金山下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960074" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市口之町
+    a mo:町域 ;
     rdfs:label "口之町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960063" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市小瀬町
+    a mo:町域 ;
     rdfs:label "小瀬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960034" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960013" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市桜町
+    a mo:町域 ;
     rdfs:label "桜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960016" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市薩摩山
+    a mo:町域 ;
     rdfs:label "薩摩山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960072" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市汐見町
+    a mo:町域 ;
     rdfs:label "汐見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960004" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市塩屋町
+    a mo:町域 ;
     rdfs:label "塩屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960023" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市昭和通
+    a mo:町域 ;
     rdfs:label "昭和通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960026" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市新生町
+    a mo:町域 ;
     rdfs:label "新生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960035" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市住吉町
+    a mo:町域 ;
     rdfs:label "住吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960021" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市西薩町
+    a mo:町域 ;
     rdfs:label "西薩町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960046" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市生福
+    a mo:町域 ;
     rdfs:label "生福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960078" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市芹ケ野
+    a mo:町域 ;
     rdfs:label "芹ケ野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960076" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市高見町
+    a mo:町域 ;
     rdfs:label "高見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960017" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市照島
+    a mo:町域 ;
     rdfs:label "照島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960055" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市中尾町
+    a mo:町域 ;
     rdfs:label "中尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960012" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市長崎町
+    a mo:町域 ;
     rdfs:label "長崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960033" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市西塩田町
+    a mo:町域 ;
     rdfs:label "西塩田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960005" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市西島平町
+    a mo:町域 ;
     rdfs:label "西島平町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960032" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市西浜町
+    a mo:町域 ;
     rdfs:label "西浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960044" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市野下
+    a mo:町域 ;
     rdfs:label "野下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960073" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市野元
+    a mo:町域 ;
     rdfs:label "野元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960066" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市袴田
+    a mo:町域 ;
     rdfs:label "袴田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960058" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市羽島
+    a mo:町域 ;
     rdfs:label "羽島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960064" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市浜ケ城
+    a mo:町域 ;
     rdfs:label "浜ケ城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960069" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市浜田町
+    a mo:町域 ;
     rdfs:label "浜田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960062" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市東塩田町
+    a mo:町域 ;
     rdfs:label "東塩田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960006" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市東島平町
+    a mo:町域 ;
     rdfs:label "東島平町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960031" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市日出町
+    a mo:町域 ;
     rdfs:label "日出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960054" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市ひばりが丘
+    a mo:町域 ;
     rdfs:label "ひばりが丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960028" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市平江
+    a mo:町域 ;
     rdfs:label "平江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960067" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市深田上
+    a mo:町域 ;
     rdfs:label "深田上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960071" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市深田下
+    a mo:町域 ;
     rdfs:label "深田下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960077" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市別府
+    a mo:町域 ;
     rdfs:label "別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960037" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市まぐろ本町
+    a mo:町域 ;
     rdfs:label "まぐろ本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960045" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市美住町
+    a mo:町域 ;
     rdfs:label "美住町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960024" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市三井
+    a mo:町域 ;
     rdfs:label "三井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960068" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市緑町
+    a mo:町域 ;
     rdfs:label "緑町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960022" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960043" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市湊町
+    a mo:町域 ;
     rdfs:label "湊町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8992101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市本浜町
+    a mo:町域 ;
     rdfs:label "本浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960042" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市元町
+    a mo:町域 ;
     rdfs:label "元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960014" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県いちき串木野市八房
+    a mo:町域 ;
     rdfs:label "八房"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8960056" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市
     rdfs:label "南さつま市"@ja ;
@@ -4121,140 +5724,209 @@ mr:JP_鹿児島県南さつま市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市大浦町
+    a mo:町域 ;
     rdfs:label "大浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8971201" ;
+    mo:JP_郵便番号 "8980221" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市笠沙町赤生木
+    a mo:町域 ;
     rdfs:label "笠沙町赤生木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8971302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市笠沙町片浦
+    a mo:町域 ;
     rdfs:label "笠沙町片浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8971301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田内山田
+    a mo:町域 ;
     rdfs:label "加世田内山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970004" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田川畑
+    a mo:町域 ;
     rdfs:label "加世田川畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970003" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田小湊
+    a mo:町域 ;
     rdfs:label "加世田小湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8971122" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田地頭所
+    a mo:町域 ;
     rdfs:label "加世田地頭所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970008" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田白亀
+    a mo:町域 ;
     rdfs:label "加世田白亀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970007" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田高橋
+    a mo:町域 ;
     rdfs:label "加世田高橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8971123" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田武田
+    a mo:町域 ;
     rdfs:label "加世田武田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970002" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田津貫
+    a mo:町域 ;
     rdfs:label "加世田津貫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993611" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田唐仁原
+    a mo:町域 ;
     rdfs:label "加世田唐仁原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8971121" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田ハーモニー
+    a mo:町域 ;
     rdfs:label "加世田ハーモニー"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970009" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田東本町
+    a mo:町域 ;
     rdfs:label "加世田東本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970031" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田麓町
+    a mo:町域 ;
     rdfs:label "加世田麓町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970005" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田本町
+    a mo:町域 ;
     rdfs:label "加世田本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970006" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田益山
+    a mo:町域 ;
     rdfs:label "加世田益山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8971125" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田宮原
+    a mo:町域 ;
     rdfs:label "加世田宮原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8971124" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市加世田村原
+    a mo:町域 ;
     rdfs:label "加世田村原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970001" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町池辺
+    a mo:町域 ;
     rdfs:label "金峰町池辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993405" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町浦之名
+    a mo:町域 ;
     rdfs:label "金峰町浦之名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993516" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町大野
+    a mo:町域 ;
     rdfs:label "金峰町大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町尾下
+    a mo:町域 ;
     rdfs:label "金峰町尾下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町白川
+    a mo:町域 ;
     rdfs:label "金峰町白川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993513" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町大坂
+    a mo:町域 ;
     rdfs:label "金峰町大坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町高橋
+    a mo:町域 ;
     rdfs:label "金峰町高橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993404" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町中津野
+    a mo:町域 ;
     rdfs:label "金峰町中津野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993515" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町新山
+    a mo:町域 ;
     rdfs:label "金峰町新山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993514" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町花瀬
+    a mo:町域 ;
     rdfs:label "金峰町花瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市金峰町宮崎
+    a mo:町域 ;
     rdfs:label "金峰町宮崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8993511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市坊津町秋目
+    a mo:町域 ;
     rdfs:label "坊津町秋目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市坊津町久志
+    a mo:町域 ;
     rdfs:label "坊津町久志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市坊津町泊
+    a mo:町域 ;
     rdfs:label "坊津町泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南さつま市坊津町坊
+    a mo:町域 ;
     rdfs:label "坊津町坊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8980101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市
     rdfs:label "志布志市"@ja ;
@@ -4278,94 +5950,138 @@ mr:JP_鹿児島県志布志市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町伊崎田
+    a mo:町域 ;
     rdfs:label "有明町伊崎田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町野井倉
+    a mo:町域 ;
     rdfs:label "有明町野井倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町野神
+    a mo:町域 ;
     rdfs:label "有明町野神"@ja ;
     mo:SubRegion mr:JP_鹿児島県志布志市有明町野神抜谷 ;
     mo:SubRegion mr:JP_鹿児島県志布志市有明町野神塗木 ;
     mo:SubRegion mr:JP_鹿児島県志布志市有明町野神本地 ;
     mo:SubRegion mr:JP_鹿児島県志布志市有明町野神曲 ;
     mo:SubRegion mr:JP_鹿児島県志布志市有明町野神水ノ谷 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998312" ;
+    mo:JP_郵便番号 "8997512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町野神抜谷
     rdfs:label "抜谷"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町野神塗木
     rdfs:label "塗木"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町野神本地
     rdfs:label "本地"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町野神曲
     rdfs:label "曲"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町野神水ノ谷
     rdfs:label "水ノ谷"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8998312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町原田
+    a mo:町域 ;
     rdfs:label "有明町原田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町蓬原
+    a mo:町域 ;
     rdfs:label "有明町蓬原"@ja ;
     mo:SubRegion mr:JP_鹿児島県志布志市有明町蓬原春日 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997503" ;
+    mo:JP_郵便番号 "8997403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町蓬原春日
     rdfs:label "春日"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8997403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市有明町山重
+    a mo:町域 ;
     rdfs:label "有明町山重"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997513" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市志布志町安楽
+    a mo:町域 ;
     rdfs:label "志布志町安楽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市志布志町内之倉
+    a mo:町域 ;
     rdfs:label "志布志町内之倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市志布志町志布志
+    a mo:町域 ;
     rdfs:label "志布志町志布志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市志布志町田之浦
+    a mo:町域 ;
     rdfs:label "志布志町田之浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市志布志町帖
+    a mo:町域 ;
     rdfs:label "志布志町帖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市志布志町夏井
+    a mo:町域 ;
     rdfs:label "志布志町夏井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市松山町尾野見
+    a mo:町域 ;
     rdfs:label "松山町尾野見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市松山町新橋
+    a mo:町域 ;
     rdfs:label "松山町新橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県志布志市松山町泰野
+    a mo:町域 ;
     rdfs:label "松山町泰野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市
     rdfs:label "奄美市"@ja ;
@@ -4453,330 +6169,494 @@ mr:JP_鹿児島県奄美市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町宇宿
+    a mo:町域 ;
     rdfs:label "笠利町宇宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町笠利
+    a mo:町域 ;
     rdfs:label "笠利町笠利"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940622" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町川上
+    a mo:町域 ;
     rdfs:label "笠利町川上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940625" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町喜瀬
+    a mo:町域 ;
     rdfs:label "笠利町喜瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940507" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町里
+    a mo:町域 ;
     rdfs:label "笠利町里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町佐仁
+    a mo:町域 ;
     rdfs:label "笠利町佐仁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940627" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町須野
+    a mo:町域 ;
     rdfs:label "笠利町須野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940624" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町節田
+    a mo:町域 ;
     rdfs:label "笠利町節田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940504" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町外金久
+    a mo:町域 ;
     rdfs:label "笠利町外金久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940513" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町平
+    a mo:町域 ;
     rdfs:label "笠利町平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940505" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町手花部
+    a mo:町域 ;
     rdfs:label "笠利町手花部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940506" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町中金久
+    a mo:町域 ;
     rdfs:label "笠利町中金久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町辺留
+    a mo:町域 ;
     rdfs:label "笠利町辺留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940623" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町万屋
+    a mo:町域 ;
     rdfs:label "笠利町万屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町屋仁
+    a mo:町域 ;
     rdfs:label "笠利町屋仁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940626" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町用
+    a mo:町域 ;
     rdfs:label "笠利町用"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940621" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町用安
+    a mo:町域 ;
     rdfs:label "笠利町用安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940508" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市笠利町和野
+    a mo:町域 ;
     rdfs:label "笠利町和野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940503" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町石原
+    a mo:町域 ;
     rdfs:label "住用町石原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町市
+    a mo:町域 ;
     rdfs:label "住用町市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941321" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町神屋
+    a mo:町域 ;
     rdfs:label "住用町神屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町川内
+    a mo:町域 ;
     rdfs:label "住用町川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941115" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町城
+    a mo:町域 ;
     rdfs:label "住用町城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941111" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町摺勝
+    a mo:町域 ;
     rdfs:label "住用町摺勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941116" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町西仲間
+    a mo:町域 ;
     rdfs:label "住用町西仲間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町東仲間
+    a mo:町域 ;
     rdfs:label "住用町東仲間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941114" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町見里
+    a mo:町域 ;
     rdfs:label "住用町見里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941113" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町役勝
+    a mo:町域 ;
     rdfs:label "住用町役勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町山間
+    a mo:町域 ;
     rdfs:label "住用町山間"@ja ;
     mo:SubRegion mr:JP_鹿児島県奄美市住用町山間戸玉 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941304" ;
+    mo:JP_郵便番号 "8941204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町山間戸玉
     rdfs:label "戸玉"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8941304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市住用町和瀬
+    a mo:町域 ;
     rdfs:label "住用町和瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941112" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬朝戸
+    a mo:町域 ;
     rdfs:label "名瀬朝戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940773" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬朝仁
+    a mo:町域 ;
     rdfs:label "名瀬朝仁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940043" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬朝仁新町
+    a mo:町域 ;
     rdfs:label "名瀬朝仁新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940041" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬朝仁町
+    a mo:町域 ;
     rdfs:label "名瀬朝仁町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940042" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬朝日町
+    a mo:町域 ;
     rdfs:label "名瀬朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940061" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬芦花部
+    a mo:町域 ;
     rdfs:label "名瀬芦花部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940351" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬有屋
+    a mo:町域 ;
     rdfs:label "名瀬有屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940002" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬有屋町
+    a mo:町域 ;
     rdfs:label "名瀬有屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940062" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬有良
+    a mo:町域 ;
     rdfs:label "名瀬有良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940352" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬安勝町
+    a mo:町域 ;
     rdfs:label "名瀬安勝町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940011" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬石橋町
+    a mo:町域 ;
     rdfs:label "名瀬石橋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940017" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬伊津部勝
+    a mo:町域 ;
     rdfs:label "名瀬伊津部勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940774" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬伊津部町
+    a mo:町域 ;
     rdfs:label "名瀬伊津部町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940021" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬井根町
+    a mo:町域 ;
     rdfs:label "名瀬井根町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940024" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬入舟町
+    a mo:町域 ;
     rdfs:label "名瀬入舟町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940034" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬浦上
+    a mo:町域 ;
     rdfs:label "名瀬浦上"@ja ;
     mo:SubRegion mr:JP_鹿児島県奄美市名瀬浦上小又 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940008" ;
+    mo:JP_郵便番号 "8940108" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬浦上小又
     rdfs:label "小又"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8940108" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬浦上町
+    a mo:町域 ;
     rdfs:label "名瀬浦上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940068" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬春日町
+    a mo:町域 ;
     rdfs:label "名瀬春日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940013" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬金久町
+    a mo:町域 ;
     rdfs:label "名瀬金久町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940031" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬久里町
+    a mo:町域 ;
     rdfs:label "名瀬久里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940022" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬小宿
+    a mo:町域 ;
     rdfs:label "名瀬小宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940046" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬小浜町
+    a mo:町域 ;
     rdfs:label "名瀬小浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940006" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬小俣町
+    a mo:町域 ;
     rdfs:label "名瀬小俣町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940012" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬小湊
+    a mo:町域 ;
     rdfs:label "名瀬小湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940771" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬幸町
+    a mo:町域 ;
     rdfs:label "名瀬幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940025" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬崎原
+    a mo:町域 ;
     rdfs:label "名瀬崎原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940776" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬佐大熊町
+    a mo:町域 ;
     rdfs:label "名瀬佐大熊町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940005" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬塩浜町
+    a mo:町域 ;
     rdfs:label "名瀬塩浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940035" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬末広町
+    a mo:町域 ;
     rdfs:label "名瀬末広町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940027" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬大熊
+    a mo:町域 ;
     rdfs:label "名瀬大熊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940001" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬大熊町
+    a mo:町域 ;
     rdfs:label "名瀬大熊町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940009" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬知名瀬
+    a mo:町域 ;
     rdfs:label "名瀬知名瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940047" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬仲勝
+    a mo:町域 ;
     rdfs:label "名瀬仲勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940003" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬仲勝町
+    a mo:町域 ;
     rdfs:label "名瀬仲勝町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940063" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬永田町
+    a mo:町域 ;
     rdfs:label "名瀬永田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940023" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬長浜町
+    a mo:町域 ;
     rdfs:label "名瀬長浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940036" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬名瀬勝
+    a mo:町域 ;
     rdfs:label "名瀬名瀬勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940775" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬西仲勝
+    a mo:町域 ;
     rdfs:label "名瀬西仲勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940772" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬根瀬部
+    a mo:町域 ;
     rdfs:label "名瀬根瀬部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940048" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬鳩浜町
+    a mo:町域 ;
     rdfs:label "名瀬鳩浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940004" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬浜里町
+    a mo:町域 ;
     rdfs:label "名瀬浜里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940044" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬平田町
+    a mo:町域 ;
     rdfs:label "名瀬平田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940014" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬平松町
+    a mo:町域 ;
     rdfs:label "名瀬平松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940045" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬古田町
+    a mo:町域 ;
     rdfs:label "名瀬古田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940016" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬真名津町
+    a mo:町域 ;
     rdfs:label "名瀬真名津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940015" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬港町
+    a mo:町域 ;
     rdfs:label "名瀬港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940026" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬柳町
+    a mo:町域 ;
     rdfs:label "名瀬柳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940032" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬矢之脇町
+    a mo:町域 ;
     rdfs:label "名瀬矢之脇町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940033" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県奄美市名瀬和光町
+    a mo:町域 ;
     rdfs:label "名瀬和光町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940007" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市
     rdfs:label "南九州市"@ja ;
@@ -4815,124 +6695,184 @@ mr:JP_鹿児島県南九州市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市頴娃町上別府
+    a mo:町域 ;
     rdfs:label "頴娃町上別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910705" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市頴娃町郡
+    a mo:町域 ;
     rdfs:label "頴娃町郡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910701" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市頴娃町御領
+    a mo:町域 ;
     rdfs:label "頴娃町御領"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910703" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市頴娃町別府
+    a mo:町域 ;
     rdfs:label "頴娃町別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910704" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市頴娃町牧之内
+    a mo:町域 ;
     rdfs:label "頴娃町牧之内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910702" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町今田
+    a mo:町域 ;
     rdfs:label "川辺町今田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町小野
+    a mo:町域 ;
     rdfs:label "川辺町小野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970213" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町上山田
+    a mo:町域 ;
     rdfs:label "川辺町上山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970131" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町清水
+    a mo:町域 ;
     rdfs:label "川辺町清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町神殿
+    a mo:町域 ;
     rdfs:label "川辺町神殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町下山田
+    a mo:町域 ;
     rdfs:label "川辺町下山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970133" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町高田
+    a mo:町域 ;
     rdfs:label "川辺町高田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970223" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町田部田
+    a mo:町域 ;
     rdfs:label "川辺町田部田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970221" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町永田
+    a mo:町域 ;
     rdfs:label "川辺町永田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970222" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町中山田
+    a mo:町域 ;
     rdfs:label "川辺町中山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970132" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町野崎
+    a mo:町域 ;
     rdfs:label "川辺町野崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町野間
+    a mo:町域 ;
     rdfs:label "川辺町野間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町平山
+    a mo:町域 ;
     rdfs:label "川辺町平山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970215" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町古殿
+    a mo:町域 ;
     rdfs:label "川辺町古殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町宮
+    a mo:町域 ;
     rdfs:label "川辺町宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970214" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町本別府
+    a mo:町域 ;
     rdfs:label "川辺町本別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970224" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市川辺町両添
+    a mo:町域 ;
     rdfs:label "川辺町両添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市知覧町厚地
+    a mo:町域 ;
     rdfs:label "知覧町厚地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市知覧町郡
+    a mo:町域 ;
     rdfs:label "知覧町郡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市知覧町塩屋
+    a mo:町域 ;
     rdfs:label "知覧町塩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910911" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市知覧町瀬世
+    a mo:町域 ;
     rdfs:label "知覧町瀬世"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市知覧町永里
+    a mo:町域 ;
     rdfs:label "知覧町永里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市知覧町西元
+    a mo:町域 ;
     rdfs:label "知覧町西元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970306" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市知覧町東別府
+    a mo:町域 ;
     rdfs:label "知覧町東別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8970304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県南九州市知覧町南別府
+    a mo:町域 ;
     rdfs:label "知覧町南別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8910912" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市
     rdfs:label "伊佐市"@ja ;
@@ -4978,152 +6918,226 @@ mr:JP_鹿児島県伊佐市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口青木
+    a mo:町域 ;
     rdfs:label "大口青木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952504" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口牛尾
+    a mo:町域 ;
     rdfs:label "大口牛尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口大島
+    a mo:町域 ;
     rdfs:label "大口大島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952522" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口大田
+    a mo:町域 ;
     rdfs:label "大口大田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952507" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口金波田
+    a mo:町域 ;
     rdfs:label "大口金波田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952523" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口上町
+    a mo:町域 ;
     rdfs:label "大口上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952513" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口川岩瀬
+    a mo:町域 ;
     rdfs:label "大口川岩瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952528" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口木ノ氏
+    a mo:町域 ;
     rdfs:label "大口木ノ氏"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口小川内
+    a mo:町域 ;
     rdfs:label "大口小川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952634" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口小木原
+    a mo:町域 ;
     rdfs:label "大口小木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952631" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口里
+    a mo:町域 ;
     rdfs:label "大口里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口篠原
+    a mo:町域 ;
     rdfs:label "大口篠原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952503" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口下殿
+    a mo:町域 ;
     rdfs:label "大口下殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952525" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口白木
+    a mo:町域 ;
     rdfs:label "大口白木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952529" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口曽木
+    a mo:町域 ;
     rdfs:label "大口曽木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952441" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口田代
+    a mo:町域 ;
     rdfs:label "大口田代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952527" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口堂崎
+    a mo:町域 ;
     rdfs:label "大口堂崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952524" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口鳥巣
+    a mo:町域 ;
     rdfs:label "大口鳥巣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952521" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口原田
+    a mo:町域 ;
     rdfs:label "大口原田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952506" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口針持
+    a mo:町域 ;
     rdfs:label "大口針持"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952442" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口平出水
+    a mo:町域 ;
     rdfs:label "大口平出水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952633" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口渕辺
+    a mo:町域 ;
     rdfs:label "大口渕辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952632" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口宮人
+    a mo:町域 ;
     rdfs:label "大口宮人"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952526" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口目丸
+    a mo:町域 ;
     rdfs:label "大口目丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952505" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口元町
+    a mo:町域 ;
     rdfs:label "大口元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市大口山野
+    a mo:町域 ;
     rdfs:label "大口山野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952635" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈荒田
+    a mo:町域 ;
     rdfs:label "菱刈荒田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952811" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈市山
+    a mo:町域 ;
     rdfs:label "菱刈市山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952704" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈川北
+    a mo:町域 ;
     rdfs:label "菱刈川北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952708" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈川南
+    a mo:町域 ;
     rdfs:label "菱刈川南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952812" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈重留
+    a mo:町域 ;
     rdfs:label "菱刈重留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952705" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈下手
+    a mo:町域 ;
     rdfs:label "菱刈下手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952702" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈田中
+    a mo:町域 ;
     rdfs:label "菱刈田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952706" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈徳辺
+    a mo:町域 ;
     rdfs:label "菱刈徳辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952707" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈花北
+    a mo:町域 ;
     rdfs:label "菱刈花北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952703" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈前目
+    a mo:町域 ;
     rdfs:label "菱刈前目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952701" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県伊佐市菱刈南浦
+    a mo:町域 ;
     rdfs:label "菱刈南浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952813" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市
     rdfs:label "姶良市"@ja ;
@@ -5179,192 +7193,286 @@ mr:JP_鹿児島県姶良市
 a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市池島町
+    a mo:町域 ;
     rdfs:label "池島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995653" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市大山
+    a mo:町域 ;
     rdfs:label "大山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995544" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町朝日町
+    a mo:町域 ;
     rdfs:label "加治木町朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995213" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町仮屋町
+    a mo:町域 ;
     rdfs:label "加治木町仮屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995214" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町木田
+    a mo:町域 ;
     rdfs:label "加治木町木田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995241" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町錦江町
+    a mo:町域 ;
     rdfs:label "加治木町錦江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995222" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町小山田
+    a mo:町域 ;
     rdfs:label "加治木町小山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町新生町
+    a mo:町域 ;
     rdfs:label "加治木町新生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995223" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町新富町
+    a mo:町域 ;
     rdfs:label "加治木町新富町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町諏訪町
+    a mo:町域 ;
     rdfs:label "加治木町諏訪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町反土
+    a mo:町域 ;
     rdfs:label "加治木町反土"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995231" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町西別府
+    a mo:町域 ;
     rdfs:label "加治木町西別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町日木山
+    a mo:町域 ;
     rdfs:label "加治木町日木山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町辺川
+    a mo:町域 ;
     rdfs:label "加治木町辺川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町港町
+    a mo:町域 ;
     rdfs:label "加治木町港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995221" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市加治木町本町
+    a mo:町域 ;
     rdfs:label "加治木町本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995215" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市上名
+    a mo:町域 ;
     rdfs:label "上名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995542" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市蒲生町漆
+    a mo:町域 ;
     rdfs:label "蒲生町漆"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市蒲生町上久徳
+    a mo:町域 ;
     rdfs:label "蒲生町上久徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市蒲生町北
+    a mo:町域 ;
     rdfs:label "蒲生町北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市蒲生町下久徳
+    a mo:町域 ;
     rdfs:label "蒲生町下久徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市蒲生町白男
+    a mo:町域 ;
     rdfs:label "蒲生町白男"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市蒲生町西浦
+    a mo:町域 ;
     rdfs:label "蒲生町西浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995306" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市蒲生町久末
+    a mo:町域 ;
     rdfs:label "蒲生町久末"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995307" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市蒲生町米丸
+    a mo:町域 ;
     rdfs:label "蒲生町米丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995308" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市北山
+    a mo:町域 ;
     rdfs:label "北山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995541" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市木津志
+    a mo:町域 ;
     rdfs:label "木津志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995545" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市三拾町
+    a mo:町域 ;
     rdfs:label "三拾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995412" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市下名
+    a mo:町域 ;
     rdfs:label "下名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995543" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市住吉
+    a mo:町域 ;
     rdfs:label "住吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995405" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市寺師
+    a mo:町域 ;
     rdfs:label "寺師"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市豊留
+    a mo:町域 ;
     rdfs:label "豊留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995413" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市永池町
+    a mo:町域 ;
     rdfs:label "永池町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995654" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市永瀬
+    a mo:町域 ;
     rdfs:label "永瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995404" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市中津野
+    a mo:町域 ;
     rdfs:label "中津野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市鍋倉
+    a mo:町域 ;
     rdfs:label "鍋倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995411" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市西姶良
+    a mo:町域 ;
     rdfs:label "西姶良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995656" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市西宮島町
+    a mo:町域 ;
     rdfs:label "西宮島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995433" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市西餠田
+    a mo:町域 ;
     rdfs:label "西餠田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995431" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市東餠田
+    a mo:町域 ;
     rdfs:label "東餠田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995421" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市平松
+    a mo:町域 ;
     rdfs:label "平松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995652" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市深水
+    a mo:町域 ;
     rdfs:label "深水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995414" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市船津
+    a mo:町域 ;
     rdfs:label "船津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995655" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市増田
+    a mo:町域 ;
     rdfs:label "増田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市松原町
+    a mo:町域 ;
     rdfs:label "松原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995422" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市宮島町
+    a mo:町域 ;
     rdfs:label "宮島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995432" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良市脇元
+    a mo:町域 ;
     rdfs:label "脇元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8995651" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡三島村
     rdfs:label "鹿児島郡三島村"@ja ;
@@ -5376,16 +7484,22 @@ mr:JP_鹿児島県鹿児島郡三島村
 a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡三島村硫黄島
+    a mo:町域 ;
     rdfs:label "硫黄島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900901" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡三島村黒島
+    a mo:町域 ;
     rdfs:label "黒島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900902" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡三島村竹島
+    a mo:町域 ;
     rdfs:label "竹島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8900903" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡十島村
     rdfs:label "鹿児島郡十島村"@ja ;
@@ -5401,32 +7515,46 @@ mr:JP_鹿児島県鹿児島郡十島村
 a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡十島村悪石島
+    a mo:町域 ;
     rdfs:label "悪石島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8915204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡十島村口之島
+    a mo:町域 ;
     rdfs:label "口之島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8915101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡十島村小宝島
+    a mo:町域 ;
     rdfs:label "小宝島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8915205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡十島村諏訪之瀬島
+    a mo:町域 ;
     rdfs:label "諏訪之瀬島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8915203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡十島村平島
+    a mo:町域 ;
     rdfs:label "平島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8915202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡十島村宝島
+    a mo:町域 ;
     rdfs:label "宝島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8915301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県鹿児島郡十島村中之島
+    a mo:町域 ;
     rdfs:label "中之島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8915201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町
     rdfs:label "薩摩郡さつま町"@ja ;
@@ -5460,104 +7588,154 @@ mr:JP_鹿児島県薩摩郡さつま町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町旭町
+    a mo:町域 ;
     rdfs:label "旭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951814" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町柏原
+    a mo:町域 ;
     rdfs:label "柏原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町柊野
+    a mo:町域 ;
     rdfs:label "柊野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952131" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町久富木
+    a mo:町域 ;
     rdfs:label "久富木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951722" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町求名
+    a mo:町域 ;
     rdfs:label "求名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町神子
+    a mo:町域 ;
     rdfs:label "神子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町紫尾
+    a mo:町域 ;
     rdfs:label "紫尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町白男川
+    a mo:町域 ;
     rdfs:label "白男川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951805" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町田原
+    a mo:町域 ;
     rdfs:label "田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951802" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町鶴田
+    a mo:町域 ;
     rdfs:label "鶴田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町時吉
+    a mo:町域 ;
     rdfs:label "時吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951816" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町轟町
+    a mo:町域 ;
     rdfs:label "轟町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951813" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町泊野
+    a mo:町域 ;
     rdfs:label "泊野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951806" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町虎居
+    a mo:町域 ;
     rdfs:label "虎居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951811" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町虎居町
+    a mo:町域 ;
     rdfs:label "虎居町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951812" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町中津川
+    a mo:町域 ;
     rdfs:label "中津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町永野
+    a mo:町域 ;
     rdfs:label "永野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8952203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町西新町
+    a mo:町域 ;
     rdfs:label "西新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951815" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町平川
+    a mo:町域 ;
     rdfs:label "平川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951807" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町広瀬
+    a mo:町域 ;
     rdfs:label "広瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951801" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町二渡
+    a mo:町域 ;
     rdfs:label "二渡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951723" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町船木
+    a mo:町域 ;
     rdfs:label "船木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951804" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町宮之城屋地
+    a mo:町域 ;
     rdfs:label "宮之城屋地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951803" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町山崎
+    a mo:町域 ;
     rdfs:label "山崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951721" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県薩摩郡さつま町湯田
+    a mo:町域 ;
     rdfs:label "湯田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8951817" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町
     rdfs:label "出水郡長島町"@ja ;
@@ -5577,48 +7755,70 @@ mr:JP_鹿児島県出水郡長島町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町浦底
+    a mo:町域 ;
     rdfs:label "浦底"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町川床
+    a mo:町域 ;
     rdfs:label "川床"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町蔵之元
+    a mo:町域 ;
     rdfs:label "蔵之元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町指江
+    a mo:町域 ;
     rdfs:label "指江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町獅子島
+    a mo:町域 ;
     rdfs:label "獅子島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町下山門野
+    a mo:町域 ;
     rdfs:label "下山門野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991321" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町城川内
+    a mo:町域 ;
     rdfs:label "城川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町諸浦
+    a mo:町域 ;
     rdfs:label "諸浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町鷹巣
+    a mo:町域 ;
     rdfs:label "鷹巣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町平尾
+    a mo:町域 ;
     rdfs:label "平尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県出水郡長島町山門野
+    a mo:町域 ;
     rdfs:label "山門野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8991211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町
     rdfs:label "姶良郡湧水町"@ja ;
@@ -5639,52 +7839,76 @@ mr:JP_鹿児島県姶良郡湧水町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町稲葉崎
+    a mo:町域 ;
     rdfs:label "稲葉崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町川添
+    a mo:町域 ;
     rdfs:label "川添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町川西
+    a mo:町域 ;
     rdfs:label "川西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町北方
+    a mo:町域 ;
     rdfs:label "北方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町幸田
+    a mo:町域 ;
     rdfs:label "幸田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町木場
+    a mo:町域 ;
     rdfs:label "木場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町田尾原
+    a mo:町域 ;
     rdfs:label "田尾原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町恒次
+    a mo:町域 ;
     rdfs:label "恒次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町鶴丸
+    a mo:町域 ;
     rdfs:label "鶴丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町中津川
+    a mo:町域 ;
     rdfs:label "中津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町般若寺
+    a mo:町域 ;
     rdfs:label "般若寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県姶良郡湧水町米永
+    a mo:町域 ;
     rdfs:label "米永"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8996207" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町
     rdfs:label "曽於郡大崎町"@ja ;
@@ -5703,44 +7927,64 @@ mr:JP_鹿児島県曽於郡大崎町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町井俣
+    a mo:町域 ;
     rdfs:label "井俣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997309" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町岡別府
+    a mo:町域 ;
     rdfs:label "岡別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997308" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町假宿
+    a mo:町域 ;
     rdfs:label "假宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町神領
+    a mo:町域 ;
     rdfs:label "神領"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町永吉
+    a mo:町域 ;
     rdfs:label "永吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997306" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町野方
+    a mo:町域 ;
     rdfs:label "野方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8998313" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町菱田
+    a mo:町域 ;
     rdfs:label "菱田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町益丸
+    a mo:町域 ;
     rdfs:label "益丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町持留
+    a mo:町域 ;
     rdfs:label "持留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997307" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県曽於郡大崎町横瀬
+    a mo:町域 ;
     rdfs:label "横瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8997304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡東串良町
     rdfs:label "肝属郡東串良町"@ja ;
@@ -5754,24 +7998,34 @@ mr:JP_鹿児島県肝属郡東串良町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡東串良町池之原
+    a mo:町域 ;
     rdfs:label "池之原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931612" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡東串良町岩弘
+    a mo:町域 ;
     rdfs:label "岩弘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931611" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡東串良町川東
+    a mo:町域 ;
     rdfs:label "川東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931615" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡東串良町川西
+    a mo:町域 ;
     rdfs:label "川西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931613" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡東串良町新川西
+    a mo:町域 ;
     rdfs:label "新川西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931614" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡錦江町
     rdfs:label "肝属郡錦江町"@ja ;
@@ -5785,24 +8039,34 @@ mr:JP_鹿児島県肝属郡錦江町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡錦江町神川
+    a mo:町域 ;
     rdfs:label "神川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡錦江町城元
+    a mo:町域 ;
     rdfs:label "城元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡錦江町田代川原
+    a mo:町域 ;
     rdfs:label "田代川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡錦江町田代麓
+    a mo:町域 ;
     rdfs:label "田代麓"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡錦江町馬場
+    a mo:町域 ;
     rdfs:label "馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町
     rdfs:label "肝属郡南大隅町"@ja ;
@@ -5820,40 +8084,58 @@ mr:JP_鹿児島県肝属郡南大隅町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町佐多伊座敷
+    a mo:町域 ;
     rdfs:label "佐多伊座敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町佐多郡
+    a mo:町域 ;
     rdfs:label "佐多郡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町佐多辺塚
+    a mo:町域 ;
     rdfs:label "佐多辺塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町佐多馬籠
+    a mo:町域 ;
     rdfs:label "佐多馬籠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932604" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町根占川北
+    a mo:町域 ;
     rdfs:label "根占川北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町根占川南
+    a mo:町域 ;
     rdfs:label "根占川南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町根占辺田
+    a mo:町域 ;
     rdfs:label "根占辺田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932505" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町根占山本
+    a mo:町域 ;
     rdfs:label "根占山本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932504" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡南大隅町根占横別府
+    a mo:町域 ;
     rdfs:label "根占横別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8932503" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町
     rdfs:label "肝属郡肝付町"@ja ;
@@ -5872,44 +8154,64 @@ mr:JP_鹿児島県肝属郡肝付町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町後田
+    a mo:町域 ;
     rdfs:label "後田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町岸良
+    a mo:町域 ;
     rdfs:label "岸良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町北方
+    a mo:町域 ;
     rdfs:label "北方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町富山
+    a mo:町域 ;
     rdfs:label "富山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町新富
+    a mo:町域 ;
     rdfs:label "新富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931207" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町野崎
+    a mo:町域 ;
     rdfs:label "野崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町波見
+    a mo:町域 ;
     rdfs:label "波見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町前田
+    a mo:町域 ;
     rdfs:label "前田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町南方
+    a mo:町域 ;
     rdfs:label "南方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県肝属郡肝付町宮下
+    a mo:町域 ;
     rdfs:label "宮下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8931205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡中種子町
     rdfs:label "熊毛郡中種子町"@ja ;
@@ -5925,32 +8227,46 @@ mr:JP_鹿児島県熊毛郡中種子町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡中種子町坂井
+    a mo:町域 ;
     rdfs:label "坂井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913606" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡中種子町田島
+    a mo:町域 ;
     rdfs:label "田島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913607" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡中種子町納官
+    a mo:町域 ;
     rdfs:label "納官"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡中種子町野間
+    a mo:町域 ;
     rdfs:label "野間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913604" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡中種子町牧川
+    a mo:町域 ;
     rdfs:label "牧川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡中種子町増田
+    a mo:町域 ;
     rdfs:label "増田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡中種子町油久
+    a mo:町域 ;
     rdfs:label "油久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913605" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡南種子町
     rdfs:label "熊毛郡南種子町"@ja ;
@@ -5965,28 +8281,40 @@ mr:JP_鹿児島県熊毛郡南種子町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡南種子町茎永
+    a mo:町域 ;
     rdfs:label "茎永"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913703" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡南種子町島間
+    a mo:町域 ;
     rdfs:label "島間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913706" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡南種子町中之上
+    a mo:町域 ;
     rdfs:label "中之上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913701" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡南種子町中之下
+    a mo:町域 ;
     rdfs:label "中之下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913704" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡南種子町西之
+    a mo:町域 ;
     rdfs:label "西之"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913705" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡南種子町平山
+    a mo:町域 ;
     rdfs:label "平山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8913702" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町
     rdfs:label "熊毛郡屋久島町"@ja ;
@@ -6013,81 +8341,120 @@ mr:JP_鹿児島県熊毛郡屋久島町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町安房
+    a mo:町域 ;
     rdfs:label "安房"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914311" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町一湊
+    a mo:町域 ;
     rdfs:label "一湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町尾之間
+    a mo:町域 ;
     rdfs:label "尾之間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914404" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町楠川
+    a mo:町域 ;
     rdfs:label "楠川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町口永良部島
+    a mo:町域 ;
     rdfs:label "口永良部島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914208" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町栗生
+    a mo:町域 ;
     rdfs:label "栗生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914409" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町小島
+    a mo:町域 ;
     rdfs:label "小島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914405" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町小瀬田
+    a mo:町域 ;
     rdfs:label "小瀬田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914207" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町志戸子
+    a mo:町域 ;
     rdfs:label "志戸子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町永田
+    a mo:町域 ;
     rdfs:label "永田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町中間
+    a mo:町域 ;
     rdfs:label "中間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914408" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町原
+    a mo:町域 ;
     rdfs:label "原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町平内
+    a mo:町域 ;
     rdfs:label "平内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914406" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町船行
+    a mo:町域 ;
     rdfs:label "船行"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914312" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町宮之浦
+    a mo:町域 ;
     rdfs:label "宮之浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町麦生
+    a mo:町域 ;
     rdfs:label "麦生"@ja ;
     mo:SubRegion mr:JP_鹿児島県熊毛郡屋久島町麦生高平 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914402" ;
+    mo:JP_郵便番号 "8914401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町麦生高平
     rdfs:label "高平"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8914401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町湯泊
+    a mo:町域 ;
     rdfs:label "湯泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914407" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県熊毛郡屋久島町吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8914202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村
     rdfs:label "大島郡大和村"@ja ;
@@ -6107,48 +8474,70 @@ mr:JP_鹿児島県大島郡大和村
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村今里
+    a mo:町域 ;
     rdfs:label "今里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943214" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村大金久
+    a mo:町域 ;
     rdfs:label "大金久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943107" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村大棚
+    a mo:町域 ;
     rdfs:label "大棚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943106" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村思勝
+    a mo:町域 ;
     rdfs:label "思勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村国直
+    a mo:町域 ;
     rdfs:label "国直"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村志戸勘
+    a mo:町域 ;
     rdfs:label "志戸勘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943213" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村津名久
+    a mo:町域 ;
     rdfs:label "津名久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村戸円
+    a mo:町域 ;
     rdfs:label "戸円"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村名音
+    a mo:町域 ;
     rdfs:label "名音"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村大和浜
+    a mo:町域 ;
     rdfs:label "大和浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡大和村湯湾釜
+    a mo:町域 ;
     rdfs:label "湯湾釜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村
     rdfs:label "大島郡宇検村"@ja ;
@@ -6171,60 +8560,88 @@ mr:JP_鹿児島県大島郡宇検村
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村芦検
+    a mo:町域 ;
     rdfs:label "芦検"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943302" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村阿室
+    a mo:町域 ;
     rdfs:label "阿室"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943632" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村生勝
+    a mo:町域 ;
     rdfs:label "生勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943413" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村石良
+    a mo:町域 ;
     rdfs:label "石良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村宇検
+    a mo:町域 ;
     rdfs:label "宇検"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943411" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村久志
+    a mo:町域 ;
     rdfs:label "久志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943412" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村佐念
+    a mo:町域 ;
     rdfs:label "佐念"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943522" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村須古
+    a mo:町域 ;
     rdfs:label "須古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村田検
+    a mo:町域 ;
     rdfs:label "田検"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村名柄
+    a mo:町域 ;
     rdfs:label "名柄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943521" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村部連
+    a mo:町域 ;
     rdfs:label "部連"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943523" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村平田
+    a mo:町域 ;
     rdfs:label "平田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943631" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村屋鈍
+    a mo:町域 ;
     rdfs:label "屋鈍"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943633" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡宇検村湯湾
+    a mo:町域 ;
     rdfs:label "湯湾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8943301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町
     rdfs:label "大島郡瀬戸内町"@ja ;
@@ -6285,110 +8702,163 @@ mr:JP_鹿児島県大島郡瀬戸内町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町秋徳
+    a mo:町域 ;
     rdfs:label "秋徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942234" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町阿木名
+    a mo:町域 ;
     rdfs:label "阿木名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941511" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町阿多地
+    a mo:町域 ;
     rdfs:label "阿多地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942411" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町阿鉄
+    a mo:町域 ;
     rdfs:label "阿鉄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941744" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町網野子
+    a mo:町域 ;
     rdfs:label "網野子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941513" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町阿室釜
+    a mo:町域 ;
     rdfs:label "阿室釜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941742" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町池地
+    a mo:町域 ;
     rdfs:label "池地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町生間
+    a mo:町域 ;
     rdfs:label "生間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942142" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町伊子茂
+    a mo:町域 ;
     rdfs:label "伊子茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942236" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町伊須
+    a mo:町域 ;
     rdfs:label "伊須"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941524" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町請阿室
+    a mo:町域 ;
     rdfs:label "請阿室"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町於斉
+    a mo:町域 ;
     rdfs:label "於斉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942235" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町押角
+    a mo:町域 ;
     rdfs:label "押角"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942231" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町勝浦
+    a mo:町域 ;
     rdfs:label "勝浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941512" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町勝能
+    a mo:町域 ;
     rdfs:label "勝能"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942232" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町嘉鉄
+    a mo:町域 ;
     rdfs:label "嘉鉄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941522" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町嘉徳
+    a mo:町域 ;
     rdfs:label "嘉徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941515" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町嘉入
+    a mo:町域 ;
     rdfs:label "嘉入"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942413" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町木慈
+    a mo:町域 ;
     rdfs:label "木慈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942417" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町久慈
+    a mo:町域 ;
     rdfs:label "久慈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941851" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町管鈍
+    a mo:町域 ;
     rdfs:label "管鈍"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941854" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町久根津
+    a mo:町域 ;
     rdfs:label "久根津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941746" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町花天
+    a mo:町域 ;
     rdfs:label "花天"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941853" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町花富
+    a mo:町域 ;
     rdfs:label "花富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942237" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古志
+    a mo:町域 ;
     rdfs:label "古志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941852" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町小名瀬
+    a mo:町域 ;
     rdfs:label "小名瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941743" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋
+    a mo:町域 ;
     rdfs:label "古仁屋"@ja ;
     mo:SubRegion mr:JP_鹿児島県大島郡瀬戸内町古仁屋大湊 ;
     mo:SubRegion mr:JP_鹿児島県大島郡瀬戸内町古仁屋春日 ;
@@ -6397,135 +8867,207 @@ mr:JP_鹿児島県大島郡瀬戸内町古仁屋
     mo:SubRegion mr:JP_鹿児島県大島郡瀬戸内町古仁屋船津 ;
     mo:SubRegion mr:JP_鹿児島県大島郡瀬戸内町古仁屋松江 ;
     mo:SubRegion mr:JP_鹿児島県大島郡瀬戸内町古仁屋宮前 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941501" ;
+    mo:JP_郵便番号 "8941504" ;
+    mo:JP_郵便番号 "8941506" ;
+    mo:JP_郵便番号 "8941503" ;
+    mo:JP_郵便番号 "8941505" ;
+    mo:JP_郵便番号 "8941502" ;
+    mo:JP_郵便番号 "8941507" ;
+    mo:JP_郵便番号 "8941508" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋大湊
     rdfs:label "大湊"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8941503" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋春日
     rdfs:label "春日"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8941504" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋瀬久井
     rdfs:label "瀬久井"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8941507" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋高丘
     rdfs:label "高丘"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8941501" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋船津
     rdfs:label "船津"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8941506" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋松江
     rdfs:label "松江"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8941505" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋宮前
     rdfs:label "宮前"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8941502" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋瀬久井西
+    a mo:町域 ;
     rdfs:label "古仁屋瀬久井西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941510" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町古仁屋瀬久井東
+    a mo:町域 ;
     rdfs:label "古仁屋瀬久井東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941509" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町薩川
+    a mo:町域 ;
     rdfs:label "薩川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942402" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町実久
+    a mo:町域 ;
     rdfs:label "実久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942403" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町篠川
+    a mo:町域 ;
     rdfs:label "篠川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941741" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町芝
+    a mo:町域 ;
     rdfs:label "芝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942404" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町諸数
+    a mo:町域 ;
     rdfs:label "諸数"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942144" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町諸鈍
+    a mo:町域 ;
     rdfs:label "諸鈍"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942141" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町須子茂
+    a mo:町域 ;
     rdfs:label "須子茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942412" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町清水
+    a mo:町域 ;
     rdfs:label "清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941521" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町瀬相
+    a mo:町域 ;
     rdfs:label "瀬相"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942322" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町瀬武
+    a mo:町域 ;
     rdfs:label "瀬武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942401" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町節子
+    a mo:町域 ;
     rdfs:label "節子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941514" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町蘇刈
+    a mo:町域 ;
     rdfs:label "蘇刈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941523" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町武名
+    a mo:町域 ;
     rdfs:label "武名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942416" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町知之浦
+    a mo:町域 ;
     rdfs:label "知之浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942415" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町手安
+    a mo:町域 ;
     rdfs:label "手安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941531" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町渡連
+    a mo:町域 ;
     rdfs:label "渡連"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942143" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町西阿室
+    a mo:町域 ;
     rdfs:label "西阿室"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942321" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町西古見
+    a mo:町域 ;
     rdfs:label "西古見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941855" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町野見山
+    a mo:町域 ;
     rdfs:label "野見山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942233" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町俵
+    a mo:町域 ;
     rdfs:label "俵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942323" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町三浦
+    a mo:町域 ;
     rdfs:label "三浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942414" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町油井
+    a mo:町域 ;
     rdfs:label "油井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8941745" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡瀬戸内町与路
+    a mo:町域 ;
     rdfs:label "与路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8942601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町
     rdfs:label "大島郡龍郷町"@ja ;
@@ -6550,68 +9092,100 @@ mr:JP_鹿児島県大島郡龍郷町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町赤尾木
+    a mo:町域 ;
     rdfs:label "赤尾木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940411" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町秋名
+    a mo:町域 ;
     rdfs:label "秋名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940333" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町芦徳
+    a mo:町域 ;
     rdfs:label "芦徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940412" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町安木屋場
+    a mo:町域 ;
     rdfs:label "安木屋場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940323" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町幾里
+    a mo:町域 ;
     rdfs:label "幾里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940332" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町浦
+    a mo:町域 ;
     rdfs:label "浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町円
+    a mo:町域 ;
     rdfs:label "円"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940324" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町大勝
+    a mo:町域 ;
     rdfs:label "大勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町嘉渡
+    a mo:町域 ;
     rdfs:label "嘉渡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940331" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町久場
+    a mo:町域 ;
     rdfs:label "久場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940322" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町瀬留
+    a mo:町域 ;
     rdfs:label "瀬留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町龍郷
+    a mo:町域 ;
     rdfs:label "龍郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940321" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町玉里
+    a mo:町域 ;
     rdfs:label "玉里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町戸口
+    a mo:町域 ;
     rdfs:label "戸口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940107" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町中勝
+    a mo:町域 ;
     rdfs:label "中勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940106" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡龍郷町屋入
+    a mo:町域 ;
     rdfs:label "屋入"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8940101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町
     rdfs:label "大島郡喜界町"@ja ;
@@ -6652,142 +9226,212 @@ mr:JP_鹿児島県大島郡喜界町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町赤連
+    a mo:町域 ;
     rdfs:label "赤連"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町阿伝
+    a mo:町域 ;
     rdfs:label "阿伝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916162" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町荒木
+    a mo:町域 ;
     rdfs:label "荒木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916231" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町池治
+    a mo:町域 ;
     rdfs:label "池治"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916221" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町伊砂
+    a mo:町域 ;
     rdfs:label "伊砂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916217" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町伊実久
+    a mo:町域 ;
     rdfs:label "伊実久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916141" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町浦原
+    a mo:町域 ;
     rdfs:label "浦原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916228" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町大朝戸
+    a mo:町域 ;
     rdfs:label "大朝戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916213" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町小野津
+    a mo:町域 ;
     rdfs:label "小野津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916142" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町嘉鈍
+    a mo:町域 ;
     rdfs:label "嘉鈍"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916161" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町上嘉鉄
+    a mo:町域 ;
     rdfs:label "上嘉鉄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916233" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町川嶺
+    a mo:町域 ;
     rdfs:label "川嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916227" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町城久
+    a mo:町域 ;
     rdfs:label "城久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916224" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町花良治
+    a mo:町域 ;
     rdfs:label "花良治"@ja ;
     mo:SubRegion mr:JP_鹿児島県大島郡喜界町花良治蒲生 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916164" ;
+    mo:JP_郵便番号 "8916163" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町花良治蒲生
     rdfs:label "蒲生"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8916163" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町坂嶺
+    a mo:町域 ;
     rdfs:label "坂嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916216" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町先山
+    a mo:町域 ;
     rdfs:label "先山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916229" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町佐手久
+    a mo:町域 ;
     rdfs:label "佐手久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916144" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町塩道
+    a mo:町域 ;
     rdfs:label "塩道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916151" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町志戸桶
+    a mo:町域 ;
     rdfs:label "志戸桶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916143" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町島中
+    a mo:町域 ;
     rdfs:label "島中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916222" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町白水
+    a mo:町域 ;
     rdfs:label "白水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916154" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町早町
+    a mo:町域 ;
     rdfs:label "早町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916152" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町滝川
+    a mo:町域 ;
     rdfs:label "滝川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916223" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町手久津久
+    a mo:町域 ;
     rdfs:label "手久津久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916232" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町中熊
+    a mo:町域 ;
     rdfs:label "中熊"@ja ;
     mo:SubRegion mr:JP_鹿児島県大島郡喜界町中熊先内 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916212" ;
+    mo:JP_郵便番号 "8916215" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町中熊先内
     rdfs:label "先内"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8916212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町中里
+    a mo:町域 ;
     rdfs:label "中里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町中間
+    a mo:町域 ;
     rdfs:label "中間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町長嶺
+    a mo:町域 ;
     rdfs:label "長嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916153" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町西目
+    a mo:町域 ;
     rdfs:label "西目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916214" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町羽里
+    a mo:町域 ;
     rdfs:label "羽里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916226" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916225" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡喜界町湾
+    a mo:町域 ;
     rdfs:label "湾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8916202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町
     rdfs:label "大島郡徳之島町"@ja ;
@@ -6813,72 +9457,106 @@ mr:JP_鹿児島県大島郡徳之島町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町旭ケ丘
+    a mo:町域 ;
     rdfs:label "旭ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917116" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町井之川
+    a mo:町域 ;
     rdfs:label "井之川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917114" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町尾母
+    a mo:町域 ;
     rdfs:label "尾母"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町金見
+    a mo:町域 ;
     rdfs:label "金見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917422" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町神之嶺
+    a mo:町域 ;
     rdfs:label "神之嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917113" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町亀津
+    a mo:町域 ;
     rdfs:label "亀津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町亀徳
+    a mo:町域 ;
     rdfs:label "亀徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町花徳
+    a mo:町域 ;
     rdfs:label "花徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917425" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町山
+    a mo:町域 ;
     rdfs:label "山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917423" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町下久志
+    a mo:町域 ;
     rdfs:label "下久志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917115" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町諸田
+    a mo:町域 ;
     rdfs:label "諸田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917112" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町白井
+    a mo:町域 ;
     rdfs:label "白井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917105" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町手々
+    a mo:町域 ;
     rdfs:label "手々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917421" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町徳和瀬
+    a mo:町域 ;
     rdfs:label "徳和瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917111" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町轟木
+    a mo:町域 ;
     rdfs:label "轟木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917424" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町母間
+    a mo:町域 ;
     rdfs:label "母間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917426" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡徳之島町南原
+    a mo:町域 ;
     rdfs:label "南原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町
     rdfs:label "大島郡天城町"@ja ;
@@ -6899,52 +9577,76 @@ mr:JP_鹿児島県大島郡天城町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町浅間
+    a mo:町域 ;
     rdfs:label "浅間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917605" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町天城
+    a mo:町域 ;
     rdfs:label "天城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917611" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町大津川
+    a mo:町域 ;
     rdfs:label "大津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917622" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町岡前
+    a mo:町域 ;
     rdfs:label "岡前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917603" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町兼久
+    a mo:町域 ;
     rdfs:label "兼久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917621" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町瀬滝
+    a mo:町域 ;
     rdfs:label "瀬滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917623" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町当部
+    a mo:町域 ;
     rdfs:label "当部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917624" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町西阿木名
+    a mo:町域 ;
     rdfs:label "西阿木名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917731" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町平土野
+    a mo:町域 ;
     rdfs:label "平土野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917612" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町前野
+    a mo:町域 ;
     rdfs:label "前野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917604" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町松原
+    a mo:町域 ;
     rdfs:label "松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917602" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡天城町与名間
+    a mo:町域 ;
     rdfs:label "与名間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8917601" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町
     rdfs:label "大島郡伊仙町"@ja ;
@@ -6970,72 +9672,108 @@ mr:JP_鹿児島県大島郡伊仙町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町阿権
+    a mo:町域 ;
     rdfs:label "阿権"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918322" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町阿三
+    a mo:町域 ;
     rdfs:label "阿三"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918321" ;
+    mo:JP_郵便番号 "8918221" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町伊仙
+    a mo:町域 ;
     rdfs:label "伊仙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町糸木名
+    a mo:町域 ;
     rdfs:label "糸木名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918324" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町犬田布
+    a mo:町域 ;
     rdfs:label "犬田布"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918327" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町面縄
+    a mo:町域 ;
     rdfs:label "面縄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918114" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町喜念
+    a mo:町域 ;
     rdfs:label "喜念"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918111" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町木之香
+    a mo:町域 ;
     rdfs:label "木之香"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918323" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町検福
+    a mo:町域 ;
     rdfs:label "検福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918116" ;
+    mo:JP_郵便番号 "8918216" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町小島
+    a mo:町域 ;
     rdfs:label "小島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918329" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町崎原
+    a mo:町域 ;
     rdfs:label "崎原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918328" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町佐弁
+    a mo:町域 ;
     rdfs:label "佐弁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918112" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918117" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町馬根
+    a mo:町域 ;
     rdfs:label "馬根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918326" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町古里
+    a mo:町域 ;
     rdfs:label "古里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918115" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町目手久
+    a mo:町域 ;
     rdfs:label "目手久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918113" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡伊仙町八重竿
+    a mo:町域 ;
     rdfs:label "八重竿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8918325" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町
     rdfs:label "大島郡和泊町"@ja ;
@@ -7065,88 +9803,130 @@ mr:JP_鹿児島県大島郡和泊町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町畦布
+    a mo:町域 ;
     rdfs:label "畦布"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919114" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町伊延
+    a mo:町域 ;
     rdfs:label "伊延"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919115" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町上手々知名
+    a mo:町域 ;
     rdfs:label "上手々知名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919116" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町内城
+    a mo:町域 ;
     rdfs:label "内城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919131" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町大城
+    a mo:町域 ;
     rdfs:label "大城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919125" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町喜美留
+    a mo:町域 ;
     rdfs:label "喜美留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919102" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町国頭
+    a mo:町域 ;
     rdfs:label "国頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919101" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町後蘭
+    a mo:町域 ;
     rdfs:label "後蘭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919132" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町瀬名
+    a mo:町域 ;
     rdfs:label "瀬名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919136" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町谷山
+    a mo:町域 ;
     rdfs:label "谷山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919133" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町玉城
+    a mo:町域 ;
     rdfs:label "玉城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919122" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町出花
+    a mo:町域 ;
     rdfs:label "出花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919103" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町手々知名
+    a mo:町域 ;
     rdfs:label "手々知名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919111" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町永嶺
+    a mo:町域 ;
     rdfs:label "永嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919135" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町仁志
+    a mo:町域 ;
     rdfs:label "仁志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919134" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町西原
+    a mo:町域 ;
     rdfs:label "西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919104" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町根折
+    a mo:町域 ;
     rdfs:label "根折"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919121" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町古里
+    a mo:町域 ;
     rdfs:label "古里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919124" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町皆川
+    a mo:町域 ;
     rdfs:label "皆川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919123" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町和
+    a mo:町域 ;
     rdfs:label "和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919113" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡和泊町和泊
+    a mo:町域 ;
     rdfs:label "和泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919112" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町
     rdfs:label "大島郡知名町"@ja ;
@@ -7175,84 +9955,124 @@ mr:JP_鹿児島県大島郡知名町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町赤嶺
+    a mo:町域 ;
     rdfs:label "赤嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919206" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町芦清良
+    a mo:町域 ;
     rdfs:label "芦清良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919211" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町余多
+    a mo:町域 ;
     rdfs:label "余多"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919201" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町大津勘
+    a mo:町域 ;
     rdfs:label "大津勘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919221" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町上城
+    a mo:町域 ;
     rdfs:label "上城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919234" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町上平川
+    a mo:町域 ;
     rdfs:label "上平川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919204" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町久志検
+    a mo:町域 ;
     rdfs:label "久志検"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919205" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町黒貫
+    a mo:町域 ;
     rdfs:label "黒貫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919212" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町竿津
+    a mo:町域 ;
     rdfs:label "竿津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919207" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町下城
+    a mo:町域 ;
     rdfs:label "下城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919233" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町下平川
+    a mo:町域 ;
     rdfs:label "下平川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919203" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町新城
+    a mo:町域 ;
     rdfs:label "新城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919232" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町住吉
+    a mo:町域 ;
     rdfs:label "住吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919223" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町瀬利覚
+    a mo:町域 ;
     rdfs:label "瀬利覚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919213" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町田皆
+    a mo:町域 ;
     rdfs:label "田皆"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919231" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町知名
+    a mo:町域 ;
     rdfs:label "知名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919214" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町徳時
+    a mo:町域 ;
     rdfs:label "徳時"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919222" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町正名
+    a mo:町域 ;
     rdfs:label "正名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919224" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町屋子母
+    a mo:町域 ;
     rdfs:label "屋子母"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919215" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡知名町屋者
+    a mo:町域 ;
     rdfs:label "屋者"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919202" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町
     rdfs:label "大島郡与論町"@ja ;
@@ -7270,38 +10090,56 @@ mr:JP_鹿児島県大島郡与論町
 a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町朝戸
+    a mo:町域 ;
     rdfs:label "朝戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919304" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町叶
+    a mo:町域 ;
     rdfs:label "叶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919309" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町城
+    a mo:町域 ;
     rdfs:label "城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919303" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町茶花
+    a mo:町域 ;
     rdfs:label "茶花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919301" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町那間
+    a mo:町域 ;
     rdfs:label "那間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919308" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町西区
+    a mo:町域 ;
     rdfs:label "西区"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919305" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町東区
+    a mo:町域 ;
     rdfs:label "東区"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919306" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町古里
+    a mo:町域 ;
     rdfs:label "古里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919307" ;
+a mo:GeoEntity .
 
 mr:JP_鹿児島県大島郡与論町立長
+    a mo:町域 ;
     rdfs:label "立長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8919302" ;
+a mo:GeoEntity .
 

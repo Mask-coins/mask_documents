@@ -480,1720 +480,2578 @@ mr:JP_和歌山県和歌山市
 a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市葵町
+    a mo:町域 ;
     rdfs:label "葵町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408273" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市秋月
+    a mo:町域 ;
     rdfs:label "秋月"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408322" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市秋葉町
+    a mo:町域 ;
     rdfs:label "秋葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410056" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市朝日
+    a mo:町域 ;
     rdfs:label "朝日"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400344" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市芦辺丁
+    a mo:町域 ;
     rdfs:label "芦辺丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408134" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小豆島
+    a mo:町域 ;
     rdfs:label "小豆島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496336" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市網屋町
+    a mo:町域 ;
     rdfs:label "網屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408238" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市有家
+    a mo:町域 ;
     rdfs:label "有家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408316" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市有田屋町
+    a mo:町域 ;
     rdfs:label "有田屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408248" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市有田屋町西ノ丁
+    a mo:町域 ;
     rdfs:label "有田屋町西ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408246" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市有田屋町南ノ丁
+    a mo:町域 ;
     rdfs:label "有田屋町南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408245" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市有本
+    a mo:町域 ;
     rdfs:label "有本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408390" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新内
+    a mo:町域 ;
     rdfs:label "新内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408351" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市粟
+    a mo:町域 ;
     rdfs:label "粟"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408462" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市石橋丁
+    a mo:町域 ;
     rdfs:label "石橋丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市磯の浦
+    a mo:町域 ;
     rdfs:label "磯の浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400114" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市板屋町
+    a mo:町域 ;
     rdfs:label "板屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408044" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市伊太祈曽
+    a mo:町域 ;
     rdfs:label "伊太祈曽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400361" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市市小路
+    a mo:町域 ;
     rdfs:label "市小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408464" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市一番丁
+    a mo:町域 ;
     rdfs:label "一番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408146" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市五筋目
+    a mo:町域 ;
     rdfs:label "五筋目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408076" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市井戸
+    a mo:町域 ;
     rdfs:label "井戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400352" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市井ノ口
+    a mo:町域 ;
     rdfs:label "井ノ口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496323" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市今福
+    a mo:町域 ;
     rdfs:label "今福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410044" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市岩橋
+    a mo:町域 ;
     rdfs:label "岩橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408301" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市井辺
+    a mo:町域 ;
     rdfs:label "井辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408302" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496316" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市上野町
+    a mo:町域 ;
     rdfs:label "上野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408242" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市植松丁
+    a mo:町域 ;
     rdfs:label "植松丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408298" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市宇治鉄砲場
+    a mo:町域 ;
     rdfs:label "宇治鉄砲場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408078" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市宇治袋町
+    a mo:町域 ;
     rdfs:label "宇治袋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408039" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市宇治家裏
+    a mo:町域 ;
     rdfs:label "宇治家裏"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408072" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市宇治薮下
+    a mo:町域 ;
     rdfs:label "宇治薮下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408071" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市宇須
+    a mo:町域 ;
     rdfs:label "宇須"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410043" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市宇田森
+    a mo:町域 ;
     rdfs:label "宇田森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496332" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市打越町
+    a mo:町域 ;
     rdfs:label "打越町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410053" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市内原
+    a mo:町域 ;
     rdfs:label "内原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410013" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市梅原
+    a mo:町域 ;
     rdfs:label "梅原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408452" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市上町
+    a mo:町域 ;
     rdfs:label "上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408239" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市餌差町
+    a mo:町域 ;
     rdfs:label "餌差町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408335" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市江南
+    a mo:町域 ;
     rdfs:label "江南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400343" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市榎原
+    a mo:町域 ;
     rdfs:label "榎原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408434" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市大川
+    a mo:町域 ;
     rdfs:label "大川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市大河内
+    a mo:町域 ;
     rdfs:label "大河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400316" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市大垣内
+    a mo:町域 ;
     rdfs:label "大垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496272" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408472" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市太田
+    a mo:町域 ;
     rdfs:label "太田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408323" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市岡円福院東ノ丁
+    a mo:町域 ;
     rdfs:label "岡円福院東ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408361" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市岡円福院西ノ丁
+    a mo:町域 ;
     rdfs:label "岡円福院西ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408364" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市岡織屋小路
+    a mo:町域 ;
     rdfs:label "岡織屋小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408362" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市岡北ノ丁
+    a mo:町域 ;
     rdfs:label "岡北ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408365" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市岡南ノ丁
+    a mo:町域 ;
     rdfs:label "岡南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408363" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市岡山丁
+    a mo:町域 ;
     rdfs:label "岡山丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408145" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市奥須佐
+    a mo:町域 ;
     rdfs:label "奥須佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400362" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小倉
+    a mo:町域 ;
     rdfs:label "小倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496261" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市尾崎丁
+    a mo:町域 ;
     rdfs:label "尾崎丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408271" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市落合
+    a mo:町域 ;
     rdfs:label "落合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496308" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市男野芝丁
+    a mo:町域 ;
     rdfs:label "男野芝丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408230" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小野町
+    a mo:町域 ;
     rdfs:label "小野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408224" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市雄松町
+    a mo:町域 ;
     rdfs:label "雄松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408124" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市嘉家作丁
+    a mo:町域 ;
     rdfs:label "嘉家作丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408073" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市駕町
+    a mo:町域 ;
     rdfs:label "駕町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408293" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市片岡町
+    a mo:町域 ;
     rdfs:label "片岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408139" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市加太
+    a mo:町域 ;
     rdfs:label "加太"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市徒町
+    a mo:町域 ;
     rdfs:label "徒町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408243" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市金谷
+    a mo:町域 ;
     rdfs:label "金谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496274" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市加納
+    a mo:町域 ;
     rdfs:label "加納"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408391" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市加納町
+    a mo:町域 ;
     rdfs:label "加納町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408288" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市上黒谷
+    a mo:町域 ;
     rdfs:label "上黒谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496306" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市上三毛
+    a mo:町域 ;
     rdfs:label "上三毛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496262" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市川辺
+    a mo:町域 ;
     rdfs:label "川辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496312" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市梶取
+    a mo:町域 ;
     rdfs:label "梶取"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408411" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北
+    a mo:町域 ;
     rdfs:label "北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496334" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北相生丁
+    a mo:町域 ;
     rdfs:label "北相生丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408253" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北牛町
+    a mo:町域 ;
     rdfs:label "北牛町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408299" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北桶屋町
+    a mo:町域 ;
     rdfs:label "北桶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408020" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北休賀町
+    a mo:町域 ;
     rdfs:label "北休賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北釘貫丁
+    a mo:町域 ;
     rdfs:label "北釘貫丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408062" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北細工町
+    a mo:町域 ;
     rdfs:label "北細工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408118" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北坂ノ上丁
+    a mo:町域 ;
     rdfs:label "北坂ノ上丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408233" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北新
+    a mo:町域 ;
     rdfs:label "北新"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北新戎ノ丁
+    a mo:町域 ;
     rdfs:label "北新戎ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408017" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北新桶屋町
+    a mo:町域 ;
     rdfs:label "北新桶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408015" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北新金屋丁
+    a mo:町域 ;
     rdfs:label "北新金屋丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408012" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北新七軒丁
+    a mo:町域 ;
     rdfs:label "北新七軒丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北新中ノ丁
+    a mo:町域 ;
     rdfs:label "北新中ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408016" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北新博労町
+    a mo:町域 ;
     rdfs:label "北新博労町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北新元金屋丁
+    a mo:町域 ;
     rdfs:label "北新元金屋丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408011" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北島
+    a mo:町域 ;
     rdfs:label "北島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408403" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北甚五兵衛丁
+    a mo:町域 ;
     rdfs:label "北甚五兵衛丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408291" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北田辺丁
+    a mo:町域 ;
     rdfs:label "北田辺丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408252" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北大工町
+    a mo:町域 ;
     rdfs:label "北大工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408031" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北中間町
+    a mo:町域 ;
     rdfs:label "北中間町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408294" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北出島
+    a mo:町域 ;
     rdfs:label "北出島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408317" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北土佐丁
+    a mo:町域 ;
     rdfs:label "北土佐丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408296" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北中島
+    a mo:町域 ;
     rdfs:label "北中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410008" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北野
+    a mo:町域 ;
     rdfs:label "北野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496331" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地
+    a mo:町域 ;
     rdfs:label "北ノ新地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408355" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地裏田町
+    a mo:町域 ;
     rdfs:label "北ノ新地裏田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408352" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地榎丁
+    a mo:町域 ;
     rdfs:label "北ノ新地榎丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408353" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地上六軒丁
+    a mo:町域 ;
     rdfs:label "北ノ新地上六軒丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408356" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地中六軒丁
+    a mo:町域 ;
     rdfs:label "北ノ新地中六軒丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408357" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地下六軒丁
+    a mo:町域 ;
     rdfs:label "北ノ新地下六軒丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408358" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地田町
+    a mo:町域 ;
     rdfs:label "北ノ新地田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408359" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地東ノ丁
+    a mo:町域 ;
     rdfs:label "北ノ新地東ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408354" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北ノ新地分銅丁
+    a mo:町域 ;
     rdfs:label "北ノ新地分銅丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408350" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北別所
+    a mo:町域 ;
     rdfs:label "北別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496307" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北町
+    a mo:町域 ;
     rdfs:label "北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408038" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市北汀丁
+    a mo:町域 ;
     rdfs:label "北汀丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408231" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市狐島
+    a mo:町域 ;
     rdfs:label "狐島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408412" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市木ノ本
+    a mo:町域 ;
     rdfs:label "木ノ本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408453" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市木広町
+    a mo:町域 ;
     rdfs:label "木広町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408328" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市紀三井寺
+    a mo:町域 ;
     rdfs:label "紀三井寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410012" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市久右衛門丁
+    a mo:町域 ;
     rdfs:label "久右衛門丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408244" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市九番丁
+    a mo:町域 ;
     rdfs:label "九番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408155" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市吉礼
+    a mo:町域 ;
     rdfs:label "吉礼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400351" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市金龍寺丁
+    a mo:町域 ;
     rdfs:label "金龍寺丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408274" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市杭ノ瀬
+    a mo:町域 ;
     rdfs:label "杭ノ瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市九家ノ丁
+    a mo:町域 ;
     rdfs:label "九家ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408055" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市楠右衛門小路
+    a mo:町域 ;
     rdfs:label "楠右衛門小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408332" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市楠見中
+    a mo:町域 ;
     rdfs:label "楠見中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408463" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市楠本
+    a mo:町域 ;
     rdfs:label "楠本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496313" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市口須佐
+    a mo:町域 ;
     rdfs:label "口須佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400364" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市久保丁
+    a mo:町域 ;
     rdfs:label "久保丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408225" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市蔵小路
+    a mo:町域 ;
     rdfs:label "蔵小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408333" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市栗栖
+    a mo:町域 ;
     rdfs:label "栗栖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408305" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市黒岩
+    a mo:町域 ;
     rdfs:label "黒岩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400311" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市黒田
+    a mo:町域 ;
     rdfs:label "黒田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408341" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市黒谷
+    a mo:町域 ;
     rdfs:label "黒谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400312" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市桑山
+    a mo:町域 ;
     rdfs:label "桑山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400345" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市毛革屋丁
+    a mo:町域 ;
     rdfs:label "毛革屋丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408337" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市毛見
+    a mo:町域 ;
     rdfs:label "毛見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410014" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市下町
+    a mo:町域 ;
     rdfs:label "下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408220" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市源蔵馬場
+    a mo:町域 ;
     rdfs:label "源蔵馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408075" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市神前
+    a mo:町域 ;
     rdfs:label "神前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408314" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市神波
+    a mo:町域 ;
     rdfs:label "神波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496315" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小雑賀
+    a mo:町域 ;
     rdfs:label "小雑賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410007" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小瀬田
+    a mo:町域 ;
     rdfs:label "小瀬田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400323" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市五番丁
+    a mo:町域 ;
     rdfs:label "五番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市木挽丁
+    a mo:町域 ;
     rdfs:label "木挽丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408373" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小人町
+    a mo:町域 ;
     rdfs:label "小人町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408226" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小人町南ノ丁
+    a mo:町域 ;
     rdfs:label "小人町南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408228" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市木枕
+    a mo:町域 ;
     rdfs:label "木枕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400301" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小松原
+    a mo:町域 ;
     rdfs:label "小松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408265" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市小松原通
+    a mo:町域 ;
     rdfs:label "小松原通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408269" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市米屋町
+    a mo:町域 ;
     rdfs:label "米屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408027" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市古屋
+    a mo:町域 ;
     rdfs:label "古屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408435" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市雑賀崎
+    a mo:町域 ;
     rdfs:label "雑賀崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410062" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市雑賀町
+    a mo:町域 ;
     rdfs:label "雑賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408108" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市雑賀道
+    a mo:町域 ;
     rdfs:label "雑賀道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市雑賀屋町
+    a mo:町域 ;
     rdfs:label "雑賀屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408249" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市雑賀屋町東ノ丁
+    a mo:町域 ;
     rdfs:label "雑賀屋町東ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408241" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市材木丁
+    a mo:町域 ;
     rdfs:label "材木丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408237" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市境原
+    a mo:町域 ;
     rdfs:label "境原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400313" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市栄谷
+    a mo:町域 ;
     rdfs:label "栄谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408441" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市坂田
+    a mo:町域 ;
     rdfs:label "坂田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森
+    a mo:町域 ;
     rdfs:label "鷺ノ森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408053" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森片町
+    a mo:町域 ;
     rdfs:label "鷺ノ森片町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408054" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森新道
+    a mo:町域 ;
     rdfs:label "鷺ノ森新道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408057" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森堂前丁
+    a mo:町域 ;
     rdfs:label "鷺ノ森堂前丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408052" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森中ノ丁
+    a mo:町域 ;
     rdfs:label "鷺ノ森中ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408058" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森東ノ丁
+    a mo:町域 ;
     rdfs:label "鷺ノ森東ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408051" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森西ノ丁
+    a mo:町域 ;
     rdfs:label "鷺ノ森西ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408056" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森南ノ丁
+    a mo:町域 ;
     rdfs:label "鷺ノ森南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408047" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷺ノ森明神丁
+    a mo:町域 ;
     rdfs:label "鷺ノ森明神丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408059" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市作事丁
+    a mo:町域 ;
     rdfs:label "作事丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408276" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市里
+    a mo:町域 ;
     rdfs:label "里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496311" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市山東中
+    a mo:町域 ;
     rdfs:label "山東中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400303" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市三番丁
+    a mo:町域 ;
     rdfs:label "三番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408142" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市塩ノ谷
+    a mo:町域 ;
     rdfs:label "塩ノ谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400306" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市汐見町
+    a mo:町域 ;
     rdfs:label "汐見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408122" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市塩屋
+    a mo:町域 ;
     rdfs:label "塩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410054" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市七番丁
+    a mo:町域 ;
     rdfs:label "七番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408156" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市芝ノ丁
+    a mo:町域 ;
     rdfs:label "芝ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408267" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市島
+    a mo:町域 ;
     rdfs:label "島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496314" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市島崎町
+    a mo:町域 ;
     rdfs:label "島崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408125" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市島橋東ノ丁
+    a mo:町域 ;
     rdfs:label "島橋東ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408413" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市島橋西ノ丁
+    a mo:町域 ;
     rdfs:label "島橋西ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408414" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市島橋南ノ丁
+    a mo:町域 ;
     rdfs:label "島橋南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408415" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市島橋北ノ丁
+    a mo:町域 ;
     rdfs:label "島橋北ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408416" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市下三毛
+    a mo:町域 ;
     rdfs:label "下三毛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496263" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市下和佐
+    a mo:町域 ;
     rdfs:label "下和佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496325" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新魚町
+    a mo:町域 ;
     rdfs:label "新魚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408074" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新雑賀町
+    a mo:町域 ;
     rdfs:label "新雑賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新堺丁
+    a mo:町域 ;
     rdfs:label "新堺丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408377" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新在家
+    a mo:町域 ;
     rdfs:label "新在家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408345" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新庄
+    a mo:町域 ;
     rdfs:label "新庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496264" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新生町
+    a mo:町域 ;
     rdfs:label "新生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408325" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新大工町
+    a mo:町域 ;
     rdfs:label "新大工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408372" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新通
+    a mo:町域 ;
     rdfs:label "新通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新中島
+    a mo:町域 ;
     rdfs:label "新中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新中通
+    a mo:町域 ;
     rdfs:label "新中通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408376" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新堀東
+    a mo:町域 ;
     rdfs:label "新堀東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410042" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新八百屋丁
+    a mo:町域 ;
     rdfs:label "新八百屋丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408371" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新和歌浦
+    a mo:町域 ;
     rdfs:label "新和歌浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市十番丁
+    a mo:町域 ;
     rdfs:label "十番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408152" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市十一番丁
+    a mo:町域 ;
     rdfs:label "十一番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408159" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市十二番丁
+    a mo:町域 ;
     rdfs:label "十二番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408158" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市十三番丁
+    a mo:町域 ;
     rdfs:label "十三番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408150" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市次郎丸
+    a mo:町域 ;
     rdfs:label "次郎丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408444" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市数寄屋丁
+    a mo:町域 ;
     rdfs:label "数寄屋丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408374" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市杉ノ馬場
+    a mo:町域 ;
     rdfs:label "杉ノ馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鈴丸丁
+    a mo:町域 ;
     rdfs:label "鈴丸丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408378" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市頭陀寺
+    a mo:町域 ;
     rdfs:label "頭陀寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400314" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市砂山南
+    a mo:町域 ;
     rdfs:label "砂山南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408272" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市住吉町
+    a mo:町域 ;
     rdfs:label "住吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市駿河町
+    a mo:町域 ;
     rdfs:label "駿河町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408034" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市関戸
+    a mo:町域 ;
     rdfs:label "関戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410035" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市専光寺門前丁
+    a mo:町域 ;
     rdfs:label "専光寺門前丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408041" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市船場町
+    a mo:町域 ;
     rdfs:label "船場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408114" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市善明寺
+    a mo:町域 ;
     rdfs:label "善明寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408471" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市相坂
+    a mo:町域 ;
     rdfs:label "相坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400341" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市園部
+    a mo:町域 ;
     rdfs:label "園部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408483" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鷹匠町
+    a mo:町域 ;
     rdfs:label "鷹匠町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408135" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市滝畑
+    a mo:町域 ;
     rdfs:label "滝畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496301" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市匠町
+    a mo:町域 ;
     rdfs:label "匠町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408028" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市田尻
+    a mo:町域 ;
     rdfs:label "田尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410005" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畳屋町
+    a mo:町域 ;
     rdfs:label "畳屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408061" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市田中町
+    a mo:町域 ;
     rdfs:label "田中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408329" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市谷
+    a mo:町域 ;
     rdfs:label "谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496305" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市谷町
+    a mo:町域 ;
     rdfs:label "谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408133" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市田野
+    a mo:町域 ;
     rdfs:label "田野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410061" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市田屋
+    a mo:町域 ;
     rdfs:label "田屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496337" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市築港
+    a mo:町域 ;
     rdfs:label "築港"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408287" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市茶屋ノ丁
+    a mo:町域 ;
     rdfs:label "茶屋ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408263" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市茶屋町
+    a mo:町域 ;
     rdfs:label "茶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408334" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市つつじが丘
+    a mo:町域 ;
     rdfs:label "つつじが丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400115" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市津秦
+    a mo:町域 ;
     rdfs:label "津秦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408315" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市手平
+    a mo:町域 ;
     rdfs:label "手平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408319" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市手平出島
+    a mo:町域 ;
     rdfs:label "手平出島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408320" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市寺内
+    a mo:町域 ;
     rdfs:label "寺内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408311" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市出口甲賀丁
+    a mo:町域 ;
     rdfs:label "出口甲賀丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408282" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市出口新端ノ丁
+    a mo:町域 ;
     rdfs:label "出口新端ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408285" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市出口中ノ丁
+    a mo:町域 ;
     rdfs:label "出口中ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408283" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市出口端ノ丁
+    a mo:町域 ;
     rdfs:label "出口端ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408284" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市出島
+    a mo:町域 ;
     rdfs:label "出島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408306" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市出水
+    a mo:町域 ;
     rdfs:label "出水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408321" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市伝法橋南ノ丁
+    a mo:町域 ;
     rdfs:label "伝法橋南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408204" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市道場町
+    a mo:町域 ;
     rdfs:label "道場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408229" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市土入
+    a mo:町域 ;
     rdfs:label "土入"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408432" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市徳田木丁
+    a mo:町域 ;
     rdfs:label "徳田木丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408206" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市土佐町
+    a mo:町域 ;
     rdfs:label "土佐町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408256" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市友田町
+    a mo:町域 ;
     rdfs:label "友田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408342" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市中
+    a mo:町域 ;
     rdfs:label "中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408451" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市中島
+    a mo:町域 ;
     rdfs:label "中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410006" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市中筋日延
+    a mo:町域 ;
     rdfs:label "中筋日延"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496304" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市中野
+    a mo:町域 ;
     rdfs:label "中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408433" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市中之島
+    a mo:町域 ;
     rdfs:label "中之島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408392" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市中ノ店中ノ丁
+    a mo:町域 ;
     rdfs:label "中ノ店中ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市中ノ店南ノ丁
+    a mo:町域 ;
     rdfs:label "中ノ店南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408026" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市中ノ店北ノ丁
+    a mo:町域 ;
     rdfs:label "中ノ店北ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市永山
+    a mo:町域 ;
     rdfs:label "永山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400302" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市七曲り
+    a mo:町域 ;
     rdfs:label "七曲り"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408236" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鍋屋町
+    a mo:町域 ;
     rdfs:label "鍋屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408009" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市鳴神
+    a mo:町域 ;
     rdfs:label "鳴神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408303" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市永穂
+    a mo:町域 ;
     rdfs:label "永穂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496333" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新高町
+    a mo:町域 ;
     rdfs:label "新高町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410034" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市仁井辺
+    a mo:町域 ;
     rdfs:label "仁井辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400322" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西
+    a mo:町域 ;
     rdfs:label "西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408313" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西鍛冶屋町
+    a mo:町域 ;
     rdfs:label "西鍛冶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408046" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西河岸町
+    a mo:町域 ;
     rdfs:label "西河岸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408297" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西釘貫丁
+    a mo:町域 ;
     rdfs:label "西釘貫丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408063" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西蔵前丁
+    a mo:町域 ;
     rdfs:label "西蔵前丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408205" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西小二里
+    a mo:町域 ;
     rdfs:label "西小二里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410031" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西紺屋町
+    a mo:町域 ;
     rdfs:label "西紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408116" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西坂ノ上丁
+    a mo:町域 ;
     rdfs:label "西坂ノ上丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408234" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西田井
+    a mo:町域 ;
     rdfs:label "西田井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496335" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西高松
+    a mo:町域 ;
     rdfs:label "西高松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410051" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西大工町
+    a mo:町域 ;
     rdfs:label "西大工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408037" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西仲間町
+    a mo:町域 ;
     rdfs:label "西仲間町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408014" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西長町
+    a mo:町域 ;
     rdfs:label "西長町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408290" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西布経丁
+    a mo:町域 ;
     rdfs:label "西布経丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西庄
+    a mo:町域 ;
     rdfs:label "西庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400112" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西ノ店
+    a mo:町域 ;
     rdfs:label "西ノ店"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408042" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西旅籠町
+    a mo:町域 ;
     rdfs:label "西旅籠町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西浜
+    a mo:町域 ;
     rdfs:label "西浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410036" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市西汀丁
+    a mo:町域 ;
     rdfs:label "西汀丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408227" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市二番丁
+    a mo:町域 ;
     rdfs:label "二番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408143" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市新留丁
+    a mo:町域 ;
     rdfs:label "新留丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408326" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市布引
+    a mo:町域 ;
     rdfs:label "布引"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410015" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市祢宜
+    a mo:町域 ;
     rdfs:label "祢宜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496324" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市直川
+    a mo:町域 ;
     rdfs:label "直川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408481" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市納定
+    a mo:町域 ;
     rdfs:label "納定"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408344" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市野崎
+    a mo:町域 ;
     rdfs:label "野崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408402" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市延時
+    a mo:町域 ;
     rdfs:label "延時"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408443" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市橋丁
+    a mo:町域 ;
     rdfs:label "橋丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408215" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市橋向丁
+    a mo:町域 ;
     rdfs:label "橋向丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408327" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷榎丁
+    a mo:町域 ;
     rdfs:label "畑屋敷榎丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408382" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷円福院東ノ丁
+    a mo:町域 ;
     rdfs:label "畑屋敷円福院東ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408383" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷円福院西ノ丁
+    a mo:町域 ;
     rdfs:label "畑屋敷円福院西ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408385" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷雁木丁
+    a mo:町域 ;
     rdfs:label "畑屋敷雁木丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408386" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷葛屋丁
+    a mo:町域 ;
     rdfs:label "畑屋敷葛屋丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408384" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷新道丁
+    a mo:町域 ;
     rdfs:label "畑屋敷新道丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408397" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷千体仏丁
+    a mo:町域 ;
     rdfs:label "畑屋敷千体仏丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408394" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷中ノ丁
+    a mo:町域 ;
     rdfs:label "畑屋敷中ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408395" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷端ノ丁
+    a mo:町域 ;
     rdfs:label "畑屋敷端ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408393" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷東ノ丁
+    a mo:町域 ;
     rdfs:label "畑屋敷東ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408381" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷西ノ丁
+    a mo:町域 ;
     rdfs:label "畑屋敷西ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408396" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷兵庫ノ丁
+    a mo:町域 ;
     rdfs:label "畑屋敷兵庫ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408399" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷袋町
+    a mo:町域 ;
     rdfs:label "畑屋敷袋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408387" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市畑屋敷松ケ枝丁
+    a mo:町域 ;
     rdfs:label "畑屋敷松ケ枝丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408398" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市八番丁
+    a mo:町域 ;
     rdfs:label "八番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408157" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市馬場
+    a mo:町域 ;
     rdfs:label "馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400353" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市吐前
+    a mo:町域 ;
     rdfs:label "吐前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496275" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東鍛冶屋町
+    a mo:町域 ;
     rdfs:label "東鍛冶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408036" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東釘貫丁
+    a mo:町域 ;
     rdfs:label "東釘貫丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408064" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東蔵前丁
+    a mo:町域 ;
     rdfs:label "東蔵前丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408203" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東小二里町
+    a mo:町域 ;
     rdfs:label "東小二里町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410032" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東紺屋町
+    a mo:町域 ;
     rdfs:label "東紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408115" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東坂ノ上丁
+    a mo:町域 ;
     rdfs:label "東坂ノ上丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408247" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東高松
+    a mo:町域 ;
     rdfs:label "東高松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410052" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東田中
+    a mo:町域 ;
     rdfs:label "東田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496273" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東仲間町
+    a mo:町域 ;
     rdfs:label "東仲間町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408013" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東長町
+    a mo:町域 ;
     rdfs:label "東長町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408235" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東長町中ノ丁
+    a mo:町域 ;
     rdfs:label "東長町中ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408266" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東布経丁
+    a mo:町域 ;
     rdfs:label "東布経丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408066" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市東旅籠町
+    a mo:町域 ;
     rdfs:label "東旅籠町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市一筋目
+    a mo:町域 ;
     rdfs:label "一筋目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408067" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市日野
+    a mo:町域 ;
     rdfs:label "日野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市屏風丁
+    a mo:町域 ;
     rdfs:label "屏風丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市平井
+    a mo:町域 ;
     rdfs:label "平井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408442" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市平尾
+    a mo:町域 ;
     rdfs:label "平尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400304" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市平岡
+    a mo:町域 ;
     rdfs:label "平岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496303" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市広瀬通丁
+    a mo:町域 ;
     rdfs:label "広瀬通丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408113" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市広瀬中ノ丁
+    a mo:町域 ;
     rdfs:label "広瀬中ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408128" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市広原
+    a mo:町域 ;
     rdfs:label "広原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400333" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市広道
+    a mo:町域 ;
     rdfs:label "広道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408268" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市弘西
+    a mo:町域 ;
     rdfs:label "弘西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496339" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市吹上
+    a mo:町域 ;
     rdfs:label "吹上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408137" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市吹屋町
+    a mo:町域 ;
     rdfs:label "吹屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408324" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市福島
+    a mo:町域 ;
     rdfs:label "福島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408401" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市福町
+    a mo:町域 ;
     rdfs:label "福町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408043" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市藤田
+    a mo:町域 ;
     rdfs:label "藤田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496318" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市二筋目
+    a mo:町域 ;
     rdfs:label "二筋目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408068" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市府中
+    a mo:町域 ;
     rdfs:label "府中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496338" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市舟大工町
+    a mo:町域 ;
     rdfs:label "舟大工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市舟津町
+    a mo:町域 ;
     rdfs:label "舟津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408255" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市船所
+    a mo:町域 ;
     rdfs:label "船所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408461" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市冬野
+    a mo:町域 ;
     rdfs:label "冬野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400332" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市弁財天丁
+    a mo:町域 ;
     rdfs:label "弁財天丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市坊主丁
+    a mo:町域 ;
     rdfs:label "坊主丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408375" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市卜半町
+    a mo:町域 ;
     rdfs:label "卜半町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408045" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市布施屋
+    a mo:町域 ;
     rdfs:label "布施屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496321" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市堀止南ノ丁
+    a mo:町域 ;
     rdfs:label "堀止南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410041" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市堀止東
+    a mo:町域 ;
     rdfs:label "堀止東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408136" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市堀止西
+    a mo:町域 ;
     rdfs:label "堀止西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410045" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408033" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市真砂丁
+    a mo:町域 ;
     rdfs:label "真砂丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408261" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市松江
+    a mo:町域 ;
     rdfs:label "松江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408421" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市松江中
+    a mo:町域 ;
     rdfs:label "松江中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408423" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市松江東
+    a mo:町域 ;
     rdfs:label "松江東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408422" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市松江西
+    a mo:町域 ;
     rdfs:label "松江西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408424" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市松江北
+    a mo:町域 ;
     rdfs:label "松江北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408425" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市松ケ丘
+    a mo:町域 ;
     rdfs:label "松ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410033" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市松島
+    a mo:町域 ;
     rdfs:label "松島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408304" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市松原
+    a mo:町域 ;
     rdfs:label "松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400342" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市三葛
+    a mo:町域 ;
     rdfs:label "三葛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410011" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市三木町台所町
+    a mo:町域 ;
     rdfs:label "三木町台所町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408153" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市三木町中ノ丁
+    a mo:町域 ;
     rdfs:label "三木町中ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408106" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市三木町堀詰
+    a mo:町域 ;
     rdfs:label "三木町堀詰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408107" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市三木町南ノ丁
+    a mo:町域 ;
     rdfs:label "三木町南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408105" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市三沢町
+    a mo:町域 ;
     rdfs:label "三沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408123" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市三筋目
+    a mo:町域 ;
     rdfs:label "三筋目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408069" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市美園町
+    a mo:町域 ;
     rdfs:label "美園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408331" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市満屋
+    a mo:町域 ;
     rdfs:label "満屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496271" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湊
+    a mo:町域 ;
     rdfs:label "湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408404" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湊桶屋町
+    a mo:町域 ;
     rdfs:label "湊桶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408264" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湊北町
+    a mo:町域 ;
     rdfs:label "湊北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408223" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湊紺屋町
+    a mo:町域 ;
     rdfs:label "湊紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408221" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湊御殿
+    a mo:町域 ;
     rdfs:label "湊御殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408286" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湊通丁南
+    a mo:町域 ;
     rdfs:label "湊通丁南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408281" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湊通丁北
+    a mo:町域 ;
     rdfs:label "湊通丁北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408262" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湊本町
+    a mo:町域 ;
     rdfs:label "湊本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408222" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南相生丁
+    a mo:町域 ;
     rdfs:label "南相生丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408275" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南牛町
+    a mo:町域 ;
     rdfs:label "南牛町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408295" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南桶屋町
+    a mo:町域 ;
     rdfs:label "南桶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408029" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南片原
+    a mo:町域 ;
     rdfs:label "南片原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408126" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南休賀町
+    a mo:町域 ;
     rdfs:label "南休賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408104" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南雑賀町
+    a mo:町域 ;
     rdfs:label "南雑賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南細工町
+    a mo:町域 ;
     rdfs:label "南細工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408117" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南材木丁
+    a mo:町域 ;
     rdfs:label "南材木丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408112" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南甚五兵衛丁
+    a mo:町域 ;
     rdfs:label "南甚五兵衛丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408292" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南田辺丁
+    a mo:町域 ;
     rdfs:label "南田辺丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408254" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南大工町
+    a mo:町域 ;
     rdfs:label "南大工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408032" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南中間町
+    a mo:町域 ;
     rdfs:label "南中間町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408251" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南出島
+    a mo:町域 ;
     rdfs:label "南出島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408318" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南畑
+    a mo:町域 ;
     rdfs:label "南畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400315" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市南汀丁
+    a mo:町域 ;
     rdfs:label "南汀丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408232" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市深山
+    a mo:町域 ;
     rdfs:label "深山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市明王寺
+    a mo:町域 ;
     rdfs:label "明王寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400305" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市向
+    a mo:町域 ;
     rdfs:label "向"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408431" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市六筋目
+    a mo:町域 ;
     rdfs:label "六筋目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408077" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市六十谷
+    a mo:町域 ;
     rdfs:label "六十谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408482" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市元寺町
+    a mo:町域 ;
     rdfs:label "元寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市元寺町東ノ丁
+    a mo:町域 ;
     rdfs:label "元寺町東ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408006" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市元寺町西ノ丁
+    a mo:町域 ;
     rdfs:label "元寺町西ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408007" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市元寺町南ノ丁
+    a mo:町域 ;
     rdfs:label "元寺町南ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408005" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市元寺町北ノ丁
+    a mo:町域 ;
     rdfs:label "元寺町北ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408008" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市元博労町
+    a mo:町域 ;
     rdfs:label "元博労町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408216" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市元町奉行丁
+    a mo:町域 ;
     rdfs:label "元町奉行丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408127" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市本脇
+    a mo:町域 ;
     rdfs:label "本脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400113" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市本渡
+    a mo:町域 ;
     rdfs:label "本渡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400324" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市森小手穂
+    a mo:町域 ;
     rdfs:label "森小手穂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408312" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市屋形町
+    a mo:町域 ;
     rdfs:label "屋形町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408151" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市薬勝寺
+    a mo:町域 ;
     rdfs:label "薬勝寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400321" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市矢田
+    a mo:町域 ;
     rdfs:label "矢田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400307" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市柳丁
+    a mo:町域 ;
     rdfs:label "柳丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408336" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市薮ノ丁
+    a mo:町域 ;
     rdfs:label "薮ノ丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408138" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市山蔭丁
+    a mo:町域 ;
     rdfs:label "山蔭丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408132" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市山口西
+    a mo:町域 ;
     rdfs:label "山口西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496317" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市山吹丁
+    a mo:町域 ;
     rdfs:label "山吹丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408065" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市湯屋谷
+    a mo:町域 ;
     rdfs:label "湯屋谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496302" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市吉里
+    a mo:町域 ;
     rdfs:label "吉里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400363" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408343" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市吉原
+    a mo:町域 ;
     rdfs:label "吉原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400331" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市四筋目
+    a mo:町域 ;
     rdfs:label "四筋目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408060" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市寄合町
+    a mo:町域 ;
     rdfs:label "寄合町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市万町
+    a mo:町域 ;
     rdfs:label "万町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408035" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市四番丁
+    a mo:町域 ;
     rdfs:label "四番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408144" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市六番丁
+    a mo:町域 ;
     rdfs:label "六番丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408154" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和歌浦中
+    a mo:町域 ;
     rdfs:label "和歌浦中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和歌浦東
+    a mo:町域 ;
     rdfs:label "和歌浦東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和歌浦西
+    a mo:町域 ;
     rdfs:label "和歌浦西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和歌浦南
+    a mo:町域 ;
     rdfs:label "和歌浦南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和歌川町
+    a mo:町域 ;
     rdfs:label "和歌川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410055" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和歌町
+    a mo:町域 ;
     rdfs:label "和歌町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6408119" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和佐関戸
+    a mo:町域 ;
     rdfs:label "和佐関戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496322" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和佐中
+    a mo:町域 ;
     rdfs:label "和佐中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496326" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県和歌山市和田
+    a mo:町域 ;
     rdfs:label "和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6410004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市
     rdfs:label "海南市"@ja ;
@@ -2274,292 +3132,436 @@ mr:JP_和歌山県海南市
 a mo:GeoEntity .
 
 mr:JP_和歌山県海南市赤沼
+    a mo:町域 ;
     rdfs:label "赤沼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401163" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市且来
+    a mo:町域 ;
     rdfs:label "且来"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420015" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市井田
+    a mo:町域 ;
     rdfs:label "井田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市海老谷
+    a mo:町域 ;
     rdfs:label "海老谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401164" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市多田
+    a mo:町域 ;
     rdfs:label "多田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420013" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市大野中
+    a mo:町域 ;
     rdfs:label "大野中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市岡田
+    a mo:町域 ;
     rdfs:label "岡田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420012" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市沖野々
+    a mo:町域 ;
     rdfs:label "沖野々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401175" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市小野田
+    a mo:町域 ;
     rdfs:label "小野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420014" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市上谷
+    a mo:町域 ;
     rdfs:label "上谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401162" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市木津
+    a mo:町域 ;
     rdfs:label "木津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401174" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市北赤坂
+    a mo:町域 ;
     rdfs:label "北赤坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420016" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市九品寺
+    a mo:町域 ;
     rdfs:label "九品寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401167" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市扱沢
+    a mo:町域 ;
     rdfs:label "扱沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420027" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市黒江
+    a mo:町域 ;
     rdfs:label "黒江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420011" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市阪井
+    a mo:町域 ;
     rdfs:label "阪井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市重根
+    a mo:町域 ;
     rdfs:label "重根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市重根西
+    a mo:町域 ;
     rdfs:label "重根西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420019" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市重根東
+    a mo:町域 ;
     rdfs:label "重根東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420018" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市冷水
+    a mo:町域 ;
     rdfs:label "冷水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420035" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町青枝
+    a mo:町域 ;
     rdfs:label "下津町青枝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490147" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町市坪
+    a mo:町域 ;
     rdfs:label "下津町市坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490145" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町梅田
+    a mo:町域 ;
     rdfs:label "下津町梅田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490132" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町大窪
+    a mo:町域 ;
     rdfs:label "下津町大窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490155" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町大崎
+    a mo:町域 ;
     rdfs:label "下津町大崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490112" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町興
+    a mo:町域 ;
     rdfs:label "下津町興"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490153" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町小原
+    a mo:町域 ;
     rdfs:label "下津町小原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490162" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町笠畑
+    a mo:町域 ;
     rdfs:label "下津町笠畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490154" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町方
+    a mo:町域 ;
     rdfs:label "下津町方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町上
+    a mo:町域 ;
     rdfs:label "下津町上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490164" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町鰈川
+    a mo:町域 ;
     rdfs:label "下津町鰈川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490163" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町橘本
+    a mo:町域 ;
     rdfs:label "下津町橘本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490144" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町沓掛
+    a mo:町域 ;
     rdfs:label "下津町沓掛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490146" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町黒田
+    a mo:町域 ;
     rdfs:label "下津町黒田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490122" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町小畑
+    a mo:町域 ;
     rdfs:label "下津町小畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490161" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町小松原
+    a mo:町域 ;
     rdfs:label "下津町小松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490143" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町小南
+    a mo:町域 ;
     rdfs:label "下津町小南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町塩津
+    a mo:町域 ;
     rdfs:label "下津町塩津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町下
+    a mo:町域 ;
     rdfs:label "下津町下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490133" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町下津
+    a mo:町域 ;
     rdfs:label "下津町下津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町曽根田
+    a mo:町域 ;
     rdfs:label "下津町曽根田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490151" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町中
+    a mo:町域 ;
     rdfs:label "下津町中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490142" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町引尾
+    a mo:町域 ;
     rdfs:label "下津町引尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490152" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町丸田
+    a mo:町域 ;
     rdfs:label "下津町丸田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町百垣内
+    a mo:町域 ;
     rdfs:label "下津町百垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490156" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津町丁
+    a mo:町域 ;
     rdfs:label "下津町丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490123" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市下津野
+    a mo:町域 ;
     rdfs:label "下津野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400443" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市高津
+    a mo:町域 ;
     rdfs:label "高津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400451" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市築地
+    a mo:町域 ;
     rdfs:label "築地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420031" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市次ケ谷
+    a mo:町域 ;
     rdfs:label "次ケ谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401166" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市鳥居
+    a mo:町域 ;
     rdfs:label "鳥居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420033" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市名高
+    a mo:町域 ;
     rdfs:label "名高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420032" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市七山
+    a mo:町域 ;
     rdfs:label "七山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400441" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市野上新
+    a mo:町域 ;
     rdfs:label "野上新"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401161" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市野上中
+    a mo:町域 ;
     rdfs:label "野上中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401171" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市野尻
+    a mo:町域 ;
     rdfs:label "野尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400453" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市幡川
+    a mo:町域 ;
     rdfs:label "幡川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420028" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市馬場町
+    a mo:町域 ;
     rdfs:label "馬場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市原野
+    a mo:町域 ;
     rdfs:label "原野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400442" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市日方
+    a mo:町域 ;
     rdfs:label "日方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市東畑
+    a mo:町域 ;
     rdfs:label "東畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市ひや水
+    a mo:町域 ;
     rdfs:label "ひや水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401165" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市藤白
+    a mo:町域 ;
     rdfs:label "藤白"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420034" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市船尾
+    a mo:町域 ;
     rdfs:label "船尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市別院
+    a mo:町域 ;
     rdfs:label "別院"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400454" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市別所
+    a mo:町域 ;
     rdfs:label "別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420026" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市溝ノ口
+    a mo:町域 ;
     rdfs:label "溝ノ口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401172" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市南赤坂
+    a mo:町域 ;
     rdfs:label "南赤坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420017" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市椋木
+    a mo:町域 ;
     rdfs:label "椋木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401173" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市孟子
+    a mo:町域 ;
     rdfs:label "孟子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400452" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市山崎町
+    a mo:町域 ;
     rdfs:label "山崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海南市山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6420029" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市
     rdfs:label "橋本市"@ja ;
@@ -2646,316 +3648,472 @@ mr:JP_和歌山県橋本市
 a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市赤塚
+    a mo:町域 ;
     rdfs:label "赤塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市あやの台
+    a mo:町域 ;
     rdfs:label "あやの台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480019" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市市脇
+    a mo:町域 ;
     rdfs:label "市脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480073" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市上田
+    a mo:町域 ;
     rdfs:label "上田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市小原田
+    a mo:町域 ;
     rdfs:label "小原田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480071" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市小峰台
+    a mo:町域 ;
     rdfs:label "小峰台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480005" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市柿の木坂
+    a mo:町域 ;
     rdfs:label "柿の木坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480097" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市賢堂
+    a mo:町域 ;
     rdfs:label "賢堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480037" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市柏原
+    a mo:町域 ;
     rdfs:label "柏原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480084" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市学文路
+    a mo:町域 ;
     rdfs:label "学文路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480043" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市岸上
+    a mo:町域 ;
     rdfs:label "岸上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480085" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市北馬場
+    a mo:町域 ;
     rdfs:label "北馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480061" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市北宿
+    a mo:町域 ;
     rdfs:label "北宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480033" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市紀ノ光台
+    a mo:町域 ;
     rdfs:label "紀ノ光台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480007" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市紀見
+    a mo:町域 ;
     rdfs:label "紀見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480052" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市紀見ケ丘
+    a mo:町域 ;
     rdfs:label "紀見ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480092" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市慶賀野
+    a mo:町域 ;
     rdfs:label "慶賀野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480093" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市恋野
+    a mo:町域 ;
     rdfs:label "恋野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町応其
+    a mo:町域 ;
     rdfs:label "高野口町応其"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町大野
+    a mo:町域 ;
     rdfs:label "高野口町大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497207" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町小田
+    a mo:町域 ;
     rdfs:label "高野口町小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497204" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町上中
+    a mo:町域 ;
     rdfs:label "高野口町上中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町九重
+    a mo:町域 ;
     rdfs:label "高野口町九重"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497215" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町嵯峨谷
+    a mo:町域 ;
     rdfs:label "高野口町嵯峨谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町下中
+    a mo:町域 ;
     rdfs:label "高野口町下中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町竹尾
+    a mo:町域 ;
     rdfs:label "高野口町竹尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町田原
+    a mo:町域 ;
     rdfs:label "高野口町田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497216" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町名倉
+    a mo:町域 ;
     rdfs:label "高野口町名倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497205" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町名古曽
+    a mo:町域 ;
     rdfs:label "高野口町名古曽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497203" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町伏原
+    a mo:町域 ;
     rdfs:label "高野口町伏原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市高野口町向島
+    a mo:町域 ;
     rdfs:label "高野口町向島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497206" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市光陽台
+    a mo:町域 ;
     rdfs:label "光陽台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480099" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市古佐田
+    a mo:町域 ;
     rdfs:label "古佐田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480065" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市神野々
+    a mo:町域 ;
     rdfs:label "神野々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480086" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市胡麻生
+    a mo:町域 ;
     rdfs:label "胡麻生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480066" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市境原
+    a mo:町域 ;
     rdfs:label "境原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480006" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市さつき台
+    a mo:町域 ;
     rdfs:label "さつき台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480075" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市清水
+    a mo:町域 ;
     rdfs:label "清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480041" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市菖蒲谷
+    a mo:町域 ;
     rdfs:label "菖蒲谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480082" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市しらさぎ台
+    a mo:町域 ;
     rdfs:label "しらさぎ台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480053" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市城山台
+    a mo:町域 ;
     rdfs:label "城山台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480054" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市杉尾
+    a mo:町域 ;
     rdfs:label "杉尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市須河
+    a mo:町域 ;
     rdfs:label "須河"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480038" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町芋生
+    a mo:町域 ;
     rdfs:label "隅田町芋生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480012" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町上兵庫
+    a mo:町域 ;
     rdfs:label "隅田町上兵庫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480014" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町下兵庫
+    a mo:町域 ;
     rdfs:label "隅田町下兵庫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480016" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町河瀬
+    a mo:町域 ;
     rdfs:label "隅田町河瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480015" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町霜草
+    a mo:町域 ;
     rdfs:label "隅田町霜草"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町垂井
+    a mo:町域 ;
     rdfs:label "隅田町垂井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480018" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町中下
+    a mo:町域 ;
     rdfs:label "隅田町中下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480013" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町中島
+    a mo:町域 ;
     rdfs:label "隅田町中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480017" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町平野
+    a mo:町域 ;
     rdfs:label "隅田町平野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町真土
+    a mo:町域 ;
     rdfs:label "隅田町真土"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480011" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市隅田町山内
+    a mo:町域 ;
     rdfs:label "隅田町山内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市只野
+    a mo:町域 ;
     rdfs:label "只野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480031" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市谷奥深
+    a mo:町域 ;
     rdfs:label "谷奥深"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480032" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市妻
+    a mo:町域 ;
     rdfs:label "妻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480062" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市出塔
+    a mo:町域 ;
     rdfs:label "出塔"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480083" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市東家
+    a mo:町域 ;
     rdfs:label "東家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480072" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市中道
+    a mo:町域 ;
     rdfs:label "中道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市西畑
+    a mo:町域 ;
     rdfs:label "西畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480042" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市野
+    a mo:町域 ;
     rdfs:label "野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480074" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市橋谷
+    a mo:町域 ;
     rdfs:label "橋谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480095" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市橋本
+    a mo:町域 ;
     rdfs:label "橋本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480064" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市柱本
+    a mo:町域 ;
     rdfs:label "柱本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480091" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市原田
+    a mo:町域 ;
     rdfs:label "原田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480063" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市彦谷
+    a mo:町域 ;
     rdfs:label "彦谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480035" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市細川
+    a mo:町域 ;
     rdfs:label "細川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480051" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市三石台
+    a mo:町域 ;
     rdfs:label "三石台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480094" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市南馬場
+    a mo:町域 ;
     rdfs:label "南馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480044" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市南宿
+    a mo:町域 ;
     rdfs:label "南宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480034" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市みゆき台
+    a mo:町域 ;
     rdfs:label "みゆき台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480088" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市御幸辻
+    a mo:町域 ;
     rdfs:label "御幸辻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480096" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市向副
+    a mo:町域 ;
     rdfs:label "向副"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市矢倉脇
+    a mo:町域 ;
     rdfs:label "矢倉脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480098" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480081" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市横座
+    a mo:町域 ;
     rdfs:label "横座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480036" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県橋本市吉原
+    a mo:町域 ;
     rdfs:label "吉原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480087" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市
     rdfs:label "有田市"@ja ;
@@ -2987,96 +4145,142 @@ mr:JP_和歌山県有田市
 a mo:GeoEntity .
 
 mr:JP_和歌山県有田市糸我町中番
+    a mo:町域 ;
     rdfs:label "糸我町中番"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490421" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市糸我町西
+    a mo:町域 ;
     rdfs:label "糸我町西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490422" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市古江見
+    a mo:町域 ;
     rdfs:label "古江見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490317" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市下中島
+    a mo:町域 ;
     rdfs:label "下中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490301" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市新堂
+    a mo:町域 ;
     rdfs:label "新堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490303" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市千田
+    a mo:町域 ;
     rdfs:label "千田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490313" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市辻堂
+    a mo:町域 ;
     rdfs:label "辻堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490311" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市野
+    a mo:町域 ;
     rdfs:label "野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490314" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市初島町里
+    a mo:町域 ;
     rdfs:label "初島町里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490307" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市初島町浜
+    a mo:町域 ;
     rdfs:label "初島町浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490306" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市星尾
+    a mo:町域 ;
     rdfs:label "星尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490312" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490305" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市箕島
+    a mo:町域 ;
     rdfs:label "箕島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490304" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市宮崎町
+    a mo:町域 ;
     rdfs:label "宮崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490316" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市宮原町新町
+    a mo:町域 ;
     rdfs:label "宮原町新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490434" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市宮原町須谷
+    a mo:町域 ;
     rdfs:label "宮原町須谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490433" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市宮原町滝
+    a mo:町域 ;
     rdfs:label "宮原町滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490437" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市宮原町滝川原
+    a mo:町域 ;
     rdfs:label "宮原町滝川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490435" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市宮原町道
+    a mo:町域 ;
     rdfs:label "宮原町道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490436" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市宮原町畑
+    a mo:町域 ;
     rdfs:label "宮原町畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490431" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市宮原町東
+    a mo:町域 ;
     rdfs:label "宮原町東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490432" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市山田原
+    a mo:町域 ;
     rdfs:label "山田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490302" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田市山地
+    a mo:町域 ;
     rdfs:label "山地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6490315" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市
     rdfs:label "御坊市"@ja ;
@@ -3106,88 +4310,130 @@ mr:JP_和歌山県御坊市
 a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市荊木
+    a mo:町域 ;
     rdfs:label "荊木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440015" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市熊野
+    a mo:町域 ;
     rdfs:label "熊野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440033" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市岩内
+    a mo:町域 ;
     rdfs:label "岩内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440032" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市御坊
+    a mo:町域 ;
     rdfs:label "御坊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市塩屋町南塩屋
+    a mo:町域 ;
     rdfs:label "塩屋町南塩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市塩屋町北塩屋
+    a mo:町域 ;
     rdfs:label "塩屋町北塩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市島
+    a mo:町域 ;
     rdfs:label "島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市薗
+    a mo:町域 ;
     rdfs:label "薗"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市名田町上野
+    a mo:町域 ;
     rdfs:label "名田町上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市名田町楠井
+    a mo:町域 ;
     rdfs:label "名田町楠井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市名田町野島
+    a mo:町域 ;
     rdfs:label "名田町野島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市名屋
+    a mo:町域 ;
     rdfs:label "名屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市名屋町
+    a mo:町域 ;
     rdfs:label "名屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440005" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市野口
+    a mo:町域 ;
     rdfs:label "野口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440031" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市藤田町藤井
+    a mo:町域 ;
     rdfs:label "藤田町藤井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491341" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市藤田町吉田
+    a mo:町域 ;
     rdfs:label "藤田町吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491342" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市明神川
+    a mo:町域 ;
     rdfs:label "明神川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440034" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市湯川町小松原
+    a mo:町域 ;
     rdfs:label "湯川町小松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440012" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市湯川町財部
+    a mo:町域 ;
     rdfs:label "湯川町財部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440011" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市湯川町富安
+    a mo:町域 ;
     rdfs:label "湯川町富安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440014" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県御坊市湯川町丸山
+    a mo:町域 ;
     rdfs:label "湯川町丸山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440013" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市
     rdfs:label "田辺市"@ja ;
@@ -3337,568 +4583,850 @@ mr:JP_和歌山県田辺市
 a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市秋津川
+    a mo:町域 ;
     rdfs:label "秋津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市秋津町
+    a mo:町域 ;
     rdfs:label "秋津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460005" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市あけぼの
+    a mo:町域 ;
     rdfs:label "あけぼの"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市朝日ヶ丘
+    a mo:町域 ;
     rdfs:label "朝日ヶ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460027" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市鮎川
+    a mo:町域 ;
     rdfs:label "鮎川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市磯間
+    a mo:町域 ;
     rdfs:label "磯間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460037" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市稲成町
+    a mo:町域 ;
     rdfs:label "稲成町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460051" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市今福町
+    a mo:町域 ;
     rdfs:label "今福町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460043" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市熊野
+    a mo:町域 ;
     rdfs:label "熊野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461321" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市上の山
+    a mo:町域 ;
     rdfs:label "上の山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460061" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市江川
+    a mo:町域 ;
     rdfs:label "江川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460054" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市扇ケ浜
+    a mo:町域 ;
     rdfs:label "扇ケ浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460034" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市学園
+    a mo:町域 ;
     rdfs:label "学園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市神島台
+    a mo:町域 ;
     rdfs:label "神島台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460012" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市片町
+    a mo:町域 ;
     rdfs:label "片町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460045" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市上秋津
+    a mo:町域 ;
     rdfs:label "上秋津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市上芳養
+    a mo:町域 ;
     rdfs:label "上芳養"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市上万呂
+    a mo:町域 ;
     rdfs:label "上万呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市上三栖
+    a mo:町域 ;
     rdfs:label "上三栖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市上屋敷
+    a mo:町域 ;
     rdfs:label "上屋敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460036" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市北新町
+    a mo:町域 ;
     rdfs:label "北新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460041" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市九川
+    a mo:町域 ;
     rdfs:label "九川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461334" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市串
+    a mo:町域 ;
     rdfs:label "串"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461335" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市合川
+    a mo:町域 ;
     rdfs:label "合川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461338" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市小谷
+    a mo:町域 ;
     rdfs:label "小谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461325" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市五味
+    a mo:町域 ;
     rdfs:label "五味"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461332" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市木守
+    a mo:町域 ;
     rdfs:label "木守"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461331" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市紺屋町
+    a mo:町域 ;
     rdfs:label "紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460047" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460048" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市下川上
+    a mo:町域 ;
     rdfs:label "下川上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市下川下
+    a mo:町域 ;
     rdfs:label "下川下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市下露
+    a mo:町域 ;
     rdfs:label "下露"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461337" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市下万呂
+    a mo:町域 ;
     rdfs:label "下万呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市下三栖
+    a mo:町域 ;
     rdfs:label "下三栖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460216" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市下屋敷町
+    a mo:町域 ;
     rdfs:label "下屋敷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460032" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市城山台
+    a mo:町域 ;
     rdfs:label "城山台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460217" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市新庄町
+    a mo:町域 ;
     rdfs:label "新庄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460011" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市新万
+    a mo:町域 ;
     rdfs:label "新万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460014" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市新屋敷町
+    a mo:町域 ;
     rdfs:label "新屋敷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460033" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市末広町
+    a mo:町域 ;
     rdfs:label "末広町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460038" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市高雄
+    a mo:町域 ;
     rdfs:label "高雄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460028" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市たきない町
+    a mo:町域 ;
     rdfs:label "たきない町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460015" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市竹ノ平
+    a mo:町域 ;
     rdfs:label "竹ノ平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461324" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市谷野口
+    a mo:町域 ;
     rdfs:label "谷野口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461336" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市天神崎
+    a mo:町域 ;
     rdfs:label "天神崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460050" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市東陽
+    a mo:町域 ;
     rdfs:label "東陽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460029" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市長瀬
+    a mo:町域 ;
     rdfs:label "長瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461339" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中芳養
+    a mo:町域 ;
     rdfs:label "中芳養"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460057" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町石船
+    a mo:町域 ;
     rdfs:label "中辺路町石船"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461412" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町内井川
+    a mo:町域 ;
     rdfs:label "中辺路町内井川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461439" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町大内川
+    a mo:町域 ;
     rdfs:label "中辺路町大内川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461411" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町大川
+    a mo:町域 ;
     rdfs:label "中辺路町大川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461433" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町川合
+    a mo:町域 ;
     rdfs:label "中辺路町川合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461417" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町熊野川
+    a mo:町域 ;
     rdfs:label "中辺路町熊野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461436" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町栗栖川
+    a mo:町域 ;
     rdfs:label "中辺路町栗栖川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461421" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町小皆
+    a mo:町域 ;
     rdfs:label "中辺路町小皆"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461435" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町小松原
+    a mo:町域 ;
     rdfs:label "中辺路町小松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461431" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町沢
+    a mo:町域 ;
     rdfs:label "中辺路町沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461437" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町高原
+    a mo:町域 ;
     rdfs:label "中辺路町高原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461416" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町近露
+    a mo:町域 ;
     rdfs:label "中辺路町近露"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461402" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町西谷
+    a mo:町域 ;
     rdfs:label "中辺路町西谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461414" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町温川
+    a mo:町域 ;
     rdfs:label "中辺路町温川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461434" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町野中
+    a mo:町域 ;
     rdfs:label "中辺路町野中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461401" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町福定
+    a mo:町域 ;
     rdfs:label "中辺路町福定"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461432" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町北郡
+    a mo:町域 ;
     rdfs:label "中辺路町北郡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461413" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町真砂
+    a mo:町域 ;
     rdfs:label "中辺路町真砂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461415" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中辺路町水上
+    a mo:町域 ;
     rdfs:label "中辺路町水上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461438" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中万呂
+    a mo:町域 ;
     rdfs:label "中万呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中三栖
+    a mo:町域 ;
     rdfs:label "中三栖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460215" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市中屋敷町
+    a mo:町域 ;
     rdfs:label "中屋敷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460035" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市長野
+    a mo:町域 ;
     rdfs:label "長野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市芳養町
+    a mo:町域 ;
     rdfs:label "芳養町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460056" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市芳養松原
+    a mo:町域 ;
     rdfs:label "芳養松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460063" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市東伏菟野
+    a mo:町域 ;
     rdfs:label "東伏菟野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461333" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市東山
+    a mo:町域 ;
     rdfs:label "東山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市平瀬
+    a mo:町域 ;
     rdfs:label "平瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市深谷
+    a mo:町域 ;
     rdfs:label "深谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461326" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市福路町
+    a mo:町域 ;
     rdfs:label "福路町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460044" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市伏菟野
+    a mo:町域 ;
     rdfs:label "伏菟野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市古尾
+    a mo:町域 ;
     rdfs:label "古尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460059" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市宝来町
+    a mo:町域 ;
     rdfs:label "宝来町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460026" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町一本松
+    a mo:町域 ;
     rdfs:label "本宮町一本松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471742" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町請川
+    a mo:町域 ;
     rdfs:label "本宮町請川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471703" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町大居
+    a mo:町域 ;
     rdfs:label "本宮町大居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471741" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町大瀬
+    a mo:町域 ;
     rdfs:label "本宮町大瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471725" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町大津荷
+    a mo:町域 ;
     rdfs:label "本宮町大津荷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471702" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町上大野
+    a mo:町域 ;
     rdfs:label "本宮町上大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471716" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町上切原
+    a mo:町域 ;
     rdfs:label "本宮町上切原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471751" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町川湯
+    a mo:町域 ;
     rdfs:label "本宮町川湯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471717" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町切畑
+    a mo:町域 ;
     rdfs:label "本宮町切畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471752" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町久保野
+    a mo:町域 ;
     rdfs:label "本宮町久保野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471736" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町小々森
+    a mo:町域 ;
     rdfs:label "本宮町小々森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471722" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町小津荷
+    a mo:町域 ;
     rdfs:label "本宮町小津荷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471701" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町静川
+    a mo:町域 ;
     rdfs:label "本宮町静川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471714" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町下湯川
+    a mo:町域 ;
     rdfs:label "本宮町下湯川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471734" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町高山
+    a mo:町域 ;
     rdfs:label "本宮町高山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471705" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町田代
+    a mo:町域 ;
     rdfs:label "本宮町田代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471712" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町土河屋
+    a mo:町域 ;
     rdfs:label "本宮町土河屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471753" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町野竹
+    a mo:町域 ;
     rdfs:label "本宮町野竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471724" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町東和田
+    a mo:町域 ;
     rdfs:label "本宮町東和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471715" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町檜葉
+    a mo:町域 ;
     rdfs:label "本宮町檜葉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471721" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町伏拝
+    a mo:町域 ;
     rdfs:label "本宮町伏拝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471743" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町武住
+    a mo:町域 ;
     rdfs:label "本宮町武住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471726" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町本宮
+    a mo:町域 ;
     rdfs:label "本宮町本宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471731" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町曲川
+    a mo:町域 ;
     rdfs:label "本宮町曲川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471735" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町三越
+    a mo:町域 ;
     rdfs:label "本宮町三越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471744" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町皆瀬川
+    a mo:町域 ;
     rdfs:label "本宮町皆瀬川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471711" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町皆地
+    a mo:町域 ;
     rdfs:label "本宮町皆地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471723" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町簑尾谷
+    a mo:町域 ;
     rdfs:label "本宮町簑尾谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471713" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町耳打
+    a mo:町域 ;
     rdfs:label "本宮町耳打"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471704" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町湯峯
+    a mo:町域 ;
     rdfs:label "本宮町湯峯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471732" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本宮町渡瀬
+    a mo:町域 ;
     rdfs:label "本宮町渡瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471733" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460046" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市神子浜
+    a mo:町域 ;
     rdfs:label "神子浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市湊
+    a mo:町域 ;
     rdfs:label "湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460031" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市南新町
+    a mo:町域 ;
     rdfs:label "南新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460042" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市南新万
+    a mo:町域 ;
     rdfs:label "南新万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460013" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市向山
+    a mo:町域 ;
     rdfs:label "向山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461323" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市むつみ
+    a mo:町域 ;
     rdfs:label "むつみ"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460052" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市明洋
+    a mo:町域 ;
     rdfs:label "明洋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460062" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市目良
+    a mo:町域 ;
     rdfs:label "目良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460058" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市面川
+    a mo:町域 ;
     rdfs:label "面川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461322" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市元町
+    a mo:町域 ;
     rdfs:label "元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460053" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市文里
+    a mo:町域 ;
     rdfs:label "文里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村小家
+    a mo:町域 ;
     rdfs:label "龍神村小家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450303" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村甲斐ノ川
+    a mo:町域 ;
     rdfs:label "龍神村甲斐ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450302" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村小又川
+    a mo:町域 ;
     rdfs:label "龍神村小又川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450521" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村殿原
+    a mo:町域 ;
     rdfs:label "龍神村殿原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450413" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村西
+    a mo:町域 ;
     rdfs:label "龍神村西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450415" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村丹生ノ川
+    a mo:町域 ;
     rdfs:label "龍神村丹生ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450412" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村東
+    a mo:町域 ;
     rdfs:label "龍神村東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450414" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村広井原
+    a mo:町域 ;
     rdfs:label "龍神村広井原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450523" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村福井
+    a mo:町域 ;
     rdfs:label "龍神村福井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450301" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村三ツ又
+    a mo:町域 ;
     rdfs:label "龍神村三ツ又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450522" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村宮代
+    a mo:町域 ;
     rdfs:label "龍神村宮代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450411" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村安井
+    a mo:町域 ;
     rdfs:label "龍神村安井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450416" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村柳瀬
+    a mo:町域 ;
     rdfs:label "龍神村柳瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450417" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村湯ノ又
+    a mo:町域 ;
     rdfs:label "龍神村湯ノ又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450524" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市龍神村龍神
+    a mo:町域 ;
     rdfs:label "龍神村龍神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450525" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県田辺市和田
+    a mo:町域 ;
     rdfs:label "和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6461211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市
     rdfs:label "新宮市"@ja ;
@@ -3972,269 +5500,402 @@ mr:JP_和歌山県新宮市
 a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市相筋
+    a mo:町域 ;
     rdfs:label "相筋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市あけぼの
+    a mo:町域 ;
     rdfs:label "あけぼの"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市阿須賀
+    a mo:町域 ;
     rdfs:label "阿須賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市伊佐田町
+    a mo:町域 ;
     rdfs:label "伊佐田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470012" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市井の沢
+    a mo:町域 ;
     rdfs:label "井の沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470045" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市磐盾
+    a mo:町域 ;
     rdfs:label "磐盾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470051" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市浮島
+    a mo:町域 ;
     rdfs:label "浮島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470014" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市馬町
+    a mo:町域 ;
     rdfs:label "馬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470008" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市相賀
+    a mo:町域 ;
     rdfs:label "相賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市王子町
+    a mo:町域 ;
     rdfs:label "王子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470032" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市大橋通
+    a mo:町域 ;
     rdfs:label "大橋通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市春日
+    a mo:町域 ;
     rdfs:label "春日"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470013" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市神倉
+    a mo:町域 ;
     rdfs:label "神倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470044" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市上本町
+    a mo:町域 ;
     rdfs:label "上本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市木ノ川
+    a mo:町域 ;
     rdfs:label "木ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470073" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町相須
+    a mo:町域 ;
     rdfs:label "熊野川町相須"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471216" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町赤木
+    a mo:町域 ;
     rdfs:label "熊野川町赤木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町畝畑
+    a mo:町域 ;
     rdfs:label "熊野川町畝畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471207" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町大山
+    a mo:町域 ;
     rdfs:label "熊野川町大山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471203" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町鎌塚
+    a mo:町域 ;
     rdfs:label "熊野川町鎌塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471204" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町上長井
+    a mo:町域 ;
     rdfs:label "熊野川町上長井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町九重
+    a mo:町域 ;
     rdfs:label "熊野川町九重"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471233" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町篠尾
+    a mo:町域 ;
     rdfs:label "熊野川町篠尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471223" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町四滝
+    a mo:町域 ;
     rdfs:label "熊野川町四滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471234" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町嶋津
+    a mo:町域 ;
     rdfs:label "熊野川町嶋津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471232" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町滝本
+    a mo:町域 ;
     rdfs:label "熊野川町滝本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471205" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町田長
+    a mo:町域 ;
     rdfs:label "熊野川町田長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町玉置口
+    a mo:町域 ;
     rdfs:label "熊野川町玉置口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471231" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町西
+    a mo:町域 ;
     rdfs:label "熊野川町西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471206" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町西敷屋
+    a mo:町域 ;
     rdfs:label "熊野川町西敷屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471221" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町能城山本
+    a mo:町域 ;
     rdfs:label "熊野川町能城山本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町東
+    a mo:町域 ;
     rdfs:label "熊野川町東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町東敷屋
+    a mo:町域 ;
     rdfs:label "熊野川町東敷屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471222" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町日足
+    a mo:町域 ;
     rdfs:label "熊野川町日足"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町宮井
+    a mo:町域 ;
     rdfs:label "熊野川町宮井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471235" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野川町椋井
+    a mo:町域 ;
     rdfs:label "熊野川町椋井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471215" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市熊野地
+    a mo:町域 ;
     rdfs:label "熊野地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市五新
+    a mo:町域 ;
     rdfs:label "五新"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470053" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市佐野
+    a mo:町域 ;
     rdfs:label "佐野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470071" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市清水元
+    a mo:町域 ;
     rdfs:label "清水元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470033" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市下田
+    a mo:町域 ;
     rdfs:label "下田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470042" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市下本町
+    a mo:町域 ;
     rdfs:label "下本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470011" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市徐福
+    a mo:町域 ;
     rdfs:label "徐福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470020" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市新宮
+    a mo:町域 ;
     rdfs:label "新宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470081" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470019" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市高田
+    a mo:町域 ;
     rdfs:label "高田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市田鶴原町
+    a mo:町域 ;
     rdfs:label "田鶴原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470031" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市谷王子町
+    a mo:町域 ;
     rdfs:label "谷王子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470016" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市丹鶴
+    a mo:町域 ;
     rdfs:label "丹鶴"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470010" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市千穂
+    a mo:町域 ;
     rdfs:label "千穂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470015" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市仲之町
+    a mo:町域 ;
     rdfs:label "仲之町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470018" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市野田
+    a mo:町域 ;
     rdfs:label "野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470041" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市橋本
+    a mo:町域 ;
     rdfs:label "橋本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470052" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市蜂伏
+    a mo:町域 ;
     rdfs:label "蜂伏"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470072" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市船町
+    a mo:町域 ;
     rdfs:label "船町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市別当屋敷町
+    a mo:町域 ;
     rdfs:label "別当屋敷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470007" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市蓬莱
+    a mo:町域 ;
     rdfs:label "蓬莱"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市丸山
+    a mo:町域 ;
     rdfs:label "丸山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470034" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市緑ケ丘
+    a mo:町域 ;
     rdfs:label "緑ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470043" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市南檜杖
+    a mo:町域 ;
     rdfs:label "南檜杖"@ja ;
     mo:SubRegion mr:JP_和歌山県新宮市南檜杖土ノ河 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470054" ;
+    mo:JP_郵便番号 "6471103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市南檜杖土ノ河
     rdfs:label "土ノ河"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6471103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市三輪崎
+    a mo:町域 ;
     rdfs:label "三輪崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470061" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市元鍛治町
+    a mo:町域 ;
     rdfs:label "元鍛治町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470005" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市薬師町
+    a mo:町域 ;
     rdfs:label "薬師町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470006" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県新宮市横町
+    a mo:町域 ;
     rdfs:label "横町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6470017" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市
     rdfs:label "紀の川市"@ja ;
@@ -4360,472 +6021,707 @@ mr:JP_和歌山県紀の川市
 a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市赤尾
+    a mo:町域 ;
     rdfs:label "赤尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496404" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市赤沼田
+    a mo:町域 ;
     rdfs:label "赤沼田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496614" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市穴伏
+    a mo:町域 ;
     rdfs:label "穴伏"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496611" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市荒見
+    a mo:町域 ;
     rdfs:label "荒見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496561" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市池田新
+    a mo:町域 ;
     rdfs:label "池田新"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496407" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市井田
+    a mo:町域 ;
     rdfs:label "井田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496541" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市猪垣
+    a mo:町域 ;
     rdfs:label "猪垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496511" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496416" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市打田
+    a mo:町域 ;
     rdfs:label "打田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496414" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市馬宿
+    a mo:町域 ;
     rdfs:label "馬宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496521" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市江川中
+    a mo:町域 ;
     rdfs:label "江川中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496605" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市王子
+    a mo:町域 ;
     rdfs:label "王子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496624" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市麻生津中
+    a mo:町域 ;
     rdfs:label "麻生津中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496615" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市尾崎
+    a mo:町域 ;
     rdfs:label "尾崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496423" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市遠方
+    a mo:町域 ;
     rdfs:label "遠方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496562" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市風市
+    a mo:町域 ;
     rdfs:label "風市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496563" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市勝神
+    a mo:町域 ;
     rdfs:label "勝神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496564" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市上鞆渕
+    a mo:町域 ;
     rdfs:label "上鞆渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496571" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市上丹生谷
+    a mo:町域 ;
     rdfs:label "上丹生谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496522" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町尼寺
+    a mo:町域 ;
     rdfs:label "貴志川町尼寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400403" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町井ノ口
+    a mo:町域 ;
     rdfs:label "貴志川町井ノ口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400424" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町上野山
+    a mo:町域 ;
     rdfs:label "貴志川町上野山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400412" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町岸小野
+    a mo:町域 ;
     rdfs:label "貴志川町岸小野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400422" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町岸宮
+    a mo:町域 ;
     rdfs:label "貴志川町岸宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400405" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町北
+    a mo:町域 ;
     rdfs:label "貴志川町北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400421" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町北山
+    a mo:町域 ;
     rdfs:label "貴志川町北山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400402" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町国主
+    a mo:町域 ;
     rdfs:label "貴志川町国主"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400414" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町神戸
+    a mo:町域 ;
     rdfs:label "貴志川町神戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400413" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町高尾
+    a mo:町域 ;
     rdfs:label "貴志川町高尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400423" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町鳥居
+    a mo:町域 ;
     rdfs:label "貴志川町鳥居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400404" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町長原
+    a mo:町域 ;
     rdfs:label "貴志川町長原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400415" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町長山
+    a mo:町域 ;
     rdfs:label "貴志川町長山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400416" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町西山
+    a mo:町域 ;
     rdfs:label "貴志川町西山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400406" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町前田
+    a mo:町域 ;
     rdfs:label "貴志川町前田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400411" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市貴志川町丸栖
+    a mo:町域 ;
     rdfs:label "貴志川町丸栖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6400401" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市北大井
+    a mo:町域 ;
     rdfs:label "北大井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496406" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市北志野
+    a mo:町域 ;
     rdfs:label "北志野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496501" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市北勢田
+    a mo:町域 ;
     rdfs:label "北勢田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496402" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市北中
+    a mo:町域 ;
     rdfs:label "北中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496443" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市北長田
+    a mo:町域 ;
     rdfs:label "北長田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496502" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市北涌
+    a mo:町域 ;
     rdfs:label "北涌"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496612" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市切畑
+    a mo:町域 ;
     rdfs:label "切畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496606" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市窪
+    a mo:町域 ;
     rdfs:label "窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496415" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市久留壁
+    a mo:町域 ;
     rdfs:label "久留壁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496418" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市黒土
+    a mo:町域 ;
     rdfs:label "黒土"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496412" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市花野
+    a mo:町域 ;
     rdfs:label "花野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496422" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市上田井
+    a mo:町域 ;
     rdfs:label "上田井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496551" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市粉河
+    a mo:町域 ;
     rdfs:label "粉河"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496531" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市重行
+    a mo:町域 ;
     rdfs:label "重行"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496401" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市嶋
+    a mo:町域 ;
     rdfs:label "嶋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496552" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市下井阪
+    a mo:町域 ;
     rdfs:label "下井阪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496426" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市下鞆渕
+    a mo:町域 ;
     rdfs:label "下鞆渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496572" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市下丹生谷
+    a mo:町域 ;
     rdfs:label "下丹生谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496523" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市後田
+    a mo:町域 ;
     rdfs:label "後田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496622" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市神通
+    a mo:町域 ;
     rdfs:label "神通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496451" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市神領
+    a mo:町域 ;
     rdfs:label "神領"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496442" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市杉原
+    a mo:町域 ;
     rdfs:label "杉原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496565" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市高野
+    a mo:町域 ;
     rdfs:label "高野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496161" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市竹房
+    a mo:町域 ;
     rdfs:label "竹房"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496413" ;
+    mo:JP_郵便番号 "6496162" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市田中馬場
+    a mo:町域 ;
     rdfs:label "田中馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496421" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市東毛
+    a mo:町域 ;
     rdfs:label "東毛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496512" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市豊田
+    a mo:町域 ;
     rdfs:label "豊田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496445" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市中井阪
+    a mo:町域 ;
     rdfs:label "中井阪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496425" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市長田中
+    a mo:町域 ;
     rdfs:label "長田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496503" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市中津川
+    a mo:町域 ;
     rdfs:label "中津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496513" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市中鞆渕
+    a mo:町域 ;
     rdfs:label "中鞆渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496573" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市中畑
+    a mo:町域 ;
     rdfs:label "中畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496452" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市中三谷
+    a mo:町域 ;
     rdfs:label "中三谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496434" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496532" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市名手市場
+    a mo:町域 ;
     rdfs:label "名手市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496631" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市名手上
+    a mo:町域 ;
     rdfs:label "名手上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496601" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市名手下
+    a mo:町域 ;
     rdfs:label "名手下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496603" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市名手西野
+    a mo:町域 ;
     rdfs:label "名手西野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496621" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市西井阪
+    a mo:町域 ;
     rdfs:label "西井阪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496427" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市西大井
+    a mo:町域 ;
     rdfs:label "西大井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496417" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市西川原
+    a mo:町域 ;
     rdfs:label "西川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496524" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市西野山
+    a mo:町域 ;
     rdfs:label "西野山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496604" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市西三谷
+    a mo:町域 ;
     rdfs:label "西三谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496433" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市西山田
+    a mo:町域 ;
     rdfs:label "西山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496447" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市西脇
+    a mo:町域 ;
     rdfs:label "西脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496616" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市野上
+    a mo:町域 ;
     rdfs:label "野上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496525" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市登尾
+    a mo:町域 ;
     rdfs:label "登尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496444" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市畑野上
+    a mo:町域 ;
     rdfs:label "畑野上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496424" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市東大井
+    a mo:町域 ;
     rdfs:label "東大井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496405" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市東川原
+    a mo:町域 ;
     rdfs:label "東川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496526" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市東国分
+    a mo:町域 ;
     rdfs:label "東国分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496428" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市東野
+    a mo:町域 ;
     rdfs:label "東野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496542" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市東三谷
+    a mo:町域 ;
     rdfs:label "東三谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496435" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市東山田
+    a mo:町域 ;
     rdfs:label "東山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496441" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市平野
+    a mo:町域 ;
     rdfs:label "平野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496602" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市広野
+    a mo:町域 ;
     rdfs:label "広野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496411" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市枇杷谷
+    a mo:町域 ;
     rdfs:label "枇杷谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496446" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市深田
+    a mo:町域 ;
     rdfs:label "深田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496553" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市藤井
+    a mo:町域 ;
     rdfs:label "藤井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496514" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市藤崎
+    a mo:町域 ;
     rdfs:label "藤崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496623" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市古和田
+    a mo:町域 ;
     rdfs:label "古和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496432" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市別所
+    a mo:町域 ;
     rdfs:label "別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496554" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市松井
+    a mo:町域 ;
     rdfs:label "松井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496555" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市南志野
+    a mo:町域 ;
     rdfs:label "南志野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496504" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市南勢田
+    a mo:町域 ;
     rdfs:label "南勢田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496403" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市南中
+    a mo:町域 ;
     rdfs:label "南中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496431" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町市場
+    a mo:町域 ;
     rdfs:label "桃山町市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496124" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町大原
+    a mo:町域 ;
     rdfs:label "桃山町大原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496105" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町垣内
+    a mo:町域 ;
     rdfs:label "桃山町垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401333" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町黒川
+    a mo:町域 ;
     rdfs:label "桃山町黒川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町神田
+    a mo:町域 ;
     rdfs:label "桃山町神田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496123" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町善田
+    a mo:町域 ;
     rdfs:label "桃山町善田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町段
+    a mo:町域 ;
     rdfs:label "桃山町段"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496125" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町段新田
+    a mo:町域 ;
     rdfs:label "桃山町段新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町調月
+    a mo:町域 ;
     rdfs:label "桃山町調月"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496112" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町中畑
+    a mo:町域 ;
     rdfs:label "桃山町中畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401332" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町野田原
+    a mo:町域 ;
     rdfs:label "桃山町野田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町峯
+    a mo:町域 ;
     rdfs:label "桃山町峯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401331" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町最上
+    a mo:町域 ;
     rdfs:label "桃山町最上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町元
+    a mo:町域 ;
     rdfs:label "桃山町元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496122" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市桃山町脇谷
+    a mo:町域 ;
     rdfs:label "桃山町脇谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496104" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県紀の川市横谷
+    a mo:町域 ;
     rdfs:label "横谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496613" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市
     rdfs:label "岩出市"@ja ;
@@ -4881,192 +6777,286 @@ mr:JP_和歌山県岩出市
 a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市相谷
+    a mo:町域 ;
     rdfs:label "相谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496257" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市赤垣内
+    a mo:町域 ;
     rdfs:label "赤垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496242" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市尼ケ辻
+    a mo:町域 ;
     rdfs:label "尼ケ辻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496207" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市安上
+    a mo:町域 ;
     rdfs:label "安上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496252" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市荊本
+    a mo:町域 ;
     rdfs:label "荊本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496232" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市今中
+    a mo:町域 ;
     rdfs:label "今中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496204" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市今畑
+    a mo:町域 ;
     rdfs:label "今畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496208" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市大町
+    a mo:町域 ;
     rdfs:label "大町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496228" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市岡田
+    a mo:町域 ;
     rdfs:label "岡田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496222" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市押川
+    a mo:町域 ;
     rdfs:label "押川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市金池
+    a mo:町域 ;
     rdfs:label "金池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496256" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市金屋
+    a mo:町域 ;
     rdfs:label "金屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496243" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市川尻
+    a mo:町域 ;
     rdfs:label "川尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496231" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市紀泉台
+    a mo:町域 ;
     rdfs:label "紀泉台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496253" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市北大池
+    a mo:町域 ;
     rdfs:label "北大池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496219" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市境谷
+    a mo:町域 ;
     rdfs:label "境谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496251" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市桜台
+    a mo:町域 ;
     rdfs:label "桜台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496203" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市清水
+    a mo:町域 ;
     rdfs:label "清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496227" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市新田広芝
+    a mo:町域 ;
     rdfs:label "新田広芝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市曽屋
+    a mo:町域 ;
     rdfs:label "曽屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496236" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市高瀬
+    a mo:町域 ;
     rdfs:label "高瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496234" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市高塚
+    a mo:町域 ;
     rdfs:label "高塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496223" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市中黒
+    a mo:町域 ;
     rdfs:label "中黒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496248" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市中島
+    a mo:町域 ;
     rdfs:label "中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496245" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市中迫
+    a mo:町域 ;
     rdfs:label "中迫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496215" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市西安上
+    a mo:町域 ;
     rdfs:label "西安上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496255" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市西国分
+    a mo:町域 ;
     rdfs:label "西国分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市西野
+    a mo:町域 ;
     rdfs:label "西野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496235" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市根来
+    a mo:町域 ;
     rdfs:label "根来"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市野上野
+    a mo:町域 ;
     rdfs:label "野上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496216" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市畑毛
+    a mo:町域 ;
     rdfs:label "畑毛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496244" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市波分
+    a mo:町域 ;
     rdfs:label "波分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496241" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市原
+    a mo:町域 ;
     rdfs:label "原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496254" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市東坂本
+    a mo:町域 ;
     rdfs:label "東坂本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市備前
+    a mo:町域 ;
     rdfs:label "備前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496233" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市船戸
+    a mo:町域 ;
     rdfs:label "船戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496225" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市堀口
+    a mo:町域 ;
     rdfs:label "堀口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496206" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市水栖
+    a mo:町域 ;
     rdfs:label "水栖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市溝川
+    a mo:町域 ;
     rdfs:label "溝川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496221" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市南大池
+    a mo:町域 ;
     rdfs:label "南大池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496218" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市宮
+    a mo:町域 ;
     rdfs:label "宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496226" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市森
+    a mo:町域 ;
     rdfs:label "森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496205" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市山
+    a mo:町域 ;
     rdfs:label "山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496258" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市山崎
+    a mo:町域 ;
     rdfs:label "山崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496224" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496217" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市湯窪
+    a mo:町域 ;
     rdfs:label "湯窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496248" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県岩出市吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6496246" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町
     rdfs:label "海草郡紀美野町"@ja ;
@@ -5131,228 +7121,340 @@ mr:JP_和歌山県海草郡紀美野町
 a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町赤木
+    a mo:町域 ;
     rdfs:label "赤木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町上ケ井
+    a mo:町域 ;
     rdfs:label "上ケ井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401231" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町井堰
+    a mo:町域 ;
     rdfs:label "井堰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401207" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町今西
+    a mo:町域 ;
     rdfs:label "今西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401365" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町初生谷
+    a mo:町域 ;
     rdfs:label "初生谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町梅本
+    a mo:町域 ;
     rdfs:label "梅本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401113" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町円明寺
+    a mo:町域 ;
     rdfs:label "円明寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401353" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町大角
+    a mo:町域 ;
     rdfs:label "大角"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401222" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町奥佐々
+    a mo:町域 ;
     rdfs:label "奥佐々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401115" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町勝谷
+    a mo:町域 ;
     rdfs:label "勝谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401351" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町桂瀬
+    a mo:町域 ;
     rdfs:label "桂瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町釜滝
+    a mo:町域 ;
     rdfs:label "釜滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401255" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町鎌滝
+    a mo:町域 ;
     rdfs:label "鎌滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401215" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町北野
+    a mo:町域 ;
     rdfs:label "北野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町国木原
+    a mo:町域 ;
     rdfs:label "国木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401251" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町毛原上
+    a mo:町域 ;
     rdfs:label "毛原上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401472" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町毛原下
+    a mo:町域 ;
     rdfs:label "毛原下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401476" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町毛原中
+    a mo:町域 ;
     rdfs:label "毛原中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401474" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町毛原宮
+    a mo:町域 ;
     rdfs:label "毛原宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401473" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町神野市場
+    a mo:町域 ;
     rdfs:label "神野市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401243" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町小西
+    a mo:町域 ;
     rdfs:label "小西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401475" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町坂本
+    a mo:町域 ;
     rdfs:label "坂本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401112" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町柴目
+    a mo:町域 ;
     rdfs:label "柴目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町下佐々
+    a mo:町域 ;
     rdfs:label "下佐々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町小畑
+    a mo:町域 ;
     rdfs:label "小畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町菅沢
+    a mo:町域 ;
     rdfs:label "菅沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401364" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町田
+    a mo:町域 ;
     rdfs:label "田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401363" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町高畑
+    a mo:町域 ;
     rdfs:label "高畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町滝ノ川
+    a mo:町域 ;
     rdfs:label "滝ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401362" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町谷
+    a mo:町域 ;
     rdfs:label "谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401352" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町津川
+    a mo:町域 ;
     rdfs:label "津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401223" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町動木
+    a mo:町域 ;
     rdfs:label "動木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町中
+    a mo:町域 ;
     rdfs:label "中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401361" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町中田
+    a mo:町域 ;
     rdfs:label "中田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401114" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町長谷
+    a mo:町域 ;
     rdfs:label "長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町永谷
+    a mo:町域 ;
     rdfs:label "永谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401241" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町西野
+    a mo:町域 ;
     rdfs:label "西野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401252" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町野中
+    a mo:町域 ;
     rdfs:label "野中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401235" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町長谷宮
+    a mo:町域 ;
     rdfs:label "長谷宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401471" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町花野原
+    a mo:町域 ;
     rdfs:label "花野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401203" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町東野
+    a mo:町域 ;
     rdfs:label "東野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401253" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町樋下
+    a mo:町域 ;
     rdfs:label "樋下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401242" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町福井
+    a mo:町域 ;
     rdfs:label "福井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町福田
+    a mo:町域 ;
     rdfs:label "福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401244" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町真国宮
+    a mo:町域 ;
     rdfs:label "真国宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401205" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町松ケ峯
+    a mo:町域 ;
     rdfs:label "松ケ峯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401366" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町松瀬
+    a mo:町域 ;
     rdfs:label "松瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401254" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町三尾川
+    a mo:町域 ;
     rdfs:label "三尾川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401221" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町南畑
+    a mo:町域 ;
     rdfs:label "南畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401233" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町蓑垣内
+    a mo:町域 ;
     rdfs:label "蓑垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401206" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町蓑津呂
+    a mo:町域 ;
     rdfs:label "蓑津呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401204" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町明添
+    a mo:町域 ;
     rdfs:label "明添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町箕六
+    a mo:町域 ;
     rdfs:label "箕六"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401232" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町安井
+    a mo:町域 ;
     rdfs:label "安井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401234" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町四郷
+    a mo:町域 ;
     rdfs:label "四郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401354" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県海草郡紀美野町吉野
+    a mo:町域 ;
     rdfs:label "吉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町
     rdfs:label "伊都郡かつらぎ町"@ja ;
@@ -5410,200 +7512,298 @@ mr:JP_和歌山県伊都郡かつらぎ町
 a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町兄井
+    a mo:町域 ;
     rdfs:label "兄井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497137" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町移
+    a mo:町域 ;
     rdfs:label "移"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497167" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町蛭子
+    a mo:町域 ;
     rdfs:label "蛭子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497172" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497173" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町大畑
+    a mo:町域 ;
     rdfs:label "大畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町大薮
+    a mo:町域 ;
     rdfs:label "大薮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497171" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町柏木
+    a mo:町域 ;
     rdfs:label "柏木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497123" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町笠田中
+    a mo:町域 ;
     rdfs:label "笠田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497162" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町笠田東
+    a mo:町域 ;
     rdfs:label "笠田東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497161" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町上天野
+    a mo:町域 ;
     rdfs:label "上天野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町教良寺
+    a mo:町域 ;
     rdfs:label "教良寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497132" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町窪
+    a mo:町域 ;
     rdfs:label "窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497164" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町神田
+    a mo:町域 ;
     rdfs:label "神田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497143" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町御所
+    a mo:町域 ;
     rdfs:label "御所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497153" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町佐野
+    a mo:町域 ;
     rdfs:label "佐野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497174" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町志賀
+    a mo:町域 ;
     rdfs:label "志賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497144" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町島
+    a mo:町域 ;
     rdfs:label "島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497155" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町下天野
+    a mo:町域 ;
     rdfs:label "下天野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497142" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町新城
+    a mo:町域 ;
     rdfs:label "新城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6401481" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町新田
+    a mo:町域 ;
     rdfs:label "新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497122" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町背ノ山
+    a mo:町域 ;
     rdfs:label "背ノ山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497165" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町平
+    a mo:町域 ;
     rdfs:label "平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497104" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町高田
+    a mo:町域 ;
     rdfs:label "高田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497166" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町滝
+    a mo:町域 ;
     rdfs:label "滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町丁ノ町
+    a mo:町域 ;
     rdfs:label "丁ノ町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町寺尾
+    a mo:町域 ;
     rdfs:label "寺尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497136" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町中飯降
+    a mo:町域 ;
     rdfs:label "中飯降"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497112" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町西飯降
+    a mo:町域 ;
     rdfs:label "西飯降"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497114" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町西渋田
+    a mo:町域 ;
     rdfs:label "西渋田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497154" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町萩原
+    a mo:町域 ;
     rdfs:label "萩原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497163" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町花園新子
+    a mo:町域 ;
     rdfs:label "花園新子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430614" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町花園池ノ窪
+    a mo:町域 ;
     rdfs:label "花園池ノ窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430613" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町花園北寺
+    a mo:町域 ;
     rdfs:label "花園北寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430612" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町花園久木
+    a mo:町域 ;
     rdfs:label "花園久木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町花園中南
+    a mo:町域 ;
     rdfs:label "花園中南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町花園梁瀬
+    a mo:町域 ;
     rdfs:label "花園梁瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430611" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町東渋田
+    a mo:町域 ;
     rdfs:label "東渋田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497151" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町東谷
+    a mo:町域 ;
     rdfs:label "東谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町日高
+    a mo:町域 ;
     rdfs:label "日高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497145" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町平沼田
+    a mo:町域 ;
     rdfs:label "平沼田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497135" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町広浦
+    a mo:町域 ;
     rdfs:label "広浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497175" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町広口
+    a mo:町域 ;
     rdfs:label "広口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町星川
+    a mo:町域 ;
     rdfs:label "星川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497152" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町星山
+    a mo:町域 ;
     rdfs:label "星山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497146" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町短野
+    a mo:町域 ;
     rdfs:label "短野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497115" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町三谷
+    a mo:町域 ;
     rdfs:label "三谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497133" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町宮本
+    a mo:町域 ;
     rdfs:label "宮本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497134" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町妙寺
+    a mo:町域 ;
     rdfs:label "妙寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497113" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡かつらぎ町山崎
+    a mo:町域 ;
     rdfs:label "山崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6497131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町
     rdfs:label "伊都郡九度山町"@ja ;
@@ -5625,56 +7825,82 @@ mr:JP_和歌山県伊都郡九度山町
 a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町市平
+    a mo:町域 ;
     rdfs:label "市平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町笠木
+    a mo:町域 ;
     rdfs:label "笠木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480142" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町河根
+    a mo:町域 ;
     rdfs:label "河根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町上古沢
+    a mo:町域 ;
     rdfs:label "上古沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480143" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町北又
+    a mo:町域 ;
     rdfs:label "北又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480132" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町九度山
+    a mo:町域 ;
     rdfs:label "九度山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町椎出
+    a mo:町域 ;
     rdfs:label "椎出"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町慈尊院
+    a mo:町域 ;
     rdfs:label "慈尊院"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480151" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町下古沢
+    a mo:町域 ;
     rdfs:label "下古沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480145" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町中古沢
+    a mo:町域 ;
     rdfs:label "中古沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480144" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町丹生川
+    a mo:町域 ;
     rdfs:label "丹生川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町入郷
+    a mo:町域 ;
     rdfs:label "入郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480161" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡九度山町東郷
+    a mo:町域 ;
     rdfs:label "東郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480133" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町
     rdfs:label "伊都郡高野町"@ja ;
@@ -5702,85 +7928,126 @@ mr:JP_和歌山県伊都郡高野町
 a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町相ノ浦
+    a mo:町域 ;
     rdfs:label "相ノ浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480241" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町大滝
+    a mo:町域 ;
     rdfs:label "大滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480231" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町樫原
+    a mo:町域 ;
     rdfs:label "樫原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480227" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町上筒香
+    a mo:町域 ;
     rdfs:label "上筒香"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480403" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町高野山
+    a mo:町域 ;
     rdfs:label "高野山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町下筒香
+    a mo:町域 ;
     rdfs:label "下筒香"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480405" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町杖ケ薮
+    a mo:町域 ;
     rdfs:label "杖ケ薮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480225" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町中筒香
+    a mo:町域 ;
     rdfs:label "中筒香"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480404" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町西ケ峰
+    a mo:町域 ;
     rdfs:label "西ケ峰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480221" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町西郷
+    a mo:町域 ;
     rdfs:label "西郷"@ja ;
     mo:SubRegion mr:JP_和歌山県伊都郡高野町西郷神谷 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480261" ;
+    mo:JP_郵便番号 "6480171" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町西郷神谷
     rdfs:label "神谷"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6480261" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町西富貴
+    a mo:町域 ;
     rdfs:label "西富貴"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480401" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町花坂
+    a mo:町域 ;
     rdfs:label "花坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480263" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町林
+    a mo:町域 ;
     rdfs:label "林"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480223" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町東富貴
+    a mo:町域 ;
     rdfs:label "東富貴"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480402" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町東又
+    a mo:町域 ;
     rdfs:label "東又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480226" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町平原
+    a mo:町域 ;
     rdfs:label "平原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480224" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町細川
+    a mo:町域 ;
     rdfs:label "細川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480262" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町南
+    a mo:町域 ;
     rdfs:label "南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480222" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県伊都郡高野町湯川
+    a mo:町域 ;
     rdfs:label "湯川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6480251" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡湯浅町
     rdfs:label "有田郡湯浅町"@ja ;
@@ -5796,32 +8063,46 @@ mr:JP_和歌山県有田郡湯浅町
 a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡湯浅町青木
+    a mo:町域 ;
     rdfs:label "青木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡湯浅町栖原
+    a mo:町域 ;
     rdfs:label "栖原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430005" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡湯浅町田
+    a mo:町域 ;
     rdfs:label "田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430006" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡湯浅町別所
+    a mo:町域 ;
     rdfs:label "別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡湯浅町山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡湯浅町湯浅
+    a mo:町域 ;
     rdfs:label "湯浅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡湯浅町吉川
+    a mo:町域 ;
     rdfs:label "吉川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430007" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町
     rdfs:label "有田郡広川町"@ja ;
@@ -5846,68 +8127,100 @@ mr:JP_和歌山県有田郡広川町
 a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町井関
+    a mo:町域 ;
     rdfs:label "井関"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430055" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町上津木
+    a mo:町域 ;
     rdfs:label "上津木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430052" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町上中野
+    a mo:町域 ;
     rdfs:label "上中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430064" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町唐尾
+    a mo:町域 ;
     rdfs:label "唐尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430073" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町河瀬
+    a mo:町域 ;
     rdfs:label "河瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430053" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町下津木
+    a mo:町域 ;
     rdfs:label "下津木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430051" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町殿
+    a mo:町域 ;
     rdfs:label "殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430062" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町名島
+    a mo:町域 ;
     rdfs:label "名島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430066" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町西広
+    a mo:町域 ;
     rdfs:label "西広"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430074" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町東中
+    a mo:町域 ;
     rdfs:label "東中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430065" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町広
+    a mo:町域 ;
     rdfs:label "広"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430071" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町前田
+    a mo:町域 ;
     rdfs:label "前田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430054" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町南金屋
+    a mo:町域 ;
     rdfs:label "南金屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430063" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町柳瀬
+    a mo:町域 ;
     rdfs:label "柳瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430061" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町山本
+    a mo:町域 ;
     rdfs:label "山本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430072" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡広川町和田
+    a mo:町域 ;
     rdfs:label "和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430075" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町
     rdfs:label "有田郡有田川町"@ja ;
@@ -6010,380 +8323,568 @@ mr:JP_和歌山県有田郡有田川町
 a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町粟生
+    a mo:町域 ;
     rdfs:label "粟生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430366" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町青田
+    a mo:町域 ;
     rdfs:label "青田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430136" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町畦田
+    a mo:町域 ;
     rdfs:label "畦田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430129" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町有原
+    a mo:町域 ;
     rdfs:label "有原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430127" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町板尾
+    a mo:町域 ;
     rdfs:label "板尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430603" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町井谷
+    a mo:町域 ;
     rdfs:label "井谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430604" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町市場
+    a mo:町域 ;
     rdfs:label "市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430144" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町出
+    a mo:町域 ;
     rdfs:label "出"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430851" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町糸川
+    a mo:町域 ;
     rdfs:label "糸川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430165" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町糸野
+    a mo:町域 ;
     rdfs:label "糸野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430174" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町井口
+    a mo:町域 ;
     rdfs:label "井口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430844" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町岩野河
+    a mo:町域 ;
     rdfs:label "岩野河"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430312" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町宇井苔
+    a mo:町域 ;
     rdfs:label "宇井苔"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430164" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町植野
+    a mo:町域 ;
     rdfs:label "植野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430026" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町生石
+    a mo:町域 ;
     rdfs:label "生石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町大賀畑
+    a mo:町域 ;
     rdfs:label "大賀畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430847" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町大蔵
+    a mo:町域 ;
     rdfs:label "大蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430513" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町大薗
+    a mo:町域 ;
     rdfs:label "大薗"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430134" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430845" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町大西
+    a mo:町域 ;
     rdfs:label "大西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430135" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町小川
+    a mo:町域 ;
     rdfs:label "小川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430142" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町奥
+    a mo:町域 ;
     rdfs:label "奥"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町押手
+    a mo:町域 ;
     rdfs:label "押手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430601" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町小島
+    a mo:町域 ;
     rdfs:label "小島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430034" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町尾中
+    a mo:町域 ;
     rdfs:label "尾中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430852" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町尾上
+    a mo:町域 ;
     rdfs:label "尾上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430133" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町小原
+    a mo:町域 ;
     rdfs:label "小原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430132" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町垣倉
+    a mo:町域 ;
     rdfs:label "垣倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430812" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町賢
+    a mo:町域 ;
     rdfs:label "賢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430843" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町金屋
+    a mo:町域 ;
     rdfs:label "金屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430152" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町釜中
+    a mo:町域 ;
     rdfs:label "釜中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430176" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町上中島
+    a mo:町域 ;
     rdfs:label "上中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430855" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町上六川
+    a mo:町域 ;
     rdfs:label "上六川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430171" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町上湯川
+    a mo:町域 ;
     rdfs:label "上湯川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430551" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町川合
+    a mo:町域 ;
     rdfs:label "川合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430364" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町川口
+    a mo:町域 ;
     rdfs:label "川口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430313" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町歓喜寺
+    a mo:町域 ;
     rdfs:label "歓喜寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430161" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町北野川
+    a mo:町域 ;
     rdfs:label "北野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430362" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町楠本
+    a mo:町域 ;
     rdfs:label "楠本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430531" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町久野原
+    a mo:町域 ;
     rdfs:label "久野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430514" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町熊井
+    a mo:町域 ;
     rdfs:label "熊井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町黒松
+    a mo:町域 ;
     rdfs:label "黒松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430172" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町境川
+    a mo:町域 ;
     rdfs:label "境川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430544" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町清水
+    a mo:町域 ;
     rdfs:label "清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430521" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町下津野
+    a mo:町域 ;
     rdfs:label "下津野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町下六川
+    a mo:町域 ;
     rdfs:label "下六川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430173" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町下湯川
+    a mo:町域 ;
     rdfs:label "下湯川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430522" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町庄
+    a mo:町域 ;
     rdfs:label "庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430811" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町杉野原
+    a mo:町域 ;
     rdfs:label "杉野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430602" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町角
+    a mo:町域 ;
     rdfs:label "角"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430853" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町修理川
+    a mo:町域 ;
     rdfs:label "修理川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430163" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町瀬井
+    a mo:町域 ;
     rdfs:label "瀬井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430122" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町田口
+    a mo:町域 ;
     rdfs:label "田口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430846" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町田角
+    a mo:町域 ;
     rdfs:label "田角"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430848" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町立石
+    a mo:町域 ;
     rdfs:label "立石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430314" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町谷
+    a mo:町域 ;
     rdfs:label "谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430311" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町天満
+    a mo:町域 ;
     rdfs:label "天満"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430032" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町遠井
+    a mo:町域 ;
     rdfs:label "遠井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430533" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町徳田
+    a mo:町域 ;
     rdfs:label "徳田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430801" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町中
+    a mo:町域 ;
     rdfs:label "中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430123" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町中井原
+    a mo:町域 ;
     rdfs:label "中井原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430153" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町長田
+    a mo:町域 ;
     rdfs:label "長田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430854" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町長谷
+    a mo:町域 ;
     rdfs:label "長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430841" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町中野
+    a mo:町域 ;
     rdfs:label "中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430143" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町中原
+    a mo:町域 ;
     rdfs:label "中原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430365" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町中峯
+    a mo:町域 ;
     rdfs:label "中峯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430124" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町丹生
+    a mo:町域 ;
     rdfs:label "丹生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430175" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町二沢
+    a mo:町域 ;
     rdfs:label "二沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430363" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町西ケ峯
+    a mo:町域 ;
     rdfs:label "西ケ峯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430128" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町西丹生図
+    a mo:町域 ;
     rdfs:label "西丹生図"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430813" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町沼田
+    a mo:町域 ;
     rdfs:label "沼田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430125" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町沼
+    a mo:町域 ;
     rdfs:label "沼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430532" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町沼谷
+    a mo:町域 ;
     rdfs:label "沼谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430605" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町野田
+    a mo:町域 ;
     rdfs:label "野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430031" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町延坂
+    a mo:町域 ;
     rdfs:label "延坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430137" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町長谷川
+    a mo:町域 ;
     rdfs:label "長谷川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430151" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町土生
+    a mo:町域 ;
     rdfs:label "土生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町東大谷
+    a mo:町域 ;
     rdfs:label "東大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430541" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町東丹生図
+    a mo:町域 ;
     rdfs:label "東丹生図"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430803" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町彦ケ瀬
+    a mo:町域 ;
     rdfs:label "彦ケ瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町日物川
+    a mo:町域 ;
     rdfs:label "日物川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430543" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町二川
+    a mo:町域 ;
     rdfs:label "二川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430542" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町船坂
+    a mo:町域 ;
     rdfs:label "船坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430842" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町伏羊
+    a mo:町域 ;
     rdfs:label "伏羊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町本堂
+    a mo:町域 ;
     rdfs:label "本堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430126" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町松原
+    a mo:町域 ;
     rdfs:label "松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430162" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町水尻
+    a mo:町域 ;
     rdfs:label "水尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町三瀬川
+    a mo:町域 ;
     rdfs:label "三瀬川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430361" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町三田
+    a mo:町域 ;
     rdfs:label "三田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430511" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町宮川
+    a mo:町域 ;
     rdfs:label "宮川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430512" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町明王寺
+    a mo:町域 ;
     rdfs:label "明王寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430033" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町室川
+    a mo:町域 ;
     rdfs:label "室川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430515" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町吉原
+    a mo:町域 ;
     rdfs:label "吉原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430166" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県有田郡有田川町吉見
+    a mo:町域 ;
     rdfs:label "吉見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6430802" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡美浜町
     rdfs:label "日高郡美浜町"@ja ;
@@ -6397,24 +8898,34 @@ mr:JP_和歌山県日高郡美浜町
 a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡美浜町田井
+    a mo:町域 ;
     rdfs:label "田井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440041" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡美浜町浜ノ瀬
+    a mo:町域 ;
     rdfs:label "浜ノ瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440042" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡美浜町三尾
+    a mo:町域 ;
     rdfs:label "三尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440045" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡美浜町吉原
+    a mo:町域 ;
     rdfs:label "吉原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440043" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡美浜町和田
+    a mo:町域 ;
     rdfs:label "和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440044" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町
     rdfs:label "日高郡日高町"@ja ;
@@ -6438,64 +8949,94 @@ mr:JP_和歌山県日高郡日高町
 a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町阿尾
+    a mo:町域 ;
     rdfs:label "阿尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491232" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491203" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町荊木
+    a mo:町域 ;
     rdfs:label "荊木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町産湯
+    a mo:町域 ;
     rdfs:label "産湯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491233" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町小池
+    a mo:町域 ;
     rdfs:label "小池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491222" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町小浦
+    a mo:町域 ;
     rdfs:label "小浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491223" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町小坂
+    a mo:町域 ;
     rdfs:label "小坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491231" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町小中
+    a mo:町域 ;
     rdfs:label "小中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町方杭
+    a mo:町域 ;
     rdfs:label "方杭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491225" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町志賀
+    a mo:町域 ;
     rdfs:label "志賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491221" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町高家
+    a mo:町域 ;
     rdfs:label "高家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町津久野
+    a mo:町域 ;
     rdfs:label "津久野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491224" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町萩原
+    a mo:町域 ;
     rdfs:label "萩原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町原谷
+    a mo:町域 ;
     rdfs:label "原谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高町比井
+    a mo:町域 ;
     rdfs:label "比井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491234" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町
     rdfs:label "日高郡由良町"@ja ;
@@ -6518,60 +9059,88 @@ mr:JP_和歌山県日高郡由良町
 a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町網代
+    a mo:町域 ;
     rdfs:label "網代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491112" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町阿戸
+    a mo:町域 ;
     rdfs:label "阿戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491113" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町衣奈
+    a mo:町域 ;
     rdfs:label "衣奈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491132" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町江ノ駒
+    a mo:町域 ;
     rdfs:label "江ノ駒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491104" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町大引
+    a mo:町域 ;
     rdfs:label "大引"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491123" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町神谷
+    a mo:町域 ;
     rdfs:label "神谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491122" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町小引
+    a mo:町域 ;
     rdfs:label "小引"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町里
+    a mo:町域 ;
     rdfs:label "里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町戸津井
+    a mo:町域 ;
     rdfs:label "戸津井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491134" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町中
+    a mo:町域 ;
     rdfs:label "中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町畑
+    a mo:町域 ;
     rdfs:label "畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町吹井
+    a mo:町域 ;
     rdfs:label "吹井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町三尾川
+    a mo:町域 ;
     rdfs:label "三尾川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491133" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡由良町門前
+    a mo:町域 ;
     rdfs:label "門前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町
     rdfs:label "日高郡印南町"@ja ;
@@ -6605,104 +9174,154 @@ mr:JP_和歌山県日高郡印南町
 a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町印南
+    a mo:町域 ;
     rdfs:label "印南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491534" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町印南原
+    a mo:町域 ;
     rdfs:label "印南原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491532" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町皆瀬川
+    a mo:町域 ;
     rdfs:label "皆瀬川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440215" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町上洞
+    a mo:町域 ;
     rdfs:label "上洞"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町川又
+    a mo:町域 ;
     rdfs:label "川又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町小原
+    a mo:町域 ;
     rdfs:label "小原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町崎ノ原
+    a mo:町域 ;
     rdfs:label "崎ノ原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440216" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町島田
+    a mo:町域 ;
     rdfs:label "島田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491527" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町高串
+    a mo:町域 ;
     rdfs:label "高串"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町立石
+    a mo:町域 ;
     rdfs:label "立石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491531" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町田ノ垣内
+    a mo:町域 ;
     rdfs:label "田ノ垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町津井
+    a mo:町域 ;
     rdfs:label "津井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491535" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町西神ノ川
+    a mo:町域 ;
     rdfs:label "西神ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町西ノ地
+    a mo:町域 ;
     rdfs:label "西ノ地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491528" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町丹生
+    a mo:町域 ;
     rdfs:label "丹生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440217" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町羽六
+    a mo:町域 ;
     rdfs:label "羽六"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491524" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町古井
+    a mo:町域 ;
     rdfs:label "古井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491522" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町古屋
+    a mo:町域 ;
     rdfs:label "古屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491525" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町樮川
+    a mo:町域 ;
     rdfs:label "樮川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491523" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町松原
+    a mo:町域 ;
     rdfs:label "松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6440218" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町美里
+    a mo:町域 ;
     rdfs:label "美里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491521" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町南谷
+    a mo:町域 ;
     rdfs:label "南谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491536" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町宮ノ前
+    a mo:町域 ;
     rdfs:label "宮ノ前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491526" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町明神川
+    a mo:町域 ;
     rdfs:label "明神川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491537" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡印南町山口
+    a mo:町域 ;
     rdfs:label "山口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491533" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町
     rdfs:label "日高郡みなべ町"@ja ;
@@ -6737,108 +9356,160 @@ mr:JP_和歌山県日高郡みなべ町
 a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町市井川
+    a mo:町域 ;
     rdfs:label "市井川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450208" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町晩稲
+    a mo:町域 ;
     rdfs:label "晩稲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450022" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町気佐藤
+    a mo:町域 ;
     rdfs:label "気佐藤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450011" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町北道
+    a mo:町域 ;
     rdfs:label "北道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450006" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町清川
+    a mo:町域 ;
     rdfs:label "清川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町熊岡
+    a mo:町域 ;
     rdfs:label "熊岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450023" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町熊瀬川
+    a mo:町域 ;
     rdfs:label "熊瀬川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450028" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町堺
+    a mo:町域 ;
     rdfs:label "堺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450003" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町芝
+    a mo:町域 ;
     rdfs:label "芝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450002" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町島之瀬
+    a mo:町域 ;
     rdfs:label "島之瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450203" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町筋
+    a mo:町域 ;
     rdfs:label "筋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450025" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町高野
+    a mo:町域 ;
     rdfs:label "高野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450207" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町滝
+    a mo:町域 ;
     rdfs:label "滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450205" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町谷口
+    a mo:町域 ;
     rdfs:label "谷口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450026" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町土井
+    a mo:町域 ;
     rdfs:label "土井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450206" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町徳蔵
+    a mo:町域 ;
     rdfs:label "徳蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450024" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町西岩代
+    a mo:町域 ;
     rdfs:label "西岩代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450014" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町西本庄
+    a mo:町域 ;
     rdfs:label "西本庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450027" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町埴田
+    a mo:町域 ;
     rdfs:label "埴田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450004" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町東岩代
+    a mo:町域 ;
     rdfs:label "東岩代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450013" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町東神野川
+    a mo:町域 ;
     rdfs:label "東神野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450202" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町東本庄
+    a mo:町域 ;
     rdfs:label "東本庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450021" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町東吉田
+    a mo:町域 ;
     rdfs:label "東吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450001" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町広野
+    a mo:町域 ;
     rdfs:label "広野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450204" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町南道
+    a mo:町域 ;
     rdfs:label "南道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450005" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡みなべ町山内
+    a mo:町域 ;
     rdfs:label "山内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6450012" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町
     rdfs:label "日高郡日高川町"@ja ;
@@ -6894,197 +9565,294 @@ mr:JP_和歌山県日高郡日高川町
 a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町浅間
+    a mo:町域 ;
     rdfs:label "浅間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441243" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町愛川
+    a mo:町域 ;
     rdfs:label "愛川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町姉子
+    a mo:町域 ;
     rdfs:label "姉子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441132" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町伊藤川
+    a mo:町域 ;
     rdfs:label "伊藤川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491313" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町弥谷
+    a mo:町域 ;
     rdfs:label "弥谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町初湯川
+    a mo:町域 ;
     rdfs:label "初湯川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441231" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町江川
+    a mo:町域 ;
     rdfs:label "江川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491442" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町老星
+    a mo:町域 ;
     rdfs:label "老星"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441162" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町大又
+    a mo:町域 ;
     rdfs:label "大又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441163" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町皆瀬
+    a mo:町域 ;
     rdfs:label "皆瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町鐘巻
+    a mo:町域 ;
     rdfs:label "鐘巻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491331" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町上初湯川
+    a mo:町域 ;
     rdfs:label "上初湯川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町上越方
+    a mo:町域 ;
     rdfs:label "上越方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441244" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町上田原
+    a mo:町域 ;
     rdfs:label "上田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町川原河
+    a mo:町域 ;
     rdfs:label "川原河"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町串本
+    a mo:町域 ;
     rdfs:label "串本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441222" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町熊野川
+    a mo:町域 ;
     rdfs:label "熊野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441242" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町玄子
+    a mo:町域 ;
     rdfs:label "玄子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491315" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町小釜本
+    a mo:町域 ;
     rdfs:label "小釜本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441143" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町小熊
+    a mo:町域 ;
     rdfs:label "小熊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491323" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町佐井
+    a mo:町域 ;
     rdfs:label "佐井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441164" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町坂野川
+    a mo:町域 ;
     rdfs:label "坂野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441161" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町山野
+    a mo:町域 ;
     rdfs:label "山野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491441" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町下田原
+    a mo:町域 ;
     rdfs:label "下田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441142" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町千津川
+    a mo:町域 ;
     rdfs:label "千津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491332" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町寒川
+    a mo:町域 ;
     rdfs:label "寒川"@ja ;
     mo:SubRegion mr:JP_和歌山県日高郡日高川町寒川小川 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441221" ;
+    mo:JP_郵便番号 "6450551" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町寒川小川
     rdfs:label "小川"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6450551" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町高津尾
+    a mo:町域 ;
     rdfs:label "高津尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441122" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町高津尾川
+    a mo:町域 ;
     rdfs:label "高津尾川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441123" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町滝頭
+    a mo:町域 ;
     rdfs:label "滝頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441241" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町田尻
+    a mo:町域 ;
     rdfs:label "田尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441151" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町藤野川
+    a mo:町域 ;
     rdfs:label "藤野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町中津川
+    a mo:町域 ;
     rdfs:label "中津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491325" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町西原
+    a mo:町域 ;
     rdfs:label "西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町入野
+    a mo:町域 ;
     rdfs:label "入野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491321" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町早藤
+    a mo:町域 ;
     rdfs:label "早藤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491314" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町土生
+    a mo:町域 ;
     rdfs:label "土生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491324" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町原日浦
+    a mo:町域 ;
     rdfs:label "原日浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441133" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町平川
+    a mo:町域 ;
     rdfs:label "平川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491311" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町船津
+    a mo:町域 ;
     rdfs:label "船津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町蛇尾
+    a mo:町域 ;
     rdfs:label "蛇尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491316" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町松瀬
+    a mo:町域 ;
     rdfs:label "松瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491444" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町三佐
+    a mo:町域 ;
     rdfs:label "三佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441152" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町三十井川
+    a mo:町域 ;
     rdfs:label "三十井川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町三十木
+    a mo:町域 ;
     rdfs:label "三十木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6441134" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町三百瀬
+    a mo:町域 ;
     rdfs:label "三百瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491312" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町若野
+    a mo:町域 ;
     rdfs:label "若野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491322" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県日高郡日高川町和佐
+    a mo:町域 ;
     rdfs:label "和佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6491443" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町
     rdfs:label "西牟婁郡白浜町"@ja ;
@@ -7128,144 +9896,214 @@ mr:JP_和歌山県西牟婁郡白浜町
 a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町安居
+    a mo:町域 ;
     rdfs:label "安居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492532" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町安宅
+    a mo:町域 ;
     rdfs:label "安宅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492524" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町市鹿野
+    a mo:町域 ;
     rdfs:label "市鹿野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460301" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町内ノ川
+    a mo:町域 ;
     rdfs:label "内ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492322" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町宇津木
+    a mo:町域 ;
     rdfs:label "宇津木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492537" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町大
+    a mo:町域 ;
     rdfs:label "大"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460312" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町大瀬
+    a mo:町域 ;
     rdfs:label "大瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460303" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町大古
+    a mo:町域 ;
     rdfs:label "大古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492521" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町小房
+    a mo:町域 ;
     rdfs:label "小房"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460311" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町堅田
+    a mo:町域 ;
     rdfs:label "堅田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492201" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町北谷
+    a mo:町域 ;
     rdfs:label "北谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460305" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町口ケ谷
+    a mo:町域 ;
     rdfs:label "口ケ谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492531" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町上露
+    a mo:町域 ;
     rdfs:label "上露"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460302" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町小川
+    a mo:町域 ;
     rdfs:label "小川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492538" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町才野
+    a mo:町域 ;
     rdfs:label "才野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492334" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町栄
+    a mo:町域 ;
     rdfs:label "栄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492332" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町里谷
+    a mo:町域 ;
     rdfs:label "里谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460314" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町塩野
+    a mo:町域 ;
     rdfs:label "塩野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492525" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町庄川
+    a mo:町域 ;
     rdfs:label "庄川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492323" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町城
+    a mo:町域 ;
     rdfs:label "城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492539" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町平
+    a mo:町域 ;
     rdfs:label "平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492331" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町竹垣内
+    a mo:町域 ;
     rdfs:label "竹垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460304" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町田野井
+    a mo:町域 ;
     rdfs:label "田野井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492523" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町玉伝
+    a mo:町域 ;
     rdfs:label "玉伝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6460313" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町十九渕
+    a mo:町域 ;
     rdfs:label "十九渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492324" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町椿
+    a mo:町域 ;
     rdfs:label "椿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492326" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町寺山
+    a mo:町域 ;
     rdfs:label "寺山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492534" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町富田
+    a mo:町域 ;
     rdfs:label "富田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492325" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町中
+    a mo:町域 ;
     rdfs:label "中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492333" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町中嶋
+    a mo:町域 ;
     rdfs:label "中嶋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492533" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町日置
+    a mo:町域 ;
     rdfs:label "日置"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492511" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町久木
+    a mo:町域 ;
     rdfs:label "久木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492536" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町保呂
+    a mo:町域 ;
     rdfs:label "保呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492321" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町向平
+    a mo:町域 ;
     rdfs:label "向平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492535" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡白浜町矢田
+    a mo:町域 ;
     rdfs:label "矢田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492522" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町
     rdfs:label "西牟婁郡上富田町"@ja ;
@@ -7282,36 +10120,52 @@ mr:JP_和歌山県西牟婁郡上富田町
 a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町朝来
+    a mo:町域 ;
     rdfs:label "朝来"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492105" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町生馬
+    a mo:町域 ;
     rdfs:label "生馬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町市ノ瀬
+    a mo:町域 ;
     rdfs:label "市ノ瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492107" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町岩崎
+    a mo:町域 ;
     rdfs:label "岩崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492104" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町岩田
+    a mo:町域 ;
     rdfs:label "岩田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町岡
+    a mo:町域 ;
     rdfs:label "岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町下鮎川
+    a mo:町域 ;
     rdfs:label "下鮎川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492108" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡上富田町南紀の台
+    a mo:町域 ;
     rdfs:label "南紀の台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492106" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町
     rdfs:label "西牟婁郡すさみ町"@ja ;
@@ -7343,96 +10197,142 @@ mr:JP_和歌山県西牟婁郡すさみ町
 a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町江住
+    a mo:町域 ;
     rdfs:label "江住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493142" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町大鎌
+    a mo:町域 ;
     rdfs:label "大鎌"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493151" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493153" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町大附
+    a mo:町域 ;
     rdfs:label "大附"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492602" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町小河内
+    a mo:町域 ;
     rdfs:label "小河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492603" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町口和深
+    a mo:町域 ;
     rdfs:label "口和深"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492612" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町小附
+    a mo:町域 ;
     rdfs:label "小附"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492601" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町里野
+    a mo:町域 ;
     rdfs:label "里野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493143" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本追川
+    a mo:町域 ;
     rdfs:label "佐本追川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493162" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本中
+    a mo:町域 ;
     rdfs:label "佐本中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493161" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本中野
+    a mo:町域 ;
     rdfs:label "佐本中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493165" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本西栗垣内
+    a mo:町域 ;
     rdfs:label "佐本西栗垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493163" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本西野川
+    a mo:町域 ;
     rdfs:label "佐本西野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493166" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本根倉
+    a mo:町域 ;
     rdfs:label "佐本根倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493168" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本東栗垣内
+    a mo:町域 ;
     rdfs:label "佐本東栗垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493164" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本平野
+    a mo:町域 ;
     rdfs:label "佐本平野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493167" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町佐本深谷
+    a mo:町域 ;
     rdfs:label "佐本深谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493169" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町周参見
+    a mo:町域 ;
     rdfs:label "周参見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492621" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町太間川
+    a mo:町域 ;
     rdfs:label "太間川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492631" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町防己
+    a mo:町域 ;
     rdfs:label "防己"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493152" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町見老津
+    a mo:町域 ;
     rdfs:label "見老津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町矢野口
+    a mo:町域 ;
     rdfs:label "矢野口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492604" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県西牟婁郡すさみ町和深川
+    a mo:町域 ;
     rdfs:label "和深川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6492611" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町
     rdfs:label "東牟婁郡那智勝浦町"@ja ;
@@ -7482,173 +10382,258 @@ mr:JP_和歌山県東牟婁郡那智勝浦町
 a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町朝日
+    a mo:町域 ;
     rdfs:label "朝日"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495332" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町井鹿
+    a mo:町域 ;
     rdfs:label "井鹿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495133" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町井関
+    a mo:町域 ;
     rdfs:label "井関"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495303" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町市野々
+    a mo:町域 ;
     rdfs:label "市野々"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495302" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町市屋
+    a mo:町域 ;
     rdfs:label "市屋"@ja ;
     mo:SubRegion mr:JP_和歌山県東牟婁郡那智勝浦町市屋大浦 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495339" ;
+    mo:JP_郵便番号 "6495141" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町市屋大浦
     rdfs:label "大浦"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6495339" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町宇久井
+    a mo:町域 ;
     rdfs:label "宇久井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495312" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町浦神
+    a mo:町域 ;
     rdfs:label "浦神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495145" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町大野
+    a mo:町域 ;
     rdfs:label "大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495461" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町樫原
+    a mo:町域 ;
     rdfs:label "樫原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495466" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町勝浦
+    a mo:町域 ;
     rdfs:label "勝浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495334" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町川関
+    a mo:町域 ;
     rdfs:label "川関"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495304" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町北浜
+    a mo:町域 ;
     rdfs:label "北浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495333" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町狗子ノ川
+    a mo:町域 ;
     rdfs:label "狗子ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495313" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町口色川
+    a mo:町域 ;
     rdfs:label "口色川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495451" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町熊瀬川
+    a mo:町域 ;
     rdfs:label "熊瀬川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495454" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町高津気
+    a mo:町域 ;
     rdfs:label "高津気"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495311" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町高遠井
+    a mo:町域 ;
     rdfs:label "高遠井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495135" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町小阪
+    a mo:町域 ;
     rdfs:label "小阪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495452" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町小匠
+    a mo:町域 ;
     rdfs:label "小匠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495137" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町粉白
+    a mo:町域 ;
     rdfs:label "粉白"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495144" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町坂足
+    a mo:町域 ;
     rdfs:label "坂足"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495465" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町下里
+    a mo:町域 ;
     rdfs:label "下里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495142" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町下和田
+    a mo:町域 ;
     rdfs:label "下和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495148" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町庄
+    a mo:町域 ;
     rdfs:label "庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495147" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町高野
+    a mo:町域 ;
     rdfs:label "高野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495463" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町田垣内
+    a mo:町域 ;
     rdfs:label "田垣内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495462" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町築地
+    a mo:町域 ;
     rdfs:label "築地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495335" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町天満
+    a mo:町域 ;
     rdfs:label "天満"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495331" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町中里
+    a mo:町域 ;
     rdfs:label "中里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495146" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町中ノ川
+    a mo:町域 ;
     rdfs:label "中ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495132" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町長井
+    a mo:町域 ;
     rdfs:label "長井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495136" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町那智山
+    a mo:町域 ;
     rdfs:label "那智山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495301" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町二河
+    a mo:町域 ;
     rdfs:label "二河"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495338" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町西中野川
+    a mo:町域 ;
     rdfs:label "西中野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495131" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町橋ノ川
+    a mo:町域 ;
     rdfs:label "橋ノ川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495337" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町浜ノ宮
+    a mo:町域 ;
     rdfs:label "浜ノ宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495314" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町直柱
+    a mo:町域 ;
     rdfs:label "直柱"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495464" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町南大居
+    a mo:町域 ;
     rdfs:label "南大居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495134" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町南平野
+    a mo:町域 ;
     rdfs:label "南平野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495453" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町八尺鏡野
+    a mo:町域 ;
     rdfs:label "八尺鏡野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495143" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡那智勝浦町湯川
+    a mo:町域 ;
     rdfs:label "湯川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495336" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡太地町
     rdfs:label "東牟婁郡太地町"@ja ;
@@ -7659,12 +10644,17 @@ mr:JP_和歌山県東牟婁郡太地町
 a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡太地町太地
+    a mo:町域 ;
     rdfs:label "太地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495371" ;
+    mo:JP_郵便番号 "6495171" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡太地町森浦
+    a mo:町域 ;
     rdfs:label "森浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6495172" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町
     rdfs:label "東牟婁郡古座川町"@ja ;
@@ -7713,164 +10703,244 @@ mr:JP_和歌山県東牟婁郡古座川町
 a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町相瀬
+    a mo:町域 ;
     rdfs:label "相瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494235" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町池野山
+    a mo:町域 ;
     rdfs:label "池野山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494103" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町一雨
+    a mo:町域 ;
     rdfs:label "一雨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494232" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町洞尾
+    a mo:町域 ;
     rdfs:label "洞尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494453" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町宇津木
+    a mo:町域 ;
     rdfs:label "宇津木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494105" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町宇筒井
+    a mo:町域 ;
     rdfs:label "宇筒井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494214" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町潤野
+    a mo:町域 ;
     rdfs:label "潤野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494225" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町大川
+    a mo:町域 ;
     rdfs:label "大川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494451" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町大桑
+    a mo:町域 ;
     rdfs:label "大桑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494215" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町大柳
+    a mo:町域 ;
     rdfs:label "大柳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494227" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町樫山
+    a mo:町域 ;
     rdfs:label "樫山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494101" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町川口
+    a mo:町域 ;
     rdfs:label "川口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494223" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町楠
+    a mo:町域 ;
     rdfs:label "楠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494102" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町蔵土
+    a mo:町域 ;
     rdfs:label "蔵土"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494452" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町小川
+    a mo:町域 ;
     rdfs:label "小川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494216" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町小森川
+    a mo:町域 ;
     rdfs:label "小森川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494211" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町佐田
+    a mo:町域 ;
     rdfs:label "佐田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494442" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町下露
+    a mo:町域 ;
     rdfs:label "下露"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494562" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町添野川
+    a mo:町域 ;
     rdfs:label "添野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494441" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町高池
+    a mo:町域 ;
     rdfs:label "高池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494104" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町高瀬
+    a mo:町域 ;
     rdfs:label "高瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494224" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町田川
+    a mo:町域 ;
     rdfs:label "田川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494212" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町立合
+    a mo:町域 ;
     rdfs:label "立合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494233" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町立合川
+    a mo:町域 ;
     rdfs:label "立合川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494236" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町月野瀬
+    a mo:町域 ;
     rdfs:label "月野瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494106" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町鶴川
+    a mo:町域 ;
     rdfs:label "鶴川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494231" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町中崎
+    a mo:町域 ;
     rdfs:label "中崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494221" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町長追
+    a mo:町域 ;
     rdfs:label "長追"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494444" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町南平
+    a mo:町域 ;
     rdfs:label "南平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494454" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町成川
+    a mo:町域 ;
     rdfs:label "成川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494565" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町西赤木
+    a mo:町域 ;
     rdfs:label "西赤木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494213" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町西川
+    a mo:町域 ;
     rdfs:label "西川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494561" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町直見
+    a mo:町域 ;
     rdfs:label "直見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494222" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町平井
+    a mo:町域 ;
     rdfs:label "平井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494563" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町松根
+    a mo:町域 ;
     rdfs:label "松根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494564" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町真砂
+    a mo:町域 ;
     rdfs:label "真砂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494443" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町三尾川
+    a mo:町域 ;
     rdfs:label "三尾川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494455" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町峰
+    a mo:町域 ;
     rdfs:label "峰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494234" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町明神
+    a mo:町域 ;
     rdfs:label "明神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494226" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡古座川町山手
+    a mo:町域 ;
     rdfs:label "山手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494217" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡北山村
     rdfs:label "東牟婁郡北山村"@ja ;
@@ -7884,24 +10954,34 @@ mr:JP_和歌山県東牟婁郡北山村
 a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡北山村大沼
+    a mo:町域 ;
     rdfs:label "大沼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471603" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡北山村小松
+    a mo:町域 ;
     rdfs:label "小松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471605" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡北山村下尾井
+    a mo:町域 ;
     rdfs:label "下尾井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471604" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡北山村竹原
+    a mo:町域 ;
     rdfs:label "竹原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471602" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡北山村七色
+    a mo:町域 ;
     rdfs:label "七色"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6471601" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町
     rdfs:label "東牟婁郡串本町"@ja ;
@@ -7942,130 +11022,194 @@ mr:JP_和歌山県東牟婁郡串本町
 a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町有田
+    a mo:町域 ;
     rdfs:label "有田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493514" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町有田上
+    a mo:町域 ;
     rdfs:label "有田上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493518" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町伊串
+    a mo:町域 ;
     rdfs:label "伊串"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494124" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町出雲
+    a mo:町域 ;
     rdfs:label "出雲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493501" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町上野山
+    a mo:町域 ;
     rdfs:label "上野山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494114" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町江田
+    a mo:町域 ;
     rdfs:label "江田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493521" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町大島
+    a mo:町域 ;
     rdfs:label "大島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493633" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町樫野
+    a mo:町域 ;
     rdfs:label "樫野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493631" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町上田原
+    a mo:町域 ;
     rdfs:label "上田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494111" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町鬮野川
+    a mo:町域 ;
     rdfs:label "鬮野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493511" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町串本
+    a mo:町域 ;
     rdfs:label "串本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493503" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町古座
+    a mo:町域 ;
     rdfs:label "古座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494115" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町神野川
+    a mo:町域 ;
     rdfs:label "神野川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494123" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町里川
+    a mo:町域 ;
     rdfs:label "里川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493524" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町佐部
+    a mo:町域 ;
     rdfs:label "佐部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494117" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町サンゴ台
+    a mo:町域 ;
     rdfs:label "サンゴ台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493510" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町潮岬
+    a mo:町域 ;
     rdfs:label "潮岬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493502" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町須江
+    a mo:町域 ;
     rdfs:label "須江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493632" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町高富
+    a mo:町域 ;
     rdfs:label "高富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493513" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町田子
+    a mo:町域 ;
     rdfs:label "田子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493522" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町田並
+    a mo:町域 ;
     rdfs:label "田並"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493515" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町田並上
+    a mo:町域 ;
     rdfs:label "田並上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493516" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町田原
+    a mo:町域 ;
     rdfs:label "田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494112" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町津荷
+    a mo:町域 ;
     rdfs:label "津荷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494113" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町中湊
+    a mo:町域 ;
     rdfs:label "中湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494116" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町二色
+    a mo:町域 ;
     rdfs:label "二色"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493512" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町西向
+    a mo:町域 ;
     rdfs:label "西向"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494122" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町吐生
+    a mo:町域 ;
     rdfs:label "吐生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493517" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町姫
+    a mo:町域 ;
     rdfs:label "姫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494125" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町姫川
+    a mo:町域 ;
     rdfs:label "姫川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494126" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町古田
+    a mo:町域 ;
     rdfs:label "古田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6494121" ;
+a mo:GeoEntity .
 
 mr:JP_和歌山県東牟婁郡串本町和深
+    a mo:町域 ;
     rdfs:label "和深"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6493523" ;
+a mo:GeoEntity .
 

@@ -436,1598 +436,2396 @@ mr:JP_鳥取県鳥取市
 a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市相生町
+    a mo:町域 ;
     rdfs:label "相生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800805" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青葉町
+    a mo:町域 ;
     rdfs:label "青葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800802" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町青谷
+    a mo:町域 ;
     rdfs:label "青谷町青谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890501" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町井手
+    a mo:町域 ;
     rdfs:label "青谷町井手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890535" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町大坪
+    a mo:町域 ;
     rdfs:label "青谷町大坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890518" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町奥崎
+    a mo:町域 ;
     rdfs:label "青谷町奥崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890519" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町小畑
+    a mo:町域 ;
     rdfs:label "青谷町小畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890516" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町紙屋
+    a mo:町域 ;
     rdfs:label "青谷町紙屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890526" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町亀尻
+    a mo:町域 ;
     rdfs:label "青谷町亀尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890522" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町河原
+    a mo:町域 ;
     rdfs:label "青谷町河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890515" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町北河原
+    a mo:町域 ;
     rdfs:label "青谷町北河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890532" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町絹見
+    a mo:町域 ;
     rdfs:label "青谷町絹見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890533" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町楠根
+    a mo:町域 ;
     rdfs:label "青谷町楠根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890527" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町蔵内
+    a mo:町域 ;
     rdfs:label "青谷町蔵内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890513" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町桑原
+    a mo:町域 ;
     rdfs:label "青谷町桑原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890529" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町栄町
+    a mo:町域 ;
     rdfs:label "青谷町栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890537" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町澄水
+    a mo:町域 ;
     rdfs:label "青谷町澄水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890528" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町田原谷
+    a mo:町域 ;
     rdfs:label "青谷町田原谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890525" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町露谷
+    a mo:町域 ;
     rdfs:label "青谷町露谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890521" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町長和瀬
+    a mo:町域 ;
     rdfs:label "青谷町長和瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890536" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町鳴滝
+    a mo:町域 ;
     rdfs:label "青谷町鳴滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890531" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町八葉寺
+    a mo:町域 ;
     rdfs:label "青谷町八葉寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890524" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町早牛
+    a mo:町域 ;
     rdfs:label "青谷町早牛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890517" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町山田
+    a mo:町域 ;
     rdfs:label "青谷町山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890523" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町山根
+    a mo:町域 ;
     rdfs:label "青谷町山根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890514" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町養郷
+    a mo:町域 ;
     rdfs:label "青谷町養郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890512" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町吉川
+    a mo:町域 ;
     rdfs:label "青谷町吉川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890534" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市青谷町善田
+    a mo:町域 ;
     rdfs:label "青谷町善田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890511" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市秋里
+    a mo:町域 ;
     rdfs:label "秋里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800902" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市赤子田
+    a mo:町域 ;
     rdfs:label "赤子田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801146" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市朝月
+    a mo:町域 ;
     rdfs:label "朝月"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801166" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市有富
+    a mo:町域 ;
     rdfs:label "有富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801176" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市猪子
+    a mo:町域 ;
     rdfs:label "猪子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801164" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市今町
+    a mo:町域 ;
     rdfs:label "今町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800822" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市岩倉
+    a mo:町域 ;
     rdfs:label "岩倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800081" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市岩坪
+    a mo:町域 ;
     rdfs:label "岩坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801157" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市岩吉
+    a mo:町域 ;
     rdfs:label "岩吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800931" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市上原
+    a mo:町域 ;
     rdfs:label "上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801422" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市上町
+    a mo:町域 ;
     rdfs:label "上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800015" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市内海中
+    a mo:町域 ;
     rdfs:label "内海中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890205" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市永楽温泉町
+    a mo:町域 ;
     rdfs:label "永楽温泉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800834" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市江崎町
+    a mo:町域 ;
     rdfs:label "江崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800013" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市江津
+    a mo:町域 ;
     rdfs:label "江津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800901" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市戎町
+    a mo:町域 ;
     rdfs:label "戎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800055" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市円護寺
+    a mo:町域 ;
     rdfs:label "円護寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800005" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市円通寺
+    a mo:町域 ;
     rdfs:label "円通寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801144" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市扇町
+    a mo:町域 ;
     rdfs:label "扇町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800846" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市大榎町
+    a mo:町域 ;
     rdfs:label "大榎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800043" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市大杙
+    a mo:町域 ;
     rdfs:label "大杙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800851" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市大塚
+    a mo:町域 ;
     rdfs:label "大塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801415" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市大畑
+    a mo:町域 ;
     rdfs:label "大畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801437" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市晩稲
+    a mo:町域 ;
     rdfs:label "晩稲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800904" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市桶屋町
+    a mo:町域 ;
     rdfs:label "桶屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800054" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市尾崎
+    a mo:町域 ;
     rdfs:label "尾崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801427" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市面影
+    a mo:町域 ;
     rdfs:label "面影"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800855" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市御弓町
+    a mo:町域 ;
     rdfs:label "御弓町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800044" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市海蔵寺
+    a mo:町域 ;
     rdfs:label "海蔵寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891117" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市覚寺
+    a mo:町域 ;
     rdfs:label "覚寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800003" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市掛出町
+    a mo:町域 ;
     rdfs:label "掛出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800041" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市紙子谷
+    a mo:町域 ;
     rdfs:label "紙子谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891115" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鍛冶町
+    a mo:町域 ;
     rdfs:label "鍛冶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800052" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市片原
+    a mo:町域 ;
     rdfs:label "片原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800023" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市桂木
+    a mo:町域 ;
     rdfs:label "桂木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891104" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市桂見
+    a mo:町域 ;
     rdfs:label "桂見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801417" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市香取
+    a mo:町域 ;
     rdfs:label "香取"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891114" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市金沢
+    a mo:町域 ;
     rdfs:label "金沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801439" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市叶
+    a mo:町域 ;
     rdfs:label "叶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800874" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市上味野
+    a mo:町域 ;
     rdfs:label "上味野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801167" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市上魚町
+    a mo:町域 ;
     rdfs:label "上魚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800047" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市上砂見
+    a mo:町域 ;
     rdfs:label "上砂見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801156" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市上段
+    a mo:町域 ;
     rdfs:label "上段"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801421" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市賀露町
+    a mo:町域 ;
     rdfs:label "賀露町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800905" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市賀露町北
+    a mo:町域 ;
     rdfs:label "賀露町北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800907" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市賀露町西
+    a mo:町域 ;
     rdfs:label "賀露町西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800908" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市賀露町南
+    a mo:町域 ;
     rdfs:label "賀露町南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800909" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市川端
+    a mo:町域 ;
     rdfs:label "川端"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800036" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町鮎ケ丘
+    a mo:町域 ;
     rdfs:label "河原町鮎ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801208" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町稲常
+    a mo:町域 ;
     rdfs:label "河原町稲常"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801203" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町今在家
+    a mo:町域 ;
     rdfs:label "河原町今在家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801205" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町牛戸
+    a mo:町域 ;
     rdfs:label "河原町牛戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801225" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町小倉
+    a mo:町域 ;
     rdfs:label "河原町小倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801245" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町小河内
+    a mo:町域 ;
     rdfs:label "河原町小河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801253" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町小畑
+    a mo:町域 ;
     rdfs:label "河原町小畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801232" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町片山
+    a mo:町域 ;
     rdfs:label "河原町片山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801204" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町釜口
+    a mo:町域 ;
     rdfs:label "河原町釜口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801216" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町河原
+    a mo:町域 ;
     rdfs:label "河原町河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801251" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町神馬
+    a mo:町域 ;
     rdfs:label "河原町神馬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801254" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町北村
+    a mo:町域 ;
     rdfs:label "河原町北村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801234" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町郷原
+    a mo:町域 ;
     rdfs:label "河原町郷原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801207" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町佐貫
+    a mo:町域 ;
     rdfs:label "河原町佐貫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801243" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町高福
+    a mo:町域 ;
     rdfs:label "河原町高福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町谷一木
+    a mo:町域 ;
     rdfs:label "河原町谷一木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801242" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町天神原
+    a mo:町域 ;
     rdfs:label "河原町天神原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町徳吉
+    a mo:町域 ;
     rdfs:label "河原町徳吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町中井
+    a mo:町域 ;
     rdfs:label "河原町中井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町長瀬
+    a mo:町域 ;
     rdfs:label "河原町長瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801241" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町西円通寺
+    a mo:町域 ;
     rdfs:label "河原町西円通寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801209" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町曳田
+    a mo:町域 ;
     rdfs:label "河原町曳田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801222" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町袋河原
+    a mo:町域 ;
     rdfs:label "河原町袋河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801201" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町布袋
+    a mo:町域 ;
     rdfs:label "河原町布袋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801202" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町本鹿
+    a mo:町域 ;
     rdfs:label "河原町本鹿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801252" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町水根
+    a mo:町域 ;
     rdfs:label "河原町水根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801244" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町三谷
+    a mo:町域 ;
     rdfs:label "河原町三谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801206" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町山上
+    a mo:町域 ;
     rdfs:label "河原町山上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801246" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町山手
+    a mo:町域 ;
     rdfs:label "河原町山手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町湯谷
+    a mo:町域 ;
     rdfs:label "河原町湯谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801231" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町弓河内
+    a mo:町域 ;
     rdfs:label "河原町弓河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801233" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町八日市
+    a mo:町域 ;
     rdfs:label "河原町八日市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町渡一木
+    a mo:町域 ;
     rdfs:label "河原町渡一木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河原町和奈見
+    a mo:町域 ;
     rdfs:label "河原町和奈見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801215" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市瓦町
+    a mo:町域 ;
     rdfs:label "瓦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800821" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市北園
+    a mo:町域 ;
     rdfs:label "北園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800004" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市北村
+    a mo:町域 ;
     rdfs:label "北村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801172" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市行徳
+    a mo:町域 ;
     rdfs:label "行徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800824" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国安
+    a mo:町域 ;
     rdfs:label "国安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801132" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市雲山
+    a mo:町域 ;
     rdfs:label "雲山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800862" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市蔵田
+    a mo:町域 ;
     rdfs:label "蔵田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801141" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市栗谷町
+    a mo:町域 ;
     rdfs:label "栗谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800012" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町飯里
+    a mo:町域 ;
     rdfs:label "気高町飯里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890343" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町会下
+    a mo:町域 ;
     rdfs:label "気高町会下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890355" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町奥沢見
+    a mo:町域 ;
     rdfs:label "気高町奥沢見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町下石
+    a mo:町域 ;
     rdfs:label "気高町下石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890341" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町勝見
+    a mo:町域 ;
     rdfs:label "気高町勝見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890332" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町上光
+    a mo:町域 ;
     rdfs:label "気高町上光"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町上原
+    a mo:町域 ;
     rdfs:label "気高町上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890344" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町北浜
+    a mo:町域 ;
     rdfs:label "気高町北浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890334" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町郡家
+    a mo:町域 ;
     rdfs:label "気高町郡家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890353" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町酒津
+    a mo:町域 ;
     rdfs:label "気高町酒津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890217" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町重高
+    a mo:町域 ;
     rdfs:label "気高町重高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町下坂本
+    a mo:町域 ;
     rdfs:label "気高町下坂本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町下原
+    a mo:町域 ;
     rdfs:label "気高町下原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890356" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町下光元
+    a mo:町域 ;
     rdfs:label "気高町下光元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町宿
+    a mo:町域 ;
     rdfs:label "気高町宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890226" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町新町
+    a mo:町域 ;
     rdfs:label "気高町新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890333" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町高江
+    a mo:町域 ;
     rdfs:label "気高町高江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890352" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町常松
+    a mo:町域 ;
     rdfs:label "気高町常松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町土居
+    a mo:町域 ;
     rdfs:label "気高町土居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890225" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町殿
+    a mo:町域 ;
     rdfs:label "気高町殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890342" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町冨吉
+    a mo:町域 ;
     rdfs:label "気高町冨吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890215" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町日光
+    a mo:町域 ;
     rdfs:label "気高町日光"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890222" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町二本木
+    a mo:町域 ;
     rdfs:label "気高町二本木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町浜村
+    a mo:町域 ;
     rdfs:label "気高町浜村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890331" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町宝木
+    a mo:町域 ;
     rdfs:label "気高町宝木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890216" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町睦逢
+    a mo:町域 ;
     rdfs:label "気高町睦逢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890354" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町八束水
+    a mo:町域 ;
     rdfs:label "気高町八束水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890357" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町山宮
+    a mo:町域 ;
     rdfs:label "気高町山宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890345" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市気高町八幡
+    a mo:町域 ;
     rdfs:label "気高町八幡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890351" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市玄好町
+    a mo:町域 ;
     rdfs:label "玄好町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800024" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市源太
+    a mo:町域 ;
     rdfs:label "源太"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801133" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市越路
+    a mo:町域 ;
     rdfs:label "越路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891124" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市河内
+    a mo:町域 ;
     rdfs:label "河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801425" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市興南町
+    a mo:町域 ;
     rdfs:label "興南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800844" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市高路
+    a mo:町域 ;
     rdfs:label "高路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801177" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町麻生
+    a mo:町域 ;
     rdfs:label "国府町麻生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800142" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町雨滝
+    a mo:町域 ;
     rdfs:label "国府町雨滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800201" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町荒舟
+    a mo:町域 ;
     rdfs:label "国府町荒舟"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800216" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町糸谷
+    a mo:町域 ;
     rdfs:label "国府町糸谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800136" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町稲葉丘
+    a mo:町域 ;
     rdfs:label "国府町稲葉丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6808062" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町石井谷
+    a mo:町域 ;
     rdfs:label "国府町石井谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800202" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町大石
+    a mo:町域 ;
     rdfs:label "国府町大石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800203" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町岡益
+    a mo:町域 ;
     rdfs:label "国府町岡益"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800144" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町奥谷
+    a mo:町域 ;
     rdfs:label "国府町奥谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6808063" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町上荒舟
+    a mo:町域 ;
     rdfs:label "国府町上荒舟"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町上上地
+    a mo:町域 ;
     rdfs:label "国府町上上地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町神護
+    a mo:町域 ;
     rdfs:label "国府町神護"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町木原
+    a mo:町域 ;
     rdfs:label "国府町木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800208" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町神垣
+    a mo:町域 ;
     rdfs:label "国府町神垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800132" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町国分寺
+    a mo:町域 ;
     rdfs:label "国府町国分寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800155" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町三代寺
+    a mo:町域 ;
     rdfs:label "国府町三代寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800154" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町拾石
+    a mo:町域 ;
     rdfs:label "国府町拾石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800205" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町下木原
+    a mo:町域 ;
     rdfs:label "国府町下木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800207" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町新通り
+    a mo:町域 ;
     rdfs:label "国府町新通り"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6808066" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町新町
+    a mo:町域 ;
     rdfs:label "国府町新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6808065" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町菅野
+    a mo:町域 ;
     rdfs:label "国府町菅野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町清水
+    a mo:町域 ;
     rdfs:label "国府町清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800134" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町高岡
+    a mo:町域 ;
     rdfs:label "国府町高岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800131" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町谷
+    a mo:町域 ;
     rdfs:label "国府町谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800135" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町玉鉾
+    a mo:町域 ;
     rdfs:label "国府町玉鉾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800143" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町中郷
+    a mo:町域 ;
     rdfs:label "国府町中郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800156" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町庁
+    a mo:町域 ;
     rdfs:label "国府町庁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800152" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町栃本
+    a mo:町域 ;
     rdfs:label "国府町栃本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800206" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町殿
+    a mo:町域 ;
     rdfs:label "国府町殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800222" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町中河原
+    a mo:町域 ;
     rdfs:label "国府町中河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町楠城
+    a mo:町域 ;
     rdfs:label "国府町楠城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800204" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町新井
+    a mo:町域 ;
     rdfs:label "国府町新井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800226" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町広西
+    a mo:町域 ;
     rdfs:label "国府町広西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800145" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町分上
+    a mo:町域 ;
     rdfs:label "国府町分上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6808064" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町法花寺
+    a mo:町域 ;
     rdfs:label "国府町法花寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800153" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町町屋
+    a mo:町域 ;
     rdfs:label "国府町町屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800146" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町松尾
+    a mo:町域 ;
     rdfs:label "国府町松尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町美歎
+    a mo:町域 ;
     rdfs:label "国府町美歎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800141" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町宮下
+    a mo:町域 ;
     rdfs:label "国府町宮下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800151" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町山崎
+    a mo:町域 ;
     rdfs:label "国府町山崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800215" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町山根
+    a mo:町域 ;
     rdfs:label "国府町山根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800133" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町吉野
+    a mo:町域 ;
     rdfs:label "国府町吉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800225" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市国府町上地
+    a mo:町域 ;
     rdfs:label "国府町上地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市古郡家
+    a mo:町域 ;
     rdfs:label "古郡家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891125" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市小西谷
+    a mo:町域 ;
     rdfs:label "小西谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800073" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市小沢見
+    a mo:町域 ;
     rdfs:label "小沢見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890207" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市五反田町
+    a mo:町域 ;
     rdfs:label "五反田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800932" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市寿町
+    a mo:町域 ;
     rdfs:label "寿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800813" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市湖山町
+    a mo:町域 ;
     rdfs:label "湖山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800946" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市湖山町東
+    a mo:町域 ;
     rdfs:label "湖山町東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800942" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市湖山町西
+    a mo:町域 ;
     rdfs:label "湖山町西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800947" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市湖山町南
+    a mo:町域 ;
     rdfs:label "湖山町南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800945" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市湖山町北
+    a mo:町域 ;
     rdfs:label "湖山町北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800941" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市材木町
+    a mo:町域 ;
     rdfs:label "材木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800021" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800823" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800831" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市桜谷
+    a mo:町域 ;
     rdfs:label "桜谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800853" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町大井
+    a mo:町域 ;
     rdfs:label "佐治町大井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891304" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町尾際
+    a mo:町域 ;
     rdfs:label "佐治町尾際"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891324" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町葛谷
+    a mo:町域 ;
     rdfs:label "佐治町葛谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891301" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町加瀬木
+    a mo:町域 ;
     rdfs:label "佐治町加瀬木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891313" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町加茂
+    a mo:町域 ;
     rdfs:label "佐治町加茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891314" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町刈地
+    a mo:町域 ;
     rdfs:label "佐治町刈地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891303" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町河本
+    a mo:町域 ;
     rdfs:label "佐治町河本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891321" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町小原
+    a mo:町域 ;
     rdfs:label "佐治町小原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891302" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町高山
+    a mo:町域 ;
     rdfs:label "佐治町高山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891312" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町つく谷
+    a mo:町域 ;
     rdfs:label "佐治町つく谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891322" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町津無
+    a mo:町域 ;
     rdfs:label "佐治町津無"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891307" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町津野
+    a mo:町域 ;
     rdfs:label "佐治町津野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891311" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町栃原
+    a mo:町域 ;
     rdfs:label "佐治町栃原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891326" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町中
+    a mo:町域 ;
     rdfs:label "佐治町中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891325" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町畑
+    a mo:町域 ;
     rdfs:label "佐治町畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891315" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町福園
+    a mo:町域 ;
     rdfs:label "佐治町福園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891316" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町古市
+    a mo:町域 ;
     rdfs:label "佐治町古市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891306" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町森坪
+    a mo:町域 ;
     rdfs:label "佐治町森坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891305" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市佐治町余戸
+    a mo:町域 ;
     rdfs:label "佐治町余戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891323" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市里仁
+    a mo:町域 ;
     rdfs:label "里仁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800935" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町今市
+    a mo:町域 ;
     rdfs:label "鹿野町今市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890425" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町岡木
+    a mo:町域 ;
     rdfs:label "鹿野町岡木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890422" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町乙亥正
+    a mo:町域 ;
     rdfs:label "鹿野町乙亥正"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890421" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町河内
+    a mo:町域 ;
     rdfs:label "鹿野町河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890412" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町小別所
+    a mo:町域 ;
     rdfs:label "鹿野町小別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890413" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町鹿野
+    a mo:町域 ;
     rdfs:label "鹿野町鹿野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890405" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町鷲峯
+    a mo:町域 ;
     rdfs:label "鹿野町鷲峯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890411" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町末用
+    a mo:町域 ;
     rdfs:label "鹿野町末用"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890403" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町寺内
+    a mo:町域 ;
     rdfs:label "鹿野町寺内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890426" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町閉野
+    a mo:町域 ;
     rdfs:label "鹿野町閉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890402" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町中園
+    a mo:町域 ;
     rdfs:label "鹿野町中園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890423" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町広木
+    a mo:町域 ;
     rdfs:label "鹿野町広木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890401" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町水谷
+    a mo:町域 ;
     rdfs:label "鹿野町水谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890404" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市鹿野町宮方
+    a mo:町域 ;
     rdfs:label "鹿野町宮方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890424" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市倭文
+    a mo:町域 ;
     rdfs:label "倭文"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801151" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市篠坂
+    a mo:町域 ;
     rdfs:label "篠坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801174" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市嶋
+    a mo:町域 ;
     rdfs:label "嶋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801411" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市下味野
+    a mo:町域 ;
     rdfs:label "下味野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801165" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市下砂見
+    a mo:町域 ;
     rdfs:label "下砂見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801154" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市下段
+    a mo:町域 ;
     rdfs:label "下段"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801414" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市商栄町
+    a mo:町域 ;
     rdfs:label "商栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800912" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市生山
+    a mo:町域 ;
     rdfs:label "生山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891103" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市尚徳町
+    a mo:町域 ;
     rdfs:label "尚徳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800017" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市菖蒲
+    a mo:町域 ;
     rdfs:label "菖蒲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800922" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市正蓮寺
+    a mo:町域 ;
     rdfs:label "正蓮寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800854" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市職人町
+    a mo:町域 ;
     rdfs:label "職人町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800056" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市新
+    a mo:町域 ;
     rdfs:label "新"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800861" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市新品治町
+    a mo:町域 ;
     rdfs:label "新品治町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800812" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800035" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市末広温泉町
+    a mo:町域 ;
     rdfs:label "末広温泉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800833" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市杉崎
+    a mo:町域 ;
     rdfs:label "杉崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891101" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市数津
+    a mo:町域 ;
     rdfs:label "数津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800875" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市瀬田蔵
+    a mo:町域 ;
     rdfs:label "瀬田蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801435" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市双六原
+    a mo:町域 ;
     rdfs:label "双六原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801432" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市大桷
+    a mo:町域 ;
     rdfs:label "大桷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801418" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市大覚寺
+    a mo:町域 ;
     rdfs:label "大覚寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800863" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市高住
+    a mo:町域 ;
     rdfs:label "高住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801416" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市大工町頭
+    a mo:町域 ;
     rdfs:label "大工町頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800045" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市滝山
+    a mo:町域 ;
     rdfs:label "滝山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800072" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市竹生
+    a mo:町域 ;
     rdfs:label "竹生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801162" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市田島
+    a mo:町域 ;
     rdfs:label "田島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800804" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市立川町
+    a mo:町域 ;
     rdfs:label "立川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800061" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市玉津
+    a mo:町域 ;
     rdfs:label "玉津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801152" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市足山
+    a mo:町域 ;
     rdfs:label "足山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800943" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市茶町
+    a mo:町域 ;
     rdfs:label "茶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800032" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市千代水
+    a mo:町域 ;
     rdfs:label "千代水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800911" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市津ノ井
+    a mo:町域 ;
     rdfs:label "津ノ井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891102" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市寺町
+    a mo:町域 ;
     rdfs:label "寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800053" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市田園町
+    a mo:町域 ;
     rdfs:label "田園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800803" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800847" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市徳尾
+    a mo:町域 ;
     rdfs:label "徳尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800934" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市徳吉
+    a mo:町域 ;
     rdfs:label "徳吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800933" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市富安
+    a mo:町域 ;
     rdfs:label "富安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800845" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市中大路
+    a mo:町域 ;
     rdfs:label "中大路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891106" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市中砂見
+    a mo:町域 ;
     rdfs:label "中砂見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801155" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市中町
+    a mo:町域 ;
     rdfs:label "中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800016" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市中村
+    a mo:町域 ;
     rdfs:label "中村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801175" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市長柄
+    a mo:町域 ;
     rdfs:label "長柄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801436" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市南栄町
+    a mo:町域 ;
     rdfs:label "南栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891121" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市二階町
+    a mo:町域 ;
     rdfs:label "二階町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800033" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市西今在家
+    a mo:町域 ;
     rdfs:label "西今在家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801173" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市西円通寺
+    a mo:町域 ;
     rdfs:label "西円通寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801145" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市西大路
+    a mo:町域 ;
     rdfs:label "西大路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891107" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市西品治
+    a mo:町域 ;
     rdfs:label "西品治"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800811" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市西町
+    a mo:町域 ;
     rdfs:label "西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800022" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市祢宜谷
+    a mo:町域 ;
     rdfs:label "祢宜谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891113" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市野坂
+    a mo:町域 ;
     rdfs:label "野坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801413" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市野寺
+    a mo:町域 ;
     rdfs:label "野寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800924" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市白兎
+    a mo:町域 ;
     rdfs:label "白兎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890206" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市橋本
+    a mo:町域 ;
     rdfs:label "橋本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801142" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市長谷
+    a mo:町域 ;
     rdfs:label "長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801153" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市八坂
+    a mo:町域 ;
     rdfs:label "八坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801143" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市服部
+    a mo:町域 ;
     rdfs:label "服部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800923" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市馬場
+    a mo:町域 ;
     rdfs:label "馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801131" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市馬場町
+    a mo:町域 ;
     rdfs:label "馬場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800014" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市浜坂
+    a mo:町域 ;
     rdfs:label "浜坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800001" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市浜坂東
+    a mo:町域 ;
     rdfs:label "浜坂東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800002" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市東今在家
+    a mo:町域 ;
     rdfs:label "東今在家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800852" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市東大路
+    a mo:町域 ;
     rdfs:label "東大路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891105" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市東品治町
+    a mo:町域 ;
     rdfs:label "東品治町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800835" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800011" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市久末
+    a mo:町域 ;
     rdfs:label "久末"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891123" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市広岡
+    a mo:町域 ;
     rdfs:label "広岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891116" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福井
+    a mo:町域 ;
     rdfs:label "福井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801438" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町海士
+    a mo:町域 ;
     rdfs:label "福部町海士"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890106" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町岩戸
+    a mo:町域 ;
     rdfs:label "福部町岩戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890101" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町久志羅
+    a mo:町域 ;
     rdfs:label "福部町久志羅"@ja ;
     mo:SubRegion mr:JP_鳥取県鳥取市福部町久志羅上野 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6808021" ;
+    mo:JP_郵便番号 "6890113" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町久志羅上野
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6808021" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町蔵見
+    a mo:町域 ;
     rdfs:label "福部町蔵見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890112" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町栗谷
+    a mo:町域 ;
     rdfs:label "福部町栗谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890111" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町左近
+    a mo:町域 ;
     rdfs:label "福部町左近"@ja ;
     mo:SubRegion mr:JP_鳥取県鳥取市福部町左近上野 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890114" ;
+    mo:JP_郵便番号 "6808022" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町左近上野
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6808022" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町高江
+    a mo:町域 ;
     rdfs:label "福部町高江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890103" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町中
+    a mo:町域 ;
     rdfs:label "福部町中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890116" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町南田
+    a mo:町域 ;
     rdfs:label "福部町南田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890117" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町細川
+    a mo:町域 ;
     rdfs:label "福部町細川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890102" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町八重原
+    a mo:町域 ;
     rdfs:label "福部町八重原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890115" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町箭溪
+    a mo:町域 ;
     rdfs:label "福部町箭溪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890104" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市福部町湯山
+    a mo:町域 ;
     rdfs:label "福部町湯山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890105" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市伏野
+    a mo:町域 ;
     rdfs:label "伏野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890201" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市布勢
+    a mo:町域 ;
     rdfs:label "布勢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800944" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市船木
+    a mo:町域 ;
     rdfs:label "船木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891122" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市古市
+    a mo:町域 ;
     rdfs:label "古市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800865" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市古海
+    a mo:町域 ;
     rdfs:label "古海"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800921" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市卯垣
+    a mo:町域 ;
     rdfs:label "卯垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800074" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市庖丁人町
+    a mo:町域 ;
     rdfs:label "庖丁人町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800042" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市細見
+    a mo:町域 ;
     rdfs:label "細見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801426" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市洞谷
+    a mo:町域 ;
     rdfs:label "洞谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801434" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800031" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市槇原
+    a mo:町域 ;
     rdfs:label "槇原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801424" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市松上
+    a mo:町域 ;
     rdfs:label "松上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801423" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市松並町
+    a mo:町域 ;
     rdfs:label "松並町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800801" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市松原
+    a mo:町域 ;
     rdfs:label "松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801444" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市的場
+    a mo:町域 ;
     rdfs:label "的場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800873" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市丸山町
+    a mo:町域 ;
     rdfs:label "丸山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800006" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市御熊
+    a mo:町域 ;
     rdfs:label "御熊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890204" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市三津
+    a mo:町域 ;
     rdfs:label "三津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890203" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市緑ケ丘
+    a mo:町域 ;
     rdfs:label "緑ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800915" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800906" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市南隈
+    a mo:町域 ;
     rdfs:label "南隈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800903" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市南町
+    a mo:町域 ;
     rdfs:label "南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800814" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市南安長
+    a mo:町域 ;
     rdfs:label "南安長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800914" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市南吉方
+    a mo:町域 ;
     rdfs:label "南吉方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800843" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市美萩野
+    a mo:町域 ;
     rdfs:label "美萩野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890202" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市宮谷
+    a mo:町域 ;
     rdfs:label "宮谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801412" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市宮長
+    a mo:町域 ;
     rdfs:label "宮長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800872" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市三山口
+    a mo:町域 ;
     rdfs:label "三山口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801428" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市妙徳寺
+    a mo:町域 ;
     rdfs:label "妙徳寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801431" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市美和
+    a mo:町域 ;
     rdfs:label "美和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891126" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市向国安
+    a mo:町域 ;
     rdfs:label "向国安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801161" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町赤波
+    a mo:町域 ;
     rdfs:label "用瀬町赤波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891215" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町旭ケ丘
+    a mo:町域 ;
     rdfs:label "用瀬町旭ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町安蔵
+    a mo:町域 ;
     rdfs:label "用瀬町安蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891227" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町家奥
+    a mo:町域 ;
     rdfs:label "用瀬町家奥"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891222" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町江波
+    a mo:町域 ;
     rdfs:label "用瀬町江波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891229" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町金屋
+    a mo:町域 ;
     rdfs:label "用瀬町金屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町川中
+    a mo:町域 ;
     rdfs:label "用瀬町川中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891226" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町樟原
+    a mo:町域 ;
     rdfs:label "用瀬町樟原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町鷹狩
+    a mo:町域 ;
     rdfs:label "用瀬町鷹狩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町古用瀬
+    a mo:町域 ;
     rdfs:label "用瀬町古用瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町別府
+    a mo:町域 ;
     rdfs:label "用瀬町別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町美成
+    a mo:町域 ;
     rdfs:label "用瀬町美成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町宮原
+    a mo:町域 ;
     rdfs:label "用瀬町宮原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891225" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町用瀬
+    a mo:町域 ;
     rdfs:label "用瀬町用瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891201" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市用瀬町屋住
+    a mo:町域 ;
     rdfs:label "用瀬町屋住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891228" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市元魚町
+    a mo:町域 ;
     rdfs:label "元魚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800034" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市元大工町
+    a mo:町域 ;
     rdfs:label "元大工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800046" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市本高
+    a mo:町域 ;
     rdfs:label "本高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801171" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市元町
+    a mo:町域 ;
     rdfs:label "元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800037" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市百谷
+    a mo:町域 ;
     rdfs:label "百谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800071" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市薬師町
+    a mo:町域 ;
     rdfs:label "薬師町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800806" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市安長
+    a mo:町域 ;
     rdfs:label "安長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800913" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市矢矯
+    a mo:町域 ;
     rdfs:label "矢矯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801433" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市山城町
+    a mo:町域 ;
     rdfs:label "山城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800008" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市弥生町
+    a mo:町域 ;
     rdfs:label "弥生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800832" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市湯所町
+    a mo:町域 ;
     rdfs:label "湯所町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800007" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市横枕
+    a mo:町域 ;
     rdfs:label "横枕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801163" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市吉岡温泉町
+    a mo:町域 ;
     rdfs:label "吉岡温泉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801442" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市吉方
+    a mo:町域 ;
     rdfs:label "吉方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800842" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市吉方温泉
+    a mo:町域 ;
     rdfs:label "吉方温泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800841" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市吉方町
+    a mo:町域 ;
     rdfs:label "吉方町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800062" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市良田
+    a mo:町域 ;
     rdfs:label "良田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801441" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市吉成
+    a mo:町域 ;
     rdfs:label "吉成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800864" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市吉成南町
+    a mo:町域 ;
     rdfs:label "吉成南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800871" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市六反田
+    a mo:町域 ;
     rdfs:label "六反田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6801443" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市若桜町
+    a mo:町域 ;
     rdfs:label "若桜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800051" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市若葉台南
+    a mo:町域 ;
     rdfs:label "若葉台南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891112" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県鳥取市若葉台北
+    a mo:町域 ;
     rdfs:label "若葉台北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891111" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市
     rdfs:label "米子市"@ja ;
@@ -2170,540 +2968,808 @@ mr:JP_鳥取県米子市
 a mo:GeoEntity .
 
 mr:JP_鳥取県米子市青木
+    a mo:町域 ;
     rdfs:label "青木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830252" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市赤井手
+    a mo:町域 ;
     rdfs:label "赤井手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893515" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市朝日町
+    a mo:町域 ;
     rdfs:label "朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830813" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市愛宕町
+    a mo:町域 ;
     rdfs:label "愛宕町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830046" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市安倍
+    a mo:町域 ;
     rdfs:label "安倍"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830846" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市石井
+    a mo:町域 ;
     rdfs:label "石井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830021" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市泉
+    a mo:町域 ;
     rdfs:label "泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893512" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市一部
+    a mo:町域 ;
     rdfs:label "一部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893533" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市今在家
+    a mo:町域 ;
     rdfs:label "今在家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893542" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市岩倉町
+    a mo:町域 ;
     rdfs:label "岩倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830833" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市陰田町
+    a mo:町域 ;
     rdfs:label "陰田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830027" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市内町
+    a mo:町域 ;
     rdfs:label "内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830834" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市浦津
+    a mo:町域 ;
     rdfs:label "浦津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893544" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市榎原
+    a mo:町域 ;
     rdfs:label "榎原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830257" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市大崎
+    a mo:町域 ;
     rdfs:label "大崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830104" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市大篠津町
+    a mo:町域 ;
     rdfs:label "大篠津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830101" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市大谷町
+    a mo:町域 ;
     rdfs:label "大谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830045" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市大袋
+    a mo:町域 ;
     rdfs:label "大袋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830256" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市岡成
+    a mo:町域 ;
     rdfs:label "岡成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893513" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市奥谷
+    a mo:町域 ;
     rdfs:label "奥谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830016" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市尾高
+    a mo:町域 ;
     rdfs:label "尾高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893514" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市尾高町
+    a mo:町域 ;
     rdfs:label "尾高町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830814" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市皆生
+    a mo:町域 ;
     rdfs:label "皆生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830003" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市皆生温泉
+    a mo:町域 ;
     rdfs:label "皆生温泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830001" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市皆生新田
+    a mo:町域 ;
     rdfs:label "皆生新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830002" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市角盤町
+    a mo:町域 ;
     rdfs:label "角盤町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830812" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市兼久
+    a mo:町域 ;
     rdfs:label "兼久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830251" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市上安曇
+    a mo:町域 ;
     rdfs:label "上安曇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830255" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市上後藤
+    a mo:町域 ;
     rdfs:label "上後藤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830841" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市上新印
+    a mo:町域 ;
     rdfs:label "上新印"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893532" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市上福原
+    a mo:町域 ;
     rdfs:label "上福原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830004" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市加茂町
+    a mo:町域 ;
     rdfs:label "加茂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830823" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市蚊屋
+    a mo:町域 ;
     rdfs:label "蚊屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893543" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市河岡
+    a mo:町域 ;
     rdfs:label "河岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893521" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市河崎
+    a mo:町域 ;
     rdfs:label "河崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830852" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市勝田町
+    a mo:町域 ;
     rdfs:label "勝田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830051" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市観音寺
+    a mo:町域 ;
     rdfs:label "観音寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830007" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市観音寺新町
+    a mo:町域 ;
     rdfs:label "観音寺新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830009" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市祇園町
+    a mo:町域 ;
     rdfs:label "祇園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830047" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市義方町
+    a mo:町域 ;
     rdfs:label "義方町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830844" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市錦海町
+    a mo:町域 ;
     rdfs:label "錦海町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830825" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市日下
+    a mo:町域 ;
     rdfs:label "日下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893522" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市車尾
+    a mo:町域 ;
     rdfs:label "車尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830006" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市車尾南
+    a mo:町域 ;
     rdfs:label "車尾南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830008" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市熊党
+    a mo:町域 ;
     rdfs:label "熊党"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893546" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市久米町
+    a mo:町域 ;
     rdfs:label "久米町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830824" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市糀町
+    a mo:町域 ;
     rdfs:label "糀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830054" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市紺屋町
+    a mo:町域 ;
     rdfs:label "紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830062" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市古豊千
+    a mo:町域 ;
     rdfs:label "古豊千"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893537" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市三本松
+    a mo:町域 ;
     rdfs:label "三本松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830842" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市塩町
+    a mo:町域 ;
     rdfs:label "塩町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830042" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市下安曇
+    a mo:町域 ;
     rdfs:label "下安曇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830253" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市下新印
+    a mo:町域 ;
     rdfs:label "下新印"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893531" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市下郷
+    a mo:町域 ;
     rdfs:label "下郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893511" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830037" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市新開
+    a mo:町域 ;
     rdfs:label "新開"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830801" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市末広町
+    a mo:町域 ;
     rdfs:label "末広町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830043" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市諏訪
+    a mo:町域 ;
     rdfs:label "諏訪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830013" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市石州府
+    a mo:町域 ;
     rdfs:label "石州府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893524" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市大工町
+    a mo:町域 ;
     rdfs:label "大工町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830044" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市高島
+    a mo:町域 ;
     rdfs:label "高島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893536" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市立町
+    a mo:町域 ;
     rdfs:label "立町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830832" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市茶町
+    a mo:町域 ;
     rdfs:label "茶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830041" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市寺町
+    a mo:町域 ;
     rdfs:label "寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830831" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830821" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市道笑町
+    a mo:町域 ;
     rdfs:label "道笑町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830064" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市富益町
+    a mo:町域 ;
     rdfs:label "富益町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830103" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市中島
+    a mo:町域 ;
     rdfs:label "中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830005" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市中町
+    a mo:町域 ;
     rdfs:label "中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830822" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市永江
+    a mo:町域 ;
     rdfs:label "永江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830014" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市長砂町
+    a mo:町域 ;
     rdfs:label "長砂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830033" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市奈喜良
+    a mo:町域 ;
     rdfs:label "奈喜良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830022" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市灘町
+    a mo:町域 ;
     rdfs:label "灘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830835" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市新山
+    a mo:町域 ;
     rdfs:label "新山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830026" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市錦町
+    a mo:町域 ;
     rdfs:label "錦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830811" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市西倉吉町
+    a mo:町域 ;
     rdfs:label "西倉吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830816" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市西町
+    a mo:町域 ;
     rdfs:label "西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830826" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市西福原
+    a mo:町域 ;
     rdfs:label "西福原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830805" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市二本木
+    a mo:町域 ;
     rdfs:label "二本木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893541" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市博労町
+    a mo:町域 ;
     rdfs:label "博労町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830052" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市橋本
+    a mo:町域 ;
     rdfs:label "橋本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830023" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市旗ヶ崎
+    a mo:町域 ;
     rdfs:label "旗ヶ崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830845" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市花園町
+    a mo:町域 ;
     rdfs:label "花園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830836" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市東倉吉町
+    a mo:町域 ;
     rdfs:label "東倉吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830815" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830067" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市東福原
+    a mo:町域 ;
     rdfs:label "東福原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830802" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市東山町
+    a mo:町域 ;
     rdfs:label "東山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830031" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市東八幡
+    a mo:町域 ;
     rdfs:label "東八幡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893535" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市彦名新田
+    a mo:町域 ;
     rdfs:label "彦名新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830855" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市彦名町
+    a mo:町域 ;
     rdfs:label "彦名町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830854" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市日ノ出町
+    a mo:町域 ;
     rdfs:label "日ノ出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830803" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市日野町
+    a mo:町域 ;
     rdfs:label "日野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830066" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市日原
+    a mo:町域 ;
     rdfs:label "日原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830015" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市福市
+    a mo:町域 ;
     rdfs:label "福市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830011" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市福万
+    a mo:町域 ;
     rdfs:label "福万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893523" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市冨士見町
+    a mo:町域 ;
     rdfs:label "冨士見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830055" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市古市
+    a mo:町域 ;
     rdfs:label "古市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830025" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市別所
+    a mo:町域 ;
     rdfs:label "別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830254" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市法勝寺町
+    a mo:町域 ;
     rdfs:label "法勝寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830063" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市万能町
+    a mo:町域 ;
     rdfs:label "万能町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830065" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市水浜
+    a mo:町域 ;
     rdfs:label "水浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893534" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市三旗町
+    a mo:町域 ;
     rdfs:label "三旗町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830843" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市美吉
+    a mo:町域 ;
     rdfs:label "美吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830034" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市宗像
+    a mo:町域 ;
     rdfs:label "宗像"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830017" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市明治町
+    a mo:町域 ;
     rdfs:label "明治町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830053" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市目久美町
+    a mo:町域 ;
     rdfs:label "目久美町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830035" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市弥生町
+    a mo:町域 ;
     rdfs:label "弥生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830036" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市八幡
+    a mo:町域 ;
     rdfs:label "八幡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830012" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市陽田町
+    a mo:町域 ;
     rdfs:label "陽田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830032" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市吉岡
+    a mo:町域 ;
     rdfs:label "吉岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893545" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市吉谷
+    a mo:町域 ;
     rdfs:label "吉谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830024" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市葭津
+    a mo:町域 ;
     rdfs:label "葭津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830105" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市四日市町
+    a mo:町域 ;
     rdfs:label "四日市町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830061" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町稲吉
+    a mo:町域 ;
     rdfs:label "淀江町稲吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893412" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町今津
+    a mo:町域 ;
     rdfs:label "淀江町今津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893401" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町小波
+    a mo:町域 ;
     rdfs:label "淀江町小波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893423" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町佐陀
+    a mo:町域 ;
     rdfs:label "淀江町佐陀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893425" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町高井谷
+    a mo:町域 ;
     rdfs:label "淀江町高井谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893418" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町富繁
+    a mo:町域 ;
     rdfs:label "淀江町富繁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893415" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町中西尾
+    a mo:町域 ;
     rdfs:label "淀江町中西尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893417" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町中間
+    a mo:町域 ;
     rdfs:label "淀江町中間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893424" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町西尾原
+    a mo:町域 ;
     rdfs:label "淀江町西尾原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893414" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町西原
+    a mo:町域 ;
     rdfs:label "淀江町西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893403" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町平岡
+    a mo:町域 ;
     rdfs:label "淀江町平岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893422" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町福井
+    a mo:町域 ;
     rdfs:label "淀江町福井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893416" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町福岡
+    a mo:町域 ;
     rdfs:label "淀江町福岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893411" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町福頼
+    a mo:町域 ;
     rdfs:label "淀江町福頼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893421" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町本宮
+    a mo:町域 ;
     rdfs:label "淀江町本宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893413" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市淀江町淀江
+    a mo:町域 ;
     rdfs:label "淀江町淀江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893402" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市米原
+    a mo:町域 ;
     rdfs:label "米原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830804" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市夜見町
+    a mo:町域 ;
     rdfs:label "夜見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830851" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市流通町
+    a mo:町域 ;
     rdfs:label "流通町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893547" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市両三柳
+    a mo:町域 ;
     rdfs:label "両三柳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830853" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県米子市和田町
+    a mo:町域 ;
     rdfs:label "和田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830102" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市
     rdfs:label "倉吉市"@ja ;
@@ -2875,656 +3941,982 @@ mr:JP_鳥取県倉吉市
 a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市葵町
+    a mo:町域 ;
     rdfs:label "葵町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820822" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上井
+    a mo:町域 ;
     rdfs:label "上井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820021" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上井町
+    a mo:町域 ;
     rdfs:label "上井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820022" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市旭田町
+    a mo:町域 ;
     rdfs:label "旭田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820871" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市穴窪
+    a mo:町域 ;
     rdfs:label "穴窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820001" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市穴沢
+    a mo:町域 ;
     rdfs:label "穴沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820901" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市伊木
+    a mo:町域 ;
     rdfs:label "伊木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820024" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市生田
+    a mo:町域 ;
     rdfs:label "生田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820855" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市石塚
+    a mo:町域 ;
     rdfs:label "石塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820933" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市井手畑
+    a mo:町域 ;
     rdfs:label "井手畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820006" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市今在家
+    a mo:町域 ;
     rdfs:label "今在家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820641" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市巌城
+    a mo:町域 ;
     rdfs:label "巌城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820801" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市岩倉
+    a mo:町域 ;
     rdfs:label "岩倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820842" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市魚町
+    a mo:町域 ;
     rdfs:label "魚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820821" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上灘町
+    a mo:町域 ;
     rdfs:label "上灘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820811" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市越中町
+    a mo:町域 ;
     rdfs:label "越中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820865" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市円谷町
+    a mo:町域 ;
     rdfs:label "円谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820813" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大河内
+    a mo:町域 ;
     rdfs:label "大河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820623" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大沢
+    a mo:町域 ;
     rdfs:label "大沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820947" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大立
+    a mo:町域 ;
     rdfs:label "大立"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820632" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820941" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大谷茶屋
+    a mo:町域 ;
     rdfs:label "大谷茶屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820948" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大塚
+    a mo:町域 ;
     rdfs:label "大塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820011" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大平町
+    a mo:町域 ;
     rdfs:label "大平町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820042" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大宮
+    a mo:町域 ;
     rdfs:label "大宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820841" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市岡
+    a mo:町域 ;
     rdfs:label "岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820645" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市小鴨
+    a mo:町域 ;
     rdfs:label "小鴨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820931" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市尾田
+    a mo:町域 ;
     rdfs:label "尾田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820607" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大原
+    a mo:町域 ;
     rdfs:label "大原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820034" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市尾原
+    a mo:町域 ;
     rdfs:label "尾原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820904" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市海田東町
+    a mo:町域 ;
     rdfs:label "海田東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820014" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市海田西町
+    a mo:町域 ;
     rdfs:label "海田西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820016" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市海田南町
+    a mo:町域 ;
     rdfs:label "海田南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820015" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市鍛冶町
+    a mo:町域 ;
     rdfs:label "鍛冶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820864" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上神
+    a mo:町域 ;
     rdfs:label "上神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820902" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市忰谷
+    a mo:町域 ;
     rdfs:label "忰谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820621" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市金森町
+    a mo:町域 ;
     rdfs:label "金森町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820875" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市河北町
+    a mo:町域 ;
     rdfs:label "河北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820041" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上大立
+    a mo:町域 ;
     rdfs:label "上大立"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820631" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上福田
+    a mo:町域 ;
     rdfs:label "上福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820642" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上古川
+    a mo:町域 ;
     rdfs:label "上古川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820934" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上余戸
+    a mo:町域 ;
     rdfs:label "上余戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820032" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市上米積
+    a mo:町域 ;
     rdfs:label "上米積"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820602" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市鴨川町
+    a mo:町域 ;
     rdfs:label "鴨川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820923" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市鴨河内
+    a mo:町域 ;
     rdfs:label "鴨河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820846" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市河来見
+    a mo:町域 ;
     rdfs:label "河来見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820633" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市河原町
+    a mo:町域 ;
     rdfs:label "河原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820924" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市北野
+    a mo:町域 ;
     rdfs:label "北野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820857" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市北面
+    a mo:町域 ;
     rdfs:label "北面"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820903" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市蔵内
+    a mo:町域 ;
     rdfs:label "蔵内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820932" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市栗尾
+    a mo:町域 ;
     rdfs:label "栗尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820033" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市黒見
+    a mo:町域 ;
     rdfs:label "黒見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820945" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市国府
+    a mo:町域 ;
     rdfs:label "国府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820942" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市広栄町
+    a mo:町域 ;
     rdfs:label "広栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820035" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市荒神町
+    a mo:町域 ;
     rdfs:label "荒神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820883" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市国分寺
+    a mo:町域 ;
     rdfs:label "国分寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820943" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市越殿町
+    a mo:町域 ;
     rdfs:label "越殿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820867" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市小田
+    a mo:町域 ;
     rdfs:label "小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820044" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市小田東
+    a mo:町域 ;
     rdfs:label "小田東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820045" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820807" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市堺町
+    a mo:町域 ;
     rdfs:label "堺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820885" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市桜
+    a mo:町域 ;
     rdfs:label "桜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820634" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市沢谷
+    a mo:町域 ;
     rdfs:label "沢谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820606" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市志津
+    a mo:町域 ;
     rdfs:label "志津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820613" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市下大江
+    a mo:町域 ;
     rdfs:label "下大江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820837" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市下田中町
+    a mo:町域 ;
     rdfs:label "下田中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820812" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市下福田
+    a mo:町域 ;
     rdfs:label "下福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820643" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市下古川
+    a mo:町域 ;
     rdfs:label "下古川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820005" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市下余戸
+    a mo:町域 ;
     rdfs:label "下余戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820031" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市下米積
+    a mo:町域 ;
     rdfs:label "下米積"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820601" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市秋喜
+    a mo:町域 ;
     rdfs:label "秋喜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820925" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市秋喜西町
+    a mo:町域 ;
     rdfs:label "秋喜西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820926" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820806" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市新田
+    a mo:町域 ;
     rdfs:label "新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820003" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820861" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市新陽町
+    a mo:町域 ;
     rdfs:label "新陽町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820815" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市鋤
+    a mo:町域 ;
     rdfs:label "鋤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820952" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市杉野
+    a mo:町域 ;
     rdfs:label "杉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820611" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市菅原
+    a mo:町域 ;
     rdfs:label "菅原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820843" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市住吉町
+    a mo:町域 ;
     rdfs:label "住吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820817" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市清谷
+    a mo:町域 ;
     rdfs:label "清谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820012" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市清谷町
+    a mo:町域 ;
     rdfs:label "清谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820017" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町安歩
+    a mo:町域 ;
     rdfs:label "関金町安歩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820401" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町今西
+    a mo:町域 ;
     rdfs:label "関金町今西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820421" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町大鳥居
+    a mo:町域 ;
     rdfs:label "関金町大鳥居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820402" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町小泉
+    a mo:町域 ;
     rdfs:label "関金町小泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820433" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町郡家
+    a mo:町域 ;
     rdfs:label "関金町郡家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820413" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町関金宿
+    a mo:町域 ;
     rdfs:label "関金町関金宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820411" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町泰久寺
+    a mo:町域 ;
     rdfs:label "関金町泰久寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820404" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町野添
+    a mo:町域 ;
     rdfs:label "関金町野添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820434" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町福原
+    a mo:町域 ;
     rdfs:label "関金町福原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820432" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町堀
+    a mo:町域 ;
     rdfs:label "関金町堀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820422" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町松河原
+    a mo:町域 ;
     rdfs:label "関金町松河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820403" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町明高
+    a mo:町域 ;
     rdfs:label "関金町明高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820423" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町山口
+    a mo:町域 ;
     rdfs:label "関金町山口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820412" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市関金町米富
+    a mo:町域 ;
     rdfs:label "関金町米富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820431" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市瀬崎町
+    a mo:町域 ;
     rdfs:label "瀬崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820863" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市大正町
+    a mo:町域 ;
     rdfs:label "大正町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820886" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市駄経寺町
+    a mo:町域 ;
     rdfs:label "駄経寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820816" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市立見
+    a mo:町域 ;
     rdfs:label "立見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820626" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市谷
+    a mo:町域 ;
     rdfs:label "谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820954" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市津原
+    a mo:町域 ;
     rdfs:label "津原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820951" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市寺谷
+    a mo:町域 ;
     rdfs:label "寺谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820911" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820043" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市研屋町
+    a mo:町域 ;
     rdfs:label "研屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820884" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市富海
+    a mo:町域 ;
     rdfs:label "富海"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820832" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市中江
+    a mo:町域 ;
     rdfs:label "中江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820002" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市中河原
+    a mo:町域 ;
     rdfs:label "中河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820856" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市中野
+    a mo:町域 ;
     rdfs:label "中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820612" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市仲ノ町
+    a mo:町域 ;
     rdfs:label "仲ノ町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820824" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市長坂新町
+    a mo:町域 ;
     rdfs:label "長坂新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820836" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市長坂町
+    a mo:町域 ;
     rdfs:label "長坂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820835" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市長谷
+    a mo:町域 ;
     rdfs:label "長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820622" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市西岩倉町
+    a mo:町域 ;
     rdfs:label "西岩倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820874" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市西倉吉町
+    a mo:町域 ;
     rdfs:label "西倉吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820851" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市西仲町
+    a mo:町域 ;
     rdfs:label "西仲町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820825" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市西福守町
+    a mo:町域 ;
     rdfs:label "西福守町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820921" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市西町
+    a mo:町域 ;
     rdfs:label "西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820862" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市虹ケ丘町
+    a mo:町域 ;
     rdfs:label "虹ケ丘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820036" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市八幡町
+    a mo:町域 ;
     rdfs:label "八幡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820831" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市服部
+    a mo:町域 ;
     rdfs:label "服部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820635" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市半坂
+    a mo:町域 ;
     rdfs:label "半坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820953" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市馬場町
+    a mo:町域 ;
     rdfs:label "馬場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820914" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市般若
+    a mo:町域 ;
     rdfs:label "般若"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820624" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市東巌城町
+    a mo:町域 ;
     rdfs:label "東巌城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820802" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市東岩倉町
+    a mo:町域 ;
     rdfs:label "東岩倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820873" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市東鴨
+    a mo:町域 ;
     rdfs:label "東鴨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820834" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市東鴨新町
+    a mo:町域 ;
     rdfs:label "東鴨新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820833" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市東昭和町
+    a mo:町域 ;
     rdfs:label "東昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820804" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市東仲町
+    a mo:町域 ;
     rdfs:label "東仲町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820826" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820823" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市広瀬
+    a mo:町域 ;
     rdfs:label "広瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820844" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市広瀬町
+    a mo:町域 ;
     rdfs:label "広瀬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820866" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福積
+    a mo:町域 ;
     rdfs:label "福積"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820644" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福富
+    a mo:町域 ;
     rdfs:label "福富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820605" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福庭
+    a mo:町域 ;
     rdfs:label "福庭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820013" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福庭町
+    a mo:町域 ;
     rdfs:label "福庭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820018" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福光
+    a mo:町域 ;
     rdfs:label "福光"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820944" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福本
+    a mo:町域 ;
     rdfs:label "福本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820604" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福守町
+    a mo:町域 ;
     rdfs:label "福守町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820922" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福山
+    a mo:町域 ;
     rdfs:label "福山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820847" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市福吉町
+    a mo:町域 ;
     rdfs:label "福吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820872" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市不入岡
+    a mo:町域 ;
     rdfs:label "不入岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820915" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市古川沢
+    a mo:町域 ;
     rdfs:label "古川沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820004" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市別所
+    a mo:町域 ;
     rdfs:label "別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820905" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市丸山町
+    a mo:町域 ;
     rdfs:label "丸山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820852" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市三江
+    a mo:町域 ;
     rdfs:label "三江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820603" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市みどり町
+    a mo:町域 ;
     rdfs:label "みどり町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820854" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市湊町
+    a mo:町域 ;
     rdfs:label "湊町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820882" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市南昭和町
+    a mo:町域 ;
     rdfs:label "南昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820805" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市耳
+    a mo:町域 ;
     rdfs:label "耳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820845" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市宮川町
+    a mo:町域 ;
     rdfs:label "宮川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820881" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市見日町
+    a mo:町域 ;
     rdfs:label "見日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820803" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市明治町
+    a mo:町域 ;
     rdfs:label "明治町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820887" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市椋波
+    a mo:町域 ;
     rdfs:label "椋波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820625" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市森
+    a mo:町域 ;
     rdfs:label "森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820615" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市八屋
+    a mo:町域 ;
     rdfs:label "八屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820025" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市山根
+    a mo:町域 ;
     rdfs:label "山根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820023" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市横田
+    a mo:町域 ;
     rdfs:label "横田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820946" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市余戸谷町
+    a mo:町域 ;
     rdfs:label "余戸谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820853" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市米田町
+    a mo:町域 ;
     rdfs:label "米田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820814" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市和田
+    a mo:町域 ;
     rdfs:label "和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820912" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県倉吉市和田東町
+    a mo:町域 ;
     rdfs:label "和田東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820913" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市
     rdfs:label "境港市"@ja ;
@@ -3581,196 +4973,292 @@ mr:JP_鳥取県境港市
 a mo:GeoEntity .
 
 mr:JP_鳥取県境港市相生町
+    a mo:町域 ;
     rdfs:label "相生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840011" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市上道町
+    a mo:町域 ;
     rdfs:label "上道町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840033" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市朝日町
+    a mo:町域 ;
     rdfs:label "朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840013" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840006" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市京町
+    a mo:町域 ;
     rdfs:label "京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840023" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市幸神町
+    a mo:町域 ;
     rdfs:label "幸神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840056" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市小篠津町
+    a mo:町域 ;
     rdfs:label "小篠津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840053" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市佐斐神町
+    a mo:町域 ;
     rdfs:label "佐斐神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840055" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市財ノ木町
+    a mo:町域 ;
     rdfs:label "財ノ木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840054" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市三軒屋町
+    a mo:町域 ;
     rdfs:label "三軒屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840064" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市潮見町
+    a mo:町域 ;
     rdfs:label "潮見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840074" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市東雲町
+    a mo:町域 ;
     rdfs:label "東雲町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840015" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市芝町
+    a mo:町域 ;
     rdfs:label "芝町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840066" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市清水町
+    a mo:町域 ;
     rdfs:label "清水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840001" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840034" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市末広町
+    a mo:町域 ;
     rdfs:label "末広町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840026" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市誠道町
+    a mo:町域 ;
     rdfs:label "誠道町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840063" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市大正町
+    a mo:町域 ;
     rdfs:label "大正町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840004" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市高松町
+    a mo:町域 ;
     rdfs:label "高松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840045" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市竹内団地
+    a mo:町域 ;
     rdfs:label "竹内団地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840046" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市竹内町
+    a mo:町域 ;
     rdfs:label "竹内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840043" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市外江町
+    a mo:町域 ;
     rdfs:label "外江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840071" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市中海干拓地
+    a mo:町域 ;
     rdfs:label "中海干拓地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840073" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市中野町
+    a mo:町域 ;
     rdfs:label "中野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840041" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市中町
+    a mo:町域 ;
     rdfs:label "中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840012" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市新屋町
+    a mo:町域 ;
     rdfs:label "新屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840051" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市西工業団地
+    a mo:町域 ;
     rdfs:label "西工業団地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840075" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市入船町
+    a mo:町域 ;
     rdfs:label "入船町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840014" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市蓮池町
+    a mo:町域 ;
     rdfs:label "蓮池町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840062" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市花町
+    a mo:町域 ;
     rdfs:label "花町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840016" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市馬場崎町
+    a mo:町域 ;
     rdfs:label "馬場崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840021" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市浜ノ町
+    a mo:町域 ;
     rdfs:label "浜ノ町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840003" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市東本町
+    a mo:町域 ;
     rdfs:label "東本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840027" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市日ノ出町
+    a mo:町域 ;
     rdfs:label "日ノ出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840024" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市福定町
+    a mo:町域 ;
     rdfs:label "福定町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840042" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840025" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市松ケ枝町
+    a mo:町域 ;
     rdfs:label "松ケ枝町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840005" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市岬町
+    a mo:町域 ;
     rdfs:label "岬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840017" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市湊町
+    a mo:町域 ;
     rdfs:label "湊町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840031" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市美保町
+    a mo:町域 ;
     rdfs:label "美保町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840044" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市麦垣町
+    a mo:町域 ;
     rdfs:label "麦垣町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840052" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市明治町
+    a mo:町域 ;
     rdfs:label "明治町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840022" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市元町
+    a mo:町域 ;
     rdfs:label "元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840032" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市森岡町
+    a mo:町域 ;
     rdfs:label "森岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840065" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市弥生町
+    a mo:町域 ;
     rdfs:label "弥生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840002" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市夕日ケ丘
+    a mo:町域 ;
     rdfs:label "夕日ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840076" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市米川町
+    a mo:町域 ;
     rdfs:label "米川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840061" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県境港市渡町
+    a mo:町域 ;
     rdfs:label "渡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840072" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町
     rdfs:label "岩美郡岩美町"@ja ;
@@ -3819,164 +5307,244 @@ mr:JP_鳥取県岩美郡岩美町
 a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町相谷
+    a mo:町域 ;
     rdfs:label "相谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810002" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町相山
+    a mo:町域 ;
     rdfs:label "相山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810036" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町網代
+    a mo:町域 ;
     rdfs:label "網代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810074" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町洗井
+    a mo:町域 ;
     rdfs:label "洗井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810032" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町荒金
+    a mo:町域 ;
     rdfs:label "荒金"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810055" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町池谷
+    a mo:町域 ;
     rdfs:label "池谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810047" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町岩井
+    a mo:町域 ;
     rdfs:label "岩井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810024" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町岩常
+    a mo:町域 ;
     rdfs:label "岩常"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810052" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町岩本
+    a mo:町域 ;
     rdfs:label "岩本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810072" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町院内
+    a mo:町域 ;
     rdfs:label "院内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810054" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町宇治
+    a mo:町域 ;
     rdfs:label "宇治"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810025" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町浦富
+    a mo:町域 ;
     rdfs:label "浦富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810003" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町延興寺
+    a mo:町域 ;
     rdfs:label "延興寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810046" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町大坂
+    a mo:町域 ;
     rdfs:label "大坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810043" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町太田
+    a mo:町域 ;
     rdfs:label "太田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810063" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810073" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町大羽尾
+    a mo:町域 ;
     rdfs:label "大羽尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810014" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町小田
+    a mo:町域 ;
     rdfs:label "小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810042" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町恩志
+    a mo:町域 ;
     rdfs:label "恩志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810062" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町蒲生
+    a mo:町域 ;
     rdfs:label "蒲生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810031" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町唐川
+    a mo:町域 ;
     rdfs:label "唐川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810045" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町河崎
+    a mo:町域 ;
     rdfs:label "河崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810051" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町銀山
+    a mo:町域 ;
     rdfs:label "銀山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810034" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町陸上
+    a mo:町域 ;
     rdfs:label "陸上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810011" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町黒谷
+    a mo:町域 ;
     rdfs:label "黒谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810041" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町小羽尾
+    a mo:町域 ;
     rdfs:label "小羽尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810013" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町白地
+    a mo:町域 ;
     rdfs:label "白地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810022" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町高住
+    a mo:町域 ;
     rdfs:label "高住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810053" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町高山
+    a mo:町域 ;
     rdfs:label "高山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810061" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町田後
+    a mo:町域 ;
     rdfs:label "田後"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810071" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町田河内
+    a mo:町域 ;
     rdfs:label "田河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810012" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町長郷
+    a mo:町域 ;
     rdfs:label "長郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810056" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町外邑
+    a mo:町域 ;
     rdfs:label "外邑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810044" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町鳥越
+    a mo:町域 ;
     rdfs:label "鳥越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810033" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町長谷
+    a mo:町域 ;
     rdfs:label "長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810021" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町新井
+    a mo:町域 ;
     rdfs:label "新井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810065" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町馬場
+    a mo:町域 ;
     rdfs:label "馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810035" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町本庄
+    a mo:町域 ;
     rdfs:label "本庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810064" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町牧谷
+    a mo:町域 ;
     rdfs:label "牧谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810001" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県岩美郡岩美町真名
+    a mo:町域 ;
     rdfs:label "真名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6810023" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町
     rdfs:label "八頭郡若桜町"@ja ;
@@ -4010,104 +5578,154 @@ mr:JP_鳥取県八頭郡若桜町
 a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町赤松
+    a mo:町域 ;
     rdfs:label "赤松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800713" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町浅井
+    a mo:町域 ;
     rdfs:label "浅井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800722" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町糸白見
+    a mo:町域 ;
     rdfs:label "糸白見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800743" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町岩屋堂
+    a mo:町域 ;
     rdfs:label "岩屋堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800731" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町大炊
+    a mo:町域 ;
     rdfs:label "大炊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800741" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町大野
+    a mo:町域 ;
     rdfs:label "大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800733" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町落折
+    a mo:町域 ;
     rdfs:label "落折"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800735" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町小船
+    a mo:町域 ;
     rdfs:label "小船"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800734" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町岸野
+    a mo:町域 ;
     rdfs:label "岸野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800742" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町来見野
+    a mo:町域 ;
     rdfs:label "来見野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800714" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町香田
+    a mo:町域 ;
     rdfs:label "香田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800723" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町須澄
+    a mo:町域 ;
     rdfs:label "須澄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800745" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町高野
+    a mo:町域 ;
     rdfs:label "高野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800712" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町つく米
+    a mo:町域 ;
     rdfs:label "つく米"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800728" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町中原
+    a mo:町域 ;
     rdfs:label "中原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800732" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町長砂
+    a mo:町域 ;
     rdfs:label "長砂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800724" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町根安
+    a mo:町域 ;
     rdfs:label "根安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800744" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町淵見
+    a mo:町域 ;
     rdfs:label "淵見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800726" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町三倉
+    a mo:町域 ;
     rdfs:label "三倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800711" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町茗荷谷
+    a mo:町域 ;
     rdfs:label "茗荷谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800727" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町諸鹿
+    a mo:町域 ;
     rdfs:label "諸鹿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800715" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町屋堂羅
+    a mo:町域 ;
     rdfs:label "屋堂羅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800721" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町湯原
+    a mo:町域 ;
     rdfs:label "湯原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800725" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町吉川
+    a mo:町域 ;
     rdfs:label "吉川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800746" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡若桜町若桜
+    a mo:町域 ;
     rdfs:label "若桜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800701" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町
     rdfs:label "八頭郡智頭町"@ja ;
@@ -4158,172 +5776,256 @@ mr:JP_鳥取県八頭郡智頭町
 a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町芦津
+    a mo:町域 ;
     rdfs:label "芦津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891412" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町市瀬
+    a mo:町域 ;
     rdfs:label "市瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891401" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町岩神
+    a mo:町域 ;
     rdfs:label "岩神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891404" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町宇波
+    a mo:町域 ;
     rdfs:label "宇波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891465" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町大背
+    a mo:町域 ;
     rdfs:label "大背"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891451" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町大内
+    a mo:町域 ;
     rdfs:label "大内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891421" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町大屋
+    a mo:町域 ;
     rdfs:label "大屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891442" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町大呂
+    a mo:町域 ;
     rdfs:label "大呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891413" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町奥本
+    a mo:町域 ;
     rdfs:label "奥本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891452" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町尾見
+    a mo:町域 ;
     rdfs:label "尾見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891422" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町木原
+    a mo:町域 ;
     rdfs:label "木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891436" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町口宇波
+    a mo:町域 ;
     rdfs:label "口宇波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891464" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町口波多
+    a mo:町域 ;
     rdfs:label "口波多"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891467" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町慶所
+    a mo:町域 ;
     rdfs:label "慶所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891441" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町毛谷
+    a mo:町域 ;
     rdfs:label "毛谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891416" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町河津原
+    a mo:町域 ;
     rdfs:label "河津原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891454" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町郷原
+    a mo:町域 ;
     rdfs:label "郷原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891415" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町駒帰
+    a mo:町域 ;
     rdfs:label "駒帰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891424" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町坂原
+    a mo:町域 ;
     rdfs:label "坂原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891461" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町篠坂
+    a mo:町域 ;
     rdfs:label "篠坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891417" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町惣地
+    a mo:町域 ;
     rdfs:label "惣地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891468" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町智頭
+    a mo:町域 ;
     rdfs:label "智頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891402" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町中田
+    a mo:町域 ;
     rdfs:label "中田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891462" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町中原
+    a mo:町域 ;
     rdfs:label "中原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891423" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町新見
+    a mo:町域 ;
     rdfs:label "新見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891463" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町西宇塚
+    a mo:町域 ;
     rdfs:label "西宇塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891455" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町西谷
+    a mo:町域 ;
     rdfs:label "西谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891426" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町西野
+    a mo:町域 ;
     rdfs:label "西野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891414" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町野原
+    a mo:町域 ;
     rdfs:label "野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891444" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町波多
+    a mo:町域 ;
     rdfs:label "波多"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891466" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町埴師
+    a mo:町域 ;
     rdfs:label "埴師"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891433" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町早瀬
+    a mo:町域 ;
     rdfs:label "早瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891445" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町東宇塚
+    a mo:町域 ;
     rdfs:label "東宇塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891453" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町福原
+    a mo:町域 ;
     rdfs:label "福原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891425" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町穂見
+    a mo:町域 ;
     rdfs:label "穂見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891432" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町真鹿野
+    a mo:町域 ;
     rdfs:label "真鹿野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891443" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町三田
+    a mo:町域 ;
     rdfs:label "三田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891437" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町南方
+    a mo:町域 ;
     rdfs:label "南方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891403" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町三吉
+    a mo:町域 ;
     rdfs:label "三吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891434" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町八河谷
+    a mo:町域 ;
     rdfs:label "八河谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891411" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町山根
+    a mo:町域 ;
     rdfs:label "山根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891431" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡智頭町横田
+    a mo:町域 ;
     rdfs:label "横田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6891435" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町
     rdfs:label "八頭郡八頭町"@ja ;
@@ -4423,368 +6125,550 @@ mr:JP_鳥取県八頭郡八頭町
 a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町明辺
+    a mo:町域 ;
     rdfs:label "明辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800302" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町麻生
+    a mo:町域 ;
     rdfs:label "麻生"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800305" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800452" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町井古
+    a mo:町域 ;
     rdfs:label "井古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800425" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町石田百井
+    a mo:町域 ;
     rdfs:label "石田百井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800454" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町市谷
+    a mo:町域 ;
     rdfs:label "市谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800442" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町市場
+    a mo:町域 ;
     rdfs:label "市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800311" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町稲荷
+    a mo:町域 ;
     rdfs:label "稲荷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800424" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町岩淵
+    a mo:町域 ;
     rdfs:label "岩淵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800537" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町延命寺
+    a mo:町域 ;
     rdfs:label "延命寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800434" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町大江
+    a mo:町域 ;
     rdfs:label "大江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800416" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町大坪
+    a mo:町域 ;
     rdfs:label "大坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800435" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町奥谷
+    a mo:町域 ;
     rdfs:label "奥谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800427" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町奥野
+    a mo:町域 ;
     rdfs:label "奥野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800543" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町落岩
+    a mo:町域 ;
     rdfs:label "落岩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800303" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町下坂
+    a mo:町域 ;
     rdfs:label "下坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800426" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町皆原
+    a mo:町域 ;
     rdfs:label "皆原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800533" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町柿原
+    a mo:町域 ;
     rdfs:label "柿原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800545" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町覚王寺
+    a mo:町域 ;
     rdfs:label "覚王寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800312" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町鍛冶屋
+    a mo:町域 ;
     rdfs:label "鍛冶屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800534" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町門尾
+    a mo:町域 ;
     rdfs:label "門尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800422" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町上津黒
+    a mo:町域 ;
     rdfs:label "上津黒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800313" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800401" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町上峰寺
+    a mo:町域 ;
     rdfs:label "上峰寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800432" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町北山
+    a mo:町域 ;
     rdfs:label "北山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800601" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町日下部
+    a mo:町域 ;
     rdfs:label "日下部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800526" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町国中
+    a mo:町域 ;
     rdfs:label "国中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800457" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町久能寺
+    a mo:町域 ;
     rdfs:label "久能寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800451" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町郡家殿
+    a mo:町域 ;
     rdfs:label "郡家殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800443" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町郡家
+    a mo:町域 ;
     rdfs:label "郡家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800461" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町小別府
+    a mo:町域 ;
     rdfs:label "小別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800523" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町才代
+    a mo:町域 ;
     rdfs:label "才代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800531" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町坂田
+    a mo:町域 ;
     rdfs:label "坂田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800473" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町桜ヶ丘
+    a mo:町域 ;
     rdfs:label "桜ヶ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800527" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町佐崎
+    a mo:町域 ;
     rdfs:label "佐崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800544" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町篠波
+    a mo:町域 ;
     rdfs:label "篠波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800316" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町塩上
+    a mo:町域 ;
     rdfs:label "塩上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800413" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町重枝
+    a mo:町域 ;
     rdfs:label "重枝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800606" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町志子部
+    a mo:町域 ;
     rdfs:label "志子部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800407" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町志谷
+    a mo:町域 ;
     rdfs:label "志谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800612" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町島
+    a mo:町域 ;
     rdfs:label "島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800605" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町下門尾
+    a mo:町域 ;
     rdfs:label "下門尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800421" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町下津黒
+    a mo:町域 ;
     rdfs:label "下津黒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800314" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町下野
+    a mo:町域 ;
     rdfs:label "下野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800415" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町下濃
+    a mo:町域 ;
     rdfs:label "下濃"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800472" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町下峰寺
+    a mo:町域 ;
     rdfs:label "下峰寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800431" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町新興寺
+    a mo:町域 ;
     rdfs:label "新興寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800522" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町清徳
+    a mo:町域 ;
     rdfs:label "清徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800541" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町大門
+    a mo:町域 ;
     rdfs:label "大門"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800445" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町徳丸
+    a mo:町域 ;
     rdfs:label "徳丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800607" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町富枝
+    a mo:町域 ;
     rdfs:label "富枝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800611" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町中
+    a mo:町域 ;
     rdfs:label "中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800614" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町西谷
+    a mo:町域 ;
     rdfs:label "西谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800408" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町西御門
+    a mo:町域 ;
     rdfs:label "西御門"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800441" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町野町
+    a mo:町域 ;
     rdfs:label "野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800306" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町橋本
+    a mo:町域 ;
     rdfs:label "橋本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800414" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町土師百井
+    a mo:町域 ;
     rdfs:label "土師百井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800455" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町花
+    a mo:町域 ;
     rdfs:label "花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800444" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町花原
+    a mo:町域 ;
     rdfs:label "花原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800437" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町隼福
+    a mo:町域 ;
     rdfs:label "隼福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800402" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町隼郡家
+    a mo:町域 ;
     rdfs:label "隼郡家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800405" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町稗谷
+    a mo:町域 ;
     rdfs:label "稗谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800613" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町東
+    a mo:町域 ;
     rdfs:label "東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800532" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町日田
+    a mo:町域 ;
     rdfs:label "日田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800603" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町姫路
+    a mo:町域 ;
     rdfs:label "姫路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800301" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町福井
+    a mo:町域 ;
     rdfs:label "福井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800403" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町福地
+    a mo:町域 ;
     rdfs:label "福地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800307" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町福本
+    a mo:町域 ;
     rdfs:label "福本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800462" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町船岡
+    a mo:町域 ;
     rdfs:label "船岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800471" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町船岡殿
+    a mo:町域 ;
     rdfs:label "船岡殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800411" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町別府
+    a mo:町域 ;
     rdfs:label "別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800315" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町堀越
+    a mo:町域 ;
     rdfs:label "堀越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800423" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町万代寺
+    a mo:町域 ;
     rdfs:label "万代寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800453" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町三浦
+    a mo:町域 ;
     rdfs:label "三浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800536" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町見槻
+    a mo:町域 ;
     rdfs:label "見槻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800406" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町見槻中
+    a mo:町域 ;
     rdfs:label "見槻中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800404" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町水口
+    a mo:町域 ;
     rdfs:label "水口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800412" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町南
+    a mo:町域 ;
     rdfs:label "南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800604" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町宮谷
+    a mo:町域 ;
     rdfs:label "宮谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800463" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町三山口
+    a mo:町域 ;
     rdfs:label "三山口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800535" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町茂田
+    a mo:町域 ;
     rdfs:label "茂田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800524" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町茂谷
+    a mo:町域 ;
     rdfs:label "茂谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800542" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町安井宿
+    a mo:町域 ;
     rdfs:label "安井宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800521" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町山路
+    a mo:町域 ;
     rdfs:label "山路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800436" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町山志谷
+    a mo:町域 ;
     rdfs:label "山志谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800304" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800438" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町山上
+    a mo:町域 ;
     rdfs:label "山上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800433" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町用呂
+    a mo:町域 ;
     rdfs:label "用呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800602" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町横田
+    a mo:町域 ;
     rdfs:label "横田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800525" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町米岡
+    a mo:町域 ;
     rdfs:label "米岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800456" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県八頭郡八頭町破岩
+    a mo:町域 ;
     rdfs:label "破岩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6800474" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町
     rdfs:label "東伯郡三朝町"@ja ;
@@ -4845,212 +6729,316 @@ mr:JP_鳥取県東伯郡三朝町
 a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町赤松
+    a mo:町域 ;
     rdfs:label "赤松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820172" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町穴鴨
+    a mo:町域 ;
     rdfs:label "穴鴨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820303" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町今泉
+    a mo:町域 ;
     rdfs:label "今泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820151" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町大柿
+    a mo:町域 ;
     rdfs:label "大柿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820177" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町大瀬
+    a mo:町域 ;
     rdfs:label "大瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820121" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820315" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町小河内
+    a mo:町域 ;
     rdfs:label "小河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820157" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町恩地
+    a mo:町域 ;
     rdfs:label "恩地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820173" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町柿谷
+    a mo:町域 ;
     rdfs:label "柿谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820161" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町片柴
+    a mo:町域 ;
     rdfs:label "片柴"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820135" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町加谷
+    a mo:町域 ;
     rdfs:label "加谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820302" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町鎌田
+    a mo:町域 ;
     rdfs:label "鎌田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820154" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町上西谷
+    a mo:町域 ;
     rdfs:label "上西谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820313" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町神倉
+    a mo:町域 ;
     rdfs:label "神倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820142" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町木地山
+    a mo:町域 ;
     rdfs:label "木地山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820301" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町久原
+    a mo:町域 ;
     rdfs:label "久原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820375" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町恋谷
+    a mo:町域 ;
     rdfs:label "恋谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820123" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町坂本
+    a mo:町域 ;
     rdfs:label "坂本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820136" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町桜ケ丘
+    a mo:町域 ;
     rdfs:label "桜ケ丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820133" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町下谷
+    a mo:町域 ;
     rdfs:label "下谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820156" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町下西谷
+    a mo:町域 ;
     rdfs:label "下西谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820312" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町下畑
+    a mo:町域 ;
     rdfs:label "下畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820316" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町助谷
+    a mo:町域 ;
     rdfs:label "助谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820176" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町砂原
+    a mo:町域 ;
     rdfs:label "砂原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820124" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町曹源寺
+    a mo:町域 ;
     rdfs:label "曹源寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820374" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町高橋
+    a mo:町域 ;
     rdfs:label "高橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820146" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町田代
+    a mo:町域 ;
     rdfs:label "田代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820314" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町俵原
+    a mo:町域 ;
     rdfs:label "俵原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820131" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町笏賀
+    a mo:町域 ;
     rdfs:label "笏賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820158" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町天神
+    a mo:町域 ;
     rdfs:label "天神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820153" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町徳本
+    a mo:町域 ;
     rdfs:label "徳本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820125" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町中津
+    a mo:町域 ;
     rdfs:label "中津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820141" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町鉛山
+    a mo:町域 ;
     rdfs:label "鉛山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820162" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町西尾
+    a mo:町域 ;
     rdfs:label "西尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820145" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町西小鹿
+    a mo:町域 ;
     rdfs:label "西小鹿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820144" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町東小鹿
+    a mo:町域 ;
     rdfs:label "東小鹿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820143" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町福田
+    a mo:町域 ;
     rdfs:label "福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820159" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町福本
+    a mo:町域 ;
     rdfs:label "福本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820317" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町福山
+    a mo:町域 ;
     rdfs:label "福山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820311" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町福吉
+    a mo:町域 ;
     rdfs:label "福吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820163" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町牧
+    a mo:町域 ;
     rdfs:label "牧"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820178" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町三朝
+    a mo:町域 ;
     rdfs:label "三朝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820123" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町三徳
+    a mo:町域 ;
     rdfs:label "三徳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820132" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町本泉
+    a mo:町域 ;
     rdfs:label "本泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820152" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町森
+    a mo:町域 ;
     rdfs:label "森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820153" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820122" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町湯谷
+    a mo:町域 ;
     rdfs:label "湯谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820171" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町横手
+    a mo:町域 ;
     rdfs:label "横手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820125" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町吉尾
+    a mo:町域 ;
     rdfs:label "吉尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820155" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820133" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町余戸
+    a mo:町域 ;
     rdfs:label "余戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820134" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡三朝町若宮
+    a mo:町域 ;
     rdfs:label "若宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820151" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町
     rdfs:label "東伯郡湯梨浜町"@ja ;
@@ -5107,196 +7095,292 @@ mr:JP_鳥取県東伯郡湯梨浜町
 a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町赤池
+    a mo:町域 ;
     rdfs:label "赤池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820714" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町麻畑
+    a mo:町域 ;
     rdfs:label "麻畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890721" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町旭
+    a mo:町域 ;
     rdfs:label "旭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890713" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町石脇
+    a mo:町域 ;
     rdfs:label "石脇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890602" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町羽衣石
+    a mo:町域 ;
     rdfs:label "羽衣石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890733" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町宇谷
+    a mo:町域 ;
     rdfs:label "宇谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890607" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町宇野
+    a mo:町域 ;
     rdfs:label "宇野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820701" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町漆原
+    a mo:町域 ;
     rdfs:label "漆原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890702" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町小鹿谷
+    a mo:町域 ;
     rdfs:label "小鹿谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890729" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町方面
+    a mo:町域 ;
     rdfs:label "方面"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890724" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町門田
+    a mo:町域 ;
     rdfs:label "門田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890736" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町上浅津
+    a mo:町域 ;
     rdfs:label "上浅津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820712" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町上橋津
+    a mo:町域 ;
     rdfs:label "上橋津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820703" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町川上
+    a mo:町域 ;
     rdfs:label "川上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890722" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町北福
+    a mo:町域 ;
     rdfs:label "北福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890701" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町国信
+    a mo:町域 ;
     rdfs:label "国信"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890726" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町小浜
+    a mo:町域 ;
     rdfs:label "小浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890603" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町佐美
+    a mo:町域 ;
     rdfs:label "佐美"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890735" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町下浅津
+    a mo:町域 ;
     rdfs:label "下浅津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820711" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町白石
+    a mo:町域 ;
     rdfs:label "白石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890704" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町園
+    a mo:町域 ;
     rdfs:label "園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890605" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町高辻
+    a mo:町域 ;
     rdfs:label "高辻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890723" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町田後
+    a mo:町域 ;
     rdfs:label "田後"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820721" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町田畑
+    a mo:町域 ;
     rdfs:label "田畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890727" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町中興寺
+    a mo:町域 ;
     rdfs:label "中興寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890712" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町筒地
+    a mo:町域 ;
     rdfs:label "筒地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890604" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町泊
+    a mo:町域 ;
     rdfs:label "泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890601" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町長江
+    a mo:町域 ;
     rdfs:label "長江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890737" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町長和田
+    a mo:町域 ;
     rdfs:label "長和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890732" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町野方
+    a mo:町域 ;
     rdfs:label "野方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890705" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町野花
+    a mo:町域 ;
     rdfs:label "野花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890731" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町橋津
+    a mo:町域 ;
     rdfs:label "橋津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820702" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町埴見
+    a mo:町域 ;
     rdfs:label "埴見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890734" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町原
+    a mo:町域 ;
     rdfs:label "原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890606" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町はわい温泉
+    a mo:町域 ;
     rdfs:label "はわい温泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820715" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町はわい長瀬
+    a mo:町域 ;
     rdfs:label "はわい長瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820722" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町引地
+    a mo:町域 ;
     rdfs:label "引地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890715" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町久留
+    a mo:町域 ;
     rdfs:label "久留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820723" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町久見
+    a mo:町域 ;
     rdfs:label "久見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890728" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町藤津
+    a mo:町域 ;
     rdfs:label "藤津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890706" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町別所
+    a mo:町域 ;
     rdfs:label "別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890725" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町方地
+    a mo:町域 ;
     rdfs:label "方地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890703" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町松崎
+    a mo:町域 ;
     rdfs:label "松崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890711" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町水下
+    a mo:町域 ;
     rdfs:label "水下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820724" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町光吉
+    a mo:町域 ;
     rdfs:label "光吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820713" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町南谷
+    a mo:町域 ;
     rdfs:label "南谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6820704" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町宮内
+    a mo:町域 ;
     rdfs:label "宮内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890707" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡湯梨浜町龍島
+    a mo:町域 ;
     rdfs:label "龍島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6890714" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町
     rdfs:label "東伯郡琴浦町"@ja ;
@@ -5361,228 +7445,340 @@ mr:JP_鳥取県東伯郡琴浦町
 a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町赤碕
+    a mo:町域 ;
     rdfs:label "赤碕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892501" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町出上
+    a mo:町域 ;
     rdfs:label "出上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892511" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町梅田
+    a mo:町域 ;
     rdfs:label "梅田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892543" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町浦安
+    a mo:町域 ;
     rdfs:label "浦安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892352" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町大杉
+    a mo:町域 ;
     rdfs:label "大杉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892344" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町逢束
+    a mo:町域 ;
     rdfs:label "逢束"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892304" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町大父
+    a mo:町域 ;
     rdfs:label "大父"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892524" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町尾張
+    a mo:町域 ;
     rdfs:label "尾張"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892535" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町笠見
+    a mo:町域 ;
     rdfs:label "笠見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892306" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町勝田
+    a mo:町域 ;
     rdfs:label "勝田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892512" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町金屋
+    a mo:町域 ;
     rdfs:label "金屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892312" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町上伊勢
+    a mo:町域 ;
     rdfs:label "上伊勢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892315" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町公文
+    a mo:町域 ;
     rdfs:label "公文"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892342" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町倉坂
+    a mo:町域 ;
     rdfs:label "倉坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892341" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町釛
+    a mo:町域 ;
     rdfs:label "釛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892355" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町佐崎
+    a mo:町域 ;
     rdfs:label "佐崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892531" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町三本杉
+    a mo:町域 ;
     rdfs:label "三本杉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892334" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町下伊勢
+    a mo:町域 ;
     rdfs:label "下伊勢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892316" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町下大江
+    a mo:町域 ;
     rdfs:label "下大江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892314" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町杉地
+    a mo:町域 ;
     rdfs:label "杉地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892331" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町杉下
+    a mo:町域 ;
     rdfs:label "杉下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892313" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町太一垣
+    a mo:町域 ;
     rdfs:label "太一垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892532" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町高岡
+    a mo:町域 ;
     rdfs:label "高岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892523" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町竹内
+    a mo:町域 ;
     rdfs:label "竹内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892521" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町田越
+    a mo:町域 ;
     rdfs:label "田越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892356" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町槻下
+    a mo:町域 ;
     rdfs:label "槻下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892305" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町徳万
+    a mo:町域 ;
     rdfs:label "徳万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892303" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町中尾
+    a mo:町域 ;
     rdfs:label "中尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892311" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町中津原
+    a mo:町域 ;
     rdfs:label "中津原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892335" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町中村
+    a mo:町域 ;
     rdfs:label "中村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892533" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町西宮
+    a mo:町域 ;
     rdfs:label "西宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892513" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町野井倉
+    a mo:町域 ;
     rdfs:label "野井倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892336" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町野田
+    a mo:町域 ;
     rdfs:label "野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892346" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町箆津
+    a mo:町域 ;
     rdfs:label "箆津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892544" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町八反田
+    a mo:町域 ;
     rdfs:label "八反田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892322" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町福永
+    a mo:町域 ;
     rdfs:label "福永"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892345" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町古長
+    a mo:町域 ;
     rdfs:label "古長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892332" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町別所
+    a mo:町域 ;
     rdfs:label "別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892502" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町別宮
+    a mo:町域 ;
     rdfs:label "別宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892333" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町保
+    a mo:町域 ;
     rdfs:label "保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892351" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町法万
+    a mo:町域 ;
     rdfs:label "法万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892325" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町松谷
+    a mo:町域 ;
     rdfs:label "松谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892503" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町丸尾
+    a mo:町域 ;
     rdfs:label "丸尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892302" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町光
+    a mo:町域 ;
     rdfs:label "光"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892534" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町光好
+    a mo:町域 ;
     rdfs:label "光好"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892326" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町三保
+    a mo:町域 ;
     rdfs:label "三保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892353" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町宮木
+    a mo:町域 ;
     rdfs:label "宮木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892522" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町宮場
+    a mo:町域 ;
     rdfs:label "宮場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892323" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町美好
+    a mo:町域 ;
     rdfs:label "美好"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892354" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町森藤
+    a mo:町域 ;
     rdfs:label "森藤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892321" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町矢下
+    a mo:町域 ;
     rdfs:label "矢下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892324" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町八橋
+    a mo:町域 ;
     rdfs:label "八橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892301" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町山川
+    a mo:町域 ;
     rdfs:label "山川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892525" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892343" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町八幡
+    a mo:町域 ;
     rdfs:label "八幡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892541" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡琴浦町湯坂
+    a mo:町域 ;
     rdfs:label "湯坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892542" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町
     rdfs:label "東伯郡北栄町"@ja ;
@@ -5619,116 +7815,172 @@ mr:JP_鳥取県東伯郡北栄町
 a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町岩坪
+    a mo:町域 ;
     rdfs:label "岩坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892216" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町江北
+    a mo:町域 ;
     rdfs:label "江北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892101" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町大島
+    a mo:町域 ;
     rdfs:label "大島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892206" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町上種
+    a mo:町域 ;
     rdfs:label "上種"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町亀谷
+    a mo:町域 ;
     rdfs:label "亀谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町北尾
+    a mo:町域 ;
     rdfs:label "北尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892114" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町国坂
+    a mo:町域 ;
     rdfs:label "国坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892102" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町下種
+    a mo:町域 ;
     rdfs:label "下種"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町下神
+    a mo:町域 ;
     rdfs:label "下神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892105" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町瀬戸
+    a mo:町域 ;
     rdfs:label "瀬戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892205" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町田井
+    a mo:町域 ;
     rdfs:label "田井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892103" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町妻波
+    a mo:町域 ;
     rdfs:label "妻波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町西園
+    a mo:町域 ;
     rdfs:label "西園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892201" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町西高尾
+    a mo:町域 ;
     rdfs:label "西高尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892215" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町西穂波
+    a mo:町域 ;
     rdfs:label "西穂波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892207" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町土下
+    a mo:町域 ;
     rdfs:label "土下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892111" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町原
+    a mo:町域 ;
     rdfs:label "原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892203" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町東園
+    a mo:町域 ;
     rdfs:label "東園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892202" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町東高尾
+    a mo:町域 ;
     rdfs:label "東高尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町北条島
+    a mo:町域 ;
     rdfs:label "北条島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892112" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町穂波
+    a mo:町域 ;
     rdfs:label "穂波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892204" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町曲
+    a mo:町域 ;
     rdfs:label "曲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892115" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町松神
+    a mo:町域 ;
     rdfs:label "松神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892106" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町六尾
+    a mo:町域 ;
     rdfs:label "六尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892208" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町弓原
+    a mo:町域 ;
     rdfs:label "弓原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892104" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町由良宿
+    a mo:町域 ;
     rdfs:label "由良宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県東伯郡北栄町米里
+    a mo:町域 ;
     rdfs:label "米里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6892113" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡日吉津村
     rdfs:label "西伯郡日吉津村"@ja ;
@@ -5740,16 +7992,22 @@ mr:JP_鳥取県西伯郡日吉津村
 a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡日吉津村今吉
+    a mo:町域 ;
     rdfs:label "今吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893551" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡日吉津村富吉
+    a mo:町域 ;
     rdfs:label "富吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893552" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡日吉津村日吉津
+    a mo:町域 ;
     rdfs:label "日吉津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893553" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町
     rdfs:label "西伯郡大山町"@ja ;
@@ -5825,272 +8083,406 @@ mr:JP_鳥取県西伯郡大山町
 a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町赤坂
+    a mo:町域 ;
     rdfs:label "赤坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893111" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町赤松
+    a mo:町域 ;
     rdfs:label "赤松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893319" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町稲光
+    a mo:町域 ;
     rdfs:label "稲光"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893334" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町今在家
+    a mo:町域 ;
     rdfs:label "今在家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893314" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町石井垣
+    a mo:町域 ;
     rdfs:label "石井垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893102" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893302" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町上市
+    a mo:町域 ;
     rdfs:label "上市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893124" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町大塚
+    a mo:町域 ;
     rdfs:label "大塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893226" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町岡
+    a mo:町域 ;
     rdfs:label "岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893121" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町押平
+    a mo:町域 ;
     rdfs:label "押平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893225" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町加茂
+    a mo:町域 ;
     rdfs:label "加茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町神原
+    a mo:町域 ;
     rdfs:label "神原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893305" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町清原
+    a mo:町域 ;
     rdfs:label "清原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893308" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町国信
+    a mo:町域 ;
     rdfs:label "国信"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893309" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町倉谷
+    a mo:町域 ;
     rdfs:label "倉谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893202" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町小竹
+    a mo:町域 ;
     rdfs:label "小竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893203" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町古御堂
+    a mo:町域 ;
     rdfs:label "古御堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893222" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町栄田
+    a mo:町域 ;
     rdfs:label "栄田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893115" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町佐摩
+    a mo:町域 ;
     rdfs:label "佐摩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893313" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町塩津
+    a mo:町域 ;
     rdfs:label "塩津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893122" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町下市
+    a mo:町域 ;
     rdfs:label "下市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893125" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町下甲
+    a mo:町域 ;
     rdfs:label "下甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893112" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町荘田
+    a mo:町域 ;
     rdfs:label "荘田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893323" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町上万
+    a mo:町域 ;
     rdfs:label "上万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893335" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町末長
+    a mo:町域 ;
     rdfs:label "末長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893332" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町末吉
+    a mo:町域 ;
     rdfs:label "末吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893331" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町住吉
+    a mo:町域 ;
     rdfs:label "住吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893123" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町退休寺
+    a mo:町域 ;
     rdfs:label "退休寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893133" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町大山
+    a mo:町域 ;
     rdfs:label "大山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893318" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町高田
+    a mo:町域 ;
     rdfs:label "高田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町高橋
+    a mo:町域 ;
     rdfs:label "高橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893134" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町鈑戸
+    a mo:町域 ;
     rdfs:label "鈑戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893317" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町田中
+    a mo:町域 ;
     rdfs:label "田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893114" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町茶畑
+    a mo:町域 ;
     rdfs:label "茶畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町潮音寺
+    a mo:町域 ;
     rdfs:label "潮音寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893101" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町束積
+    a mo:町域 ;
     rdfs:label "束積"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893105" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町唐王
+    a mo:町域 ;
     rdfs:label "唐王"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893333" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町所子
+    a mo:町域 ;
     rdfs:label "所子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893303" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町殿河内
+    a mo:町域 ;
     rdfs:label "殿河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893135" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町富岡
+    a mo:町域 ;
     rdfs:label "富岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893325" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町富長
+    a mo:町域 ;
     rdfs:label "富長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町豊成
+    a mo:町域 ;
     rdfs:label "豊成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893201" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町豊房
+    a mo:町域 ;
     rdfs:label "豊房"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893316" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町長田
+    a mo:町域 ;
     rdfs:label "長田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893322" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町中高
+    a mo:町域 ;
     rdfs:label "中高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893306" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町長野
+    a mo:町域 ;
     rdfs:label "長野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893136" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町名和
+    a mo:町域 ;
     rdfs:label "名和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町西坪
+    a mo:町域 ;
     rdfs:label "西坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893205" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町野田
+    a mo:町域 ;
     rdfs:label "野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893307" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町羽田井
+    a mo:町域 ;
     rdfs:label "羽田井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893106" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町東坪
+    a mo:町域 ;
     rdfs:label "東坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893204" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町樋口
+    a mo:町域 ;
     rdfs:label "樋口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893103" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町平
+    a mo:町域 ;
     rdfs:label "平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893321" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町平木
+    a mo:町域 ;
     rdfs:label "平木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893304" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町平田
+    a mo:町域 ;
     rdfs:label "平田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893336" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町福尾
+    a mo:町域 ;
     rdfs:label "福尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893301" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町坊領
+    a mo:町域 ;
     rdfs:label "坊領"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893312" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町前
+    a mo:町域 ;
     rdfs:label "前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893315" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町松河原
+    a mo:町域 ;
     rdfs:label "松河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893132" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町御来屋
+    a mo:町域 ;
     rdfs:label "御来屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町御崎
+    a mo:町域 ;
     rdfs:label "御崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893113" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町宮内
+    a mo:町域 ;
     rdfs:label "宮内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893311" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町妻木
+    a mo:町域 ;
     rdfs:label "妻木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893324" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町門前
+    a mo:町域 ;
     rdfs:label "門前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町八重
+    a mo:町域 ;
     rdfs:label "八重"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893104" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町保田
+    a mo:町域 ;
     rdfs:label "保田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893327" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡大山町安原
+    a mo:町域 ;
     rdfs:label "安原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6893326" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町
     rdfs:label "西伯郡南部町"@ja ;
@@ -6150,208 +8542,310 @@ mr:JP_鳥取県西伯郡南部町
 a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町阿賀
+    a mo:町域 ;
     rdfs:label "阿賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830322" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町浅井
+    a mo:町域 ;
     rdfs:label "浅井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830227" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町朝金
+    a mo:町域 ;
     rdfs:label "朝金"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830216" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町池野
+    a mo:町域 ;
     rdfs:label "池野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830218" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町市山
+    a mo:町域 ;
     rdfs:label "市山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830222" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町井上
+    a mo:町域 ;
     rdfs:label "井上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町猪小路
+    a mo:町域 ;
     rdfs:label "猪小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830367" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町大木屋
+    a mo:町域 ;
     rdfs:label "大木屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830345" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町荻名
+    a mo:町域 ;
     rdfs:label "荻名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830215" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町落合
+    a mo:町域 ;
     rdfs:label "落合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830337" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町掛相
+    a mo:町域 ;
     rdfs:label "掛相"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830331" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町金田
+    a mo:町域 ;
     rdfs:label "金田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町上中谷
+    a mo:町域 ;
     rdfs:label "上中谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830344" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町鴨部
+    a mo:町域 ;
     rdfs:label "鴨部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830341" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町北方
+    a mo:町域 ;
     rdfs:label "北方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830361" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町絹屋
+    a mo:町域 ;
     rdfs:label "絹屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830364" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町伐株
+    a mo:町域 ;
     rdfs:label "伐株"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830356" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町境
+    a mo:町域 ;
     rdfs:label "境"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830311" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町清水川
+    a mo:町域 ;
     rdfs:label "清水川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830321" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町下中谷
+    a mo:町域 ;
     rdfs:label "下中谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830343" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町高姫
+    a mo:町域 ;
     rdfs:label "高姫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830226" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町武信
+    a mo:町域 ;
     rdfs:label "武信"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830354" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町田住
+    a mo:町域 ;
     rdfs:label "田住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町鶴田
+    a mo:町域 ;
     rdfs:label "鶴田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830217" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町寺内
+    a mo:町域 ;
     rdfs:label "寺内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830202" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町天万
+    a mo:町域 ;
     rdfs:label "天万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830201" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町道河内
+    a mo:町域 ;
     rdfs:label "道河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830355" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町東上
+    a mo:町域 ;
     rdfs:label "東上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830334" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町徳長
+    a mo:町域 ;
     rdfs:label "徳長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830353" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町中
+    a mo:町域 ;
     rdfs:label "中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830335" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町鍋倉
+    a mo:町域 ;
     rdfs:label "鍋倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830365" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町西
+    a mo:町域 ;
     rdfs:label "西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830363" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町西原
+    a mo:町域 ;
     rdfs:label "西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町西町
+    a mo:町域 ;
     rdfs:label "西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830302" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町能竹
+    a mo:町域 ;
     rdfs:label "能竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830342" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町馬佐良
+    a mo:町域 ;
     rdfs:label "馬佐良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830332" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町馬場
+    a mo:町域 ;
     rdfs:label "馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830352" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町原
+    a mo:町域 ;
     rdfs:label "原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830362" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830301" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町福里
+    a mo:町域 ;
     rdfs:label "福里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830204" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町福成
+    a mo:町域 ;
     rdfs:label "福成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830312" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町福頼
+    a mo:町域 ;
     rdfs:label "福頼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830336" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町法勝寺
+    a mo:町域 ;
     rdfs:label "法勝寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830351" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町円山
+    a mo:町域 ;
     rdfs:label "円山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町御内谷
+    a mo:町域 ;
     rdfs:label "御内谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830225" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町三崎
+    a mo:町域 ;
     rdfs:label "三崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830203" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町宮前
+    a mo:町域 ;
     rdfs:label "宮前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町諸木
+    a mo:町域 ;
     rdfs:label "諸木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町八金
+    a mo:町域 ;
     rdfs:label "八金"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830333" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町倭
+    a mo:町域 ;
     rdfs:label "倭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830323" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡南部町与一谷
+    a mo:町域 ;
     rdfs:label "与一谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6830366" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町
     rdfs:label "西伯郡伯耆町"@ja ;
@@ -6415,224 +8909,334 @@ mr:JP_鳥取県西伯郡伯耆町
 a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町岩立
+    a mo:町域 ;
     rdfs:label "岩立"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町岩屋谷
+    a mo:町域 ;
     rdfs:label "岩屋谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894123" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町宇代
+    a mo:町域 ;
     rdfs:label "宇代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894207" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町遠藤
+    a mo:町域 ;
     rdfs:label "遠藤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894134" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町大内
+    a mo:町域 ;
     rdfs:label "大内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894215" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町大江
+    a mo:町域 ;
     rdfs:label "大江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町大倉
+    a mo:町域 ;
     rdfs:label "大倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894205" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町大坂
+    a mo:町域 ;
     rdfs:label "大坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894226" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町大滝
+    a mo:町域 ;
     rdfs:label "大滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894222" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町大殿
+    a mo:町域 ;
     rdfs:label "大殿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894121" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町大原
+    a mo:町域 ;
     rdfs:label "大原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894102" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町押口
+    a mo:町域 ;
     rdfs:label "押口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894135" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町小野
+    a mo:町域 ;
     rdfs:label "小野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894113" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町金屋谷
+    a mo:町域 ;
     rdfs:label "金屋谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町上細見
+    a mo:町域 ;
     rdfs:label "上細見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894112" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町岸本
+    a mo:町域 ;
     rdfs:label "岸本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894132" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町貴住
+    a mo:町域 ;
     rdfs:label "貴住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894203" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町清原
+    a mo:町域 ;
     rdfs:label "清原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894111" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町久古
+    a mo:町域 ;
     rdfs:label "久古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894105" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町口別所
+    a mo:町域 ;
     rdfs:label "口別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894106" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町小林
+    a mo:町域 ;
     rdfs:label "小林"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894101" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町小町
+    a mo:町域 ;
     rdfs:label "小町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894115" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町坂長
+    a mo:町域 ;
     rdfs:label "坂長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894122" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町三部
+    a mo:町域 ;
     rdfs:label "三部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894246" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町荘
+    a mo:町域 ;
     rdfs:label "荘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894243" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町白水
+    a mo:町域 ;
     rdfs:label "白水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894225" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町須村
+    a mo:町域 ;
     rdfs:label "須村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894107" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町添谷
+    a mo:町域 ;
     rdfs:label "添谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894217" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町立岩
+    a mo:町域 ;
     rdfs:label "立岩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894114" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町谷川
+    a mo:町域 ;
     rdfs:label "谷川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894204" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町父原
+    a mo:町域 ;
     rdfs:label "父原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894244" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町栃原
+    a mo:町域 ;
     rdfs:label "栃原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町富江
+    a mo:町域 ;
     rdfs:label "富江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町中祖
+    a mo:町域 ;
     rdfs:label "中祖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894241" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町長山
+    a mo:町域 ;
     rdfs:label "長山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894202" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町二部
+    a mo:町域 ;
     rdfs:label "二部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894233" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町根雨原
+    a mo:町域 ;
     rdfs:label "根雨原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町畑池
+    a mo:町域 ;
     rdfs:label "畑池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894234" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町番原
+    a mo:町域 ;
     rdfs:label "番原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894104" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町福居
+    a mo:町域 ;
     rdfs:label "福居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894237" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町福岡
+    a mo:町域 ;
     rdfs:label "福岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894235" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町福岡原
+    a mo:町域 ;
     rdfs:label "福岡原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894136" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町福兼
+    a mo:町域 ;
     rdfs:label "福兼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894216" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町福島
+    a mo:町域 ;
     rdfs:label "福島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894232" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町福吉
+    a mo:町域 ;
     rdfs:label "福吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894245" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町船越
+    a mo:町域 ;
     rdfs:label "船越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894231" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町古市
+    a mo:町域 ;
     rdfs:label "古市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894242" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町真野
+    a mo:町域 ;
     rdfs:label "真野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894103" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町丸山
+    a mo:町域 ;
     rdfs:label "丸山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894108" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町溝口
+    a mo:町域 ;
     rdfs:label "溝口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894201" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町宮原
+    a mo:町域 ;
     rdfs:label "宮原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894206" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町焼杉
+    a mo:町域 ;
     rdfs:label "焼杉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894236" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町吉定
+    a mo:町域 ;
     rdfs:label "吉定"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894131" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県西伯郡伯耆町吉長
+    a mo:町域 ;
     rdfs:label "吉長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894133" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町
     rdfs:label "日野郡日南町"@ja ;
@@ -6673,132 +9277,196 @@ mr:JP_鳥取県日野郡日南町
 a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町阿毘縁
+    a mo:町域 ;
     rdfs:label "阿毘縁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895551" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町印賀
+    a mo:町域 ;
     rdfs:label "印賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895531" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町折渡
+    a mo:町域 ;
     rdfs:label "折渡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895534" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町笠木
+    a mo:町域 ;
     rdfs:label "笠木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895543" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町霞
+    a mo:町域 ;
     rdfs:label "霞"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895212" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町神戸上
+    a mo:町域 ;
     rdfs:label "神戸上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895662" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町上石見
+    a mo:町域 ;
     rdfs:label "上石見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895663" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町上萩山
+    a mo:町域 ;
     rdfs:label "上萩山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895223" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町神福
+    a mo:町域 ;
     rdfs:label "神福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895672" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町河上
+    a mo:町域 ;
     rdfs:label "河上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895221" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町佐木谷
+    a mo:町域 ;
     rdfs:label "佐木谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895541" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町下阿毘縁
+    a mo:町域 ;
     rdfs:label "下阿毘縁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895552" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町下石見
+    a mo:町域 ;
     rdfs:label "下石見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895665" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町生山
+    a mo:町域 ;
     rdfs:label "生山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895211" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町菅沢
+    a mo:町域 ;
     rdfs:label "菅沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895532" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町宝谷
+    a mo:町域 ;
     rdfs:label "宝谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895533" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町多里
+    a mo:町域 ;
     rdfs:label "多里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895224" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町茶屋
+    a mo:町域 ;
     rdfs:label "茶屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895544" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町豊栄
+    a mo:町域 ;
     rdfs:label "豊栄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895673" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町中石見
+    a mo:町域 ;
     rdfs:label "中石見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895664" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町新屋
+    a mo:町域 ;
     rdfs:label "新屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895225" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町萩原
+    a mo:町域 ;
     rdfs:label "萩原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895222" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町花口
+    a mo:町域 ;
     rdfs:label "花口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895661" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町福寿実
+    a mo:町域 ;
     rdfs:label "福寿実"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895545" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町福塚
+    a mo:町域 ;
     rdfs:label "福塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895671" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町福万来
+    a mo:町域 ;
     rdfs:label "福万来"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895542" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町丸山
+    a mo:町域 ;
     rdfs:label "丸山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895213" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町三栄
+    a mo:町域 ;
     rdfs:label "三栄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895214" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町宮内
+    a mo:町域 ;
     rdfs:label "宮内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895216" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町三吉
+    a mo:町域 ;
     rdfs:label "三吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895666" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町矢戸
+    a mo:町域 ;
     rdfs:label "矢戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895215" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日南町湯河
+    a mo:町域 ;
     rdfs:label "湯河"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895226" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町
     rdfs:label "日野郡日野町"@ja ;
@@ -6834,112 +9502,166 @@ mr:JP_鳥取県日野郡日野町
 a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町秋縄
+    a mo:町域 ;
     rdfs:label "秋縄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894515" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町板井原
+    a mo:町域 ;
     rdfs:label "板井原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894513" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町榎市
+    a mo:町域 ;
     rdfs:label "榎市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894523" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町小河内
+    a mo:町域 ;
     rdfs:label "小河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895136" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町貝原
+    a mo:町域 ;
     rdfs:label "貝原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894501" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町門谷
+    a mo:町域 ;
     rdfs:label "門谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894516" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町上菅
+    a mo:町域 ;
     rdfs:label "上菅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895137" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町金持
+    a mo:町域 ;
     rdfs:label "金持"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894512" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町久住
+    a mo:町域 ;
     rdfs:label "久住"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895132" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町黒坂
+    a mo:町域 ;
     rdfs:label "黒坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895131" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町高尾
+    a mo:町域 ;
     rdfs:label "高尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894511" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町小原
+    a mo:町域 ;
     rdfs:label "小原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894525" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町下榎
+    a mo:町域 ;
     rdfs:label "下榎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894526" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町下黒坂
+    a mo:町域 ;
     rdfs:label "下黒坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895133" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町下菅
+    a mo:町域 ;
     rdfs:label "下菅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895134" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町津地
+    a mo:町域 ;
     rdfs:label "津地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894521" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町中菅
+    a mo:町域 ;
     rdfs:label "中菅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895135" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町濁谷
+    a mo:町域 ;
     rdfs:label "濁谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894517" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町根雨
+    a mo:町域 ;
     rdfs:label "根雨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894503" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町野田
+    a mo:町域 ;
     rdfs:label "野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894504" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町福長
+    a mo:町域 ;
     rdfs:label "福長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6895137" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町舟場
+    a mo:町域 ;
     rdfs:label "舟場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894505" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町別所
+    a mo:町域 ;
     rdfs:label "別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894524" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町本郷
+    a mo:町域 ;
     rdfs:label "本郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894522" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町三谷
+    a mo:町域 ;
     rdfs:label "三谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894502" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町三土
+    a mo:町域 ;
     rdfs:label "三土"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894514" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡日野町安原
+    a mo:町域 ;
     rdfs:label "安原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894527" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町
     rdfs:label "日野郡江府町"@ja ;
@@ -6966,74 +9688,110 @@ mr:JP_鳥取県日野郡江府町
 a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町江尾
+    a mo:町域 ;
     rdfs:label "江尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894401" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町大河原
+    a mo:町域 ;
     rdfs:label "大河原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894434" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町貝田
+    a mo:町域 ;
     rdfs:label "貝田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894435" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町柿原
+    a mo:町域 ;
     rdfs:label "柿原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894432" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町久連
+    a mo:町域 ;
     rdfs:label "久連"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894403" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町小江尾
+    a mo:町域 ;
     rdfs:label "小江尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894402" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町下蚊屋
+    a mo:町域 ;
     rdfs:label "下蚊屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894425" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町佐川
+    a mo:町域 ;
     rdfs:label "佐川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894431" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町下安井
+    a mo:町域 ;
     rdfs:label "下安井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894412" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町洲河崎
+    a mo:町域 ;
     rdfs:label "洲河崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894413" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町杉谷
+    a mo:町域 ;
     rdfs:label "杉谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894422" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町助沢
+    a mo:町域 ;
     rdfs:label "助沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894426" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町俣野
+    a mo:町域 ;
     rdfs:label "俣野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894414" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町御机
+    a mo:町域 ;
     rdfs:label "御机"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894424" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町宮市
+    a mo:町域 ;
     rdfs:label "宮市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894421" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町美用
+    a mo:町域 ;
     rdfs:label "美用"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894423" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町武庫
+    a mo:町域 ;
     rdfs:label "武庫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894411" ;
+a mo:GeoEntity .
 
 mr:JP_鳥取県日野郡江府町吉原
+    a mo:町域 ;
     rdfs:label "吉原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6894433" ;
+a mo:GeoEntity .
 

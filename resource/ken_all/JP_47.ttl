@@ -140,316 +140,472 @@ mr:JP_沖縄県那覇市
 a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市赤嶺
+    a mo:町域 ;
     rdfs:label "赤嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010154" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市曙
+    a mo:町域 ;
     rdfs:label "曙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000002" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市安里
+    a mo:町域 ;
     rdfs:label "安里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020067" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市旭町
+    a mo:町域 ;
     rdfs:label "旭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000029" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市安次嶺
+    a mo:町域 ;
     rdfs:label "安次嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010143" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市安謝
+    a mo:町域 ;
     rdfs:label "安謝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000003" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市天久
+    a mo:町域 ;
     rdfs:label "天久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000005" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市泉崎
+    a mo:町域 ;
     rdfs:label "泉崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000021" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市上之屋
+    a mo:町域 ;
     rdfs:label "上之屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000011" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市宇栄原
+    a mo:町域 ;
     rdfs:label "宇栄原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010153" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市上間
+    a mo:町域 ;
     rdfs:label "上間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020073" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市奥武山町
+    a mo:町域 ;
     rdfs:label "奥武山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000026" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市大嶺
+    a mo:町域 ;
     rdfs:label "大嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010148" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市おもろまち
+    a mo:町域 ;
     rdfs:label "おもろまち"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000006" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市小禄
+    a mo:町域 ;
     rdfs:label "小禄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010152" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市鏡水
+    a mo:町域 ;
     rdfs:label "鏡水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010142" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市垣花町
+    a mo:町域 ;
     rdfs:label "垣花町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000028" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市金城
+    a mo:町域 ;
     rdfs:label "金城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010155" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市鏡原町
+    a mo:町域 ;
     rdfs:label "鏡原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010151" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市具志
+    a mo:町域 ;
     rdfs:label "具志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010146" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市久米
+    a mo:町域 ;
     rdfs:label "久米"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000033" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市久茂地
+    a mo:町域 ;
     rdfs:label "久茂地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000015" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市国場
+    a mo:町域 ;
     rdfs:label "国場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020075" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市古波蔵
+    a mo:町域 ;
     rdfs:label "古波蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000024" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市識名
+    a mo:町域 ;
     rdfs:label "識名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020078" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里赤田町
+    a mo:町域 ;
     rdfs:label "首里赤田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030813" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里赤平町
+    a mo:町域 ;
     rdfs:label "首里赤平町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030811" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里池端町
+    a mo:町域 ;
     rdfs:label "首里池端町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030824" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里石嶺町
+    a mo:町域 ;
     rdfs:label "首里石嶺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030804" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里大中町
+    a mo:町域 ;
     rdfs:label "首里大中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030823" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里大名町
+    a mo:町域 ;
     rdfs:label "首里大名町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030802" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里金城町
+    a mo:町域 ;
     rdfs:label "首里金城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030815" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里儀保町
+    a mo:町域 ;
     rdfs:label "首里儀保町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030821" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里久場川町
+    a mo:町域 ;
     rdfs:label "首里久場川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030807" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里崎山町
+    a mo:町域 ;
     rdfs:label "首里崎山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030814" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里寒川町
+    a mo:町域 ;
     rdfs:label "首里寒川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030826" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里末吉町
+    a mo:町域 ;
     rdfs:label "首里末吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030801" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里平良町
+    a mo:町域 ;
     rdfs:label "首里平良町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030803" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里汀良町
+    a mo:町域 ;
     rdfs:label "首里汀良町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030806" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里当蔵町
+    a mo:町域 ;
     rdfs:label "首里当蔵町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030812" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里桃原町
+    a mo:町域 ;
     rdfs:label "首里桃原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030822" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里鳥堀町
+    a mo:町域 ;
     rdfs:label "首里鳥堀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030805" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里真和志町
+    a mo:町域 ;
     rdfs:label "首里真和志町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030816" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市首里山川町
+    a mo:町域 ;
     rdfs:label "首里山川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030825" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市住吉町
+    a mo:町域 ;
     rdfs:label "住吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010141" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市楚辺
+    a mo:町域 ;
     rdfs:label "楚辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000023" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市大道
+    a mo:町域 ;
     rdfs:label "大道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020066" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市高良
+    a mo:町域 ;
     rdfs:label "高良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010145" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市田原
+    a mo:町域 ;
     rdfs:label "田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010156" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市辻
+    a mo:町域 ;
     rdfs:label "辻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000037" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市壺川
+    a mo:町域 ;
     rdfs:label "壺川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000025" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市壺屋
+    a mo:町域 ;
     rdfs:label "壺屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020065" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市当間
+    a mo:町域 ;
     rdfs:label "当間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010144" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市泊
+    a mo:町域 ;
     rdfs:label "泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000012" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市通堂町
+    a mo:町域 ;
     rdfs:label "通堂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000035" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市仲井真
+    a mo:町域 ;
     rdfs:label "仲井真"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020074" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市長田
+    a mo:町域 ;
     rdfs:label "長田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020077" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市西
+    a mo:町域 ;
     rdfs:label "西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000036" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市繁多川
+    a mo:町域 ;
     rdfs:label "繁多川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020071" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000034" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市樋川
+    a mo:町域 ;
     rdfs:label "樋川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000022" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市古島
+    a mo:町域 ;
     rdfs:label "古島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020061" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市真地
+    a mo:町域 ;
     rdfs:label "真地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020072" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市前島
+    a mo:町域 ;
     rdfs:label "前島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000016" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市真嘉比
+    a mo:町域 ;
     rdfs:label "真嘉比"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020068" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市牧志
+    a mo:町域 ;
     rdfs:label "牧志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000013" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市松尾
+    a mo:町域 ;
     rdfs:label "松尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000014" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市松川
+    a mo:町域 ;
     rdfs:label "松川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020062" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市松島
+    a mo:町域 ;
     rdfs:label "松島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020069" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市松山
+    a mo:町域 ;
     rdfs:label "松山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000032" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000001" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市三原
+    a mo:町域 ;
     rdfs:label "三原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020063" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市宮城
+    a mo:町域 ;
     rdfs:label "宮城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010147" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市銘苅
+    a mo:町域 ;
     rdfs:label "銘苅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000004" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市山下町
+    a mo:町域 ;
     rdfs:label "山下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000027" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市与儀
+    a mo:町域 ;
     rdfs:label "与儀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020076" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市寄宮
+    a mo:町域 ;
     rdfs:label "寄宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9020064" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県那覇市若狭
+    a mo:町域 ;
     rdfs:label "若狭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9000031" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市
     rdfs:label "宜野湾市"@ja ;
@@ -478,84 +634,124 @@ mr:JP_沖縄県宜野湾市
 a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市愛知
+    a mo:町域 ;
     rdfs:label "愛知"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012206" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市赤道
+    a mo:町域 ;
     rdfs:label "赤道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012205" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市新城
+    a mo:町域 ;
     rdfs:label "新城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市伊佐
+    a mo:町域 ;
     rdfs:label "伊佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012221" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市上原
+    a mo:町域 ;
     rdfs:label "上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012204" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市宇地泊
+    a mo:町域 ;
     rdfs:label "宇地泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012227" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市大謝名
+    a mo:町域 ;
     rdfs:label "大謝名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012225" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市大山
+    a mo:町域 ;
     rdfs:label "大山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012223" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市嘉数
+    a mo:町域 ;
     rdfs:label "嘉数"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012226" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市我如古
+    a mo:町域 ;
     rdfs:label "我如古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012214" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市神山
+    a mo:町域 ;
     rdfs:label "神山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012207" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市宜野湾
+    a mo:町域 ;
     rdfs:label "宜野湾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012211" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市喜友名
+    a mo:町域 ;
     rdfs:label "喜友名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012222" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市佐真下
+    a mo:町域 ;
     rdfs:label "佐真下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012216" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市志真志
+    a mo:町域 ;
     rdfs:label "志真志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012213" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市長田
+    a mo:町域 ;
     rdfs:label "長田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012212" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市野嵩
+    a mo:町域 ;
     rdfs:label "野嵩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市普天間
+    a mo:町域 ;
     rdfs:label "普天間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市真栄原
+    a mo:町域 ;
     rdfs:label "真栄原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012215" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宜野湾市真志喜
+    a mo:町域 ;
     rdfs:label "真志喜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012224" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市
     rdfs:label "石垣市"@ja ;
@@ -588,100 +784,148 @@ mr:JP_沖縄県石垣市
 a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市新川
+    a mo:町域 ;
     rdfs:label "新川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070024" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市石垣
+    a mo:町域 ;
     rdfs:label "石垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070023" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市伊原間
+    a mo:町域 ;
     rdfs:label "伊原間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070332" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市大川
+    a mo:町域 ;
     rdfs:label "大川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070022" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市大浜
+    a mo:町域 ;
     rdfs:label "大浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070001" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市川平
+    a mo:町域 ;
     rdfs:label "川平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070453" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市崎枝
+    a mo:町域 ;
     rdfs:label "崎枝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070452" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市白保
+    a mo:町域 ;
     rdfs:label "白保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070242" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市新栄町
+    a mo:町域 ;
     rdfs:label "新栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070014" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市桃里
+    a mo:町域 ;
     rdfs:label "桃里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070241" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市登野城
+    a mo:町域 ;
     rdfs:label "登野城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070004" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市登野城尖閣
+    a mo:町域 ;
     rdfs:label "登野城尖閣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070031" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市名蔵
+    a mo:町域 ;
     rdfs:label "名蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070021" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市野底
+    a mo:町域 ;
     rdfs:label "野底"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070333" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市南ぬ浜町
+    a mo:町域 ;
     rdfs:label "南ぬ浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070015" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市浜崎町
+    a mo:町域 ;
     rdfs:label "浜崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070013" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市平得
+    a mo:町域 ;
     rdfs:label "平得"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070003" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市平久保
+    a mo:町域 ;
     rdfs:label "平久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070331" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市桴海
+    a mo:町域 ;
     rdfs:label "桴海"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070451" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市真栄里
+    a mo:町域 ;
     rdfs:label "真栄里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070002" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市美崎町
+    a mo:町域 ;
     rdfs:label "美崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070012" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市宮良
+    a mo:町域 ;
     rdfs:label "宮良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070243" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市盛山
+    a mo:町域 ;
     rdfs:label "盛山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070244" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県石垣市八島町
+    a mo:町域 ;
     rdfs:label "八島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9070011" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市
     rdfs:label "浦添市"@ja ;
@@ -710,84 +954,124 @@ mr:JP_沖縄県浦添市
 a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市安波茶
+    a mo:町域 ;
     rdfs:label "安波茶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012114" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市伊祖
+    a mo:町域 ;
     rdfs:label "伊祖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012132" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市伊奈武瀬
+    a mo:町域 ;
     rdfs:label "伊奈武瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012128" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市西洲
+    a mo:町域 ;
     rdfs:label "西洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012123" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市内間
+    a mo:町域 ;
     rdfs:label "内間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012121" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市大平
+    a mo:町域 ;
     rdfs:label "大平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012113" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市経塚
+    a mo:町域 ;
     rdfs:label "経塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012111" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市城間
+    a mo:町域 ;
     rdfs:label "城間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012133" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市小湾
+    a mo:町域 ;
     rdfs:label "小湾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012124" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市勢理客
+    a mo:町域 ;
     rdfs:label "勢理客"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012122" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市沢岻
+    a mo:町域 ;
     rdfs:label "沢岻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012112" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市当山
+    a mo:町域 ;
     rdfs:label "当山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012104" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市仲間
+    a mo:町域 ;
     rdfs:label "仲間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012103" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市仲西
+    a mo:町域 ;
     rdfs:label "仲西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012125" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市西原
+    a mo:町域 ;
     rdfs:label "西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012101" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市前田
+    a mo:町域 ;
     rdfs:label "前田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012102" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市牧港
+    a mo:町域 ;
     rdfs:label "牧港"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012131" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市港川
+    a mo:町域 ;
     rdfs:label "港川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012134" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市宮城
+    a mo:町域 ;
     rdfs:label "宮城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012126" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県浦添市屋富祖
+    a mo:町域 ;
     rdfs:label "屋富祖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012127" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市
     rdfs:label "名護市"@ja ;
@@ -850,220 +1134,328 @@ mr:JP_沖縄県名護市
 a mo:GeoEntity .
 
 mr:JP_沖縄県名護市東江
+    a mo:町域 ;
     rdfs:label "東江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050021" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市旭川
+    a mo:町域 ;
     rdfs:label "旭川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050003" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市安部
+    a mo:町域 ;
     rdfs:label "安部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052263" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市安和
+    a mo:町域 ;
     rdfs:label "安和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050001" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市伊差川
+    a mo:町域 ;
     rdfs:label "伊差川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051152" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市稲嶺
+    a mo:町域 ;
     rdfs:label "稲嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051142" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市宇茂佐
+    a mo:町域 ;
     rdfs:label "宇茂佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050006" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市宇茂佐の森
+    a mo:町域 ;
     rdfs:label "宇茂佐の森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050009" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市運天原
+    a mo:町域 ;
     rdfs:label "運天原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051634" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市大浦
+    a mo:町域 ;
     rdfs:label "大浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052267" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市大川
+    a mo:町域 ;
     rdfs:label "大川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052268" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市大北
+    a mo:町域 ;
     rdfs:label "大北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050019" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市大中
+    a mo:町域 ;
     rdfs:label "大中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050017" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市大西
+    a mo:町域 ;
     rdfs:label "大西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050018" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市大東
+    a mo:町域 ;
     rdfs:label "大東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050016" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市大南
+    a mo:町域 ;
     rdfs:label "大南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050015" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市親川
+    a mo:町域 ;
     rdfs:label "親川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051146" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市勝山
+    a mo:町域 ;
     rdfs:label "勝山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050002" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市我部
+    a mo:町域 ;
     rdfs:label "我部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051633" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市我部祖河
+    a mo:町域 ;
     rdfs:label "我部祖河"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051155" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市嘉陽
+    a mo:町域 ;
     rdfs:label "嘉陽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052262" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市川上
+    a mo:町域 ;
     rdfs:label "川上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051145" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市喜瀬
+    a mo:町域 ;
     rdfs:label "喜瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050026" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市許田
+    a mo:町域 ;
     rdfs:label "許田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050024" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市久志
+    a mo:町域 ;
     rdfs:label "久志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052173" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市城
+    a mo:町域 ;
     rdfs:label "城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050013" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市源河
+    a mo:町域 ;
     rdfs:label "源河"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051141" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市幸喜
+    a mo:町域 ;
     rdfs:label "幸喜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050025" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市呉我
+    a mo:町域 ;
     rdfs:label "呉我"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051154" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市古我知
+    a mo:町域 ;
     rdfs:label "古我知"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051156" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市数久田
+    a mo:町域 ;
     rdfs:label "数久田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050023" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市済井出
+    a mo:町域 ;
     rdfs:label "済井出"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051635" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市瀬嵩
+    a mo:町域 ;
     rdfs:label "瀬嵩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052266" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市田井等
+    a mo:町域 ;
     rdfs:label "田井等"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051147" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市汀間
+    a mo:町域 ;
     rdfs:label "汀間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052265" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市天仁屋
+    a mo:町域 ;
     rdfs:label "天仁屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052261" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市豊原
+    a mo:町域 ;
     rdfs:label "豊原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052172" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市仲尾
+    a mo:町域 ;
     rdfs:label "仲尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051153" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市仲尾次
+    a mo:町域 ;
     rdfs:label "仲尾次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051144" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050004" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市名護
+    a mo:町域 ;
     rdfs:label "名護"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050012" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市為又
+    a mo:町域 ;
     rdfs:label "為又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050005" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市二見
+    a mo:町域 ;
     rdfs:label "二見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052269" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市振慶名
+    a mo:町域 ;
     rdfs:label "振慶名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051151" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市辺野古
+    a mo:町域 ;
     rdfs:label "辺野古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052171" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市真喜屋
+    a mo:町域 ;
     rdfs:label "真喜屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051143" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市港
+    a mo:町域 ;
     rdfs:label "港"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050014" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市三原
+    a mo:町域 ;
     rdfs:label "三原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9052264" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市宮里
+    a mo:町域 ;
     rdfs:label "宮里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050011" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市屋我
+    a mo:町域 ;
     rdfs:label "屋我"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051631" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市屋部
+    a mo:町域 ;
     rdfs:label "屋部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050007" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市山入端
+    a mo:町域 ;
     rdfs:label "山入端"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050008" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市世冨慶
+    a mo:町域 ;
     rdfs:label "世冨慶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050022" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県名護市饒平名
+    a mo:町域 ;
     rdfs:label "饒平名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051632" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市
     rdfs:label "糸満市"@ja ;
@@ -1107,144 +1499,214 @@ mr:JP_沖縄県糸満市
 a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市阿波根
+    a mo:町域 ;
     rdfs:label "阿波根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010301" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市新垣
+    a mo:町域 ;
     rdfs:label "新垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010323" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市伊敷
+    a mo:町域 ;
     rdfs:label "伊敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010363" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市糸洲
+    a mo:町域 ;
     rdfs:label "糸洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010342" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市糸満
+    a mo:町域 ;
     rdfs:label "糸満"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010361" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市伊原
+    a mo:町域 ;
     rdfs:label "伊原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010344" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市宇江城
+    a mo:町域 ;
     rdfs:label "宇江城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010332" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市大里
+    a mo:町域 ;
     rdfs:label "大里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010325" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市大度
+    a mo:町域 ;
     rdfs:label "大度"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010334" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市賀数
+    a mo:町域 ;
     rdfs:label "賀数"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010313" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市兼城
+    a mo:町域 ;
     rdfs:label "兼城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010303" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市北波平
+    a mo:町域 ;
     rdfs:label "北波平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010312" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市喜屋武
+    a mo:町域 ;
     rdfs:label "喜屋武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010354" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市国吉
+    a mo:町域 ;
     rdfs:label "国吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010324" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市小波蔵
+    a mo:町域 ;
     rdfs:label "小波蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010341" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市米須
+    a mo:町域 ;
     rdfs:label "米須"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010335" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市座波
+    a mo:町域 ;
     rdfs:label "座波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010314" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市潮崎町
+    a mo:町域 ;
     rdfs:label "潮崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010364" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市潮平
+    a mo:町域 ;
     rdfs:label "潮平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010302" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市武富
+    a mo:町域 ;
     rdfs:label "武富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010311" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市束里
+    a mo:町域 ;
     rdfs:label "束里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010353" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市照屋
+    a mo:町域 ;
     rdfs:label "照屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010315" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市豊原
+    a mo:町域 ;
     rdfs:label "豊原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010321" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市名城
+    a mo:町域 ;
     rdfs:label "名城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010351" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市西川町
+    a mo:町域 ;
     rdfs:label "西川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010304" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市西崎
+    a mo:町域 ;
     rdfs:label "西崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010305" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市西崎町
+    a mo:町域 ;
     rdfs:label "西崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010306" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市福地
+    a mo:町域 ;
     rdfs:label "福地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010345" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市真栄里
+    a mo:町域 ;
     rdfs:label "真栄里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010362" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市真栄平
+    a mo:町域 ;
     rdfs:label "真栄平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010331" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市真壁
+    a mo:町域 ;
     rdfs:label "真壁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010336" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市摩文仁
+    a mo:町域 ;
     rdfs:label "摩文仁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010333" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市南波平
+    a mo:町域 ;
     rdfs:label "南波平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010343" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市山城
+    a mo:町域 ;
     rdfs:label "山城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010352" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県糸満市与座
+    a mo:町域 ;
     rdfs:label "与座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010322" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市
     rdfs:label "沖縄市"@ja ;
@@ -1294,168 +1756,250 @@ mr:JP_沖縄県沖縄市
 a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市明道
+    a mo:町域 ;
     rdfs:label "明道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042152" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市安慶田
+    a mo:町域 ;
     rdfs:label "安慶田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040012" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市泡瀬
+    a mo:町域 ;
     rdfs:label "泡瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042172" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市池原
+    a mo:町域 ;
     rdfs:label "池原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042141" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市上地
+    a mo:町域 ;
     rdfs:label "上地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040031" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市大里
+    a mo:町域 ;
     rdfs:label "大里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042163" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市海邦
+    a mo:町域 ;
     rdfs:label "海邦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042162" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市海邦町
+    a mo:町域 ;
     rdfs:label "海邦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042162" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市嘉間良
+    a mo:町域 ;
     rdfs:label "嘉間良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040005" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市久保田
+    a mo:町域 ;
     rdfs:label "久保田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040023" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市倉敷
+    a mo:町域 ;
     rdfs:label "倉敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042145" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市古謝
+    a mo:町域 ;
     rdfs:label "古謝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042161" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市古謝津嘉山町
+    a mo:町域 ;
     rdfs:label "古謝津嘉山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042166" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市越来
+    a mo:町域 ;
     rdfs:label "越来"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040001" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市胡屋
+    a mo:町域 ;
     rdfs:label "胡屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040021" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市潮乃森
+    a mo:町域 ;
     rdfs:label "潮乃森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042175" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市白川
+    a mo:町域 ;
     rdfs:label "白川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042144" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市城前町
+    a mo:町域 ;
     rdfs:label "城前町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040002" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市住吉
+    a mo:町域 ;
     rdfs:label "住吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040003" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市園田
+    a mo:町域 ;
     rdfs:label "園田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040022" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市高原
+    a mo:町域 ;
     rdfs:label "高原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042171" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市知花
+    a mo:町域 ;
     rdfs:label "知花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042143" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市中央
+    a mo:町域 ;
     rdfs:label "中央"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040004" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市照屋
+    a mo:町域 ;
     rdfs:label "照屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040011" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市桃原
+    a mo:町域 ;
     rdfs:label "桃原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042164" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市仲宗根町
+    a mo:町域 ;
     rdfs:label "仲宗根町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040014" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市登川
+    a mo:町域 ;
     rdfs:label "登川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042142" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市東
+    a mo:町域 ;
     rdfs:label "東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042154" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市比屋根
+    a mo:町域 ;
     rdfs:label "比屋根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042173" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市松本
+    a mo:町域 ;
     rdfs:label "松本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042151" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市美里
+    a mo:町域 ;
     rdfs:label "美里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042153" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市美里仲原町
+    a mo:町域 ;
     rdfs:label "美里仲原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042156" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市南桃原
+    a mo:町域 ;
     rdfs:label "南桃原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040035" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市美原
+    a mo:町域 ;
     rdfs:label "美原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042155" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市宮里
+    a mo:町域 ;
     rdfs:label "宮里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042165" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市室川
+    a mo:町域 ;
     rdfs:label "室川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040013" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市諸見里
+    a mo:町域 ;
     rdfs:label "諸見里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040032" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市八重島
+    a mo:町域 ;
     rdfs:label "八重島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040006" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市山内
+    a mo:町域 ;
     rdfs:label "山内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040034" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市山里
+    a mo:町域 ;
     rdfs:label "山里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040033" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県沖縄市与儀
+    a mo:町域 ;
     rdfs:label "与儀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042174" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市
     rdfs:label "豊見城市"@ja ;
@@ -1488,100 +2032,148 @@ mr:JP_沖縄県豊見城市
 a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市伊良波
+    a mo:町域 ;
     rdfs:label "伊良波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010232" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市上田
+    a mo:町域 ;
     rdfs:label "上田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010243" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市翁長
+    a mo:町域 ;
     rdfs:label "翁長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010223" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市嘉数
+    a mo:町域 ;
     rdfs:label "嘉数"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市我那覇
+    a mo:町域 ;
     rdfs:label "我那覇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010231" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市金良
+    a mo:町域 ;
     rdfs:label "金良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010204" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市宜保
+    a mo:町域 ;
     rdfs:label "宜保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010244" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市座安
+    a mo:町域 ;
     rdfs:label "座安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010221" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市瀬長
+    a mo:町域 ;
     rdfs:label "瀬長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010233" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市平良
+    a mo:町域 ;
     rdfs:label "平良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010212" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市高嶺
+    a mo:町域 ;
     rdfs:label "高嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010213" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市高安
+    a mo:町域 ;
     rdfs:label "高安"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010242" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市田頭
+    a mo:町域 ;
     rdfs:label "田頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010234" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市渡嘉敷
+    a mo:町域 ;
     rdfs:label "渡嘉敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010215" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市渡橋名
+    a mo:町域 ;
     rdfs:label "渡橋名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010222" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市豊見城
+    a mo:町域 ;
     rdfs:label "豊見城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010241" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市豊崎
+    a mo:町域 ;
     rdfs:label "豊崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010225" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市名嘉地
+    a mo:町域 ;
     rdfs:label "名嘉地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010235" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市長堂
+    a mo:町域 ;
     rdfs:label "長堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市根差部
+    a mo:町域 ;
     rdfs:label "根差部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010205" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市饒波
+    a mo:町域 ;
     rdfs:label "饒波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010211" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市保栄茂
+    a mo:町域 ;
     rdfs:label "保栄茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010214" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市真玉橋
+    a mo:町域 ;
     rdfs:label "真玉橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県豊見城市与根
+    a mo:町域 ;
     rdfs:label "与根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010224" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市
     rdfs:label "うるま市"@ja ;
@@ -1652,252 +2244,376 @@ mr:JP_沖縄県うるま市
 a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市赤野
+    a mo:町域 ;
     rdfs:label "赤野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042212" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市赤道
+    a mo:町域 ;
     rdfs:label "赤道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042245" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市安慶名
+    a mo:町域 ;
     rdfs:label "安慶名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042214" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川
+    a mo:町域 ;
     rdfs:label "石川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041106" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川赤崎
+    a mo:町域 ;
     rdfs:label "石川赤崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041103" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川東山
+    a mo:町域 ;
     rdfs:label "石川東山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041102" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川東山本町
+    a mo:町域 ;
     rdfs:label "石川東山本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041101" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川曙
+    a mo:町域 ;
     rdfs:label "石川曙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041107" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川石崎
+    a mo:町域 ;
     rdfs:label "石川石崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041104" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川伊波
+    a mo:町域 ;
     rdfs:label "石川伊波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041115" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川嘉手苅
+    a mo:町域 ;
     rdfs:label "石川嘉手苅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041114" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川白浜
+    a mo:町域 ;
     rdfs:label "石川白浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041105" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川楚南
+    a mo:町域 ;
     rdfs:label "石川楚南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041112" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川東恩納
+    a mo:町域 ;
     rdfs:label "石川東恩納"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041111" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川東恩納崎
+    a mo:町域 ;
     rdfs:label "石川東恩納崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041108" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市石川山城
+    a mo:町域 ;
     rdfs:label "石川山城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041113" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市西原
+    a mo:町域 ;
     rdfs:label "西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042204" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市上江洲
+    a mo:町域 ;
     rdfs:label "上江洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042222" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市宇堅
+    a mo:町域 ;
     rdfs:label "宇堅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042211" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市江洲
+    a mo:町域 ;
     rdfs:label "江洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042244" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市栄野比
+    a mo:町域 ;
     rdfs:label "栄野比"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042205" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市大田
+    a mo:町域 ;
     rdfs:label "大田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042224" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市勝連内間
+    a mo:町域 ;
     rdfs:label "勝連内間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042313" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市勝連津堅
+    a mo:町域 ;
     rdfs:label "勝連津堅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042317" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市勝連南風原
+    a mo:町域 ;
     rdfs:label "勝連南風原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042311" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市勝連浜
+    a mo:町域 ;
     rdfs:label "勝連浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042315" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市勝連比嘉
+    a mo:町域 ;
     rdfs:label "勝連比嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042316" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市勝連平敷屋
+    a mo:町域 ;
     rdfs:label "勝連平敷屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042314" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市勝連平安名
+    a mo:町域 ;
     rdfs:label "勝連平安名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042312" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市兼箇段
+    a mo:町域 ;
     rdfs:label "兼箇段"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042241" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市川崎
+    a mo:町域 ;
     rdfs:label "川崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市川田
+    a mo:町域 ;
     rdfs:label "川田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042232" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市喜仲
+    a mo:町域 ;
     rdfs:label "喜仲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042236" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市喜屋武
+    a mo:町域 ;
     rdfs:label "喜屋武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042225" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市具志川
+    a mo:町域 ;
     rdfs:label "具志川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042223" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市昆布
+    a mo:町域 ;
     rdfs:label "昆布"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市塩屋
+    a mo:町域 ;
     rdfs:label "塩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042231" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市州崎
+    a mo:町域 ;
     rdfs:label "州崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042234" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市平良川
+    a mo:町域 ;
     rdfs:label "平良川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042221" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市高江洲
+    a mo:町域 ;
     rdfs:label "高江洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042242" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市田場
+    a mo:町域 ;
     rdfs:label "田場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042213" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市天願
+    a mo:町域 ;
     rdfs:label "天願"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市豊原
+    a mo:町域 ;
     rdfs:label "豊原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042233" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市仲嶺
+    a mo:町域 ;
     rdfs:label "仲嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042226" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市前原
+    a mo:町域 ;
     rdfs:label "前原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042235" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市みどり町
+    a mo:町域 ;
     rdfs:label "みどり町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042215" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市宮里
+    a mo:町域 ;
     rdfs:label "宮里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042243" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城
+    a mo:町域 ;
     rdfs:label "与那城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042303" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城安勢理
+    a mo:町域 ;
     rdfs:label "与那城安勢理"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042306" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城伊計
+    a mo:町域 ;
     rdfs:label "与那城伊計"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042421" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城池味
+    a mo:町域 ;
     rdfs:label "与那城池味"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042422" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城上原
+    a mo:町域 ;
     rdfs:label "与那城上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042424" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城中央
+    a mo:町域 ;
     rdfs:label "与那城中央"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042305" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城照間
+    a mo:町域 ;
     rdfs:label "与那城照間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042301" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城桃原
+    a mo:町域 ;
     rdfs:label "与那城桃原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042425" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城西原
+    a mo:町域 ;
     rdfs:label "与那城西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042302" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城饒辺
+    a mo:町域 ;
     rdfs:label "与那城饒辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042307" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城平宮
+    a mo:町域 ;
     rdfs:label "与那城平宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042428" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城平安座
+    a mo:町域 ;
     rdfs:label "与那城平安座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042426" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城宮城
+    a mo:町域 ;
     rdfs:label "与那城宮城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042423" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城屋慶名
+    a mo:町域 ;
     rdfs:label "与那城屋慶名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042304" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県うるま市与那城屋平
+    a mo:町域 ;
     rdfs:label "与那城屋平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9042427" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市
     rdfs:label "宮古島市"@ja ;
@@ -1947,168 +2663,250 @@ mr:JP_沖縄県宮古島市
 a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市伊良部池間添
+    a mo:町域 ;
     rdfs:label "伊良部池間添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060502" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市伊良部伊良部
+    a mo:町域 ;
     rdfs:label "伊良部伊良部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060503" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市伊良部国仲
+    a mo:町域 ;
     rdfs:label "伊良部国仲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060505" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市伊良部佐和田
+    a mo:町域 ;
     rdfs:label "伊良部佐和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060507" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市伊良部仲地
+    a mo:町域 ;
     rdfs:label "伊良部仲地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060504" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市伊良部長浜
+    a mo:町域 ;
     rdfs:label "伊良部長浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060506" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市伊良部前里添
+    a mo:町域 ;
     rdfs:label "伊良部前里添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060501" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市上野上野
+    a mo:町域 ;
     rdfs:label "上野上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060204" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市上野新里
+    a mo:町域 ;
     rdfs:label "上野新里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市上野野原
+    a mo:町域 ;
     rdfs:label "上野野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市上野宮国
+    a mo:町域 ;
     rdfs:label "上野宮国"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺新城
+    a mo:町域 ;
     rdfs:label "城辺新城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060102" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺砂川
+    a mo:町域 ;
     rdfs:label "城辺砂川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060108" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺下里添
+    a mo:町域 ;
     rdfs:label "城辺下里添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060109" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺友利
+    a mo:町域 ;
     rdfs:label "城辺友利"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060107" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺長間
+    a mo:町域 ;
     rdfs:label "城辺長間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060105" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺西里添
+    a mo:町域 ;
     rdfs:label "城辺西里添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060106" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺比嘉
+    a mo:町域 ;
     rdfs:label "城辺比嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060104" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺福里
+    a mo:町域 ;
     rdfs:label "城辺福里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060103" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市城辺保良
+    a mo:町域 ;
     rdfs:label "城辺保良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060101" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市下地上地
+    a mo:町域 ;
     rdfs:label "下地上地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060304" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市下地嘉手苅
+    a mo:町域 ;
     rdfs:label "下地嘉手苅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060302" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市下地川満
+    a mo:町域 ;
     rdfs:label "下地川満"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060301" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市下地来間
+    a mo:町域 ;
     rdfs:label "下地来間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060306" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市下地洲鎌
+    a mo:町域 ;
     rdfs:label "下地洲鎌"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060303" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市下地与那覇
+    a mo:町域 ;
     rdfs:label "下地与那覇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060305" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良池間
+    a mo:町域 ;
     rdfs:label "平良池間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060421" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良大浦
+    a mo:町域 ;
     rdfs:label "平良大浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060004" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良大神
+    a mo:町域 ;
     rdfs:label "平良大神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060001" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良狩俣
+    a mo:町域 ;
     rdfs:label "平良狩俣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060002" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良久貝
+    a mo:町域 ;
     rdfs:label "平良久貝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060015" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良島尻
+    a mo:町域 ;
     rdfs:label "平良島尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060003" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良下里
+    a mo:町域 ;
     rdfs:label "平良下里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060013" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良荷川取
+    a mo:町域 ;
     rdfs:label "平良荷川取"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060008" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良西里
+    a mo:町域 ;
     rdfs:label "平良西里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060012" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良西仲宗根
+    a mo:町域 ;
     rdfs:label "平良西仲宗根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060006" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良西原
+    a mo:町域 ;
     rdfs:label "平良西原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060005" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良東仲宗根
+    a mo:町域 ;
     rdfs:label "平良東仲宗根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060007" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良東仲宗根添
+    a mo:町域 ;
     rdfs:label "平良東仲宗根添"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060011" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良前里
+    a mo:町域 ;
     rdfs:label "平良前里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060422" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古島市平良松原
+    a mo:町域 ;
     rdfs:label "平良松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060014" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市
     rdfs:label "南城市"@ja ;
@@ -2165,196 +2963,292 @@ mr:JP_沖縄県南城市
 a mo:GeoEntity .
 
 mr:JP_沖縄県南城市大里稲嶺
+    a mo:町域 ;
     rdfs:label "大里稲嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011204" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市大里大里
+    a mo:町域 ;
     rdfs:label "大里大里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市大里大城
+    a mo:町域 ;
     rdfs:label "大里大城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市大里平良
+    a mo:町域 ;
     rdfs:label "大里平良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011208" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市大里高平
+    a mo:町域 ;
     rdfs:label "大里高平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011205" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市大里仲間
+    a mo:町域 ;
     rdfs:label "大里仲間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011206" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市大里古堅
+    a mo:町域 ;
     rdfs:label "大里古堅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011207" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市大里嶺井
+    a mo:町域 ;
     rdfs:label "大里嶺井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷伊原
+    a mo:町域 ;
     rdfs:label "佐敷伊原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011401" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷小谷
+    a mo:町域 ;
     rdfs:label "佐敷小谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011413" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷兼久
+    a mo:町域 ;
     rdfs:label "佐敷兼久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011411" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷佐敷
+    a mo:町域 ;
     rdfs:label "佐敷佐敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011403" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷新開
+    a mo:町域 ;
     rdfs:label "佐敷新開"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011415" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷新里
+    a mo:町域 ;
     rdfs:label "佐敷新里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011412" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷津波古
+    a mo:町域 ;
     rdfs:label "佐敷津波古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011414" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷手登根
+    a mo:町域 ;
     rdfs:label "佐敷手登根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011402" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷仲伊保
+    a mo:町域 ;
     rdfs:label "佐敷仲伊保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011405" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷冨祖崎
+    a mo:町域 ;
     rdfs:label "佐敷冨祖崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011404" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市佐敷屋比久
+    a mo:町域 ;
     rdfs:label "佐敷屋比久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011406" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城愛地
+    a mo:町域 ;
     rdfs:label "玉城愛地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010617" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城糸数
+    a mo:町域 ;
     rdfs:label "玉城糸数"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010606" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城奥武
+    a mo:町域 ;
     rdfs:label "玉城奥武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010614" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城親慶原
+    a mo:町域 ;
     rdfs:label "玉城親慶原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010608" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城垣花
+    a mo:町域 ;
     rdfs:label "玉城垣花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010601" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城喜良原
+    a mo:町域 ;
     rdfs:label "玉城喜良原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010607" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城志堅原
+    a mo:町域 ;
     rdfs:label "玉城志堅原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010613" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城玉城
+    a mo:町域 ;
     rdfs:label "玉城玉城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010604" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城當山
+    a mo:町域 ;
     rdfs:label "玉城當山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010612" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城中山
+    a mo:町域 ;
     rdfs:label "玉城中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010605" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城仲村渠
+    a mo:町域 ;
     rdfs:label "玉城仲村渠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010602" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城百名
+    a mo:町域 ;
     rdfs:label "玉城百名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010603" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城富里
+    a mo:町域 ;
     rdfs:label "玉城富里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010611" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城船越
+    a mo:町域 ;
     rdfs:label "玉城船越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010618" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城堀川
+    a mo:町域 ;
     rdfs:label "玉城堀川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010615" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城前川
+    a mo:町域 ;
     rdfs:label "玉城前川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010616" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市玉城屋嘉部
+    a mo:町域 ;
     rdfs:label "玉城屋嘉部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010619" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念安座真
+    a mo:町域 ;
     rdfs:label "知念安座真"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011502" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念海野
+    a mo:町域 ;
     rdfs:label "知念海野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011504" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念具志堅
+    a mo:町域 ;
     rdfs:label "知念具志堅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011514" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念久高
+    a mo:町域 ;
     rdfs:label "知念久高"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011501" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念久手堅
+    a mo:町域 ;
     rdfs:label "知念久手堅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011511" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念久原
+    a mo:町域 ;
     rdfs:label "知念久原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011505" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念志喜屋
+    a mo:町域 ;
     rdfs:label "知念志喜屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011516" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念知名
+    a mo:町域 ;
     rdfs:label "知念知名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011503" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念知念
+    a mo:町域 ;
     rdfs:label "知念知念"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011513" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念山里
+    a mo:町域 ;
     rdfs:label "知念山里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011515" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市知念吉富
+    a mo:町域 ;
     rdfs:label "知念吉富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011512" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県南城市つきしろ
+    a mo:町域 ;
     rdfs:label "つきしろ"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011407" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村
     rdfs:label "国頭郡国頭村"@ja ;
@@ -2383,84 +3277,124 @@ mr:JP_沖縄県国頭郡国頭村
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村安田
+    a mo:町域 ;
     rdfs:label "安田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051503" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村安波
+    a mo:町域 ;
     rdfs:label "安波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051504" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村伊地
+    a mo:町域 ;
     rdfs:label "伊地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051428" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村宇嘉
+    a mo:町域 ;
     rdfs:label "宇嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051423" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村宇良
+    a mo:町域 ;
     rdfs:label "宇良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051429" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村奥
+    a mo:町域 ;
     rdfs:label "奥"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051501" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村奥間
+    a mo:町域 ;
     rdfs:label "奥間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051412" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村鏡地
+    a mo:町域 ;
     rdfs:label "鏡地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051416" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村宜名真
+    a mo:町域 ;
     rdfs:label "宜名真"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051422" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村佐手
+    a mo:町域 ;
     rdfs:label "佐手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051425" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村謝敷
+    a mo:町域 ;
     rdfs:label "謝敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051426" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村楚洲
+    a mo:町域 ;
     rdfs:label "楚洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051502" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村桃原
+    a mo:町域 ;
     rdfs:label "桃原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051417" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村浜
+    a mo:町域 ;
     rdfs:label "浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051415" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村半地
+    a mo:町域 ;
     rdfs:label "半地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051414" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村比地
+    a mo:町域 ;
     rdfs:label "比地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051413" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村辺戸
+    a mo:町域 ;
     rdfs:label "辺戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051421" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村辺野喜
+    a mo:町域 ;
     rdfs:label "辺野喜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051424" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村辺土名
+    a mo:町域 ;
     rdfs:label "辺土名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051411" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡国頭村与那
+    a mo:町域 ;
     rdfs:label "与那"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051427" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村
     rdfs:label "国頭郡大宜味村"@ja ;
@@ -2486,72 +3420,106 @@ mr:JP_沖縄県国頭郡大宜味村
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村上原
+    a mo:町域 ;
     rdfs:label "上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051308" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村江洲
+    a mo:町域 ;
     rdfs:label "江洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051317" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村大兼久
+    a mo:町域 ;
     rdfs:label "大兼久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051305" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村大宜味
+    a mo:町域 ;
     rdfs:label "大宜味"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051306" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村押川
+    a mo:町域 ;
     rdfs:label "押川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051313" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村喜如嘉
+    a mo:町域 ;
     rdfs:label "喜如嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051303" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村塩屋
+    a mo:町域 ;
     rdfs:label "塩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051311" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村謝名城
+    a mo:町域 ;
     rdfs:label "謝名城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051302" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村白浜
+    a mo:町域 ;
     rdfs:label "白浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051316" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村大保
+    a mo:町域 ;
     rdfs:label "大保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051315" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村田嘉里
+    a mo:町域 ;
     rdfs:label "田嘉里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051301" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村田港
+    a mo:町域 ;
     rdfs:label "田港"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051314" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村津波
+    a mo:町域 ;
     rdfs:label "津波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051318" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村饒波
+    a mo:町域 ;
     rdfs:label "饒波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051304" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村根路銘
+    a mo:町域 ;
     rdfs:label "根路銘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051307" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村宮城
+    a mo:町域 ;
     rdfs:label "宮城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051319" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡大宜味村屋古
+    a mo:町域 ;
     rdfs:label "屋古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051312" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡東村
     rdfs:label "国頭郡東村"@ja ;
@@ -2566,28 +3534,40 @@ mr:JP_沖縄県国頭郡東村
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡東村有銘
+    a mo:町域 ;
     rdfs:label "有銘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051206" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡東村川田
+    a mo:町域 ;
     rdfs:label "川田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡東村慶佐次
+    a mo:町域 ;
     rdfs:label "慶佐次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051205" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡東村平良
+    a mo:町域 ;
     rdfs:label "平良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051204" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡東村高江
+    a mo:町域 ;
     rdfs:label "高江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡東村宮城
+    a mo:町域 ;
     rdfs:label "宮城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9051202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村
     rdfs:label "国頭郡今帰仁村"@ja ;
@@ -2615,80 +3595,118 @@ mr:JP_沖縄県国頭郡今帰仁村
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村天底
+    a mo:町域 ;
     rdfs:label "天底"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050411" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村今泊
+    a mo:町域 ;
     rdfs:label "今泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050428" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村運天
+    a mo:町域 ;
     rdfs:label "運天"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050403" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村兼次
+    a mo:町域 ;
     rdfs:label "兼次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050427" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村上運天
+    a mo:町域 ;
     rdfs:label "上運天"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050404" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村古宇利
+    a mo:町域 ;
     rdfs:label "古宇利"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050406" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村越地
+    a mo:町域 ;
     rdfs:label "越地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050421" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村呉我山
+    a mo:町域 ;
     rdfs:label "呉我山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050413" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村崎山
+    a mo:町域 ;
     rdfs:label "崎山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050422" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村謝名
+    a mo:町域 ;
     rdfs:label "謝名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050414" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村諸志
+    a mo:町域 ;
     rdfs:label "諸志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050426" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村勢理客
+    a mo:町域 ;
     rdfs:label "勢理客"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050405" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村玉城
+    a mo:町域 ;
     rdfs:label "玉城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050415" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村渡喜仁
+    a mo:町域 ;
     rdfs:label "渡喜仁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050402" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村仲尾次
+    a mo:町域 ;
     rdfs:label "仲尾次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050424" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村仲宗根
+    a mo:町域 ;
     rdfs:label "仲宗根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050401" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村平敷
+    a mo:町域 ;
     rdfs:label "平敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050423" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村与那嶺
+    a mo:町域 ;
     rdfs:label "与那嶺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050425" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡今帰仁村湧川
+    a mo:町域 ;
     rdfs:label "湧川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050412" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町
     rdfs:label "国頭郡本部町"@ja ;
@@ -2724,112 +3742,166 @@ mr:JP_沖縄県国頭郡本部町
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町石川
+    a mo:町域 ;
     rdfs:label "石川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050206" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町伊豆味
+    a mo:町域 ;
     rdfs:label "伊豆味"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050221" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町伊野波
+    a mo:町域 ;
     rdfs:label "伊野波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050228" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町大堂
+    a mo:町域 ;
     rdfs:label "大堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050229" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町浦崎
+    a mo:町域 ;
     rdfs:label "浦崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050217" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町大嘉陽
+    a mo:町域 ;
     rdfs:label "大嘉陽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050223" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町大浜
+    a mo:町域 ;
     rdfs:label "大浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050212" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町嘉津宇
+    a mo:町域 ;
     rdfs:label "嘉津宇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町北里
+    a mo:町域 ;
     rdfs:label "北里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050209" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町具志堅
+    a mo:町域 ;
     rdfs:label "具志堅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町健堅
+    a mo:町域 ;
     rdfs:label "健堅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050226" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町崎本部
+    a mo:町域 ;
     rdfs:label "崎本部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050225" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町謝花
+    a mo:町域 ;
     rdfs:label "謝花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町新里
+    a mo:町域 ;
     rdfs:label "新里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050208" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町瀬底
+    a mo:町域 ;
     rdfs:label "瀬底"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050227" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町谷茶
+    a mo:町域 ;
     rdfs:label "谷茶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050213" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町渡久地
+    a mo:町域 ;
     rdfs:label "渡久地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050214" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町豊原
+    a mo:町域 ;
     rdfs:label "豊原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050204" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町並里
+    a mo:町域 ;
     rdfs:label "並里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050222" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町野原
+    a mo:町域 ;
     rdfs:label "野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050215" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町浜元
+    a mo:町域 ;
     rdfs:label "浜元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050216" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町東
+    a mo:町域 ;
     rdfs:label "東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050211" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町備瀬
+    a mo:町域 ;
     rdfs:label "備瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050207" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町古島
+    a mo:町域 ;
     rdfs:label "古島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050218" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町辺名地
+    a mo:町域 ;
     rdfs:label "辺名地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050224" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町山川
+    a mo:町域 ;
     rdfs:label "山川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050205" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡本部町山里
+    a mo:町域 ;
     rdfs:label "山里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050219" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村
     rdfs:label "国頭郡恩納村"@ja ;
@@ -2849,48 +3921,70 @@ mr:JP_沖縄県国頭郡恩納村
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村安富祖
+    a mo:町域 ;
     rdfs:label "安富祖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040402" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村恩納
+    a mo:町域 ;
     rdfs:label "恩納"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040411" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村喜瀬武原
+    a mo:町域 ;
     rdfs:label "喜瀬武原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040403" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村瀬良垣
+    a mo:町域 ;
     rdfs:label "瀬良垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040404" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村谷茶
+    a mo:町域 ;
     rdfs:label "谷茶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040412" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村仲泊
+    a mo:町域 ;
     rdfs:label "仲泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040415" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村名嘉真
+    a mo:町域 ;
     rdfs:label "名嘉真"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040401" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村冨着
+    a mo:町域 ;
     rdfs:label "冨着"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040413" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村前兼久
+    a mo:町域 ;
     rdfs:label "前兼久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040414" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村真栄田
+    a mo:町域 ;
     rdfs:label "真栄田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040417" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡恩納村山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040416" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡宜野座村
     rdfs:label "国頭郡宜野座村"@ja ;
@@ -2903,20 +3997,28 @@ mr:JP_沖縄県国頭郡宜野座村
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡宜野座村漢那
+    a mo:町域 ;
     rdfs:label "漢那"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041304" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡宜野座村宜野座
+    a mo:町域 ;
     rdfs:label "宜野座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041302" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡宜野座村惣慶
+    a mo:町域 ;
     rdfs:label "惣慶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041303" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡宜野座村松田
+    a mo:町域 ;
     rdfs:label "松田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041301" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡金武町
     rdfs:label "国頭郡金武町"@ja ;
@@ -2928,16 +4030,22 @@ mr:JP_沖縄県国頭郡金武町
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡金武町伊芸
+    a mo:町域 ;
     rdfs:label "伊芸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡金武町金武
+    a mo:町域 ;
     rdfs:label "金武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡金武町屋嘉
+    a mo:町域 ;
     rdfs:label "屋嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9041203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡伊江村
     rdfs:label "国頭郡伊江村"@ja ;
@@ -2951,24 +4059,34 @@ mr:JP_沖縄県国頭郡伊江村
 a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡伊江村川平
+    a mo:町域 ;
     rdfs:label "川平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050503" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡伊江村西江上
+    a mo:町域 ;
     rdfs:label "西江上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050505" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡伊江村西江前
+    a mo:町域 ;
     rdfs:label "西江前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050504" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡伊江村東江上
+    a mo:町域 ;
     rdfs:label "東江上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050501" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県国頭郡伊江村東江前
+    a mo:町域 ;
     rdfs:label "東江前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050502" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村
     rdfs:label "中頭郡読谷村"@ja ;
@@ -2996,80 +4114,118 @@ mr:JP_沖縄県中頭郡読谷村
 a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村伊良皆
+    a mo:町域 ;
     rdfs:label "伊良皆"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040303" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村上地
+    a mo:町域 ;
     rdfs:label "上地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040321" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村宇座
+    a mo:町域 ;
     rdfs:label "宇座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040328" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村大木
+    a mo:町域 ;
     rdfs:label "大木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040316" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村大湾
+    a mo:町域 ;
     rdfs:label "大湾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040313" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村喜名
+    a mo:町域 ;
     rdfs:label "喜名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040302" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村儀間
+    a mo:町域 ;
     rdfs:label "儀間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040327" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村座喜味
+    a mo:町域 ;
     rdfs:label "座喜味"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040301" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村瀬名波
+    a mo:町域 ;
     rdfs:label "瀬名波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040325" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村楚辺
+    a mo:町域 ;
     rdfs:label "楚辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040304" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村高志保
+    a mo:町域 ;
     rdfs:label "高志保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040323" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村渡具知
+    a mo:町域 ;
     rdfs:label "渡具知"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040315" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村渡慶次
+    a mo:町域 ;
     rdfs:label "渡慶次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040326" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村都屋
+    a mo:町域 ;
     rdfs:label "都屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040305" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村長浜
+    a mo:町域 ;
     rdfs:label "長浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040324" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村波平
+    a mo:町域 ;
     rdfs:label "波平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040322" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村比謝
+    a mo:町域 ;
     rdfs:label "比謝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040311" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村比謝矼
+    a mo:町域 ;
     rdfs:label "比謝矼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040312" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡読谷村古堅
+    a mo:町域 ;
     rdfs:label "古堅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040314" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡嘉手納町
     rdfs:label "中頭郡嘉手納町"@ja ;
@@ -3083,24 +4239,34 @@ mr:JP_沖縄県中頭郡嘉手納町
 a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡嘉手納町嘉手納
+    a mo:町域 ;
     rdfs:label "嘉手納"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040203" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡嘉手納町兼久
+    a mo:町域 ;
     rdfs:label "兼久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040205" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡嘉手納町久得
+    a mo:町域 ;
     rdfs:label "久得"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040201" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡嘉手納町水釜
+    a mo:町域 ;
     rdfs:label "水釜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040204" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡嘉手納町屋良
+    a mo:町域 ;
     rdfs:label "屋良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040202" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町
     rdfs:label "中頭郡北谷町"@ja ;
@@ -3123,60 +4289,88 @@ mr:JP_沖縄県中頭郡北谷町
 a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町伊平
+    a mo:町域 ;
     rdfs:label "伊平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040102" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町大村
+    a mo:町域 ;
     rdfs:label "大村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040107" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町上勢頭
+    a mo:町域 ;
     rdfs:label "上勢頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040101" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町北前
+    a mo:町域 ;
     rdfs:label "北前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040117" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町桑江
+    a mo:町域 ;
     rdfs:label "桑江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040103" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町砂辺
+    a mo:町域 ;
     rdfs:label "砂辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040111" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町玉上
+    a mo:町域 ;
     rdfs:label "玉上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040106" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町北谷
+    a mo:町域 ;
     rdfs:label "北谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040116" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町桃原
+    a mo:町域 ;
     rdfs:label "桃原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040104" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町浜川
+    a mo:町域 ;
     rdfs:label "浜川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040112" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町港
+    a mo:町域 ;
     rdfs:label "港"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040114" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町美浜
+    a mo:町域 ;
     rdfs:label "美浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040115" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町宮城
+    a mo:町域 ;
     rdfs:label "宮城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040113" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北谷町吉原
+    a mo:町域 ;
     rdfs:label "吉原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9040105" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村
     rdfs:label "中頭郡北中城村"@ja ;
@@ -3199,60 +4393,88 @@ mr:JP_沖縄県中頭郡北中城村
 a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村安谷屋
+    a mo:町域 ;
     rdfs:label "安谷屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012316" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村熱田
+    a mo:町域 ;
     rdfs:label "熱田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012313" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村大城
+    a mo:町域 ;
     rdfs:label "大城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012314" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村荻道
+    a mo:町域 ;
     rdfs:label "荻道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012315" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村喜舎場
+    a mo:町域 ;
     rdfs:label "喜舎場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012311" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村島袋
+    a mo:町域 ;
     rdfs:label "島袋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012301" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村瑞慶覧
+    a mo:町域 ;
     rdfs:label "瑞慶覧"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012317" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村仲順
+    a mo:町域 ;
     rdfs:label "仲順"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012303" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村渡口
+    a mo:町域 ;
     rdfs:label "渡口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012302" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村比嘉
+    a mo:町域 ;
     rdfs:label "比嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012305" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村美崎
+    a mo:町域 ;
     rdfs:label "美崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012321" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村屋宜原
+    a mo:町域 ;
     rdfs:label "屋宜原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012304" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村ライカム
+    a mo:町域 ;
     rdfs:label "ライカム"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012306" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡北中城村和仁屋
+    a mo:町域 ;
     rdfs:label "和仁屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012312" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村
     rdfs:label "中頭郡中城村"@ja ;
@@ -3279,76 +4501,112 @@ mr:JP_沖縄県中頭郡中城村
 a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村安里
+    a mo:町域 ;
     rdfs:label "安里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012407" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村新垣
+    a mo:町域 ;
     rdfs:label "新垣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012422" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村伊舎堂
+    a mo:町域 ;
     rdfs:label "伊舎堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012403" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村伊集
+    a mo:町域 ;
     rdfs:label "伊集"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012417" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村奥間
+    a mo:町域 ;
     rdfs:label "奥間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012412" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村北上原
+    a mo:町域 ;
     rdfs:label "北上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012423" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村北浜
+    a mo:町域 ;
     rdfs:label "北浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012414" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村久場
+    a mo:町域 ;
     rdfs:label "久場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012401" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村添石
+    a mo:町域 ;
     rdfs:label "添石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012404" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村津覇
+    a mo:町域 ;
     rdfs:label "津覇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012413" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村当間
+    a mo:町域 ;
     rdfs:label "当間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012406" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村泊
+    a mo:町域 ;
     rdfs:label "泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012402" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村登又
+    a mo:町域 ;
     rdfs:label "登又"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012421" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村浜
+    a mo:町域 ;
     rdfs:label "浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012411" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村南上原
+    a mo:町域 ;
     rdfs:label "南上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012424" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村南浜
+    a mo:町域 ;
     rdfs:label "南浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012415" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村屋宜
+    a mo:町域 ;
     rdfs:label "屋宜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012405" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡中城村和宇慶
+    a mo:町域 ;
     rdfs:label "和宇慶"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9012416" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町
     rdfs:label "中頭郡西原町"@ja ;
@@ -3379,92 +4637,136 @@ mr:JP_沖縄県中頭郡西原町
 a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町東崎
+    a mo:町域 ;
     rdfs:label "東崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030105" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町安室
+    a mo:町域 ;
     rdfs:label "安室"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030113" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030115" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町上原
+    a mo:町域 ;
     rdfs:label "上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030125" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町内間
+    a mo:町域 ;
     rdfs:label "内間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030121" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町翁長
+    a mo:町域 ;
     rdfs:label "翁長"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030117" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町小那覇
+    a mo:町域 ;
     rdfs:label "小那覇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030103" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町掛保久
+    a mo:町域 ;
     rdfs:label "掛保久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030101" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町我謝
+    a mo:町域 ;
     rdfs:label "我謝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030112" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町嘉手苅
+    a mo:町域 ;
     rdfs:label "嘉手苅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030102" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町兼久
+    a mo:町域 ;
     rdfs:label "兼久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030104" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町幸地
+    a mo:町域 ;
     rdfs:label "幸地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030116" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町小橋川
+    a mo:町域 ;
     rdfs:label "小橋川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030122" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町小波津
+    a mo:町域 ;
     rdfs:label "小波津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030118" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町呉屋
+    a mo:町域 ;
     rdfs:label "呉屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030124" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町千原
+    a mo:町域 ;
     rdfs:label "千原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030129" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町棚原
+    a mo:町域 ;
     rdfs:label "棚原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030126" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町津花波
+    a mo:町域 ;
     rdfs:label "津花波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030123" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町桃原
+    a mo:町域 ;
     rdfs:label "桃原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030114" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町徳佐田
+    a mo:町域 ;
     rdfs:label "徳佐田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030127" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町森川
+    a mo:町域 ;
     rdfs:label "森川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030128" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県中頭郡西原町与那城
+    a mo:町域 ;
     rdfs:label "与那城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9030111" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡与那原町
     rdfs:label "島尻郡与那原町"@ja ;
@@ -3477,20 +4779,28 @@ mr:JP_沖縄県島尻郡与那原町
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡与那原町東浜
+    a mo:町域 ;
     rdfs:label "東浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011304" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡与那原町板良敷
+    a mo:町域 ;
     rdfs:label "板良敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011301" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡与那原町上与那原
+    a mo:町域 ;
     rdfs:label "上与那原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011302" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡与那原町与那原
+    a mo:町域 ;
     rdfs:label "与那原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011303" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町
     rdfs:label "島尻郡南風原町"@ja ;
@@ -3511,52 +4821,76 @@ mr:JP_沖縄県島尻郡南風原町
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町新川
+    a mo:町域 ;
     rdfs:label "新川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011105" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町大名
+    a mo:町域 ;
     rdfs:label "大名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011101" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町兼城
+    a mo:町域 ;
     rdfs:label "兼城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011111" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町神里
+    a mo:町域 ;
     rdfs:label "神里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011114" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町喜屋武
+    a mo:町域 ;
     rdfs:label "喜屋武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011113" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町津嘉山
+    a mo:町域 ;
     rdfs:label "津嘉山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011117" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町照屋
+    a mo:町域 ;
     rdfs:label "照屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011116" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町宮城
+    a mo:町域 ;
     rdfs:label "宮城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011102" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町宮平
+    a mo:町域 ;
     rdfs:label "宮平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011104" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町本部
+    a mo:町域 ;
     rdfs:label "本部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011112" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町山川
+    a mo:町域 ;
     rdfs:label "山川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011115" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南風原町与那覇
+    a mo:町域 ;
     rdfs:label "与那覇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9011103" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡渡嘉敷村
     rdfs:label "島尻郡渡嘉敷村"@ja ;
@@ -3567,12 +4901,16 @@ mr:JP_沖縄県島尻郡渡嘉敷村
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡渡嘉敷村阿波連
+    a mo:町域 ;
     rdfs:label "阿波連"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013502" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡渡嘉敷村渡嘉敷
+    a mo:町域 ;
     rdfs:label "渡嘉敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013501" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡座間味村
     rdfs:label "島尻郡座間味村"@ja ;
@@ -3586,24 +4924,34 @@ mr:JP_沖縄県島尻郡座間味村
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡座間味村阿嘉
+    a mo:町域 ;
     rdfs:label "阿嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013311" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡座間味村阿佐
+    a mo:町域 ;
     rdfs:label "阿佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013401" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡座間味村阿真
+    a mo:町域 ;
     rdfs:label "阿真"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013403" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡座間味村慶留間
+    a mo:町域 ;
     rdfs:label "慶留間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013312" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡座間味村座間味
+    a mo:町域 ;
     rdfs:label "座間味"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013402" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡粟国村
     rdfs:label "島尻郡粟国村"@ja ;
@@ -3615,16 +4963,22 @@ mr:JP_沖縄県島尻郡粟国村
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡粟国村西
+    a mo:町域 ;
     rdfs:label "西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013703" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡粟国村浜
+    a mo:町域 ;
     rdfs:label "浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013701" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡粟国村東
+    a mo:町域 ;
     rdfs:label "東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013702" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡渡名喜村
     rdfs:label "島尻郡渡名喜村"@ja ;
@@ -3645,28 +4999,40 @@ mr:JP_沖縄県島尻郡南大東村
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南大東村池之沢
+    a mo:町域 ;
     rdfs:label "池之沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013806" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南大東村北
+    a mo:町域 ;
     rdfs:label "北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013801" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南大東村旧東
+    a mo:町域 ;
     rdfs:label "旧東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013803" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南大東村在所
+    a mo:町域 ;
     rdfs:label "在所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013805" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南大東村新東
+    a mo:町域 ;
     rdfs:label "新東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013802" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡南大東村南
+    a mo:町域 ;
     rdfs:label "南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013804" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡北大東村
     rdfs:label "島尻郡北大東村"@ja ;
@@ -3678,16 +5044,22 @@ mr:JP_沖縄県島尻郡北大東村
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡北大東村中野
+    a mo:町域 ;
     rdfs:label "中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013902" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡北大東村港
+    a mo:町域 ;
     rdfs:label "港"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013903" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡北大東村南
+    a mo:町域 ;
     rdfs:label "南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013901" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊平屋村
     rdfs:label "島尻郡伊平屋村"@ja ;
@@ -3701,24 +5073,34 @@ mr:JP_沖縄県島尻郡伊平屋村
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊平屋村我喜屋
+    a mo:町域 ;
     rdfs:label "我喜屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050703" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊平屋村島尻
+    a mo:町域 ;
     rdfs:label "島尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050704" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊平屋村田名
+    a mo:町域 ;
     rdfs:label "田名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050701" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊平屋村野甫
+    a mo:町域 ;
     rdfs:label "野甫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050705" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊平屋村前泊
+    a mo:町域 ;
     rdfs:label "前泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050702" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊是名村
     rdfs:label "島尻郡伊是名村"@ja ;
@@ -3732,24 +5114,34 @@ mr:JP_沖縄県島尻郡伊是名村
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊是名村伊是名
+    a mo:町域 ;
     rdfs:label "伊是名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050604" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊是名村内花
+    a mo:町域 ;
     rdfs:label "内花"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050601" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊是名村諸見
+    a mo:町域 ;
     rdfs:label "諸見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050602" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊是名村勢理客
+    a mo:町域 ;
     rdfs:label "勢理客"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050605" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡伊是名村仲田
+    a mo:町域 ;
     rdfs:label "仲田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9050603" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町
     rdfs:label "島尻郡久米島町"@ja ;
@@ -3784,108 +5176,160 @@ mr:JP_沖縄県島尻郡久米島町
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町阿嘉
+    a mo:町域 ;
     rdfs:label "阿嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013103" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町宇江城
+    a mo:町域 ;
     rdfs:label "宇江城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013101" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町上江洲
+    a mo:町域 ;
     rdfs:label "上江洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013138" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町宇根
+    a mo:町域 ;
     rdfs:label "宇根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013105" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町奥武
+    a mo:町域 ;
     rdfs:label "奥武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013106" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町大田
+    a mo:町域 ;
     rdfs:label "大田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013123" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町大原
+    a mo:町域 ;
     rdfs:label "大原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013132" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町嘉手苅
+    a mo:町域 ;
     rdfs:label "嘉手苅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013121" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町兼城
+    a mo:町域 ;
     rdfs:label "兼城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013122" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町北原
+    a mo:町域 ;
     rdfs:label "北原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013133" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町儀間
+    a mo:町域 ;
     rdfs:label "儀間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013115" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町具志川
+    a mo:町域 ;
     rdfs:label "具志川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013134" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町島尻
+    a mo:町域 ;
     rdfs:label "島尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013114" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町謝名堂
+    a mo:町域 ;
     rdfs:label "謝名堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013107" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町銭田
+    a mo:町域 ;
     rdfs:label "銭田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013113" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町鳥島
+    a mo:町域 ;
     rdfs:label "鳥島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013125" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町仲地
+    a mo:町域 ;
     rdfs:label "仲地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013136" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町仲泊
+    a mo:町域 ;
     rdfs:label "仲泊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013124" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町仲村渠
+    a mo:町域 ;
     rdfs:label "仲村渠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013135" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町西銘
+    a mo:町域 ;
     rdfs:label "西銘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013131" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町比嘉
+    a mo:町域 ;
     rdfs:label "比嘉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013108" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町比屋定
+    a mo:町域 ;
     rdfs:label "比屋定"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013102" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町真我里
+    a mo:町域 ;
     rdfs:label "真我里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013112" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町真謝
+    a mo:町域 ;
     rdfs:label "真謝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013104" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町山城
+    a mo:町域 ;
     rdfs:label "山城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013111" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡久米島町山里
+    a mo:町域 ;
     rdfs:label "山里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9013137" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町
     rdfs:label "島尻郡八重瀬町"@ja ;
@@ -3917,96 +5361,142 @@ mr:JP_沖縄県島尻郡八重瀬町
 a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町安里
+    a mo:町域 ;
     rdfs:label "安里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010514" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町新城
+    a mo:町域 ;
     rdfs:label "新城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010503" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町伊覇
+    a mo:町域 ;
     rdfs:label "伊覇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010405" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町上田原
+    a mo:町域 ;
     rdfs:label "上田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010412" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町大頓
+    a mo:町域 ;
     rdfs:label "大頓"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010502" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町宜次
+    a mo:町域 ;
     rdfs:label "宜次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010416" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町具志頭
+    a mo:町域 ;
     rdfs:label "具志頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010512" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町小城
+    a mo:町域 ;
     rdfs:label "小城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010415" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町後原
+    a mo:町域 ;
     rdfs:label "後原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010504" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町東風平
+    a mo:町域 ;
     rdfs:label "東風平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010401" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町志多伯
+    a mo:町域 ;
     rdfs:label "志多伯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010413" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町高良
+    a mo:町域 ;
     rdfs:label "高良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010404" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町当銘
+    a mo:町域 ;
     rdfs:label "当銘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010414" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町友寄
+    a mo:町域 ;
     rdfs:label "友寄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010411" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町富盛
+    a mo:町域 ;
     rdfs:label "富盛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010402" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町仲座
+    a mo:町域 ;
     rdfs:label "仲座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010516" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町長毛
+    a mo:町域 ;
     rdfs:label "長毛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010501" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町玻名城
+    a mo:町域 ;
     rdfs:label "玻名城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010513" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町外間
+    a mo:町域 ;
     rdfs:label "外間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010417" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町港川
+    a mo:町域 ;
     rdfs:label "港川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010511" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町屋宜原
+    a mo:町域 ;
     rdfs:label "屋宜原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010406" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町与座
+    a mo:町域 ;
     rdfs:label "与座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010515" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県島尻郡八重瀬町世名城
+    a mo:町域 ;
     rdfs:label "世名城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9010403" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古郡多良間村
     rdfs:label "宮古郡多良間村"@ja ;
@@ -4018,16 +5508,22 @@ mr:JP_沖縄県宮古郡多良間村
 a mo:GeoEntity .
 
 mr:JP_沖縄県宮古郡多良間村塩川
+    a mo:町域 ;
     rdfs:label "塩川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060601" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古郡多良間村仲筋
+    a mo:町域 ;
     rdfs:label "仲筋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060602" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県宮古郡多良間村水納
+    a mo:町域 ;
     rdfs:label "水納"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9060603" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町
     rdfs:label "八重山郡竹富町"@ja ;
@@ -4049,56 +5545,82 @@ mr:JP_沖縄県八重山郡竹富町
 a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町新城
+    a mo:町域 ;
     rdfs:label "新城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071435" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町西表
+    a mo:町域 ;
     rdfs:label "西表"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071542" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町上原
+    a mo:町域 ;
     rdfs:label "上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071541" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町黒島
+    a mo:町域 ;
     rdfs:label "黒島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071311" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町小浜
+    a mo:町域 ;
     rdfs:label "小浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071221" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町古見
+    a mo:町域 ;
     rdfs:label "古見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071432" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町崎山
+    a mo:町域 ;
     rdfs:label "崎山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071543" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町高那
+    a mo:町域 ;
     rdfs:label "高那"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071431" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町竹富
+    a mo:町域 ;
     rdfs:label "竹富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071101" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町南風見
+    a mo:町域 ;
     rdfs:label "南風見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071434" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町南風見仲
+    a mo:町域 ;
     rdfs:label "南風見仲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071433" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町波照間
+    a mo:町域 ;
     rdfs:label "波照間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071751" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡竹富町鳩間
+    a mo:町域 ;
     rdfs:label "鳩間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071544" ;
+a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡与那国町
     rdfs:label "八重山郡与那国町"@ja ;
@@ -4108,6 +5630,8 @@ mr:JP_沖縄県八重山郡与那国町
 a mo:GeoEntity .
 
 mr:JP_沖縄県八重山郡与那国町与那国
+    a mo:町域 ;
     rdfs:label "与那国"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "9071801" ;
+a mo:GeoEntity .
 

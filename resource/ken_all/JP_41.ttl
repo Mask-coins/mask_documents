@@ -214,696 +214,1042 @@ mr:JP_佐賀県佐賀市
 a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市愛敬町
+    a mo:町域 ;
     rdfs:label "愛敬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400812" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市赤松町
+    a mo:町域 ;
     rdfs:label "赤松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400042" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市朝日町
+    a mo:町域 ;
     rdfs:label "朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400053" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市伊勢町
+    a mo:町域 ;
     rdfs:label "伊勢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400844" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市今宿町
+    a mo:町域 ;
     rdfs:label "今宿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400052" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市駅前中央
+    a mo:町域 ;
     rdfs:label "駅前中央"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400801" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市駅南本町
+    a mo:町域 ;
     rdfs:label "駅南本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400816" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大財
+    a mo:町域 ;
     rdfs:label "大財"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400811" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大財北町
+    a mo:町域 ;
     rdfs:label "大財北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400802" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市鬼丸町
+    a mo:町域 ;
     rdfs:label "鬼丸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400021" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市卸本町
+    a mo:町域 ;
     rdfs:label "卸本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490933" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市開成
+    a mo:町域 ;
     rdfs:label "開成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490934" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市嘉瀬町扇町
+    a mo:町域 ;
     rdfs:label "嘉瀬町扇町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400862" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市嘉瀬町荻野
+    a mo:町域 ;
     rdfs:label "嘉瀬町荻野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400864" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市嘉瀬町十五
+    a mo:町域 ;
     rdfs:label "嘉瀬町十五"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400863" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市嘉瀬町中原
+    a mo:町域 ;
     rdfs:label "嘉瀬町中原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400861" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市神園
+    a mo:町域 ;
     rdfs:label "神園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400806" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町犬井道
+    a mo:町域 ;
     rdfs:label "川副町犬井道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402212" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町大詫間
+    a mo:町域 ;
     rdfs:label "川副町大詫間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402211" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町鹿江
+    a mo:町域 ;
     rdfs:label "川副町鹿江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402213" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町小々森
+    a mo:町域 ;
     rdfs:label "川副町小々森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402214" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町南里
+    a mo:町域 ;
     rdfs:label "川副町南里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402205" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町西古賀
+    a mo:町域 ;
     rdfs:label "川副町西古賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402204" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町早津江
+    a mo:町域 ;
     rdfs:label "川副町早津江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町早津江津
+    a mo:町域 ;
     rdfs:label "川副町早津江津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川副町福富
+    a mo:町域 ;
     rdfs:label "川副町福富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市川原町
+    a mo:町域 ;
     rdfs:label "川原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400843" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市北川副町江上
+    a mo:町域 ;
     rdfs:label "北川副町江上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市北川副町新郷
+    a mo:町域 ;
     rdfs:label "北川副町新郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市北川副町光法
+    a mo:町域 ;
     rdfs:label "北川副町光法"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市木原
+    a mo:町域 ;
     rdfs:label "木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400015" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市金立町金立
+    a mo:町域 ;
     rdfs:label "金立町金立"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490906" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市金立町千布
+    a mo:町域 ;
     rdfs:label "金立町千布"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490905" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市金立町薬師丸
+    a mo:町域 ;
     rdfs:label "金立町薬師丸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490904" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市久保泉町上和泉
+    a mo:町域 ;
     rdfs:label "久保泉町上和泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490902" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市久保泉町川久保
+    a mo:町域 ;
     rdfs:label "久保泉町川久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490901" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市久保泉町下和泉
+    a mo:町域 ;
     rdfs:label "久保泉町下和泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490903" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市久保田町江戸
+    a mo:町域 ;
     rdfs:label "久保田町江戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490205" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市久保田町久保田
+    a mo:町域 ;
     rdfs:label "久保田町久保田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490204" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市久保田町新田
+    a mo:町域 ;
     rdfs:label "久保田町新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市久保田町徳万
+    a mo:町域 ;
     rdfs:label "久保田町徳万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市久保田町久富
+    a mo:町域 ;
     rdfs:label "久保田町久富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市神野東
+    a mo:町域 ;
     rdfs:label "神野東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400804" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市神野西
+    a mo:町域 ;
     rdfs:label "神野西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400805" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市巨勢町牛島
+    a mo:町域 ;
     rdfs:label "巨勢町牛島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400008" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市巨勢町高尾
+    a mo:町域 ;
     rdfs:label "巨勢町高尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400007" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市巨勢町修理田
+    a mo:町域 ;
     rdfs:label "巨勢町修理田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市巨勢町東西
+    a mo:町域 ;
     rdfs:label "巨勢町東西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400006" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市呉服元町
+    a mo:町域 ;
     rdfs:label "呉服元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400824" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市紺屋町
+    a mo:町域 ;
     rdfs:label "紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400056" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市材木
+    a mo:町域 ;
     rdfs:label "材木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400055" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400803" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市道祖元町
+    a mo:町域 ;
     rdfs:label "道祖元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400044" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市下田町
+    a mo:町域 ;
     rdfs:label "下田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400031" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市昭栄町
+    a mo:町域 ;
     rdfs:label "昭栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400855" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市城内
+    a mo:町域 ;
     rdfs:label "城内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400041" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市精町
+    a mo:町域 ;
     rdfs:label "精町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400043" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市白山
+    a mo:町域 ;
     rdfs:label "白山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400826" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市新栄西
+    a mo:町域 ;
     rdfs:label "新栄西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400859" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市新栄東
+    a mo:町域 ;
     rdfs:label "新栄東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400850" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市新郷本町
+    a mo:町域 ;
     rdfs:label "新郷本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400017" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市新生町
+    a mo:町域 ;
     rdfs:label "新生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400856" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市新中町
+    a mo:町域 ;
     rdfs:label "新中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490924" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市末広
+    a mo:町域 ;
     rdfs:label "末広"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400032" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市成章町
+    a mo:町域 ;
     rdfs:label "成章町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400814" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市高木瀬団地
+    a mo:町域 ;
     rdfs:label "高木瀬団地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490927" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市高木瀬東
+    a mo:町域 ;
     rdfs:label "高木瀬東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490922" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市高木瀬西
+    a mo:町域 ;
     rdfs:label "高木瀬西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490921" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市高木瀬町長瀬
+    a mo:町域 ;
     rdfs:label "高木瀬町長瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490917" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市高木瀬町東高木
+    a mo:町域 ;
     rdfs:label "高木瀬町東高木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490916" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市高木町
+    a mo:町域 ;
     rdfs:label "高木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400822" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市田代
+    a mo:町域 ;
     rdfs:label "田代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400051" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市多布施
+    a mo:町域 ;
     rdfs:label "多布施"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400842" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市中央本町
+    a mo:町域 ;
     rdfs:label "中央本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400825" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市天神
+    a mo:町域 ;
     rdfs:label "天神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400815" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市天祐
+    a mo:町域 ;
     rdfs:label "天祐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400851" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市天祐団地
+    a mo:町域 ;
     rdfs:label "天祐団地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400858" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市唐人
+    a mo:町域 ;
     rdfs:label "唐人"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400813" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市中折町
+    a mo:町域 ;
     rdfs:label "中折町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400852" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市中の小路
+    a mo:町域 ;
     rdfs:label "中の小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400833" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市中の館町
+    a mo:町域 ;
     rdfs:label "中の館町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400022" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市長瀬町
+    a mo:町域 ;
     rdfs:label "長瀬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400853" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市鍋島
+    a mo:町域 ;
     rdfs:label "鍋島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490937" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市鍋島町蛎久
+    a mo:町域 ;
     rdfs:label "鍋島町蛎久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490931" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市鍋島町鍋島
+    a mo:町域 ;
     rdfs:label "鍋島町鍋島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490938" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市鍋島町森田
+    a mo:町域 ;
     rdfs:label "鍋島町森田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490936" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市鍋島町八戸
+    a mo:町域 ;
     rdfs:label "鍋島町八戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400857" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市鍋島町八戸溝
+    a mo:町域 ;
     rdfs:label "鍋島町八戸溝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490932" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市西魚町
+    a mo:町域 ;
     rdfs:label "西魚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400046" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市西田代
+    a mo:町域 ;
     rdfs:label "西田代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400045" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市西与賀町今津
+    a mo:町域 ;
     rdfs:label "西与賀町今津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400035" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市西与賀町相応津
+    a mo:町域 ;
     rdfs:label "西与賀町相応津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400037" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市西与賀町厘外
+    a mo:町域 ;
     rdfs:label "西与賀町厘外"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400034" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市西与賀町高太郎
+    a mo:町域 ;
     rdfs:label "西与賀町高太郎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400036" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市蓮池町蓮池
+    a mo:町域 ;
     rdfs:label "蓮池町蓮池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400005" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市蓮池町古賀
+    a mo:町域 ;
     rdfs:label "蓮池町古賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市蓮池町小松
+    a mo:町域 ;
     rdfs:label "蓮池町小松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400004" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市蓮池町見島
+    a mo:町域 ;
     rdfs:label "蓮池町見島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市八幡小路
+    a mo:町域 ;
     rdfs:label "八幡小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400834" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市八丁畷町
+    a mo:町域 ;
     rdfs:label "八丁畷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490925" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市光
+    a mo:町域 ;
     rdfs:label "光"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400033" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市東佐賀町
+    a mo:町域 ;
     rdfs:label "東佐賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400821" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市東与賀町飯盛
+    a mo:町域 ;
     rdfs:label "東与賀町飯盛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402223" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市東与賀町下古賀
+    a mo:町域 ;
     rdfs:label "東与賀町下古賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402221" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市東与賀町田中
+    a mo:町域 ;
     rdfs:label "東与賀町田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402222" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市日の出
+    a mo:町域 ;
     rdfs:label "日の出"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490923" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市兵庫町瓦町
+    a mo:町域 ;
     rdfs:label "兵庫町瓦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490912" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市兵庫町藤木
+    a mo:町域 ;
     rdfs:label "兵庫町藤木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490915" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市兵庫町西渕
+    a mo:町域 ;
     rdfs:label "兵庫町西渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490914" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市兵庫町渕
+    a mo:町域 ;
     rdfs:label "兵庫町渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490913" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市兵庫町若宮
+    a mo:町域 ;
     rdfs:label "兵庫町若宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490911" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市兵庫北
+    a mo:町域 ;
     rdfs:label "兵庫北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490919" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市兵庫南
+    a mo:町域 ;
     rdfs:label "兵庫南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490918" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町市川
+    a mo:町域 ;
     rdfs:label "富士町市川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400503" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町内野
+    a mo:町域 ;
     rdfs:label "富士町内野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400514" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町梅野
+    a mo:町域 ;
     rdfs:label "富士町梅野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400516" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町大串
+    a mo:町域 ;
     rdfs:label "富士町大串"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400533" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町大野
+    a mo:町域 ;
     rdfs:label "富士町大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400532" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町小副川
+    a mo:町域 ;
     rdfs:label "富士町小副川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400521" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町鎌原
+    a mo:町域 ;
     rdfs:label "富士町鎌原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400511" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町上合瀬
+    a mo:町域 ;
     rdfs:label "富士町上合瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400545" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町上熊川
+    a mo:町域 ;
     rdfs:label "富士町上熊川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400512" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町上無津呂
+    a mo:町域 ;
     rdfs:label "富士町上無津呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400536" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町栗並
+    a mo:町域 ;
     rdfs:label "富士町栗並"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400531" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町古場
+    a mo:町域 ;
     rdfs:label "富士町古場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400543" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町下合瀬
+    a mo:町域 ;
     rdfs:label "富士町下合瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400544" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町下熊川
+    a mo:町域 ;
     rdfs:label "富士町下熊川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400513" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町下無津呂
+    a mo:町域 ;
     rdfs:label "富士町下無津呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400535" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町杉山
+    a mo:町域 ;
     rdfs:label "富士町杉山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400502" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町関屋
+    a mo:町域 ;
     rdfs:label "富士町関屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400541" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町苣木
+    a mo:町域 ;
     rdfs:label "富士町苣木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400504" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町中原
+    a mo:町域 ;
     rdfs:label "富士町中原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400534" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町畑瀬
+    a mo:町域 ;
     rdfs:label "富士町畑瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400522" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町藤瀬
+    a mo:町域 ;
     rdfs:label "富士町藤瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400542" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町古湯
+    a mo:町域 ;
     rdfs:label "富士町古湯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400501" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町松瀬
+    a mo:町域 ;
     rdfs:label "富士町松瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400515" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市富士町麻那古
+    a mo:町域 ;
     rdfs:label "富士町麻那古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400537" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市堀川町
+    a mo:町域 ;
     rdfs:label "堀川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400832" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市本庄町鹿子
+    a mo:町域 ;
     rdfs:label "本庄町鹿子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400025" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市本庄町本庄
+    a mo:町域 ;
     rdfs:label "本庄町本庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400027" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市本庄町正里
+    a mo:町域 ;
     rdfs:label "本庄町正里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400026" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市本庄町末次
+    a mo:町域 ;
     rdfs:label "本庄町末次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400024" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市本庄町袋
+    a mo:町域 ;
     rdfs:label "本庄町袋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400023" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市松原
+    a mo:町域 ;
     rdfs:label "松原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400831" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市水ケ江
+    a mo:町域 ;
     rdfs:label "水ケ江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400054" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市三瀬村藤原
+    a mo:町域 ;
     rdfs:label "三瀬村藤原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420302" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市三瀬村三瀬
+    a mo:町域 ;
     rdfs:label "三瀬村三瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420301" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市三瀬村杠
+    a mo:町域 ;
     rdfs:label "三瀬村杠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420303" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市緑小路
+    a mo:町域 ;
     rdfs:label "緑小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400841" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市南佐賀
+    a mo:町域 ;
     rdfs:label "南佐賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400016" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市諸富町大堂
+    a mo:町域 ;
     rdfs:label "諸富町大堂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市諸富町為重
+    a mo:町域 ;
     rdfs:label "諸富町為重"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市諸富町寺井津
+    a mo:町域 ;
     rdfs:label "諸富町寺井津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市諸富町徳富
+    a mo:町域 ;
     rdfs:label "諸富町徳富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市諸富町諸富津
+    a mo:町域 ;
     rdfs:label "諸富町諸富津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402105" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市諸富町山領
+    a mo:町域 ;
     rdfs:label "諸富町山領"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8402106" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市八戸
+    a mo:町域 ;
     rdfs:label "八戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400854" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市八戸溝
+    a mo:町域 ;
     rdfs:label "八戸溝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490935" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市柳町
+    a mo:町域 ;
     rdfs:label "柳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400823" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町池上
+    a mo:町域 ;
     rdfs:label "大和町池上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400212" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町梅野
+    a mo:町域 ;
     rdfs:label "大和町梅野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町川上
+    a mo:町域 ;
     rdfs:label "大和町川上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400214" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町久池井
+    a mo:町域 ;
     rdfs:label "大和町久池井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町久留間
+    a mo:町域 ;
     rdfs:label "大和町久留間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400213" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町名尾
+    a mo:町域 ;
     rdfs:label "大和町名尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400205" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町尼寺
+    a mo:町域 ;
     rdfs:label "大和町尼寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町八反原
+    a mo:町域 ;
     rdfs:label "大和町八反原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400215" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町東山田
+    a mo:町域 ;
     rdfs:label "大和町東山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400211" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市大和町松瀬
+    a mo:町域 ;
     rdfs:label "大和町松瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400204" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市与賀町
+    a mo:町域 ;
     rdfs:label "与賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400047" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市六座町
+    a mo:町域 ;
     rdfs:label "六座町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8400845" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市若楠
+    a mo:町域 ;
     rdfs:label "若楠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490928" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県佐賀市若宮
+    a mo:町域 ;
     rdfs:label "若宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490926" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市
     rdfs:label "唐津市"@ja ;
@@ -1141,930 +1487,1393 @@ mr:JP_佐賀県唐津市
 a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市旭が丘
+    a mo:町域 ;
     rdfs:label "旭が丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470823" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市朝日町
+    a mo:町域 ;
     rdfs:label "朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470841" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市石志
+    a mo:町域 ;
     rdfs:label "石志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470832" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市魚屋町
+    a mo:町域 ;
     rdfs:label "魚屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470042" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市宇木
+    a mo:町域 ;
     rdfs:label "宇木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470025" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市後川内
+    a mo:町域 ;
     rdfs:label "後川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470804" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浦
+    a mo:町域 ;
     rdfs:label "浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470124" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市江川町
+    a mo:町域 ;
     rdfs:label "江川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470853" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市枝去木
+    a mo:町域 ;
     rdfs:label "枝去木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470123" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相賀
+    a mo:町域 ;
     rdfs:label "相賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470132" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町伊岐佐
+    a mo:町域 ;
     rdfs:label "相知町伊岐佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493223" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町相知
+    a mo:町域 ;
     rdfs:label "相知町相知"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町大野
+    a mo:町域 ;
     rdfs:label "相知町大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493221" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町楠
+    a mo:町域 ;
     rdfs:label "相知町楠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493215" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町久保
+    a mo:町域 ;
     rdfs:label "相知町久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493232" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町黒岩
+    a mo:町域 ;
     rdfs:label "相知町黒岩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493222" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町佐里
+    a mo:町域 ;
     rdfs:label "相知町佐里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493233" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町千束
+    a mo:町域 ;
     rdfs:label "相知町千束"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493211" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町田頭
+    a mo:町域 ;
     rdfs:label "相知町田頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493214" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町鷹取
+    a mo:町域 ;
     rdfs:label "相知町鷹取"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493219" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町町切
+    a mo:町域 ;
     rdfs:label "相知町町切"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493216" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町長部田
+    a mo:町域 ;
     rdfs:label "相知町長部田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493217" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町中山
+    a mo:町域 ;
     rdfs:label "相知町中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493218" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町平山上
+    a mo:町域 ;
     rdfs:label "相知町平山上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町平山下
+    a mo:町域 ;
     rdfs:label "相知町平山下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町牟田部
+    a mo:町域 ;
     rdfs:label "相知町牟田部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493231" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町山崎
+    a mo:町域 ;
     rdfs:label "相知町山崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493224" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町湯屋
+    a mo:町域 ;
     rdfs:label "相知町湯屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493213" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市相知町横枕
+    a mo:町域 ;
     rdfs:label "相知町横枕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493212" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市大石町
+    a mo:町域 ;
     rdfs:label "大石町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470066" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市海岸通
+    a mo:町域 ;
     rdfs:label "海岸通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470873" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鏡
+    a mo:町域 ;
     rdfs:label "鏡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470022" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鏡新開
+    a mo:町域 ;
     rdfs:label "鏡新開"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470028" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市水主町
+    a mo:町域 ;
     rdfs:label "水主町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470065" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市柏崎
+    a mo:町域 ;
     rdfs:label "柏崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470026" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市神集島
+    a mo:町域 ;
     rdfs:label "神集島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470131" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市刀町
+    a mo:町域 ;
     rdfs:label "刀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470055" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北城内
+    a mo:町域 ;
     rdfs:label "北城内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470015" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多大杉
+    a mo:町域 ;
     rdfs:label "北波多大杉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471212" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多上平野
+    a mo:町域 ;
     rdfs:label "北波多上平野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471221" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多岸山
+    a mo:町域 ;
     rdfs:label "北波多岸山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471211" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多志気
+    a mo:町域 ;
     rdfs:label "北波多志気"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471225" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多下平野
+    a mo:町域 ;
     rdfs:label "北波多下平野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471223" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多竹有
+    a mo:町域 ;
     rdfs:label "北波多竹有"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471213" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多田中
+    a mo:町域 ;
     rdfs:label "北波多田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多徳須恵
+    a mo:町域 ;
     rdfs:label "北波多徳須恵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多成渕
+    a mo:町域 ;
     rdfs:label "北波多成渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471222" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多稗田
+    a mo:町域 ;
     rdfs:label "北波多稗田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471214" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多山彦
+    a mo:町域 ;
     rdfs:label "北波多山彦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市北波多行合野
+    a mo:町域 ;
     rdfs:label "北波多行合野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471224" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町天川
+    a mo:町域 ;
     rdfs:label "厳木町天川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町岩屋
+    a mo:町域 ;
     rdfs:label "厳木町岩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493123" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町うつぼ木
+    a mo:町域 ;
     rdfs:label "厳木町うつぼ木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493132" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町浦川内
+    a mo:町域 ;
     rdfs:label "厳木町浦川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493114" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町厳木
+    a mo:町域 ;
     rdfs:label "厳木町厳木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493131" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町瀬戸木場
+    a mo:町域 ;
     rdfs:label "厳木町瀬戸木場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493121" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町鳥越
+    a mo:町域 ;
     rdfs:label "厳木町鳥越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町中島
+    a mo:町域 ;
     rdfs:label "厳木町中島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493112" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町浪瀬
+    a mo:町域 ;
     rdfs:label "厳木町浪瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493122" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町平之
+    a mo:町域 ;
     rdfs:label "厳木町平之"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493115" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町広川
+    a mo:町域 ;
     rdfs:label "厳木町広川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町広瀬
+    a mo:町域 ;
     rdfs:label "厳木町広瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493111" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町星領
+    a mo:町域 ;
     rdfs:label "厳木町星領"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町牧瀬
+    a mo:町域 ;
     rdfs:label "厳木町牧瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493113" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市厳木町本山
+    a mo:町域 ;
     rdfs:label "厳木町本山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8493133" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市京町
+    a mo:町域 ;
     rdfs:label "京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470045" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市木綿町
+    a mo:町域 ;
     rdfs:label "木綿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470044" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市熊原町
+    a mo:町域 ;
     rdfs:label "熊原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470817" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市熊ノ峰
+    a mo:町域 ;
     rdfs:label "熊ノ峰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470884" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市久里
+    a mo:町域 ;
     rdfs:label "久里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470033" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市神田
+    a mo:町域 ;
     rdfs:label "神田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470824" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市呉服町
+    a mo:町域 ;
     rdfs:label "呉服町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470052" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市米屋町
+    a mo:町域 ;
     rdfs:label "米屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470054" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市紺屋町
+    a mo:町域 ;
     rdfs:label "紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470053" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市材木町
+    a mo:町域 ;
     rdfs:label "材木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470061" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市桜馬場
+    a mo:町域 ;
     rdfs:label "桜馬場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470843" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市桜町
+    a mo:町域 ;
     rdfs:label "桜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市佐志
+    a mo:町域 ;
     rdfs:label "佐志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470111" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市佐志中里
+    a mo:町域 ;
     rdfs:label "佐志中里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470113" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市佐志中通
+    a mo:町域 ;
     rdfs:label "佐志中通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470114" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市佐志浜町
+    a mo:町域 ;
     rdfs:label "佐志浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470115" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市佐志南
+    a mo:町域 ;
     rdfs:label "佐志南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470112" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市重河内
+    a mo:町域 ;
     rdfs:label "重河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470883" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市十人町
+    a mo:町域 ;
     rdfs:label "十人町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470067" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市松南町
+    a mo:町域 ;
     rdfs:label "松南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470021" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市新興町
+    a mo:町域 ;
     rdfs:label "新興町"@ja ;
     mo:SubRegion mr:JP_佐賀県唐津市新興町東新興町 ;
     mo:SubRegion mr:JP_佐賀県唐津市新興町西新興町 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470816" ;
+    mo:JP_郵便番号 "8470043" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市新興町東新興町
     rdfs:label "東新興町"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8470043" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市新興町西新興町
     rdfs:label "西新興町"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8470816" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470813" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市菅牟田
+    a mo:町域 ;
     rdfs:label "菅牟田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470882" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市双水
+    a mo:町域 ;
     rdfs:label "双水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市大名小路
+    a mo:町域 ;
     rdfs:label "大名小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市大良
+    a mo:町域 ;
     rdfs:label "大良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470803" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市高砂町
+    a mo:町域 ;
     rdfs:label "高砂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470046" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市高島
+    a mo:町域 ;
     rdfs:label "高島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470027" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市竹木場
+    a mo:町域 ;
     rdfs:label "竹木場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470881" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市千々賀
+    a mo:町域 ;
     rdfs:label "千々賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470831" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市町田
+    a mo:町域 ;
     rdfs:label "町田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470821" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市千代田町
+    a mo:町域 ;
     rdfs:label "千代田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470041" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町赤木
+    a mo:町域 ;
     rdfs:label "鎮西町赤木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470312" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町石室
+    a mo:町域 ;
     rdfs:label "鎮西町石室"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470327" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町岩野
+    a mo:町域 ;
     rdfs:label "鎮西町岩野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470323" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町打上
+    a mo:町域 ;
     rdfs:label "鎮西町打上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470322" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町加唐島
+    a mo:町域 ;
     rdfs:label "鎮西町加唐島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470317" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町加倉
+    a mo:町域 ;
     rdfs:label "鎮西町加倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470325" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町串
+    a mo:町域 ;
     rdfs:label "鎮西町串"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470403" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町高野
+    a mo:町域 ;
     rdfs:label "鎮西町高野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470324" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町塩鶴
+    a mo:町域 ;
     rdfs:label "鎮西町塩鶴"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470313" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町菖蒲
+    a mo:町域 ;
     rdfs:label "鎮西町菖蒲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470314" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町中野
+    a mo:町域 ;
     rdfs:label "鎮西町中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470316" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町名護屋
+    a mo:町域 ;
     rdfs:label "鎮西町名護屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470401" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町野元
+    a mo:町域 ;
     rdfs:label "鎮西町野元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470402" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町波戸
+    a mo:町域 ;
     rdfs:label "鎮西町波戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470404" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町早田
+    a mo:町域 ;
     rdfs:label "鎮西町早田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470326" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町馬渡島
+    a mo:町域 ;
     rdfs:label "鎮西町馬渡島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470405" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町松島
+    a mo:町域 ;
     rdfs:label "鎮西町松島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470406" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町丸田
+    a mo:町域 ;
     rdfs:label "鎮西町丸田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470311" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町八床
+    a mo:町域 ;
     rdfs:label "鎮西町八床"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470315" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鎮西町横竹
+    a mo:町域 ;
     rdfs:label "鎮西町横竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470321" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市唐川
+    a mo:町域 ;
     rdfs:label "唐川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470885" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市唐房
+    a mo:町域 ;
     rdfs:label "唐房"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470122" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市中里
+    a mo:町域 ;
     rdfs:label "中里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470134" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市中瀬通
+    a mo:町域 ;
     rdfs:label "中瀬通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市中原
+    a mo:町域 ;
     rdfs:label "中原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470034" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市中町
+    a mo:町域 ;
     rdfs:label "中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470051" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市中山町
+    a mo:町域 ;
     rdfs:label "中山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470862" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市長谷
+    a mo:町域 ;
     rdfs:label "長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470822" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市梨川内
+    a mo:町域 ;
     rdfs:label "梨川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470802" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市七山荒川
+    a mo:町域 ;
     rdfs:label "七山荒川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市七山池原
+    a mo:町域 ;
     rdfs:label "七山池原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市七山木浦
+    a mo:町域 ;
     rdfs:label "七山木浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市七山白木
+    a mo:町域 ;
     rdfs:label "七山白木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471108" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市七山滝川
+    a mo:町域 ;
     rdfs:label "七山滝川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471106" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市七山仁部
+    a mo:町域 ;
     rdfs:label "七山仁部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471105" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市七山藤川
+    a mo:町域 ;
     rdfs:label "七山藤川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471107" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市七山馬川
+    a mo:町域 ;
     rdfs:label "七山馬川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市菜畑
+    a mo:町域 ;
     rdfs:label "菜畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470844" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市西大島町
+    a mo:町域 ;
     rdfs:label "西大島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470872" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市西唐津
+    a mo:町域 ;
     rdfs:label "西唐津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470875" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市西城内
+    a mo:町域 ;
     rdfs:label "西城内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470014" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市西寺町
+    a mo:町域 ;
     rdfs:label "西寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470815" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市西浜町
+    a mo:町域 ;
     rdfs:label "西浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470855" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市西旗町
+    a mo:町域 ;
     rdfs:label "西旗町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470854" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市橋本
+    a mo:町域 ;
     rdfs:label "橋本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市橋本町
+    a mo:町域 ;
     rdfs:label "橋本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市畑島
+    a mo:町域 ;
     rdfs:label "畑島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470833" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市半田
+    a mo:町域 ;
     rdfs:label "半田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470023" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市鳩川
+    a mo:町域 ;
     rdfs:label "鳩川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470121" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町大江
+    a mo:町域 ;
     rdfs:label "浜玉町大江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町岡口
+    a mo:町域 ;
     rdfs:label "浜玉町岡口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町五反田
+    a mo:町域 ;
     rdfs:label "浜玉町五反田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町谷口
+    a mo:町域 ;
     rdfs:label "浜玉町谷口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495105" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町鳥巣
+    a mo:町域 ;
     rdfs:label "浜玉町鳥巣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495113" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町浜崎
+    a mo:町域 ;
     rdfs:label "浜玉町浜崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495131" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町東山田
+    a mo:町域 ;
     rdfs:label "浜玉町東山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495123" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町平原
+    a mo:町域 ;
     rdfs:label "浜玉町平原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495112" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町渕上
+    a mo:町域 ;
     rdfs:label "浜玉町渕上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町南山
+    a mo:町域 ;
     rdfs:label "浜玉町南山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495111" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町山瀬
+    a mo:町域 ;
     rdfs:label "浜玉町山瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495124" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町横田上
+    a mo:町域 ;
     rdfs:label "浜玉町横田上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495121" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市浜玉町横田下
+    a mo:町域 ;
     rdfs:label "浜玉町横田下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495122" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市原
+    a mo:町域 ;
     rdfs:label "原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470031" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市東宇木
+    a mo:町域 ;
     rdfs:label "東宇木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470024" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市東大島町
+    a mo:町域 ;
     rdfs:label "東大島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470871" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市東唐津
+    a mo:町域 ;
     rdfs:label "東唐津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470017" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市東城内
+    a mo:町域 ;
     rdfs:label "東城内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470016" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470063" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市東山
+    a mo:町域 ;
     rdfs:label "東山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470801" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町赤坂
+    a mo:町域 ;
     rdfs:label "肥前町赤坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471502" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町上ケ倉
+    a mo:町域 ;
     rdfs:label "肥前町上ケ倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471517" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町犬頭
+    a mo:町域 ;
     rdfs:label "肥前町犬頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471522" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町入野
+    a mo:町域 ;
     rdfs:label "肥前町入野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471526" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町梅崎
+    a mo:町域 ;
     rdfs:label "肥前町梅崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471512" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町瓜ケ坂
+    a mo:町域 ;
     rdfs:label "肥前町瓜ケ坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471516" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町大浦
+    a mo:町域 ;
     rdfs:label "肥前町大浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471506" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町切木
+    a mo:町域 ;
     rdfs:label "肥前町切木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471501" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町杉野浦
+    a mo:町域 ;
     rdfs:label "肥前町杉野浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471505" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町田野
+    a mo:町域 ;
     rdfs:label "肥前町田野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471521" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町鶴牧
+    a mo:町域 ;
     rdfs:label "肥前町鶴牧"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471527" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町寺浦
+    a mo:町域 ;
     rdfs:label "肥前町寺浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471513" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町中浦
+    a mo:町域 ;
     rdfs:label "肥前町中浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471504" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町新木場
+    a mo:町域 ;
     rdfs:label "肥前町新木場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471511" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町仁田野尾
+    a mo:町域 ;
     rdfs:label "肥前町仁田野尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471514" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町納所
+    a mo:町域 ;
     rdfs:label "肥前町納所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471525" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町星賀
+    a mo:町域 ;
     rdfs:label "肥前町星賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471523" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町万賀里川
+    a mo:町域 ;
     rdfs:label "肥前町万賀里川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471515" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町満越
+    a mo:町域 ;
     rdfs:label "肥前町満越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471507" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町向島
+    a mo:町域 ;
     rdfs:label "肥前町向島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471524" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市肥前町湯野浦
+    a mo:町域 ;
     rdfs:label "肥前町湯野浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471503" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市平野町
+    a mo:町域 ;
     rdfs:label "平野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470812" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市藤崎通
+    a mo:町域 ;
     rdfs:label "藤崎通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470874" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市富士見町
+    a mo:町域 ;
     rdfs:label "富士見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470851" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市二タ子
+    a mo:町域 ;
     rdfs:label "二タ子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470861" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市船宮町
+    a mo:町域 ;
     rdfs:label "船宮町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470062" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市坊主町
+    a mo:町域 ;
     rdfs:label "坊主町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470056" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470047" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市湊町
+    a mo:町域 ;
     rdfs:label "湊町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470133" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市南城内
+    a mo:町域 ;
     rdfs:label "南城内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市南富士見町
+    a mo:町域 ;
     rdfs:label "南富士見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470876" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市妙見町
+    a mo:町域 ;
     rdfs:label "妙見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470863" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市見借
+    a mo:町域 ;
     rdfs:label "見借"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470825" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市元石町
+    a mo:町域 ;
     rdfs:label "元石町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470064" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市元旗町
+    a mo:町域 ;
     rdfs:label "元旗町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470852" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市八百屋町
+    a mo:町域 ;
     rdfs:label "八百屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470811" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市屋形石
+    a mo:町域 ;
     rdfs:label "屋形石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470135" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市八幡町
+    a mo:町域 ;
     rdfs:label "八幡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市養母田
+    a mo:町域 ;
     rdfs:label "養母田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470004" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市養母田鬼塚
+    a mo:町域 ;
     rdfs:label "養母田鬼塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470005" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市山下町
+    a mo:町域 ;
     rdfs:label "山下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470842" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470834" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市山本
+    a mo:町域 ;
     rdfs:label "山本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市夕日
+    a mo:町域 ;
     rdfs:label "夕日"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470032" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市弓鷹町
+    a mo:町域 ;
     rdfs:label "弓鷹町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470814" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市横野
+    a mo:町域 ;
     rdfs:label "横野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470136" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市呼子町大友
+    a mo:町域 ;
     rdfs:label "呼子町大友"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470301" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市呼子町小川島
+    a mo:町域 ;
     rdfs:label "呼子町小川島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470306" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市呼子町加部島
+    a mo:町域 ;
     rdfs:label "呼子町加部島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470305" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市呼子町小友
+    a mo:町域 ;
     rdfs:label "呼子町小友"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470302" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市呼子町殿ノ浦
+    a mo:町域 ;
     rdfs:label "呼子町殿ノ浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470304" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市呼子町呼子
+    a mo:町域 ;
     rdfs:label "呼子町呼子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470303" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田海士町
+    a mo:町域 ;
     rdfs:label "和多田海士町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470071" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田大土井
+    a mo:町域 ;
     rdfs:label "和多田大土井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470083" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田先石
+    a mo:町域 ;
     rdfs:label "和多田先石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470074" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田天満町
+    a mo:町域 ;
     rdfs:label "和多田天満町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470082" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田西山
+    a mo:町域 ;
     rdfs:label "和多田西山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470084" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田東百人町
+    a mo:町域 ;
     rdfs:label "和多田東百人町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470073" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田百人町
+    a mo:町域 ;
     rdfs:label "和多田百人町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470072" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田本村
+    a mo:町域 ;
     rdfs:label "和多田本村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470085" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田南先石
+    a mo:町域 ;
     rdfs:label "和多田南先石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470081" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県唐津市和多田用尺
+    a mo:町域 ;
     rdfs:label "和多田用尺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8470075" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市
     rdfs:label "鳥栖市"@ja ;
@@ -2139,268 +2948,400 @@ mr:JP_佐賀県鳥栖市
 a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市秋葉町
+    a mo:町域 ;
     rdfs:label "秋葉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410036" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市浅井町
+    a mo:町域 ;
     rdfs:label "浅井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410082" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市あさひ新町
+    a mo:町域 ;
     rdfs:label "あさひ新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410068" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市安楽寺町
+    a mo:町域 ;
     rdfs:label "安楽寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410045" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市飯田町
+    a mo:町域 ;
     rdfs:label "飯田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410022" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市今泉町
+    a mo:町域 ;
     rdfs:label "今泉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410047" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市今町
+    a mo:町域 ;
     rdfs:label "今町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市牛原町
+    a mo:町域 ;
     rdfs:label "牛原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410086" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市江島町
+    a mo:町域 ;
     rdfs:label "江島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410073" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市加藤田町
+    a mo:町域 ;
     rdfs:label "加藤田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市萱方町
+    a mo:町域 ;
     rdfs:label "萱方町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410081" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市河内町
+    a mo:町域 ;
     rdfs:label "河内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410087" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市儀徳町
+    a mo:町域 ;
     rdfs:label "儀徳町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410066" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市京町
+    a mo:町域 ;
     rdfs:label "京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410034" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市蔵上
+    a mo:町域 ;
     rdfs:label "蔵上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410056" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市蔵上町
+    a mo:町域 ;
     rdfs:label "蔵上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410054" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市神辺町
+    a mo:町域 ;
     rdfs:label "神辺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410004" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市古賀町
+    a mo:町域 ;
     rdfs:label "古賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410083" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市幸津町
+    a mo:町域 ;
     rdfs:label "幸津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410062" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市酒井東町
+    a mo:町域 ;
     rdfs:label "酒井東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410041" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市酒井西町
+    a mo:町域 ;
     rdfs:label "酒井西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410042" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市桜ケ丘町
+    a mo:町域 ;
     rdfs:label "桜ケ丘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410088" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市桜町
+    a mo:町域 ;
     rdfs:label "桜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410014" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市下野町
+    a mo:町域 ;
     rdfs:label "下野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410063" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市宿町
+    a mo:町域 ;
     rdfs:label "宿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410052" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市曽根崎町
+    a mo:町域 ;
     rdfs:label "曽根崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410025" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市大正町
+    a mo:町域 ;
     rdfs:label "大正町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410032" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市高田町
+    a mo:町域 ;
     rdfs:label "高田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410044" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市田代上町
+    a mo:町域 ;
     rdfs:label "田代上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410015" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市田代昌町
+    a mo:町域 ;
     rdfs:label "田代昌町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市田代新町
+    a mo:町域 ;
     rdfs:label "田代新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市田代大官町
+    a mo:町域 ;
     rdfs:label "田代大官町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410017" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市田代外町
+    a mo:町域 ;
     rdfs:label "田代外町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410016" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市田代本町
+    a mo:町域 ;
     rdfs:label "田代本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410018" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市立石町
+    a mo:町域 ;
     rdfs:label "立石町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410075" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市土井町
+    a mo:町域 ;
     rdfs:label "土井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410039" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市轟木町
+    a mo:町域 ;
     rdfs:label "轟木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410061" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市永吉町
+    a mo:町域 ;
     rdfs:label "永吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市西新町
+    a mo:町域 ;
     rdfs:label "西新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410074" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市西田町
+    a mo:町域 ;
     rdfs:label "西田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410067" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市虹ケ丘町
+    a mo:町域 ;
     rdfs:label "虹ケ丘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410089" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市幡崎町
+    a mo:町域 ;
     rdfs:label "幡崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410021" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市原古賀町
+    a mo:町域 ;
     rdfs:label "原古賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410071" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市原町
+    a mo:町域 ;
     rdfs:label "原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410024" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410035" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市姫方町
+    a mo:町域 ;
     rdfs:label "姫方町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410023" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市平田町
+    a mo:町域 ;
     rdfs:label "平田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410076" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市藤木町
+    a mo:町域 ;
     rdfs:label "藤木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410048" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市布津原町
+    a mo:町域 ;
     rdfs:label "布津原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410053" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市古野町
+    a mo:町域 ;
     rdfs:label "古野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410038" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市本通町
+    a mo:町域 ;
     rdfs:label "本通町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410033" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市本鳥栖町
+    a mo:町域 ;
     rdfs:label "本鳥栖町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410026" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410037" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市前田町
+    a mo:町域 ;
     rdfs:label "前田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410065" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市真木町
+    a mo:町域 ;
     rdfs:label "真木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410046" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市松原町
+    a mo:町域 ;
     rdfs:label "松原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410027" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市三島町
+    a mo:町域 ;
     rdfs:label "三島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410064" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市水屋町
+    a mo:町域 ;
     rdfs:label "水屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410043" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市村田町
+    a mo:町域 ;
     rdfs:label "村田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410072" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市元町
+    a mo:町域 ;
     rdfs:label "元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410051" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市養父町
+    a mo:町域 ;
     rdfs:label "養父町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410055" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市山浦町
+    a mo:町域 ;
     rdfs:label "山浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410084" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市山都町
+    a mo:町域 ;
     rdfs:label "山都町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410085" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市弥生が丘
+    a mo:町域 ;
     rdfs:label "弥生が丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410005" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市鎗田町
+    a mo:町域 ;
     rdfs:label "鎗田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410031" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鳥栖市柚比町
+    a mo:町域 ;
     rdfs:label "柚比町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市
     rdfs:label "多久市"@ja ;
@@ -2427,76 +3368,112 @@ mr:JP_佐賀県多久市
 a mo:GeoEntity .
 
 mr:JP_佐賀県多久市北多久町
+    a mo:町域 ;
     rdfs:label "北多久町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市北多久町莇原
+    a mo:町域 ;
     rdfs:label "北多久町莇原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460006" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市北多久町小侍
+    a mo:町域 ;
     rdfs:label "北多久町小侍"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市北多久町砂原
+    a mo:町域 ;
     rdfs:label "北多久町砂原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460005" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市北多久町多久原
+    a mo:町域 ;
     rdfs:label "北多久町多久原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市北多久町中多久
+    a mo:町域 ;
     rdfs:label "北多久町中多久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460004" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市北多久町メイプルタウン
+    a mo:町域 ;
     rdfs:label "北多久町メイプルタウン"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460007" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市多久町
+    a mo:町域 ;
     rdfs:label "多久町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460031" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市西多久町
+    a mo:町域 ;
     rdfs:label "西多久町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460041" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市東多久町
+    a mo:町域 ;
     rdfs:label "東多久町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市東多久町古賀
+    a mo:町域 ;
     rdfs:label "東多久町古賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市東多久町納所
+    a mo:町域 ;
     rdfs:label "東多久町納所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460014" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市東多久町別府
+    a mo:町域 ;
     rdfs:label "東多久町別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市南多久町
+    a mo:町域 ;
     rdfs:label "南多久町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460021" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市南多久町泉町
+    a mo:町域 ;
     rdfs:label "南多久町泉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460022" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市南多久町下多久
+    a mo:町域 ;
     rdfs:label "南多久町下多久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460024" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市南多久町長尾
+    a mo:町域 ;
     rdfs:label "南多久町長尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460023" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県多久市南多久町花祭
+    a mo:町域 ;
     rdfs:label "南多久町花祭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8460025" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市
     rdfs:label "伊万里市"@ja ;
@@ -2596,373 +3573,557 @@ mr:JP_佐賀県伊万里市
 a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市伊万里町甲
+    a mo:町域 ;
     rdfs:label "伊万里町甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480047" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市伊万里町乙
+    a mo:町域 ;
     rdfs:label "伊万里町乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480046" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川内町甲
+    a mo:町域 ;
     rdfs:label "大川内町甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480024" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川内町乙
+    a mo:町域 ;
     rdfs:label "大川内町乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480025" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川内町丙
+    a mo:町域 ;
     rdfs:label "大川内町丙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480026" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川町大川野
+    a mo:町域 ;
     rdfs:label "大川町大川野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495251" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川町川原
+    a mo:町域 ;
     rdfs:label "大川町川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495257" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川町川西
+    a mo:町域 ;
     rdfs:label "大川町川西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495252" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川町駒鳴
+    a mo:町域 ;
     rdfs:label "大川町駒鳴"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495253" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川町立川
+    a mo:町域 ;
     rdfs:label "大川町立川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495254" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川町東田代
+    a mo:町域 ;
     rdfs:label "大川町東田代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495256" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大川町山口
+    a mo:町域 ;
     rdfs:label "大川町山口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495255" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大坪町甲
+    a mo:町域 ;
     rdfs:label "大坪町甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480021" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大坪町乙
+    a mo:町域 ;
     rdfs:label "大坪町乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480022" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市大坪町丙
+    a mo:町域 ;
     rdfs:label "大坪町丙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480023" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市木須町
+    a mo:町域 ;
     rdfs:label "木須町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480044" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町
+    a mo:町域 ;
     rdfs:label "黒川町"@ja ;
     mo:SubRegion mr:JP_佐賀県伊万里市黒川町名村団地 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480124" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町名村団地
     rdfs:label "名村団地"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "8480124" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町大黒川
+    a mo:町域 ;
     rdfs:label "黒川町大黒川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480123" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町黒塩
+    a mo:町域 ;
     rdfs:label "黒川町黒塩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480146" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町小黒川
+    a mo:町域 ;
     rdfs:label "黒川町小黒川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480125" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町塩屋
+    a mo:町域 ;
     rdfs:label "黒川町塩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480121" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町清水
+    a mo:町域 ;
     rdfs:label "黒川町清水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480141" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町立目
+    a mo:町域 ;
     rdfs:label "黒川町立目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480142" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町椿原
+    a mo:町域 ;
     rdfs:label "黒川町椿原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480145" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町長尾
+    a mo:町域 ;
     rdfs:label "黒川町長尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480132" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町畑川内
+    a mo:町域 ;
     rdfs:label "黒川町畑川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480131" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町花房
+    a mo:町域 ;
     rdfs:label "黒川町花房"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480134" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町福田
+    a mo:町域 ;
     rdfs:label "黒川町福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480122" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町真手野
+    a mo:町域 ;
     rdfs:label "黒川町真手野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480133" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町牟田
+    a mo:町域 ;
     rdfs:label "黒川町牟田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480143" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市黒川町横野
+    a mo:町域 ;
     rdfs:label "黒川町横野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480144" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市新天町
+    a mo:町域 ;
     rdfs:label "新天町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480041" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市瀬戸町
+    a mo:町域 ;
     rdfs:label "瀬戸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480043" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市立花町
+    a mo:町域 ;
     rdfs:label "立花町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480027" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市二里町大里甲
+    a mo:町域 ;
     rdfs:label "二里町大里甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480032" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市二里町大里乙
+    a mo:町域 ;
     rdfs:label "二里町大里乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480035" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市二里町中里甲
+    a mo:町域 ;
     rdfs:label "二里町中里甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480034" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市二里町中里乙
+    a mo:町域 ;
     rdfs:label "二里町中里乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480033" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市二里町八谷搦
+    a mo:町域 ;
     rdfs:label "二里町八谷搦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480031" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市蓮池町
+    a mo:町域 ;
     rdfs:label "蓮池町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480042" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町板木
+    a mo:町域 ;
     rdfs:label "波多津町板木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480113" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町井野尾
+    a mo:町域 ;
     rdfs:label "波多津町井野尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480116" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町内野
+    a mo:町域 ;
     rdfs:label "波多津町内野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町木場
+    a mo:町域 ;
     rdfs:label "波多津町木場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480111" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町煤屋
+    a mo:町域 ;
     rdfs:label "波多津町煤屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町田代
+    a mo:町域 ;
     rdfs:label "波多津町田代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480112" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町辻
+    a mo:町域 ;
     rdfs:label "波多津町辻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町筒井
+    a mo:町域 ;
     rdfs:label "波多津町筒井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480117" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町津留主屋
+    a mo:町域 ;
     rdfs:label "波多津町津留主屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480114" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町中山
+    a mo:町域 ;
     rdfs:label "波多津町中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480115" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町畑津
+    a mo:町域 ;
     rdfs:label "波多津町畑津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市波多津町馬蛤潟
+    a mo:町域 ;
     rdfs:label "波多津町馬蛤潟"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480105" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町浦川内
+    a mo:町域 ;
     rdfs:label "東山代町浦川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494284" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町大久保
+    a mo:町域 ;
     rdfs:label "東山代町大久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494281" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町川内野
+    a mo:町域 ;
     rdfs:label "東山代町川内野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494286" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町里
+    a mo:町域 ;
     rdfs:label "東山代町里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494282" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町滝川内
+    a mo:町域 ;
     rdfs:label "東山代町滝川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494285" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町天神
+    a mo:町域 ;
     rdfs:label "東山代町天神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494273" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町長浜
+    a mo:町域 ;
     rdfs:label "東山代町長浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494271" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町日尾
+    a mo:町域 ;
     rdfs:label "東山代町日尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494272" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町東大久保
+    a mo:町域 ;
     rdfs:label "東山代町東大久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494283" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市東山代町脇野
+    a mo:町域 ;
     rdfs:label "東山代町脇野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494274" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市松浦町提川
+    a mo:町域 ;
     rdfs:label "松浦町提川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495264" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市松浦町中野原
+    a mo:町域 ;
     rdfs:label "松浦町中野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495262" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市松浦町桃川
+    a mo:町域 ;
     rdfs:label "松浦町桃川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495261" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市松浦町山形
+    a mo:町域 ;
     rdfs:label "松浦町山形"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8495263" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市松島町
+    a mo:町域 ;
     rdfs:label "松島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480045" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町井手野
+    a mo:町域 ;
     rdfs:label "南波多町井手野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480007" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町大川原
+    a mo:町域 ;
     rdfs:label "南波多町大川原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町大曲
+    a mo:町域 ;
     rdfs:label "南波多町大曲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480005" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町笠椎
+    a mo:町域 ;
     rdfs:label "南波多町笠椎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町小麦原
+    a mo:町域 ;
     rdfs:label "南波多町小麦原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480014" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町重橋
+    a mo:町域 ;
     rdfs:label "南波多町重橋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町高瀬
+    a mo:町域 ;
     rdfs:label "南波多町高瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480006" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町谷口
+    a mo:町域 ;
     rdfs:label "南波多町谷口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町水留
+    a mo:町域 ;
     rdfs:label "南波多町水留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480004" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町原屋敷
+    a mo:町域 ;
     rdfs:label "南波多町原屋敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480016" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町府招
+    a mo:町域 ;
     rdfs:label "南波多町府招"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480015" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町古川
+    a mo:町域 ;
     rdfs:label "南波多町古川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市南波多町古里
+    a mo:町域 ;
     rdfs:label "南波多町古里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町楠久
+    a mo:町域 ;
     rdfs:label "山代町楠久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494251" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町楠久津
+    a mo:町域 ;
     rdfs:label "山代町楠久津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494252" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町久原
+    a mo:町域 ;
     rdfs:label "山代町久原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494256" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町城
+    a mo:町域 ;
     rdfs:label "山代町城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494254" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町立岩
+    a mo:町域 ;
     rdfs:label "山代町立岩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494261" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町西大久保
+    a mo:町域 ;
     rdfs:label "山代町西大久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494263" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町東分
+    a mo:町域 ;
     rdfs:label "山代町東分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494264" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町西分
+    a mo:町域 ;
     rdfs:label "山代町西分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494262" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町福川内
+    a mo:町域 ;
     rdfs:label "山代町福川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494255" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市山代町峰
+    a mo:町域 ;
     rdfs:label "山代町峰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494253" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県伊万里市脇田町
+    a mo:町域 ;
     rdfs:label "脇田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8480028" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市
     rdfs:label "武雄市"@ja ;
@@ -3000,120 +4161,178 @@ mr:JP_佐賀県武雄市
 a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市朝日町芦原
+    a mo:町域 ;
     rdfs:label "朝日町芦原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市朝日町甘久
+    a mo:町域 ;
     rdfs:label "朝日町甘久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市朝日町中野
+    a mo:町域 ;
     rdfs:label "朝日町中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市北方町芦原
+    a mo:町域 ;
     rdfs:label "北方町芦原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市北方町大崎
+    a mo:町域 ;
     rdfs:label "北方町大崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492204" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市北方町大渡
+    a mo:町域 ;
     rdfs:label "北方町大渡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市北方町志久
+    a mo:町域 ;
     rdfs:label "北方町志久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市武内町梅野
+    a mo:町域 ;
     rdfs:label "武内町梅野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492341" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市武内町真手野
+    a mo:町域 ;
     rdfs:label "武内町真手野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492342" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市武雄町昭和
+    a mo:町域 ;
     rdfs:label "武雄町昭和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430023" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市武雄町武雄
+    a mo:町域 ;
     rdfs:label "武雄町武雄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430022" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市武雄町富岡
+    a mo:町域 ;
     rdfs:label "武雄町富岡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430024" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市武雄町永島
+    a mo:町域 ;
     rdfs:label "武雄町永島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430021" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市橘町芦原
+    a mo:町域 ;
     rdfs:label "橘町芦原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市橘町片白
+    a mo:町域 ;
     rdfs:label "橘町片白"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市橘町大日
+    a mo:町域 ;
     rdfs:label "橘町大日"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市橘町永島
+    a mo:町域 ;
     rdfs:label "橘町永島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430014" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市西川登町小田志
+    a mo:町域 ;
     rdfs:label "西川登町小田志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430231" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市西川登町神六
+    a mo:町域 ;
     rdfs:label "西川登町神六"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430232" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市東川登町永野
+    a mo:町域 ;
     rdfs:label "東川登町永野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430233" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市東川登町袴野
+    a mo:町域 ;
     rdfs:label "東川登町袴野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430234" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市山内町犬走
+    a mo:町域 ;
     rdfs:label "山内町犬走"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492301" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市山内町大野
+    a mo:町域 ;
     rdfs:label "山内町大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492304" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市山内町鳥海
+    a mo:町域 ;
     rdfs:label "山内町鳥海"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492302" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市山内町三間坂
+    a mo:町域 ;
     rdfs:label "山内町三間坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492303" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市山内町宮野
+    a mo:町域 ;
     rdfs:label "山内町宮野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492305" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市若木町川古
+    a mo:町域 ;
     rdfs:label "若木町川古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430151" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市若木町本部
+    a mo:町域 ;
     rdfs:label "若木町本部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430152" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県武雄市若木町桃川
+    a mo:町域 ;
     rdfs:label "若木町桃川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430153" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市
     rdfs:label "鹿島市"@ja ;
@@ -3135,56 +4354,82 @@ mr:JP_佐賀県鹿島市
 a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市飯田
+    a mo:町域 ;
     rdfs:label "飯田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491324" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市井手
+    a mo:町域 ;
     rdfs:label "井手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491302" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市音成
+    a mo:町域 ;
     rdfs:label "音成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491323" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市重ノ木
+    a mo:町域 ;
     rdfs:label "重ノ木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491313" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市高津原
+    a mo:町域 ;
     rdfs:label "高津原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491311" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市常広
+    a mo:町域 ;
     rdfs:label "常広"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491301" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市中村
+    a mo:町域 ;
     rdfs:label "中村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491304" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市納富分
+    a mo:町域 ;
     rdfs:label "納富分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491312" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市浜町
+    a mo:町域 ;
     rdfs:label "浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491322" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市古枝
+    a mo:町域 ;
     rdfs:label "古枝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491321" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市三河内
+    a mo:町域 ;
     rdfs:label "三河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491315" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市森
+    a mo:町域 ;
     rdfs:label "森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491303" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県鹿島市山浦
+    a mo:町域 ;
     rdfs:label "山浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491314" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市
     rdfs:label "小城市"@ja ;
@@ -3224,128 +4469,190 @@ mr:JP_佐賀県小城市
 a mo:GeoEntity .
 
 mr:JP_佐賀県小城市芦刈町芦溝
+    a mo:町域 ;
     rdfs:label "芦刈町芦溝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490311" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市芦刈町下古賀
+    a mo:町域 ;
     rdfs:label "芦刈町下古賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490312" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市芦刈町道免
+    a mo:町域 ;
     rdfs:label "芦刈町道免"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490316" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市芦刈町永田
+    a mo:町域 ;
     rdfs:label "芦刈町永田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490313" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市芦刈町浜枝川
+    a mo:町域 ;
     rdfs:label "芦刈町浜枝川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490315" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市芦刈町三王崎
+    a mo:町域 ;
     rdfs:label "芦刈町三王崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490314" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市牛津町牛津
+    a mo:町域 ;
     rdfs:label "牛津町牛津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490303" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市牛津町乙柳
+    a mo:町域 ;
     rdfs:label "牛津町乙柳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490301" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市牛津町柿樋瀬
+    a mo:町域 ;
     rdfs:label "牛津町柿樋瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490302" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市牛津町勝
+    a mo:町域 ;
     rdfs:label "牛津町勝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490306" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市牛津町上砥川
+    a mo:町域 ;
     rdfs:label "牛津町上砥川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490305" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市牛津町下砥川
+    a mo:町域 ;
     rdfs:label "牛津町下砥川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490304" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町
+    a mo:町域 ;
     rdfs:label "小城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町池上
+    a mo:町域 ;
     rdfs:label "小城町池上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町岩蔵
+    a mo:町域 ;
     rdfs:label "小城町岩蔵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町栗原
+    a mo:町域 ;
     rdfs:label "小城町栗原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町畑田
+    a mo:町域 ;
     rdfs:label "小城町畑田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町晴気
+    a mo:町域 ;
     rdfs:label "小城町晴気"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450014" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町東新町
+    a mo:町域 ;
     rdfs:label "小城町東新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450005" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町船田
+    a mo:町域 ;
     rdfs:label "小城町船田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市小城町松尾
+    a mo:町域 ;
     rdfs:label "小城町松尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450004" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町石木
+    a mo:町域 ;
     rdfs:label "三日月町石木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450035" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町織島
+    a mo:町域 ;
     rdfs:label "三日月町織島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450023" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町金田
+    a mo:町域 ;
     rdfs:label "三日月町金田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450032" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町久米
+    a mo:町域 ;
     rdfs:label "三日月町久米"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450022" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町甲柳原
+    a mo:町域 ;
     rdfs:label "三日月町甲柳原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450034" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町長神田
+    a mo:町域 ;
     rdfs:label "三日月町長神田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450021" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町樋口
+    a mo:町域 ;
     rdfs:label "三日月町樋口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450033" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町堀江
+    a mo:町域 ;
     rdfs:label "三日月町堀江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450031" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町三ケ島
+    a mo:町域 ;
     rdfs:label "三日月町三ケ島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450025" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県小城市三日月町道辺
+    a mo:町域 ;
     rdfs:label "三日月町道辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8450024" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市
     rdfs:label "嬉野市"@ja ;
@@ -3375,88 +4682,130 @@ mr:JP_佐賀県嬉野市
 a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市嬉野町岩屋川内
+    a mo:町域 ;
     rdfs:label "嬉野町岩屋川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430304" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市嬉野町下宿
+    a mo:町域 ;
     rdfs:label "嬉野町下宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430301" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市嬉野町下野
+    a mo:町域 ;
     rdfs:label "嬉野町下野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430302" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市嬉野町不動山
+    a mo:町域 ;
     rdfs:label "嬉野町不動山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430305" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市嬉野町吉田
+    a mo:町域 ;
     rdfs:label "嬉野町吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8430303" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町大草野乙
+    a mo:町域 ;
     rdfs:label "塩田町大草野乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491416" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町大草野甲
+    a mo:町域 ;
     rdfs:label "塩田町大草野甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491414" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町大草野丙
+    a mo:町域 ;
     rdfs:label "塩田町大草野丙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491415" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町久間乙
+    a mo:町域 ;
     rdfs:label "塩田町久間乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491402" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町久間甲
+    a mo:町域 ;
     rdfs:label "塩田町久間甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491401" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町久間丁
+    a mo:町域 ;
     rdfs:label "塩田町久間丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491404" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町久間丙
+    a mo:町域 ;
     rdfs:label "塩田町久間丙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491403" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町五町田乙
+    a mo:町域 ;
     rdfs:label "塩田町五町田乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491426" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町五町田甲
+    a mo:町域 ;
     rdfs:label "塩田町五町田甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491425" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町谷所乙
+    a mo:町域 ;
     rdfs:label "塩田町谷所乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491423" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町谷所甲
+    a mo:町域 ;
     rdfs:label "塩田町谷所甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491422" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町谷所丙
+    a mo:町域 ;
     rdfs:label "塩田町谷所丙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491424" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町馬場下乙
+    a mo:町域 ;
     rdfs:label "塩田町馬場下乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491412" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町馬場下甲
+    a mo:町域 ;
     rdfs:label "塩田町馬場下甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491411" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町馬場下丙
+    a mo:町域 ;
     rdfs:label "塩田町馬場下丙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491413" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県嬉野市塩田町真崎
+    a mo:町域 ;
     rdfs:label "塩田町真崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491421" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市
     rdfs:label "神埼市"@ja ;
@@ -3497,132 +4846,197 @@ mr:JP_佐賀県神埼市
 a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町姉川
+    a mo:町域 ;
     rdfs:label "神埼町姉川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420014" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町的
+    a mo:町域 ;
     rdfs:label "神埼町的"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420123" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町枝ケ里
+    a mo:町域 ;
     rdfs:label "神埼町枝ケ里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420006" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町尾崎
+    a mo:町域 ;
     rdfs:label "神埼町尾崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420015" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町神埼
+    a mo:町域 ;
     rdfs:label "神埼町神埼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町城原
+    a mo:町域 ;
     rdfs:label "神埼町城原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420122" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町志波屋
+    a mo:町域 ;
     rdfs:label "神埼町志波屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420121" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町竹
+    a mo:町域 ;
     rdfs:label "神埼町竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町田道ケ里
+    a mo:町域 ;
     rdfs:label "神埼町田道ケ里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町鶴
+    a mo:町域 ;
     rdfs:label "神埼町鶴"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420107" ;
+    mo:JP_郵便番号 "8420007" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町永歌
+    a mo:町域 ;
     rdfs:label "神埼町永歌"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420004" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町西小津ケ里
+    a mo:町域 ;
     rdfs:label "神埼町西小津ケ里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420005" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町本告牟田
+    a mo:町域 ;
     rdfs:label "神埼町本告牟田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町本堀
+    a mo:町域 ;
     rdfs:label "神埼町本堀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市神埼町横武
+    a mo:町域 ;
     rdfs:label "神埼町横武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市脊振町服巻
+    a mo:町域 ;
     rdfs:label "脊振町服巻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市脊振町広滝
+    a mo:町域 ;
     rdfs:label "脊振町広滝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市脊振町鹿路
+    a mo:町域 ;
     rdfs:label "脊振町鹿路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町姉
+    a mo:町域 ;
     rdfs:label "千代田町姉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420052" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町餘江
+    a mo:町域 ;
     rdfs:label "千代田町餘江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420054" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町嘉納
+    a mo:町域 ;
     rdfs:label "千代田町嘉納"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420067" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町黒井
+    a mo:町域 ;
     rdfs:label "千代田町黒井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420051" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町境原
+    a mo:町域 ;
     rdfs:label "千代田町境原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420056" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町崎村
+    a mo:町域 ;
     rdfs:label "千代田町崎村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420065" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町下板
+    a mo:町域 ;
     rdfs:label "千代田町下板"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420068" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町下西
+    a mo:町域 ;
     rdfs:label "千代田町下西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420055" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町詫田
+    a mo:町域 ;
     rdfs:label "千代田町詫田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420061" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町直鳥
+    a mo:町域 ;
     rdfs:label "千代田町直鳥"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420053" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町迎島
+    a mo:町域 ;
     rdfs:label "千代田町迎島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420063" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町柳島
+    a mo:町域 ;
     rdfs:label "千代田町柳島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420062" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町用作
+    a mo:町域 ;
     rdfs:label "千代田町用作"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420066" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼市千代田町渡瀬
+    a mo:町域 ;
     rdfs:label "千代田町渡瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420064" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町
     rdfs:label "神埼郡吉野ヶ里町"@ja ;
@@ -3640,40 +5054,58 @@ mr:JP_佐賀県神埼郡吉野ヶ里町
 a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町石動
+    a mo:町域 ;
     rdfs:label "石動"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町大曲
+    a mo:町域 ;
     rdfs:label "大曲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町田手
+    a mo:町域 ;
     rdfs:label "田手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420035" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町立野
+    a mo:町域 ;
     rdfs:label "立野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420032" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町箱川
+    a mo:町域 ;
     rdfs:label "箱川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420034" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町松隈
+    a mo:町域 ;
     rdfs:label "松隈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町豆田
+    a mo:町域 ;
     rdfs:label "豆田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420033" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町三津
+    a mo:町域 ;
     rdfs:label "三津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県神埼郡吉野ヶ里町吉田
+    a mo:町域 ;
     rdfs:label "吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8420031" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡基山町
     rdfs:label "三養基郡基山町"@ja ;
@@ -3687,24 +5119,34 @@ mr:JP_佐賀県三養基郡基山町
 a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡基山町けやき台
+    a mo:町域 ;
     rdfs:label "けやき台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410205" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡基山町小倉
+    a mo:町域 ;
     rdfs:label "小倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡基山町園部
+    a mo:町域 ;
     rdfs:label "園部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡基山町長野
+    a mo:町域 ;
     rdfs:label "長野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡基山町宮浦
+    a mo:町域 ;
     rdfs:label "宮浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8410204" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡上峰町
     rdfs:label "三養基郡上峰町"@ja ;
@@ -3717,20 +5159,28 @@ mr:JP_佐賀県三養基郡上峰町
 a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡上峰町江迎
+    a mo:町域 ;
     rdfs:label "江迎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490121" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡上峰町堤
+    a mo:町域 ;
     rdfs:label "堤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490124" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡上峰町坊所
+    a mo:町域 ;
     rdfs:label "坊所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490123" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡上峰町前牟田
+    a mo:町域 ;
     rdfs:label "前牟田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490122" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町
     rdfs:label "三養基郡みやき町"@ja ;
@@ -3751,52 +5201,76 @@ mr:JP_佐賀県三養基郡みやき町
 a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町市武
+    a mo:町域 ;
     rdfs:label "市武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8401106" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町江口
+    a mo:町域 ;
     rdfs:label "江口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490112" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町坂口
+    a mo:町域 ;
     rdfs:label "坂口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8401103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町白壁
+    a mo:町域 ;
     rdfs:label "白壁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490111" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町天建寺
+    a mo:町域 ;
     rdfs:label "天建寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8401102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町中津隈
+    a mo:町域 ;
     rdfs:label "中津隈"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490114" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町西島
+    a mo:町域 ;
     rdfs:label "西島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8401101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町原古賀
+    a mo:町域 ;
     rdfs:label "原古賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町東尾
+    a mo:町域 ;
     rdfs:label "東尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490113" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町東津
+    a mo:町域 ;
     rdfs:label "東津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8401104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町簑原
+    a mo:町域 ;
     rdfs:label "簑原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県三養基郡みやき町寄人
+    a mo:町域 ;
     rdfs:label "寄人"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8401105" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町
     rdfs:label "東松浦郡玄海町"@ja ;
@@ -3832,112 +5306,166 @@ mr:JP_佐賀県東松浦郡玄海町
 a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町有浦上
+    a mo:町域 ;
     rdfs:label "有浦上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471403" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町有浦下
+    a mo:町域 ;
     rdfs:label "有浦下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471402" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町石田
+    a mo:町域 ;
     rdfs:label "石田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471423" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町今村
+    a mo:町域 ;
     rdfs:label "今村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471441" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町大薗
+    a mo:町域 ;
     rdfs:label "大薗"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471434" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町大鳥
+    a mo:町域 ;
     rdfs:label "大鳥"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471413" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町仮立
+    a mo:町域 ;
     rdfs:label "仮立"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471443" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町仮屋
+    a mo:町域 ;
     rdfs:label "仮屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471435" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町小加倉
+    a mo:町域 ;
     rdfs:label "小加倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471401" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町栄
+    a mo:町域 ;
     rdfs:label "栄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471424" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町下宮
+    a mo:町域 ;
     rdfs:label "下宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471445" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町新田
+    a mo:町域 ;
     rdfs:label "新田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471422" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町座川内
+    a mo:町域 ;
     rdfs:label "座川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471415" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町田代
+    a mo:町域 ;
     rdfs:label "田代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471412" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町値賀川内
+    a mo:町域 ;
     rdfs:label "値賀川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471442" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町轟木
+    a mo:町域 ;
     rdfs:label "轟木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471411" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町中通
+    a mo:町域 ;
     rdfs:label "中通"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471444" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町長倉
+    a mo:町域 ;
     rdfs:label "長倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471404" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町花の木
+    a mo:町域 ;
     rdfs:label "花の木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471425" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町浜野浦
+    a mo:町域 ;
     rdfs:label "浜野浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471433" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町平尾
+    a mo:町域 ;
     rdfs:label "平尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471432" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町普恩寺
+    a mo:町域 ;
     rdfs:label "普恩寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471431" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町藤平
+    a mo:町域 ;
     rdfs:label "藤平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471405" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町外津
+    a mo:町域 ;
     rdfs:label "外津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471446" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町牟形
+    a mo:町域 ;
     rdfs:label "牟形"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471416" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町諸浦
+    a mo:町域 ;
     rdfs:label "諸浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471421" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県東松浦郡玄海町湯野尾
+    a mo:町域 ;
     rdfs:label "湯野尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8471414" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町
     rdfs:label "西松浦郡有田町"@ja ;
@@ -3995,200 +5523,298 @@ mr:JP_佐賀県西松浦郡有田町
 a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町赤絵町
+    a mo:町域 ;
     rdfs:label "赤絵町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440006" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町赤坂
+    a mo:町域 ;
     rdfs:label "赤坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440024" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町泉山
+    a mo:町域 ;
     rdfs:label "泉山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440001" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町岩谷川内
+    a mo:町域 ;
     rdfs:label "岩谷川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440011" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町応法
+    a mo:町域 ;
     rdfs:label "応法"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440021" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町大木宿
+    a mo:町域 ;
     rdfs:label "大木宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494154" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町大樽
+    a mo:町域 ;
     rdfs:label "大樽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440004" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町大野
+    a mo:町域 ;
     rdfs:label "大野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440013" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町上内野
+    a mo:町域 ;
     rdfs:label "上内野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494162" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町上幸平
+    a mo:町域 ;
     rdfs:label "上幸平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440003" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町上本
+    a mo:町域 ;
     rdfs:label "上本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494174" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町上山谷
+    a mo:町域 ;
     rdfs:label "上山谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494144" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町北ノ川内
+    a mo:町域 ;
     rdfs:label "北ノ川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494166" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町楠木原
+    a mo:町域 ;
     rdfs:label "楠木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494175" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町黒川
+    a mo:町域 ;
     rdfs:label "黒川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494165" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町黒牟田
+    a mo:町域 ;
     rdfs:label "黒牟田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440022" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町桑古場
+    a mo:町域 ;
     rdfs:label "桑古場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440012" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町桑木原
+    a mo:町域 ;
     rdfs:label "桑木原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494156" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町幸平
+    a mo:町域 ;
     rdfs:label "幸平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440005" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町境野
+    a mo:町域 ;
     rdfs:label "境野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440016" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町下内野
+    a mo:町域 ;
     rdfs:label "下内野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494163" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町下本
+    a mo:町域 ;
     rdfs:label "下本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494172" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町下山谷
+    a mo:町域 ;
     rdfs:label "下山谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494143" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町白川
+    a mo:町域 ;
     rdfs:label "白川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440007" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町蔵宿
+    a mo:町域 ;
     rdfs:label "蔵宿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494161" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町岳
+    a mo:町域 ;
     rdfs:label "岳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494146" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町立部
+    a mo:町域 ;
     rdfs:label "立部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494153" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町戸杓
+    a mo:町域 ;
     rdfs:label "戸杓"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440017" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町戸矢
+    a mo:町域 ;
     rdfs:label "戸矢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440014" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町中樽
+    a mo:町域 ;
     rdfs:label "中樽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440002" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町中の原
+    a mo:町域 ;
     rdfs:label "中の原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440009" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町南山
+    a mo:町域 ;
     rdfs:label "南山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440028" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町南原
+    a mo:町域 ;
     rdfs:label "南原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440027" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町二ノ瀬
+    a mo:町域 ;
     rdfs:label "二ノ瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494141" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町原明
+    a mo:町域 ;
     rdfs:label "原明"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494176" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町稗古場
+    a mo:町域 ;
     rdfs:label "稗古場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440008" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町広瀬
+    a mo:町域 ;
     rdfs:label "広瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494152" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町広瀬山
+    a mo:町域 ;
     rdfs:label "広瀬山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494151" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町古木場
+    a mo:町域 ;
     rdfs:label "古木場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440015" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町外尾町
+    a mo:町域 ;
     rdfs:label "外尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440026" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町外尾山
+    a mo:町域 ;
     rdfs:label "外尾山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440025" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町仏ノ原
+    a mo:町域 ;
     rdfs:label "仏ノ原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494164" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440018" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町舞原
+    a mo:町域 ;
     rdfs:label "舞原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494173" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町丸尾
+    a mo:町域 ;
     rdfs:label "丸尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8440023" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町山谷切口
+    a mo:町域 ;
     rdfs:label "山谷切口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494145" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町山谷牧
+    a mo:町域 ;
     rdfs:label "山谷牧"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494142" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町山本
+    a mo:町域 ;
     rdfs:label "山本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494155" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県西松浦郡有田町代々木
+    a mo:町域 ;
     rdfs:label "代々木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8494171" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡大町町
     rdfs:label "杵島郡大町町"@ja ;
@@ -4199,12 +5825,16 @@ mr:JP_佐賀県杵島郡大町町
 a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡大町町大町
+    a mo:町域 ;
     rdfs:label "大町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡大町町福母
+    a mo:町域 ;
     rdfs:label "福母"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8492102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡江北町
     rdfs:label "杵島郡江北町"@ja ;
@@ -4219,28 +5849,40 @@ mr:JP_佐賀県杵島郡江北町
 a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡江北町上小田
+    a mo:町域 ;
     rdfs:label "上小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490506" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡江北町佐留志
+    a mo:町域 ;
     rdfs:label "佐留志"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490502" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡江北町下小田
+    a mo:町域 ;
     rdfs:label "下小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490505" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡江北町惣領分
+    a mo:町域 ;
     rdfs:label "惣領分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490503" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡江北町八町
+    a mo:町域 ;
     rdfs:label "八町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490504" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡江北町山口
+    a mo:町域 ;
     rdfs:label "山口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490501" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町
     rdfs:label "杵島郡白石町"@ja ;
@@ -4273,100 +5915,148 @@ mr:JP_佐賀県杵島郡白石町
 a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町今泉
+    a mo:町域 ;
     rdfs:label "今泉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491101" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町牛屋
+    a mo:町域 ;
     rdfs:label "牛屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491201" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町大渡
+    a mo:町域 ;
     rdfs:label "大渡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491102" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町坂田
+    a mo:町域 ;
     rdfs:label "坂田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491204" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町新開
+    a mo:町域 ;
     rdfs:label "新開"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491208" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町新拓
+    a mo:町域 ;
     rdfs:label "新拓"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491221" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町新明
+    a mo:町域 ;
     rdfs:label "新明"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491202" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町田野上
+    a mo:町域 ;
     rdfs:label "田野上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491205" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町築切
+    a mo:町域 ;
     rdfs:label "築切"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491103" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町堤
+    a mo:町域 ;
     rdfs:label "堤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491104" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町遠江
+    a mo:町域 ;
     rdfs:label "遠江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491105" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町戸ケ里
+    a mo:町域 ;
     rdfs:label "戸ケ里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491203" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町廿治
+    a mo:町域 ;
     rdfs:label "廿治"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491106" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町八平
+    a mo:町域 ;
     rdfs:label "八平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490403" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町東郷
+    a mo:町域 ;
     rdfs:label "東郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491111" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町深浦
+    a mo:町域 ;
     rdfs:label "深浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491207" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町福田
+    a mo:町域 ;
     rdfs:label "福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491112" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町福富
+    a mo:町域 ;
     rdfs:label "福富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490401" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町福富下分
+    a mo:町域 ;
     rdfs:label "福富下分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8490402" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町福吉
+    a mo:町域 ;
     rdfs:label "福吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491113" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町辺田
+    a mo:町域 ;
     rdfs:label "辺田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491206" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町馬洗
+    a mo:町域 ;
     rdfs:label "馬洗"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491114" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町湯崎
+    a mo:町域 ;
     rdfs:label "湯崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491115" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県杵島郡白石町横手
+    a mo:町域 ;
     rdfs:label "横手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491116" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町
     rdfs:label "藤津郡太良町"@ja ;
@@ -4384,38 +6074,56 @@ mr:JP_佐賀県藤津郡太良町
 a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町糸岐
+    a mo:町域 ;
     rdfs:label "糸岐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491603" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町伊福甲
+    a mo:町域 ;
     rdfs:label "伊福甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491601" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町大浦甲
+    a mo:町域 ;
     rdfs:label "大浦甲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491614" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町大浦乙
+    a mo:町域 ;
     rdfs:label "大浦乙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491615" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町大浦丙
+    a mo:町域 ;
     rdfs:label "大浦丙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491613" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町大浦丁
+    a mo:町域 ;
     rdfs:label "大浦丁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491612" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町大浦戊
+    a mo:町域 ;
     rdfs:label "大浦戊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491611" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町大浦己
+    a mo:町域 ;
     rdfs:label "大浦己"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491616" ;
+a mo:GeoEntity .
 
 mr:JP_佐賀県藤津郡太良町多良
+    a mo:町域 ;
     rdfs:label "多良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "8491602" ;
+a mo:GeoEntity .
 

@@ -237,797 +237,1194 @@ mr:JP_島根県松江市
 a mo:GeoEntity .
 
 mr:JP_島根県松江市秋鹿町
+    a mo:町域 ;
     rdfs:label "秋鹿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900261" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市青葉台
+    a mo:町域 ;
     rdfs:label "青葉台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市上乃木
+    a mo:町域 ;
     rdfs:label "上乃木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900015" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市朝酌町
+    a mo:町域 ;
     rdfs:label "朝酌町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900834" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市朝日町
+    a mo:町域 ;
     rdfs:label "朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市意宇町
+    a mo:町域 ;
     rdfs:label "意宇町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900027" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市石橋町
+    a mo:町域 ;
     rdfs:label "石橋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900881" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市伊勢宮町
+    a mo:町域 ;
     rdfs:label "伊勢宮町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900006" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市一の谷町
+    a mo:町域 ;
     rdfs:label "一の谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900034" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市魚町
+    a mo:町域 ;
     rdfs:label "魚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900062" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市うぐいす台
+    a mo:町域 ;
     rdfs:label "うぐいす台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900869" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市打出町
+    a mo:町域 ;
     rdfs:label "打出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900131" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市内中原町
+    a mo:町域 ;
     rdfs:label "内中原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900873" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市邑生町
+    a mo:町域 ;
     rdfs:label "邑生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901115" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市大井町
+    a mo:町域 ;
     rdfs:label "大井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900832" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市大垣町
+    a mo:町域 ;
     rdfs:label "大垣町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900263" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市大草町
+    a mo:町域 ;
     rdfs:label "大草町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900032" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市大野町
+    a mo:町域 ;
     rdfs:label "大野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900264" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市大庭町
+    a mo:町域 ;
     rdfs:label "大庭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900033" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市大海崎町
+    a mo:町域 ;
     rdfs:label "大海崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900831" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市岡本町
+    a mo:町域 ;
     rdfs:label "岡本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900262" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市奥谷町
+    a mo:町域 ;
     rdfs:label "奥谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900872" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市御手船場町
+    a mo:町域 ;
     rdfs:label "御手船場町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900007" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市魚瀬町
+    a mo:町域 ;
     rdfs:label "魚瀬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900266" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市苧町
+    a mo:町域 ;
     rdfs:label "苧町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900848" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市学園
+    a mo:町域 ;
     rdfs:label "学園"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900825" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市学園南
+    a mo:町域 ;
     rdfs:label "学園南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900826" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町恵曇
+    a mo:町域 ;
     rdfs:label "鹿島町恵曇"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900322" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町片句
+    a mo:町域 ;
     rdfs:label "鹿島町片句"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900324" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町上講武
+    a mo:町域 ;
     rdfs:label "鹿島町上講武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900801" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町北講武
+    a mo:町域 ;
     rdfs:label "鹿島町北講武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900804" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町古浦
+    a mo:町域 ;
     rdfs:label "鹿島町古浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900333" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町佐陀本郷
+    a mo:町域 ;
     rdfs:label "鹿島町佐陀本郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900332" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町佐陀宮内
+    a mo:町域 ;
     rdfs:label "鹿島町佐陀宮内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900331" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町武代
+    a mo:町域 ;
     rdfs:label "鹿島町武代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900321" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町手結
+    a mo:町域 ;
     rdfs:label "鹿島町手結"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900323" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町御津
+    a mo:町域 ;
     rdfs:label "鹿島町御津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900411" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町南講武
+    a mo:町域 ;
     rdfs:label "鹿島町南講武"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900802" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市鹿島町名分
+    a mo:町域 ;
     rdfs:label "鹿島町名分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900803" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市春日町
+    a mo:町域 ;
     rdfs:label "春日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900877" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市片原町
+    a mo:町域 ;
     rdfs:label "片原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900847" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市上宇部尾町
+    a mo:町域 ;
     rdfs:label "上宇部尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901104" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市上大野町
+    a mo:町域 ;
     rdfs:label "上大野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900265" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市上佐陀町
+    a mo:町域 ;
     rdfs:label "上佐陀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900867" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市上東川津町
+    a mo:町域 ;
     rdfs:label "上東川津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900821" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市上本庄町
+    a mo:町域 ;
     rdfs:label "上本庄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901102" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市川原町
+    a mo:町域 ;
     rdfs:label "川原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900812" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市北田町
+    a mo:町域 ;
     rdfs:label "北田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900883" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市北堀町
+    a mo:町域 ;
     rdfs:label "北堀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900888" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市国屋町
+    a mo:町域 ;
     rdfs:label "国屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900859" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市黒田町
+    a mo:町域 ;
     rdfs:label "黒田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900876" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市古志町
+    a mo:町域 ;
     rdfs:label "古志町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900121" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市古志原
+    a mo:町域 ;
     rdfs:label "古志原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市古志原町
+    a mo:町域 ;
     rdfs:label "古志原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市古曽志町
+    a mo:町域 ;
     rdfs:label "古曽志町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900151" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市薦津町
+    a mo:町域 ;
     rdfs:label "薦津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900856" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市雑賀町
+    a mo:町域 ;
     rdfs:label "雑賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900056" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900041" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900042" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市坂本町
+    a mo:町域 ;
     rdfs:label "坂本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900813" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市佐草町
+    a mo:町域 ;
     rdfs:label "佐草町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900035" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市島根町大芦
+    a mo:町域 ;
     rdfs:label "島根町大芦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900402" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市島根町加賀
+    a mo:町域 ;
     rdfs:label "島根町加賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市島根町多古
+    a mo:町域 ;
     rdfs:label "島根町多古"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市島根町野井
+    a mo:町域 ;
     rdfs:label "島根町野井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市島根町野波
+    a mo:町域 ;
     rdfs:label "島根町野波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市下佐陀町
+    a mo:町域 ;
     rdfs:label "下佐陀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900866" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市下東川津町
+    a mo:町域 ;
     rdfs:label "下東川津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900822" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市荘成町
+    a mo:町域 ;
     rdfs:label "荘成町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900141" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市淞北台
+    a mo:町域 ;
     rdfs:label "淞北台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900868" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市白潟本町
+    a mo:町域 ;
     rdfs:label "白潟本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900061" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市新雑賀町
+    a mo:町域 ;
     rdfs:label "新雑賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900054" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市宍道町伊志見
+    a mo:町域 ;
     rdfs:label "宍道町伊志見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990407" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市宍道町上来待
+    a mo:町域 ;
     rdfs:label "宍道町上来待"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990405" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市宍道町佐々布
+    a mo:町域 ;
     rdfs:label "宍道町佐々布"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990406" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市宍道町昭和
+    a mo:町域 ;
     rdfs:label "宍道町昭和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990408" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市宍道町宍道
+    a mo:町域 ;
     rdfs:label "宍道町宍道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市宍道町西来待
+    a mo:町域 ;
     rdfs:label "宍道町西来待"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990403" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市宍道町白石
+    a mo:町域 ;
     rdfs:label "宍道町白石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990402" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市宍道町東来待
+    a mo:町域 ;
     rdfs:label "宍道町東来待"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990404" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市新庄町
+    a mo:町域 ;
     rdfs:label "新庄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900057" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市末次町
+    a mo:町域 ;
     rdfs:label "末次町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900846" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市末次本町
+    a mo:町域 ;
     rdfs:label "末次本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900843" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市菅田町
+    a mo:町域 ;
     rdfs:label "菅田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900824" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市砂子町
+    a mo:町域 ;
     rdfs:label "砂子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900878" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市袖師町
+    a mo:町域 ;
     rdfs:label "袖師町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900049" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市外中原町
+    a mo:町域 ;
     rdfs:label "外中原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900875" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市大正町
+    a mo:町域 ;
     rdfs:label "大正町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市大輪町
+    a mo:町域 ;
     rdfs:label "大輪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900882" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市手角町
+    a mo:町域 ;
     rdfs:label "手角町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901113" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市竪町
+    a mo:町域 ;
     rdfs:label "竪町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900052" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市玉湯町大谷
+    a mo:町域 ;
     rdfs:label "玉湯町大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990205" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市玉湯町玉造
+    a mo:町域 ;
     rdfs:label "玉湯町玉造"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990201" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市玉湯町林
+    a mo:町域 ;
     rdfs:label "玉湯町林"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990204" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市玉湯町布志名
+    a mo:町域 ;
     rdfs:label "玉湯町布志名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990203" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市玉湯町湯町
+    a mo:町域 ;
     rdfs:label "玉湯町湯町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990202" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市田和山町
+    a mo:町域 ;
     rdfs:label "田和山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900058" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市竹矢町
+    a mo:町域 ;
     rdfs:label "竹矢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市千鳥町
+    a mo:町域 ;
     rdfs:label "千鳥町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900852" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市津田町
+    a mo:町域 ;
     rdfs:label "津田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900055" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市寺町
+    a mo:町域 ;
     rdfs:label "寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900063" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900064" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市堂形町
+    a mo:町域 ;
     rdfs:label "堂形町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900851" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市殿町
+    a mo:町域 ;
     rdfs:label "殿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900887" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市中原町
+    a mo:町域 ;
     rdfs:label "中原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900874" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市長海町
+    a mo:町域 ;
     rdfs:label "長海町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901112" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市灘町
+    a mo:町域 ;
     rdfs:label "灘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900065" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市南平台
+    a mo:町域 ;
     rdfs:label "南平台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900854" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西生馬町
+    a mo:町域 ;
     rdfs:label "西生馬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900865" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西忌部町
+    a mo:町域 ;
     rdfs:label "西忌部町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900037" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西尾町
+    a mo:町域 ;
     rdfs:label "西尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900835" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西川津町
+    a mo:町域 ;
     rdfs:label "西川津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900823" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西谷町
+    a mo:町域 ;
     rdfs:label "西谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900142" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西茶町
+    a mo:町域 ;
     rdfs:label "西茶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900845" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西津田
+    a mo:町域 ;
     rdfs:label "西津田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900017" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西長江町
+    a mo:町域 ;
     rdfs:label "西長江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900132" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西浜佐陀町
+    a mo:町域 ;
     rdfs:label "西浜佐陀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900122" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西法吉町
+    a mo:町域 ;
     rdfs:label "西法吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900860" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西持田町
+    a mo:町域 ;
     rdfs:label "西持田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900815" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市西嫁島
+    a mo:町域 ;
     rdfs:label "西嫁島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900048" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市乃木福富町
+    a mo:町域 ;
     rdfs:label "乃木福富町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900046" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市乃白町
+    a mo:町域 ;
     rdfs:label "乃白町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900045" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市野原町
+    a mo:町域 ;
     rdfs:label "野原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901114" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八軒屋町
+    a mo:町域 ;
     rdfs:label "八軒屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市浜佐田町
+    a mo:町域 ;
     rdfs:label "浜佐田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900855" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市浜乃木
+    a mo:町域 ;
     rdfs:label "浜乃木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900044" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東朝日町
+    a mo:町域 ;
     rdfs:label "東朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東生馬町
+    a mo:町域 ;
     rdfs:label "東生馬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900864" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町出雲郷
+    a mo:町域 ;
     rdfs:label "東出雲町出雲郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990108" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町意宇南
+    a mo:町域 ;
     rdfs:label "東出雲町意宇南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990111" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町意宇東
+    a mo:町域 ;
     rdfs:label "東出雲町意宇東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990112" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町今宮
+    a mo:町域 ;
     rdfs:label "東出雲町今宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990107" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町揖屋
+    a mo:町域 ;
     rdfs:label "東出雲町揖屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町内馬
+    a mo:町域 ;
     rdfs:label "東出雲町内馬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990105" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町春日
+    a mo:町域 ;
     rdfs:label "東出雲町春日"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990106" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町上意東
+    a mo:町域 ;
     rdfs:label "東出雲町上意東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町下意東
+    a mo:町域 ;
     rdfs:label "東出雲町下意東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990102" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町須田
+    a mo:町域 ;
     rdfs:label "東出雲町須田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990104" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町錦新町
+    a mo:町域 ;
     rdfs:label "東出雲町錦新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990110" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東出雲町錦浜
+    a mo:町域 ;
     rdfs:label "東出雲町錦浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990109" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東忌部町
+    a mo:町域 ;
     rdfs:label "東忌部町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900036" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東奥谷町
+    a mo:町域 ;
     rdfs:label "東奥谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900871" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東茶町
+    a mo:町域 ;
     rdfs:label "東茶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900844" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東津田町
+    a mo:町域 ;
     rdfs:label "東津田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東長江町
+    a mo:町域 ;
     rdfs:label "東長江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900133" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東本町
+    a mo:町域 ;
     rdfs:label "東本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900842" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市東持田町
+    a mo:町域 ;
     rdfs:label "東持田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900814" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市比津が丘
+    a mo:町域 ;
     rdfs:label "比津が丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900862" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市比津町
+    a mo:町域 ;
     rdfs:label "比津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900863" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市福富町
+    a mo:町域 ;
     rdfs:label "福富町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900833" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市福原町
+    a mo:町域 ;
     rdfs:label "福原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900811" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市富士見町
+    a mo:町域 ;
     rdfs:label "富士見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900026" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市平成町
+    a mo:町域 ;
     rdfs:label "平成町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900038" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市北陵町
+    a mo:町域 ;
     rdfs:label "北陵町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900816" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市法吉町
+    a mo:町域 ;
     rdfs:label "法吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900861" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市母衣町
+    a mo:町域 ;
     rdfs:label "母衣町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900886" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市本郷町
+    a mo:町域 ;
     rdfs:label "本郷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900053" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市本庄町
+    a mo:町域 ;
     rdfs:label "本庄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市馬潟町
+    a mo:町域 ;
     rdfs:label "馬潟町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市枕木町
+    a mo:町域 ;
     rdfs:label "枕木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901111" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市松尾町
+    a mo:町域 ;
     rdfs:label "松尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900043" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市南田町
+    a mo:町域 ;
     rdfs:label "南田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900884" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町笠浦
+    a mo:町域 ;
     rdfs:label "美保関町笠浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901223" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町片江
+    a mo:町域 ;
     rdfs:label "美保関町片江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901315" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町北浦
+    a mo:町域 ;
     rdfs:label "美保関町北浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町雲津
+    a mo:町域 ;
     rdfs:label "美保関町雲津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901502" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町七類
+    a mo:町域 ;
     rdfs:label "美保関町七類"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901311" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町下宇部尾
+    a mo:町域 ;
     rdfs:label "美保関町下宇部尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901313" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町菅浦
+    a mo:町域 ;
     rdfs:label "美保関町菅浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901314" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町千酌
+    a mo:町域 ;
     rdfs:label "美保関町千酌"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901222" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町福浦
+    a mo:町域 ;
     rdfs:label "美保関町福浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901504" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町美保関
+    a mo:町域 ;
     rdfs:label "美保関町美保関"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901501" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町森山
+    a mo:町域 ;
     rdfs:label "美保関町森山"@ja ;
     mo:SubRegion mr:JP_島根県松江市美保関町森山古金崎 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901505" ;
+    mo:JP_郵便番号 "6901312" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町森山古金崎
     rdfs:label "古金崎"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6901505" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市美保関町諸喰
+    a mo:町域 ;
     rdfs:label "美保関町諸喰"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901503" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市向島町
+    a mo:町域 ;
     rdfs:label "向島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900841" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八雲台
+    a mo:町域 ;
     rdfs:label "八雲台"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900014" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八雲町熊野
+    a mo:町域 ;
     rdfs:label "八雲町熊野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902104" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八雲町西岩坂
+    a mo:町域 ;
     rdfs:label "八雲町西岩坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八雲町東岩坂
+    a mo:町域 ;
     rdfs:label "八雲町東岩坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902102" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八雲町日吉
+    a mo:町域 ;
     rdfs:label "八雲町日吉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八雲町平原
+    a mo:町域 ;
     rdfs:label "八雲町平原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902105" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市矢田町
+    a mo:町域 ;
     rdfs:label "矢田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八束町江島
+    a mo:町域 ;
     rdfs:label "八束町江島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八束町遅江
+    a mo:町域 ;
     rdfs:label "八束町遅江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901403" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八束町亀尻
+    a mo:町域 ;
     rdfs:label "八束町亀尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901408" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八束町寺津
+    a mo:町域 ;
     rdfs:label "八束町寺津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901407" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八束町入江
+    a mo:町域 ;
     rdfs:label "八束町入江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901405" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八束町波入
+    a mo:町域 ;
     rdfs:label "八束町波入"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901404" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八束町二子
+    a mo:町域 ;
     rdfs:label "八束町二子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901406" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八束町馬渡
+    a mo:町域 ;
     rdfs:label "八束町馬渡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6901402" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市山代町
+    a mo:町域 ;
     rdfs:label "山代町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900031" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市八幡町
+    a mo:町域 ;
     rdfs:label "八幡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900025" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市横浜町
+    a mo:町域 ;
     rdfs:label "横浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900051" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市米子町
+    a mo:町域 ;
     rdfs:label "米子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900885" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市嫁島町
+    a mo:町域 ;
     rdfs:label "嫁島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900047" ;
+a mo:GeoEntity .
 
 mr:JP_島根県松江市和多見町
+    a mo:町域 ;
     rdfs:label "和多見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6900005" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市
     rdfs:label "浜田市"@ja ;
@@ -1152,483 +1549,724 @@ mr:JP_島根県浜田市
 a mo:GeoEntity .
 
 mr:JP_島根県浜田市相生町
+    a mo:町域 ;
     rdfs:label "相生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970034" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市浅井町
+    a mo:町域 ;
     rdfs:label "浅井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町市木
+    a mo:町域 ;
     rdfs:label "旭町市木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970514" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町今市
+    a mo:町域 ;
     rdfs:label "旭町今市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970425" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町木田
+    a mo:町域 ;
     rdfs:label "旭町木田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970427" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町来尾
+    a mo:町域 ;
     rdfs:label "旭町来尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970512" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町坂本
+    a mo:町域 ;
     rdfs:label "旭町坂本"@ja ;
     mo:SubRegion mr:JP_島根県浜田市旭町坂本八ツ木 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970513" ;
+    mo:JP_郵便番号 "6970431" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町坂本八ツ木
     rdfs:label "八ツ木"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6970513" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町重富
+    a mo:町域 ;
     rdfs:label "旭町重富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970423" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町都川
+    a mo:町域 ;
     rdfs:label "旭町都川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970511" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町本郷
+    a mo:町域 ;
     rdfs:label "旭町本郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970422" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町丸原
+    a mo:町域 ;
     rdfs:label "旭町丸原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970426" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町山ノ内
+    a mo:町域 ;
     rdfs:label "旭町山ノ内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970421" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市旭町和田
+    a mo:町域 ;
     rdfs:label "旭町和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970424" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市朝日町
+    a mo:町域 ;
     rdfs:label "朝日町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970033" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市熱田町
+    a mo:町域 ;
     rdfs:label "熱田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970062" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市櫟田原町
+    a mo:町域 ;
     rdfs:label "櫟田原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971334" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市井野町
+    a mo:町域 ;
     rdfs:label "井野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971335" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市牛市町
+    a mo:町域 ;
     rdfs:label "牛市町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970032" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市後野町
+    a mo:町域 ;
     rdfs:label "後野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市内田町
+    a mo:町域 ;
     rdfs:label "内田町"@ja ;
     mo:SubRegion mr:JP_島根県浜田市内田町百万騎 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970064" ;
+    mo:JP_郵便番号 "6971323" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市内田町百万騎
     rdfs:label "百万騎"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6970064" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市宇津井町
+    a mo:町域 ;
     rdfs:label "宇津井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970312" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市宇野町
+    a mo:町域 ;
     rdfs:label "宇野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950102" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市生湯町
+    a mo:町域 ;
     rdfs:label "生湯町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市蛭子町
+    a mo:町域 ;
     rdfs:label "蛭子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970044" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市大金町
+    a mo:町域 ;
     rdfs:label "大金町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市大辻町
+    a mo:町域 ;
     rdfs:label "大辻町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970053" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市折居町
+    a mo:町域 ;
     rdfs:label "折居町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971338" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市笠柄町
+    a mo:町域 ;
     rdfs:label "笠柄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970061" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市片庭町
+    a mo:町域 ;
     rdfs:label "片庭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970041" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町今福
+    a mo:町域 ;
     rdfs:label "金城町今福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970302" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町入野
+    a mo:町域 ;
     rdfs:label "金城町入野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970305" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町宇津井
+    a mo:町域 ;
     rdfs:label "金城町宇津井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970304" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町追原
+    a mo:町域 ;
     rdfs:label "金城町追原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970301" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町小国
+    a mo:町域 ;
     rdfs:label "金城町小国"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町上来原
+    a mo:町域 ;
     rdfs:label "金城町上来原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970122" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町久佐
+    a mo:町域 ;
     rdfs:label "金城町久佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970303" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町七条
+    a mo:町域 ;
     rdfs:label "金城町七条"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970123" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町下来原
+    a mo:町域 ;
     rdfs:label "金城町下来原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970121" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町長田
+    a mo:町域 ;
     rdfs:label "金城町長田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市金城町波佐
+    a mo:町域 ;
     rdfs:label "金城町波佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市上府町
+    a mo:町域 ;
     rdfs:label "上府町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970005" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市京町
+    a mo:町域 ;
     rdfs:label "京町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970045" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市久代町
+    a mo:町域 ;
     rdfs:label "久代町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市黒川町
+    a mo:町域 ;
     rdfs:label "黒川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市高佐町
+    a mo:町域 ;
     rdfs:label "高佐町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970007" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市河内町
+    a mo:町域 ;
     rdfs:label "河内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市国分町
+    a mo:町域 ;
     rdfs:label "国分町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市紺屋町
+    a mo:町域 ;
     rdfs:label "紺屋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970031" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970043" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市佐野町
+    a mo:町域 ;
     rdfs:label "佐野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970311" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三階町
+    a mo:町域 ;
     rdfs:label "三階町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市清水町
+    a mo:町域 ;
     rdfs:label "清水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970047" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市下有福町
+    a mo:町域 ;
     rdfs:label "下有福町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市下府町
+    a mo:町域 ;
     rdfs:label "下府町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970006" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市真光町
+    a mo:町域 ;
     rdfs:label "真光町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970046" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市新町
+    a mo:町域 ;
     rdfs:label "新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970037" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市杉戸町
+    a mo:町域 ;
     rdfs:label "杉戸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970035" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市周布町
+    a mo:町域 ;
     rdfs:label "周布町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971321" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市瀬戸ケ島町
+    a mo:町域 ;
     rdfs:label "瀬戸ケ島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970051" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市瀬戸見町
+    a mo:町域 ;
     rdfs:label "瀬戸見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970057" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市高田町
+    a mo:町域 ;
     rdfs:label "高田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970054" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市竹迫町
+    a mo:町域 ;
     rdfs:label "竹迫町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970015" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市田橋町
+    a mo:町域 ;
     rdfs:label "田橋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971332" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市田町
+    a mo:町域 ;
     rdfs:label "田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970026" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市治和町
+    a mo:町域 ;
     rdfs:label "治和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971326" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市津摩町
+    a mo:町域 ;
     rdfs:label "津摩町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971327" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市天満町
+    a mo:町域 ;
     rdfs:label "天満町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970036" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市外ノ浦町
+    a mo:町域 ;
     rdfs:label "外ノ浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市殿町
+    a mo:町域 ;
     rdfs:label "殿町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970027" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市内村町
+    a mo:町域 ;
     rdfs:label "内村町"@ja ;
     mo:SubRegion mr:JP_島根県浜田市内村町十文字原 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970065" ;
+    mo:JP_郵便番号 "6971331" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市内村町十文字原
     rdfs:label "十文字原"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6970065" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市長沢町
+    a mo:町域 ;
     rdfs:label "長沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市長浜町
+    a mo:町域 ;
     rdfs:label "長浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970063" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市長見町
+    a mo:町域 ;
     rdfs:label "長見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970014" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市鍋石町
+    a mo:町域 ;
     rdfs:label "鍋石町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971333" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市錦町
+    a mo:町域 ;
     rdfs:label "錦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970042" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市西村町
+    a mo:町域 ;
     rdfs:label "西村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971337" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市野原町
+    a mo:町域 ;
     rdfs:label "野原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970016" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市原井町
+    a mo:町域 ;
     rdfs:label "原井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970017" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市原町
+    a mo:町域 ;
     rdfs:label "原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970056" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市日脚町
+    a mo:町域 ;
     rdfs:label "日脚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971322" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市琵琶町
+    a mo:町域 ;
     rdfs:label "琵琶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970025" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市穂出町
+    a mo:町域 ;
     rdfs:label "穂出町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971324" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市松原町
+    a mo:町域 ;
     rdfs:label "松原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町芦谷
+    a mo:町域 ;
     rdfs:label "三隅町芦谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993302" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町井川
+    a mo:町域 ;
     rdfs:label "三隅町井川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993215" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町井野
+    a mo:町域 ;
     rdfs:label "三隅町井野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993301" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町岡見
+    a mo:町域 ;
     rdfs:label "三隅町岡見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993226" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町折居
+    a mo:町域 ;
     rdfs:label "三隅町折居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993222" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町上古和
+    a mo:町域 ;
     rdfs:label "三隅町上古和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993216" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町黒沢
+    a mo:町域 ;
     rdfs:label "三隅町黒沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993217" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町河内
+    a mo:町域 ;
     rdfs:label "三隅町河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町西河内
+    a mo:町域 ;
     rdfs:label "三隅町西河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993223" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町下古和
+    a mo:町域 ;
     rdfs:label "三隅町下古和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993215" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町東平原
+    a mo:町域 ;
     rdfs:label "三隅町東平原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町古市場
+    a mo:町域 ;
     rdfs:label "三隅町古市場"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993225" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町三隅
+    a mo:町域 ;
     rdfs:label "三隅町三隅"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町湊浦
+    a mo:町域 ;
     rdfs:label "三隅町湊浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993224" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町向野田
+    a mo:町域 ;
     rdfs:label "三隅町向野田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町室谷
+    a mo:町域 ;
     rdfs:label "三隅町室谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993303" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市三隅町矢原
+    a mo:町域 ;
     rdfs:label "三隅町矢原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993214" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970052" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市元浜町
+    a mo:町域 ;
     rdfs:label "元浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970055" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町稲代
+    a mo:町域 ;
     rdfs:label "弥栄町稲代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971215" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町大坪
+    a mo:町域 ;
     rdfs:label "弥栄町大坪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971214" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町小坂
+    a mo:町域 ;
     rdfs:label "弥栄町小坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971202" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町門田
+    a mo:町域 ;
     rdfs:label "弥栄町門田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971204" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町木都賀
+    a mo:町域 ;
     rdfs:label "弥栄町木都賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971122" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町高内
+    a mo:町域 ;
     rdfs:label "弥栄町高内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971203" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町田野原
+    a mo:町域 ;
     rdfs:label "弥栄町田野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971123" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町栃木
+    a mo:町域 ;
     rdfs:label "弥栄町栃木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971201" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町長安本郷
+    a mo:町域 ;
     rdfs:label "弥栄町長安本郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町野坂
+    a mo:町域 ;
     rdfs:label "弥栄町野坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971121" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町程原
+    a mo:町域 ;
     rdfs:label "弥栄町程原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市弥栄町三里
+    a mo:町域 ;
     rdfs:label "弥栄町三里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市横山町
+    a mo:町域 ;
     rdfs:label "横山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971336" ;
+a mo:GeoEntity .
 
 mr:JP_島根県浜田市吉地町
+    a mo:町域 ;
     rdfs:label "吉地町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6971325" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市
     rdfs:label "出雲市"@ja ;
@@ -1815,716 +2453,1072 @@ mr:JP_島根県出雲市
 a mo:GeoEntity .
 
 mr:JP_島根県出雲市朝山町
+    a mo:町域 ;
     rdfs:label "朝山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市芦渡町
+    a mo:町域 ;
     rdfs:label "芦渡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930035" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市荒茅町
+    a mo:町域 ;
     rdfs:label "荒茅町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930044" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市医大南町
+    a mo:町域 ;
     rdfs:label "医大南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930027" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市稲岡町
+    a mo:町域 ;
     rdfs:label "稲岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930071" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市猪目町
+    a mo:町域 ;
     rdfs:label "猪目町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市今市町
+    a mo:町域 ;
     rdfs:label "今市町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市今市町北本町
+    a mo:町域 ;
     rdfs:label "今市町北本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市今市町南本町
+    a mo:町域 ;
     rdfs:label "今市町南本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市十六島町
+    a mo:町域 ;
     rdfs:label "十六島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910042" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市宇那手町
+    a mo:町域 ;
     rdfs:label "宇那手町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930105" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市駅北町
+    a mo:町域 ;
     rdfs:label "駅北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930007" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市駅南町
+    a mo:町域 ;
     rdfs:label "駅南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930008" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市枝大津町
+    a mo:町域 ;
     rdfs:label "枝大津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930017" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市江田町
+    a mo:町域 ;
     rdfs:label "江田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930056" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市塩冶有原町
+    a mo:町域 ;
     rdfs:label "塩冶有原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市塩冶神前
+    a mo:町域 ;
     rdfs:label "塩冶神前"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市塩冶善行町
+    a mo:町域 ;
     rdfs:label "塩冶善行町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930028" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市塩冶町
+    a mo:町域 ;
     rdfs:label "塩冶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市塩冶町南町
+    a mo:町域 ;
     rdfs:label "塩冶町南町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930025" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市塩冶原町
+    a mo:町域 ;
     rdfs:label "塩冶原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930026" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大島町
+    a mo:町域 ;
     rdfs:label "大島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990821" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大津朝倉
+    a mo:町域 ;
     rdfs:label "大津朝倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930015" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大塚町
+    a mo:町域 ;
     rdfs:label "大塚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930063" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大津新崎町
+    a mo:町域 ;
     rdfs:label "大津新崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大津町
+    a mo:町域 ;
     rdfs:label "大津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市岡田町
+    a mo:町域 ;
     rdfs:label "岡田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910063" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市荻杼町
+    a mo:町域 ;
     rdfs:label "荻杼町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市奥宇賀町
+    a mo:町域 ;
     rdfs:label "奥宇賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市乙立町
+    a mo:町域 ;
     rdfs:label "乙立町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930216" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市小山町
+    a mo:町域 ;
     rdfs:label "小山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930051" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市釜浦町
+    a mo:町域 ;
     rdfs:label "釜浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910043" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市上塩冶町
+    a mo:町域 ;
     rdfs:label "上塩冶町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市上岡田町
+    a mo:町域 ;
     rdfs:label "上岡田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910064" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市上島町
+    a mo:町域 ;
     rdfs:label "上島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市唐川町
+    a mo:町域 ;
     rdfs:label "唐川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市河下町
+    a mo:町域 ;
     rdfs:label "河下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910025" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市神門町
+    a mo:町域 ;
     rdfs:label "神門町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930034" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市日下町
+    a mo:町域 ;
     rdfs:label "日下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930072" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市久多見町
+    a mo:町域 ;
     rdfs:label "久多見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910034" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市口宇賀町
+    a mo:町域 ;
     rdfs:label "口宇賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910014" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市国富町
+    a mo:町域 ;
     rdfs:label "国富町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市小伊津町
+    a mo:町域 ;
     rdfs:label "小伊津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910052" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市小境町
+    a mo:町域 ;
     rdfs:label "小境町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910074" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市古志町
+    a mo:町域 ;
     rdfs:label "古志町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930031" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市小津町
+    a mo:町域 ;
     rdfs:label "小津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910041" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市湖陵町板津
+    a mo:町域 ;
     rdfs:label "湖陵町板津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990817" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市湖陵町大池
+    a mo:町域 ;
     rdfs:label "湖陵町大池"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990816" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市湖陵町差海
+    a mo:町域 ;
     rdfs:label "湖陵町差海"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990811" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市湖陵町三部
+    a mo:町域 ;
     rdfs:label "湖陵町三部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990813" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市湖陵町常楽寺
+    a mo:町域 ;
     rdfs:label "湖陵町常楽寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990814" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市湖陵町二部
+    a mo:町域 ;
     rdfs:label "湖陵町二部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990812" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市湖陵町畑村
+    a mo:町域 ;
     rdfs:label "湖陵町畑村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990815" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市西郷町
+    a mo:町域 ;
     rdfs:label "西郷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910015" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市坂浦町
+    a mo:町域 ;
     rdfs:label "坂浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910051" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町朝原
+    a mo:町域 ;
     rdfs:label "佐田町朝原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930501" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町大呂
+    a mo:町域 ;
     rdfs:label "佐田町大呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930504" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町上橋波
+    a mo:町域 ;
     rdfs:label "佐田町上橋波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930526" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町毛津
+    a mo:町域 ;
     rdfs:label "佐田町毛津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930521" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町佐津目
+    a mo:町域 ;
     rdfs:label "佐田町佐津目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930523" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町下橋波
+    a mo:町域 ;
     rdfs:label "佐田町下橋波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930525" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町須佐
+    a mo:町域 ;
     rdfs:label "佐田町須佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930503" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町高津屋
+    a mo:町域 ;
     rdfs:label "佐田町高津屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930524" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町反辺
+    a mo:町域 ;
     rdfs:label "佐田町反辺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930506" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町原田
+    a mo:町域 ;
     rdfs:label "佐田町原田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930502" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町東村
+    a mo:町域 ;
     rdfs:label "佐田町東村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930512" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町一窪田
+    a mo:町域 ;
     rdfs:label "佐田町一窪田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930522" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町八幡原
+    a mo:町域 ;
     rdfs:label "佐田町八幡原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930511" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市佐田町吉野
+    a mo:町域 ;
     rdfs:label "佐田町吉野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930505" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市里方町
+    a mo:町域 ;
     rdfs:label "里方町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930064" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市塩津町
+    a mo:町域 ;
     rdfs:label "塩津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910044" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市島村町
+    a mo:町域 ;
     rdfs:label "島村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市下古志町
+    a mo:町域 ;
     rdfs:label "下古志町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930032" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市下横町
+    a mo:町域 ;
     rdfs:label "下横町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930046" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市白枝町
+    a mo:町域 ;
     rdfs:label "白枝町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930006" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市神西沖町
+    a mo:町域 ;
     rdfs:label "神西沖町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990822" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市神西新町
+    a mo:町域 ;
     rdfs:label "神西新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990825" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市外園町
+    a mo:町域 ;
     rdfs:label "外園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930042" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市園町
+    a mo:町域 ;
     rdfs:label "園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910076" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町鵜峠
+    a mo:町域 ;
     rdfs:label "大社町鵜峠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990762" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町宇龍
+    a mo:町域 ;
     rdfs:label "大社町宇龍"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990764" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町北荒木
+    a mo:町域 ;
     rdfs:label "大社町北荒木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990722" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町杵築北
+    a mo:町域 ;
     rdfs:label "大社町杵築北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990702" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町杵築西
+    a mo:町域 ;
     rdfs:label "大社町杵築西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990751" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町杵築東
+    a mo:町域 ;
     rdfs:label "大社町杵築東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990701" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町杵築南
+    a mo:町域 ;
     rdfs:label "大社町杵築南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990711" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町鷺浦
+    a mo:町域 ;
     rdfs:label "大社町鷺浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990761" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町修理免
+    a mo:町域 ;
     rdfs:label "大社町修理免"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990721" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町中荒木
+    a mo:町域 ;
     rdfs:label "大社町中荒木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990741" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町入南
+    a mo:町域 ;
     rdfs:label "大社町入南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990732" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町菱根
+    a mo:町域 ;
     rdfs:label "大社町菱根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990733" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町日御碕
+    a mo:町域 ;
     rdfs:label "大社町日御碕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990763" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市大社町遙堪
+    a mo:町域 ;
     rdfs:label "大社町遙堪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990731" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市高岡町
+    a mo:町域 ;
     rdfs:label "高岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930066" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市高松町
+    a mo:町域 ;
     rdfs:label "高松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930053" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市多伎町奥田儀
+    a mo:町域 ;
     rdfs:label "多伎町奥田儀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990905" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市多伎町小田
+    a mo:町域 ;
     rdfs:label "多伎町小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990903" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市多伎町神原
+    a mo:町域 ;
     rdfs:label "多伎町神原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990906" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市多伎町口田儀
+    a mo:町域 ;
     rdfs:label "多伎町口田儀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990904" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市多伎町久村
+    a mo:町域 ;
     rdfs:label "多伎町久村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990901" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市多伎町多岐
+    a mo:町域 ;
     rdfs:label "多伎町多岐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990902" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市多久谷町
+    a mo:町域 ;
     rdfs:label "多久谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910062" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市多久町
+    a mo:町域 ;
     rdfs:label "多久町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910061" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市武志町
+    a mo:町域 ;
     rdfs:label "武志町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930014" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市知井宮町
+    a mo:町域 ;
     rdfs:label "知井宮町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930033" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市地合町
+    a mo:町域 ;
     rdfs:label "地合町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910071" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市築山新町
+    a mo:町域 ;
     rdfs:label "築山新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930029" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市常松町
+    a mo:町域 ;
     rdfs:label "常松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930057" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市天神町
+    a mo:町域 ;
     rdfs:label "天神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930005" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市東郷町
+    a mo:町域 ;
     rdfs:label "東郷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910065" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市東福町
+    a mo:町域 ;
     rdfs:label "東福町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910031" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市所原町
+    a mo:町域 ;
     rdfs:label "所原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930214" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市中野町
+    a mo:町域 ;
     rdfs:label "中野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930062" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市中野美保北
+    a mo:町域 ;
     rdfs:label "中野美保北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930081" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市中野美保南
+    a mo:町域 ;
     rdfs:label "中野美保南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930082" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市長浜町
+    a mo:町域 ;
     rdfs:label "長浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930043" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市灘分町
+    a mo:町域 ;
     rdfs:label "灘分町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市西神西町
+    a mo:町域 ;
     rdfs:label "西神西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990824" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市西新町
+    a mo:町域 ;
     rdfs:label "西新町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930037" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市西園町
+    a mo:町域 ;
     rdfs:label "西園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930041" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市西代町
+    a mo:町域 ;
     rdfs:label "西代町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市西谷町
+    a mo:町域 ;
     rdfs:label "西谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930102" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市西林木町
+    a mo:町域 ;
     rdfs:label "西林木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930073" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市西平田町
+    a mo:町域 ;
     rdfs:label "西平田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市野石谷町
+    a mo:町域 ;
     rdfs:label "野石谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910066" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市野郷町
+    a mo:町域 ;
     rdfs:label "野郷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910072" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市野尻町
+    a mo:町域 ;
     rdfs:label "野尻町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市浜町
+    a mo:町域 ;
     rdfs:label "浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930054" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市稗原町
+    a mo:町域 ;
     rdfs:label "稗原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930104" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市東神西町
+    a mo:町域 ;
     rdfs:label "東神西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990823" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市東園町
+    a mo:町域 ;
     rdfs:label "東園町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930045" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市東林木町
+    a mo:町域 ;
     rdfs:label "東林木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930074" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町併川
+    a mo:町域 ;
     rdfs:label "斐川町併川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990615" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町阿宮
+    a mo:町域 ;
     rdfs:label "斐川町阿宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990611" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町今在家
+    a mo:町域 ;
     rdfs:label "斐川町今在家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990644" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町沖洲
+    a mo:町域 ;
     rdfs:label "斐川町沖洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990551" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町学頭
+    a mo:町域 ;
     rdfs:label "斐川町学頭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990501" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町上庄原
+    a mo:町域 ;
     rdfs:label "斐川町上庄原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990505" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町上直江
+    a mo:町域 ;
     rdfs:label "斐川町上直江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990624" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町神庭
+    a mo:町域 ;
     rdfs:label "斐川町神庭"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990503" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町神氷
+    a mo:町域 ;
     rdfs:label "斐川町神氷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990613" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町求院
+    a mo:町域 ;
     rdfs:label "斐川町求院"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990614" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町黒目
+    a mo:町域 ;
     rdfs:label "斐川町黒目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990553" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町坂田
+    a mo:町域 ;
     rdfs:label "斐川町坂田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990555" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町三分市
+    a mo:町域 ;
     rdfs:label "斐川町三分市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990554" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町出西
+    a mo:町域 ;
     rdfs:label "斐川町出西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990612" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町荘原
+    a mo:町域 ;
     rdfs:label "斐川町荘原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990502" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町富村
+    a mo:町域 ;
     rdfs:label "斐川町富村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990621" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町鳥井
+    a mo:町域 ;
     rdfs:label "斐川町鳥井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990623" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町直江
+    a mo:町域 ;
     rdfs:label "斐川町直江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990631" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町中洲
+    a mo:町域 ;
     rdfs:label "斐川町中洲"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990552" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町名島
+    a mo:町域 ;
     rdfs:label "斐川町名島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990622" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町原鹿
+    a mo:町域 ;
     rdfs:label "斐川町原鹿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990643" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町福富
+    a mo:町域 ;
     rdfs:label "斐川町福富"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990642" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町三絡
+    a mo:町域 ;
     rdfs:label "斐川町三絡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990504" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市斐川町美南
+    a mo:町域 ;
     rdfs:label "斐川町美南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6990641" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市姫原
+    a mo:町域 ;
     rdfs:label "姫原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930068" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市姫原町
+    a mo:町域 ;
     rdfs:label "姫原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930061" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市平田町
+    a mo:町域 ;
     rdfs:label "平田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市平野町
+    a mo:町域 ;
     rdfs:label "平野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930065" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市船津町
+    a mo:町域 ;
     rdfs:label "船津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930106" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市平成町
+    a mo:町域 ;
     rdfs:label "平成町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930036" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市別所町
+    a mo:町域 ;
     rdfs:label "別所町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市本庄町
+    a mo:町域 ;
     rdfs:label "本庄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910032" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市馬木北町
+    a mo:町域 ;
     rdfs:label "馬木北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市馬木町
+    a mo:町域 ;
     rdfs:label "馬木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市松寄下町
+    a mo:町域 ;
     rdfs:label "松寄下町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930052" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市万田町
+    a mo:町域 ;
     rdfs:label "万田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910033" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市美談町
+    a mo:町域 ;
     rdfs:label "美談町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市三津町
+    a mo:町域 ;
     rdfs:label "三津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910053" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市美保町
+    a mo:町域 ;
     rdfs:label "美保町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910045" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市見々久町
+    a mo:町域 ;
     rdfs:label "見々久町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930215" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市八島町
+    a mo:町域 ;
     rdfs:label "八島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930055" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市矢野町
+    a mo:町域 ;
     rdfs:label "矢野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930058" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市矢尾町
+    a mo:町域 ;
     rdfs:label "矢尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930067" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市美野町
+    a mo:町域 ;
     rdfs:label "美野町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910073" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市鹿園寺町
+    a mo:町域 ;
     rdfs:label "鹿園寺町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6910075" ;
+a mo:GeoEntity .
 
 mr:JP_島根県出雲市渡橋町
+    a mo:町域 ;
     rdfs:label "渡橋町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6930004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市
     rdfs:label "益田市"@ja ;
@@ -2631,401 +3625,600 @@ mr:JP_島根県益田市
 a mo:GeoEntity .
 
 mr:JP_島根県益田市赤雁町
+    a mo:町域 ;
     rdfs:label "赤雁町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993672" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市赤城町
+    a mo:町域 ;
     rdfs:label "赤城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980034" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市あけぼの東町
+    a mo:町域 ;
     rdfs:label "あけぼの東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980027" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市あけぼの西町
+    a mo:町域 ;
     rdfs:label "あけぼの西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980025" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市あけぼの本町
+    a mo:町域 ;
     rdfs:label "あけぼの本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980026" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市愛栄町
+    a mo:町域 ;
     rdfs:label "愛栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982253" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市有明町
+    a mo:町域 ;
     rdfs:label "有明町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市有田町
+    a mo:町域 ;
     rdfs:label "有田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993765" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市飯田町
+    a mo:町域 ;
     rdfs:label "飯田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980037" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市飯浦町
+    a mo:町域 ;
     rdfs:label "飯浦町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993761" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市市原町
+    a mo:町域 ;
     rdfs:label "市原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982142" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市猪木谷町
+    a mo:町域 ;
     rdfs:label "猪木谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995123" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市岩倉町
+    a mo:町域 ;
     rdfs:label "岩倉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980014" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市内田町
+    a mo:町域 ;
     rdfs:label "内田町"@ja ;
     mo:SubRegion mr:JP_島根県益田市内田町石見空港 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982143" ;
+    mo:JP_郵便番号 "6980051" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市内田町石見空港
     rdfs:label "石見空港"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6980051" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市馬谷町
+    a mo:町域 ;
     rdfs:label "馬谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980413" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市梅月町
+    a mo:町域 ;
     rdfs:label "梅月町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995127" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市駅前町
+    a mo:町域 ;
     rdfs:label "駅前町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市大草町
+    a mo:町域 ;
     rdfs:label "大草町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993674" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市大谷町
+    a mo:町域 ;
     rdfs:label "大谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市乙子町
+    a mo:町域 ;
     rdfs:label "乙子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993675" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市乙吉町
+    a mo:町域 ;
     rdfs:label "乙吉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市柏原町
+    a mo:町域 ;
     rdfs:label "柏原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982252" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市桂平町
+    a mo:町域 ;
     rdfs:label "桂平町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982254" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市金山町
+    a mo:町域 ;
     rdfs:label "金山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993501" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市上黒谷町
+    a mo:町域 ;
     rdfs:label "上黒谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982255" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市かもしま北町
+    a mo:町域 ;
     rdfs:label "かもしま北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980045" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市かもしま西町
+    a mo:町域 ;
     rdfs:label "かもしま西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980047" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市かもしま東町
+    a mo:町域 ;
     rdfs:label "かもしま東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980046" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市川登町
+    a mo:町域 ;
     rdfs:label "川登町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982145" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市神田町
+    a mo:町域 ;
     rdfs:label "神田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995133" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市喜阿弥町
+    a mo:町域 ;
     rdfs:label "喜阿弥町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993764" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市木部町
+    a mo:町域 ;
     rdfs:label "木部町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993502" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市久々茂町
+    a mo:町域 ;
     rdfs:label "久々茂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市久城町
+    a mo:町域 ;
     rdfs:label "久城町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市黒周町
+    a mo:町域 ;
     rdfs:label "黒周町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982251" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市小浜町
+    a mo:町域 ;
     rdfs:label "小浜町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993762" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市幸町
+    a mo:町域 ;
     rdfs:label "幸町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980035" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市下種町
+    a mo:町域 ;
     rdfs:label "下種町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993503" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市下波田町
+    a mo:町域 ;
     rdfs:label "下波田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980414" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市下本郷町
+    a mo:町域 ;
     rdfs:label "下本郷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市昭和町
+    a mo:町域 ;
     rdfs:label "昭和町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980007" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市白岩町
+    a mo:町域 ;
     rdfs:label "白岩町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995125" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市白上町
+    a mo:町域 ;
     rdfs:label "白上町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982141" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市須子町
+    a mo:町域 ;
     rdfs:label "須子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980036" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市薄原町
+    a mo:町域 ;
     rdfs:label "薄原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995124" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市隅村町
+    a mo:町域 ;
     rdfs:label "隅村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995126" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市染羽町
+    a mo:町域 ;
     rdfs:label "染羽町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市高津
+    a mo:町域 ;
     rdfs:label "高津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980041" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市高津町
+    a mo:町域 ;
     rdfs:label "高津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980041" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市多田町
+    a mo:町域 ;
     rdfs:label "多田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980031" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市種村町
+    a mo:町域 ;
     rdfs:label "種村町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993504" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市津田町
+    a mo:町域 ;
     rdfs:label "津田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993671" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市土田町
+    a mo:町域 ;
     rdfs:label "土田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993505" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市土井町
+    a mo:町域 ;
     rdfs:label "土井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980016" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市遠田町
+    a mo:町域 ;
     rdfs:label "遠田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993676" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市常盤町
+    a mo:町域 ;
     rdfs:label "常盤町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市戸田町
+    a mo:町域 ;
     rdfs:label "戸田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993763" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市栃山町
+    a mo:町域 ;
     rdfs:label "栃山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980015" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市中垣内町
+    a mo:町域 ;
     rdfs:label "中垣内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982146" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市中須町
+    a mo:町域 ;
     rdfs:label "中須町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980044" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市中島町
+    a mo:町域 ;
     rdfs:label "中島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980043" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市中吉田町
+    a mo:町域 ;
     rdfs:label "中吉田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980042" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市長沢町
+    a mo:町域 ;
     rdfs:label "長沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980412" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市七尾町
+    a mo:町域 ;
     rdfs:label "七尾町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980017" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市西平原町
+    a mo:町域 ;
     rdfs:label "西平原町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993506" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市波田町
+    a mo:町域 ;
     rdfs:label "波田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980411" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市匹見町石谷
+    a mo:町域 ;
     rdfs:label "匹見町石谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6981223" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市匹見町落合
+    a mo:町域 ;
     rdfs:label "匹見町落合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6981213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市匹見町紙祖
+    a mo:町域 ;
     rdfs:label "匹見町紙祖"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6981212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市匹見町澄川
+    a mo:町域 ;
     rdfs:label "匹見町澄川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6981221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市匹見町匹見
+    a mo:町域 ;
     rdfs:label "匹見町匹見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6981211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市匹見町広瀬
+    a mo:町域 ;
     rdfs:label "匹見町広瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6981222" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市匹見町道川
+    a mo:町域 ;
     rdfs:label "匹見町道川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6981201" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市左ケ山町
+    a mo:町域 ;
     rdfs:label "左ケ山町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995121" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市本俣賀町
+    a mo:町域 ;
     rdfs:label "本俣賀町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995122" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市本町
+    a mo:町域 ;
     rdfs:label "本町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980005" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市水分町
+    a mo:町域 ;
     rdfs:label "水分町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980032" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町朝倉
+    a mo:町域 ;
     rdfs:label "美都町朝倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町板井川
+    a mo:町域 ;
     rdfs:label "美都町板井川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980201" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町宇津川
+    a mo:町域 ;
     rdfs:label "美都町宇津川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980202" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町久原
+    a mo:町域 ;
     rdfs:label "美都町久原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980206" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町小原
+    a mo:町域 ;
     rdfs:label "美都町小原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町笹倉
+    a mo:町域 ;
     rdfs:label "美都町笹倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980214" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町仙道
+    a mo:町域 ;
     rdfs:label "美都町仙道"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町都茂
+    a mo:町域 ;
     rdfs:label "美都町都茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980203" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町丸茂
+    a mo:町域 ;
     rdfs:label "美都町丸茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980207" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町三谷
+    a mo:町域 ;
     rdfs:label "美都町三谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980205" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美都町山本
+    a mo:町域 ;
     rdfs:label "美都町山本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980204" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市美濃地町
+    a mo:町域 ;
     rdfs:label "美濃地町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993766" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市三宅町
+    a mo:町域 ;
     rdfs:label "三宅町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980006" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市向横田町
+    a mo:町域 ;
     rdfs:label "向横田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995134" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市虫追町
+    a mo:町域 ;
     rdfs:label "虫追町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6982144" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市元町
+    a mo:町域 ;
     rdfs:label "元町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6980033" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市安富町
+    a mo:町域 ;
     rdfs:label "安富町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995131" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市山折町
+    a mo:町域 ;
     rdfs:label "山折町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993673" ;
+a mo:GeoEntity .
 
 mr:JP_島根県益田市横田町
+    a mo:町域 ;
     rdfs:label "横田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995132" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市
     rdfs:label "大田市"@ja ;
@@ -3098,265 +4291,396 @@ mr:JP_島根県大田市
 a mo:GeoEntity .
 
 mr:JP_島根県大田市朝山町朝倉
+    a mo:町域 ;
     rdfs:label "朝山町朝倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市朝山町仙山
+    a mo:町域 ;
     rdfs:label "朝山町仙山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市五十猛町
+    a mo:町域 ;
     rdfs:label "五十猛町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940035" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大代町大家
+    a mo:町域 ;
     rdfs:label "大代町大家"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940433" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大代町新屋
+    a mo:町域 ;
     rdfs:label "大代町新屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940432" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大田町大田
+    a mo:町域 ;
     rdfs:label "大田町大田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940064" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大田町野城
+    a mo:町域 ;
     rdfs:label "大田町野城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940062" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大田町吉永
+    a mo:町域 ;
     rdfs:label "大田町吉永"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940063" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大森町
+    a mo:町域 ;
     rdfs:label "大森町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940305" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大屋町大国
+    a mo:町域 ;
     rdfs:label "大屋町大国"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940033" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大屋町大屋
+    a mo:町域 ;
     rdfs:label "大屋町大屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940034" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市大屋町鬼村
+    a mo:町域 ;
     rdfs:label "大屋町鬼村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940032" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市川合町忍原
+    a mo:町域 ;
     rdfs:label "川合町忍原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市川合町川合
+    a mo:町域 ;
     rdfs:label "川合町川合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市川合町吉永
+    a mo:町域 ;
     rdfs:label "川合町吉永"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市久手町刺鹿
+    a mo:町域 ;
     rdfs:label "久手町刺鹿"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940052" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市久手町波根西
+    a mo:町域 ;
     rdfs:label "久手町波根西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940051" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市久利町市原
+    a mo:町域 ;
     rdfs:label "久利町市原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市久利町久利
+    a mo:町域 ;
     rdfs:label "久利町久利"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市久利町佐摩
+    a mo:町域 ;
     rdfs:label "久利町佐摩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市久利町松代
+    a mo:町域 ;
     rdfs:label "久利町松代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940025" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市久利町行恒
+    a mo:町域 ;
     rdfs:label "久利町行恒"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市三瓶町池田
+    a mo:町域 ;
     rdfs:label "三瓶町池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940223" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市三瓶町上山
+    a mo:町域 ;
     rdfs:label "三瓶町上山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市三瓶町小屋原
+    a mo:町域 ;
     rdfs:label "三瓶町小屋原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940224" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市三瓶町志学
+    a mo:町域 ;
     rdfs:label "三瓶町志学"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940222" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市三瓶町多根
+    a mo:町域 ;
     rdfs:label "三瓶町多根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市三瓶町野城
+    a mo:町域 ;
     rdfs:label "三瓶町野城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市静間町
+    a mo:町域 ;
     rdfs:label "静間町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940031" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市祖式町
+    a mo:町域 ;
     rdfs:label "祖式町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940431" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市富山町神原
+    a mo:町域 ;
     rdfs:label "富山町神原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992214" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市富山町才坂
+    a mo:町域 ;
     rdfs:label "富山町才坂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992215" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市富山町山中
+    a mo:町域 ;
     rdfs:label "富山町山中"@ja ;
     mo:SubRegion mr:JP_島根県大田市富山町山中押ケ峠 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992216" ;
+    mo:JP_郵便番号 "6940061" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市富山町山中押ケ峠
     rdfs:label "押ケ峠"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6940061" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市鳥井町鳥井
+    a mo:町域 ;
     rdfs:label "鳥井町鳥井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940054" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市鳥井町鳥越
+    a mo:町域 ;
     rdfs:label "鳥井町鳥越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940053" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市長久町稲用
+    a mo:町域 ;
     rdfs:label "長久町稲用"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940042" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市長久町土江
+    a mo:町域 ;
     rdfs:label "長久町土江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940044" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市長久町長久
+    a mo:町域 ;
     rdfs:label "長久町長久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940041" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市長久町延里
+    a mo:町域 ;
     rdfs:label "長久町延里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940043" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市仁摩町天河内
+    a mo:町域 ;
     rdfs:label "仁摩町天河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992305" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市仁摩町大国
+    a mo:町域 ;
     rdfs:label "仁摩町大国"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992303" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市仁摩町宅野
+    a mo:町域 ;
     rdfs:label "仁摩町宅野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992302" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市仁摩町仁万
+    a mo:町域 ;
     rdfs:label "仁摩町仁万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992301" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市仁摩町馬路
+    a mo:町域 ;
     rdfs:label "仁摩町馬路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992304" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市波根町
+    a mo:町域 ;
     rdfs:label "波根町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市水上町荻原
+    a mo:町域 ;
     rdfs:label "水上町荻原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940301" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市水上町白坏
+    a mo:町域 ;
     rdfs:label "水上町白坏"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940303" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市水上町福原
+    a mo:町域 ;
     rdfs:label "水上町福原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940302" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市水上町三久須
+    a mo:町域 ;
     rdfs:label "水上町三久須"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940304" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市山口町佐津目
+    a mo:町域 ;
     rdfs:label "山口町佐津目"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市山口町山口
+    a mo:町域 ;
     rdfs:label "山口町山口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6940002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町井田
+    a mo:町域 ;
     rdfs:label "温泉津町井田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992507" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町今浦
+    a mo:町域 ;
     rdfs:label "温泉津町今浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992515" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町太田
+    a mo:町域 ;
     rdfs:label "温泉津町太田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992505" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町荻村
+    a mo:町域 ;
     rdfs:label "温泉津町荻村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992504" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町上村
+    a mo:町域 ;
     rdfs:label "温泉津町上村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992513" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町小浜
+    a mo:町域 ;
     rdfs:label "温泉津町小浜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992511" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町西田
+    a mo:町域 ;
     rdfs:label "温泉津町西田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992503" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町飯原
+    a mo:町域 ;
     rdfs:label "温泉津町飯原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992512" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町福田
+    a mo:町域 ;
     rdfs:label "温泉津町福田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992506" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町福光
+    a mo:町域 ;
     rdfs:label "温泉津町福光"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992514" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町湯里
+    a mo:町域 ;
     rdfs:label "温泉津町湯里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992502" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町温泉津
+    a mo:町域 ;
     rdfs:label "温泉津町温泉津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992501" ;
+a mo:GeoEntity .
 
 mr:JP_島根県大田市温泉津町吉浦
+    a mo:町域 ;
     rdfs:label "温泉津町吉浦"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992516" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市
     rdfs:label "安来市"@ja ;
@@ -3458,381 +4782,570 @@ mr:JP_島根県安来市
 a mo:GeoEntity .
 
 mr:JP_島根県安来市赤江町
+    a mo:町域 ;
     rdfs:label "赤江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市赤崎町
+    a mo:町域 ;
     rdfs:label "赤崎町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920052" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市荒島町
+    a mo:町域 ;
     rdfs:label "荒島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920007" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市飯梨町
+    a mo:町域 ;
     rdfs:label "飯梨町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920066" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市飯生町
+    a mo:町域 ;
     rdfs:label "飯生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920055" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市今津町
+    a mo:町域 ;
     rdfs:label "今津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920015" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市岩舟町
+    a mo:町域 ;
     rdfs:label "岩舟町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920065" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市植田町
+    a mo:町域 ;
     rdfs:label "植田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920063" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市宇賀荘町
+    a mo:町域 ;
     rdfs:label "宇賀荘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920034" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市恵乃島町
+    a mo:町域 ;
     rdfs:label "恵乃島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920057" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市大塚町
+    a mo:町域 ;
     rdfs:label "大塚町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920042" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市折坂町
+    a mo:町域 ;
     rdfs:label "折坂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920046" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市柿谷町
+    a mo:町域 ;
     rdfs:label "柿谷町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920045" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市門生町
+    a mo:町域 ;
     rdfs:label "門生町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920027" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市上坂田町
+    a mo:町域 ;
     rdfs:label "上坂田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市上吉田町
+    a mo:町域 ;
     rdfs:label "上吉田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920043" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市亀島町
+    a mo:町域 ;
     rdfs:label "亀島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920071" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市神庭町
+    a mo:町域 ;
     rdfs:label "神庭町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920075" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市吉佐町
+    a mo:町域 ;
     rdfs:label "吉佐町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920026" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市清井町
+    a mo:町域 ;
     rdfs:label "清井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920056" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市清瀬町
+    a mo:町域 ;
     rdfs:label "清瀬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920035" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市清水町
+    a mo:町域 ;
     rdfs:label "清水町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920033" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市切川町
+    a mo:町域 ;
     rdfs:label "切川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920051" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市久白町
+    a mo:町域 ;
     rdfs:label "久白町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市九重町
+    a mo:町域 ;
     rdfs:label "九重町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920032" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市黒井田町
+    a mo:町域 ;
     rdfs:label "黒井田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市佐久保町
+    a mo:町域 ;
     rdfs:label "佐久保町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920031" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市実松町
+    a mo:町域 ;
     rdfs:label "実松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920062" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市沢町
+    a mo:町域 ;
     rdfs:label "沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920053" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市汐手が丘
+    a mo:町域 ;
     rdfs:label "汐手が丘"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920028" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市島田町
+    a mo:町域 ;
     rdfs:label "島田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市下坂田町
+    a mo:町域 ;
     rdfs:label "下坂田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920017" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市下吉田町
+    a mo:町域 ;
     rdfs:label "下吉田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920044" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市新十神町
+    a mo:町域 ;
     rdfs:label "新十神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市早田町
+    a mo:町域 ;
     rdfs:label "早田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920047" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市田頼町
+    a mo:町域 ;
     rdfs:label "田頼町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920067" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市月坂町
+    a mo:町域 ;
     rdfs:label "月坂町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市利弘町
+    a mo:町域 ;
     rdfs:label "利弘町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920054" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市鳥木町
+    a mo:町域 ;
     rdfs:label "鳥木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920041" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市中海町
+    a mo:町域 ;
     rdfs:label "中海町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920074" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市中津町
+    a mo:町域 ;
     rdfs:label "中津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920061" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市西赤江町
+    a mo:町域 ;
     rdfs:label "西赤江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市西荒島町
+    a mo:町域 ;
     rdfs:label "西荒島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920006" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市西恵乃島町
+    a mo:町域 ;
     rdfs:label "西恵乃島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920058" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市西松井町
+    a mo:町域 ;
     rdfs:label "西松井町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920077" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市野方町
+    a mo:町域 ;
     rdfs:label "野方町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920036" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市能義町
+    a mo:町域 ;
     rdfs:label "能義町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920072" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町赤屋
+    a mo:町域 ;
     rdfs:label "伯太町赤屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920321" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町井尻
+    a mo:町域 ;
     rdfs:label "伯太町井尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町上小竹
+    a mo:町域 ;
     rdfs:label "伯太町上小竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920322" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町上十年畑
+    a mo:町域 ;
     rdfs:label "伯太町上十年畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920325" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町草野
+    a mo:町域 ;
     rdfs:label "伯太町草野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920324" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町下小竹
+    a mo:町域 ;
     rdfs:label "伯太町下小竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920323" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町下十年畑
+    a mo:町域 ;
     rdfs:label "伯太町下十年畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920326" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町須山福冨
+    a mo:町域 ;
     rdfs:label "伯太町須山福冨"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920214" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町高江寸次
+    a mo:町域 ;
     rdfs:label "伯太町高江寸次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920215" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町峠之内
+    a mo:町域 ;
     rdfs:label "伯太町峠之内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920218" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町西母里
+    a mo:町域 ;
     rdfs:label "伯太町西母里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町東母里
+    a mo:町域 ;
     rdfs:label "伯太町東母里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920207" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町日次
+    a mo:町域 ;
     rdfs:label "伯太町日次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920216" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町未明
+    a mo:町域 ;
     rdfs:label "伯太町未明"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920203" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町母里
+    a mo:町域 ;
     rdfs:label "伯太町母里"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町安田
+    a mo:町域 ;
     rdfs:label "伯太町安田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920206" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町安田関
+    a mo:町域 ;
     rdfs:label "伯太町安田関"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920202" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町安田中
+    a mo:町域 ;
     rdfs:label "伯太町安田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920205" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町安田宮内
+    a mo:町域 ;
     rdfs:label "伯太町安田宮内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920204" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町安田山形
+    a mo:町域 ;
     rdfs:label "伯太町安田山形"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920201" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市伯太町横屋
+    a mo:町域 ;
     rdfs:label "伯太町横屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920217" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市飯島町
+    a mo:町域 ;
     rdfs:label "飯島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920014" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市東赤江町
+    a mo:町域 ;
     rdfs:label "東赤江町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920016" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市日白町
+    a mo:町域 ;
     rdfs:label "日白町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920005" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町石原
+    a mo:町域 ;
     rdfs:label "広瀬町石原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町宇波
+    a mo:町域 ;
     rdfs:label "広瀬町宇波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920622" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町奥田原
+    a mo:町域 ;
     rdfs:label "広瀬町奥田原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920625" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町祖父谷
+    a mo:町域 ;
     rdfs:label "広瀬町祖父谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920405" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町梶福留
+    a mo:町域 ;
     rdfs:label "広瀬町梶福留"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920732" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町上山佐
+    a mo:町域 ;
     rdfs:label "広瀬町上山佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920413" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町下山佐
+    a mo:町域 ;
     rdfs:label "広瀬町下山佐"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920412" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町菅原
+    a mo:町域 ;
     rdfs:label "広瀬町菅原"@ja ;
     mo:SubRegion mr:JP_島根県安来市広瀬町菅原下田原 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920621" ;
+    mo:JP_郵便番号 "6920411" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町菅原下田原
     rdfs:label "下田原"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6920411" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町富田
+    a mo:町域 ;
     rdfs:label "広瀬町富田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920403" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町西谷
+    a mo:町域 ;
     rdfs:label "広瀬町西谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920624" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町西比田
+    a mo:町域 ;
     rdfs:label "広瀬町西比田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920731" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町東比田
+    a mo:町域 ;
     rdfs:label "広瀬町東比田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920733" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町広瀬
+    a mo:町域 ;
     rdfs:label "広瀬町広瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920404" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町布部
+    a mo:町域 ;
     rdfs:label "広瀬町布部"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920623" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市広瀬町町帳
+    a mo:町域 ;
     rdfs:label "広瀬町町帳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920402" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市古川町
+    a mo:町域 ;
     rdfs:label "古川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920064" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市穂日島町
+    a mo:町域 ;
     rdfs:label "穂日島町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920025" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市南十神町
+    a mo:町域 ;
     rdfs:label "南十神町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市宮内町
+    a mo:町域 ;
     rdfs:label "宮内町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市安来町
+    a mo:町域 ;
     rdfs:label "安来町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市矢田町
+    a mo:町域 ;
     rdfs:label "矢田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920073" ;
+a mo:GeoEntity .
 
 mr:JP_島根県安来市吉岡町
+    a mo:町域 ;
     rdfs:label "吉岡町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6920037" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市
     rdfs:label "江津市"@ja ;
@@ -3890,200 +5403,298 @@ mr:JP_島根県江津市
 a mo:GeoEntity .
 
 mr:JP_島根県江津市浅利町
+    a mo:町域 ;
     rdfs:label "浅利町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市跡市町
+    a mo:町域 ;
     rdfs:label "跡市町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950152" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市有福温泉町
+    a mo:町域 ;
     rdfs:label "有福温泉町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950156" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市有福温泉町本明
+    a mo:町域 ;
     rdfs:label "有福温泉町本明"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950155" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市井沢町
+    a mo:町域 ;
     rdfs:label "井沢町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950154" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市後地町
+    a mo:町域 ;
     rdfs:label "後地町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992841" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市敬川町
+    a mo:町域 ;
     rdfs:label "敬川町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993162" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市嘉久志町
+    a mo:町域 ;
     rdfs:label "嘉久志町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950016" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市金田町
+    a mo:町域 ;
     rdfs:label "金田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市川平町平田
+    a mo:町域 ;
     rdfs:label "川平町平田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950014" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市川平町南川上
+    a mo:町域 ;
     rdfs:label "川平町南川上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市黒松町
+    a mo:町域 ;
     rdfs:label "黒松町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992831" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市江津町
+    a mo:町域 ;
     rdfs:label "江津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町市山
+    a mo:町域 ;
     rdfs:label "桜江町市山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町今田
+    a mo:町域 ;
     rdfs:label "桜江町今田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994222" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町後山
+    a mo:町域 ;
     rdfs:label "桜江町後山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994223" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町江尾
+    a mo:町域 ;
     rdfs:label "桜江町江尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994224" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町大貫
+    a mo:町域 ;
     rdfs:label "桜江町大貫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994504" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町小田
+    a mo:町域 ;
     rdfs:label "桜江町小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994225" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町川越
+    a mo:町域 ;
     rdfs:label "桜江町川越"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994502" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町川戸
+    a mo:町域 ;
     rdfs:label "桜江町川戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994226" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町坂本
+    a mo:町域 ;
     rdfs:label "桜江町坂本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994505" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町鹿賀
+    a mo:町域 ;
     rdfs:label "桜江町鹿賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994501" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町田津
+    a mo:町域 ;
     rdfs:label "桜江町田津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994503" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町谷住郷
+    a mo:町域 ;
     rdfs:label "桜江町谷住郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994111" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町長谷
+    a mo:町域 ;
     rdfs:label "桜江町長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994431" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市桜江町八戸
+    a mo:町域 ;
     rdfs:label "桜江町八戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994432" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市島の星町
+    a mo:町域 ;
     rdfs:label "島の星町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950015" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市清見町
+    a mo:町域 ;
     rdfs:label "清見町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950153" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市千田町
+    a mo:町域 ;
     rdfs:label "千田町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950151" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市都治町
+    a mo:町域 ;
     rdfs:label "都治町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992842" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市都野津町
+    a mo:町域 ;
     rdfs:label "都野津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市二宮町神村
+    a mo:町域 ;
     rdfs:label "二宮町神村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市二宮町神主
+    a mo:町域 ;
     rdfs:label "二宮町神主"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市二宮町羽代
+    a mo:町域 ;
     rdfs:label "二宮町羽代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市波子町
+    a mo:町域 ;
     rdfs:label "波子町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6993161" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市波積町本郷
+    a mo:町域 ;
     rdfs:label "波積町本郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992833" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市波積町南
+    a mo:町域 ;
     rdfs:label "波積町南"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992834" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市波積町北
+    a mo:町域 ;
     rdfs:label "波積町北"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992832" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市松川町市村
+    a mo:町域 ;
     rdfs:label "松川町市村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市松川町太田
+    a mo:町域 ;
     rdfs:label "松川町太田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950007" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市松川町上河戸
+    a mo:町域 ;
     rdfs:label "松川町上河戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992837" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市松川町下河戸
+    a mo:町域 ;
     rdfs:label "松川町下河戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市松川町上津井
+    a mo:町域 ;
     rdfs:label "松川町上津井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992835" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市松川町長良
+    a mo:町域 ;
     rdfs:label "松川町長良"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950005" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市松川町畑田
+    a mo:町域 ;
     rdfs:label "松川町畑田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6992836" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市松川町八神
+    a mo:町域 ;
     rdfs:label "松川町八神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950006" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市和木町
+    a mo:町域 ;
     rdfs:label "和木町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950017" ;
+a mo:GeoEntity .
 
 mr:JP_島根県江津市渡津町
+    a mo:町域 ;
     rdfs:label "渡津町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6950001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市
     rdfs:label "雲南市"@ja ;
@@ -4185,386 +5796,578 @@ mr:JP_島根県雲南市
 a mo:GeoEntity .
 
 mr:JP_島根県雲南市掛合町穴見
+    a mo:町域 ;
     rdfs:label "掛合町穴見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902704" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市掛合町入間
+    a mo:町域 ;
     rdfs:label "掛合町入間"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902702" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市掛合町掛合
+    a mo:町域 ;
     rdfs:label "掛合町掛合"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902701" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市掛合町多根
+    a mo:町域 ;
     rdfs:label "掛合町多根"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902706" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市掛合町波多
+    a mo:町域 ;
     rdfs:label "掛合町波多"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902703" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市掛合町松笠
+    a mo:町域 ;
     rdfs:label "掛合町松笠"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902705" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町猪尾
+    a mo:町域 ;
     rdfs:label "加茂町猪尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991114" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町岩倉
+    a mo:町域 ;
     rdfs:label "加茂町岩倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991115" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町宇治
+    a mo:町域 ;
     rdfs:label "加茂町宇治"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991105" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町大崎
+    a mo:町域 ;
     rdfs:label "加茂町大崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991125" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町大竹
+    a mo:町域 ;
     rdfs:label "加茂町大竹"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991123" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町加茂中
+    a mo:町域 ;
     rdfs:label "加茂町加茂中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991106" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町神原
+    a mo:町域 ;
     rdfs:label "加茂町神原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991121" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町新宮
+    a mo:町域 ;
     rdfs:label "加茂町新宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991112" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町砂子原
+    a mo:町域 ;
     rdfs:label "加茂町砂子原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991111" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町大西
+    a mo:町域 ;
     rdfs:label "加茂町大西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町立原
+    a mo:町域 ;
     rdfs:label "加茂町立原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991102" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町近松
+    a mo:町域 ;
     rdfs:label "加茂町近松"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町延野
+    a mo:町域 ;
     rdfs:label "加茂町延野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991124" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町東谷
+    a mo:町域 ;
     rdfs:label "加茂町東谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991113" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町三代
+    a mo:町域 ;
     rdfs:label "加茂町三代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991122" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市加茂町南加茂
+    a mo:町域 ;
     rdfs:label "加茂町南加茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991104" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町宇谷
+    a mo:町域 ;
     rdfs:label "木次町宇谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991321" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町上熊谷
+    a mo:町域 ;
     rdfs:label "木次町上熊谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991331" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町木次
+    a mo:町域 ;
     rdfs:label "木次町木次"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991332" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町北原
+    a mo:町域 ;
     rdfs:label "木次町北原"@ja ;
     mo:SubRegion mr:JP_島根県雲南市木次町北原尾白 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991401" ;
+    mo:JP_郵便番号 "6991341" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町北原尾白
     rdfs:label "尾白"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6991401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町里方
+    a mo:町域 ;
     rdfs:label "木次町里方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991311" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町下熊谷
+    a mo:町域 ;
     rdfs:label "木次町下熊谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991333" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町寺領
+    a mo:町域 ;
     rdfs:label "木次町寺領"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991322" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町新市
+    a mo:町域 ;
     rdfs:label "木次町新市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991334" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町西日登
+    a mo:町域 ;
     rdfs:label "木次町西日登"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991324" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町東日登
+    a mo:町域 ;
     rdfs:label "木次町東日登"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991323" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町平田
+    a mo:町域 ;
     rdfs:label "木次町平田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991342" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町山方
+    a mo:町域 ;
     rdfs:label "木次町山方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991312" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市木次町湯村
+    a mo:町域 ;
     rdfs:label "木次町湯村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991343" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町飯田
+    a mo:町域 ;
     rdfs:label "大東町飯田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町遠所
+    a mo:町域 ;
     rdfs:label "大東町遠所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991231" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町大ケ谷
+    a mo:町域 ;
     rdfs:label "大東町大ケ谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町岡村
+    a mo:町域 ;
     rdfs:label "大東町岡村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町小河内
+    a mo:町域 ;
     rdfs:label "大東町小河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991201" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町金成
+    a mo:町域 ;
     rdfs:label "大東町金成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991261" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町上久野
+    a mo:町域 ;
     rdfs:label "大東町上久野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町上佐世
+    a mo:町域 ;
     rdfs:label "大東町上佐世"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991214" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町刈畑
+    a mo:町域 ;
     rdfs:label "大東町刈畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991202" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町川井
+    a mo:町域 ;
     rdfs:label "大東町川井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991222" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町北村
+    a mo:町域 ;
     rdfs:label "大東町北村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991203" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町薦澤
+    a mo:町域 ;
     rdfs:label "大東町薦澤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991204" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町山王寺
+    a mo:町域 ;
     rdfs:label "大東町山王寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991241" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町塩田
+    a mo:町域 ;
     rdfs:label "大東町塩田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991262" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町篠淵
+    a mo:町域 ;
     rdfs:label "大東町篠淵"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991263" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町下阿用
+    a mo:町域 ;
     rdfs:label "大東町下阿用"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991223" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町下久野
+    a mo:町域 ;
     rdfs:label "大東町下久野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町下佐世
+    a mo:町域 ;
     rdfs:label "大東町下佐世"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991215" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町新庄
+    a mo:町域 ;
     rdfs:label "大東町新庄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991251" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町須賀
+    a mo:町域 ;
     rdfs:label "大東町須賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991205" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町清田
+    a mo:町域 ;
     rdfs:label "大東町清田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991264" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町大東
+    a mo:町域 ;
     rdfs:label "大東町大東"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991251" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町大東下分
+    a mo:町域 ;
     rdfs:label "大東町大東下分"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991242" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町田中
+    a mo:町域 ;
     rdfs:label "大東町田中"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991252" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町中湯石
+    a mo:町域 ;
     rdfs:label "大東町中湯石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991253" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町西阿用
+    a mo:町域 ;
     rdfs:label "大東町西阿用"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991216" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町仁和寺
+    a mo:町域 ;
     rdfs:label "大東町仁和寺"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991232" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町畑鵯
+    a mo:町域 ;
     rdfs:label "大東町畑鵯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991243" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町幡屋
+    a mo:町域 ;
     rdfs:label "大東町幡屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991233" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町東阿用
+    a mo:町域 ;
     rdfs:label "大東町東阿用"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991224" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町前原
+    a mo:町域 ;
     rdfs:label "大東町前原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991234" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町南村
+    a mo:町域 ;
     rdfs:label "大東町南村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991206" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町山田
+    a mo:町域 ;
     rdfs:label "大東町山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991244" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市大東町養賀
+    a mo:町域 ;
     rdfs:label "大東町養賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991245" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町粟谷
+    a mo:町域 ;
     rdfs:label "三刀屋町粟谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902513" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町伊萱
+    a mo:町域 ;
     rdfs:label "三刀屋町伊萱"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町乙加宮
+    a mo:町域 ;
     rdfs:label "三刀屋町乙加宮"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902634" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町上熊谷
+    a mo:町域 ;
     rdfs:label "三刀屋町上熊谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902511" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町給下
+    a mo:町域 ;
     rdfs:label "三刀屋町給下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902402" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町神代
+    a mo:町域 ;
     rdfs:label "三刀屋町神代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902521" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町古城
+    a mo:町域 ;
     rdfs:label "三刀屋町古城"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902405" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町坂本
+    a mo:町域 ;
     rdfs:label "三刀屋町坂本"@ja ;
     mo:SubRegion mr:JP_島根県雲南市三刀屋町坂本森谷 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902625" ;
+    mo:JP_郵便番号 "6902525" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町坂本森谷
     rdfs:label "森谷"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6902525" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町里坊
+    a mo:町域 ;
     rdfs:label "三刀屋町里坊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902632" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町下熊谷
+    a mo:町域 ;
     rdfs:label "三刀屋町下熊谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902403" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町須所
+    a mo:町域 ;
     rdfs:label "三刀屋町須所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902524" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町高窪
+    a mo:町域 ;
     rdfs:label "三刀屋町高窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902406" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町多久和
+    a mo:町域 ;
     rdfs:label "三刀屋町多久和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902512" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町殿河内
+    a mo:町域 ;
     rdfs:label "三刀屋町殿河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902633" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町中野
+    a mo:町域 ;
     rdfs:label "三刀屋町中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902523" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町根波別所
+    a mo:町域 ;
     rdfs:label "三刀屋町根波別所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902631" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町三刀屋
+    a mo:町域 ;
     rdfs:label "三刀屋町三刀屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902404" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市三刀屋町六重
+    a mo:町域 ;
     rdfs:label "三刀屋町六重"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902522" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市吉田町上山
+    a mo:町域 ;
     rdfs:label "吉田町上山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902311" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市吉田町川手
+    a mo:町域 ;
     rdfs:label "吉田町川手"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902314" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市吉田町曽木
+    a mo:町域 ;
     rdfs:label "吉田町曽木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902312" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市吉田町深野
+    a mo:町域 ;
     rdfs:label "吉田町深野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902313" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市吉田町民谷
+    a mo:町域 ;
     rdfs:label "吉田町民谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902802" ;
+a mo:GeoEntity .
 
 mr:JP_島根県雲南市吉田町吉田
+    a mo:町域 ;
     rdfs:label "吉田町吉田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6902801" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町
     rdfs:label "仁多郡奥出雲町"@ja ;
@@ -4598,109 +6401,162 @@ mr:JP_島根県仁多郡奥出雲町
 a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町稲原
+    a mo:町域 ;
     rdfs:label "稲原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991821" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町大谷
+    a mo:町域 ;
     rdfs:label "大谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991812" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町大馬木
+    a mo:町域 ;
     rdfs:label "大馬木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991941" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町大呂
+    a mo:町域 ;
     rdfs:label "大呂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991802" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町上阿井
+    a mo:町域 ;
     rdfs:label "上阿井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991621" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町上三所
+    a mo:町域 ;
     rdfs:label "上三所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991431" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町亀嵩
+    a mo:町域 ;
     rdfs:label "亀嵩"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991701" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町鴨倉
+    a mo:町域 ;
     rdfs:label "鴨倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991515" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町河内
+    a mo:町域 ;
     rdfs:label "河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991514" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町郡
+    a mo:町域 ;
     rdfs:label "郡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991702" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町小馬木
+    a mo:町域 ;
     rdfs:label "小馬木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991942" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町佐白
+    a mo:町域 ;
     rdfs:label "佐白"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991434" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町下阿井
+    a mo:町域 ;
     rdfs:label "下阿井"@ja ;
     mo:SubRegion mr:JP_島根県仁多郡奥出雲町下阿井宇根路 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991622" ;
+    mo:JP_郵便番号 "6991517" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町下阿井宇根路
     rdfs:label "宇根路"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6991517" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町下横田
+    a mo:町域 ;
     rdfs:label "下横田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991822" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町高尾
+    a mo:町域 ;
     rdfs:label "高尾"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991512" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町高田
+    a mo:町域 ;
     rdfs:label "高田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991703" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町竹崎
+    a mo:町域 ;
     rdfs:label "竹崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991801" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町中村
+    a mo:町域 ;
     rdfs:label "中村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991831" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町馬馳
+    a mo:町域 ;
     rdfs:label "馬馳"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991432" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町三沢
+    a mo:町域 ;
     rdfs:label "三沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991513" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町三所
+    a mo:町域 ;
     rdfs:label "三所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991516" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町三成
+    a mo:町域 ;
     rdfs:label "三成"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991511" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町八川
+    a mo:町域 ;
     rdfs:label "八川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991811" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町八代
+    a mo:町域 ;
     rdfs:label "八代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991433" ;
+a mo:GeoEntity .
 
 mr:JP_島根県仁多郡奥出雲町横田
+    a mo:町域 ;
     rdfs:label "横田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6991832" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町
     rdfs:label "飯石郡飯南町"@ja ;
@@ -4729,84 +6585,124 @@ mr:JP_島根県飯石郡飯南町
 a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町赤名
+    a mo:町域 ;
     rdfs:label "赤名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903511" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町井戸谷
+    a mo:町域 ;
     rdfs:label "井戸谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903514" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町小田
+    a mo:町域 ;
     rdfs:label "小田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903403" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町上赤名
+    a mo:町域 ;
     rdfs:label "上赤名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903512" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町上来島
+    a mo:町域 ;
     rdfs:label "上来島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903405" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町佐見
+    a mo:町域 ;
     rdfs:label "佐見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903204" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町塩谷
+    a mo:町域 ;
     rdfs:label "塩谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903515" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町獅子
+    a mo:町域 ;
     rdfs:label "獅子"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903311" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町志津見
+    a mo:町域 ;
     rdfs:label "志津見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903313" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町下赤名
+    a mo:町域 ;
     rdfs:label "下赤名"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903513" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町下来島
+    a mo:町域 ;
     rdfs:label "下来島"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903402" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町都加賀
+    a mo:町域 ;
     rdfs:label "都加賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903203" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町角井
+    a mo:町域 ;
     rdfs:label "角井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903314" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町頓原
+    a mo:町域 ;
     rdfs:label "頓原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903207" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町長谷
+    a mo:町域 ;
     rdfs:label "長谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903205" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町野萱
+    a mo:町域 ;
     rdfs:label "野萱"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町八神
+    a mo:町域 ;
     rdfs:label "八神"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903312" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町畑田
+    a mo:町域 ;
     rdfs:label "畑田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903516" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町花栗
+    a mo:町域 ;
     rdfs:label "花栗"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903206" ;
+a mo:GeoEntity .
 
 mr:JP_島根県飯石郡飯南町真木
+    a mo:町域 ;
     rdfs:label "真木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6903404" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町
     rdfs:label "邑智郡川本町"@ja ;
@@ -4831,68 +6727,100 @@ mr:JP_島根県邑智郡川本町
 a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町因原
+    a mo:町域 ;
     rdfs:label "因原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町川内
+    a mo:町域 ;
     rdfs:label "川内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町川下
+    a mo:町域 ;
     rdfs:label "川下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町川本
+    a mo:町域 ;
     rdfs:label "川本"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町北佐木
+    a mo:町域 ;
     rdfs:label "北佐木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町久座仁
+    a mo:町域 ;
     rdfs:label "久座仁"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960006" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町小谷
+    a mo:町域 ;
     rdfs:label "小谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町田窪
+    a mo:町域 ;
     rdfs:label "田窪"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961226" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町多田
+    a mo:町域 ;
     rdfs:label "多田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960007" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町谷戸
+    a mo:町域 ;
     rdfs:label "谷戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960005" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町都賀行
+    a mo:町域 ;
     rdfs:label "都賀行"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町馬野原
+    a mo:町域 ;
     rdfs:label "馬野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町南佐木
+    a mo:町域 ;
     rdfs:label "南佐木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961225" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町三原
+    a mo:町域 ;
     rdfs:label "三原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961224" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町三俣
+    a mo:町域 ;
     rdfs:label "三俣"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961223" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡川本町湯谷
+    a mo:町域 ;
     rdfs:label "湯谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961222" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町
     rdfs:label "邑智郡美郷町"@ja ;
@@ -4944,176 +6872,262 @@ mr:JP_島根県邑智郡美郷町
 a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町明塚
+    a mo:町域 ;
     rdfs:label "明塚"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994624" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町吾郷
+    a mo:町域 ;
     rdfs:label "吾郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994627" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町石原
+    a mo:町域 ;
     rdfs:label "石原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994715" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町潮村
+    a mo:町域 ;
     rdfs:label "潮村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960701" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町内田
+    a mo:町域 ;
     rdfs:label "内田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961136" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町奥山
+    a mo:町域 ;
     rdfs:label "奥山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994631" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町乙原
+    a mo:町域 ;
     rdfs:label "乙原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994626" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町粕渕
+    a mo:町域 ;
     rdfs:label "粕渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994621" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町片山
+    a mo:町域 ;
     rdfs:label "片山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994714" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町櫨谷
+    a mo:町域 ;
     rdfs:label "櫨谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961137" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町上川戸
+    a mo:町域 ;
     rdfs:label "上川戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994702" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町上野
+    a mo:町域 ;
     rdfs:label "上野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960702" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町亀村
+    a mo:町域 ;
     rdfs:label "亀村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994707" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町京覧原
+    a mo:町域 ;
     rdfs:label "京覧原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961141" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町久喜原
+    a mo:町域 ;
     rdfs:label "久喜原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961142" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町久保
+    a mo:町域 ;
     rdfs:label "久保"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994622" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町熊見
+    a mo:町域 ;
     rdfs:label "熊見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994703" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町九日市
+    a mo:町域 ;
     rdfs:label "九日市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994712" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町小谷
+    a mo:町域 ;
     rdfs:label "小谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961144" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町小林
+    a mo:町域 ;
     rdfs:label "小林"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961133" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町小松地
+    a mo:町域 ;
     rdfs:label "小松地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961135" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町酒谷
+    a mo:町域 ;
     rdfs:label "酒谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994713" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町信喜
+    a mo:町域 ;
     rdfs:label "信喜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994704" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町志君
+    a mo:町域 ;
     rdfs:label "志君"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961132" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町地頭所
+    a mo:町域 ;
     rdfs:label "地頭所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961143" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町惣森
+    a mo:町域 ;
     rdfs:label "惣森"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961134" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町高畑
+    a mo:町域 ;
     rdfs:label "高畑"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994632" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町高山
+    a mo:町域 ;
     rdfs:label "高山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994605" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町滝原
+    a mo:町域 ;
     rdfs:label "滝原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994706" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町千原
+    a mo:町域 ;
     rdfs:label "千原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994711" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町都賀西
+    a mo:町域 ;
     rdfs:label "都賀西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960703" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町都賀本郷
+    a mo:町域 ;
     rdfs:label "都賀本郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960704" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町都賀行
+    a mo:町域 ;
     rdfs:label "都賀行"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960705" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町長藤
+    a mo:町域 ;
     rdfs:label "長藤"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960706" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町野井
+    a mo:町域 ;
     rdfs:label "野井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994623" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町浜原
+    a mo:町域 ;
     rdfs:label "浜原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994701" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町比敷
+    a mo:町域 ;
     rdfs:label "比敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960712" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町別府
+    a mo:町域 ;
     rdfs:label "別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961131" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町港
+    a mo:町域 ;
     rdfs:label "港"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6961145" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町宮内
+    a mo:町域 ;
     rdfs:label "宮内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960711" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町村之郷
+    a mo:町域 ;
     rdfs:label "村之郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960713" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町簗瀬
+    a mo:町域 ;
     rdfs:label "簗瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994625" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡美郷町湯抱
+    a mo:町域 ;
     rdfs:label "湯抱"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994633" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町
     rdfs:label "邑智郡邑南町"@ja ;
@@ -5157,144 +7171,214 @@ mr:JP_島根県邑智郡邑南町
 a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町阿須那
+    a mo:町域 ;
     rdfs:label "阿須那"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960501" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町出羽
+    a mo:町域 ;
     rdfs:label "出羽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960312" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町市木
+    a mo:町域 ;
     rdfs:label "市木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6970631" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町井原
+    a mo:町域 ;
     rdfs:label "井原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町今井
+    a mo:町域 ;
     rdfs:label "今井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960504" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町岩屋
+    a mo:町域 ;
     rdfs:label "岩屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960314" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町上田
+    a mo:町域 ;
     rdfs:label "上田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960601" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町宇都井
+    a mo:町域 ;
     rdfs:label "宇都井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960503" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町大林
+    a mo:町域 ;
     rdfs:label "大林"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960315" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町上亀谷
+    a mo:町域 ;
     rdfs:label "上亀谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960224" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町上口羽
+    a mo:町域 ;
     rdfs:label "上口羽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960602" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町上田所
+    a mo:町域 ;
     rdfs:label "上田所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960225" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町上原
+    a mo:町域 ;
     rdfs:label "上原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960405" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町木須田
+    a mo:町域 ;
     rdfs:label "木須田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960502" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町久喜
+    a mo:町域 ;
     rdfs:label "久喜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960316" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町高水
+    a mo:町域 ;
     rdfs:label "高水"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960131" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町下亀谷
+    a mo:町域 ;
     rdfs:label "下亀谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960223" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町下口羽
+    a mo:町域 ;
     rdfs:label "下口羽"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960603" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町下田所
+    a mo:町域 ;
     rdfs:label "下田所"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960222" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町高見
+    a mo:町域 ;
     rdfs:label "高見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960406" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町戸河内
+    a mo:町域 ;
     rdfs:label "戸河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960505" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町中野
+    a mo:町域 ;
     rdfs:label "中野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960102" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町原村
+    a mo:町域 ;
     rdfs:label "原村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960404" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町日貫
+    a mo:町域 ;
     rdfs:label "日貫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6994311" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町日和
+    a mo:町域 ;
     rdfs:label "日和"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960104" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町伏谷
+    a mo:町域 ;
     rdfs:label "伏谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960402" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町布施
+    a mo:町域 ;
     rdfs:label "布施"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町鱒渕
+    a mo:町域 ;
     rdfs:label "鱒渕"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町三日市
+    a mo:町域 ;
     rdfs:label "三日市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960311" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町八色石
+    a mo:町域 ;
     rdfs:label "八色石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960407" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町矢上
+    a mo:町域 ;
     rdfs:label "矢上"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960313" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町雪田
+    a mo:町域 ;
     rdfs:label "雪田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960506" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町淀原
+    a mo:町域 ;
     rdfs:label "淀原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960317" ;
+a mo:GeoEntity .
 
 mr:JP_島根県邑智郡邑南町和田
+    a mo:町域 ;
     rdfs:label "和田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6960403" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町
     rdfs:label "鹿足郡津和野町"@ja ;
@@ -5340,152 +7424,227 @@ mr:JP_島根県鹿足郡津和野町
 a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町青原
+    a mo:町域 ;
     rdfs:label "青原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町商人
+    a mo:町域 ;
     rdfs:label "商人"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995201" ;
+    mo:JP_郵便番号 "6995601" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町池村
+    a mo:町域 ;
     rdfs:label "池村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995216" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町後田
+    a mo:町域 ;
     rdfs:label "後田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995605" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町河村
+    a mo:町域 ;
     rdfs:label "河村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995212" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町耕田
+    a mo:町域 ;
     rdfs:label "耕田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995607" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町笹山
+    a mo:町域 ;
     rdfs:label "笹山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995603" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町左鐙
+    a mo:町域 ;
     rdfs:label "左鐙"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995202" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町須川
+    a mo:町域 ;
     rdfs:label "須川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995204" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町相撲ケ原
+    a mo:町域 ;
     rdfs:label "相撲ケ原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995203" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町添谷
+    a mo:町域 ;
     rdfs:label "添谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995213" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町高峯
+    a mo:町域 ;
     rdfs:label "高峯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995614" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町瀧谷
+    a mo:町域 ;
     rdfs:label "瀧谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995205" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町瀧元
+    a mo:町域 ;
     rdfs:label "瀧元"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995206" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町直地
+    a mo:町域 ;
     rdfs:label "直地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995602" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町田二穂
+    a mo:町域 ;
     rdfs:label "田二穂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995617" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町溪村
+    a mo:町域 ;
     rdfs:label "溪村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995214" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町寺田
+    a mo:町域 ;
     rdfs:label "寺田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995606" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町冨田
+    a mo:町域 ;
     rdfs:label "冨田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995215" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町豊稼
+    a mo:町域 ;
     rdfs:label "豊稼"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995632" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町内美
+    a mo:町域 ;
     rdfs:label "内美"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995621" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町中川
+    a mo:町域 ;
     rdfs:label "中川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995634" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町中座
+    a mo:町域 ;
     rdfs:label "中座"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995612" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町中曽野
+    a mo:町域 ;
     rdfs:label "中曽野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995636" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町中山
+    a mo:町域 ;
     rdfs:label "中山"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995631" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町長福
+    a mo:町域 ;
     rdfs:label "長福"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995633" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町名賀
+    a mo:町域 ;
     rdfs:label "名賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995615" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町日原
+    a mo:町域 ;
     rdfs:label "日原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995221" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町吹野
+    a mo:町域 ;
     rdfs:label "吹野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995637" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町部栄
+    a mo:町域 ;
     rdfs:label "部栄"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995616" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町枕瀬
+    a mo:町域 ;
     rdfs:label "枕瀬"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995207" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町町田
+    a mo:町域 ;
     rdfs:label "町田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995611" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町邑輝
+    a mo:町域 ;
     rdfs:label "邑輝"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995622" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町森村
+    a mo:町域 ;
     rdfs:label "森村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995604" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町柳村
+    a mo:町域 ;
     rdfs:label "柳村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995217" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町山下
+    a mo:町域 ;
     rdfs:label "山下"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995635" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡津和野町鷲原
+    a mo:町域 ;
     rdfs:label "鷲原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995613" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町
     rdfs:label "鹿足郡吉賀町"@ja ;
@@ -5520,108 +7679,160 @@ mr:JP_島根県鹿足郡吉賀町
 a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町朝倉
+    a mo:町域 ;
     rdfs:label "朝倉"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995523" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町有飯
+    a mo:町域 ;
     rdfs:label "有飯"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995506" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町大野原
+    a mo:町域 ;
     rdfs:label "大野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995306" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町柿木
+    a mo:町域 ;
     rdfs:label "柿木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995301" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町椛谷
+    a mo:町域 ;
     rdfs:label "椛谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995303" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町上高尻
+    a mo:町域 ;
     rdfs:label "上高尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995501" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町木部谷
+    a mo:町域 ;
     rdfs:label "木部谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995307" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町蔵木
+    a mo:町域 ;
     rdfs:label "蔵木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995504" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町九郎原
+    a mo:町域 ;
     rdfs:label "九郎原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995505" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町幸地
+    a mo:町域 ;
     rdfs:label "幸地"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995515" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町真田
+    a mo:町域 ;
     rdfs:label "真田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995521" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町沢田
+    a mo:町域 ;
     rdfs:label "沢田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995516" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町注連川
+    a mo:町域 ;
     rdfs:label "注連川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995517" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町下須
+    a mo:町域 ;
     rdfs:label "下須"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995305" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町下高尻
+    a mo:町域 ;
     rdfs:label "下高尻"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995507" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町白谷
+    a mo:町域 ;
     rdfs:label "白谷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995304" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町立河内
+    a mo:町域 ;
     rdfs:label "立河内"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995514" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町立戸
+    a mo:町域 ;
     rdfs:label "立戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995511" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町蓼野
+    a mo:町域 ;
     rdfs:label "蓼野"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995524" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町田野原
+    a mo:町域 ;
     rdfs:label "田野原"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995502" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町七日市
+    a mo:町域 ;
     rdfs:label "七日市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995522" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町抜月
+    a mo:町域 ;
     rdfs:label "抜月"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995525" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町樋口
+    a mo:町域 ;
     rdfs:label "樋口"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995503" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町広石
+    a mo:町域 ;
     rdfs:label "広石"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995512" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町福川
+    a mo:町域 ;
     rdfs:label "福川"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995302" ;
+a mo:GeoEntity .
 
 mr:JP_島根県鹿足郡吉賀町六日市
+    a mo:町域 ;
     rdfs:label "六日市"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6995513" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡海士町
     rdfs:label "隠岐郡海士町"@ja ;
@@ -5637,32 +7848,46 @@ mr:JP_島根県隠岐郡海士町
 a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡海士町海士
+    a mo:町域 ;
     rdfs:label "海士"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840403" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡海士町宇受賀
+    a mo:町域 ;
     rdfs:label "宇受賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840401" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡海士町崎
+    a mo:町域 ;
     rdfs:label "崎"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840413" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡海士町知々井
+    a mo:町域 ;
     rdfs:label "知々井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840411" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡海士町豊田
+    a mo:町域 ;
     rdfs:label "豊田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840402" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡海士町福井
+    a mo:町域 ;
     rdfs:label "福井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840404" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡海士町御波
+    a mo:町域 ;
     rdfs:label "御波"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840412" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡西ノ島町
     rdfs:label "隠岐郡西ノ島町"@ja ;
@@ -5675,20 +7900,28 @@ mr:JP_島根県隠岐郡西ノ島町
 a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡西ノ島町宇賀
+    a mo:町域 ;
     rdfs:label "宇賀"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840301" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡西ノ島町浦郷
+    a mo:町域 ;
     rdfs:label "浦郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840211" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡西ノ島町別府
+    a mo:町域 ;
     rdfs:label "別府"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840302" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡西ノ島町美田
+    a mo:町域 ;
     rdfs:label "美田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840303" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡知夫村
     rdfs:label "隠岐郡知夫村"@ja ;
@@ -5704,32 +7937,46 @@ mr:JP_島根県隠岐郡知夫村
 a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡知夫村薄毛
+    a mo:町域 ;
     rdfs:label "薄毛"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840104" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡知夫村古海
+    a mo:町域 ;
     rdfs:label "古海"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840107" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡知夫村大江
+    a mo:町域 ;
     rdfs:label "大江"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡知夫村来居
+    a mo:町域 ;
     rdfs:label "来居"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840106" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡知夫村郡
+    a mo:町域 ;
     rdfs:label "郡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840102" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡知夫村多沢
+    a mo:町域 ;
     rdfs:label "多沢"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡知夫村仁夫
+    a mo:町域 ;
     rdfs:label "仁夫"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6840105" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町
     rdfs:label "隠岐郡隠岐の島町"@ja ;
@@ -5782,183 +8029,274 @@ mr:JP_島根県隠岐郡隠岐の島町
 a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町有木
+    a mo:町域 ;
     rdfs:label "有木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850006" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町飯田
+    a mo:町域 ;
     rdfs:label "飯田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850004" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町飯美
+    a mo:町域 ;
     rdfs:label "飯美"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850411" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町池田
+    a mo:町域 ;
     rdfs:label "池田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850007" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町伊後
+    a mo:町域 ;
     rdfs:label "伊後"@ja ;
     mo:SubRegion mr:JP_島根県隠岐郡隠岐の島町伊後向ケ丘 ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850306" ;
+    mo:JP_郵便番号 "6850431" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町伊後向ケ丘
     rdfs:label "向ケ丘"@ja ;
-    a mo:町域 .
+    a mo:町域 ;
+    mo:JP_郵便番号 "6850306" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町犬来
+    a mo:町域 ;
     rdfs:label "犬来"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850003" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町今津
+    a mo:町域 ;
     rdfs:label "今津"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850022" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町卯敷
+    a mo:町域 ;
     rdfs:label "卯敷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850413" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町大久
+    a mo:町域 ;
     rdfs:label "大久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850001" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町釜
+    a mo:町域 ;
     rdfs:label "釜"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850002" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町上西
+    a mo:町域 ;
     rdfs:label "上西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850026" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町加茂
+    a mo:町域 ;
     rdfs:label "加茂"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850024" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町元屋
+    a mo:町域 ;
     rdfs:label "元屋"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850435" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町北方
+    a mo:町域 ;
     rdfs:label "北方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850301" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町久見
+    a mo:町域 ;
     rdfs:label "久見"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850305" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町蔵田
+    a mo:町域 ;
     rdfs:label "蔵田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850101" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町小路
+    a mo:町域 ;
     rdfs:label "小路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850312" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町郡
+    a mo:町域 ;
     rdfs:label "郡"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850311" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町栄町
+    a mo:町域 ;
     rdfs:label "栄町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850011" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町下西
+    a mo:町域 ;
     rdfs:label "下西"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850017" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町城北町
+    a mo:町域 ;
     rdfs:label "城北町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850016" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町代
+    a mo:町域 ;
     rdfs:label "代"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850304" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町蛸木
+    a mo:町域 ;
     rdfs:label "蛸木"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850106" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町津戸
+    a mo:町域 ;
     rdfs:label "津戸"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850105" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町都万
+    a mo:町域 ;
     rdfs:label "都万"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850104" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町東郷
+    a mo:町域 ;
     rdfs:label "東郷"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850005" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町中町
+    a mo:町域 ;
     rdfs:label "中町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850013" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町中村
+    a mo:町域 ;
     rdfs:label "中村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850434" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町那久
+    a mo:町域 ;
     rdfs:label "那久"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850103" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町那久路
+    a mo:町域 ;
     rdfs:label "那久路"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850313" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町苗代田
+    a mo:町域 ;
     rdfs:label "苗代田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850302" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町西田
+    a mo:町域 ;
     rdfs:label "西田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850023" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町西町
+    a mo:町域 ;
     rdfs:label "西町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850014" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町西村
+    a mo:町域 ;
     rdfs:label "西村"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850432" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町原田
+    a mo:町域 ;
     rdfs:label "原田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850027" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町東町
+    a mo:町域 ;
     rdfs:label "東町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850012" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町布施
+    a mo:町域 ;
     rdfs:label "布施"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850412" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町平
+    a mo:町域 ;
     rdfs:label "平"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850025" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町岬町
+    a mo:町域 ;
     rdfs:label "岬町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850021" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町湊
+    a mo:町域 ;
     rdfs:label "湊"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850433" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町港町
+    a mo:町域 ;
     rdfs:label "港町"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850015" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町南方
+    a mo:町域 ;
     rdfs:label "南方"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850303" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町山田
+    a mo:町域 ;
     rdfs:label "山田"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850314" ;
+a mo:GeoEntity .
 
 mr:JP_島根県隠岐郡隠岐の島町油井
+    a mo:町域 ;
     rdfs:label "油井"@ja ;
-    a mo:町域 .
+    mo:JP_郵便番号 "6850102" ;
+a mo:GeoEntity .
 
