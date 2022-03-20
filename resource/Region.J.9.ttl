@@ -15,7 +15,11 @@ mr:南西諸島
     mo:SubRegion mr:沖縄諸島 ;
     mo:SubRegion mr:先島諸島 ;
     mo:SubRegion mr:大東諸島 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/南西諸島> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/南西諸島>;
     rdfs:comment ""@ja .
+<https://ja.wikipedia.org/wiki/南西諸島> a mo:WikipediaPage .
+<http://ja.dbpedia.org/resource/南西諸島> a mo:ExternalEntity .
 
 mr:奄美群島
     a mo:GeoEntity ;
