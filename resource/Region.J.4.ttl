@@ -34,11 +34,15 @@ mr:北陸地方
     schema:sameAs <http://ja.dbpedia.org/resource/北陸地方>;
     schema:sameAs <https://worldinfo.wicurio.com/index.php?北陸地方>;
     rdfs:comment "狭義は北陸3県、広義は新潟県を加える。福井県の嶺南地方は近畿地方という解釈もある。"@ja .
+<https://ja.wikipedia.org/wiki/北陸地方> a mo:WikipediaPage .
+<http://ja.dbpedia.org/resource/北陸地方> a mo:ExternalEntity .
+<https://worldinfo.wicurio.com/index.php?北陸地方> a mo:WebSite .
 
 mr:北陸地方_3県
     a mo:GeoEntity ;
     rdfs:label "北陸"@ja ;
     rdfs:label "北陸地方"@ja ;
+    mo:Category mc:Region.J.4.N ;
     mo:SubRegion mr:JP_富山県 ;
     mo:SubRegion mr:JP_石川県 ;
     mo:SubRegion mr:JP_福井県 ;
@@ -48,9 +52,17 @@ mr:北陸地方_4県
     a mo:GeoEntity ;
     rdfs:label "北陸"@ja ;
     rdfs:label "北陸地方"@ja ;
+    mo:Category mc:Region.J.4.N ;
     mo:SubRegion mr:JP_新潟県 ;
     mo:SubRegion mr:JP_富山県 ;
     mo:SubRegion mr:JP_石川県 ;
     mo:SubRegion mr:JP_福井県 ;
     rdfs:comment "広義の北陸地方は4県"@ja .
+
+mr:JP_福井県
+    mo:SubRegion mr:福井県嶺北地方 ;
+    mo:SubRegion mr:福井県嶺南地方 ;
+    mo:Category mc:Region.J.4.N .
+
+
 
