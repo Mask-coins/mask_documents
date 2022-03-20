@@ -39,11 +39,6 @@ mr:つくば市中心地区
     a mo:GeoEntity ;
     rdfs:label "中央地区"@ja ;
     rdfs:label "研究学園地区"@ja ;
-    mo:SubRegion mr:つくば市中根・金田台地区 ;
-    mo:SubRegion mr:つくば市葛城地区 ;
-    mo:SubRegion mr:つくば市上河原崎・中西地区 ;
-    mo:SubRegion mr:つくば市島名・福田坪地区 ;
-    mo:SubRegion mr:つくば市萱丸地区 ;
     rdfs:comment ""@ja .
 
 mr:つくば市TX沿線開発地区
