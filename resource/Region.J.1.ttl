@@ -7,9 +7,6 @@
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 
 mr:JP_北海道
-    a mo:GeoEntity ;
-    a mo:都道府県 ;
-    rdfs:label "北海道"@ja ;
     schema:sameAs <https://ja.wikipedia.org/wiki/北海道> ;
     schema:sameAs <http://ja.dbpedia.org/resource/北海道>;
     schema:sameAs <https://worldinfo.wicurio.com/index.php?北海道>;
