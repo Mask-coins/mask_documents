@@ -4,26 +4,49 @@
 @prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 
+<https://www1.kaiho.mlit.go.jp/>
+    rdfs:label "海上保安庁海洋情報部"@ja ;
+    a mo:WebSite .
+
 <http://nanyanen.jp/>
     rdfs:label "戸田孝の雑学資料室"@ja ;
-    a mo:WebSite.
+    a mo:WebSite .
 
 <http://nanyanen.jp/geo-hist/konanbu.html>
     rdfs:label "「小南部領の青森県への編入」に関する事実関係"@ja ;
-    mo:HomeURL <http://nanyanen.jp/> ;
+    mo:HomeURL <https://www1.kaiho.mlit.go.jp/> ;
     mo:date "2020-10-28"^^xs:date ;
     mo:date "2020-10-29"^^xs:date ;
     mo:Category mc:Region.J.2;
-    a mo:WebSite.
+    a mo:WebSite .
+
+<https://www1.kaiho.mlit.go.jp/GIJUTSUKOKUSAI/KENKYU/report/tbh27/tbh27-02.pdf>
+    rdfs:label "我が国の広域な地名及びその範囲についての調査研究"@ja ;
+    mo:HomeURL <http://www.city.kagoshima.lg.jp/> ;
+    mo:date "2020-09-29"^^xs:date ;
+    mo:Category mc:Region.J.3;
+    mo:Category mc:Region.J.8;
+    mo:Category mc:Region.J.9;
+    a mo:WebSite .
+
 
 <http://www.city.kagoshima.lg.jp/>
     rdfs:label "鹿児島市"@ja ;
-    a mo:WebSite.
+    mo:Category mc:Region.J.8;
+    a mo:WebSite .
 
 <http://www.city.kagoshima.lg.jp/kikakuzaisei/kikaku/seisaku-s/shise/shokai/shishi/kire.html>
     rdfs:label "喜入町郷土誌（平成16年3月発行）"@ja ;
     mo:HomeURL <http://www.city.kagoshima.lg.jp/> ;
     mo:date "2020-09-29"^^xs:date ;
     mo:Category mc:Region.J.8;
-    a mo:WebSite.
+    a mo:WebSite .
+
+
+
+
+
+
+
+
 

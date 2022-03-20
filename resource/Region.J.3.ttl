@@ -61,6 +61,7 @@ mr:南方諸島
     rdfs:label "南方諸島"@ja ;
     mo:SubRegion mr:伊豆諸島 ;
     mo:SubRegion mr:小笠原諸島 ;
+    mo:Reference <https://www1.kaiho.mlit.go.jp/GIJUTSUKOKUSAI/KENKYU/report/tbh27/tbh27-02.pdf> ;
     rdfs:comment "東京都の島嶼部にあたる"@ja .
 
 mr:伊豆諸島
@@ -72,7 +73,20 @@ mr:小笠原諸島
     a mo:GeoEntity ;
     rdfs:label "小笠原諸島"@ja ;
     mo:SameRegion  mr:JP_東京都小笠原村  ;
+    mo:SubRegion mr:南鳥島 ;
+    mo:SubRegion mr:小笠原群島 ;
+    mo:SubRegion mr:火山列島 ;
+    mo:SubRegion mr:沖ノ島 ;
     rdfs:comment ""@ja .
+
+mr:小笠原群島
+    a mo:GeoEntity ;
+    rdfs:label "小笠原群島"@ja ;
+    mo:SubRegion mr:聟島列島 ;
+    mo:SubRegion mr:父島列島 ;
+    mo:SubRegion mr:母島列島 ;
+    rdfs:comment ""@ja .
+
 
 
 
