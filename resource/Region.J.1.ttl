@@ -28,6 +28,7 @@ mr:根室地方
 <http://ja.dbpedia.org/resource/根室振興局> a mo:ExternalEntity .
 <https://worldinfo.wicurio.com/index.php?根室地方> a mo:WebSite .
 
+
 mr:釧路地方
     a mo:GeoEntity ;
     a mo:都道府県 ;

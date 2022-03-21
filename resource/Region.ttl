@@ -26,6 +26,9 @@ mr:福井県嶺南
     schema:sameAs <http://ja.dbpedia.org/resource/嶺南>;
     schema:sameAs <https://worldinfo.wicurio.com/index.php?福井県嶺南>;
     rdfs:comment ""@ja .
+<https://ja.wikipedia.org/wiki/嶺南> a mo:WikipediaPage .
+<http://ja.dbpedia.org/resource/嶺南> a mo:ExternalEntity .
+<https://worldinfo.wicurio.com/index.php?福井県嶺南> a mo:WebSite .
 
 # ==============================
 # ■中国地方
