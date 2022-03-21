@@ -27,7 +27,7 @@ mr:北陸地方
     mo:Category mc:Region.J.4.N;
     mo:SubRegion mr:JP_富山県 ;
     mo:SubRegion mr:JP_石川県 ;
-    mo:SubRegion mr:福井県嶺北地方 ;
+    mo:SubRegion mr:福井県嶺北 ;
     mo:GeoEntityDefenition mr:北陸地方_3県 ;
     mo:GeoEntityDefenition mr:北陸地方_4県 ;
     schema:sameAs <https://ja.wikipedia.org/wiki/北陸地方> ;
