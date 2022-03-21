@@ -71,5 +71,14 @@ mr:福井県嶺北
     mo:Category mc:Region.J.4.N ;
     rdfs:comment ""@ja .
 
+mr:奥越地方
+    a mo:GeoEntity ;
+    rdfs:label "奥越地方"@ja ;
+    rdfs:label "奥越地区"@ja ;
+    mo:SubRegion mr:JP_福井県勝山市 ;
+    mo:SubRegion mr:JP_福井県大野市 ;
+    mo:Category mc:Region.J.4.N ;
+    rdfs:comment "福井県の勝山市と大野市にあたる地域。明治時代初期には全域が大野郡であった。なお、福井市東端部も大野郡のうちであったが、地形的に見て奥越から外すほうが妥当だろう。"@ja .
+
 
 
