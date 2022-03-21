@@ -28,5 +28,18 @@ mr:根室地方
 <http://ja.dbpedia.org/resource/根室振興局> a mo:ExternalEntity .
 <https://worldinfo.wicurio.com/index.php?根室地方> a mo:WebSite .
 
+mr:釧路地方
+    a mo:GeoEntity ;
+    a mo:都道府県 ;
+    rdfs:label "釧路地方"@ja ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/釧路総合振興局> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/釧路総合振興局>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?釧路地方>;
+    rdfs:comment ""@ja .
+<https://ja.wikipedia.org/wiki/釧路総合振興局> a mo:WikipediaPage .
+<http://ja.dbpedia.org/resource/釧路総合振興局> a mo:ExternalEntity .
+<https://worldinfo.wicurio.com/index.php?釧路地方> a mo:WebSite .
+
+
 
 
