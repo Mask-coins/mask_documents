@@ -60,9 +60,16 @@ mr:北陸地方_4県
     rdfs:comment "広義の北陸地方は4県"@ja .
 
 mr:JP_福井県
-    mo:SubRegion mr:福井県嶺北地方 ;
-    mo:SubRegion mr:福井県嶺南地方 ;
+    mo:SubRegion mr:福井県嶺北 ;
+    mo:SubRegion mr:福井県嶺南 ;
     mo:Category mc:Region.J.4.N .
+
+mr:福井県嶺北
+    a mo:GeoEntity ;
+    rdfs:label "嶺北地方"@ja ;
+    rdfs:label "嶺北地域"@ja ;
+    mo:Category mc:Region.J.4.N ;
+    rdfs:comment ""@ja .
 
 
 

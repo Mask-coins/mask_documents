@@ -9,7 +9,7 @@
 # ==============================
 # ■関西地方
 
-mr:福井県嶺南地方
+mr:福井県嶺南
     a mo:GeoEntity ;
     rdfs:label "嶺南"@ja ;
     rdfs:label "嶺南地方"@ja ;
