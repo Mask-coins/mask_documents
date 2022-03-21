@@ -35,6 +35,36 @@ mr:JP_茨城県つくば市
     mo:SubRegion mr:つくば市TX沿線開発地区 ;
     rdfs:comment ""@ja .
 
+mr:つくば市筑波地区
+    a mo:GeoEntity ;
+    rdfs:label "筑波地区"@ja ;
+    rdfs:comment ""@ja .
+
+mr:つくば市大穂地区
+    a mo:GeoEntity ;
+    rdfs:label "大穂地区"@ja ;
+    rdfs:comment ""@ja .
+
+mr:つくば市豊里地区
+    a mo:GeoEntity ;
+    rdfs:label "豊里地区"@ja ;
+    rdfs:comment ""@ja .
+
+mr:つくば市桜地区
+    a mo:GeoEntity ;
+    rdfs:label "桜地区"@ja ;
+    rdfs:comment ""@ja .
+
+mr:つくば市谷田部地区
+    a mo:GeoEntity ;
+    rdfs:label "谷田部地区"@ja ;
+    rdfs:comment ""@ja .
+
+mr:つくば市茎崎地区
+    a mo:GeoEntity ;
+    rdfs:label "茎崎地区"@ja ;
+    rdfs:comment ""@ja .
+
 mr:つくば市中心地区
     a mo:GeoEntity ;
     rdfs:label "中央地区"@ja ;
