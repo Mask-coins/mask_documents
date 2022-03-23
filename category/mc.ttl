@@ -110,7 +110,19 @@ mc:Region.J.5
 mc:Region.J.6
     a mo:Category ;
     rdfs:label "地域情報：中国地方"@ja ;
+    mo:SubCategory mc:Region.J.6.N ;
+    mo:SubCategory mc:Region.J.6.S ;
     rdfs:comment "中国地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N
+    a mo:Category ;
+    rdfs:label "地域情報：山陰地方"@ja ;
+    rdfs:comment "山陰地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.S
+    a mo:Category ;
+    rdfs:label "地域情報：山陽地方"@ja ;
+    rdfs:comment "山陽地方についてのカテゴリ"@ja .
 
 mc:Region.J.7
     a mo:Category ;
