@@ -33,13 +33,6 @@ mr:福井県嶺南
 # ==============================
 # ■中国地方
 
-mr:中四国地方
-    a mo:GeoEntity ;
-    rdfs:label "中四国地方"@ja ;
-    mo:Category mc:Region.J.6;
-    mo:Category mc:Region.J.7;
-    rdfs:comment ""@ja .
-
 # ==============================
 # ■四国地方
 

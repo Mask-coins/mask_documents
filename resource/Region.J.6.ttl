@@ -7,6 +7,13 @@
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 
 
+mr:中四国地方
+    a mo:GeoEntity ;
+    rdfs:label "中四国地方"@ja ;
+    mo:Category mc:Region.J.6;
+    mo:Category mc:Region.J.7;
+    rdfs:comment ""@ja .
+
 mr:中国地方
     a mo:GeoEntity ;
     rdfs:label "中国地方"@ja ;
