@@ -1,7 +1,7 @@
 日本郵政グループの公開する  
 「郵便番号データダウンロード」  
 https://www.post.japanpost.jp/zipcode/download.html  
-を RDF の形式に変換しました。
+を RDF の形式に変換しました．
 
 Ontology は  
 - https://github.com/Mask-coins/mask_documents/blob/master/ontology/mo.ttl
@@ -9,6 +9,7 @@ Ontology は
 
 にあります．
 
+試作品につき，今後大幅な変更がありうることをご承知おきください．
 
 
 
