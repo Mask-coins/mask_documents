@@ -33,11 +33,6 @@ mc:Region.Oc
     rdfs:label "地域情報：オセアニア"@ja ;
     rdfs:comment "オセアニアについてのカテゴリ"@ja .
 
-mc:Region.As
-    a mo:Category ;
-    rdfs:label "地域情報：アジア"@ja ;
-    rdfs:comment "アジアについてのカテゴリ"@ja .
-
 mc:Region.Af
     a mo:Category ;
     rdfs:label "地域情報：アフリカ"@ja ;

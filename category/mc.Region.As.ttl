@@ -1,0 +1,42 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+
+mc:Region.As
+    a mo:Category ;
+    rdfs:label "地域情報：アジア"@ja ;
+    rdfs:comment "アジアについてのカテゴリ"@ja .
+
+mc:Region.As.N
+    a mo:Category ;
+    rdfs:label "地域情報：北アジア"@ja ;
+    rdfs:comment "北アジアについてのカテゴリ"@ja .
+
+mc:Region.As.C
+    a mo:Category ;
+    rdfs:label "地域情報：中央アジア"@ja ;
+    rdfs:comment "中央アジアについてのカテゴリ"@ja .
+
+mc:Region.As.E
+    a mo:Category ;
+    rdfs:label "地域情報：東アジア"@ja ;
+    rdfs:comment "東アジアについてのカテゴリ"@ja .
+
+mc:Region.As.SE
+    a mo:Category ;
+    rdfs:label "地域情報：東南アジア"@ja ;
+    rdfs:comment "東南アジアについてのカテゴリ"@ja .
+
+mc:Region.As.S
+    a mo:Category ;
+    rdfs:label "地域情報：南アジア"@ja ;
+    rdfs:comment "南アジアについてのカテゴリ"@ja .
+
+mc:Region.As.W
+    a mo:Category ;
+    rdfs:label "地域情報：西アジア"@ja ;
+    rdfs:comment "西アジアについてのカテゴリ"@ja .
+
+
