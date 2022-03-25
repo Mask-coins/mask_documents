@@ -61,16 +61,6 @@ mr:阿波上郡地方
     rdfs:comment ""@ja .
 
 # ==============================
-# ■九州地方
-
-mr:九州地方
-    a mo:GeoEntity ;
-    rdfs:label "九州地方"@ja ;
-    mo:Category mc:Region.J.8;
-    rdfs:comment ""@ja .
-
-
-# ==============================
 # ■オセアニア
 
 mr:Oceania

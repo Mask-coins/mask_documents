@@ -8,6 +8,13 @@
 
 
 
+mr:九州地方
+    a mo:GeoEntity ;
+    rdfs:label "九州地方"@ja ;
+    mo:Category mc:Region.J.8;
+    rdfs:comment ""@ja .
+
+
 mr:鹿児島市喜入地区
     a mo:GeoEntity ;
     rdfs:label "喜入地区"@ja ;
