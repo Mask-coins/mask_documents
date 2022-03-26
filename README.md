@@ -5,7 +5,8 @@
 地域情報等、ぼちぼち更新していきます。
 
 # 形式
-おもに Turtle 形式の RDF で公開します。
+おもに Markdown と Turtle 形式の RDF で公開します。  
+※Wiki機能を使うかどうかは考え中です。
 
 # /resource/ken_all
 https://github.com/Mask-coins/mask_documents/tree/master/resource/ken_all  
