@@ -2,6 +2,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
 @prefix schema:<https://schema.org/> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
 @prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
@@ -14,8 +15,23 @@ mr:九州地方
     mo:Category mc:Region.J.8;
     rdfs:comment ""@ja .
 
+<info:ndljp/pid/1042249>
+    rdfs:label "丹生村史"@ja ;
+    mo:Category mc:Region.J.8;
+    foaf:page <https://dl.ndl.go.jp/info:ndljp/pid/1042249>;
+    rdfs:comment "大分県北海部郡丹生村"@ja ;
+    a schema:Book .
+<https://dl.ndl.go.jp/info:ndljp/pid/1042249> a mo:WebSite.
+mr:JP_大分県大分市丹生 mo:Reference <info:ndljp/pid/1042249> .
+mr:JP_大分県大分市丹川 mo:Reference <info:ndljp/pid/1042249> .
+mr:JP_大分県大分市一木 mo:Reference <info:ndljp/pid/1042249> .
+mr:JP_大分県大分市久土 mo:Reference <info:ndljp/pid/1042249> .
+# mr:JP_大分県大分市原 mo:Reference <info:ndljp/pid/1042249> .
 
-mr:鹿児島市喜入地区
+
+
+
+        mr:鹿児島市喜入地区
     a mo:GeoEntity ;
     rdfs:label "喜入地区"@ja ;
     mo:Category mc:Region.J.8;
