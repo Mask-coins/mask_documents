@@ -12,12 +12,16 @@ mr:中四国地方
     rdfs:label "中四国地方"@ja ;
     mo:Category mc:Region.J.6;
     mo:Category mc:Region.J.7;
+    mo:SubRegion mr:中国地方 ;
+    mo:SubRegion mr:四国地方 ;
     rdfs:comment ""@ja .
 
 mr:中国地方
     a mo:GeoEntity ;
     rdfs:label "中国地方"@ja ;
     mo:Category mc:Region.J.6;
+    mo:SubRegion mr:山陰地方 ;
+    mo:SubRegion mr:山陽地方 ;
     rdfs:comment ""@ja .
 
 mr:山陰地方
@@ -27,6 +31,7 @@ mr:山陰地方
     mo:Category mc:Region.J.6.N;
     mo:SubRegion mr:JP_鳥取県 ;
     mo:SubRegion mr:JP_島根県 ;
+    mo:SubRegion mr:隠岐地方 ;
     rdfs:comment ""@ja .
 
 mr:山陽地方

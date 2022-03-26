@@ -4,6 +4,14 @@
 @prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 
+mc:Root
+    a mo:Category ;
+    rdfs:label "ルートカテゴリ"@ja ;
+    mo:SubCategory mc:Math ;
+    mo:SubCategory mc:Info ;
+    mo:SubCategory mc:Region ;
+    rdfs:comment "カテゴリの最上位"@ja .
+
 mc:Math
     a mo:Category ;
     rdfs:label "数学分野カテゴリ"@ja ;
@@ -20,6 +28,7 @@ mc:Region
     mo:SubCategory mc:Region.J ;
     mo:SubCategory mc:Region.Oc ;
     mo:SubCategory mc:Region.As ;
+    mo:SubCategory mc:Region.Ca ;
     mo:SubCategory mc:Region.Af ;
     mo:SubCategory mc:Region.Eu ;
     mo:SubCategory mc:Region.Am ;
@@ -94,6 +103,15 @@ mc:Region.J
     mo:SubCategory mc:Region.J.8 ;
     mo:SubCategory mc:Region.J.9 ;
     rdfs:comment "日本の地域についてのカテゴリ"@ja .
+mc:Region.J.1 mo:CategoryNumber 1 .
+mc:Region.J.2 mo:CategoryNumber 2 .
+mc:Region.J.3 mo:CategoryNumber 3 .
+mc:Region.J.4 mo:CategoryNumber 4 .
+mc:Region.J.5 mo:CategoryNumber 5 .
+mc:Region.J.6 mo:CategoryNumber 6 .
+mc:Region.J.7 mo:CategoryNumber 7 .
+mc:Region.J.8 mo:CategoryNumber 8 .
+mc:Region.J.9 mo:CategoryNumber 9 .
 
 mc:Region.J.1
     a mo:Category ;

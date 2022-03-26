@@ -7,13 +7,20 @@
 mc:Region.As
     a mo:Category ;
     rdfs:label "地域情報：アジア"@ja ;
+    mo:SubCategory mc:Region.As.N ;
+    mo:SubCategory mc:Region.As.C ;
+    mo:SubCategory mc:Region.As.E ;
+    mo:SubCategory mc:Region.As.SE ;
+    mo:SubCategory mc:Region.As.S ;
+    mo:SubCategory mc:Region.As.W ;
+    mo:SubCategory mc:Region.Ca.S ;
     rdfs:comment "アジアについてのカテゴリ"@ja .
-mc:Region.N mo:CategoryNumber 1 .
-mc:Region.C mo:CategoryNumber 2 .
-mc:Region.E mo:CategoryNumber 3 .
-mc:Region.SE mo:CategoryNumber 4 .
-mc:Region.S mo:CategoryNumber 5 .
-mc:Region.W mo:CategoryNumber 6 .
+mc:Region.As.N mo:CategoryNumber 1 .
+mc:Region.As.C mo:CategoryNumber 2 .
+mc:Region.As.E mo:CategoryNumber 3 .
+mc:Region.As.SE mo:CategoryNumber 4 .
+mc:Region.As.S mo:CategoryNumber 5 .
+mc:Region.As.W mo:CategoryNumber 6 .
 
 mc:Region.As.N
     a mo:Category ;
