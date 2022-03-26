@@ -40,11 +40,19 @@ mo:SubRegion
 mo:SameRegion
     a rdf:Property.
 
+# =========================
+# Category
+
 mo:Category
     a rdfs:Class.
 
 mo:SubCategory
     a rdf:Property.
+
+mo:CategoryNumber
+    a rdf:Property.
+
+# =========================
 
 mo:Reference
     rdfs:label "参考文献"@ja;

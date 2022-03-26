@@ -31,9 +31,6 @@ mr:福井県嶺南
 <https://worldinfo.wicurio.com/index.php?福井県嶺南> a mo:WebSite .
 
 # ==============================
-# ■中国地方
-
-# ==============================
 # ■四国地方
 
 mr:四国地方
@@ -94,6 +91,13 @@ mr:Europe
     rdfs:label "欧州"@ja ;
     mo:Category mc:Region.Eu;
     rdfs:comment ""@ja .
+
+mr:Zentralschweiz
+    a mo:GeoEntity ;
+    rdfs:label "Zentralschweiz"@de ;
+    rdfs:label "スイス中部"@ja ;
+    mo:Category mc:Region.Eu;
+    rdfs:comment "オプヴァルデン準州、ニトヴァルデン準州、ウーリ州、シュヴィーツ州、ツーク州から成る地域。"@ja .
 
 # ==============================
 # ■アメリカ

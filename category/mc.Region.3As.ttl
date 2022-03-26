@@ -8,6 +8,12 @@ mc:Region.As
     a mo:Category ;
     rdfs:label "地域情報：アジア"@ja ;
     rdfs:comment "アジアについてのカテゴリ"@ja .
+mc:Region.N mo:CategoryNumber 1 .
+mc:Region.C mo:CategoryNumber 2 .
+mc:Region.E mo:CategoryNumber 3 .
+mc:Region.SE mo:CategoryNumber 4 .
+mc:Region.S mo:CategoryNumber 5 .
+mc:Region.W mo:CategoryNumber 6 .
 
 mc:Region.As.N
     a mo:Category ;
