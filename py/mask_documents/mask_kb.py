@@ -65,14 +65,16 @@ class TripleLoader(object):
         return cls._Graph
 
     @classmethod
-    def _category_tree_call(cls, c:URIRef, depth: int):
+    def _category_tree_call(cls, c:URIRef, depth: int, max_depth: int):
+        if max_depth < 0:
+            return
         print("  "*depth + str(c).replace(PREFIX["mc"], ""))
         if c in cls._ClassTree:
             for chi in cls._ClassTree[c]:
-                cls._category_tree_call(chi, depth + 1)
+                cls._category_tree_call(chi, depth + 1, max_depth-1)
 
     @classmethod
-    def show_category_tree(cls, head="Root"):
+    def show_category_tree(cls, head="Root", max_depth=10):
         cls.load_category()
         p = URIRef(PREFIX["mo"]+"SubCategory")
         ret: Result = cls._Graph.triples((None,p,None))
@@ -81,17 +83,19 @@ class TripleLoader(object):
                 cls._ClassTree[s] = []
             cls._ClassTree[s].append(o)
         node_head = URIRef(PREFIX["mc"]+head)
-        cls._category_tree_call(node_head, 0)
+        cls._category_tree_call(node_head, 0, max_depth-1)
 
     @classmethod
-    def _region_tree_call(cls, c:URIRef, depth: int):
+    def _region_tree_call(cls, c:URIRef, depth: int, max_depth: int):
+        if max_depth < 0:
+            return
         print("  "*depth + str(c).replace(PREFIX["mr"], ""))
         if c in cls._RegionTree:
             for chi in cls._RegionTree[c]:
-                cls._region_tree_call(chi, depth + 1)
+                cls._region_tree_call(chi, depth + 1, max_depth-1)
 
     @classmethod
-    def show_region_tree(cls, head="中四国地方"):
+    def show_region_tree(cls, head="中四国地方", max_depth=10):
         cls.load_resource()
         p = URIRef(PREFIX["mo"]+"SubRegion")
         ret: Result = cls._Graph.triples((None,p,None))
@@ -100,11 +104,11 @@ class TripleLoader(object):
                 cls._RegionTree[s] = []
             cls._RegionTree[s].append(o)
         node_head = URIRef(PREFIX["mr"]+head)
-        cls._region_tree_call(node_head, 0)
+        cls._region_tree_call(node_head, 0, max_depth-1)
 
 
 
 if __name__ == "__main__":
     t = TripleLoader()
     # t.show_category_tree()
-    t.show_region_tree()
+    t.show_region_tree(max_depth=10)

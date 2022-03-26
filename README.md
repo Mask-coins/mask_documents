@@ -8,7 +8,7 @@
 おもに Markdown と Turtle 形式の RDF で公開します。  
 ※Wiki機能を使うかどうかは考え中です。
 
-# /resource/ken_all
+# ken_all
 https://github.com/Mask-coins/mask_documents/tree/master/resource/ken_all  
 には、郵便番号データを RDF に変換したものがあります。
 
