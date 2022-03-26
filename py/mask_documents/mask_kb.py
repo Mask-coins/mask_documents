@@ -95,7 +95,7 @@ class TripleLoader(object):
                 cls._region_tree_call(chi, depth + 1, max_depth-1)
 
     @classmethod
-    def show_region_tree(cls, head="中四国地方", max_depth=10):
+    def show_region_tree(cls, head="World", max_depth=10):
         cls.load_resource()
         p = URIRef(PREFIX["mo"]+"SubRegion")
         ret: Result = cls._Graph.triples((None,p,None))

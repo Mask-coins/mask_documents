@@ -53,6 +53,19 @@ mr:阿波上郡地方
 # ==============================
 # ■オセアニア
 
+mr:World
+    a mo:GeoEntity ;
+    rdfs:label "World"@en ;
+    rdfs:label "世界"@ja ;
+    mo:SubRegion mr:Oceania ;
+    mo:SubRegion mr:Asia ;
+    mo:SubRegion mr:Africa ;
+    mo:SubRegion mr:Europe ;
+    mo:SubRegion mr:America ;
+    mo:SubRegion mr:Antarctica ;
+    rdfs:comment ""@ja .
+
+
 mr:Oceania
     a mo:GeoEntity ;
     rdfs:label "Oceania"@en ;
@@ -108,6 +121,14 @@ mr:America
     rdfs:label "アメリカ大陸"@ja ;
     rdfs:label "米州大陸"@ja ;
     mo:Category mc:Region.Am;
+    rdfs:comment ""@ja .
+
+
+mr:Antarctica
+    a mo:GeoEntity ;
+    rdfs:label "Antarctica"@en ;
+    rdfs:label "南極大陸"@ja ;
+    mo:Category mc:Region.Antarctica;
     rdfs:comment ""@ja .
 
 
