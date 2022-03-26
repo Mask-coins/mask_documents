@@ -1,0 +1,86 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+
+mc:Region.J.6
+    a mo:Category ;
+    rdfs:label "地域情報：中国地方"@ja ;
+    mo:SubCategory mc:Region.J.6.N ;
+    mo:SubCategory mc:Region.J.6.S ;
+    rdfs:comment "中国地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N
+    a mo:Category ;
+    rdfs:label "地域情報：山陰地方"@ja ;
+    mo:SubCategory mc:Region.J.6.N.鳥取県 ;
+    mo:SubCategory mc:Region.J.6.N.因幡 ;
+    mo:SubCategory mc:Region.J.6.N.伯耆 ;
+    mo:SubCategory mc:Region.J.6.N.伯耆.E ;
+    mo:SubCategory mc:Region.J.6.N.伯耆.W ;
+    mo:SubCategory mc:Region.J.6.N.島根県 ;
+    mo:SubCategory mc:Region.J.6.N.隠岐 ;
+    mo:SubCategory mc:Region.J.6.N.出雲 ;
+    mo:SubCategory mc:Region.J.6.N.石見 ;
+    rdfs:comment "山陰地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.鳥取県
+    a mo:Category ;
+    rdfs:label "地域情報：鳥取県"@ja ;
+    mo:SubCategory mc:Region.J.6.N.因幡 ;
+    mo:SubCategory mc:Region.J.6.N.伯耆 ;
+    mo:SubCategory mc:Region.J.6.N.伯耆.E ;
+    mo:SubCategory mc:Region.J.6.N.伯耆.W ;
+    rdfs:comment "鳥取県についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.因幡
+    a mo:Category ;
+    rdfs:label "地域情報：因幡地方"@ja ;
+    rdfs:comment "因幡地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.伯耆
+    a mo:Category ;
+    rdfs:label "地域情報：伯耆地方"@ja ;
+    mo:SubCategory mc:Region.J.6.N.伯耆.E ;
+    mo:SubCategory mc:Region.J.6.N.伯耆.W ;
+    rdfs:comment "伯耆地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.伯耆.E
+    a mo:Category ;
+    rdfs:label "地域情報：東伯耆地方"@ja ;
+    rdfs:comment "東伯耆地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.伯耆.W
+    a mo:Category ;
+    rdfs:label "地域情報：西伯耆地方"@ja ;
+    rdfs:comment "西伯耆地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.島根県
+    a mo:Category ;
+    rdfs:label "地域情報：島根県"@ja ;
+    mo:SubCategory mc:Region.J.6.N.隠岐 ;
+    mo:SubCategory mc:Region.J.6.N.出雲 ;
+    mo:SubCategory mc:Region.J.6.N.石見 ;
+    rdfs:comment "島根県についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.隠岐
+    a mo:Category ;
+    rdfs:label "地域情報：隠岐地方"@ja ;
+    rdfs:comment "隠岐地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.出雲
+    a mo:Category ;
+    rdfs:label "地域情報：出雲地方"@ja ;
+    rdfs:comment "出雲地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.N.石見
+    a mo:Category ;
+    rdfs:label "地域情報：石見地方"@ja ;
+    rdfs:comment "石見地方についてのカテゴリ"@ja .
+
+mc:Region.J.6.S
+    a mo:Category ;
+    rdfs:label "地域情報：山陽地方"@ja ;
+    rdfs:comment "山陽地方についてのカテゴリ"@ja .
+
