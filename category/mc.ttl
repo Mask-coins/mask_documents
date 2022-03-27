@@ -156,6 +156,26 @@ mc:Region.J.7.阿波 mo:CategoryNumber 3 .
 mc:Region.J.7.伊予 mo:CategoryNumber 5 .
 mc:Region.J.7.土佐 mo:CategoryNumber 7 .
 
+mc:Region.J.7.讃岐
+    a mo:Category ;
+    rdfs:label "地域情報：讃岐地方（香川県）"@ja ;
+    rdfs:comment "讃岐地方についてのカテゴリ"@ja .
+
+mc:Region.J.7.阿波
+    a mo:Category ;
+    rdfs:label "地域情報：阿波地方（徳島県）"@ja ;
+    rdfs:comment "阿波地方についてのカテゴリ"@ja .
+
+mc:Region.J.7.伊予
+    a mo:Category ;
+    rdfs:label "地域情報：伊予地方（愛媛県）"@ja ;
+    rdfs:comment "伊予地方についてのカテゴリ"@ja .
+
+mc:Region.J.7.土佐
+    a mo:Category ;
+    rdfs:label "地域情報：土佐地方（高知県）"@ja ;
+    rdfs:comment "土佐地方についてのカテゴリ"@ja .
+
 mc:Region.J.8
     a mo:Category ;
     rdfs:label "地域情報：九州地方"@ja ;

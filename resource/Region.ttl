@@ -82,6 +82,31 @@ mr:Asia
     rdfs:label "Asia"@en ;
     rdfs:label "アジア"@ja ;
     mo:Category mc:Region.As;
+    mo:SubRegion mr:EastAsia ;
+    rdfs:comment ""@ja .
+
+mr:EastAsia
+    a mo:GeoEntity ;
+    rdfs:label "East Asia"@en ;
+    rdfs:label "東アジア"@ja ;
+    mo:Category mc:Region.As.E;
+    mo:SubRegion mr:Japan ;
+    rdfs:comment ""@ja .
+
+mr:Japan
+    a mo:GeoEntity ;
+    rdfs:label "Japan"@en ;
+    rdfs:label "日本"@ja ;
+    mo:Category mc:Region.J;
+    mo:SubRegion mr:JP_北海道 ;
+    mo:SubRegion mr:東北地方 ;
+    mo:SubRegion mr:関東地方 ;
+    mo:SubRegion mr:中部地方 ;
+    mo:SubRegion mr:関西地方 ;
+    mo:SubRegion mr:中国地方 ;
+    mo:SubRegion mr:四国地方 ;
+    mo:SubRegion mr:九州地方 ;
+    mo:SubRegion mr:南西諸島 ;
     rdfs:comment ""@ja .
 
 # ==============================
