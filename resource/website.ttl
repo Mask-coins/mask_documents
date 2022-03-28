@@ -43,6 +43,12 @@
     a mo:WebSite .
 
 
+<https://www.afpbb.com/>
+    rdfs:label "国際ニュース：AFPBB News"@ja ;
+    rdfs:label "AFPBB News"@ja ;
+    rdfs:label "フランス通信"@ja ;
+    a mo:WebSite .
+
 
 
 
