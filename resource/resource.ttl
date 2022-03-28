@@ -1,0 +1,54 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+mr:JaponicLanguages
+    rdfs:label "Japonic languages"@en ;
+    rdfs:label "日琉語族"@en ;
+    rdfs:label "日本語族"@en ;
+    rdfs:label "日琉諸語"@en ;
+    a mo:単系統言語グループ.
+
+mr:日本諸語
+    rdfs:label "日本語"@en ;
+    rdfs:label "日本諸語"@en ;
+    rdfs:label "日本語派"@en ;
+    a mo:単系統言語グループ ;
+    a mo:側系統言語グループ ;
+.
+
+mr:琉球諸語
+    rdfs:label "琉球諸語"@en ;
+    rdfs:label "琉球語派"@en ;
+    rdfs:label "琉球語"@en ;
+    rdfs:label "琉球方言"@en ;
+    a mo:単系統言語グループ ;
+.
+
+mr:北琉球諸語
+    rdfs:label "北琉球諸語"@en ;
+    rdfs:label "北琉球語群"@en ;
+    rdfs:label "奄美・沖縄語群"@en ;
+    rdfs:label "北琉球方言"@en ;
+    rdfs:label "奄美・沖縄方言"@en ;
+    a mo:単系統言語グループ ;
+.
+
+mr:南琉球諸語
+    rdfs:label "南琉球諸語"@en ;
+    rdfs:label "南琉球語群"@en ;
+    rdfs:label "先島語群"@en ;
+    rdfs:label "南琉球方言"@en ;
+    rdfs:label "先島方言"@en ;
+    a mo:単系統言語グループ ;
+.
+
+
+
+
+
+

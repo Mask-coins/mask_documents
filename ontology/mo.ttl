@@ -80,3 +80,30 @@ mo:WikipediaPage
     rdfs:subClassOf mo:Entity ;
     a rdfs:Class.
 
+mo:言語グループ
+    rdfs:label "言語グループ"@ja;
+    a rdfs:Class.
+
+mo:単系統言語グループ
+    rdfs:label "単系統の言語グループ"@ja;
+    rdfs:subClassOf mo:言語グループ ;
+    a rdfs:Class.
+
+mo:側系統言語グループ
+    rdfs:label "側系統の言語グループ"@ja;
+    rdfs:subClassOf mo:言語グループ ;
+    a rdfs:Class.
+
+mo:多系統言語グループ
+    rdfs:label "多系統の言語グループ"@ja;
+    rdfs:subClassOf mo:言語グループ ;
+    a rdfs:Class.
+
+mo:parentLanguageGroup
+    rdfs:label "親ノードにあたる言語グループ"@ja;
+    a rdf:Property.
+
+
+
+
+
