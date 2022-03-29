@@ -7,132 +7,20 @@
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 @prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
 
-mr:JaponicLanguages
-    rdfs:label "Japonic languages"@en ;
-    rdfs:label "日琉語族"@en ;
-    rdfs:label "日本語族"@en ;
-    rdfs:label "日琉諸語"@en ;
-    a mo:単系統言語
-.
 
-mr:日本諸語
-    rdfs:label "日本語"@en ;
-    rdfs:label "日本諸語"@en ;
-    rdfs:label "日本語派"@en ;
-    a mo:言語 ;
-    mo:parentLanguage mr:JaponicLanguages ;
-.
+# 言語地域
+# LanguageJ:日本語
+# LanguageST:シナ・チベット語族
 
-<http://purl.org/coar/resource_type/c_6501>
-    rdfs:label "「方言の島」山梨県奈良田の言語状況"@ja ;
-    mo:Category mc:Region.J.4 ;
-    mo:date "2021-06-04"^^xs:date ;
-    a schema:ScholarlyArticle
-.
-
-<http://hdl.handle.net/2065/00080887>
-    rdfs:label "三重県旧南勢町における形容詞アクセント"@ja ;
-    mo:Category mc:Region.J.5 ;
-    mo:date "2021-03-31"^^xs:date ;
-    a schema:ScholarlyArticle
-.
-
-mr:琉球諸語
-    rdfs:label "琉球諸語"@en ;
-    rdfs:label "琉球語派"@en ;
-    rdfs:label "琉球語"@en ;
-    rdfs:label "琉球方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:JaponicLanguages ;
-.
-
-mr:北琉球諸語
-    rdfs:label "北琉球諸語"@en ;
-    rdfs:label "北琉球語群"@en ;
-    rdfs:label "奄美・沖縄語群"@en ;
-    rdfs:label "北琉球方言"@en ;
-    rdfs:label "奄美・沖縄方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:琉球諸語 ;
-.
-
-mr:南琉球諸語
-    rdfs:label "南琉球諸語"@en ;
-    rdfs:label "南琉球語群"@en ;
-    rdfs:label "先島語群"@en ;
-    rdfs:label "南琉球方言"@en ;
-    rdfs:label "先島方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:琉球諸語 ;
-    schema:sameAs <https://ja.wikipedia.org/wiki/南琉球諸語> ;
-    schema:sameAs <https://worldinfo.wicurio.com/index.php?南琉球方言>;
-.
-<https://ja.wikipedia.org/wiki/南琉球諸語> a mo:WikipediaPage .
-<https://worldinfo.wicurio.com/index.php?南琉球方言> a mo:WebSite .
-
-mr:琉球宮古語
-    rdfs:label "宮古語"@en ;
-    rdfs:label "宮古方言"@en ;
-    a mo:単系統言語 ;
-    mo:Category mc:Region.J.9.宮古 ;
-    mo:parentLanguage mr:南琉球諸語 ;
-.
-
-mr:琉球八重山語
-    rdfs:label "八重山語"@en ;
-    rdfs:label "八重山方言"@en ;
-    rdfs:label "八重山諸方言"@en ;
-    a mo:言語 ;
-    mo:Category mc:Region.J.9.八重山 ;
-    mo:parentLanguage mr:南琉球諸語 ;
-    mo:Reference <info:doi/10.15002/00012533> ;
-.
-
-mr:琉球中核八重山諸方言
-    rdfs:label "中核八重山諸方言"@en ;
-    rdfs:label "石垣方言系"@en ;
-    a mo:単系統言語 ;
-    mo:Category mc:Region.J.9.八重山 ;
-    mo:parentLanguage mr:南琉球諸語 ;
-    mo:parentLanguage mr:琉球八重山語 ;
-    rdfs:comment "与那国方言を除く、八重山地方の諸方言を単系統を成すとする分類。"@ja ;
-    mo:Reference <info:doi/10.15002/00012533> ;
-.
-
-mr:琉球与那国語
-    rdfs:label "与那国語"@en ;
-    rdfs:label "与那国方言"@en ;
-    a mo:単系統言語 ;
-    mo:Category mc:Region.J.9.八重山 ;
-    mo:parentLanguage mr:琉球諸語 ;
-    mo:parentLanguage mr:南琉球諸語 ;
-    mo:parentLanguage mr:琉球八重山語 ;
-    mo:Reference <info:doi/10.15002/00012533> ;
-.
-
-mr:与那国祖内方言
-    rdfs:label "祖内方言"@en ;
-    a mo:単系統言語 ;
-    mo:Category mc:Region.J.9.八重山 ;
-    mo:parentLanguage mr:琉球与那国語 ;
-    mo:Reference <info:doi/10.15002/00012533> ;
-.
-
-<https://hosei.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=12540&item_no=1&page_id=13&block_id=83> a mo:WebSite .
-<info:doi/10.15002/00012533>
-    rdfs:label "与那国方言の系統的位置"@ja ;
-    mo:Category mc:Region.J.9.八重山 ;
-    foaf:page <https://hosei.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=12540&item_no=1&page_id=13&block_id=83>;
-    a schema:ScholarlyArticle
-.
-
-<https://hosei.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=13685&item_no=1&page_id=13&block_id=83> a mo:WebSite .
-<info:doi/10.15002/00013678>
-    rdfs:label "南琉球方言概説"@ja ;
-    mo:Category mc:Region.J.9.宮古 ;
-    mo:Category mc:Region.J.9.八重山 ;
-    foaf:page <https://hosei.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=13685&item_no=1&page_id=13&block_id=83>;
-    a schema:ScholarlyArticle .
+# :東ユーラシア孤立
+# :ST
+# :オーストロアジア
+# :オーストロネシア
+# :アフロ・アジア語族
+# :印欧語族
+# :西ユーラシア孤立
+# :アフリカ
+# :アメリカ大陸
 
 
 
@@ -143,7 +31,7 @@ mr:与那国祖内方言
 
 mr:ChukotkoKamchatkanLanguages
     rdfs:label "Chukotko-Kamchatkan languages"@en ;
-    rdfs:label "チュクチ・カムチャツカ語族"@en ;
+    rdfs:label "チュクチ・カムチャツカ語族"@ja ;
     a mo:単系統言語 ;
     schema:sameAs <https://ja.wikipedia.org/wiki/チュクチ・カムチャツカ語族> ;
     schema:sameAs <http://ja.dbpedia.org/resource/チュクチ・カムチャツカ語族>;
@@ -157,6 +45,75 @@ mr:ChukotkoKamchatkanLanguages
     mo:date "2021-03-20"^^xs:date ;
     mo:DOI "info:doi/10.15026/95692" ;
     a schema:ScholarlyArticle .
+
+mr:ItelmenLanguages
+    rdfs:label "Itelmen languages"@en ;
+    rdfs:label "イテリメン語"@ja ;
+    rdfs:label "カムチャダール語"@ja ;
+    a mo:単系統言語 ;
+    mo:Glottolog "kamc1243";
+    mo:parentLanguage mr:ChukotkoKamchatkanLanguages ;
+    mo:Reference <https://opac.ll.chiba-u.jp/da/curator/900117990/> ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/イテリメン語> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/イテリメン語>;
+.
+<https://ja.wikipedia.org/wiki/イテリメン語> a mo:WikipediaPage .
+<http://ja.dbpedia.org/resource/イテリメン語> a mo:ExternalEntity .
+
+
+mr:EastItelmenLanguages
+    rdfs:label "East Itelmen languages"@en ;
+    rdfs:label "Northeast Itelmen languages"@en ;
+    rdfs:label "North Itelmen languages"@en ;
+    rdfs:label "イテリメン東部語"@ja ;
+    a mo:単系統言語 ;
+    mo:Glottolog "itel1242";
+    mo:parentLanguage mr:ItelmenLanguages ;
+    mo:Reference <https://opac.ll.chiba-u.jp/da/curator/900117990/> ;
+.
+
+mr:SouthItelmenLanguages
+    rdfs:label "South Itelmen languages"@en ;
+    rdfs:label "South Itelmen languages"@en ;
+    rdfs:label "イテリメン南部語"@ja ;
+    a mo:単系統言語 ;
+    mo:Glottolog "sout3274";
+    mo:parentLanguage mr:ItelmenLanguages ;
+    mo:Reference <https://opac.ll.chiba-u.jp/da/curator/900117990/> ;
+.
+
+mr:WestItelmenLanguages
+    rdfs:label "West Itelmen languages"@en ;
+    rdfs:label "イテリメン西部語"@ja ;
+    rdfs:label "現代イテリメン語"@ja ;
+    a mo:単系統言語 ;
+    mo:Glottolog "itel1242";
+    mo:parentLanguage mr:ItelmenLanguages ;
+    mo:Reference <https://opac.ll.chiba-u.jp/da/curator/900117990/> ;
+.
+
+mr:NorthDialect_WestItelmenLanguages
+    rdfs:label "イテリメン西部語北部方言"@ja ;
+    rdfs:label "現代イテリメン語北部方言"@ja ;
+    a mo:単系統言語 ;
+    mo:parentLanguage mr:WestItelmenLanguages ;
+    mo:Reference <https://opac.ll.chiba-u.jp/da/curator/900117990/> ;
+.
+
+mr:SouthDialect_WestItelmenLanguages
+    rdfs:label "イテリメン西部語南部方言"@ja ;
+    rdfs:label "現代イテリメン語南部方言"@ja ;
+    a mo:単系統言語 ;
+    mo:parentLanguage mr:WestItelmenLanguages ;
+    mo:Reference <https://opac.ll.chiba-u.jp/da/curator/900117990/> ;
+.
+
+
+<https://opac.ll.chiba-u.jp/da/curator/900117990/>
+    rdfs:label "イテリメン語西部語南北方言とチュクチ・コリャーク諸語 -語彙から見た接触・系統関係の再検討-"@ja ;
+    mo:date "2014-09-25"^^xs:date ;
+    a schema:ScholarlyArticle .
+
 
 
 # =====================================================
@@ -175,272 +132,6 @@ mr:MongolicLanguages
     rdfs:label "阻害音の実態から見るモンゴル語アラシャ方言のモンゴル諸語における位置づけ"@ja ;
     mo:date "2021-03-20"^^xs:date ;
     a schema:ScholarlyArticle .
-
-
-
-# =====================================================
-# ST > Sal
-mr:BrahmaputranLanguages
-    rdfs:label "Brahmaputran languages"@en ;
-    rdfs:label "Sal languages"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "brah1260" ;
-    mo:Category mc:Region.As.SE ;
-    mo:Category mc:Region.As.S ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-<http://hdl.handle.net/2433/182194>
-    rdfs:label "ルイ祖語の再構にむけて"@ja ;
-    mo:date "2019-04-30"^^xs:date ;
-    mo:DOI "10.14989/182194" ;
-    mo:Category mc:Region.As.SE ;
-    mo:Category mc:Region.As.S ;
-    a schema:ScholarlyArticle .
-
-mr:JingphoKonyakLanguages
-    rdfs:label "Jingpho-Konyak language"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:BrahmaputranLanguages ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-mr:JingphoLuishLanguages
-    rdfs:label "Jingpho–Luish languages"@en ;
-    rdfs:label "Jingpho-Asakian languages"@en ;
-    rdfs:label "Kachin–Luic languages"@en ;
-    rdfs:label "Kachinic languages"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "jing1259" ;
-    mo:parentLanguage mr:JingphoKonyakLanguages ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-mr:JingphoLanguages
-    rdfs:label "Jingpho languages"@en ;
-    rdfs:label "Kachin languages"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "jing1260" ;
-    mo:parentLanguage mr:JingphoLuishLanguages ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-mr:LuishLanguages
-    rdfs:label "Luish languages"@en ;
-    rdfs:label "Asakian languages"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "jing1259" ;
-    mo:parentLanguage mr:JingphoLuishLanguages ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-mr:ChakpaLanguages_Luish
-    rdfs:label "Chakpa language"@en ;
-    rdfs:label "Loi language"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "andr1245" ;
-    mo:parentLanguage mr:LuishLanguages ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-mr:SengmaiChakpaLanguages_Luish
-    rdfs:label "Sengmai language"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:ChakpaLanguages_Luish ;
-    mo:Category mc:Region.As.S ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-mr:AndroChakpaLanguages_Luish
-    rdfs:label "Andro language"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:ChakpaLanguages_Luish ;
-    mo:Category mc:Region.As.S ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-mr:CakLanguages_Luish
-    rdfs:label "Cak language"@en ;
-    rdfs:label "Sak language"@en ;
-    rdfs:label "Chak language"@en ;
-    rdfs:label "Tsak language"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "sakk1239" ;
-    mo:parentLanguage mr:LuishLanguages ;
-    mo:Category mc:Region.As.SE ;
-    mo:Category mc:Region.As.S ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-
-
-
-
-
-# =====================================================
-# ST > Sal > Luish > Kadu
-
-mr:KaduLanguages_Luish
-    rdfs:label "Kadu language"@en ;
-    rdfs:label "カドゥー語諸"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "kado1242" ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-    mo:parentLanguage mr:LuishLanguages ;
-    mo:Reference <http://hdl.handle.net/2433/182194> ;
-.
-
-
-<https://doi.org/10.24467/onseikenkyu.23.0_83>
-    rdfs:label "モークワン・カドゥー語東部方言における有声阻害音"@ja ;
-    mo:date "2019-04-30"^^xs:date ;
-    mo:Category mc:Region.As.SE ;
-    a schema:ScholarlyArticle .
-
-
-mr:GananLanguages_Luish
-    rdfs:label "Ganan language"@en ;
-    rdfs:label "Ganaan languages"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "gana1267" ;
-    mo:parentLanguage mr:KaduLanguages_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:KaduLanguage_Luish
-    rdfs:label "Kadu language"@en ;
-    rdfs:label "カドゥー語"@en ;
-    rdfs:label "カドゥ語"@en ;
-    a mo:単系統言語 ;
-    mo:Glottolog "kadu1254" ;
-    mo:ISO639-3 "zkd" ;
-    mo:parentLanguage mr:KaduLanguages_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:MokhwangKaduLanguage_Luish
-    rdfs:label "Mokhwang Kadu language"@en ;
-    rdfs:label "モークワン・カドゥー語"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:KaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:SouthDialect_MokhwangKaduLanguage_Luish
-    rdfs:label "South dialect"@en ;
-    rdfs:label "モークワン・カドゥー語南部方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MokhwangKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:NorthDialect_MokhwangKaduLanguage_Luish
-    rdfs:label "North dialect"@en ;
-    rdfs:label "モークワン・カドゥー語北部方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MokhwangKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:NorthWestDialect_MokhwangKaduLanguage_Luish
-    rdfs:label "Northwest dialect"@en ;
-    rdfs:label "モークワン・カドゥー語北西部方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MokhwangKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:WestDialect_MokhwangKaduLanguage_Luish
-    rdfs:label "West dialect"@en ;
-    rdfs:label "モークワン・カドゥー語西部方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MokhwangKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:EastDialect_MokhwangKaduLanguage_Luish
-    rdfs:label "East dialect"@en ;
-    rdfs:label "モークワン・カドゥー語東部方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MokhwangKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:MolangMoteicKaduLanguage_Luish
-    rdfs:label "Molang-Moteic"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:KaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-
-mr:MolangMokhaKaduLanguage_Luish
-    rdfs:label "Molang-Mokha"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MolangMoteicKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:MolangKaduLanguage_Luish
-    rdfs:label "Molang Kadu languages"@en ;
-    rdfs:label "モーラン・カドゥー語"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MolangMokhaKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:MokhaKaduLanguage_Luish
-    rdfs:label "Mokha Kadu languages"@en ;
-    rdfs:label "モーカー・カドゥー語"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MolangMokhaKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:SettoMoteicKaduLanguage_Luish
-    rdfs:label "Setto-Moteic"@en ;
-    rdfs:label "モーテイッ・カドゥー語"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:MolangMoteicKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-mr:SettoKaduLanguage_Luish
-    rdfs:label "Setto"@en ;
-    rdfs:label "セットー方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:SettoMoteicKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
-
-
-mr:MoteicKaduLanguage_Luish
-    rdfs:label "Moteic"@en ;
-    rdfs:label "モーテイッ方言"@en ;
-    a mo:単系統言語 ;
-    mo:parentLanguage mr:SettoMoteicKaduLanguage_Luish ;
-    mo:Category mc:Region.As.SE ;
-    mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
-.
 
 
 

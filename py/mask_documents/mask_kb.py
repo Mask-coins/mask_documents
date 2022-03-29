@@ -144,4 +144,4 @@ if __name__ == "__main__":
     t = TripleLoader()
     # t.show_category_tree()
     # t.show_region_tree(max_depth=10)
-    t.show_tree_rev("BrahmaputranLanguages", URIRef(PREFIX["mo"]+"parentLanguage"))
+    t.show_tree_rev("ChukotkoKamchatkanLanguages", URIRef(PREFIX["mo"]+"parentLanguage"))

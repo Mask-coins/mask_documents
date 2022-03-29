@@ -1,0 +1,139 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:JaponicLanguages
+    rdfs:label "Japonic languages"@en ;
+    rdfs:label "日琉語族"@en ;
+    rdfs:label "日本語族"@en ;
+    rdfs:label "日琉諸語"@en ;
+    mo:Glottolog "japo1237";
+    a mo:単系統言語
+.
+
+mr:日本諸語
+    rdfs:label "日本語"@en ;
+    rdfs:label "日本諸語"@en ;
+    rdfs:label "日本語派"@en ;
+    a mo:言語 ;
+    mo:parentLanguage mr:JaponicLanguages ;
+.
+
+<http://purl.org/coar/resource_type/c_6501>
+    rdfs:label "「方言の島」山梨県奈良田の言語状況"@ja ;
+    mo:Category mc:Region.J.4 ;
+    mo:date "2021-06-04"^^xs:date ;
+    a schema:ScholarlyArticle
+.
+
+<http://hdl.handle.net/2065/00080887>
+    rdfs:label "三重県旧南勢町における形容詞アクセント"@ja ;
+    mo:Category mc:Region.J.5 ;
+    mo:date "2021-03-31"^^xs:date ;
+    a schema:ScholarlyArticle
+.
+
+mr:琉球諸語
+    rdfs:label "琉球諸語"@en ;
+    rdfs:label "琉球語派"@en ;
+    rdfs:label "琉球語"@en ;
+    rdfs:label "琉球方言"@en ;
+    a mo:単系統言語 ;
+    mo:parentLanguage mr:JaponicLanguages ;
+.
+
+mr:北琉球諸語
+    rdfs:label "北琉球諸語"@en ;
+    rdfs:label "北琉球語群"@en ;
+    rdfs:label "奄美・沖縄語群"@en ;
+    rdfs:label "北琉球方言"@en ;
+    rdfs:label "奄美・沖縄方言"@en ;
+    a mo:単系統言語 ;
+    mo:parentLanguage mr:琉球諸語 ;
+.
+
+mr:南琉球諸語
+    rdfs:label "南琉球諸語"@en ;
+    rdfs:label "南琉球語群"@en ;
+    rdfs:label "先島語群"@en ;
+    rdfs:label "南琉球方言"@en ;
+    rdfs:label "先島方言"@en ;
+    a mo:単系統言語 ;
+    mo:parentLanguage mr:琉球諸語 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/南琉球諸語> ;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?南琉球方言>;
+.
+<https://ja.wikipedia.org/wiki/南琉球諸語> a mo:WikipediaPage .
+<https://worldinfo.wicurio.com/index.php?南琉球方言> a mo:WebSite .
+
+mr:琉球宮古語
+    rdfs:label "宮古語"@en ;
+    rdfs:label "宮古方言"@en ;
+    a mo:単系統言語 ;
+    mo:Category mc:Region.J.9.宮古 ;
+    mo:parentLanguage mr:南琉球諸語 ;
+.
+
+mr:琉球八重山語
+    rdfs:label "八重山語"@en ;
+    rdfs:label "八重山方言"@en ;
+    rdfs:label "八重山諸方言"@en ;
+    a mo:言語 ;
+    mo:Category mc:Region.J.9.八重山 ;
+    mo:parentLanguage mr:南琉球諸語 ;
+    mo:Reference <info:doi/10.15002/00012533> ;
+.
+
+mr:琉球中核八重山諸方言
+    rdfs:label "中核八重山諸方言"@en ;
+    rdfs:label "石垣方言系"@en ;
+    a mo:単系統言語 ;
+    mo:Category mc:Region.J.9.八重山 ;
+    mo:parentLanguage mr:南琉球諸語 ;
+    mo:parentLanguage mr:琉球八重山語 ;
+    rdfs:comment "与那国方言を除く、八重山地方の諸方言を単系統を成すとする分類。"@ja ;
+    mo:Reference <info:doi/10.15002/00012533> ;
+.
+
+mr:琉球与那国語
+    rdfs:label "与那国語"@en ;
+    rdfs:label "与那国方言"@en ;
+    a mo:単系統言語 ;
+    mo:Category mc:Region.J.9.八重山 ;
+    mo:parentLanguage mr:琉球諸語 ;
+    mo:parentLanguage mr:南琉球諸語 ;
+    mo:parentLanguage mr:琉球八重山語 ;
+    mo:Reference <info:doi/10.15002/00012533> ;
+.
+
+mr:与那国祖内方言
+    rdfs:label "祖内方言"@en ;
+    a mo:単系統言語 ;
+    mo:Category mc:Region.J.9.八重山 ;
+    mo:parentLanguage mr:琉球与那国語 ;
+    mo:Reference <info:doi/10.15002/00012533> ;
+.
+
+<https://hosei.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=12540&item_no=1&page_id=13&block_id=83> a mo:WebSite .
+<info:doi/10.15002/00012533>
+    rdfs:label "与那国方言の系統的位置"@ja ;
+    mo:Category mc:Region.J.9.八重山 ;
+    foaf:page <https://hosei.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=12540&item_no=1&page_id=13&block_id=83>;
+    a schema:ScholarlyArticle
+.
+
+<https://hosei.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=13685&item_no=1&page_id=13&block_id=83> a mo:WebSite .
+<info:doi/10.15002/00013678>
+    rdfs:label "南琉球方言概説"@ja ;
+    mo:Category mc:Region.J.9.宮古 ;
+    mo:Category mc:Region.J.9.八重山 ;
+    foaf:page <https://hosei.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=13685&item_no=1&page_id=13&block_id=83>;
+    a schema:ScholarlyArticle .
+
+
