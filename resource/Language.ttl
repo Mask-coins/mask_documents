@@ -319,7 +319,7 @@ mr:KaduLanguage_Luish
     rdfs:label "カドゥ語"@en ;
     a mo:単系統言語 ;
     mo:Glottolog "kadu1254" ;
-    mo:mo:ISO639-3 "zkd" ;
+    mo:ISO639-3 "zkd" ;
     mo:parentLanguage mr:KaduLanguages_Luish ;
     mo:Category mc:Region.As.SE ;
     mo:Reference <https://doi.org/10.24467/onseikenkyu.23.0_83> ;
