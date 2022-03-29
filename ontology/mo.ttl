@@ -80,30 +80,45 @@ mo:WikipediaPage
     rdfs:subClassOf mo:Entity ;
     a rdfs:Class.
 
-mo:言語グループ
-    rdfs:label "言語グループ"@ja;
+mo:言語
+    rdfs:label "言語"@ja;
     a rdfs:Class.
 
-mo:単系統言語グループ
-    rdfs:label "単系統の言語グループ"@ja;
-    rdfs:subClassOf mo:言語グループ ;
+mo:単系統言語
+    rdfs:label "単系統の言語"@ja;
+    rdfs:subClassOf mo:言語 ;
     a rdfs:Class.
 
-mo:側系統言語グループ
-    rdfs:label "側系統の言語グループ"@ja;
-    rdfs:subClassOf mo:言語グループ ;
+mo:側系統言語
+    rdfs:label "側系統の言語"@ja;
+    rdfs:subClassOf mo:言語 ;
     a rdfs:Class.
 
-mo:多系統言語グループ
-    rdfs:label "多系統の言語グループ"@ja;
-    rdfs:subClassOf mo:言語グループ ;
+mo:多系統言語
+    rdfs:label "多系統の言語"@ja;
+    rdfs:subClassOf mo:言語 ;
     a rdfs:Class.
 
-mo:parentLanguageGroup
-    rdfs:label "親ノードにあたる言語グループ"@ja;
+mo:parentLanguage
+    rdfs:label "親ノードにあたる言語"@ja;
     a rdf:Property.
 
 
+mo:parentLanguage
+    rdfs:label "親ノードにあたる言語"@ja;
+    a rdf:Property.
 
+
+mo:DOI
+    rdfs:label "DOI"@ja;
+    a rdf:Property.
+
+mo:Glottolog
+    rdfs:label "Glottolog"@ja;
+    a rdf:Property.
+
+mo:ISO639-3
+    rdfs:label "ISO 639-3"@ja;
+    a rdf:Property.
 
 

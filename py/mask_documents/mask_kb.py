@@ -106,9 +106,42 @@ class TripleLoader(object):
         node_head = URIRef(PREFIX["mr"]+head)
         cls._region_tree_call(node_head, 0, max_depth-1)
 
+    @classmethod
+    def _tree_call(cls, s:URIRef, p:URIRef, depth: int, max_depth: int):
+        if max_depth < 0:
+            return
+        print("  "*depth + str(s).replace(PREFIX["mr"], ""))
+        ret: Result = cls._Graph.triples((s,p,None))
+        for s,p,o in ret:
+            cls._tree_call(o, p, depth + 1, max_depth-1)
+
+    @classmethod
+    def show_tree(cls, head:str, p:URIRef, max_depth=10):
+        cls.load_resource()
+        node_head = URIRef(PREFIX["mr"]+head)
+        cls._tree_call(node_head, p, 0, max_depth-1)
+
+
+    @classmethod
+    def _tree_call_rev(cls, o:URIRef, p:URIRef, depth: int, max_depth: int):
+        if max_depth < 0:
+            return
+        print("  " * depth + str(o).replace(PREFIX["mr"], ""))
+        ret: Result = cls._Graph.triples((None, p, o))
+        for s, p, o in ret:
+            cls._tree_call_rev(s, p, depth + 1, max_depth - 1)
+
+    @classmethod
+    def show_tree_rev(cls, head:str, p:URIRef, max_depth=10):
+        cls.load_resource()
+        node_head = URIRef(PREFIX["mr"]+head)
+        cls._tree_call_rev(node_head, p, 0, max_depth-1)
+
+
 
 
 if __name__ == "__main__":
     t = TripleLoader()
     # t.show_category_tree()
-    t.show_region_tree(max_depth=10)
+    # t.show_region_tree(max_depth=10)
+    t.show_tree_rev("BrahmaputranLanguages", URIRef(PREFIX["mo"]+"parentLanguage"))
