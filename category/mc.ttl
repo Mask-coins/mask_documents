@@ -45,10 +45,8 @@ mc:Region.Am mo:CategoryNumber 7 .
 mc:Region.Antarctica mo:CategoryNumber 8 .
 mc:Region.Others mo:CategoryNumber 9 .
 
-mc:Region.Oc
-    a mo:Category ;
-    rdfs:label "地域情報：オセアニア"@ja ;
-    rdfs:comment "オセアニアについてのカテゴリ"@ja .
+
+
 
 mc:Region.Ca
     a mo:Category ;
@@ -113,6 +111,10 @@ mc:Region.J.6 mo:CategoryNumber 6 .
 mc:Region.J.7 mo:CategoryNumber 7 .
 mc:Region.J.8 mo:CategoryNumber 8 .
 mc:Region.J.9 mo:CategoryNumber 9 .
+
+mc:AdminR.JP
+    rdfs:label "Category:日本"@ja ;
+    a mo:Category .
 
 mc:Region.J.1
     a mo:Category ;

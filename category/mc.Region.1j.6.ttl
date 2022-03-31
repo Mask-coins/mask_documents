@@ -14,18 +14,18 @@ mc:Region.J.6
 mc:Region.J.6.N
     a mo:Category ;
     rdfs:label "地域情報：山陰地方"@ja ;
-    mo:SubCategory mc:Region.J.6.N.鳥取県 ;
+    mo:SubCategory mc:AdminR.JP.鳥取県 ;
     mo:SubCategory mc:Region.J.6.N.因幡 ;
     mo:SubCategory mc:Region.J.6.N.伯耆 ;
     mo:SubCategory mc:Region.J.6.N.伯耆.E ;
     mo:SubCategory mc:Region.J.6.N.伯耆.W ;
-    mo:SubCategory mc:Region.J.6.N.島根県 ;
+    mo:SubCategory mc:AdminR.JP.島根県 ;
     mo:SubCategory mc:Region.J.6.N.隠岐 ;
     mo:SubCategory mc:Region.J.6.N.出雲 ;
     mo:SubCategory mc:Region.J.6.N.石見 ;
     rdfs:comment "山陰地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.鳥取県
+mc:AdminR.JP.鳥取県
     a mo:Category ;
     rdfs:label "地域情報：鳥取県"@ja ;
     mo:SubCategory mc:Region.J.6.N.因幡 ;
@@ -56,7 +56,7 @@ mc:Region.J.6.N.伯耆.W
     rdfs:label "地域情報：西伯耆地方"@ja ;
     rdfs:comment "西伯耆地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.島根県
+mc:mc:AdminR.JP.島根県
     a mo:Category ;
     rdfs:label "地域情報：島根県"@ja ;
     mo:SubCategory mc:Region.J.6.N.隠岐 ;

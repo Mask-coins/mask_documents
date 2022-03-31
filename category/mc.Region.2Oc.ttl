@@ -1,0 +1,66 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+
+mc:Region.Oc
+    rdfs:label "地域情報：オセアニア"@ja ;
+    rdfs:comment "オセアニアについてのカテゴリ"@ja ;
+    mo:SubCategory mc:Region.Oc.Au ;
+    mo:SubCategory mc:Region.Oc.Ml ;
+    mo:SubCategory mc:Region.Oc.Mc ;
+    mo:SubCategory mc:Region.Oc.Pl ;
+    mo:SubCategory mc:Region.Oc.Nz ;
+    a mo:Category .
+
+mc:Region.Oc.Au
+    a mo:Category ;
+    rdfs:label "地域情報：オーストラリア"@ja ;
+    rdfs:comment "オーストラリアについてのカテゴリ"@ja .
+
+mc:Region.Oc.Ml
+    a mo:Category ;
+    rdfs:label "地域情報：メラネシア"@ja ;
+    rdfs:comment "メラネシアについてのカテゴリ"@ja .
+
+mc:Region.Oc.Mc
+    a mo:Category ;
+    rdfs:label "地域情報：ミクロネシア"@ja ;
+    rdfs:comment "ミクロネシアについてのカテゴリ"@ja .
+
+mc:Region.Oc.Pl
+    a mo:Category ;
+    rdfs:label "地域情報：ポリネシア"@ja ;
+    rdfs:comment "ポリネシアについてのカテゴリ"@ja .
+
+mc:Region.Oc.Nz
+    rdfs:label "地域情報：ニュージーランド王国"@ja ;
+    rdfs:comment "ニュージーランド王国についてのカテゴリ"@ja ;
+    mo:SubCategory mc:AdminR.CK ;
+    mo:SubCategory mc:AdminR.NU ;
+    mo:SubCategory mc:AdminR.TK ;
+    mo:SubCategory mc:AdminR.NZ ;
+    a mo:Category .
+
+mc:AdminR.CK
+    rdfs:label "Category:クック諸島"@ja ;
+    a mo:Category .
+
+mc:AdminR.NU
+    rdfs:label "Category:ニウエ"@ja ;
+    a mo:Category .
+
+mc:AdminR.TK
+    rdfs:label "Category:トケラウ"@ja ;
+    a mo:Category .
+
+mc:AdminR.NZ
+    rdfs:label "Category:ニュージーランド"@ja ;
+    rdfs:label "Category:アオテアロア"@ja ;
+    a mo:Category .
+
+
+
+
+
