@@ -93,6 +93,7 @@ mc:Region.J
     a mo:Category ;
     rdfs:label "地域情報：日本"@ja ;
     mo:CategoryNumber 1 ;
+    mo:SubCategory mc:AdminR.JP  ;
     mo:SubCategory mc:Region.J.1 ;
     mo:SubCategory mc:Region.J.2 ;
     mo:SubCategory mc:Region.J.3 ;

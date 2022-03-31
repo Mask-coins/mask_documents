@@ -40,7 +40,21 @@ mc:Region.As.E
 mc:Region.As.SE
     a mo:Category ;
     rdfs:label "地域情報：東南アジア"@ja ;
+    mo:SubCategory mc:Region.As.SE.L ;
+    mo:SubCategory mc:Region.As.SE.S ;
     rdfs:comment "東南アジアについてのカテゴリ"@ja .
+mc:Region.As.SE.L mo:CategoryNumber 1 .
+mc:Region.As.SE.S mo:CategoryNumber 5 .
+
+mc:Region.As.SE.L
+    a mo:Category ;
+    rdfs:label "地域情報：大陸部東南アジア"@ja ;
+    rdfs:comment "大陸部東南アジアについてのカテゴリ"@ja .
+
+mc:Region.As.SE.S
+    a mo:Category ;
+    rdfs:label "地域情報：海洋部東南アジア"@ja ;
+    rdfs:comment "海洋部東南アジアについてのカテゴリ"@ja .
 
 mc:Region.As.S
     a mo:Category ;

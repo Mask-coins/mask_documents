@@ -137,6 +137,14 @@ mr:Zentralschweiz
     mo:Category mc:Region.Eu;
     rdfs:comment "オプヴァルデン準州、ニトヴァルデン準州、ウーリ州、シュヴィーツ州、ツーク州から成る地域。"@ja .
 
+mr:CH_KantonObwalden
+    rdfs:label "Kanton Obwalden"@de ;
+    rdfs:label "オプヴァルデン準州"@ja ;
+    a mo:GeoEntity .
+
+
+
+
 # ==============================
 # ■アメリカ
 
