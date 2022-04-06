@@ -49,6 +49,15 @@
     rdfs:label "フランス通信"@ja ;
     a mo:WebSite .
 
+<https://www.mofa.go.jp/>
+    rdfs:label "外務省"@ja ;
+    a mo:WebSite .
+
+<https://www.jiji.com/>
+    rdfs:label "時事通信"@ja ;
+    a mo:WebSite .
+
+
 
 
 
