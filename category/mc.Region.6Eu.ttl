@@ -1,0 +1,21 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+
+
+mc:Region.Eu
+    a mo:Category ;
+    rdfs:label "地域情報：ヨーロッパ"@ja ;
+    mo:SubCategory mc:Region.Eu.N ;
+    rdfs:comment "ヨーロッパについてのカテゴリ"@ja .
+mc:Region.Eu.N mo:CategoryNumber 1 .
+
+mc:Region.Eu.N
+    a mo:Category ;
+    rdfs:label "地域情報：北ヨーロッパ"@ja ;
+    rdfs:comment "北ヨーロッパについてのカテゴリ"@ja .
+
+
+

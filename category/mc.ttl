@@ -67,58 +67,6 @@ mc:Region.Ca.S
     rdfs:label "地域情報：カフカス地方南部"@ja ;
     rdfs:comment "カフカス地方南部についてのカテゴリ"@ja .
 
-mc:Region.Af
-    a mo:Category ;
-    rdfs:label "地域情報：アフリカ"@ja ;
-    mo:SubCategory mc:Region.Af.N ;
-    mo:SubCategory mc:Region.Af.W ;
-    mo:SubCategory mc:Region.Af.C ;
-    mo:SubCategory mc:Region.Af.E ;
-    mo:SubCategory mc:Region.Af.S ;
-    rdfs:comment "アフリカについてのカテゴリ"@ja .
-mc:Region.Af.N mo:CategoryNumber 1 .
-mc:Region.Af.W mo:CategoryNumber 2 .
-mc:Region.Af.C mo:CategoryNumber 3 .
-mc:Region.Af.E mo:CategoryNumber 5 .
-mc:Region.Af.S mo:CategoryNumber 8 .
-
-mc:Region.Af.N
-    a mo:Category ;
-    rdfs:label "地域情報：北アフリカ"@ja ;
-    rdfs:comment "北アフリカについてのカテゴリ"@ja .
-
-mc:Region.Af.W
-    a mo:Category ;
-    rdfs:label "地域情報：西アフリカ"@ja ;
-    rdfs:comment "西アフリカについてのカテゴリ"@ja .
-
-mc:Region.Af.C
-    a mo:Category ;
-    rdfs:label "地域情報：広域中央アフリカ"@ja ;
-    rdfs:comment "広域中央アフリカについてのカテゴリ"@ja .
-
-mc:Region.Af.E
-    a mo:Category ;
-    rdfs:label "地域情報：広域東アフリカ"@ja ;
-    rdfs:comment "広域東アフリカについてのカテゴリ"@ja .
-
-mc:Region.Af.S
-    a mo:Category ;
-    rdfs:label "地域情報：広域南アフリカ"@ja ;
-    rdfs:comment "広域南アフリカについてのカテゴリ"@ja .
-
-mc:Region.Eu
-    a mo:Category ;
-    rdfs:label "地域情報：ヨーロッパ"@ja ;
-    mo:SubCategory mc:Region.Eu.N ;
-    rdfs:comment "ヨーロッパについてのカテゴリ"@ja .
-mc:Region.Eu.N mo:CategoryNumber 1 .
-
-mc:Region.Eu.N
-    a mo:Category ;
-    rdfs:label "地域情報：北ヨーロッパ"@ja ;
-    rdfs:comment "北ヨーロッパについてのカテゴリ"@ja .
-
 
 
 mc:Region.Antarctica
