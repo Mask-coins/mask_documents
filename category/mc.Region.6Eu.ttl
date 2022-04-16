@@ -11,11 +11,61 @@ mc:Region.Eu
     mo:SubCategory mc:Region.Eu.N ;
     rdfs:comment "ヨーロッパについてのカテゴリ"@ja .
 mc:Region.Eu.N mo:CategoryNumber 1 .
+mc:Region.Eu.SW mo:CategoryNumber 2 .
+mc:Region.Eu.SC mo:CategoryNumber 3 .
+mc:Region.Eu.W mo:CategoryNumber 4 .
+mc:Region.Eu.C mo:CategoryNumber 5 .
+mc:Region.Eu.SE mo:CategoryNumber 6 .
+mc:Region.Eu.W mo:CategoryNumber 7 .
+mc:Region.Eu.R mo:CategoryNumber 8 .
 
 mc:Region.Eu.N
     a mo:Category ;
     rdfs:label "地域情報：北ヨーロッパ"@ja ;
     rdfs:comment "北ヨーロッパについてのカテゴリ"@ja .
+
+mc:Region.Eu.SW
+    a mo:Category ;
+    rdfs:label "地域情報：南西ヨーロッパ"@ja ;
+    rdfs:comment "南西ヨーロッパについてのカテゴリ。イベリア半島。"@ja .
+
+mc:Region.Eu.SC
+    a mo:Category ;
+    rdfs:label "地域情報：南ヨーロッパ中部"@ja ;
+    rdfs:comment "南ヨーロッパ中部についてのカテゴリ。イタリア等"@ja .
+
+mc:Region.Eu.W
+    a mo:Category ;
+    rdfs:label "地域情報：西ヨーロッパ"@ja ;
+    rdfs:comment "西ヨーロッパについてのカテゴリ。。"@ja .
+
+mc:Region.Eu.C
+    a mo:Category ;
+    rdfs:label "地域情報：中央ヨーロッパ"@ja ;
+    rdfs:comment "中央ヨーロッパについてのカテゴリ。。"@ja .
+
+mc:Region.Eu.SE
+    a mo:Category ;
+    rdfs:label "地域情報：南東ヨーロッパ"@ja ;
+    rdfs:comment "南東ヨーロッパについてのカテゴリ。クロアチア・ルーマニア以南。"@ja .
+
+mc:Region.Eu.E
+    a mo:Category ;
+    rdfs:label "地域情報：東ヨーロッパ"@ja ;
+    rdfs:comment "東ヨーロッパについてのカテゴリ。。"@ja .
+
+mc:Region.Eu.R
+    a mo:Category ;
+    rdfs:label "地域情報：ロシア欧州部"@ja ;
+    rdfs:comment "ロシア欧州部についてのカテゴリ。。"@ja .
+
+
+
+
+
+
+
+
 
 
 
