@@ -154,6 +154,17 @@ mr:America
     rdfs:label "アメリカ大陸"@ja ;
     rdfs:label "米州大陸"@ja ;
     mo:Category mc:Region.Am;
+    mo:SubRegion mr:MiddleAmerica ;
+    rdfs:comment ""@ja .
+
+
+mr:MiddleAmerica
+    a mo:GeoEntity ;
+    rdfs:label "Middle America"@en ;
+    rdfs:label "中部アメリカ"@ja ;
+    rdfs:label "中米"@ja ;
+    mo:Category mc:Region.Am.M;
+    mo:SubRegion mr:Caribbean ;
     rdfs:comment ""@ja .
 
 
@@ -162,6 +173,8 @@ mr:Caribbean
     rdfs:label "Caribbean"@en ;
     rdfs:label "カリブ地域"@ja ;
     mo:Category mc:Region.Am.M.Cr;
+    mo:SubRegion mr:BahamaArchipelago ;
+    mo:SubRegion mr:Antilles ;
     schema:sameAs <https://ja.wikipedia.org/wiki/カリブ海地域> ;
     schema:sameAs <http://ja.dbpedia.org/resource/カリブ海地域> ;
     schema:sameAs <https://en.wikipedia.org/wiki/Caribbean> ;
@@ -177,7 +190,14 @@ mr:BahamaArchipelago
     a mo:GeoEntity ;
     rdfs:label "Bahama Archipelago"@en ;
     rdfs:label "Lucayan Archipelago"@en ;
-    rdfs:label "カリブ地域"@ja ;
+    rdfs:label "バハマ諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    rdfs:comment ""@ja .
+
+mr:Antilles
+    a mo:GeoEntity ;
+    rdfs:label "Antilles"@en ;
+    rdfs:label "アンティル諸島"@ja ;
     mo:Category mc:Region.Am.M.Cr;
     rdfs:comment ""@ja .
 
