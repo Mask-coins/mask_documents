@@ -1,0 +1,124 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:America
+    a mo:GeoEntity ;
+    rdfs:label "America"@en ;
+    rdfs:label "アメリカ大陸"@ja ;
+    rdfs:label "米州大陸"@ja ;
+    mo:Category mc:Region.Am;
+    mo:SubRegion mr:MiddleAmerica ;
+    rdfs:comment ""@ja .
+
+
+mr:MiddleAmerica
+    a mo:GeoEntity ;
+    rdfs:label "Middle America"@en ;
+    rdfs:label "中部アメリカ"@ja ;
+    rdfs:label "中米"@ja ;
+    mo:Category mc:Region.Am.M;
+    mo:SubRegion mr:Caribbean ;
+    rdfs:comment ""@ja .
+
+
+mr:Caribbean
+    a mo:GeoEntity ;
+    rdfs:label "Caribbean"@en ;
+    rdfs:label "カリブ地域"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    mo:SubRegion mr:BahamaArchipelago ;
+    mo:SubRegion mr:Antilles ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/カリブ海地域> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/カリブ海地域> ;
+    schema:sameAs <https://en.wikipedia.org/wiki/Caribbean> ;
+    schema:sameAs <http://dbpedia.org/resource/Caribbean> ;
+    rdfs:comment ""@ja .
+<https://ja.wikipedia.org/wiki/カリブ海地域> a mo:WikipediaPage .
+<http://ja.dbpedia.org/resource/カリブ海地域> a mo:ExternalEntity .
+<https://en.wikipedia.org/wiki/Caribbean> a mo:WikipediaPage .
+<http://dbpedia.org/resource/Caribbean> a mo:ExternalEntity .
+
+
+mr:BahamaArchipelago
+    a mo:GeoEntity ;
+    rdfs:label "Bahama Archipelago"@en ;
+    rdfs:label "Lucayan Archipelago"@en ;
+    rdfs:label "バハマ諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    rdfs:comment ""@ja .
+
+mr:Antilles
+    a mo:GeoEntity ;
+    rdfs:label "Antilles"@en ;
+    rdfs:label "アンティル諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    mo:SubRegion mr:GreaterAntilles ;
+    mo:SubRegion mr:LesserAntilles ;
+    rdfs:comment ""@ja .
+
+mr:GreaterAntilles
+    a mo:GeoEntity ;
+    rdfs:label "Greater Antilles"@en ;
+    rdfs:label "大アンティル諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    rdfs:comment ""@ja .
+
+mr:LesserAntilles
+    a mo:GeoEntity ;
+    rdfs:label "Lesser Antilles"@en ;
+    rdfs:label "Antillas Menores"@es ;
+    rdfs:label "Pequeñas Antillas"@es ;
+    rdfs:label "小アンティル諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    mo:SubRegion mr:EasternCaribbean ;
+    mo:SubRegion mr:LeewardAntilles ;
+    rdfs:comment ""@ja .
+
+mr:EasternCaribbean
+    a mo:GeoEntity ;
+    rdfs:label "Eastern Carib"@en ;
+    rdfs:label "Eastern Caribbean"@en ;
+    rdfs:label "Islas de Barlovento"@es ;
+    rdfs:label "東カリブ地域"@ja ;
+    rdfs:label "ウィンドワード諸島"@ja ;
+    rdfs:label "風上諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    mo:SubRegion mr:EasternCaribbeanLeewardIslands ;
+    mo:SubRegion mr:EasternCaribbeanWindwardIslands ;
+    rdfs:comment "スペイン語等では風下諸島、英語等では北半が風下諸島で南半が風上諸島"@ja .
+
+mr:EasternCaribbeanLeewardIslands
+    a mo:GeoEntity ;
+    rdfs:label "Leeward Islands"@en ;
+    rdfs:label "リーワード諸島"@ja ;
+    rdfs:label "風下諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    rdfs:comment "東カリブ地域の北半"@ja .
+
+mr:EasternCaribbeanWindwardIslands
+    a mo:GeoEntity ;
+    rdfs:label "Windward Islands"@en ;
+    rdfs:label "ウィンドワード諸島"@ja ;
+    rdfs:label "風上諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    rdfs:comment "東カリブ地域の南半"@ja .
+
+mr:LeewardAntilles
+    a mo:GeoEntity ;
+    rdfs:label "Leeward Antilles"@en ;
+    rdfs:label "リーワード諸島"@ja ;
+    rdfs:label "風下諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    rdfs:comment "小アンティル諸島の西南部"@ja .
+
+
+
+
+
+
