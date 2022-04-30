@@ -23,6 +23,18 @@ mc:Region.Am.M
     rdfs:label "area study：Middle America"@en ;
     rdfs:comment "中部アメリカについてのカテゴリ"@ja .
 
+mc:Region.Am.M.CA
+    a mo:Category ;
+    rdfs:label "地域情報：中央アメリカ"@ja ;
+    rdfs:label "area study：Central America"@en ;
+    rdfs:comment "狭義の中央アメリカについてのカテゴリ"@ja .
+
+mc:Region.Am.M.Cr
+    a mo:Category ;
+    rdfs:label "地域情報：カリブ地域"@ja ;
+    rdfs:label "area study：Caribbean"@en ;
+    rdfs:comment "カリブ地域についてのカテゴリ"@ja .
+
 mc:Region.Am.S
     a mo:Category ;
     rdfs:label "地域情報：南アメリカ"@ja ;
