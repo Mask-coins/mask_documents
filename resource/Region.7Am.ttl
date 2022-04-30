@@ -67,6 +67,46 @@ mr:GreaterAntilles
     rdfs:label "Greater Antilles"@en ;
     rdfs:label "大アンティル諸島"@ja ;
     mo:Category mc:Region.Am.M.Cr;
+    mo:SubRegion mr:CaymanIslands ;
+    rdfs:comment ""@ja .
+
+mr:CaymanIslands
+    a mo:GeoEntity ;
+    rdfs:label "Cayman Islands"@en ;
+    rdfs:label "ケイマン諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    mo:SubRegion mr:GrandCayman ;
+    mo:SubRegion mr:CaymanSisterIslands ;
+    rdfs:comment ""@ja .
+
+mr:GrandCayman
+    a mo:GeoEntity ;
+    rdfs:label "Grand Cayman"@en ;
+    rdfs:label "大ケイマン島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    rdfs:comment ""@ja .
+
+mr:CaymanSisterIslands
+    a mo:GeoEntity ;
+    rdfs:label "Sister Islands"@en ;
+    rdfs:label "姉妹諸島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    mo:SubRegion mr:LittleCayman ;
+    mo:SubRegion mr:CaymanBrac ;
+    rdfs:comment ""@ja .
+
+mr:LittleCayman
+    a mo:GeoEntity ;
+    rdfs:label "Little Cayman"@en ;
+    rdfs:label "小ケイマン島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
+    rdfs:comment ""@ja .
+
+mr:CaymanBrac
+    a mo:GeoEntity ;
+    rdfs:label "Cayman Brac"@en ;
+    rdfs:label "ケイマンブラック島"@ja ;
+    mo:Category mc:Region.Am.M.Cr;
     rdfs:comment ""@ja .
 
 mr:LesserAntilles
