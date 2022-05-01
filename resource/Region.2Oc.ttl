@@ -23,7 +23,39 @@ mr:Melanesia
     rdfs:label "Melanesia"@en ;
     rdfs:label "メラネシア"@ja ;
     mo:Category mc:Region.Oc;
+    mo:SubRegion mr:NewGuinea ;
+    mo:SubRegion mr:BismarckArchipelago ;
     rdfs:comment ""@ja .
+
+mr:NewGuinea
+    a mo:GeoEntity ;
+    rdfs:label "New Guinea"@en ;
+    rdfs:label "ニューギニア島"@ja ;
+    rdfs:label "Papua"@en ;
+    rdfs:label "パプア島"@ja ;
+    rdfs:label "Irian"@en ;
+    rdfs:label "イリアン島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment ""@ja .
+
+mr:BismarckArchipelago
+    a mo:GeoEntity ;
+    rdfs:label "Bismarck Archipelago"@en ;
+    rdfs:label "ビスマルク諸島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment ""@ja .
+
+mr:SolomonArchipelago
+    a mo:GeoEntity ;
+    rdfs:label "Solomon Archipelago"@en ;
+    rdfs:label "Solomon Islands"@en ;
+    rdfs:label "ソロモン諸島"@ja ;
+    mo:Category mc:Region.Oc;
+    schema:sameAs <https://en.wikipedia.org/wiki/Solomon_Islands_(archipelago)> ;
+    schema:sameAs <http://dbpedia.org/resource/Solomon_Islands_(archipelago)> ;
+    rdfs:comment ""@ja .
+<https://en.wikipedia.org/wiki/Solomon_Islands_(archipelago)> a mo:WikipediaPage .
+<http://dbpedia.org/resource/Solomon_Islands_(archipelago)> a mo:ExternalEntity .
 
 mr:Micronesia
     a mo:GeoEntity ;
