@@ -25,6 +25,7 @@ mr:Melanesia
     mo:Category mc:Region.Oc;
     mo:SubRegion mr:NewGuinea ;
     mo:SubRegion mr:BismarckArchipelago ;
+    mo:SubRegion mr:SolomonArchipelago ;
     rdfs:comment ""@ja .
 
 mr:NewGuinea
