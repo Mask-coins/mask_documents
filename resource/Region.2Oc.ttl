@@ -1,0 +1,106 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+
+mr:Oceania
+    a mo:GeoEntity ;
+    rdfs:label "Oceania"@en ;
+    rdfs:label "オセアニア"@ja ;
+    mo:Category mc:Region.Oc;
+    mo:SubRegion mr:Melanesia ;
+    mo:SubRegion mr:Micronesia ;
+    mo:SubRegion mr:Polynesia ;
+    rdfs:comment ""@ja .
+
+mr:Melanesia
+    a mo:GeoEntity ;
+    rdfs:label "Melanesia"@en ;
+    rdfs:label "メラネシア"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment ""@ja .
+
+mr:Micronesia
+    a mo:GeoEntity ;
+    rdfs:label "Micronesia"@en ;
+    rdfs:label "ミクロネシア"@ja ;
+    mo:Category mc:Region.Oc;
+    mo:SubRegion mr:MarianaIslands ;
+    mo:SubRegion mr:CarolineIslands ;
+    mo:SubRegion mr:WakeIsland ;
+    mo:SubRegion mr:MarshallIslands ;
+    mo:SubRegion mr:NauruIsland ;
+    mo:SubRegion mr:BanabaIsland ;
+    mo:SubRegion mr:GilbertIslands ;
+    rdfs:comment ""@ja .
+
+mr:MarianaIslands
+    a mo:GeoEntity ;
+    rdfs:label "Mariana Islands"@en ;
+    rdfs:label "マリアナ諸島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment "ミクロネシア西部"@ja .
+
+mr:CarolineIslands
+    a mo:GeoEntity ;
+    rdfs:label "Caroline Islands"@en ;
+    rdfs:label "カロリン諸島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment "ミクロネシア中部"@ja .
+
+mr:WakeIsland
+    a mo:GeoEntity ;
+    rdfs:label "Wake Island"@en ;
+    rdfs:label "ウェーク島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment ""@ja .
+
+mr:MarshallIslands
+    a mo:GeoEntity ;
+    rdfs:label "Marshall Islands"@en ;
+    rdfs:label "マーシャル諸島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment ""@ja .
+
+mr:NauruIsland
+    a mo:GeoEntity ;
+    rdfs:label "Nauru Island"@en ;
+    rdfs:label "ナウル島"@ja ;
+    rdfs:label "Pleasant Island"@en ;
+    rdfs:label "プレザント島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment "ナウル共和国"@ja .
+
+mr:BanabaIsland
+    a mo:GeoEntity ;
+    rdfs:label "Banaba Island"@en ;
+    rdfs:label "バナバ島"@ja ;
+    rdfs:label "Ocean Island"@en ;
+    rdfs:label "オーシャン島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment "キリバス西方の島"@ja .
+
+mr:GilbertIslands
+    a mo:GeoEntity ;
+    rdfs:label "Gilbert Islands"@en ;
+    rdfs:label "ギルバート諸島"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment "キリバスの中心部"@ja .
+
+mr:Polynesia
+    a mo:GeoEntity ;
+    rdfs:label "Polynesia"@en ;
+    rdfs:label "ポリネシア"@ja ;
+    mo:Category mc:Region.Oc;
+    rdfs:comment ""@ja .
+
+
+
+
+
+
