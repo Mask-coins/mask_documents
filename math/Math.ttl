@@ -1,0 +1,228 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix math_p:   <https://github.com/Mask-coins/mask_documents/math/predicate/> .
+@prefix math_c:   <https://github.com/Mask-coins/mask_documents/math/class/> .
+@prefix math_r:   <https://github.com/Mask-coins/mask_documents/math/resource/> .
+
+math_p:Extends
+    rdfs:label "拡張"@ja;
+    rdfs:comment "数学的な意味での拡張関係を表す。主語が具体・目的語が抽象側。"@ja ;
+    a rdf:Property  .
+
+math_c:Entity
+    rdfs:comment "数学的なエンティティ"@ja ;
+    a rdfs:Class.
+
+math_p:ContainDef
+    rdfs:comment "主語が目的語を定義の一部として持つこと"@ja ;
+    a rdfs:Class.
+
+math_r:Set
+    rdfs:label "set"@en;
+    rdfs:label "集合"@ja ;
+    rdfs:comment "数学的な意味での集合"@ja ;
+    a math_c:Entity.
+
+math_c:AlgebraicStructure
+    rdfs:label "algebraic structure"@en;
+    rdfs:label "代数的構造"@ja ;
+    rdfs:comment "代数的構造のクラス"@ja ;
+    rdfs:subClassOf math_c:Entity ;
+    a rdfs:Class.
+
+# 二項演算およびその法則
+math_r:BinaryOperation
+    rdfs:label "binary operation"@en;
+    rdfs:label "二項演算"@ja ;
+    a math_c:Entity .
+
+math_r:InternalBinaryOperation
+    rdfs:label "closed binary operation"@en;
+    rdfs:label "internal binary operation"@en;
+    rdfs:label "内部二項演算"@ja;
+    math_p:Extends math_r:BinaryOperation;
+    a math_c:Entity .
+
+math_r:ExternallBinaryOperation
+    rdfs:label "external binary operation"@en;
+    rdfs:label "外部二項演算"@ja;
+    math_p:Extends math_r:BinaryOperation ;
+    a math_c:Entity.
+
+math_c:BinaryOperationProperty
+    rdfs:label "property"@en;
+    rdfs:comment "二項演算の持つ性質を表すクラス"@ja ;
+    a rdfs:Class.
+
+math_r:AssociativeProperty
+    rdfs:label "associative property"@en;
+    rdfs:label "結合性"@ja;
+    a math_c:BinaryOperationProperty .
+
+math_r:ExistenceOfIdentityElement
+    rdfs:label "existence of identity element"@en;
+    rdfs:label "単位元が存在"@ja;
+    a math_c:BinaryOperationProperty .
+
+math_r:ExistenceOfInverseElement
+    rdfs:label "existence of inverse element"@en;
+    rdfs:label "逆元が存在"@ja;
+    a math_c:BinaryOperationProperty .
+
+math_r:CommutativeProperty
+    rdfs:label "commutative property"@en;
+    rdfs:label "可換性"@ja;
+    a math_c:BinaryOperationProperty .
+
+
+# 群とその類似のもの
+math_c:GroupLikeAlgebraicStructure
+    rdfs:label "magma"@en;
+    rdfs:label "マグマ"@ja ;
+    rdfs:subClassOf math_c:AlgebraicStructure;
+    a rdfs:Class.
+
+math_r:AlgebraicStructureMagma
+    rdfs:label "magma"@en;
+    rdfs:label "マグマ"@ja;
+    rdfs:label "groupoid"@en;
+    rdfs:label "亜群"@ja;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureUnitalMagma
+    rdfs:label "unital magma"@en;
+    rdfs:label "単位的マグマ"@ja;
+    math_p:Extends math_r:AlgebraicStructureMagma ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureQuasiGroup
+    rdfs:label "quasi-group"@en;
+    rdfs:label "準群"@ja;
+    rdfs:label "quasigroup"@en;
+    math_p:Extends math_r:AlgebraicStructureMagma ;
+    math_p:ContainDef math_r:ExistenceOfInverseElement ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureLoop
+    rdfs:label "loop"@en;
+    rdfs:label "擬群"@ja;
+    rdfs:label "単位的準群"@ja;
+    math_p:Extends math_r:AlgebraicStructureQuasiGroup ;
+    math_p:Extends math_r:AlgebraicStructureUnitalMagma ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    math_p:ContainDef math_r:ExistenceOfInverseElement ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureSemiGroup
+    rdfs:label "semigroup"@en;
+    rdfs:label "semi-group"@en;
+    rdfs:label "半群"@ja;
+    math_p:Extends math_r:AlgebraicStructureMagma ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureInverseSemigroup
+    rdfs:label "inverse semigroup"@en;
+    math_p:Extends math_r:AlgebraicStructureSemiGroup ;
+    math_p:Extends math_r:AlgebraicStructureQuasiGroup ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureMonoid
+    rdfs:label "monoid"@en;
+    rdfs:label "モノイド"@ja;
+    rdfs:label "単系"@ja;
+    rdfs:label "単位的半群"@ja;
+    math_p:Extends math_r:AlgebraicStructureSemiGroup ;
+    math_p:Extends math_r:AlgebraicStructureUnitalMagma ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureCommutativeMonoid
+    rdfs:label "monoid"@en;
+    rdfs:label "可換モノイド"@ja;
+    rdfs:label "可換な単位的半群"@ja;
+    math_p:Extends math_r:AlgebraicStructureMonoid ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    math_p:ContainDef math_r:CommutativeProperty ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureGroup
+    rdfs:label "group"@en;
+    rdfs:label "群"@ja;
+    math_p:Extends math_r:AlgebraicStructureMonoid ;
+    math_p:Extends math_r:AlgebraicStructureInverseSemigroup ;
+    math_p:Extends math_r:AlgebraicStructureLoop ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    math_p:ContainDef math_r:ExistenceOfInverseElement ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureAbelianGroup
+    rdfs:label "abelian group"@en;
+    rdfs:label "アーベル群"@ja;
+    rdfs:label "commutative group"@en;
+    rdfs:label "可換群"@ja;
+    math_p:Extends math_r:AlgebraicStructureGroup ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    math_p:ContainDef math_r:ExistenceOfInverseElement ;
+    math_p:ContainDef math_r:CommutativeProperty  ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+
+# 環と類似の構造
+math_c:RingLikeAlgebraicStructure
+    rdfs:label "ring"@en;
+    rdfs:label "環"@ja ;
+    rdfs:subClassOf math_c:AlgebraicStructure;
+    a rdfs:Class.
+
+math_p:RingAdd
+    rdfs:label "環の加算"@ja ;
+    rdfs:subClassOf math_c:Entity;
+    a rdf:Property .
+
+math_p:RingMul
+    rdfs:label "環の乗算"@ja ;
+    rdfs:subClassOf math_c:Entity;
+    a rdf:Property .
+
+math_r:DistributiveProperty
+    rdfs:label "distributive property"@en;
+    rdfs:label "分配法則"@ja;
+    rdfs:label "分配律"@ja;
+    a math_c:BinaryOperationProperty .
+
+math_r:Ring
+    rdfs:label "ring"@en;
+    rdfs:label "環"@ja ;
+    math_p:RingAdd math_r:AlgebraicStructureAbelianGroup ;
+    math_p:RingMul math_r:AlgebraicStructureSemiGroup ;
+    math_p:ContainDef math_r:DistributiveProperty ;
+    a math_c:RingLikeAlgebraicStructure .
+
+math_r:CommutativeRing
+    rdfs:label "commutative ring"@en;
+    rdfs:label "可換環"@ja ;
+    math_p:Extends math_r:Ring ;
+    math_p:RingAdd math_r:AlgebraicStructureAbelianGroup ;
+    math_p:RingMul math_r:AlgebraicStructureSemiGroup ;
+    math_p:ContainDef math_r:AlgebraicStructureCommutativeMonoid ;
+    a math_c:RingLikeAlgebraicStructure .
+
+
+
+
+
+
+
+
