@@ -126,6 +126,14 @@ math_r:AlgebraicStructureSemiGroup
     math_p:ContainDef math_r:AssociativeProperty ;
     a math_c:GroupLikeAlgebraicStructure .
 
+math_r:AlgebraicStructureCommutativeSemiGroup
+    rdfs:label "可換半群"@ja;
+    rdfs:label "可換な半群"@ja;
+    math_p:Extends math_r:AlgebraicStructureSemiGroup ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    math_p:ContainDef math_r:CommutativeProperty ;
+    a math_c:GroupLikeAlgebraicStructure .
+
 math_r:AlgebraicStructureInverseSemigroup
     rdfs:label "inverse semigroup"@en;
     math_p:Extends math_r:AlgebraicStructureSemiGroup ;
@@ -210,13 +218,69 @@ math_r:Ring
     math_p:ContainDef math_r:DistributiveProperty ;
     a math_c:RingLikeAlgebraicStructure .
 
+math_r:UnitalRing
+    rdfs:label "環"@ja ;
+    rdfs:label "ring"@en;
+    rdfs:label "単位的環"@ja ;
+    rdfs:label "unital ring"@en;
+    rdfs:label "unitary ring"@en;
+    rdfs:label "単位環"@ja ;
+    rdfs:label "unit ring"@en;
+    rdfs:label "単位元を持つ環"@ja ;
+    rdfs:label "ring with unit"@en;
+    rdfs:label "ring with unity"@en;
+    rdfs:label "ring with identity"@en;
+    math_p:Extends math_r:Ring ;
+    math_p:RingAdd math_r:AlgebraicStructureAbelianGroup ;
+    math_p:RingMul math_r:AlgebraicStructureMonoid ;
+    math_p:ContainDef math_r:DistributiveProperty ;
+    a math_c:RingLikeAlgebraicStructure .
+
 math_r:CommutativeRing
     rdfs:label "commutative ring"@en;
     rdfs:label "可換環"@ja ;
     math_p:Extends math_r:Ring ;
     math_p:RingAdd math_r:AlgebraicStructureAbelianGroup ;
-    math_p:RingMul math_r:AlgebraicStructureSemiGroup ;
-    math_p:ContainDef math_r:AlgebraicStructureCommutativeMonoid ;
+    math_p:RingMul math_r:AlgebraicStructureCommutativeSemiGroup ;
+    math_p:ContainDef math_r:DistributiveProperty ;
+    a math_c:RingLikeAlgebraicStructure .
+
+math_r:CommutativeUnitalRing
+    rdfs:label "commutative ring"@en;
+    rdfs:label "可換環"@ja ;
+    rdfs:label "単位的な可換環"@ja ;
+    math_p:Extends math_r:Ring ;
+    math_p:Extends math_r:UnitalRing ;
+    math_p:Extends math_r:CommutativeRing ;
+    math_p:RingAdd math_r:AlgebraicStructureAbelianGroup ;
+    math_p:RingMul math_r:AlgebraicStructureCommutativeMonoid ;
+    math_p:ContainDef math_r:DistributiveProperty ;
+    rdfs:comment "整数でやるような四則計算が可能である"@ja ;
+    a math_c:RingLikeAlgebraicStructure .
+
+# 体と類似の構造
+math_r:ExistenceOfInverseElementExcept0
+    rdfs:label "単位元以外に逆元が存在"@ja;
+    a math_c:BinaryOperationProperty .
+
+math_r:AlgebraicStructureAbelianGroupExcept0
+    rdfs:label "単位元以外の元の集合に対してアーベル群（全体では可換モノイド）"@ja;
+    math_p:Extends math_r:AlgebraicStructureCommutativeMonoid ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    math_p:ContainDef math_r:ExistenceOfInverseElementExcept0 ;
+    math_p:ContainDef math_r:CommutativeProperty  ;
+    a math_c:GroupLikeAlgebraicStructure .
+
+math_r:CommutativeField
+    rdfs:label "commutative field"@en;
+    rdfs:label "field"@en;
+    rdfs:label "可換体"@ja ;
+    rdfs:label "体"@ja ;
+    math_p:Extends math_r:Ring ;
+    math_p:RingAdd math_r:AlgebraicStructureAbelianGroup ;
+    math_p:RingMul math_r:AlgebraicStructureAbelianGroupExcept0 ;
+    math_p:ContainDef math_r:DistributiveProperty ;
     a math_c:RingLikeAlgebraicStructure .
 
 
