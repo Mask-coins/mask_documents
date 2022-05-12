@@ -258,6 +258,60 @@ math_r:CommutativeUnitalRing
     rdfs:comment "整数でやるような四則計算が可能である"@ja ;
     a math_c:RingLikeAlgebraicStructure .
 
+
+# 整域と類似の構造
+math_r:IntegralDomain
+    rdfs:label "integral domain"@en;
+    rdfs:label "整域"@ja ;
+    rdfs:label "entire ring"@en;
+    rdfs:label "整環"@ja ;
+    math_p:Extends math_r:CommutativeUnitalRing ;
+    rdfs:comment "単位的な可換環のうち，零因子をもたないもの．すなわち，非零×非零が必ず非零となる単位的な可換環．"@ja ;
+    a math_c:RingLikeAlgebraicStructure .
+
+math_r:IntegrallyClosedDomain
+    rdfs:label "Integrally closed domain"@en;
+    rdfs:label "整閉整域"@ja ;
+    math_p:Extends math_r:IntegralDomain ;
+    a math_c:RingLikeAlgebraicStructure .
+
+math_r:UniqueFactorizationDomain
+    rdfs:label "unique factorization domain"@en;
+    rdfs:label "UFD"@en;
+    rdfs:label "一意分解環"@ja ;
+    rdfs:label "一意分解整域"@ja ;
+    rdfs:label "素元分解環"@ja ;
+    rdfs:label "anneau factriel"@fr;
+    rdfs:label "分解環"@ja ;
+    math_p:Extends math_r:IntegrallyClosedDomain ;
+    rdfs:comment "これがあると一意に素因数分解ができる"@ja ;
+    a math_c:RingLikeAlgebraicStructure .
+
+math_r:PrincipalIdealDomain
+    rdfs:label "principal ideal domain"@en;
+    rdfs:label "PID"@en;
+    rdfs:label "単項イデアル整域"@ja ;
+    rdfs:label "主イデアル整域"@ja ;
+    rdfs:label "anneau principal"@en;
+    rdfs:label "主環"@ja ;
+    math_p:Extends math_r:IntegrallyClosedDomain ;
+    rdfs:comment "最大公約数に関連"@ja ;
+    a math_c:RingLikeAlgebraicStructure .
+
+math_r:EuclideanDomain
+    rdfs:label "Euclidean domain"@en;
+    rdfs:label "ユークリッド整域"@ja ;
+    rdfs:label "Euclidean ring"@en;
+    rdfs:label "ユークリッド環"@ja ;
+    math_p:Extends math_r:PrincipalIdealDomain ;
+    rdfs:comment "ユークリッド互除法に関連"@ja ;
+    a math_c:RingLikeAlgebraicStructure .
+
+# これから収録する？
+# デデキント整域
+# アルティン環
+# ネーター環
+
 # 体と類似の構造
 math_r:ExistenceOfInverseElementExcept0
     rdfs:label "単位元以外に逆元が存在"@ja;
@@ -278,6 +332,7 @@ math_r:CommutativeField
     rdfs:label "可換体"@ja ;
     rdfs:label "体"@ja ;
     math_p:Extends math_r:Ring ;
+    math_p:Extends math_r:EuclideanDomain ;
     math_p:RingAdd math_r:AlgebraicStructureAbelianGroup ;
     math_p:RingMul math_r:AlgebraicStructureAbelianGroupExcept0 ;
     math_p:ContainDef math_r:DistributiveProperty ;
