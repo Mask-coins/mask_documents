@@ -317,6 +317,14 @@ math_r:ExistenceOfInverseElementExcept0
     rdfs:label "単位元以外に逆元が存在"@ja;
     a math_c:BinaryOperationProperty .
 
+math_r:AlgebraicStructureGroupExcept0
+    rdfs:label "単位元以外の元の集合に対して群（全体ではモノイド）"@ja;
+    math_p:Extends math_r:AlgebraicStructureMonoid ;
+    math_p:ContainDef math_r:AssociativeProperty ;
+    math_p:ContainDef math_r:ExistenceOfIdentityElement ;
+    math_p:ContainDef math_r:ExistenceOfInverseElementExcept0 ;
+    a math_c:GroupLikeAlgebraicStructure .
+
 math_r:AlgebraicStructureAbelianGroupExcept0
     rdfs:label "単位元以外の元の集合に対してアーベル群（全体では可換モノイド）"@ja;
     math_p:Extends math_r:AlgebraicStructureCommutativeMonoid ;
@@ -325,6 +333,16 @@ math_r:AlgebraicStructureAbelianGroupExcept0
     math_p:ContainDef math_r:ExistenceOfInverseElementExcept0 ;
     math_p:ContainDef math_r:CommutativeProperty  ;
     a math_c:GroupLikeAlgebraicStructure .
+
+math_r:AlgebraicStructureField
+    rdfs:label "field"@en;
+    rdfs:label "体"@ja ;
+    math_p:Extends math_r:Ring ;
+    math_p:Extends math_r:EuclideanDomain ;
+    math_p:RingAdd math_r:AlgebraicStructureGroup ;
+    math_p:RingMul math_r:AlgebraicStructureGroupExcept0 ;
+    math_p:ContainDef math_r:DistributiveProperty ;
+    a math_c:RingLikeAlgebraicStructure .
 
 math_r:CommutativeField
     rdfs:label "commutative field"@en;
