@@ -16,4 +16,12 @@ $$
 \mathbb{R}
 $$
 
+$$
+y = \cases{begin}
+x\\
+2x
+\cases{end}
+$$
+
+
 
