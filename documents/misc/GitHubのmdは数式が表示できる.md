@@ -17,10 +17,10 @@ $$
 $$
 
 $$
-y = \cases{begin}
-x\\
-2x
-\cases{end}
+y = \begin{cases}
+x & (t=0)\\
+2x & otherwise
+\end{cases}
 $$
 
 
