@@ -97,7 +97,7 @@ mr:福井県嶺北
     rdfs:label "嶺北地方"@ja ;
     rdfs:label "嶺北地域"@ja ;
     mo:Category mc:Region.J.4.N ;
-    rdfs:comment ""@ja .
+    rdfs:comment "福井県の木ノ芽峠より東北の地域"@ja .
 
 mr:奥越地方
     a mo:GeoEntity ;
