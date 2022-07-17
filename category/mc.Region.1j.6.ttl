@@ -19,7 +19,7 @@ mc:Region.J.6.N
     mo:SubCategory mc:Region.J.6.N.伯耆 ;
     mo:SubCategory mc:Region.J.6.N.伯耆.E ;
     mo:SubCategory mc:Region.J.6.N.伯耆.W ;
-    mo:SubCategory mc:AdminR.JP.島根県 ;
+    mo:SubCategory mc:AdminR.JP.鳥取県  ;
     mo:SubCategory mc:Region.J.6.N.隠岐 ;
     mo:SubCategory mc:Region.J.6.N.出雲 ;
     mo:SubCategory mc:Region.J.6.N.石見 ;
