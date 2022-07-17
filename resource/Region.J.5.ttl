@@ -1,0 +1,49 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xs:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix schema:<https://schema.org/> .
+@prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
+@prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
+@prefix mr:   <https://github.com/Mask-coins/mask_documents/resource/> .
+
+
+mr:関西地方
+    a mo:GeoEntity ;
+    rdfs:label "関西"@ja ;
+    rdfs:label "関西地方"@ja ;
+    rdfs:label "近畿"@ja ;
+    rdfs:label "近畿地方"@ja ;
+    mo:Category mc:Region.J.5;
+    rdfs:comment ""@ja .
+
+mr:福井県嶺南
+    a mo:GeoEntity ;
+    rdfs:label "嶺南"@ja ;
+    rdfs:label "嶺南地方"@ja ;
+    rdfs:label "福井県嶺南"@ja ;
+    rdfs:label "福井県嶺南地方"@ja ;
+    mo:Category mc:Region.J.5.N.嶺南;
+    mo:SubRegion mr:JP_福井県敦賀市 ;
+    mo:SubRegion mr:JP_福井県三方郡美浜町 ;
+    mo:SubRegion mr:JP_福井県三方上中郡若狭町 ;
+    mo:SubRegion mr:JP_福井県小浜市 ;
+    mo:SubRegion mr:JP_福井県大飯郡おおい町 ;
+    mo:SubRegion mr:JP_福井県大飯郡高浜町 ;
+    schema:sameAs <https://ja.wikipedia.org/wiki/嶺南> ;
+    schema:sameAs <http://ja.dbpedia.org/resource/嶺南>;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?福井県嶺南>;
+    rdfs:comment ""@ja .
+<https://ja.wikipedia.org/wiki/嶺南> a mo:WikipediaPage .
+<http://ja.dbpedia.org/resource/嶺南> a mo:ExternalEntity .
+<https://worldinfo.wicurio.com/index.php?福井県嶺南> a mo:WebSite .
+
+
+
+
+
+
+
+
+
+
+
