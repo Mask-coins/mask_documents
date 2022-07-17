@@ -83,6 +83,7 @@ mr:五箇山
     a mo:GeoEntity ;
     rdfs:label "五箇山"@ja ;
     mo:Category mc:Region.J.4.N ;
+    schema:sameAs <https://worldinfo.wicurio.com/index.php?五箇山>;
     rdfs:comment "富山県南西部の山岳地帯"@ja .
 <https://worldinfo.wicurio.com/index.php?五箇山> a mo:WebSite .
 
