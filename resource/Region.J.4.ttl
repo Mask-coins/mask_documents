@@ -59,6 +59,30 @@ mr:北陸地方_4県
     mo:SubRegion mr:JP_福井県 ;
     rdfs:comment "広義の北陸地方は4県"@ja .
 
+mr:JP_富山県
+    mo:SubRegion mr:呉東地方 ;
+    mo:SubRegion mr:呉西地方 ;
+    mo:SubRegion mr:五箇山 ;
+    mo:Category mc:Region.J.4.N .
+
+mr:呉東地方
+    a mo:GeoEntity ;
+    rdfs:label "呉東地方"@ja ;
+    mo:Category mc:Region.J.4.N ;
+    rdfs:comment "呉羽丘陵より東側の地域"@ja .
+
+mr:呉西地方
+    a mo:GeoEntity ;
+    rdfs:label "呉西地方"@ja ;
+    mo:Category mc:Region.J.4.N ;
+    rdfs:comment "呉羽丘陵より西側の地域"@ja .
+
+mr:五箇山
+    a mo:GeoEntity ;
+    rdfs:label "五箇山"@ja ;
+    mo:Category mc:Region.J.4.N ;
+    rdfs:comment "富山県南西部の山岳地帯"@ja .
+
 mr:JP_福井県
     mo:SubRegion mr:福井県嶺北 ;
     mo:SubRegion mr:福井県嶺南 ;
