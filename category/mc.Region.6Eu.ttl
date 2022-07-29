@@ -5,56 +5,56 @@
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 
 
-mc:Region.Eu
+mc:Region_Eu
     a mo:Category ;
     rdfs:label "地域情報：ヨーロッパ"@ja ;
-    mo:SubCategory mc:Region.Eu.N ;
+    mo:SubCategory mc:Region_Eu.N ;
     rdfs:comment "ヨーロッパについてのカテゴリ"@ja .
-mc:Region.Eu.N mo:CategoryNumber 1 .
-mc:Region.Eu.SW mo:CategoryNumber 2 .
-mc:Region.Eu.SC mo:CategoryNumber 3 .
-mc:Region.Eu.W mo:CategoryNumber 4 .
-mc:Region.Eu.C mo:CategoryNumber 5 .
-mc:Region.Eu.SE mo:CategoryNumber 6 .
-mc:Region.Eu.W mo:CategoryNumber 7 .
-mc:Region.Eu.R mo:CategoryNumber 8 .
+mc:Region_Eu.N mo:CategoryNumber 1 .
+mc:Region_Eu.SW mo:CategoryNumber 2 .
+mc:Region_Eu.SC mo:CategoryNumber 3 .
+mc:Region_Eu.W mo:CategoryNumber 4 .
+mc:Region_Eu.C mo:CategoryNumber 5 .
+mc:Region_Eu.SE mo:CategoryNumber 6 .
+mc:Region_Eu.W mo:CategoryNumber 7 .
+mc:Region_Eu.R mo:CategoryNumber 8 .
 
-mc:Region.Eu.N
+mc:Region_Eu.N
     a mo:Category ;
     rdfs:label "地域情報：北ヨーロッパ"@ja ;
     rdfs:comment "北ヨーロッパについてのカテゴリ"@ja .
 
-mc:Region.Eu.SW
+mc:Region_Eu.SW
     a mo:Category ;
     rdfs:label "地域情報：南西ヨーロッパ"@ja ;
     rdfs:comment "南西ヨーロッパについてのカテゴリ。イベリア半島。"@ja .
 
-mc:Region.Eu.SC
+mc:Region_Eu.SC
     a mo:Category ;
     rdfs:label "地域情報：南ヨーロッパ中部"@ja ;
     rdfs:comment "南ヨーロッパ中部についてのカテゴリ。イタリア等"@ja .
 
-mc:Region.Eu.W
+mc:Region_Eu.W
     a mo:Category ;
     rdfs:label "地域情報：西ヨーロッパ"@ja ;
     rdfs:comment "西ヨーロッパについてのカテゴリ。。"@ja .
 
-mc:Region.Eu.C
+mc:Region_Eu.C
     a mo:Category ;
     rdfs:label "地域情報：中央ヨーロッパ"@ja ;
     rdfs:comment "中央ヨーロッパについてのカテゴリ。。"@ja .
 
-mc:Region.Eu.SE
+mc:Region_Eu.SE
     a mo:Category ;
     rdfs:label "地域情報：南東ヨーロッパ"@ja ;
     rdfs:comment "南東ヨーロッパについてのカテゴリ。クロアチア・ルーマニア以南。"@ja .
 
-mc:Region.Eu.E
+mc:Region_Eu.E
     a mo:Category ;
     rdfs:label "地域情報：東ヨーロッパ"@ja ;
     rdfs:comment "東ヨーロッパについてのカテゴリ。。"@ja .
 
-mc:Region.Eu.R
+mc:Region_Eu.R
     a mo:Category ;
     rdfs:label "地域情報：ロシア欧州部"@ja ;
     rdfs:comment "ロシア欧州部についてのカテゴリ。。"@ja .

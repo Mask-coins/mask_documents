@@ -25,158 +25,158 @@ mc:Info
 mc:Region
     a mo:Category ;
     rdfs:label "地域情報カテゴリ"@ja ;
-    mo:SubCategory mc:Region.J ;
-    mo:SubCategory mc:Region.Oc ;
-    mo:SubCategory mc:Region.As ;
-    mo:SubCategory mc:Region.Ca ;
-    mo:SubCategory mc:Region.Af ;
-    mo:SubCategory mc:Region.Eu ;
-    mo:SubCategory mc:Region.Am ;
-    mo:SubCategory mc:Region.Antarctica ;
-    mo:SubCategory mc:Region.Others ;
+    mo:SubCategory mc:Region_J ;
+    mo:SubCategory mc:Region_Oc ;
+    mo:SubCategory mc:Region_As ;
+    mo:SubCategory mc:Region_Ca ;
+    mo:SubCategory mc:Region_Af ;
+    mo:SubCategory mc:Region_Eu ;
+    mo:SubCategory mc:Region_Am ;
+    mo:SubCategory mc:Region_Antarctica ;
+    mo:SubCategory mc:Region_Others ;
     rdfs:comment "地域に関するカテゴリ"@ja .
-mc:Region.J mo:CategoryNumber 1 .
-mc:Region.Oc mo:CategoryNumber 2 .
-mc:Region.As mo:CategoryNumber 3 .
-mc:Region.Ca mo:CategoryNumber 4 .
-mc:Region.Af mo:CategoryNumber 5 .
-mc:Region.Eu mo:CategoryNumber 6 .
-mc:Region.Am mo:CategoryNumber 7 .
-mc:Region.Antarctica mo:CategoryNumber 8 .
-mc:Region.Others mo:CategoryNumber 9 .
+mc:Region_J mo:CategoryNumber 1 .
+mc:Region_Oc mo:CategoryNumber 2 .
+mc:Region_As mo:CategoryNumber 3 .
+mc:Region_Ca mo:CategoryNumber 4 .
+mc:Region_Af mo:CategoryNumber 5 .
+mc:Region_Eu mo:CategoryNumber 6 .
+mc:Region_Am mo:CategoryNumber 7 .
+mc:Region_Antarctica mo:CategoryNumber 8 .
+mc:Region_Others mo:CategoryNumber 9 .
 
 
 
 
-mc:Region.Ca
+mc:Region_Ca
     a mo:Category ;
     rdfs:label "地域情報：カフカス地方"@ja ;
-    mo:SubCategory mc:Region.Ca.N ;
-    mo:SubCategory mc:Region.Ca.S ;
+    mo:SubCategory mc:Region_Ca.N ;
+    mo:SubCategory mc:Region_Ca.S ;
     rdfs:comment "カフカス地方についてのカテゴリ"@ja .
-mc:Region.Ca.N mo:CategoryNumber 1 .
-mc:Region.Ca.S mo:CategoryNumber 5 .
+mc:Region_Ca.N mo:CategoryNumber 1 .
+mc:Region_Ca.S mo:CategoryNumber 5 .
 
-mc:Region.Ca.N
+mc:Region_Ca.N
     a mo:Category ;
     rdfs:label "地域情報：カフカス地方北部"@ja ;
     rdfs:comment "カフカス地方北部についてのカテゴリ"@ja .
 
-mc:Region.Ca.S
+mc:Region_Ca.S
     a mo:Category ;
     rdfs:label "地域情報：カフカス地方南部"@ja ;
     rdfs:comment "カフカス地方南部についてのカテゴリ"@ja .
 
 
 
-mc:Region.Antarctica
+mc:Region_Antarctica
     a mo:Category ;
     rdfs:label "地域情報：南極大陸"@ja ;
     rdfs:comment "南極大陸についてのカテゴリ"@ja .
 
-mc:Region.Others
+mc:Region_Others
     a mo:Category ;
     rdfs:label "地域情報：その他"@ja ;
     rdfs:comment "その他の地域情報についてのカテゴリ"@ja .
 
-mc:Region.J
+mc:Region_J
     a mo:Category ;
     rdfs:label "地域情報：日本"@ja ;
     mo:CategoryNumber 1 ;
     mo:SubCategory mc:AdminR.JP  ;
-    mo:SubCategory mc:Region.J.1 ;
-    mo:SubCategory mc:Region.J.2 ;
-    mo:SubCategory mc:Region.J.3 ;
-    mo:SubCategory mc:Region.J.4 ;
-    mo:SubCategory mc:Region.J.5 ;
-    mo:SubCategory mc:Region.J.6 ;
-    mo:SubCategory mc:Region.J.7 ;
-    mo:SubCategory mc:Region.J.8 ;
-    mo:SubCategory mc:Region.J.9 ;
+    mo:SubCategory mc:Region_J_1 ;
+    mo:SubCategory mc:Region_J_2 ;
+    mo:SubCategory mc:Region_J_3 ;
+    mo:SubCategory mc:Region_J_4 ;
+    mo:SubCategory mc:Region_J_5 ;
+    mo:SubCategory mc:Region_J_6 ;
+    mo:SubCategory mc:Region_J_7 ;
+    mo:SubCategory mc:Region_J_8 ;
+    mo:SubCategory mc:Region_J_9 ;
     rdfs:comment "日本の地域についてのカテゴリ"@ja .
-mc:Region.J.1 mo:CategoryNumber 1 .
-mc:Region.J.2 mo:CategoryNumber 2 .
-mc:Region.J.3 mo:CategoryNumber 3 .
-mc:Region.J.4 mo:CategoryNumber 4 .
-mc:Region.J.5 mo:CategoryNumber 5 .
-mc:Region.J.6 mo:CategoryNumber 6 .
-mc:Region.J.7 mo:CategoryNumber 7 .
-mc:Region.J.8 mo:CategoryNumber 8 .
-mc:Region.J.9 mo:CategoryNumber 9 .
+mc:Region_J_1 mo:CategoryNumber 1 .
+mc:Region_J_2 mo:CategoryNumber 2 .
+mc:Region_J_3 mo:CategoryNumber 3 .
+mc:Region_J_4 mo:CategoryNumber 4 .
+mc:Region_J_5 mo:CategoryNumber 5 .
+mc:Region_J_6 mo:CategoryNumber 6 .
+mc:Region_J_7 mo:CategoryNumber 7 .
+mc:Region_J_8 mo:CategoryNumber 8 .
+mc:Region_J_9 mo:CategoryNumber 9 .
 
 mc:AdminR.JP
     rdfs:label "Category:日本"@ja ;
     a mo:Category .
 
-mc:Region.J.1
+mc:Region_J_1
     a mo:Category ;
     rdfs:label "地域情報：北海道"@ja ;
     rdfs:comment "北海道についてのカテゴリ"@ja .
 
-mc:Region.J.2
+mc:Region_J_2
     a mo:Category ;
     rdfs:label "地域情報：東北地方"@ja ;
     rdfs:comment "東北地方についてのカテゴリ"@ja .
 
-mc:Region.J.3
+mc:Region_J_3
     a mo:Category ;
     rdfs:label "地域情報：関東地方"@ja ;
     rdfs:comment "関東地方についてのカテゴリ"@ja .
 
-mc:Region.J.4
+mc:Region_J_4
     a mo:Category ;
     rdfs:label "地域情報：中部地方"@ja ;
     rdfs:comment "関東地方についてのカテゴリ"@ja .
 
-mc:Region.J.4.N
+mc:Region_J_4_N
     a mo:Category ;
     rdfs:label "地域情報：北陸地方"@ja ;
     rdfs:comment "狭義の北陸地方についてのカテゴリ：富山県・石川県・福井県嶺北"@ja .
 
-mc:Region.J.5
+mc:Region_J_5
     a mo:Category ;
     rdfs:label "地域情報：関西地方"@ja ;
     rdfs:comment "関西地方についてのカテゴリ"@ja .
 
-mc:Region.J.5.N.嶺南
+mc:Region_J_5_N.嶺南
     a mo:Category ;
     rdfs:label "地域情報：福井県嶺南地方"@ja ;
     rdfs:comment "福井県嶺南地方についてのカテゴリ"@ja .
 
-mc:Region.J.7
+mc:Region_J_7
     a mo:Category ;
     rdfs:label "地域情報：四国地方"@ja ;
-    mo:SubCategory mc:Region.J.7.讃岐 ;
-    mo:SubCategory mc:Region.J.7.阿波 ;
-    mo:SubCategory mc:Region.J.7.伊予 ;
-    mo:SubCategory mc:Region.J.7.土佐 ;
+    mo:SubCategory mc:Region_J_7_讃岐 ;
+    mo:SubCategory mc:Region_J_7_阿波 ;
+    mo:SubCategory mc:Region_J_7_伊予 ;
+    mo:SubCategory mc:Region_J_7_土佐 ;
     rdfs:comment "四国地方についてのカテゴリ"@ja .
-mc:Region.J.7.讃岐 mo:CategoryNumber 1 .
-mc:Region.J.7.阿波 mo:CategoryNumber 3 .
-mc:Region.J.7.伊予 mo:CategoryNumber 5 .
-mc:Region.J.7.土佐 mo:CategoryNumber 7 .
+mc:Region_J_7_讃岐 mo:CategoryNumber 1 .
+mc:Region_J_7_阿波 mo:CategoryNumber 3 .
+mc:Region_J_7_伊予 mo:CategoryNumber 5 .
+mc:Region_J_7_土佐 mo:CategoryNumber 7 .
 
-mc:Region.J.7.讃岐
+mc:Region_J_7_讃岐
     a mo:Category ;
     rdfs:label "地域情報：讃岐地方（香川県）"@ja ;
     rdfs:comment "讃岐地方についてのカテゴリ"@ja .
 
-mc:Region.J.7.阿波
+mc:Region_J_7_阿波
     a mo:Category ;
     rdfs:label "地域情報：阿波地方（徳島県）"@ja ;
     rdfs:comment "阿波地方についてのカテゴリ"@ja .
 
-mc:Region.J.7.伊予
+mc:Region_J_7_伊予
     a mo:Category ;
     rdfs:label "地域情報：伊予地方（愛媛県）"@ja ;
     rdfs:comment "伊予地方についてのカテゴリ"@ja .
 
-mc:Region.J.7.土佐
+mc:Region_J_7_土佐
     a mo:Category ;
     rdfs:label "地域情報：土佐地方（高知県）"@ja ;
     rdfs:comment "土佐地方についてのカテゴリ"@ja .
 
-mc:Region.J.8
+mc:Region_J_8
     a mo:Category ;
     rdfs:label "地域情報：九州地方"@ja ;
     rdfs:comment "九州地方についてのカテゴリ"@ja .

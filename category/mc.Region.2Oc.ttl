@@ -4,37 +4,37 @@
 @prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 
-mc:Region.Oc
+mc:Region_Oc
     rdfs:label "地域情報：オセアニア"@ja ;
     rdfs:comment "オセアニアについてのカテゴリ"@ja ;
-    mo:SubCategory mc:Region.Oc.Au ;
-    mo:SubCategory mc:Region.Oc.Ml ;
-    mo:SubCategory mc:Region.Oc.Mc ;
-    mo:SubCategory mc:Region.Oc.Pl ;
-    mo:SubCategory mc:Region.Oc.Nz ;
+    mo:SubCategory mc:Region_Oc.Au ;
+    mo:SubCategory mc:Region_Oc.Ml ;
+    mo:SubCategory mc:Region_Oc.Mc ;
+    mo:SubCategory mc:Region_Oc.Pl ;
+    mo:SubCategory mc:Region_Oc.Nz ;
     a mo:Category .
 
-mc:Region.Oc.Au
+mc:Region_Oc.Au
     a mo:Category ;
     rdfs:label "地域情報：オーストラリア"@ja ;
     rdfs:comment "オーストラリアについてのカテゴリ"@ja .
 
-mc:Region.Oc.Ml
+mc:Region_Oc.Ml
     a mo:Category ;
     rdfs:label "地域情報：メラネシア"@ja ;
     rdfs:comment "メラネシアについてのカテゴリ"@ja .
 
-mc:Region.Oc.Mc
+mc:Region_Oc.Mc
     a mo:Category ;
     rdfs:label "地域情報：ミクロネシア"@ja ;
     rdfs:comment "ミクロネシアについてのカテゴリ"@ja .
 
-mc:Region.Oc.Pl
+mc:Region_Oc.Pl
     a mo:Category ;
     rdfs:label "地域情報：ポリネシア"@ja ;
     rdfs:comment "ポリネシアについてのカテゴリ"@ja .
 
-mc:Region.Oc.Nz
+mc:Region_Oc.Nz
     rdfs:label "地域情報：ニュージーランド王国"@ja ;
     rdfs:comment "ニュージーランド王国についてのカテゴリ"@ja ;
     mo:SubCategory mc:AdminR.CK ;

@@ -4,64 +4,64 @@
 @prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 
-mc:Region.As
+mc:Region_As
     a mo:Category ;
     rdfs:label "地域情報：アジア"@ja ;
-    mo:SubCategory mc:Region.As.N ;
-    mo:SubCategory mc:Region.As.C ;
-    mo:SubCategory mc:Region.As.E ;
-    mo:SubCategory mc:Region.As.SE ;
-    mo:SubCategory mc:Region.As.S ;
-    mo:SubCategory mc:Region.As.W ;
-    mo:SubCategory mc:Region.Ca.S ;
+    mo:SubCategory mc:Region_As.N ;
+    mo:SubCategory mc:Region_As.C ;
+    mo:SubCategory mc:Region_As.E ;
+    mo:SubCategory mc:Region_As.SE ;
+    mo:SubCategory mc:Region_As.S ;
+    mo:SubCategory mc:Region_As.W ;
+    mo:SubCategory mc:Region_Ca.S ;
     rdfs:comment "アジアについてのカテゴリ"@ja .
-mc:Region.As.N mo:CategoryNumber 1 .
-mc:Region.As.C mo:CategoryNumber 2 .
-mc:Region.As.E mo:CategoryNumber 3 .
-mc:Region.As.SE mo:CategoryNumber 4 .
-mc:Region.As.S mo:CategoryNumber 5 .
-mc:Region.As.W mo:CategoryNumber 6 .
+mc:Region_As.N mo:CategoryNumber 1 .
+mc:Region_As.C mo:CategoryNumber 2 .
+mc:Region_As.E mo:CategoryNumber 3 .
+mc:Region_As.SE mo:CategoryNumber 4 .
+mc:Region_As.S mo:CategoryNumber 5 .
+mc:Region_As.W mo:CategoryNumber 6 .
 
-mc:Region.As.N
+mc:Region_As.N
     a mo:Category ;
     rdfs:label "地域情報：北アジア"@ja ;
     rdfs:comment "北アジアについてのカテゴリ"@ja .
 
-mc:Region.As.C
+mc:Region_As.C
     a mo:Category ;
     rdfs:label "地域情報：中央アジア"@ja ;
     rdfs:comment "中央アジアについてのカテゴリ"@ja .
 
-mc:Region.As.E
+mc:Region_As.E
     a mo:Category ;
     rdfs:label "地域情報：東アジア"@ja ;
     rdfs:comment "東アジアについてのカテゴリ"@ja .
 
-mc:Region.As.SE
+mc:Region_As.SE
     a mo:Category ;
     rdfs:label "地域情報：東南アジア"@ja ;
-    mo:SubCategory mc:Region.As.SE.L ;
-    mo:SubCategory mc:Region.As.SE.S ;
+    mo:SubCategory mc:Region_As.SE.L ;
+    mo:SubCategory mc:Region_As.SE.S ;
     rdfs:comment "東南アジアについてのカテゴリ"@ja .
-mc:Region.As.SE.L mo:CategoryNumber 1 .
-mc:Region.As.SE.S mo:CategoryNumber 5 .
+mc:Region_As.SE.L mo:CategoryNumber 1 .
+mc:Region_As.SE.S mo:CategoryNumber 5 .
 
-mc:Region.As.SE.L
+mc:Region_As.SE.L
     a mo:Category ;
     rdfs:label "地域情報：大陸部東南アジア"@ja ;
     rdfs:comment "大陸部東南アジアについてのカテゴリ"@ja .
 
-mc:Region.As.SE.S
+mc:Region_As.SE.S
     a mo:Category ;
     rdfs:label "地域情報：海洋部東南アジア"@ja ;
     rdfs:comment "海洋部東南アジアについてのカテゴリ"@ja .
 
-mc:Region.As.S
+mc:Region_As.S
     a mo:Category ;
     rdfs:label "地域情報：南アジア"@ja ;
     rdfs:comment "南アジアについてのカテゴリ"@ja .
 
-mc:Region.As.W
+mc:Region_As.W
     a mo:Category ;
     rdfs:label "地域情報：西アジア"@ja ;
     rdfs:comment "西アジアについてのカテゴリ"@ja .

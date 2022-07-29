@@ -4,82 +4,82 @@
 @prefix mo:   <https://github.com/Mask-coins/mask_documents/ontology/> .
 @prefix mc:   <https://github.com/Mask-coins/mask_documents/category/> .
 
-mc:Region.J.6
+mc:Region_J_6
     a mo:Category ;
     rdfs:label "地域情報：中国地方"@ja ;
-    mo:SubCategory mc:Region.J.6.N ;
-    mo:SubCategory mc:Region.J.6.S ;
+    mo:SubCategory mc:Region_J_6_N ;
+    mo:SubCategory mc:Region_J_6_S ;
     rdfs:comment "中国地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.N
+mc:Region_J_6_N
     a mo:Category ;
     rdfs:label "地域情報：山陰地方"@ja ;
-    mo:SubCategory mc:AdminR.JP.鳥取県 ;
-    mo:SubCategory mc:Region.J.6.N.因幡 ;
-    mo:SubCategory mc:Region.J.6.N.伯耆 ;
-    mo:SubCategory mc:Region.J.6.N.伯耆.E ;
-    mo:SubCategory mc:Region.J.6.N.伯耆.W ;
-    mo:SubCategory mc:AdminR.JP.鳥取県  ;
-    mo:SubCategory mc:Region.J.6.N.隠岐 ;
-    mo:SubCategory mc:Region.J.6.N.出雲 ;
-    mo:SubCategory mc:Region.J.6.N.石見 ;
+    mo:SubCategory mc:AdminR_JP_鳥取県 ;
+    mo:SubCategory mc:Region_J_6_N.因幡 ;
+    mo:SubCategory mc:Region_J_6_N.伯耆 ;
+    mo:SubCategory mc:Region_J_6_N.伯耆.E ;
+    mo:SubCategory mc:Region_J_6_N.伯耆.W ;
+    mo:SubCategory mc:AdminR_JP_鳥取県  ;
+    mo:SubCategory mc:Region_J_6_N.隠岐 ;
+    mo:SubCategory mc:Region_J_6_N.出雲 ;
+    mo:SubCategory mc:Region_J_6_N.石見 ;
     rdfs:comment "山陰地方についてのカテゴリ"@ja .
 
-mc:AdminR.JP.鳥取県
+mc:AdminR_JP_鳥取県
     a mo:Category ;
     rdfs:label "地域情報：鳥取県"@ja ;
-    mo:SubCategory mc:Region.J.6.N.因幡 ;
-    mo:SubCategory mc:Region.J.6.N.伯耆 ;
-    mo:SubCategory mc:Region.J.6.N.伯耆.E ;
-    mo:SubCategory mc:Region.J.6.N.伯耆.W ;
+    mo:SubCategory mc:Region_J_6_N.因幡 ;
+    mo:SubCategory mc:Region_J_6_N.伯耆 ;
+    mo:SubCategory mc:Region_J_6_N.伯耆.E ;
+    mo:SubCategory mc:Region_J_6_N.伯耆.W ;
     rdfs:comment "鳥取県についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.因幡
+mc:Region_J_6_N.因幡
     a mo:Category ;
     rdfs:label "地域情報：因幡地方"@ja ;
     rdfs:comment "因幡地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.伯耆
+mc:Region_J_6_N.伯耆
     a mo:Category ;
     rdfs:label "地域情報：伯耆地方"@ja ;
-    mo:SubCategory mc:Region.J.6.N.伯耆.E ;
-    mo:SubCategory mc:Region.J.6.N.伯耆.W ;
+    mo:SubCategory mc:Region_J_6_N.伯耆.E ;
+    mo:SubCategory mc:Region_J_6_N.伯耆.W ;
     rdfs:comment "伯耆地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.伯耆.E
+mc:Region_J_6_N.伯耆.E
     a mo:Category ;
     rdfs:label "地域情報：東伯耆地方"@ja ;
     rdfs:comment "東伯耆地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.伯耆.W
+mc:Region_J_6_N.伯耆.W
     a mo:Category ;
     rdfs:label "地域情報：西伯耆地方"@ja ;
     rdfs:comment "西伯耆地方についてのカテゴリ"@ja .
 
-mc:mc:AdminR.JP.島根県
+mc:mc:AdminR_JP_島根県
     a mo:Category ;
     rdfs:label "地域情報：島根県"@ja ;
-    mo:SubCategory mc:Region.J.6.N.隠岐 ;
-    mo:SubCategory mc:Region.J.6.N.出雲 ;
-    mo:SubCategory mc:Region.J.6.N.石見 ;
+    mo:SubCategory mc:Region_J_6_N.隠岐 ;
+    mo:SubCategory mc:Region_J_6_N.出雲 ;
+    mo:SubCategory mc:Region_J_6_N.石見 ;
     rdfs:comment "島根県についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.隠岐
+mc:Region_J_6_N.隠岐
     a mo:Category ;
     rdfs:label "地域情報：隠岐地方"@ja ;
     rdfs:comment "隠岐地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.出雲
+mc:Region_J_6_N.出雲
     a mo:Category ;
     rdfs:label "地域情報：出雲地方"@ja ;
     rdfs:comment "出雲地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.N.石見
+mc:Region_J_6_N.石見
     a mo:Category ;
     rdfs:label "地域情報：石見地方"@ja ;
     rdfs:comment "石見地方についてのカテゴリ"@ja .
 
-mc:Region.J.6.S
+mc:Region_J_6_S
     a mo:Category ;
     rdfs:label "地域情報：山陽地方"@ja ;
     rdfs:comment "山陽地方についてのカテゴリ"@ja .
