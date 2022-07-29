@@ -13,7 +13,7 @@ mc:Region_As
     mo:SubCategory mc:Region_As.SE ;
     mo:SubCategory mc:Region_As.S ;
     mo:SubCategory mc:Region_As.W ;
-    mo:SubCategory mc:Region_Ca.S ;
+    mo:SubCategory mc:Region_Ca_S ;
     rdfs:comment "アジアについてのカテゴリ"@ja .
 mc:Region_As.N mo:CategoryNumber 1 .
 mc:Region_As.C mo:CategoryNumber 2 .

@@ -7,39 +7,39 @@
 mc:Region_Af
     a mo:Category ;
     rdfs:label "地域情報：アフリカ"@ja ;
-    mo:SubCategory mc:Region_Af.N ;
-    mo:SubCategory mc:Region_Af.W ;
-    mo:SubCategory mc:Region_Af.C ;
-    mo:SubCategory mc:Region_Af.E ;
-    mo:SubCategory mc:Region_Af.S ;
+    mo:SubCategory mc:Region_Af_N ;
+    mo:SubCategory mc:Region_Af_W ;
+    mo:SubCategory mc:Region_Af_C ;
+    mo:SubCategory mc:Region_Af_E ;
+    mo:SubCategory mc:Region_Af_S ;
     rdfs:comment "アフリカについてのカテゴリ"@ja .
-mc:Region_Af.N mo:CategoryNumber 1 .
-mc:Region_Af.W mo:CategoryNumber 2 .
-mc:Region_Af.C mo:CategoryNumber 3 .
-mc:Region_Af.E mo:CategoryNumber 5 .
-mc:Region_Af.S mo:CategoryNumber 8 .
+mc:Region_Af_N mo:CategoryNumber 1 .
+mc:Region_Af_W mo:CategoryNumber 2 .
+mc:Region_Af_C mo:CategoryNumber 3 .
+mc:Region_Af_E mo:CategoryNumber 5 .
+mc:Region_Af_S mo:CategoryNumber 8 .
 
-mc:Region_Af.N
+mc:Region_Af_N
     a mo:Category ;
     rdfs:label "地域情報：北アフリカ"@ja ;
     rdfs:comment "北アフリカについてのカテゴリ"@ja .
 
-mc:Region_Af.W
+mc:Region_Af_W
     a mo:Category ;
     rdfs:label "地域情報：西アフリカ"@ja ;
     rdfs:comment "西アフリカについてのカテゴリ"@ja .
 
-mc:Region_Af.C
+mc:Region_Af_C
     a mo:Category ;
     rdfs:label "地域情報：広域中央アフリカ"@ja ;
     rdfs:comment "広域中央アフリカについてのカテゴリ"@ja .
 
-mc:Region_Af.E
+mc:Region_Af_E
     a mo:Category ;
     rdfs:label "地域情報：広域東アフリカ"@ja ;
     rdfs:comment "広域東アフリカについてのカテゴリ"@ja .
 
-mc:Region_Af.S
+mc:Region_Af_S
     a mo:Category ;
     rdfs:label "地域情報：広域南アフリカ"@ja ;
     rdfs:comment "広域南アフリカについてのカテゴリ"@ja .

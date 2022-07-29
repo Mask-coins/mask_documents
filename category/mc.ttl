@@ -51,18 +51,18 @@ mc:Region_Others mo:CategoryNumber 9 .
 mc:Region_Ca
     a mo:Category ;
     rdfs:label "地域情報：カフカス地方"@ja ;
-    mo:SubCategory mc:Region_Ca.N ;
-    mo:SubCategory mc:Region_Ca.S ;
+    mo:SubCategory mc:Region_Ca_N ;
+    mo:SubCategory mc:Region_Ca_S ;
     rdfs:comment "カフカス地方についてのカテゴリ"@ja .
-mc:Region_Ca.N mo:CategoryNumber 1 .
-mc:Region_Ca.S mo:CategoryNumber 5 .
+mc:Region_Ca_N mo:CategoryNumber 1 .
+mc:Region_Ca_S mo:CategoryNumber 5 .
 
-mc:Region_Ca.N
+mc:Region_Ca_N
     a mo:Category ;
     rdfs:label "地域情報：カフカス地方北部"@ja ;
     rdfs:comment "カフカス地方北部についてのカテゴリ"@ja .
 
-mc:Region_Ca.S
+mc:Region_Ca_S
     a mo:Category ;
     rdfs:label "地域情報：カフカス地方南部"@ja ;
     rdfs:comment "カフカス地方南部についてのカテゴリ"@ja .

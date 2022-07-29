@@ -7,34 +7,34 @@
 mc:Region_Oc
     rdfs:label "地域情報：オセアニア"@ja ;
     rdfs:comment "オセアニアについてのカテゴリ"@ja ;
-    mo:SubCategory mc:Region_Oc.Au ;
-    mo:SubCategory mc:Region_Oc.Ml ;
-    mo:SubCategory mc:Region_Oc.Mc ;
-    mo:SubCategory mc:Region_Oc.Pl ;
-    mo:SubCategory mc:Region_Oc.Nz ;
+    mo:SubCategory mc:Region_Oc_Au ;
+    mo:SubCategory mc:Region_Oc_Ml ;
+    mo:SubCategory mc:Region_Oc_Mc ;
+    mo:SubCategory mc:Region_Oc_Pl ;
+    mo:SubCategory mc:Region_Oc_Nz ;
     a mo:Category .
 
-mc:Region_Oc.Au
+mc:Region_Oc_Au
     a mo:Category ;
     rdfs:label "地域情報：オーストラリア"@ja ;
     rdfs:comment "オーストラリアについてのカテゴリ"@ja .
 
-mc:Region_Oc.Ml
+mc:Region_Oc_Ml
     a mo:Category ;
     rdfs:label "地域情報：メラネシア"@ja ;
     rdfs:comment "メラネシアについてのカテゴリ"@ja .
 
-mc:Region_Oc.Mc
+mc:Region_Oc_Mc
     a mo:Category ;
     rdfs:label "地域情報：ミクロネシア"@ja ;
     rdfs:comment "ミクロネシアについてのカテゴリ"@ja .
 
-mc:Region_Oc.Pl
+mc:Region_Oc_Pl
     a mo:Category ;
     rdfs:label "地域情報：ポリネシア"@ja ;
     rdfs:comment "ポリネシアについてのカテゴリ"@ja .
 
-mc:Region_Oc.Nz
+mc:Region_Oc_Nz
     rdfs:label "地域情報：ニュージーランド王国"@ja ;
     rdfs:comment "ニュージーランド王国についてのカテゴリ"@ja ;
     mo:SubCategory mc:AdminR.CK ;
