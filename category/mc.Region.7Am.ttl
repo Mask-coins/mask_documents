@@ -7,35 +7,35 @@
 mc:Region_Am
     a mo:Category ;
     rdfs:label "地域情報：アメリカ大陸"@ja ;
-    mo:SubCategory mc:Region_Am.N ;
-    mo:SubCategory mc:Region_Am.M ;
-    mo:SubCategory mc:Region_Am.S ;
+    mo:SubCategory mc:Region_Am_N ;
+    mo:SubCategory mc:Region_Am_M ;
+    mo:SubCategory mc:Region_Am_S ;
     rdfs:comment "アメリカ大陸についてのカテゴリ"@ja .
 
-mc:Region_Am.N
+mc:Region_Am_N
     a mo:Category ;
     rdfs:label "地域情報：北アメリカ"@ja ;
     rdfs:comment "北アメリカについてのカテゴリ"@ja .
 
-mc:Region_Am.M
+mc:Region_Am_M
     a mo:Category ;
     rdfs:label "地域情報：中部アメリカ"@ja ;
     rdfs:label "area study：Middle America"@en ;
     rdfs:comment "中部アメリカについてのカテゴリ"@ja .
 
-mc:Region_Am.M.CA
+mc:Region_Am_M_CA
     a mo:Category ;
     rdfs:label "地域情報：中央アメリカ"@ja ;
     rdfs:label "area study：Central America"@en ;
     rdfs:comment "狭義の中央アメリカについてのカテゴリ"@ja .
 
-mc:Region_Am.M.Cr
+mc:Region_Am_M_Cr
     a mo:Category ;
     rdfs:label "地域情報：カリブ地域"@ja ;
     rdfs:label "area study：Caribbean"@en ;
     rdfs:comment "カリブ地域についてのカテゴリ"@ja .
 
-mc:Region_Am.S
+mc:Region_Am_S
     a mo:Category ;
     rdfs:label "地域情報：南アメリカ"@ja ;
     rdfs:comment "南アメリカについてのカテゴリ"@ja .
