@@ -11,14 +11,14 @@ mr:Europe
     rdfs:label "Europe"@en ;
     rdfs:label "ヨーロッパ"@ja ;
     rdfs:label "欧州"@ja ;
-    mo:Category mc:Region.Eu;
+    mo:Category mc:Region_Eu;
     rdfs:comment ""@ja .
 
 mr:Zentralschweiz
     a mo:GeoEntity ;
     rdfs:label "Zentralschweiz"@de ;
     rdfs:label "スイス中部"@ja ;
-    mo:Category mc:Region.Eu;
+    mo:Category mc:Region_Eu;
     rdfs:comment "オプヴァルデン準州、ニトヴァルデン準州、ウーリ州、シュヴィーツ州、ツーク州から成る地域。"@ja .
 
 mr:CH_KantonObwalden
@@ -30,14 +30,14 @@ mr:Thracia
     a mo:GeoEntity ;
     rdfs:label "Thrace"@en ;
     rdfs:label "トラキア"@ja ;
-    mo:Category mc:Region.Eu.SE ;
+    mo:Category mc:Region_Eu_SE ;
     rdfs:comment ""@ja .
 
 mr:MacedoniaRegion
     a mo:GeoEntity ;
     rdfs:label "Macedonia"@en ;
     rdfs:label "マケドニア"@ja ;
-    mo:Category mc:Region.Eu.SE ;
+    mo:Category mc:Region_Eu_SE ;
     rdfs:comment ""@ja .
 
 

@@ -12,7 +12,7 @@ mr:Oceania
     a mo:GeoEntity ;
     rdfs:label "Oceania"@en ;
     rdfs:label "オセアニア"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     mo:SubRegion mr:Melanesia ;
     mo:SubRegion mr:Micronesia ;
     mo:SubRegion mr:Polynesia ;
@@ -22,7 +22,7 @@ mr:Melanesia
     a mo:GeoEntity ;
     rdfs:label "Melanesia"@en ;
     rdfs:label "メラネシア"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     mo:SubRegion mr:NewGuinea ;
     mo:SubRegion mr:BismarckArchipelago ;
     mo:SubRegion mr:SolomonArchipelago ;
@@ -36,14 +36,14 @@ mr:NewGuinea
     rdfs:label "パプア島"@ja ;
     rdfs:label "Irian"@en ;
     rdfs:label "イリアン島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment ""@ja .
 
 mr:BismarckArchipelago
     a mo:GeoEntity ;
     rdfs:label "Bismarck Archipelago"@en ;
     rdfs:label "ビスマルク諸島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment ""@ja .
 
 mr:SolomonArchipelago
@@ -51,7 +51,7 @@ mr:SolomonArchipelago
     rdfs:label "Solomon Archipelago"@en ;
     rdfs:label "Solomon Islands"@en ;
     rdfs:label "ソロモン諸島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     schema:sameAs <https://en.wikipedia.org/wiki/Solomon_Islands_(archipelago)> ;
     schema:sameAs <http://dbpedia.org/resource/Solomon_Islands_(archipelago)> ;
     rdfs:comment ""@ja .
@@ -62,7 +62,7 @@ mr:Micronesia
     a mo:GeoEntity ;
     rdfs:label "Micronesia"@en ;
     rdfs:label "ミクロネシア"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     mo:SubRegion mr:MarianaIslands ;
     mo:SubRegion mr:CarolineIslands ;
     mo:SubRegion mr:WakeIsland ;
@@ -76,28 +76,28 @@ mr:MarianaIslands
     a mo:GeoEntity ;
     rdfs:label "Mariana Islands"@en ;
     rdfs:label "マリアナ諸島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment "ミクロネシア西部"@ja .
 
 mr:CarolineIslands
     a mo:GeoEntity ;
     rdfs:label "Caroline Islands"@en ;
     rdfs:label "カロリン諸島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment "ミクロネシア中部"@ja .
 
 mr:WakeIsland
     a mo:GeoEntity ;
     rdfs:label "Wake Island"@en ;
     rdfs:label "ウェーク島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment ""@ja .
 
 mr:MarshallIslands
     a mo:GeoEntity ;
     rdfs:label "Marshall Islands"@en ;
     rdfs:label "マーシャル諸島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment ""@ja .
 
 mr:NauruIsland
@@ -106,7 +106,7 @@ mr:NauruIsland
     rdfs:label "ナウル島"@ja ;
     rdfs:label "Pleasant Island"@en ;
     rdfs:label "プレザント島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment "ナウル共和国"@ja .
 
 mr:BanabaIsland
@@ -115,21 +115,21 @@ mr:BanabaIsland
     rdfs:label "バナバ島"@ja ;
     rdfs:label "Ocean Island"@en ;
     rdfs:label "オーシャン島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment "キリバス西方の島"@ja .
 
 mr:GilbertIslands
     a mo:GeoEntity ;
     rdfs:label "Gilbert Islands"@en ;
     rdfs:label "ギルバート諸島"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment "キリバスの中心部"@ja .
 
 mr:Polynesia
     a mo:GeoEntity ;
     rdfs:label "Polynesia"@en ;
     rdfs:label "ポリネシア"@ja ;
-    mo:Category mc:Region.Oc;
+    mo:Category mc:Region_Oc;
     rdfs:comment ""@ja .
 
 

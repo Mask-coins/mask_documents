@@ -13,7 +13,7 @@ mr:隠岐地方
     rdfs:label "隠岐島"@ja ;
     rdfs:label "隠岐諸島"@ja ;
     rdfs:label "隠岐群島"@ja ;
-    mo:Category mc:Region.J.6.N.隠岐;
+    mo:Category mc:Region_J_6_N_隠岐;
     mo:SubRegion mr:隠岐島前 ;
     mo:SubRegion mr:隠岐島後 ;
     schema:sameAs <https://ja.wikipedia.org/wiki/隠岐諸島> ;
@@ -28,7 +28,7 @@ mr:隠岐島前
     a mo:GeoEntity ;
     rdfs:label "島前"@ja ;
     rdfs:label "島前諸島"@ja ;
-    mo:Category mc:Region.J.6.N.隠岐;
+    mo:Category mc:Region_J_6_N_隠岐;
     mo:SubRegion mr:隠岐中ノ島 ;
     mo:SubRegion mr:隠岐西ノ島 ;
     mo:SubRegion mr:隠岐知夫里島 ;
@@ -37,21 +37,21 @@ mr:隠岐島前
 mr:隠岐知夫里島
     a mo:GeoEntity ;
     rdfs:label "知夫里島"@ja ;
-    mo:Category mc:Region.J.6.N.隠岐;
+    mo:Category mc:Region_J_6_N_隠岐;
     mo:SameRegion mr:JP_島根県隠岐郡知夫村 ;
     rdfs:comment ""@ja .
 
 mr:隠岐西ノ島
     a mo:GeoEntity ;
     rdfs:label "西ノ島"@ja ;
-    mo:Category mc:Region.J.6.N.隠岐;
+    mo:Category mc:Region_J_6_N_隠岐;
     mo:SameRegion mr:JP_島根県隠岐郡西ノ島町 ;
     rdfs:comment ""@ja .
 
 mr:隠岐中ノ島
     a mo:GeoEntity ;
     rdfs:label "中ノ島"@ja ;
-    mo:Category mc:Region.J.6.N.隠岐;
+    mo:Category mc:Region_J_6_N_隠岐;
     mo:SameRegion mr:JP_島根県隠岐郡海士町 ;
     rdfs:comment ""@ja .
 
@@ -59,7 +59,7 @@ mr:隠岐島後
     a mo:GeoEntity ;
     rdfs:label "島後"@ja ;
     rdfs:label "島後島"@ja ;
-    mo:Category mc:Region.J.6.N.隠岐;
+    mo:Category mc:Region_J_6_N_隠岐;
     mo:SameRegion mr:JP_島根県隠岐郡隠岐の島町 ;
     rdfs:comment ""@ja .
 
