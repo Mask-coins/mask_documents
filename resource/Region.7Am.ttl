@@ -12,7 +12,7 @@ mr:America
     rdfs:label "America"@en ;
     rdfs:label "アメリカ大陸"@ja ;
     rdfs:label "米州大陸"@ja ;
-    mo:Category mc:Region.Am;
+    mo:Category mc:Region_Am ;
     mo:SubRegion mr:MiddleAmerica ;
     rdfs:comment ""@ja .
 
@@ -22,7 +22,7 @@ mr:MiddleAmerica
     rdfs:label "Middle America"@en ;
     rdfs:label "中部アメリカ"@ja ;
     rdfs:label "中米"@ja ;
-    mo:Category mc:Region.Am.M;
+    mo:Category mc:Region_Am_M;
     mo:SubRegion mr:Caribbean ;
     rdfs:comment ""@ja .
 
@@ -31,7 +31,7 @@ mr:Caribbean
     a mo:GeoEntity ;
     rdfs:label "Caribbean"@en ;
     rdfs:label "カリブ地域"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     mo:SubRegion mr:BahamaArchipelago ;
     mo:SubRegion mr:Antilles ;
     schema:sameAs <https://ja.wikipedia.org/wiki/カリブ海地域> ;
@@ -50,14 +50,14 @@ mr:BahamaArchipelago
     rdfs:label "Bahama Archipelago"@en ;
     rdfs:label "Lucayan Archipelago"@en ;
     rdfs:label "バハマ諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     rdfs:comment ""@ja .
 
 mr:Antilles
     a mo:GeoEntity ;
     rdfs:label "Antilles"@en ;
     rdfs:label "アンティル諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     mo:SubRegion mr:GreaterAntilles ;
     mo:SubRegion mr:LesserAntilles ;
     rdfs:comment ""@ja .
@@ -66,7 +66,7 @@ mr:GreaterAntilles
     a mo:GeoEntity ;
     rdfs:label "Greater Antilles"@en ;
     rdfs:label "大アンティル諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     mo:SubRegion mr:CaymanIslands ;
     rdfs:comment ""@ja .
 
@@ -74,7 +74,7 @@ mr:CaymanIslands
     a mo:GeoEntity ;
     rdfs:label "Cayman Islands"@en ;
     rdfs:label "ケイマン諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     mo:SubRegion mr:GrandCayman ;
     mo:SubRegion mr:CaymanSisterIslands ;
     rdfs:comment ""@ja .
@@ -83,14 +83,14 @@ mr:GrandCayman
     a mo:GeoEntity ;
     rdfs:label "Grand Cayman"@en ;
     rdfs:label "大ケイマン島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     rdfs:comment ""@ja .
 
 mr:CaymanSisterIslands
     a mo:GeoEntity ;
     rdfs:label "Sister Islands"@en ;
     rdfs:label "姉妹諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     mo:SubRegion mr:LittleCayman ;
     mo:SubRegion mr:CaymanBrac ;
     rdfs:comment ""@ja .
@@ -99,14 +99,14 @@ mr:LittleCayman
     a mo:GeoEntity ;
     rdfs:label "Little Cayman"@en ;
     rdfs:label "小ケイマン島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     rdfs:comment ""@ja .
 
 mr:CaymanBrac
     a mo:GeoEntity ;
     rdfs:label "Cayman Brac"@en ;
     rdfs:label "ケイマンブラック島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     rdfs:comment ""@ja .
 
 mr:LesserAntilles
@@ -115,7 +115,7 @@ mr:LesserAntilles
     rdfs:label "Antillas Menores"@es ;
     rdfs:label "Pequeñas Antillas"@es ;
     rdfs:label "小アンティル諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     mo:SubRegion mr:EasternCaribbean ;
     mo:SubRegion mr:LeewardAntilles ;
     rdfs:comment ""@ja .
@@ -128,7 +128,7 @@ mr:EasternCaribbean
     rdfs:label "東カリブ地域"@ja ;
     rdfs:label "ウィンドワード諸島"@ja ;
     rdfs:label "風上諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     mo:SubRegion mr:EasternCaribbeanLeewardIslands ;
     mo:SubRegion mr:EasternCaribbeanWindwardIslands ;
     rdfs:comment "スペイン語等では風下諸島、英語等では北半が風下諸島で南半が風上諸島"@ja .
@@ -138,7 +138,7 @@ mr:EasternCaribbeanLeewardIslands
     rdfs:label "Leeward Islands"@en ;
     rdfs:label "リーワード諸島"@ja ;
     rdfs:label "風下諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     rdfs:comment "東カリブ地域の北半"@ja .
 
 mr:EasternCaribbeanWindwardIslands
@@ -146,7 +146,7 @@ mr:EasternCaribbeanWindwardIslands
     rdfs:label "Windward Islands"@en ;
     rdfs:label "ウィンドワード諸島"@ja ;
     rdfs:label "風上諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     rdfs:comment "東カリブ地域の南半"@ja .
 
 mr:LeewardAntilles
@@ -154,7 +154,7 @@ mr:LeewardAntilles
     rdfs:label "Leeward Antilles"@en ;
     rdfs:label "リーワード諸島"@ja ;
     rdfs:label "風下諸島"@ja ;
-    mo:Category mc:Region.Am.M.Cr;
+    mo:Category mc:Region_Am_M_Cr;
     rdfs:comment "小アンティル諸島の西南部"@ja .
 
 

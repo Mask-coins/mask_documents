@@ -11,7 +11,7 @@ mr:東北地方
     rdfs:label "東北"@ja ;
     rdfs:label "東北地方"@ja ;
     rdfs:label "奥羽"@ja ;
-    mo:Category mc:Region.J.2;
+    mo:Category mc:Region_J_2;
     mo:SubRegion mr:JP_青森県 ;
     mo:SubRegion mr:JP_岩手県 ;
     mo:SubRegion mr:JP_秋田県 ;
@@ -40,7 +40,7 @@ mr:JP_青森県
 mr:津軽地方
     a mo:GeoEntity ;
     rdfs:label "津軽地方"@ja ;
-    mo:Category mc:Region.J.2;
+    mo:Category mc:Region_J_2;
     schema:sameAs <https://ja.wikipedia.org/wiki/津軽地方> ;
     schema:sameAs <http://ja.dbpedia.org/resource/津軽地方>;
     schema:sameAs <https://worldinfo.wicurio.com/index.php?津軽地方>;
@@ -52,14 +52,14 @@ mr:津軽地方
 mr:青森県南部地方
     a mo:GeoEntity ;
     rdfs:label "南部地方"@ja ;
-    mo:Category mc:Region.J.2;
+    mo:Category mc:Region_J_2;
     mo:Reference <http://nanyanen.jp/geo-hist/konanbu.html> ;
     rdfs:comment "青森県の東部"@ja .
 
 mr:下北地方
     a mo:GeoEntity ;
     rdfs:label "下北地方"@ja ;
-    mo:Category mc:Region.J.2;
+    mo:Category mc:Region_J_2;
     mo:SubRegion mr:JP_青森県むつ市 ;
     mo:SubRegion mr:JP_青森県下北郡佐井村 ;
     mo:SubRegion mr:JP_青森県下北郡大間町 ;

@@ -13,7 +13,7 @@ mr:関西地方
     rdfs:label "関西地方"@ja ;
     rdfs:label "近畿"@ja ;
     rdfs:label "近畿地方"@ja ;
-    mo:Category mc:Region.J.5;
+    mo:Category mc:Region_J_5;
     rdfs:comment ""@ja .
 
 mr:福井県嶺南
@@ -22,7 +22,7 @@ mr:福井県嶺南
     rdfs:label "嶺南地方"@ja ;
     rdfs:label "福井県嶺南"@ja ;
     rdfs:label "福井県嶺南地方"@ja ;
-    mo:Category mc:Region.J.5.N.嶺南;
+    mo:Category mc:Region_J_5_嶺南;
     mo:SubRegion mr:JP_福井県敦賀市 ;
     mo:SubRegion mr:JP_福井県三方郡美浜町 ;
     mo:SubRegion mr:JP_福井県三方上中郡若狭町 ;

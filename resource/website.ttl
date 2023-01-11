@@ -17,29 +17,29 @@
     mo:HomeURL <https://www1.kaiho.mlit.go.jp/> ;
     mo:date "2020-10-28"^^xs:date ;
     mo:date "2020-10-29"^^xs:date ;
-    mo:Category mc:Region.J.2;
+    mo:Category mc:Region_J_2;
     a mo:WebSite .
 
 <https://www1.kaiho.mlit.go.jp/GIJUTSUKOKUSAI/KENKYU/report/tbh27/tbh27-02.pdf>
     rdfs:label "我が国の広域な地名及びその範囲についての調査研究"@ja ;
     mo:HomeURL <http://www.city.kagoshima.lg.jp/> ;
     mo:date "2020-09-29"^^xs:date ;
-    mo:Category mc:Region.J.3;
-    mo:Category mc:Region.J.8;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_3;
+    mo:Category mc:Region_J_8;
+    mo:Category mc:Region_J_9;
     a mo:WebSite .
 
 
 <http://www.city.kagoshima.lg.jp/>
     rdfs:label "鹿児島市"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     a mo:WebSite .
 
 <http://www.city.kagoshima.lg.jp/kikakuzaisei/kikaku/seisaku-s/shise/shokai/shishi/kire.html>
     rdfs:label "喜入町郷土誌（平成16年3月発行）"@ja ;
     mo:HomeURL <http://www.city.kagoshima.lg.jp/> ;
     mo:date "2020-09-29"^^xs:date ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     a mo:WebSite .
 
 

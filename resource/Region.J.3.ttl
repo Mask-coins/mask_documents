@@ -10,7 +10,7 @@ mr:関東地方
     a mo:GeoEntity ;
     rdfs:label "関東"@ja ;
     rdfs:label "関東地方"@ja ;
-    mo:Category mc:Region.J.3;
+    mo:Category mc:Region_J_3;
     mo:SubRegion mr:JP_茨城県 ;
     mo:SubRegion mr:JP_栃木県 ;
     mo:SubRegion mr:JP_群馬県 ;
@@ -24,7 +24,7 @@ mr:JP_茨城県つくば市
     a mo:GeoEntity ;
     a mo:施行時特例市 ;
     rdfs:label "つくば市"@ja ;
-    mo:Category mc:Region.J.3;
+    mo:Category mc:Region_J_3;
     mo:SubRegion mr:つくば市筑波地区 ;
     mo:SubRegion mr:つくば市大穂地区 ;
     mo:SubRegion mr:つくば市豊里地区 ;

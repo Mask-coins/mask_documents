@@ -138,7 +138,7 @@ mc:Region_J_5
     rdfs:label "地域情報：関西地方"@ja ;
     rdfs:comment "関西地方についてのカテゴリ"@ja .
 
-mc:Region_J_5_N_嶺南
+mc:Region_J_5_嶺南
     a mo:Category ;
     rdfs:label "地域情報：福井県嶺南地方"@ja ;
     rdfs:comment "福井県嶺南地方についてのカテゴリ"@ja .

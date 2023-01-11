@@ -9,7 +9,7 @@
 mr:南西諸島
     a mo:GeoEntity ;
     rdfs:label "南西諸島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_9;
     mo:SubRegion mr:薩南諸島 ;
     mo:SubRegion mr:奄美群島 ;
     mo:SubRegion mr:沖縄諸島 ;
@@ -24,20 +24,20 @@ mr:南西諸島
 mr:奄美群島
     a mo:GeoEntity ;
     rdfs:label "奄美群島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_9;
     rdfs:comment ""@ja .
 
 mr:沖縄諸島
     a mo:GeoEntity ;
     rdfs:label "沖縄諸島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_9;
     rdfs:comment ""@ja .
 
 mr:先島諸島
     a mo:GeoEntity ;
     rdfs:label "先島諸島"@ja ;
     rdfs:label "先島群島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_9;
     mo:SubRegion mr:宮古列島 ;
     mo:SubRegion mr:八重山列島 ;
     mo:SubRegion mr:尖閣諸島 ;
@@ -46,24 +46,24 @@ mr:先島諸島
 mr:宮古列島
     a mo:GeoEntity ;
     rdfs:label "宮古列島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_9;
     rdfs:comment ""@ja .
 
 mr:八重山列島
     a mo:GeoEntity ;
     rdfs:label "八重山列島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_9;
     rdfs:comment ""@ja .
 
 mr:尖閣諸島
     a mo:GeoEntity ;
     rdfs:label "尖閣諸島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_9;
     rdfs:comment ""@ja .
 
 mr:大東諸島
     a mo:GeoEntity ;
     rdfs:label "大東諸島"@ja ;
-    mo:Category mc:Region.J.9;
+    mo:Category mc:Region_J_9;
     rdfs:comment ""@ja .
 

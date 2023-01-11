@@ -12,12 +12,12 @@
 mr:九州地方
     a mo:GeoEntity ;
     rdfs:label "九州地方"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     rdfs:comment ""@ja .
 
 <info:ndljp/pid/1042249>
     rdfs:label "丹生村史"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     foaf:page <https://dl.ndl.go.jp/info:ndljp/pid/1042249>;
     rdfs:comment "大分県北海部郡丹生村"@ja ;
     a schema:Book .
@@ -34,7 +34,7 @@ mr:JP_大分県大分市久土 mo:Reference <info:ndljp/pid/1042249> .
 mr:鹿児島市喜入地区
     a mo:GeoEntity ;
     rdfs:label "喜入地区"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     mo:SubRegion mr:JP_鹿児島県鹿児島市喜入瀬々串町 ;
     mo:SubRegion mr:JP_鹿児島県鹿児島市喜入中名町 ;
     mo:SubRegion mr:JP_鹿児島県鹿児島市喜入町 ;
@@ -49,7 +49,7 @@ mr:JP_鹿児島県鹿児島市 mo:SubRegion mr:鹿児島市喜入地区 .
 mr:薩南諸島
     a mo:GeoEntity ;
     rdfs:label "薩南諸島"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     mo:Category mc:Region.J.9.奄美;
     mo:SubRegion mr:大隅諸島 ;
     mo:SubRegion mr:トカラ列島 ;
@@ -60,7 +60,7 @@ mr:大隅群島
     a mo:GeoEntity ;
     rdfs:label "大隅群島"@ja ;
     rdfs:label "大隅諸島"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     mo:GeoEntityDefenition mr:大隅諸島 ;
     mo:SubRegion mr:草垣諸島 ;
     mo:SubRegion mr:大隅熊毛地方 ;
@@ -71,7 +71,7 @@ mr:大隅諸島
     a mo:GeoEntity ;
     rdfs:label "大隅群島"@ja ;
     rdfs:label "大隅諸島"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     mo:GeoEntityDefenition mr:大隅群島 ;
     mo:SubRegion mr:大隅熊毛地方 ;
     mo:SubRegion mr:JP_鹿児島県鹿児島郡三島村 ;
@@ -80,7 +80,7 @@ mr:大隅諸島
 mr:大隅熊毛地方
     a mo:GeoEntity ;
     rdfs:label "熊毛地方"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     mo:SubRegion mr:種子島 ;
     mo:SubRegion mr:馬毛島 ;
     mo:SubRegion mr:口永良部島 ;
@@ -97,7 +97,7 @@ mr:トカラ列島
     rdfs:label "吐噶喇列島"@ja ;
     rdfs:label "下七島"@ja ;
     rdfs:label "川辺郡七島"@ja ;
-    mo:Category mc:Region.J.8;
+    mo:Category mc:Region_J_8;
     rdfs:comment ""@ja .
 
 

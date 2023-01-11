@@ -16,13 +16,13 @@ mr:四国地方
     a mo:GeoEntity ;
     rdfs:label "四国"@ja ;
     rdfs:label "四国地方"@ja ;
-    mo:Category mc:Region.J.7;
+    mo:Category mc:Region_J_7;
     rdfs:comment ""@ja .
 
 mr:阿波上郡地方
     a mo:GeoEntity ;
     rdfs:label "上郡"@ja ;
-    mo:Category mc:Region.J.7;
+    mo:Category mc:Region_J_7;
     mo:SubRegion mr:JP_徳島県美馬市 ;
     mo:SubRegion mr:JP_徳島県美馬郡つるぎ町 ;
     mo:SubRegion mr:JP_徳島県三好郡東みよし町 ;
@@ -52,7 +52,7 @@ mr:Asia
     a mo:GeoEntity ;
     rdfs:label "Asia"@en ;
     rdfs:label "アジア"@ja ;
-    mo:Category mc:Region.As;
+    mo:Category mc:Region_As;
     mo:SubRegion mr:EastAsia ;
     rdfs:comment ""@ja .
 
@@ -60,7 +60,7 @@ mr:EastAsia
     a mo:GeoEntity ;
     rdfs:label "East Asia"@en ;
     rdfs:label "東アジア"@ja ;
-    mo:Category mc:Region.As.E;
+    mo:Category mc:Region_As_E;
     mo:SubRegion mr:Japan ;
     rdfs:comment ""@ja .
 
@@ -68,7 +68,7 @@ mr:Japan
     a mo:GeoEntity ;
     rdfs:label "Japan"@en ;
     rdfs:label "日本"@ja ;
-    mo:Category mc:Region.J;
+    mo:Category mc:Region_J;
     mo:SubRegion mr:JP_北海道 ;
     mo:SubRegion mr:東北地方 ;
     mo:SubRegion mr:関東地方 ;
@@ -87,7 +87,7 @@ mr:Africa
     a mo:GeoEntity ;
     rdfs:label "Africa"@en ;
     rdfs:label "アフリカ"@ja ;
-    mo:Category mc:Region.Af;
+    mo:Category mc:Region_Af;
     rdfs:comment ""@ja .
 
 
@@ -98,7 +98,7 @@ mr:Antarctica
     a mo:GeoEntity ;
     rdfs:label "Antarctica"@en ;
     rdfs:label "南極大陸"@ja ;
-    mo:Category mc:Region.Antarctica;
+    mo:Category mc:Region_Antarctica;
     rdfs:comment ""@ja .
 
 
