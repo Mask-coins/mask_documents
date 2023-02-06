@@ -5,10 +5,10 @@ from rdflib import Graph, URIRef
 from rdflib.query import Result
 
 _DIR = os.path.join(os.path.abspath(os.path.dirname(__file__)))
-_DIR_mo = _DIR + "./rdf/ontology"
-_DIR_mc = _DIR + "./rdf/category"
-_DIR_mr = _DIR + "./rdf/resource"
-_DIR_mm = _DIR + "./rdf/math"
+_DIR_mo = _DIR + "/rdf/ontology"
+_DIR_mc = _DIR + "/rdf/category"
+_DIR_mr = _DIR + "/rdf/resource"
+_DIR_mm = _DIR + "/rdf/math"
 PREFIX = {
     "mo": "https://github.com/Mask-coins/mask_documents/ontology/",
     "mc": "https://github.com/Mask-coins/mask_documents/category/",
