@@ -12,7 +12,7 @@ def _requires_from_file(filename):
 
 setup(
     name="mask_documents",
-    version="0.0.1",
+    version="0.0.2",
     description="私が整理したデータを公開しています。",
     author="Mask_coins",
     url="https://github.com/Mask-coins/mask_documents",
