@@ -4,10 +4,10 @@ import pprint
 from rdflib import Graph, URIRef
 from rdflib.query import Result
 
-DIR_mo = "rdf/ontology"
-DIR_mc = "rdf/category"
-DIR_mr = "rdf/resource"
-DIR_mm = "rdf/math"
+DIR_mo = "./rdf/ontology"
+DIR_mc = "./rdf/category"
+DIR_mr = "./rdf/resource"
+DIR_mm = "./rdf/math"
 PREFIX = {
     "mo": "https://github.com/Mask-coins/mask_documents/ontology/",
     "mc": "https://github.com/Mask-coins/mask_documents/category/",
