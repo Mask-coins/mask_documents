@@ -1,1 +1,1 @@
-recursive-include py/mask_documents/rdf/ *
+include py/mask_documents/rdf/*.ini
