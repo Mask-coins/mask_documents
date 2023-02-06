@@ -3,12 +3,12 @@ import pprint
 
 from rdflib import Graph, URIRef
 from rdflib.query import Result
-from resource.ttl_open import load as load_resource
+from ..resource.ttl_open import load as load_resource
 
-DIR_mo = "../../ontology"
-DIR_mc = "../../category"
-DIR_mr = "../../resource"
-DIR_mm = "../../math"
+DIR_mo = "../ontology"
+DIR_mc = "../category"
+DIR_mr = "../resource"
+DIR_mm = "../math"
 PREFIX = {
     "mo": "https://github.com/Mask-coins/mask_documents/ontology/",
     "mc": "https://github.com/Mask-coins/mask_documents/category/",
