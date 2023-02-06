@@ -9,7 +9,7 @@
 ※Wiki機能を使うかどうかは考え中です。
 
 # ken_all
-https://github.com/Mask-coins/mask_documents/tree/master/resource/ken_all  
+https://github.com/Mask-coins/mask_documents/tree/master/py/mask_documents/rdf/resource/ken_all  
 には、郵便番号データを RDF に変換したものがあります。
 
 

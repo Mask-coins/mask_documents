@@ -1,3 +1,4 @@
 __all__ = [
-    "mask_kb"
+    "mask_kb",
+    "rdf"
 ]
