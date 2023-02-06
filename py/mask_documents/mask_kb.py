@@ -3,12 +3,11 @@ import pprint
 
 from rdflib import Graph, URIRef
 from rdflib.query import Result
-from resource.ttl_open import load as load_resource
 
-DIR_mo = "../../ontology"
-DIR_mc = "../../category"
-DIR_mr = "../../resource"
-DIR_mm = "../../math"
+DIR_mo = "rdf/ontology"
+DIR_mc = "rdf/category"
+DIR_mr = "rdf/resource"
+DIR_mm = "rdf/math"
 PREFIX = {
     "mo": "https://github.com/Mask-coins/mask_documents/ontology/",
     "mc": "https://github.com/Mask-coins/mask_documents/category/",
@@ -69,7 +68,7 @@ class TripleLoader(object):
 
     @classmethod
     def load_resource(cls):
-        cls._load_files(load_resource())
+        cls._load(DIR_mr)
 
     @classmethod
     def load_ken_all(cls):
