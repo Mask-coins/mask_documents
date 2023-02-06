@@ -3,6 +3,7 @@ import pprint
 
 from rdflib import Graph, URIRef
 from rdflib.query import Result
+from resource.ttl_open import load as load_resource
 
 DIR_mo = "../../ontology"
 DIR_mc = "../../category"
@@ -49,6 +50,16 @@ class TripleLoader(object):
                     cls._Graph.parse(file_path, format='turtle')
 
     @classmethod
+    def _load_files(cls,file_list):
+        for file_path in file_list:
+            if file_path.endswith(".ttl"):
+                if file_path not in cls._Done:
+                    cls._Done[file_path] = False
+                if not cls._Done[file_path]:
+                    cls._Graph.parse(file_path, format='turtle')
+                    cls._Done[file_path] = True
+
+    @classmethod
     def load_ontology(cls):
         cls._load(DIR_mo)
 
@@ -58,7 +69,7 @@ class TripleLoader(object):
 
     @classmethod
     def load_resource(cls):
-        cls._load(DIR_mr)
+        cls._load_files(load_resource())
 
     @classmethod
     def load_ken_all(cls):
