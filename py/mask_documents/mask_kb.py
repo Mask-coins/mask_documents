@@ -1,4 +1,5 @@
 import os
+import pprint
 
 from rdflib import Graph, URIRef
 from rdflib.query import Result
@@ -6,16 +7,18 @@ from rdflib.query import Result
 DIR_mo = "../../ontology"
 DIR_mc = "../../category"
 DIR_mr = "../../resource"
+DIR_mm = "../../math"
 PREFIX = {
     "mo": "https://github.com/Mask-coins/mask_documents/ontology/",
     "mc": "https://github.com/Mask-coins/mask_documents/category/",
     "mr": "https://github.com/Mask-coins/mask_documents/resource/",
+    "mm": "https://github.com/Mask-coins/mask_documents/math/",
 }
 
 
 def _check():
     g = Graph()
-    for d in [DIR_mo, DIR_mc, DIR_mr]:
+    for d in [DIR_mm]: #for d in [DIR_mo, DIR_mc, DIR_mr, DIR_mm]:
         for filename in os.listdir(d):
             if filename.endswith(".ttl"):
                 file_path = os.path.join(d, filename)
@@ -25,7 +28,8 @@ def _check():
     print(len(ret))
     st = set()
     for s,p,o in ret:
-        st.add(s)
+        st.add((s,p,o))
+    return st
 
 
 class TripleLoader(object):
@@ -121,7 +125,6 @@ class TripleLoader(object):
         node_head = URIRef(PREFIX["mr"]+head)
         cls._tree_call(node_head, p, 0, max_depth-1)
 
-
     @classmethod
     def _tree_call_rev(cls, o:URIRef, p:URIRef, depth: int, max_depth: int):
         if max_depth < 0:
@@ -137,11 +140,15 @@ class TripleLoader(object):
         node_head = URIRef(PREFIX["mr"]+head)
         cls._tree_call_rev(node_head, p, 0, max_depth-1)
 
-
+    @classmethod
+    def query(cls, query):
+        cls.get_graph().query(query)
 
 
 if __name__ == "__main__":
-    t = TripleLoader()
-    t.show_category_tree()
+     t = TripleLoader()
+     t.show_category_tree()
     # t.show_region_tree(max_depth=10)
     # t.show_tree_rev("ChukotkoKamchatkanLanguages", URIRef(PREFIX["mo"]+"parentLanguage"))
+    #ret = _check()
+    #pprint.pprint(ret)
