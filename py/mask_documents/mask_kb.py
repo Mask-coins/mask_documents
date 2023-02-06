@@ -4,10 +4,11 @@ import pprint
 from rdflib import Graph, URIRef
 from rdflib.query import Result
 
-DIR_mo = "./rdf/ontology"
-DIR_mc = "./rdf/category"
-DIR_mr = "./rdf/resource"
-DIR_mm = "./rdf/math"
+_DIR = os.path.join(os.path.abspath(os.path.dirname(__file__)))
+_DIR_mo = _DIR + "./rdf/ontology"
+_DIR_mc = _DIR + "./rdf/category"
+_DIR_mr = _DIR + "./rdf/resource"
+_DIR_mm = _DIR + "./rdf/math"
 PREFIX = {
     "mo": "https://github.com/Mask-coins/mask_documents/ontology/",
     "mc": "https://github.com/Mask-coins/mask_documents/category/",
@@ -18,7 +19,7 @@ PREFIX = {
 
 def _check():
     g = Graph()
-    for d in [DIR_mm]: #for d in [DIR_mo, DIR_mc, DIR_mr, DIR_mm]:
+    for d in [_DIR_mm]: #for d in [DIR_mo, DIR_mc, DIR_mr, DIR_mm]:
         for filename in os.listdir(d):
             if filename.endswith(".ttl"):
                 file_path = os.path.join(d, filename)
@@ -60,19 +61,19 @@ class TripleLoader(object):
 
     @classmethod
     def load_ontology(cls):
-        cls._load(DIR_mo)
+        cls._load(_DIR_mo)
 
     @classmethod
     def load_category(cls):
-        cls._load(DIR_mc)
+        cls._load(_DIR_mc)
 
     @classmethod
     def load_resource(cls):
-        cls._load(DIR_mr)
+        cls._load(_DIR_mr)
 
     @classmethod
     def load_ken_all(cls):
-        cls._load(DIR_mr+"/ken_all")
+        cls._load(_DIR_mr + "/ken_all")
 
     @classmethod
     def get_graph(cls):
