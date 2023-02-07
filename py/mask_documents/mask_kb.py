@@ -153,7 +153,7 @@ class TripleLoader(object):
 
     @classmethod
     def query(cls, query):
-        cls.get_graph().query(query)
+        return cls.get_graph().query(query)
 
 
 if __name__ == "__main__":
